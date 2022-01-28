@@ -4,14 +4,6 @@ https://www.crazy-numbers.com/en/12130
 Number 12130 morse code: .---- ..--- .---- ...-- -----
 https://number.academy/12130
 
-(12130) Mousa = 1999 RD146 = 1998 HE44
-Discovered at Socorro on 1999-09-09 by LINEAR.
-(12130) Mousa = 1999 RD146
-
-Ahmed Shaker Mousa (b. 1984) is a finalist in the 2002 Intel International Science and Engineering Fair for his medicine and health project. He attends the Avon Grove High School, Lincoln University, Pennsylvania, U.S.A. [Ref: Minor Planet Circ. 46106]
-
-https://www.minorplanetcenter.net/db_search/show_object?object_id=12130
-
 1, 1, 9, 169, 6513, 382449, 33949369, 4083320409, 654225568353, 132856897394785, 33620948951783145, 10322993203249787529, 3791611637554126839505, 1638719968206448148183889
 https://oeis.org/A012130
 
