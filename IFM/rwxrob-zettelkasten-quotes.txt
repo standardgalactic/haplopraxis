@@ -1,0 +1,735 @@
+/README.md
+# Personal Zettelkasten of `@rwxrob`
+
+Hi I'm Rob Muhlestein from http://rwxrob.tv. This is my personal, public
+Zettelkasten repository. It contains stuff on pretty much any topic
+I feel like writing about, that I'm good with being public. I'm a very
+ Markdown
+Showing the top two matches
+Last indexed 9 days ago
+20210502051234/README.md
+# Isolated Zettelkasten Repos are Searchable
+
+One great advantage of creating a single GitHub repository for
+Zettelkasten repos is that the search against that repo is limited to
+the content under that Zettelkasten, which has already been grouped in a
+ Markdown
+Showing the top two matches
+Last indexed on May 2, 2021
+20210502045853/README.md
+This readability carries over even if that Markdown is written on paper,
+which you should do as a part of the [Zettelkasten Method]. In fact,
+this zettel contains a rather long link to search for all references of
+the ZK method:
+
+```markdown
+... a part of the [Zettelkasten Method]. In fact, ...
+ Markdown
+Showing the top two matches
+Last indexed on May 2, 2021
+20211025042345/README.md
+* CommonMark, Pandoc, Vim, Git, GitHub
+* Modified Zettelkasten method 
+* Priorities:
+  * Absolute freedom to use any platform (or no platform)
+* <https://www.youtube.com/c/rwxrob/search?query=Zettelkasten>
+* <https://github.com/rwxrob/zet/search?q=zettelkasten>
+ Markdown
+Showing the top three matches
+Last indexed on Oct 25, 2021
+20210911133049/README.md
+be gleaned from their usage instead of having to get them right up
+front.
+
+Because of this, I've decided to use tags over categories in my
+zettelkasten content organization. I've also decided not to include
+At one time I was against tagging since it has been abused by other
+zettelkasten 'tools' that remove the cognitive process of regularly
+ Markdown
+Showing the top two matches
+Last indexed on Sep 11, 2021
+20210502052620/README.md
+When I first was considering all the unique identifiers to pick from
+today to compliment the ones Luhmann used for Zettelkasten I wanted
+something that could be created simply and done with pen and paper. The
+to use GMT/Zulu time. Within a single Zettelkasten it is guaranteed
+never to conflict ever.
+
+But the brilliance is in the shortness and ability to easily see when
+ Markdown
+Showing the top two matches
+Last indexed on Oct 13, 2021
+20211019142228/README.md
+# "Poor Men Zettelkasten with Go"
+
+Thanks to lousenti for sharing this project he stumbled upon. I know of
+(and so much better than a fucking Discord bot).
+
+Related:
+
+* <https://golangexample.com/poor-men-zettelkasten-with-golang/>
+
+Tags:
+
+    #zettelkasten #knowledge #golang #projects
+ Markdown
+Showing the top three matches
+Last indexed on Oct 19, 2021
+20210912113644/README.md
+# Zettelkasten Static Site Generator for Web
+
+Been thinking about <https://boost.rwxrob.tv> and what to point it at
+and realizing it is about time to get some HTML content out of the
+zettelkasten that I maintain so that I can make it more readable and
+ Markdown
+Showing the top two matches
+Last indexed on Sep 12, 2021
+20210503173348/README.md
+# GitHub Zettelkasten Live Commit Notifications
+
+If a person has their web browser open on your Zettelkasten GitHub repo
+--- even in the background --- and you commit to it while they have it
+open it will send a system notification containing the commit message.
+ Markdown
+Showing the top match
+Last indexed on May 3, 2021
+20210502004642/README.md
+# ZettelRepos, Zettelkasten with Just Git and GitHub
+
+The ZettelKasten Method is attributed to
+  other assets should go into their own `asset` Zettelkasten (and repo)
+  because they usually will be referenced by many other Zettels.
+ Markdown
+Showing the top three matches
+Last indexed on Aug 14, 2021
+
+20210830044203/README.md
+# Zettelkasten User/Reader Assistance Ideas
+
+Obviously, searching through a zettelkasten is the most important tool
+to provide to consumers of a zettelkasten, but there are a few other
+tools that I think I would want myself to keep track of my interaction
+ Markdown
+Showing the top three matches
+Last indexed on Aug 30, 2021
+20210810144945/README.md
+# Niklas Luhmann, Father of Zettelkasten
+
+* <https://luhmann.surge.sh>
+* <https://niklas-luhmann-archiv.de/nachlass/zettelkasten>
+ Markdown
+Showing the top two matches
+Last indexed on Aug 14, 2021
+20210508172717/README.md
+Just noticed that there is at least a 30 second delay from the moment a
+new Zettelkasten repo is added until anything in it shows up in
+searches. Still that is pretty damn fast.
+
+[[*GitHub and ZettelKasten*]](/20210502004642)
+ Markdown
+Showing the top two matches
+Last indexed on May 8, 2021
+20211021013059/README.md
+# Q: Can I fork your zet/zettelkasten?
+
+📺 <https://youtu.be/S4b6nYhQmMs>
+
+1. You can fork `cmd-zet` and do whatever you want (Apache license)
+1. You can fork (copy) of `zet` (full zettelkasten content) but that is all
+ Markdown
+Showing the top two matches
+Last indexed on Oct 21, 2021
+20210515171252/README.md
+# Zettelkasten Brings Peace of Mind
+
+The greatest advantage of Zettelkasten is being about to let go of an
+ Markdown
+Showing the top two matches
+Last indexed on May 15, 2021
+20210502141203/README.md
+# How do you take notes like that?
+
+I use my interpretation of the [Zettelkasten Method][zk] on GitHub. This
+dozen searchable, shareable, and flexible Zettelkasten repos.
+
+[zk]: /20210502004642
+[b]: <https://github.com/rwxrob/boost>
+ Markdown
+Showing the top two matches
+Last indexed 2 days ago
+20210502062135/README.md
+# Zettelkasten Feeling of Freedom
+
+There's something really freeing about following the Zettelkasten
+method. It just seems like it syncs so well with my thought process
+already. I feel zero guilt writing about whatever I feel like at the
+ Markdown
+Showing the top match
+Last indexed on May 2, 2021
+20210927124848/README.md
+* Progressive Web App
+* Zettelkasten / KEG Node
+* Software Package
+* Scripts Repository
+* YouTube
+
+I already have some specific ones:
+* rwx.gg (PWA with Boost and badges)
+* skilstak.io (PWA with CYOA / Easter eggs)
+* Zettelkasten, Private
+ Markdown
+Showing the top two matches
+Last indexed on Sep 27, 2021
+20210807171010/README.md
+A set of key utilities has emerged that I use daily to keep this all
+running, the Zettelkasten, with Twitch, and GitHub, and YouTube, and
+Twitter.
+
+Here are the main ones (but they all need more work):
+
+* ***`zet`*** - Zettelkasten
+* ***`yt`*** - YouTube
+ Markdown
+Showing the top two matches
+Last indexed on Aug 8, 2021
+20210805235321/README.md
+# What Size Zettelkasten Notebook Do You Prefer?
+
+📺 <https://youtu.be/mGvkbEBixQA>
+
+I use a 8.5" x 5.5" sketchbook with a spiral binding that I can clip a
+screen and think better away from the screen (usually).
+
+Be sure to read Luhmann's own words before looking at anything else
+claiming to be about Zettelkasten method.
+
+Related:
+
+* <https://luhmann.surge.sh>
+ Markdown
+Showing the top two matches
+Last indexed on Aug 30, 2021
+
+20210502062346/README.md
+# Power Searching with Zettelkasten and GitHub
+
+One of the most amazing advantages of combining Zettelkasten and GitHub
+is the exhaustive search possibilities. This applies equally do doing
+`git -i grep ...` searches from the command line. No more wondering
+ Markdown
+Showing the top match
+Last indexed on May 2, 2021
+20211118124527/README.md
+  * Schedule review and planning
+  * Summary of zettelkasten additions
+  * Identify VOD highlights needed (if any)
+  * Creating Helm charts for sample KRAM apps (10:30am)
+  * Run (12:45pm)
+* Zettelkasten Review
+* Schedule
+  * Lunar eclipse and full moon on Friday 19th
+ Markdown
+Showing the top two matches
+Last indexed on Nov 18, 2021
+20210813153813/README.md
+# ZettelMark: Tags Line
+
+While tags were included in Luhmann's original zettelkasten, he did not
+* Avoid redundant tags when content itself would suffice
+
+```markdown
+     #100daysofcode #zettelkasten
+```
+
+Note that only 72 total columns (runes) are allowed for the tags line
+ Markdown
+Showing the top two matches
+Last indexed on Aug 13, 2021
+20210502144831/README.md
+Luhmann had an amazing method with his Zettelkasten, but if he had been
+able to track all the changes to each of his slips of paper (without
+just looking at all the stuff that had been lined out) he might have
+found Nirvana. By keeping a Zettelkasten as a Git repo I automatically
+get revision history, which, when applied to personal knowledge source
+ Markdown
+Showing the top two matches
+Last indexed on May 2, 2021
+20210829150249/README.md
+should encourage people to link --- not to a specific zettel --- but to
+searches of your zettelkasten so that they can find the most recent and
+* [20210502044431](/20210502044431/) Outbound Hyperlinking Has Always Been a Bad Idea
+
+Tags:
+
+    #zettelkasten #links #advantages #knowledge
+ Markdown
+Showing the top two matches
+Last indexed on Aug 30, 2021
+20210902121646/README.md
+I've gone back and forth on how to include quotes in my zettelkasten
+repo. At one point I had them all in a huge file, but that doesn't work
+because I cannot comment or further describe my interpretation of the
+creating more formal content from the zettel itself. I would randomly
+pick from several quotes for the chapter headings of a book about
+roughly the same topic.
+
+    #quotes #zettelkasten #tips #writing
+ Markdown
+Showing the top two matches
+Last indexed on Sep 2, 2021
+20210809232046/README.md
+In the end, I prefer a simple, searchable knowledge base over books, for
+now. This means my priority is getting good content (in rough form) into
+my Zettelkasten notes and eventually drawing on that content for
+creating more formal publications such as books, blogs, and formal
+curriculum.
+
+It is more probable, that I will release my Zettelkasten content to
+someone to use to create a book from it.
+ Markdown
+Showing the top two matches
+Last indexed on Aug 30, 2021
+20210814193933/README.md
+# ZettelRepo Sizing Estimates
+
+Luhmann's original zettelkasten had over 90,000 zettels in it filling 27
+In fact, we have enough room to not only store the full content of the
+entire Zettelkasten, but also several specific indexes including an
+every-word index. Even if we triple that number we are still *under* 1
+ Markdown
+Showing the top two matches
+Last indexed on Aug 14, 2021
+20220124060043/README.md
+  everything you need on install that tends to not fit into your pretty
+  package management solution.
+
+* `zet` This is your zettelkasten repo. Some people call it their
+  more about Niklaus Luhmann's Zettelkasten method for more about
+  organization.
+
+* `lab` This is the equivalent of a black notebook or "code book" or
+ Markdown
+Showing the top two matches
+Last indexed 10 days ago
+20210528151635/README.md
+# Zettelkasten Personal SEO Strategy
+
+After about a month of following my GitHub version of Luhmann's
+Zettelkasten method I have realized that the GitHub search functionality
+combined with simple `grep` and `git grep -i` makes keeping a registry
+ Markdown
+Showing the top two matches
+Last indexed on May 28, 2021
+
+20210814153043/README.md
+zettel. Discovering the Zettelkasten method really gave me permission to
+force the most granular possible knowledge organization without fear of
+missing out on everything that comes from larger compositions.
+
+Zettelkasten says, "it's not finished, but will be, stop worrying" and
+that is the permission I needed to make the constraints I have. "It's
+ Markdown
+Showing the top two matches
+Last indexed on Aug 14, 2021
+20210607144236/README.md
+You can just mention it through the appropriate channels and log it into
+your GitHub private Zettelkasten log and move on. If no one does
+minute to make a log entry for a particular discovery. I've found that
+the Zettelkasten repo approach is best because the files are all
+ Markdown
+Showing the top two matches
+Last indexed on Jun 7, 2021
+20211021000814/README.md
+* Tesla announced a while ago it is moving to Austin
+* Exercism is now "official mentoring platform" for GDN
+
+Zettelkasten:
+*  20211019051056 Control-Plane Components are Executables in Pods
+*  20211019060642 `podman` Adds `systemd` to All Containers
+*  20211019142228 "Poor Men Zettelkasten with Go"
+ Markdown
+Showing the top two matches
+Last indexed on Oct 21, 2021
+20210812144154/README.md
+# Zettelkasten Search Approaches
+
+The way I manage a Zettelkasten-ish repo is as simple as possible
+ Markdown
+Showing the top two matches
+Last indexed on Aug 12, 2021
+20210831212439/README.md
+category, for better or worse. "Don't encourage him," I can hear them
+saying.
+
+* [20210831211125](/20210831211125/) Zettelkasten Zettel Categories
+ Markdown
+Showing the top match
+Last indexed on Aug 31, 2021
+20210831212200/README.md
+can be a tag.
+
+* [20210831211125](/20210831211125/) Zettelkasten Zettel Categories
+ Markdown
+Showing the top match
+Last indexed on Aug 31, 2021
+20210504213727/README.md
+1. Live Coding and Conversation on Twitch
+1. Zettelkasten on GitHub
+1. Zettelcasting on YouTube
+1. "The Hard Way", No Shortcuts
+ Markdown
+Showing the top match
+Last indexed on May 5, 2021
+20210814183237/README.md
+# Why No zet SSG Actions to Render?
+
+Because a Zettelkasten repo is meant to be personal knowledge base, not
+ Markdown
+Showing the top match
+Last indexed on Aug 30, 2021
+20210515043534/README.md
+# The Obsidian "Tool" Does NOT Follow Zettelkasten
+
+It's a fucking sham. First of all you have to "point" it at directory.
+ Markdown
+Showing the top match
+Last indexed on May 15, 2021
+20210502142148/README.md
+included in such things. Therefore, it makes sense to keep `log` and
+`zet` separate Zettelkasten repos.
+ Markdown
+Showing the top match
+Last indexed on May 2, 2021
+
+20210911134131/README.md
+command as is even though `zk` is far easier to type. This allows the
+`#zk` tag to be used to refer to zettelkasten stuff in general, while
+ Markdown
+Showing the top match
+Last indexed on Sep 11, 2021
+20210723205230/README.md
+This is a play on words for "zettelkasten".
+
+* *zettel* means "slip"
+* "kasten" means box
+* One big, long-running live stream
+ Markdown
+Showing the top match
+Last indexed on Aug 30, 2021
+20210830135145/README.md
+# Removing the Q: from Questions in Zettelkasten
+
+I thought having the Q: in the title would be cute. And like Ryan Dahl
+ Markdown
+Showing the top match
+Last indexed on Aug 30, 2021
+20210809015157/README.md
+* `<username>.github.io` - special GitHub pages repo
+* `zet` - main Zettelkasten notes repo
+* `dot` - personal configuration files and smaller scripts
+ Markdown
+Showing the top match
+Last indexed on Aug 8, 2021
+20210831211401/README.md
+* [20210813202844](/20210813202844/) ZettelMark: Raster Image Figures
+* [20210831211125](/20210831211125/) Zettelkasten Zettel Categories
+ Markdown
+Showing the top match
+Last indexed on Aug 31, 2021
+20210502160907/README.md
+# Expiring Knowledge By Design
+
+Having a granular Zettelkasten Git/GitHub repo means that each zettel
+ Markdown
+Showing the top match
+Last indexed on May 2, 2021
+20210810012911/README.md
+# Do You Have More Than One Zettelkasten?
+
+📺 <https://youtu.be/VIRB4IBTqLc>
+
+I have three currently, one that is public, one that is private, and
+ Markdown
+Showing the top match
+Last indexed on Aug 30, 2021
+20211230175445/README.md
+Exchange Grid. Any level beyond this would include some form of caching
+their current and latest Zettelkasten notes or manifest in order to
+identify what they have that is new to talk about.
+ Markdown
+Showing the top match
+Last indexed on Dec 30, 2021
+20210824174231/README.md
+This is why "org mode" is shit: lock in. Following the Zettelkasten
+method that I use (or any variation) frees you from lock in of any kind,
+ Markdown
+Showing the top match
+Last indexed on Aug 24, 2021
+20210722153018/README.md
+from beginning to end. This is one moment where the zettelkasten
+approach really shines. The same content can be composed into different
+forms.
+
+* Learn Like a Hacker
+ Markdown
+Showing the top match
+Last indexed on Sep 27, 2021
+
+20210624034740/README.md
+Next, I'll have to figure out a way to easily transfer them into my
+Zettelkasten notes, but even just reading them when I get back and
+ Markdown
+Showing the top match
+Last indexed on Jun 24, 2021
+20210519171100/README.md
+web sites. This is particularly true now that I maintain my Zettelkasten
+repos there. When someone discovers you, they discover *all* of you in a
+ Markdown
+Showing the top match
+Last indexed on May 19, 2021
+20210813202844/README.md
+original Zettelkasten method (although I'm sure he might have considered
+it had he had a greater need for and ability to create images).
+ Markdown
+Showing the top match
+Last indexed on Aug 31, 2021
+20210901035314/README.md
+> horse-shit for the abstract. Oh wait, I don't give a shit about
+> academia. What am I even ranting about?
+
+    #zettelkasten #rants #tips
+ Markdown
+Showing the top match
+Last indexed on Sep 1, 2021
+20210502191220/README.md
+place to dump, shape, and share knowledge as it happens with as little
+overhead as possible. I'm going to start using that term a lot more. A
+Zettelkasten repo is just one form or method of maintaining a *knowledge
+ Markdown
+Showing the top match
+Last indexed on May 2, 2021
+20210502063028/README.md
+# Do I Even Need a Zettelkasten Register?
+
+After realizing how powerful the search possibilities are I'm finding it
+ Markdown
+Showing the top match
+Last indexed on May 2, 2021
+20210831211125/README.md
+# Zettelkasten Zettel Categories
+
+I've falling into the practice of using the titles as a means of
+ Markdown
+Showing the top match
+Last indexed on Sep 1, 2021
+20210814154834/README.md
+ZetDex is the flat-file indexing system used for ZettelKasten repos.
+Most files have an initial column that is the zettel isosec ID. (The
+only exception to this is `changes`.) The `zet` utility has one command
+ Markdown
+Showing the top match
+Last indexed on Aug 14, 2021
+20210830175443/README.md
+critically important to consumption of figures as knowledge within the
+zettelkasten approach, mostly because they were never part of the
+original and I want it clear to everyone that the titled zettel is, in
+ Markdown
+Showing the top match
+Last indexed on Aug 30, 2021
+20210814174946/README.md
+will eventually enable the publication of live zettelkasten services
+including through Kubernetes.
+
+Also see:
+
+* [20210814193933](/20210814193933/) ZettelRepo Sizing Estimates
+ Markdown
+Showing the top match
+Last indexed on Aug 14, 2021
+
+20210822192942/README.md
+while I support the need for math in zettelkasten notes, suddenly
+imbuing dollar signs with more meaning causes them to all have to be
+ Markdown
+Showing the top match
+Last indexed on Aug 22, 2021
+20210910155818/README.md
+* No camera (since it takes screen space)
+* Notes are combined with my others (zettelkasten)
+* Prioritize CKAD -> CKA -> CKS
+ Markdown
+Showing the top match
+Last indexed on Sep 18, 2021
+20210813032817/README.md
+* `zet` - personal zettelkasten management
+* `youtube` - YouTube API integration
+* `twitch` - Twitch API integration
+ Markdown
+Showing the top match
+Last indexed on Aug 13, 2021
+20211028000216/README.md
+* Google to train 40 million cloud-natives
+
+Zettels:
+
+*  20211021013059 Q: Can I fork your zet/zettelkasten? 
+*  20211021015124 Q: What do you think about CodeAcademy and DataCamp?
+ Markdown
+Showing the top match
+Last indexed on Oct 28, 2021
+20210813154054/README.md
+hyperlinking is not conducive to a paper-compatible zettelkasten method
+since hyperlinks mask the URL and therefore the ID itself. Conversion to
+text for descriptions (such as on YouTube) therefore does not include
+ Markdown
+Showing the top match
+Last indexed on Aug 13, 2021
+20211204184513/README.md
+   1. Write in CommonMark and Pandoc Markdown
+   1. Create Your Own Zettelkasten Method
+   1. Use Git for Source Management
+ Markdown
+Showing the top match
+Last indexed 21 days ago
+20210502200952/README.md
+# KEG Considerations Combined with Zettelkasten
+
+Since discovery and adoption of the ZK knowledge repo approach I have
+ Markdown
+Showing the top match
+Last indexed on May 2, 2021
+20210502161423/README.md
+don't have to be a developer to benefit. In fact, the [Zettelkasten on
+GitHub](/20210502004642) makes this value apply to *anyone* who writes
+ Markdown
+Showing the top match
+Last indexed on May 2, 2021
+20211117093311/README.md
+cloud-native landscape even though they came out roughly the same time).
+
+I'm sure just writing this in my personal zettelkasten will stir up the
+stinking "political" zombie crabs to attack yet again, but I don't give
+ Markdown
+Showing the top match
+Last indexed on Nov 17, 2021
+20210830040933/README.md
+# Latest Boost Writing Method: Zettelkasten CYOA
+
+> ⚠️
+> This approach largely failed. People want a "main quest" and to be
+ Markdown
+Showing the top match
+Last indexed 24 days ago
+
+20210908152237/README.md
+several lies, and produced illegal PRs of my zettelkasten repo and
+encourages his "followers" to do the same, and actually cares about his
+ Markdown
+Showing the top match
+Last indexed on Sep 8, 2021
+20210929111128/README.md
+Here are the different approaches summarized so far (and strewn about in
+my zettelkasten notes:
+
+**Boost Badges.** Based almost directly on the Boy Scouts of America
+ Markdown
+Showing the top match
+Last indexed on Sep 29, 2021
+20211025030214/README.md
+☎️ **taking calls from discord guests** [taking.calls]  When the phone is on you can call from Discord stage and talk on the stream with me. That status will have the topic we are talking about.
+
+⌨️ **writing in zettelkasten, working on books** [writing]  My first love is writing. Since the time I wrote all those Dungeons and Dragons adventure campaigns from scratch I have never been satisfied. My fingers hurt writing this now (because of of how unnecessarily verbose all of this is). I was the college kid who submitted 25 pages when only eight were required (but somehow my professors still liked me, even let me turn in a final two weeks late once). The books I'm currently working on are listed in their own Twitch About section. You can chat away about whatever you want because I very likely am not looking at the chat at all. Just don't expect a response from me. Typo corrections are very welcome. People have said they really appreciate seeing the thought process behind the writing in real-time. I would agree. I like watching others do it as well.
+ Markdown
+Showing the top match
+Last indexed 2 days ago
+transcripts/streaming_transcript_2022-01-16_12-03-12.srt
+thing of although you can save transcripts
+that go with your streams I've been saving
+them to my zettelkasten Revo so that I can
+ SubRip Text
+Showing the top match
+Last indexed 7 days ago
+transcripts/streaming_transcript_2022-01-20_12-00-19.srt
+if we had set in that the root at the root
+of our zettelkasten if we had a director
+called doc
+
+161
+00:50:44,603 --> 00:50:51,175
+I really want to I really want to put cake
+back in the front all I can guess is just
+sharing zettelkasten Intellicast in or just
+as little as just a notch notice so there is
+ SubRip Text
+Showing the top two matches
+Last indexed 7 days ago
+transcripts/streaming_transcript_2022-01-23_12-14-43.srt
+that has been working as down has been
+working for a full year is dumping shit into
+my zettelkasten that is help me to know and
+you have no idea I've been able to go share
+03:25:51,541 --> 03:25:58,216
+we might be able to just use tagging and
+zettelkasten in trees and say
+ SubRip Text
+Showing the top two matches
+Last indexed 7 days ago
+transcripts/streaming_transcript_2022-01-25_20-51-27.srt
+thing on it there's my zettelkasten ID so
+that's number 15 and here's how to do it and
+there's the video that goes with it all
+the note-taking method is called
+zettelkasten and and here's here's where you
+can read about it I made videos about it
+ SubRip Text
+Showing the top two matches
+Last indexed 7 days ago
+transcripts/streaming_transcript_2022-01-23_00-03-21.srt
+and then we have with the messy lab and no
+taking stuff that's all very messy and if
+there's one thing zettelkasten is Miss Messi
+put all that stuff in the zettelkasten and
+then it is settled and then I and then I
+linked to the lab and then the lab I was
+okay to go check out the slab if you need
+ SubRip Text
+Showing the top two matches
+Last indexed 7 days ago
+transcripts/streaming_transcript_2022-01-21_11-43-50.srt
+currently in zettelkasten my jet content and
+my any of my get repos that begin with the
+word lab those are the three places that I
+here or I could actually write it up in my
+zettelkasten and learn how to search and
+learn that you agree with that yeah because
+if you don't learn that if I can give you
+ SubRip Text
+Showing the top two matches
+Last indexed 7 days ago
+transcripts/streaming_transcript_2022-01-17_19-01-28.srt
+everything I ever wrote about zettelkasten
+right there
+
+1309
+03:36:41,446 --> 03:36:44,005
+it's an aerosol built-in to get him
+ SubRip Text
+Showing the top match
+Last indexed 7 days ago
+
+transcripts/streaming_transcript_2022-01-21_23-52-54.srt
+it's very cool that you're doing that stuff
+yeah we're going to do some zettelkasten
+stuff tomorrow
+
+143
+ SubRip Text
+Showing the top match
+Last indexed 7 days ago
+transcripts/streaming_transcript_2022-01-16_12-33-50.srt
+crazy amount of work just life story is a
+lot of work and God knows I have a whole
+zettelkasten full of Lessons Learned on this
+ SubRip Text
+Showing the top match
+Last indexed 7 days ago
