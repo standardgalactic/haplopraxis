@@ -1,11 +1,11 @@
-Everything about number 12130
-https://www.crazy-numbers.com/en/12130
+# Properties of the number 12,698.
 
-Number 12130 morse code: .---- ..--- .---- ...-- -----
-https://number.academy/12130
+The number 12698 is not a prime number. The closest prime numbers are 12697, 12703.
 
-1, 1, 9, 169, 6513, 382449, 33949369, 4083320409, 654225568353, 132856897394785, 33620948951783145, 10322993203249787529, 3791611637554126839505, 1638719968206448148183889
-https://oeis.org/A012130
+Factorization 2 * 7 * 907 = 12698
 
-2, 3, 4, 5, 6, 7, 8, 18, 40, 50, 60, 78, 101, 151, 319, 382, 784, 1732, 1918, 8855, 11245, 11960, 12130, 18533, 22718, 23365, 24253, 24549, 25324, 30178, 53718, 380976, 424861
-https://oeis.org/A055557
+Divisors of number 12698 are 1 , 2 , 7 , 14 , 907 , 1814 , 6349 , 12698
+
+Total Divisors 8.
+
+Sum of Divisors 21792.
