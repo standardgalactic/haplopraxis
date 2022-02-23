@@ -1,0 +1,8 @@
+alias ='alias'
+alias ='cd'
+alias ='less'
+alias ='ls'
+alias ='mkdir'
+alias ='echo $(moontop)'    
+alias ='touch'   
+alias ='vim'
