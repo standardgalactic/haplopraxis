@@ -2449,7 +2449,6 @@ Apicomplexa
 Apicomplexan life cycle
 Apicoplast
 Aplasia
-Apocalypse
 Apocalypticism
 Apodosis (linguistics)
 Apollo 1
@@ -6532,7 +6531,6 @@ Chicago Tribune
 Chicago White Sox
 Chicago metropolitan area
 Chichen Itza
-Chick-fil-A
 Chicken as biological research model
 Chicken or the egg
 Chickpea
@@ -6964,7 +6962,6 @@ Clause (logic)
 Clausen's formula
 Clausius theorem
 Clavicle
-Clay
 Clay Mathematics Institute
 Clay Tarver
 Clay tablet
@@ -8136,6 +8133,7 @@ Contaminants
 Contamination
 Contemplation
 Contemporary Latin
+Contemporary Western philosophy
 Contemporary classical music
 Contemporary folk music
 Contemporary history
@@ -8607,6 +8605,7 @@ Cotangent sheaf
 Cotangent space
 Cotlar–Stein lemma
 Cotter (pin)
+Cottidae
 Cotton
 Cotyledon
 Cot–caught merger
@@ -9617,6 +9616,7 @@ Data sharing
 Data sheet
 Data sonification
 Data storage
+Data storage device
 Data stream management system
 Data structure
 Data structure alignment
@@ -10472,6 +10472,7 @@ Digital data
 Digital document
 Digital ecosystem
 Digital electronic circuit
+Digital electronics
 Digital geometry
 Digital image
 Digital image processing
@@ -11743,7 +11744,6 @@ Effusion
 Efrem Zimbalist Jr.
 Efuse
 Egalitarianism
-Egg
 Egg (biology)
 Egg Shaped Fred
 Egg as food
@@ -12258,7 +12258,6 @@ Emotion
 Emotion recognition
 Emotional Intelligence
 Emotional affair
-Emotional intelligence
 Emotional intimacy
 Emotional security
 Empathy gap
@@ -12770,7 +12769,6 @@ Escape response
 Escarpment
 Esko Ukkonen
 Esoteric
-Esoteric programming language
 Esparbec
 Esparbès de Lussan family
 Esparreguera
@@ -13517,7 +13515,6 @@ Fair coin
 Fair division
 Fair use
 Fair value
-Faith
 Faith Fyles
 Faith literate
 Fake Britain
@@ -14682,6 +14679,7 @@ Function (music)
 Function application
 Function approximation
 Function composition
+Function composition (computer science)
 Function constant
 Function fitting
 Function key
@@ -16267,6 +16265,7 @@ Grothendieck topology
 Grothendieck trace formula
 Grothendieck–Lefschetz trace formula
 Grotrian diagram
+Grotto sculpin
 Ground (electricity)
 Ground beetle
 Ground glass joint
@@ -16775,7 +16774,6 @@ Head (Unix)
 Head (linguistics)
 Head direction cell
 Head directionality
-Head of government
 Head restraint
 Headframe
 Headlamp
@@ -17355,6 +17353,7 @@ History of evolutionary thought
 History of fluid mechanics
 History of free and open-source software
 History of general relativity
+History of geodesy
 History of human thought
 History of hypnosis
 History of logic
@@ -18955,6 +18954,7 @@ Integer (computer science)
 Integer factorization
 Integer matrix
 Integer programming
+Integer ring
 Integer sequence
 Integrability conditions for differential systems
 Integrable system
@@ -19597,6 +19597,7 @@ J. L. Austin
 J. W. T. Redfearn
 JAI (programming language)
 JB the First Lady
+JFET
 JOONE
 JRK Property Holdings
 JSON-RPC
@@ -20051,7 +20052,6 @@ Jung's theorem
 Juno Award for Roots & Traditional Album of the Year – Group
 Junshi
 Jupiter
-Jupiter's Legacy (TV series)
 Jupiter's Legacy (comic)
 Jupiter's Moon
 Jupiter's moons in fiction
@@ -21143,6 +21143,7 @@ Leasehold estate
 Least-angle regression
 Least-squares spectral analysis
 Least-squares support-vector machine
+Least-squares support vector machine
 Least-upper-bound property
 Least absolute deviations
 Least common multiple
@@ -21169,7 +21170,6 @@ Leech embryogenesis
 Lee–Yang theorem
 Lefschetz fixed-point theorem
 Left-cancellative
-Left-wing politics
 Left corner
 Left corner parser
 Leftmost derivation
@@ -22048,7 +22048,6 @@ List of presidents of the Geological Society of London
 List of presidents of the Geologists' Association
 List of primary state highways in Virginia shorter than one mile
 List of probability distributions
-List of programming languages
 List of programming languages by type
 List of proper names of stars
 List of protein secondary structure prediction programs
@@ -22122,7 +22121,6 @@ List of the last monarchs in Oceania
 List of thermal conductivities
 List of thermodynamic properties
 List of things named Venetian
-List of things named after A. P. J. Abdul Kalam
 List of things named after Alan Turing
 List of things named after Arthur Cayley
 List of things named after B. R. Ambedkar
@@ -22843,6 +22841,7 @@ MBD1
 MEPE
 META II
 MIC-1
+MIDI
 MINQUE
 MIPS-X
 MIPS architecture
@@ -24936,7 +24935,6 @@ Military uniform
 Military–industrial complex
 Milk
 Milkshape 3D
-Milky Way
 Mill's Methods
 Milla Baldo-Ceolin
 Millenarianism
@@ -25600,6 +25598,7 @@ Multi-spectral phase coherence
 Multi-stage fitness test
 Multi-surface method
 Multi-task learning
+Multi-threshold CMOS
 Multi-touch
 Multi-trials technique
 Multi-user software
@@ -25706,7 +25705,6 @@ Multivariate linear regression
 Multivariate normal distribution
 Multivariate polynomial
 Multivariate random variable
-Multiverse
 Mumbai
 Mummy forgeries
 Munchkin cat
@@ -26231,6 +26229,7 @@ NSPACE
 NTFS
 NTIME
 NTRUSign
+NULL convention logic
 NVDLA
 NWA National Heavyweight Championship
 NYPD Blue (season 10)
@@ -26640,7 +26639,6 @@ NetCDF
 NetDragon Websoft
 NetHack
 NetLogo
-NetWare
 Net (mathematics)
 Net force
 Net national income
@@ -26737,6 +26735,7 @@ Neuronal migration
 Neuropathology
 Neuropeptide
 Neuropharmacology
+Neurophilosophy
 Neurophysiologist
 Neurophysiology
 Neuroplasticity
@@ -26747,7 +26746,6 @@ Neuropsychology
 Neuropsychopharmacology
 Neuroregeneration
 Neuroscience
-Neuroscience of free will
 Neuroscience of music
 Neuroscientist
 Neurosurgery
@@ -26923,6 +26921,7 @@ Niklaus Wirth
 Nikola Tesla electric car hoax
 Nikolaas Tinbergen
 Nikolai Lobachevsky
+Nikolai Vavilov
 Nile
 Nilometer
 Nilpotent matrix
@@ -27175,6 +27174,7 @@ Nonstandard dialect
 Nonterminal symbol
 Nonverbal communication
 Nonviolence
+Nonvolatile BIOS memory
 Noogony
 Noology
 Noon: 22nd Century
@@ -27325,7 +27325,6 @@ Nqthm
 NuMI
 Nu (mythology)
 Nuclear accident
-Nuclear and radiation accidents and incidents
 Nuclear bomb
 Nuclear chain reaction
 Nuclear chemistry
@@ -27949,6 +27948,7 @@ Operator algebra
 Operator associativity
 Operator monotone function
 Operator overloading
+Operator ring
 Operator theory
 Operators in C and C++
 Ophthalmic nerve
@@ -28629,7 +28629,6 @@ Panhellenic sanctuary
 Panjer recursion
 Pannonia
 Pannonian Basin
-Pansexuality
 Panspermia
 Pantheon (gods)
 Pantheon (religion)
@@ -29173,6 +29172,7 @@ Pensacola metropolitan area
 Pensky–Martens closed-cup test
 Pentadactyl limb
 Pentadiagonal matrix
+Pentagon
 Pentagonal number theorem
 Pentamethylmolybdenum
 Pentaradial symmetry
@@ -29236,6 +29236,7 @@ Performance art
 Performance indicator
 Performance per watt
 Performance right
+Performativity
 Performing arts
 Performing rights
 Peri Bathous, Or the Art of Sinking in Poetry
@@ -34877,7 +34878,6 @@ Selenne Bañuelos
 Selenocysteine
 Self-actualization
 Self-adjoint operator
-Self-agency
 Self-avoiding walk
 Self-awareness
 Self-categorization theory
@@ -35867,7 +35867,6 @@ Snyder County, Pennsylvania
 Snyder v. Phelps
 So Weird
 So Weit Wie Noch Nie
-Soap
 Soap bubble
 Soap dispenser
 Soap shaker
@@ -36138,7 +36137,6 @@ Somite
 Somitogenesis
 Somitomere
 Sommerfeld expansion
-Son of man
 Song Yoo-geun
 Song cycle
 Songs of Ireland (Brobdingnagian Bards album)
@@ -38935,6 +38933,7 @@ The Rascals (English band)
 The Rascals (producers)
 The Recording Academy
 The Reign of Terror (Doctor Who)
+The Restaurant at the End of the Universe
 The Return of the Tall Blond Man with One Black Shoe
 The Rewrite
 The Ring Finger
@@ -39393,6 +39392,7 @@ Three bean salad
 Three hares
 Threshing
 Threshing machine
+Threshold voltage
 Thriller film
 Thriving
 Thrombolysis
@@ -41256,6 +41256,7 @@ Vatican City
 Vatican leaks scandal
 Vaud
 Vaughan's identity
+Vavilov center
 Vecchia approximation
 Vector
 Vector-valued function
@@ -41687,6 +41688,7 @@ Von Bertalanffy function
 Von Klitzing constant
 Von Kármán constant
 Von Mises–Fisher distribution
+Von Neumann algebra
 Von Neumann architecture
 Von Neumann bicommutant theorem
 Von Neumann entropy
@@ -42171,7 +42173,6 @@ Wikipedia and fact-checking
 Wikipedia community
 Wikipedia coverage of the COVID-19 pandemic
 Wikipedia in culture
-Wikipedia logo
 Wikipedian in residence
 Wikipediocracy
 Wikiquote
@@ -43250,7 +43251,6 @@ Category:Approximations
 Category:April Fools' Day
 Category:April Fools' Day jokes
 Category:Arabic-language Netflix original programming
-Category:Arabic-language television shows
 Category:Archaeological controversies
 Category:Archaeological forgery
 Category:Archaeology of material culture
