@@ -172,7 +172,6 @@
 2011 Canadian census
 2011 G20 Cannes summit
 2011 Walsh Cup
-2014 celebrity nude photo leak
 2015 FIFA Women's World Cup qualification – UEFA Group 4
 2016 Canadian census
 2017 Las Vegas shooting
@@ -653,6 +652,7 @@ Absolutism (European history)
 Absorbance
 Absorbed dose
 Absorbing Markov chain
+Absorbing set
 Absorptance
 Absorption (chemistry)
 Absorption (electromagnetic radiation)
@@ -810,6 +810,7 @@ Achaemenid Empire
 Acheulean
 Achilles
 Achiroe
+Achromatic number
 Achtung Baby
 Aciclovir
 Acid anhydride
@@ -1450,6 +1451,7 @@ Alexander Koenig
 Alexander Luria
 Alexander Oppenheim
 Alexander Pichushkin
+Alexander Polyhistor
 Alexander Pope
 Alexander Stepanov
 Alexander polynomial
@@ -2650,7 +2652,6 @@ Arabic Speech Corpus
 Arabic alphabet
 Arabic diacritics
 Arabic machine translation
-Arabic numerals
 Arabic script
 Arabic script in Unicode
 Arabinoxylan
@@ -4522,7 +4523,6 @@ Bilateralism
 Bilateria
 Bilinear form
 Bilinear map
-Bilingual education
 Bilirubin
 Bill (law)
 Bill Clinton
@@ -5051,7 +5051,6 @@ Boom! Studios
 Boombox
 Boomer Esiason
 Boomerang (American TV series)
-Boomerang (roller coaster)
 Boomslang
 Boomtown (festival)
 Boomtown (music festival)
@@ -5076,6 +5075,7 @@ Borde–Guth–Vilenkin theorem
 Borel algebra
 Borel conjecture
 Borel determinacy theorem
+Borel equivalence relation
 Borel functional calculus
 Borel measure
 Borel regular measure
@@ -5098,6 +5098,7 @@ Born again
 Born equation
 Born of Unknown Father
 Borneo
+Bornological space
 Born–Haber cycle
 Born–Oppenheimer approximation
 Boron porphyrins
@@ -5376,7 +5377,6 @@ Brusselator
 Brussels
 Brussels Airlines
 Brussels and the European Union
-Brutalist architecture
 Brute fact
 Brute-force search
 Bryce (software)
@@ -6242,7 +6242,6 @@ Category:Anthocyanins
 Category:Anthocyanins metabolism
 Category:Anti-Slavic sentiment
 Category:Anti-gravity
-Category:Anti-national sentiment
 Category:Anticyclones
 Category:Antisemitism
 Category:Apicomplexa
@@ -6270,7 +6269,6 @@ Category:Arithmetic dynamics
 Category:Arithmetic geometers
 Category:Arithmetic geometry
 Category:Article 8 of the European Convention on Human Rights
-Category:Articles that may contain original research from June 2019
 Category:Articles with example ALGOL 60 code
 Category:Articles with example ALGOL 68 code
 Category:Articles with example Ada code
@@ -7717,7 +7715,6 @@ Category:Triangulation (geometry)
 Category:Trigonometric functions
 Category:Trigonometry
 Category:Trojan Leaders
-Category:Trojans
 Category:Tropical geometry
 Category:Troupe of the Comédie-Française
 Category:Tsunami
@@ -7803,8 +7800,6 @@ Category:Word-sense disambiguation
 Category:Works about Edmund Husserl
 Category:Works of art
 Category:X86 architecture
-Category:Xenophobia
-Category:Xenophobia by continent
 Category:Yeasts
 Category:Z notation
 Category:Zeppelins
@@ -7863,7 +7858,9 @@ Caucasus
 Caucasus Mountains
 Cauchy boundary condition
 Cauchy distribution
+Cauchy filter
 Cauchy matrix
+Cauchy net
 Cauchy problem
 Cauchy process
 Cauchy sequence
@@ -8266,7 +8263,6 @@ Charlotte Watts
 Charlotte Wedell
 Charlottesville, Virginia
 Charm (programming language)
-Charnali railway station
 Charophyceae
 Charophyta
 Chart datum
@@ -8637,8 +8633,6 @@ Chunking (division)
 Church (congregation)
 Church Fathers
 Church Row, Hampstead
-Church of Notre-Dame of Dijon
-Church service
 Church–Rosser theorem
 Church–Turing thesis
 Chuu-Lian Terng
@@ -8719,8 +8713,6 @@ Cisco Systems
 Cistercian Order
 Cistercian numerals
 Cistercians
-Citizens' assembly
-City University of New York
 City district
 City of Brussels
 City of Joy
@@ -8850,7 +8842,6 @@ Clay Tarver
 Clay tablet
 Clayton Christensen
 Claytonia gypsophiloides
-Cleaning
 Cleanliness
 Cleanroom suitability
 Cleanth Brooks
@@ -8881,7 +8872,6 @@ Clifford semigroup
 Clifton nanolitre osmometer
 Climate
 Climate as complex networks
-Climate change denial
 Climate networks
 Climate system
 Climatology
@@ -9122,7 +9112,6 @@ Coincidence
 Cointegration
 Cokurtosis
 Cold War (1979–1985)
-Cold War Kids
 Cold case
 Cold fusion
 Cold seep
@@ -9400,8 +9389,6 @@ Comparative method
 Comparative method (linguistics)
 Comparative mythology
 Comparative psychology
-Comparative religion
-Comparative religion (disambiguation)
 Comparative statics
 Compare-and-swap
 Comparison
@@ -9481,8 +9468,10 @@ Complete market
 Complete metric space
 Complete orthogonal system
 Complete set of invariants
+Complete space
 Complete spatial randomness
 Complete theory
+Complete topological vector space
 Completed infinity
 Completed-contract method
 Completely Fair Scheduler
@@ -10259,7 +10248,6 @@ Controller/Peripheral
 Controller/agent
 Controller/agent (technology)
 Controller/agent architecture
-Controversies of The MDNA Tour
 Conurbation
 Convection
 Convection–diffusion equation
@@ -10764,7 +10752,6 @@ Crossing number (graph theory)
 Crossing number (knot theory)
 Crosslinking of DNA
 Crossover (genetic algorithm)
-Crotch
 Crotone
 Crow (comics)
 Crowds on Demand
@@ -10938,7 +10925,6 @@ Cued speech
 Cufflink
 Culinary name
 Culm (botany)
-Cult following
 Cultigen
 Cultivar
 Cultural Revolution
@@ -11049,8 +11035,10 @@ CycL
 Cycad
 Cycle
 Cycle (graph theory)
+Cycle basis
 Cycle decomposition (graph theory)
 Cycle per second
+Cycle space
 Cycles per instruction
 Cyclic compound
 Cyclic executive
@@ -11095,6 +11083,7 @@ Cysteine
 Cytoarchitecture
 Cytocentrifuge
 Cytoplasm
+Cytosine
 Cytoskeleton
 Cytotrophoblast
 Cytotrophoblastic shell
@@ -11141,6 +11130,8 @@ DNA
 DNA computing
 DNA methylation
 DNA microarray
+DNA motif
+DNA nanotechnology
 DNA replication
 DNA sequence
 DNA sequencing
@@ -11247,12 +11238,6 @@ Dark Adapted Eye
 Dark Adrenaline
 Dark Adventure
 Dark Ages (historiography)
-Dark Ballet
-Dark Basin
-Dark Castle
-Dark Edge
-Dark Energy (album)
-Dark Energy Digital
 Dark Energy Spectroscopic Instrument
 Dark Energy Survey
 Dark Horse Comics
@@ -11378,9 +11363,7 @@ Data Lords
 Data Management Inc.
 Data Mining Extensions
 Data Mining and Knowledge Discovery
-Data Panik Etcetera
 Data Plane Development Kit
-Data Protection (Jersey) Law
 Data Protection API
 Data Protection Act 1998
 Data Protection Act 2018
@@ -11840,6 +11823,7 @@ Degenerate distribution
 Degenerate form
 Degenerate matter
 Degree (angle)
+Degree (graph theory)
 Degree (temperature)
 Degree matrix
 Degree of a field extension
@@ -11897,14 +11881,10 @@ Deming regression
 Demis Hassabis
 Demise of the Crown
 Demisexuality
-Demo (music)
 Democratic Republic of the Congo
 Democratic centralism
 Democritus
-Demographics of Europe
 Demographics of India
-Demography
-Demography of India
 Demolition
 Demolition (2015 film)
 Demolition (Ryan Adams album)
@@ -12118,18 +12098,13 @@ Deuterostome
 Deutsch limit
 Deutsches Institut für Normung
 DevOps
-Develop
-Developed world
-Developing world
 Development
-Development (album)
 Development Assistance Committee
 Development aid
 Development communication
 Development economics
 Development geography
 Development hell
-Development of Final Fantasy XV
 Development of Windows Vista
 Development of the New Testament canon
 Development of the Old Testament canon
@@ -12559,10 +12534,7 @@ Dirichlet's approximation theorem
 Dirichlet's theorem on arithmetic progressions
 Dirichlet's theorem on primes in arithmetic progressions
 Dirname
-Dirty, dangerous and demeaning
 Disaccharide
-Disadvantaged
-Disappearing blonde gene
 Disappearing-filament pyrometer
 Disappointment
 Discernment
@@ -12674,7 +12646,6 @@ Dispute resolution
 Disquisitiones Arithmeticae
 Disruptive innovation
 Disruptive technologies
-Dissaving
 Dissertation Abstracts
 Dissipation
 Dissipative system
@@ -12926,12 +12897,7 @@ Doob's martingale convergence theorems
 Doob's martingale inequality
 Doob–Dynkin lemma
 Doob–Meyer decomposition theorem
-Doom (2016 video game)
-Doom (franchise)
-Doom 3
-Doom metal
-Doomsday cult
-Doomsday rule
+Doomsday Clock
 Dopamine
 Doppler radar
 Doppler spectroscopy
@@ -14666,6 +14632,7 @@ Equator
 Equatorial bulge
 Equestrian vaulting
 Equestrianism
+Equiangular polygon
 Equiareal map
 Equichordal point
 Equicontinuity
@@ -14955,6 +14922,7 @@ Euler's totient function
 Euler-Poincaré characteristic
 EulerOS
 Eulerian circuit
+Eulerian graph
 Eulerian path
 Euler–Bernoulli beam theory
 Euler–Lagrange equation
@@ -15125,6 +15093,7 @@ Ex (text editor)
 Ex nihilo nihil fit
 Ex/vi
 Exa-
+Exact coloring
 Exact differential equation
 Exact functor
 Exact science
@@ -16388,6 +16357,7 @@ Fractal
 Fractal curve
 Fractal derivative
 Fractal dimension
+Fractal geometry
 Fractal-generating software
 Fractals
 Fraction
@@ -17351,6 +17321,8 @@ Genetic epidemiology
 Genetic epistemology
 Genetic genealogy
 Genetic information
+Genetic linkage
+Genetic marker
 Genetic pathway
 Genetic programming
 Genetic recombination
@@ -17802,8 +17774,6 @@ Glossary of computer hardware terms
 Glossary of computer science
 Glossary of computer software terms
 Glossary of contract bridge terms
-Glossary of graph theory
-Glossary of graph theory terms
 Glossary of machine vision
 Glossary of medicine
 Glossary of meteorology
@@ -18373,6 +18343,7 @@ Group conflict
 Group decision-making
 Group dynamics
 Group family
+Group generator
 Group homomorphism
 Group isomorphism
 Group method of data handling
@@ -18414,6 +18385,9 @@ Gualtiero Piccinini
 Guanajuato
 Guangdianyuan station
 Guangdong
+Guanine
+Guanosine
+Guanosine triphosphate
 Guard rail
 Guardafui Channel
 Guarded suspension
@@ -19798,7 +19772,6 @@ How Your Mother Met Me
 How to Die in Oregon
 How to Dismantle an Atomic Bomb
 How to Do Things With Words
-How to Get Away with Murder
 How to Get Away with Murder (season 1)
 How to Get Away with Murder (season 2)
 How to Get Away with Murder (season 3)
@@ -20527,7 +20500,6 @@ Image segmentation
 Image sensor
 Image stabilization
 Image tracing
-Imagery of nude celebrities
 Imaginary line
 Imaginary number
 Imaginary part
@@ -20631,6 +20603,7 @@ Incertae sedis
 Inch of mercury
 Incidence (epidemiology)
 Incidence (geometry)
+Incidence (graph)
 Incidence algebra
 Incidence geometry
 Incidence matrix
@@ -21694,6 +21667,7 @@ Isocyanide
 Isoelectric focusing
 Isogonal
 Isogonal figure
+Isogonal polygon
 Isolated point
 Isolated system
 Isolation (database systems)
@@ -22671,6 +22645,7 @@ Kaye A. de Ruiz
 Kaye Stacey
 Kazachstania yasuniensis
 Kazakhstan
+Kazimierz Kuratowski
 Kazuo Abe
 Kazuo Uzuki
 Kazushige Abe
@@ -22886,7 +22861,9 @@ Klara Löbenstein
 Klaus-Dieter Kirchstein
 Klavdija Kutnar
 Klavdiya Latysheva
+Kleene algebra
 Kleene fixed-point theorem
+Kleene hierarchy
 Kleene star
 Kleene's recursion theorem
 Kleene–Rosser paradox
@@ -22992,6 +22969,7 @@ Kolmogorov extension theorem
 Kolmogorov forward equations
 Kolmogorov microscales
 Kolmogorov's inequality
+Kolmogorov's normability criterion
 Kolmogorov's three-series theorem
 Kolmogorov's two-series theorem
 Kolmogorov's zero–one law
@@ -24101,6 +24079,7 @@ Lipid bilayer
 Lippmann electrometer
 Lipschitz continuity
 Lipschitz domain
+Liquefaction
 Liquefied petroleum gas
 Liquid
 Liquid air
@@ -24651,7 +24630,6 @@ Little Indian field mouse
 Little Johnny
 Little League World Series
 Little Orphan Annie
-Little Richard
 Little Rock, Arkansas
 Little Women (2019 film)
 Little finger
@@ -25352,7 +25330,6 @@ Macrocycle
 Macrocystis
 Macrocystis pyrifera
 Macroeconomics
-Macroevolution
 Macrograph
 Macrolife
 Macrometer
@@ -26730,6 +26707,7 @@ Metakit
 Metal
 Metal Stocks in Society report
 Metal gate
+Metal matrix composite
 Metal phosphine complex
 Metal-organic compound
 Metal-phosphine complex
@@ -27181,6 +27159,7 @@ Minimum redundancy feature selection
 Minimum spanning tree
 Mining
 Minipermeameter
+Minisatellite
 Minister of State for Immigration
 Ministry (government department)
 Ministry of Foreign Affairs
@@ -29007,6 +28986,7 @@ Non-empty set
 Non-ferrous metal
 Non-ferrous metals
 Non-governmental organization
+Non-helical models of DNA structure
 Non-human
 Non-human electoral candidates
 Non-inertial reference frame
@@ -29097,6 +29077,7 @@ Nonstandard analysis
 Nonstandard calculus
 Nonstandard dialect
 Nonterminal symbol
+Nontrivial divisor
 Nonviolence
 Nonvolatile BIOS memory
 Noogony
@@ -29120,11 +29101,13 @@ Norma Hernández
 Normal (geometry)
 Normal basis
 Normal bundle
+Normal closure (group theory)
 Normal component
 Normal cone
 Normal crossing singularity
 Normal distance
 Normal distribution
+Normal extension
 Normal force
 Normal form (abstract rewriting)
 Normal form (dynamical systems)
@@ -29283,10 +29266,12 @@ Nuclear weapons of the United Kingdom
 Nucleated village
 Nucleation
 Nucleic acid
+Nucleic acid design
 Nucleic acid double helix
 Nucleic acid metabolism
 Nucleic acid methods
 Nucleic acid quantitation
+Nucleic acid secondary structure
 Nucleic acid sequence
 Nucleic acid structure
 Nucleic acid thermodynamics
@@ -31583,6 +31568,7 @@ Phosphoric acid
 Phosphoroscope
 Phosphorous acid
 Phosphorus
+Phosphorus oxoacid
 Phosphorus pentafluoride
 Phosphorylation
 Photo-oxidation of polymers
@@ -31890,6 +31876,7 @@ Plan
 Plan (drawing)
 Planar SAT
 Planar angles
+Planar graph
 Plancherel theorem
 Planck (crater)
 Planck (spacecraft)
@@ -32762,6 +32749,7 @@ Primary palate
 Primary production
 Primary school
 Primary sector of the economy
+Primary sequence
 Primary source
 Primary storage
 Primary transcript
@@ -33683,7 +33671,6 @@ Punishment
 Punk'd
 Puntal dels Llops
 Pupa
-Puppet state
 Purchase order
 Purchasing
 Pure economic loss
@@ -34184,6 +34171,7 @@ R800 (CPU)
 RAM parity
 RATS (software)
 RCA TK-40/41
+RE (complexity)
 README
 REPLAY (software)
 RGtk2
@@ -34719,6 +34707,7 @@ Reciprocity (electromagnetism)
 Reciprocity (social psychology)
 Reciprocity law
 Recognition (international law)
+Recognizable language
 Recognizable set
 Recombinant DNA
 Recommerce
@@ -34969,6 +34958,7 @@ Reiko Sakamoto (mathematician)
 Rein Taagepera
 Reincarnation
 Reinforced concrete
+Reinforced plastic
 Reinforcement
 Reinforcement learning
 Reinhard Moratz
@@ -35259,6 +35249,7 @@ Resistive touchscreen
 Resistivity
 Resistor
 Resolution (logic)
+Resolvent (Galois theory)
 Resolvent formalism
 Resolvent set
 Resource
@@ -37191,7 +37182,6 @@ Sewerage
 Sewing machine
 Sewing needle
 Sex hormone
-Sex in film
 Sex offender
 Sex offender registries in the United States
 Sex offender registry
@@ -37564,6 +37554,7 @@ Silicon Graphics
 Silicon Valley
 Silicon Valley (season 1)
 Silicon carbide
+Silicon carbide fibers
 Silicon compiler
 Silicon controlled rectifier
 Silicon dioxide
@@ -37708,6 +37699,7 @@ Sinocentrism
 Sint Maarten
 Sint-Agatha-Berchem
 Sintashta culture
+Sintering
 Sinus tubercle
 Sinusoidal function
 Sinusoidal plane wave
@@ -38439,6 +38431,7 @@ Speargun
 Specht's theorem
 Special case
 Special classes of semigroups
+Special conformal transformation
 Special file
 Special function
 Special functions
@@ -39321,6 +39314,7 @@ Structural isomer
 Structural level
 Structural linguistics
 Structural load
+Structural motif
 Structural pattern
 Structural pluralism
 Structural proof theory
@@ -39745,14 +39739,17 @@ Surface area
 Surface ectoderm
 Surface force
 Surface integral
+Surface metrology
 Surface mining
 Surface of general type
 Surface of revolution
 Surface phenomenon
 Surface power density
+Surface roughness
 Surface science
 Surface stress
 Surface tension
+Surface texture
 Surface water
 Surface-supplied diving
 Surfactant
@@ -40665,6 +40662,7 @@ Termite
 Ternary Golay code
 Ternary compound
 Ternary operation
+Ternary plot
 Ternary tree
 Terra nullius
 Terrace (earthworks)
@@ -41449,6 +41447,7 @@ Thurston conjecture
 Thutmose (prince)
 Thutmose (sculptor)
 Thylacine
+Thymine
 Thyra Eibe
 Thyroglossal duct
 Thyroid
@@ -42713,6 +42712,7 @@ Uniform distribution (discrete)
 Uniform polyhedron
 Uniform scaling
 Uniform space
+Uniform tiling
 Uniformed Services University of the Health Sciences
 Uniformed services
 Uniformization theorem
@@ -42803,7 +42803,6 @@ Universal C*-algebra
 Universal Character Set characters
 Universal Decimal Classification
 Universal Declaration of Human Rights
-Universal Postal Union
 Universal Product Code
 Universal Systems Language
 Universal Time
@@ -42938,6 +42937,7 @@ Upside down goggles
 Upstream and downstream (DNA)
 Uptime
 Upwards exposed uses
+Uracil
 Uralic languages
 Urania Propitia
 Uranium
