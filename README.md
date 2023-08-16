@@ -10,7 +10,7 @@ master is now named 
 Cut and paste Wikipedia watchlist 
 
 From
-- Indistinguishable from magic (IFM)
+- Indistinguishable From Magic (IFM)
 
 https://github.com/standardgalactic/Haplopraxis/blob/%EE%AD%8F%EE%AD%91%EE%AD%88%EE%AD%8C%EE%AD%80%EE%AD%91%EE%AD%98/IFM/Wikipedia-watchlist.txt
 
