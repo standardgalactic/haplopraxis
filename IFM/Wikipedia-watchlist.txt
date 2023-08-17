@@ -171,6 +171,7 @@ $O$
 1,3-dipole
 1,4-Benzoquinone
 1,4-Butanediol
+1,4-Butynediol
 1,4-Dichlorobenzene
 1,4-Dioxane
 1,4-Naphthoquinone
@@ -2613,6 +2614,7 @@ Acetyl cyanide
 Acetyl group
 Acetyl hypochlorite
 Acetyl-CoA
+Acetylacetone
 Acetylation
 Acetylcarnosine
 Acetylcholine
@@ -4132,10 +4134,6 @@ Affixation
 Affliction
 Affliction (Hamilton novel)
 Affliction Clothing
-Affliction Entertainment
-Affliction: Banned
-Affliction: Day of Reckoning
-Afflictions: Culture & Mental Illness in Indonesia
 Affluenza
 Affordable Care Act
 Affordable housing
@@ -4165,7 +4163,6 @@ Afloat
 Afloat (Maupassant)
 Afloat and Ashore
 Afocal system
-Afogados da Ingazeira
 Afolabi Obafemi
 Afolabi Olabimtan
 Afolkey, Illinois
@@ -5394,6 +5391,7 @@ Alexei Starobinsky
 Alexei Vasilievich Shubnikov
 Alexei Zamolodchikov
 Alexey Chervonenkis
+Alexey Favorsky
 Alexia Massalin
 Alexios I Komnenos
 Alexis Carrel
@@ -6326,7 +6324,6 @@ Aloisius Lilius
 Alok Bhargava
 Alona Ben-Tal
 Alone
-Alone in Love
 Alone: The Home Recordings of Rivers Cuomo
 Alonei Abba
 Alonzo Church
@@ -6526,6 +6523,7 @@ AlterEgo
 Alteratie
 Alteration
 Altered Beast
+Altered Schaedler flora
 Altered chord
 Altered level of consciousness
 Altered state of consciousness
@@ -14800,7 +14798,6 @@ Barely Famous
 Barely Famous Hits
 Barely Legal
 Barely Legal (Banksy)
-Barely Legal (Family Guy)
 Barely Legal (magazine)
 Barely Legal Drivers
 Barely Real
@@ -20141,6 +20138,7 @@ Bristle
 Bristol
 Bristol Built-up Area
 Bristol Channel
+Bristol Rail Campaign
 Bristol, Connecticut
 Brit milah
 Britain
@@ -20655,7 +20653,6 @@ Building material
 Building-integrated photovoltaics
 BuildingSMART
 Buildings
-Buildings and architecture of Brighton and Hove
 Built Classroom environment
 Built Environment.
 Built environment
@@ -21046,6 +21043,7 @@ Buttress roots
 Butuan
 Butyl group
 Butyric acid
+Butyrolactone
 Butyrometer
 Buy NZ Made
 Buy-to-play
@@ -21251,6 +21249,7 @@ C3 linearization
 C3D Toolkit
 C4 (mixtape)
 C4.5 algorithm
+C4H6O2
 C89 (C version)
 C90 (C version)
 C99
@@ -21610,7 +21609,6 @@ CYCLADES
 CYK algorithm
 CZ
 CZ 75
-CZW Cage of Death
 Ca2+/calmodulin-dependent protein kinase
 Cab
 Cab Calloway
@@ -26244,6 +26242,7 @@ Cholinesterase
 Cholula (Mesoamerican site)
 Cholula, Puebla
 Chomatodus
+Chomp
 Chomsky grammar
 Chomsky hierarchy
 Chomsky normal form
@@ -34814,7 +34813,6 @@ Cultural
 Cultural Marxism
 Cultural agility
 Cultural amalgamation
-Cultural and political image of Hillary Clinton
 Cultural anthropology
 Cultural appropriation
 Cultural area
@@ -34889,13 +34887,9 @@ Culture hero
 Culture industry
 Culture jamming
 Culture media
-Culture of Connecticut
-Culture of Greece
 Culture of Romania
 Culture of Turkey
-Culture of Yemen
 Culture of fear
-Culture of the Northwest Territories
 Culture plate
 Culture shock
 Culture theory
@@ -34904,7 +34898,6 @@ Culture-historical archaeology
 Cultured meat
 Cultured neuronal network
 Cultus humanus
-Cum Cake
 Cum hoc ergo propter hoc
 CumFreq
 Cumaná
@@ -35375,6 +35368,7 @@ Cyclopropanation
 Cyclopropane
 Cyclopropane fatty acid
 Cyclopropanes
+Cyclopropanone
 Cyclopropene
 Cyclops
 Cyclopteridae
@@ -39881,6 +39875,7 @@ Diborane
 Dibs in Search of Self
 Dibujo
 Dicalcium phosphate
+Dicarbonyl
 Dicarboxylic acid
 Dicastery
 Dicastery for Divine Worship and the Discipline of the Sacraments
@@ -40456,6 +40451,7 @@ Dijkstra–Scholten algorithm
 Dijon
 Dikarya
 Dikaryon
+Diketone
 Dilatant
 Dilation (morphology)
 Dilation (operator theory)
@@ -41399,6 +41395,7 @@ Disjunction elimination
 Disjunction introduction
 Disjunctive logic programming
 Disjunctive normal form
+Disjunctive sum
 Disjunctive syllogism
 Disjunctive union
 Disjunctivism
@@ -43049,7 +43046,6 @@ Drinker paradox
 Drinkers Mass
 Drinking
 Drinking Buddies
-Drinking Solo
 Drinking fountain
 Drinking fountains in Philadelphia
 Drinking game
@@ -43905,6 +43901,7 @@ EDI
 EDIF
 EDP Group
 EDRAM
+EDSAC
 EDVAC
 EE
 EE-9 Cascavel
@@ -44950,6 +44947,7 @@ Edward C. Stearns
 Edward C. Tolman
 Edward Chamberlin
 Edward Charles Pickering
+Edward Condon
 Edward D. Re
 Edward Dahlberg
 Edward Drinker Cope
@@ -50359,7 +50357,6 @@ Every
 Every Day Is Exactly the Same
 Every Man in His Humour
 Every Where Is Some Where
-Everybody Draw Mohammed Day
 Everybody's Golf
 Everyday
 Everyday I Write the Book
@@ -52395,6 +52392,8 @@ Fauxtography
 Fava of Manosque
 Favard operator
 Favard's theorem
+Favorskii reaction
+Favorskii rearrangement
 Fawwaz T. Ulaby
 Fawziya Abdoulkarim
 Fax
@@ -52582,7 +52581,6 @@ Feel Ghood Music
 Feel Good Hit of the Summer
 Feel Good Pilipinas
 Feel Good Time
-Feel Good to Die
 Feel It Still
 Feel It in My Bones
 Feel My Heart
@@ -52836,6 +52834,8 @@ Fernandoa adenophylla
 Fernico
 Fernique's theorem
 Ferns
+Ferranti
+Ferranti Mark 1
 Ferrara
 Ferrari
 Ferrers diagram
@@ -53637,7 +53637,6 @@ Finding Prince Charming
 Finding Sally
 Finding Santa
 Finding Sarah
-Finding Sarah: From Royalty to the Real World
 Finding Serenity
 Finding Sofia
 Finding Species
@@ -55383,6 +55382,7 @@ Forest Stewardship Council
 Forest View
 Forest View (Howard County, Maryland)
 Forest View High School
+Forest View High School (Illinois)
 Forest View High School, Tokoroa
 Forest View, Illinois
 Forest Whitaker
@@ -55571,41 +55571,6 @@ Formative assessment
 Formative epistemology
 Formatted text
 Formazine
-Former
-Former Admiralty House
-Former Aeroméxico Headquarters Building
-Former Arikabe-juku Honjin
-Former Australian dialling codes
-Former Lietuvos rytas rosters
-Former Presidents Act
-Former Residence of Deng Xiaoping
-Former Residence of Gan Xi
-Former Residence of Hu Yaobang
-Former Residence of Huang Xing
-Former Residence of Lei Feng
-Former Residence of Lu Xun (Shanghai)
-Former Residence of Mao Zedong
-Former Residence of Peng Dehuai
-Former Residence of Soong Ching-ling (Beijing)
-Former Residence of Xie Juezai
-Former Residence of Xu Guangda
-Former Residence of Xu Teli
-Former Residence of Zeng Guofan
-Former Residence of Zhou Enlai (Huai'an)
-Former Residence of the Weng Clan
-Former administrative divisions of Romania
-Former administrative units of Nepal
-Former administrative units of Pakistan
-Former aerodromes of Belgium
-Former attractions at Knott's Berry Farm
-Former cemeteries in Singapore
-Former constellation
-Former state routes in Pennsylvania
-Formerly Known
-Formerly Known as the Justice League
-Formerly Used Defense Sites
-Formerly Utilized Sites Remedial Action Program
-Formerly the Warlocks
 Formetorex
 Formic acid
 Formication
@@ -56181,7 +56146,6 @@ Frameworks supporting the polyhedral model
 Framing (construction)
 Framing (social sciences)
 Framing effect (psychology)
-Franca Basquetebol Clube
 Franca Brown
 France
 Frances A. Rosamond
@@ -56270,6 +56234,7 @@ Francistown
 Franciszka Themerson
 Francium
 Francium chloride
+Franck–Condon principle
 Franck–Hertz experiment
 Francmasonería
 Franco Berardi
@@ -56402,6 +56367,7 @@ Fraunhofer diffraction
 Fraunhofer lines
 Fraus (moth)
 Fraxinus
+Fraxinus ornus
 Frazione
 Fraïssé limit
 Freak
@@ -57166,7 +57132,6 @@ Frog galvanoscope
 Frogger
 Frogman
 From
-From Autumn to Ashes
 From Bedrooms to Billions
 From Dusk Till Dawn 3: The Hangman's Daughter
 From Dusk till Dawn
@@ -60711,6 +60676,7 @@ Germ layers
 Germ of a function
 Germ theory
 Germ theory of disease
+Germ-free animal
 Germaanse tale
 Germain Chardin
 Germain Henri Hess
@@ -61734,6 +61700,7 @@ Glycosyl donor
 Glycosyl hydrolase
 Glycosylamine
 Glycosylation
+Glycosylphosphatidylinositol
 Glycosyltransferase
 Glycosynthase
 Glyn Houston
@@ -61802,6 +61769,7 @@ Gnosiology
 Gnosis
 Gnosticism
 Gnotobiosis
+Gnotobiotic animal
 Gnutella
 Go
 Go (board game)
@@ -67720,7 +67688,6 @@ Helix
 Helix-turn-helix
 Hell
 Hell Is Other People
-Hell Is Other People (TV series)
 Hell Is Other Robots
 Hell and High Water (book)
 Helladic chronology
@@ -68936,6 +68903,7 @@ Hexamethylenediamine
 Hexamethylenetetramine
 Hexamethylphosphoramide
 Hexamethyltungsten
+Hexamine
 Hexane
 Hexapla
 Hexapoda
@@ -69167,7 +69135,6 @@ Hierarchy of Standards
 Hierarchy of evidence
 Hierarchy of hazard controls
 Hierarchy of roads
-Hierarchy of the Catholic Church
 Hierarchy problem
 Hierarchy theory
 Hieratic
@@ -74350,7 +74317,6 @@ In-network management
 In-phase and quadrature components
 In-place algorithm
 In-place matrix transposition
-In-soon Is Pretty
 In-system programming
 In2TV
 InPhase Technologies
@@ -74656,6 +74622,7 @@ Indiscernibles
 Indiscrete category
 Indiscrete space
 Indistinguishability obfuscation
+Indistinguishability quotient
 Indium
 Indium (111In) altumomab pentetate
 Indium (111In) capromab pendetide
@@ -76841,6 +76808,7 @@ Isochrone curve
 Isochronous
 Isochronous timing
 Isocrates
+Isocrotonic acid
 Isocyanate
 Isocyanide
 Isodiapher
@@ -78046,6 +78014,7 @@ Jeffree Star
 Jeffrey A. Rosen
 Jeffrey Epstein
 Jeffrey Goldstone
+Jeffrey I. Gordon
 Jeffrey P. Buzen
 Jeffrey Sachs
 Jeffrey Ullman
@@ -78724,6 +78693,7 @@ John Lurie
 John Macdonald (psychiatrist)
 John Mackintosh Howie
 John Macnaghten Whittaker
+John Makepeace Bennett
 John Martin Fischer
 John Mauchly
 John Maynard Keynes
@@ -81158,10 +81128,12 @@ Kervaire invariant
 Kerygma
 Kesington Kross
 Kestler Building
+Ketal
 Keteleeria
 Keti Tenenblat
 Ketone
 Ketose
+Keto–enol tautomerism
 Kettle (landform)
 Ketu (mythology)
 Ketuvim
@@ -82466,6 +82438,8 @@ Lacedaemon (mythology)
 Lacedaemonians
 Lacena Golding-Clarke
 Lacetani
+Lachrymator
+Lachrymatory agent
 Lack-of-fit sum of squares
 Laconia
 Laconophilia
@@ -84566,6 +84540,7 @@ Libya
 Libya (Greek myth)
 Libyan Civil War (2011)
 Libyan National Army
+Libyan civil war (2011)
 Libyco-Berber
 Libyco-Berber alphabet
 License
@@ -84774,7 +84749,6 @@ Liguria
 Ligurian Alps
 Ligurian Sea
 Like
-Like I'm Gonna Lose You
 Like a Rolling Stone
 Like button
 Likelihood
@@ -85333,6 +85307,7 @@ Liquor
 Lirael
 Liriodendron
 Lis Brack-Bernsen
+Lisa Bonet
 Lisa Fauci
 Lisa Goldberg
 Lisa Hensley (microbiologist)
@@ -86090,6 +86065,7 @@ Lobelia siphilitica
 Lobelia tupa
 Lobes of the brain
 Lobet Gott in seinen Reichen, BWV 11
+Lobry de Bruyn–Van Ekenstein transformation
 Lobsang Dolma Khangkar
 Lobster
 Lobster trap (finance)
@@ -88027,6 +88003,7 @@ Macbeath surface
 Macbeth
 Macdonald polynomials
 Macdonald triad
+Mace (spray)
 Macedon
 Macedonia
 Macedonia (Greece)
@@ -88580,6 +88557,7 @@ Major appliance
 Major basic protein
 Major depressive disorder
 Major histocompatibility complex
+Major prion protein
 Major scale
 Major sperm protein
 Major surgery
@@ -89036,6 +89014,7 @@ Mannheim distance
 Manning formula
 Mannitol
 Mannomustine
+Mannose
 Mannose receptor
 Mannus
 Manny Pacquiao
@@ -92771,6 +92750,7 @@ Mevalonate pathway
 Mevastatin
 Mew Island Lighthouse
 MewithoutYou
+Mex (mathematics)
 Mexica
 Mexican Air Force
 Mexican National Guard
@@ -92796,6 +92776,7 @@ Meyer Bockstein
 Meyer set
 Meyer wavelet
 Meyer's theorem
+Meyer–Schuster rearrangement
 Meylis Annaberdiyev
 Meyliservet Kadın
 Meyniel graph
@@ -93502,7 +93483,6 @@ Microsoft Notification Protocol
 Microsoft Office
 Microsoft Office 2000
 Microsoft Office 2003
-Microsoft Office 2007
 Microsoft Office 2010
 Microsoft Office 2016
 Microsoft Office 95
@@ -94205,6 +94185,7 @@ Minimal axioms for Boolean algebra
 Minimal clinically important difference
 Minimal coupling
 Minimal element
+Minimal genome
 Minimal group paradigm
 Minimal important difference
 Minimal logic
@@ -94245,6 +94226,7 @@ Minimum condition
 Minimum cut
 Minimum degree algorithm
 Minimum description length
+Minimum excludant
 Minimum information standard
 Minimum inhibitory concentration
 Minimum k-cut
@@ -95254,7 +95236,6 @@ Monetary economics
 Monetary system
 Monetary unit
 Money (The Office)
-Money Flower
 Money demand
 Money flow index
 Money laundering
@@ -95694,7 +95675,6 @@ Monthey
 Monthly
 Monthly Afternoon
 Monthly Ikki
-Monthly Magazine Home
 Monthly Notices of the Royal Astronomical Society
 Monthly Playboy
 Monthly Review
@@ -95776,6 +95756,7 @@ Moore determinant over a finite field
 Moore machine
 Moore matrix
 Moore method
+Moore neighborhood
 Moore's Law
 Moore's law
 Moore's paradox
@@ -97163,7 +97144,6 @@ My Belief: Essays on Life and Art
 My Beloved Arctic
 My Beloved Dearest
 My Beloved Juan
-My Beloved Sister
 My Beloved World
 My Best Days
 My Best Fiend
@@ -97198,7 +97178,6 @@ My Love Affair with Marriage
 My Love Is Cool
 My Love Is for Real
 My Love Story!!
-My Lovely Girl
 My Mother's Castle
 My Reality
 My Reason
@@ -100607,7 +100586,6 @@ Never Ever
 Never Ever Do This at Home
 Never Mind (video game)
 Never Mind the Balkans, Here's Romania
-Never Mind the Bollocks, Here's the Sex Pistols
 Never Mind the Breeze Blocks
 Never Mind the Hosen, Here's Die Roten Rosen
 Never Never
@@ -101130,12 +101108,16 @@ Nilsson model
 Nilus (mythology)
 Nim
 Nim (programming language)
+Nim-sum
 Nima Arkani-Hamed
 Nimaathap
+Nimatron
+Nimber
 Nimbostratus cloud
 Nimbus Sans
 Nimi Wariboko
 Nimona
+Nimrod (computer)
 Nimustine
 Nina Andreyeva
 Nina Bari
@@ -101897,6 +101879,7 @@ Normal mode
 Normal number
 Normal p-complement
 Normal plane (geometry)
+Normal play convention
 Normal polytope
 Normal pressure hydrocephalus
 Normal probability plot
@@ -104853,7 +104836,6 @@ Order of Nova Scotia
 Order of Oman
 Order of Omar Torrijos Herrera
 Order of Omega
-Order of Our Lady of Charity
 Order of Saint Augustine
 Order of Saint John (chartered 1888)
 Order of St Michael and St George
@@ -107837,6 +107819,7 @@ Patrick Ibrahim Yakowa
 Patrick J. Urda
 Patrick Leahy
 Patrick McGoohan
+Patrick Michael Grundy
 Patrick Morrisey
 Patrick Pearse
 Patrick Peterson
@@ -109755,6 +109738,7 @@ Phellinus pomaceus
 Phellodendron
 Phemonoe
 Phen
+Phenacyl bromide
 Phenakistiscope
 Phenanthrene
 Phenanthrenoid
@@ -113250,7 +113234,10 @@ Poseidium (Karpathos)
 Poseidon
 Poser
 Poser (software)
+Poset
 Poset category
+Poset game
+Poset games
 Posetal category
 Posidonia
 Posidonia oceanica
@@ -115059,6 +115046,7 @@ Propagation of uncertainty
 Propagule
 Propan-1-ol
 Propane
+Propargyl alcohol
 Proparoxytone
 Prope
 Propel (PHP)
@@ -117950,6 +117938,7 @@ Rainbow table
 Rainbow water snake
 Rainbow-independent set
 Rainer K. Sachs
+Rainer Ludwig Claisen
 Rainer Maria Rilke
 Rainer Weiss
 Rainfall
@@ -120668,6 +120657,7 @@ Richard F. Heck
 Richard Ferrour
 Richard Feynman
 Richard Friederich Arens
+Richard G. Rosner
 Richard Glazebrook
 Richard Gordon (theoretical biologist)
 Richard Graham-Vivian
@@ -121670,6 +121660,7 @@ Roland Dobrushin
 Roland Grubb Kent
 Roland Omnès
 Roland Speicher
+Roland Sprague
 Rolandas Pavilionis
 Rolando
 Rolando Aarons
@@ -122758,6 +122749,7 @@ SIGHUP
 SIGINT (POSIX)
 SIGTERM
 SIL International
+SILLIAC
 SIM card
 SIMBL
 SIMM
@@ -123793,7 +123785,6 @@ Sarah Frances Whiting
 Sarah Glaz
 Sarah J. Greenwald
 Sarah L. Waters
-Sarah Palin email hack
 Sarah Rees
 Sarah Rhodes
 Sarah Schulman
@@ -124394,7 +124385,6 @@ Schools Interoperability Framework
 Schools at War
 Schools of Ambition programme
 Schools of Buddhism
-Schools of Japanese tea
 Schools of Opportunity
 Schools of Planning and Architecture
 Schools of Public Engagement
@@ -127281,7 +127271,6 @@ Sick of Sarah
 Sick of Waging War
 Sick of Waiting Tables
 Sick!
-Sick-O
 Sickle
 Sickle Cell Disease Association of America
 Sickle cell disease
@@ -129547,7 +129536,6 @@ Someone to You
 Someone's Coming
 Someone's Looking at You
 Someone's Taken Maria Away
-Someone's Ugly Daughter
 Someone's Watching Me!
 Someone, Someone
 Someone, Somewhere
@@ -130221,7 +130209,6 @@ Sovietization
 Sovnya
 Sowerby Bridge
 Sowerby Bridge (rugby league)
-Sowerby Bridge railway station
 Sowerby's beaked whale
 Sowerby, North Yorkshire
 Sowerby, West Yorkshire
@@ -131129,6 +131116,7 @@ Spouse
 Sprachraum
 Spraddle leg
 Sprague, Connecticut
+Sprague–Grundy theorem
 Spray (mathematics)
 Spray drying
 Spray nozzle
@@ -136068,6 +136056,8 @@ Tautology (language)
 Tautology (logic)
 Tautology (rhetoric)
 Tautology (rule of inference)
+Tautomer
+Tautomers
 Tavastia (historical province)
 Tavastia Proper
 Tavila
@@ -136272,6 +136262,7 @@ Teapot Industries
 Teapot Rock
 Teapot effect
 Teapoy
+Tear gas
 Teardrop (electronics)
 Teaspiller
 Teaspoon
@@ -139719,6 +139710,7 @@ Transcription activator-like effector nuclease
 Transcription factor
 Transcription factors
 Transcription preinitiation complex
+Transcription start site
 Transcription termination factor, RNA polymerase I
 Transcription translation feedback loop
 Transcription-mediated amplification
@@ -141966,6 +141958,7 @@ Ukrainian language
 Ulaanbaatar
 Ulam's game
 Ulama
+Ulam–Warburton automaton
 Ulan-Ude
 Ulf
 Ulf Ekberg
@@ -142338,7 +142331,6 @@ Uniform 9-polytope
 Uniform Civil Code
 Uniform Common Interest Ownership Act
 Uniform Computer Information Transactions Act
-Uniform Determinate Sentencing Act of 1976
 Uniform Distortion
 Uniform Domain-Name Dispute-Resolution Policy
 Uniform Function Call Syntax
@@ -143370,6 +143362,7 @@ User story
 User-centered design
 User-defined function
 User-generated content
+User:Mechachleopteryx/Alan Lee Litman
 Useramen
 Userkaf
 Userkare
@@ -144534,6 +144527,8 @@ Vibrations of a circular membrane
 Vibratory shear-enhanced process
 Vibrio
 Vibronic coupling
+Vibronic spectroscopy
+Vibronic transition
 Vicalloy
 Vicar
 Vicar (Anglicanism)
@@ -144960,6 +144955,7 @@ Vinyl acetate
 Vinyl fluoride
 Vinyl group
 Vinyl polymer
+Vinylogy
 Vinylon
 Viola
 Violaceae
@@ -145492,8 +145488,10 @@ Von Mises–Fisher distribution
 Von Neumann algebra
 Von Neumann architecture
 Von Neumann bicommutant theorem
+Von Neumann cellular automaton
 Von Neumann double commutant theorem
 Von Neumann entropy
+Von Neumann neighborhood
 Von Neumann ordinal
 Von Neumann probe
 Von Neumann programming languages
@@ -149932,10 +149930,12 @@ Zürich
 Α-Aminobutyric acid
 Α-Amylase
 Α-Endorphin
+Α-Halo ketone
 Α-aminoisobutyric acid
 Α-helix
 Α-olefin
 Β-Alanine
+Β-Butyrolactone
 Β-Carotene
 Β-Endorphin
 Β-Glucosidase
