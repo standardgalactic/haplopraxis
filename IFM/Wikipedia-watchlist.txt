@@ -1942,6 +1942,7 @@ Abok Ayuba
 Abok Izam
 Abokado
 Aboke
+Aboker (woreda)
 Aboker Woreda
 Abokobi
 Abokobi-Madina
@@ -2486,7 +2487,6 @@ Accusative case
 Ace
 Ace Books
 Ace Custis
-Ace Frehley
 Aceglatone
 Aceh
 Acemannan
@@ -4777,6 +4777,7 @@ Al-Qifti
 Al-Qurtubi
 Al-Qushayri
 Al-Ruhawi
+Al-Saffah
 Al-Sakhawi
 Al-Salam–Carlitz polynomials
 Al-Salam–Chihara polynomials
@@ -5310,7 +5311,6 @@ Alf Landon
 Alf Sommerfelt
 Alfa Romeo
 Alfa mannan degradation
-Alfa-class submarine
 Alfabet
 Alfalfa
 Alfeios
@@ -6197,6 +6197,7 @@ Alpha helical
 Alpha helices
 Alpha helix
 Alpha hydroxy acid
+Alpha hydroxycarboxylic acid
 Alpha max plus beta min algorithm
 Alpha motor neuron
 Alpha particle
@@ -8826,7 +8827,6 @@ Anthony Holden
 Anthony Hope
 Anthony Hopkins
 Anthony James Leggett
-Anthony Joshua
 Anthony Judge
 Anthony Kennedy
 Anthony Kenny
@@ -12823,7 +12823,6 @@ Autonomous car
 Autonomous category
 Autonomous consumption
 Autonomous okrug
-Autonomous okrugs of Russia
 Autonomous peripheral operation
 Autonomous regions with special statute
 Autonomous republic
@@ -14430,7 +14429,6 @@ Barrister
 Barroco
 Barry B. Longyear
 Barry Barish
-Barry Gibb
 Barry Glassner
 Barry Goldwater
 Barry Goldwater Jr.
@@ -16714,6 +16712,7 @@ Binary
 Binary Domain
 Binary GCD algorithm
 Binary Golay code
+Binary Independence Model
 Binary Modular Dataflow Machine
 Binary alloy
 Binary arithmetic
@@ -19168,7 +19167,6 @@ Braconidae
 Bract
 Bracteate
 Brad
-Brad (given name)
 Brad Ferguson
 Brad Linaweaver
 Brad Paisley
@@ -26670,6 +26668,7 @@ Circular cause and consequence
 Circular chord
 Circular chromosome
 Circular convolution
+Circular cumulative causation
 Circular definition
 Circular dependency
 Circular dichroism
@@ -28001,6 +28000,7 @@ Cobordism hypothesis
 Cobordism ring
 Cobordism theory
 Cobweb (clustering)
+Cobweb model
 Cobweb plot
 Coca-Cola
 Cocaine dependence
@@ -30351,6 +30351,7 @@ Computer-supported cooperative work
 Computerized adaptive testing
 Computing
 Computing device
+Computing education
 Computing hardware
 Computing paradigm
 Computing platform
@@ -31191,7 +31192,6 @@ Consistency proof
 Consistent
 Consistent Network Device Naming
 Consistent and inconsistent equations
-Consistent eschatology
 Consistent estimator
 Consistent histories
 Consistory (Protestantism)
@@ -31564,6 +31564,7 @@ Context analysis
 Context art
 Context as Other Minds
 Context awareness
+Context collapse
 Context effect
 Context filtering
 Context free
@@ -31597,6 +31598,7 @@ Contextual Query Language
 Contextual advertising
 Contextual design
 Contextual inquiry
+Contextual integrity
 Contextualism
 Contig
 Contiguity
@@ -32672,7 +32674,6 @@ Correctional Institution for Women (Mandaluyong)
 Correctional Reception Center
 Correctional Services Bureau
 Correctional Services Corporation
-Correctional Training Facility
 Correctional emergency response team
 Correctional labour camp
 Correctional nursing
@@ -34454,6 +34455,7 @@ Cultural imperialism
 Cultural institution
 Cultural intelligence
 Cultural knowledge
+Cultural lag
 Cultural landscape
 Cultural mediation
 Cultural memory
@@ -37082,7 +37084,6 @@ Date Movie
 Date Night
 Date clan
 Date honey
-Date of Easter
 Date palm
 Date rape
 Date rape (disambiguation)
@@ -39923,6 +39924,7 @@ Diffusing-wave spectroscopy
 Diffusion
 Diffusion (acoustics)
 Diffusion (anthropology)
+Diffusion (business)
 Diffusion (disambiguation)
 Diffusion MRI
 Diffusion bonding
@@ -40755,7 +40757,6 @@ Director of Public Prosecutions (Ireland)
 Director of Public Transport
 Director of audiography
 Director of network programming
-Director of the Central Intelligence Agency
 Director of the Defense Intelligence Agency
 Director of the Federal Bureau of Investigation
 Director of the Foreign Intelligence Service
@@ -44807,6 +44808,7 @@ Effective Altruism Global
 Effective Perl Programming
 Effective Polish space
 Effective Public Relations
+Effective accelerationism
 Effective action
 Effective altruism
 Effective arterial blood volume
@@ -45570,7 +45572,6 @@ Electricity on Shabbat
 Electricity price forecasting
 Electricity pricing
 Electricity regulation
-Electricity sector in New Zealand
 Electricity supply
 Electricity transmission
 Electricité Du Liban
@@ -57215,7 +57216,6 @@ Fulham, South Australia
 Fuligo septica
 Full
 Full Faith and Credit Clause
-Full House
 Full Rate
 Full and faithful functor
 Full and faithful functors
@@ -58529,7 +58529,6 @@ GameCube online functionality
 GameFAQs
 GamePlan (play)
 GameSpot
-GameStop short squeeze
 Gamemaster
 Gamepedia
 Gameplanet
@@ -59288,7 +59287,6 @@ General Semantics
 General Service Medal (Rhodesia)
 General Statutes
 General Tom Thumb
-General Tso's chicken
 General ability
 General anaesthesia
 General anaesthetic
@@ -59531,7 +59529,6 @@ Genes, Brain and Behavior
 Genesis (journal)
 Genesis 1:1
 Genesis Breyer P-Orridge
-Genesis P-Orridge
 Genesis flood narrative
 Genesys (company)
 Genet (biology)
@@ -62321,7 +62318,6 @@ Googlebot
 Googleplex
 Googlewhack
 Googly
-Googly eyes
 Googol
 Googolplex
 Goormaghtigh conjecture
@@ -63370,7 +63366,6 @@ Great Vowel Shift
 Great Western Highway
 Great Year
 Great Yenisey
-Great Yorkshire Chase
 Great Zab
 Great ape
 Great cerebral vein
@@ -64222,7 +64217,6 @@ Grow
 Grow light
 GrowCut algorithm
 Growing Bolder
-Growing Pains
 Growing block universe
 Growing context-sensitive grammar
 Growing season
@@ -64722,6 +64716,7 @@ Gunilla Kreiss
 Gunk (mereology)
 Gunma Prefecture
 Gunma Prefekture
+Gunnar Myrdal
 Gunnar Nordström
 Gunnysacking
 Gunpowder
@@ -66323,7 +66318,6 @@ Hard water
 Hard-core predicate
 Hard-edge painting
 Hard-paste porcelain
-Hardcourt Bike Polo
 Hardcover
 Hardened aircraft shelter
 Hardened steel
@@ -67074,7 +67068,6 @@ Hearts and Souls
 Hearts in Atlantis
 Hearts of Iron
 Hearts of Iron II
-Hearts of Iron IV
 Heartstrings World Tour
 Heat
 Heat Capacity Mapping Mission
@@ -67130,7 +67123,6 @@ Heautoscopy
 Heaven
 Heaven (nightclub)
 Heaven and Hell (Swedenborg book)
-Heaven's Gate (religious group)
 Heaven's Lost Property
 Heavenly Creatures
 Heavenly Stems
@@ -68351,7 +68343,6 @@ Herod Antipas
 Herod Archelaus
 Herod the Great
 Herodotus
-Heroes Reborn (miniseries)
 Heroes United
 Heroes in Hell
 Heroes of Might and Magic
@@ -72300,6 +72291,7 @@ Hydrogen train
 Hydrogen turboexpander-generator
 Hydrogen valve
 Hydrogen vehicle
+Hydrogen-alpha
 Hydrogen-bond catalysis
 Hydrogen-cooled turbo generator
 Hydrogen-donor solvent
@@ -76347,6 +76339,7 @@ Investment
 Investment Bank
 Investment firms
 Investment strategy
+Investment-specific technological progress
 Investor
 Inviscid flow
 Invisible Cities
@@ -79568,7 +79561,6 @@ Joyce Lambert
 Joyce McLaughlin
 Joyce Meyer
 Joycelyn Elders
-Joyner Lucas
 Joystick
 Jozef T. Devreese
 Jozef Teugels
@@ -79680,6 +79672,7 @@ Judith Q. Longyear
 Judith Resnik
 Judith Rodin
 Judith Roitman
+Judith S. Beck
 Judith V. Field
 Judith of Flanders
 Judo
@@ -80165,7 +80158,6 @@ Justin Blackmon
 Justin Bour
 Justin Briner
 Justin Broadrick
-Justin Brownlee
 Justin Burr
 Justin Carroll
 Justin Caruso
@@ -80739,7 +80731,6 @@ Kansas
 Kansas City, Missouri
 Kanta Gupta
 Kanta Pilipinas
-Kanta Sato
 Kanta-Häme
 Kantai Kessen
 Kantar Group
@@ -81266,7 +81257,6 @@ Keel
 Keel-billed toucan
 Keele Campus
 Keeley Hawes
-Keeley Hazell
 Keeling Curve
 Keelkattalai
 Keelung
@@ -85888,6 +85878,7 @@ List of fiction set in ancient Rome
 List of measuring instruments
 List of national flowers
 List of non-building structure types
+List of optical disc packaging formats
 List of things named after Thomas Bayes
 List of transitive finite linear groups
 List scheduling
@@ -91967,7 +91958,6 @@ Memorial Parkway (Huntsville, Alabama)
 Memorial Presbyterian Church
 Memorial Stadium (Baltimore)
 Memorial Stadium (Champaign, Illinois)
-Memorial Stadium (Clemson)
 Memorial Tournament
 Memorial pole
 Memorial to Victims of Violence in Mexico
@@ -95306,7 +95296,6 @@ Mohit Chauhan (actor)
 Mohit Daga
 Mohit Marwah
 Mohit Pathak
-Mohit Raina
 Mohit Randeria
 Mohit Sehgal
 Mohit Sharma (soldier)
@@ -97535,6 +97524,7 @@ MyLittleAdventure
 MySQL
 Myachkovo, Moscow Oblast
 Myalgia
+Myalgic encephalomyelitis / chronic fatigue syndrome
 Myalgic encephalomyelitis/chronic fatigue syndrome
 Myanmar
 Myb proto-oncogene like 1
@@ -101286,7 +101276,6 @@ Northern Ireland Act 1998
 Northern Ireland Assembly
 Northern Ireland Conservatives
 Northern Ireland Environment Agency
-Northern Ireland Executive
 Northern Irish Derby
 Northern Irish English
 Northern Irish cuisine
@@ -104651,6 +104640,8 @@ Orthorhombic crystal system
 Orthornavirae
 Orthosilicate
 Orthosilicic acid
+Orthostasis
+Orthostatic intolerance
 Orthostochastic matrix
 Orthotics
 Orthotomic
@@ -104848,7 +104839,6 @@ Otago Museum
 Otago NORML
 Otago Peninsula
 Otago Polytechnic
-Otago Sparks
 Otago Witness
 Otakar Borůvka
 Otariidae
@@ -105090,7 +105080,6 @@ Overprint
 Overproduction
 Overqualification
 Oversampling
-Overseas Chinese
 Overseas France
 Overseas Pakistani
 Overseas collectivity
@@ -107493,7 +107482,6 @@ Payne Stewart
 Payoff
 Payoneer
 Paysafecard
-Paytm
 Paywall
 Payworld
 Paz Paterno
@@ -111408,6 +111396,7 @@ Podunk
 Podyjí National Park
 Podzol
 Poe Dameron
+Poe's law
 Poeae
 Poedjangga Baroe
 Poedjono Pranyoto
@@ -120388,6 +120377,7 @@ Richard McKenna
 Richard Meinertzhagen
 Richard Milton Martin
 Richard Montague
+Richard N. Foster
 Richard Neville, 16th Earl of Warwick
 Richard Neville, 5th Earl of Salisbury
 Richard Nixon
@@ -122315,7 +122305,6 @@ Russell K. Standish
 Russell Phillips
 Russell T Davies
 Russell Targ
-Russell Westbrook
 Russell's paradox
 Russell's teapot
 Russel–Saunders term symbol
@@ -123299,6 +123288,7 @@ Samoan Islands
 Samoan language
 Samos
 Samos, Lugo
+Sampera asplundii
 Sample
 Sample (material)
 Sample (statistics)
@@ -124796,6 +124786,7 @@ Second Council of Nicaea
 Second Foundation
 Second Hardy–Littlewood conjecture
 Second Harvest (novel)
+Second Industrial Revolution
 Second Life
 Second Shō dynasty
 Second Silesian War
@@ -127088,7 +127079,6 @@ Sick of Being Lonely
 Sick of It
 Sick of It All
 Sick of Life
-Sick of Sarah
 Sick of Waging War
 Sick of Waiting Tables
 Sick!
@@ -131452,7 +131442,6 @@ Start
 Start and park
 Start of Something Good
 Start point (yeast)
-Start – Socialist Internationalist Organisation
 Start-stop system
 Start. Stop.
 StartCom
@@ -136132,6 +136121,7 @@ Technetium(IV) oxide
 Technical
 Technical (vehicle)
 Technical analysis
+Technical change
 Technical communication
 Technical diving
 Technical documentation
@@ -136165,17 +136155,25 @@ Technique for human error-rate prediction
 Techniques d'Avant Garde
 Techniques de Randonnée Équestre de Compétition
 Techniques of neutralization
+Techno-populism
+Techno-progressivism
 Techno-thriller
 Technobabble
+Technocracy
 Technocriticism
 Technoetics
 Technological
 Technological change
+Technological convergence
 Technological evolution
+Technological innovation system
 Technological progress
 Technological revolution
 Technological singularity
+Technological transitions
+Technological unemployment
 Technological university
+Technological utopianism
 Technology
 Technology acceptance model
 Technology acceptance model (TAM)
@@ -137052,6 +137050,7 @@ Text-based game
 Text-based user interface
 Text-based web browser
 Text-to-9-1-1
+Text-to-911
 Text-to-image model
 TextEdit
 TextEdit (API)
@@ -147211,6 +147210,7 @@ Windows 10
 Windows 11
 Windows 2000
 Windows 3.0
+Windows 3.1
 Windows 3.1x
 Windows 7
 Windows 8
@@ -148974,7 +148974,6 @@ Yosemite National Park
 Yoseph Imry
 Yoshi's Island
 Yoshie Katsurada
-Yoshihiro Akiyama
 Yoshiki Kuramoto
 Yoshiki Sasai
 Yoshiki Tanaka
@@ -149627,6 +149626,7 @@ Zuluboy
 Zumobi
 Zune
 Zuni language
+Zuo Zongtang
 Zurich Cantonal Bank
 Zurich Chess Challenge
 Zurich Classic of New Orleans
