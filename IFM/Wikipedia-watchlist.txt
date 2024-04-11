@@ -1,4 +1,3 @@
-!! (chess)
 !!!
 !!!!!!!
 !1streadme.txt
@@ -263,7 +262,6 @@ $O$
 11059 Nulliusinverba
 119 (number)
 119 Tauri
-1199 (disambiguation)
 12
 12 (number)
 12 Metre
@@ -340,7 +338,6 @@ $O$
 162173 Ryugu
 1626
 1627
-1632 (novel)
 1636
 1642
 16550 UART
@@ -458,33 +455,23 @@ $O$
 2.5D (visual perception)
 2.5D integrated circuit
 20
-20 (disambiguation)
-20 (number)
 20 Dartmouth Hill
 20 Massalia
-20 Years Paranoid
 20-Hydroxyecdysone
 20-Hydroxyeicosatetraenoic acid
 20-sim
 20/20 vision
 20000 Varuna
 2001: A Space Odyssey
-2001: A Space Odyssey (novel)
-2011 OPERA faster-than-light neutrino anomaly
 2012 Los Angeles Measure B
 2048 (video game)
 2060 Chiron
 208P/McMillan
 20Q
 20esmi sekle
-20th arrondissement of Paris
 20th century
-20th century philosophy
-20th-century events
-20th-century philosophy
 20α-Dihydroprogesterone
 20β-Dihydroprogesterone
-21 (number)
 21 Lutetia
 21 grams experiment
 210 v.C.
@@ -493,9 +480,7 @@ $O$
 22° halo
 23 Thalia
 23 Ursae Majoris
-23 Years
 234
-234 (number)
 234 BC
 234 Barbara
 2340 Hathor
@@ -506,13 +491,11 @@ $O$
 23S rRNA (adenine2085-N6)-dimethyltransferase
 23S rRNA (uracil1939-C5)-methyltransferase
 23S rRNA (uracil747-C5)-methyltransferase
-23andMe
 24 Canum Venaticorum
 24 Game
 24 Maii
 24 Themis
 24 Ursae Majoris
-24 Years of Hunger
 24-cell
 24-cell honeycomb
 24-cell honeycomb honeycomb
@@ -520,9 +503,6 @@ $O$
 24p
 25 Ianuarii
 25 Phocaea
-25 Words or Less
-25 Years Later
-25 Years On
 257-gon
 26 Proserpina
 26 Ursae Majoris
@@ -565,12 +545,8 @@ $O$
 2–3 tree
 2–3–4 tree
 3
-3 (company)
-3 (disambiguation)
 3 21 polytope
 3 31 honeycomb
-3 Count
-3 Count Bout
 3 Juno
 3 Pears
 3 Puppis
@@ -616,7 +592,6 @@ $O$
 32-bit clean
 32-bit computing
 3200 Phaethon
-321 (disambiguation)
 323 Brucia
 323 a. C.
 33 Polyhymnia
@@ -633,7 +608,6 @@ $O$
 369 a. C.
 37 Fides
 38 Leda
-386BSD
 39 Laetitia
 39-bit word length
 3B series computers
@@ -676,7 +650,6 @@ $O$
 3D printing processes
 3D projection
 3D reconstruction
-3D reconstruction from multiple images
 3D rendering
 3D rotation group
 3D scanner
@@ -710,13 +683,9 @@ $O$
 3α-Dihydroprogesterone
 3β-Dihydroprogesterone
 4
-4 (disambiguation)
 4 21 polytope
 4 BC
-4 Clubbers
-4 Pics 1 Word
 4 Vesta
-4 the Cause
 4+1 architectural view model
 4+4 Photocycloaddition
 4,4'-Oxydianiline
@@ -756,7 +725,6 @@ $O$
 45 Broad Street
 45 Eugenia
 46 Hestia
-46,XX/46,XY
 4690 Operating System
 46° halo
 47 Aglaja
@@ -777,7 +745,6 @@ $O$
 4th century
 4th millennium
 5
-5 (disambiguation)
 5 21 honeycomb
 5 Astraea
 5 Centimeters per Second
@@ -840,7 +807,6 @@ $O$
 51 Nemausa
 512-bit computing
 514107 Kaʻepaokaʻawela
-51st state (disambiguation)
 52 Europa
 529 plan
 53 Kalypso
@@ -872,7 +838,6 @@ $O$
 5β-Dihydroprogesterone
 6
 6 BC
-6 Frigate (disambiguation)
 6 Hebe
 6 Songs for Bruce
 6-Monoacetylmorphine
@@ -919,7 +884,6 @@ $O$
 6708 Bobbievaile
 6709 Hiromiyuki
 672
-672 (disambiguation)
 672 Astarte
 672 BC
 6726 Suthers
@@ -1046,7 +1010,6 @@ $O$
 99ers
 =Love
 ?
-? (disambiguation)
 ? Nycticebus linglom
 ? calculus
 ? operator
@@ -1091,7 +1054,6 @@ A Primer of Real Functions
 A Question of Proof
 A Voyage to Arcturus
 A priori
-A priori (disambiguation)
 A priori (languages)
 A priori and a posteriori
 A priori language
@@ -1121,6 +1083,7 @@ A-stability
 A-theory of time
 A-type star
 A-weighting
+A. A. Albert
 A. A. Attanasio
 A. Bertram Chandler
 A. Brian Deer
@@ -1175,14 +1138,12 @@ AAC-LD
 AACE International
 AASHO Road Test
 AASI
-AASI (disambiguation)
 AArch64
 AB
 AB 1
 ABA digital signature guidelines
 ABA routing transit number
 ABB
-ABB (disambiguation)
 ABBA
 ABBYY FineReader
 ABC North West WA
@@ -1483,7 +1444,6 @@ ASCII stereogram
 ASCII tab
 ASCON
 ASE Group
-ASIN (disambiguation)
 ASLAV
 ASLwrite
 ASM-135 ASAT
@@ -1605,7 +1565,6 @@ Aaronson
 Aaru
 Aasi
 Aasi (clan)
-Aasi (disambiguation)
 Ab Urbe condita
 Ab epistulis
 Ab extra
@@ -1970,7 +1929,6 @@ Abseiling
 Absement
 Absence of good
 Absence of light
-Absence of light (disambiguation)
 Absence rate
 Absent-mindedness
 Absolut Null Punkt
@@ -1985,7 +1943,6 @@ Absolute OpenBSD
 Absolute Software Corporation
 Absolute Time in Pregroove
 Absolute Torch and Twang
-Absolute Zero (disambiguation)
 Absolute Zero (novel)
 Absolute Zero (video game)
 Absolute advantage
@@ -2037,15 +1994,11 @@ Absolute threshold of hearing
 Absolute time and space
 Absolute value
 Absolute value (algebra)
-Absolute value (disambiguation)
 Absolute value theorem
 Absolute waarde
 Absolute zero
 AbsolutePunk
 Absolutely
-Absolutely Anything
-Absolutely Fabulous: 20th Anniversary
-Absolutely Fabulous: The Movie
 Absolutely continuous
 Absolutely convergent
 Absolutely convex set
@@ -2107,7 +2060,6 @@ Abstract index notation
 Abstract interpretation
 Abstract labour and concrete labour
 Abstract logic
-Abstract logic (disambiguation)
 Abstract machine
 Abstract management
 Abstract model
@@ -2181,7 +2133,6 @@ Abu Mikhnaf
 Abu Muhammad al-Hasan al-Hamdani
 Abu Muhammad al-Hasan ibn Musa al-Nawbakhti
 Abu Nasir
-Abu Nasir (disambiguation)
 Abu Nasr
 Abu Nidal
 Abu Qilqil
@@ -2341,7 +2292,6 @@ Acceptability judgment task
 Acceptable daily intake
 Acceptable quality limit
 Acceptance
-Acceptance (disambiguation)
 Acceptance and commitment therapy
 Acceptance sampling
 Acceptance testing
@@ -3487,7 +3437,6 @@ Admont Abbey
 Adna R. Chaffee Jr.
 Adnan
 Adnan Khashoggi
-Adnan Oktar
 Adnanites
 Adnation
 Adnexa
@@ -4156,8 +4105,6 @@ Age-graded variation
 Age-related macular degeneration
 Age-standardized mortality rate
 Ageing
-Ageing (disambiguation)
-Ageing of Europe
 Ageism
 Agelenidae
 Agelenopsis
@@ -5438,7 +5385,6 @@ Algebraic matroid
 Algebraic modeling language
 Algebraic normal form
 Algebraic notation
-Algebraic notation (chess)
 Algebraic number
 Algebraic number field
 Algebraic number fields
@@ -6557,6 +6503,7 @@ Alyson Reed
 Alyson Shotz
 Alyson Stoner
 Alyson Williams
+Alyssa Samantha Cameron
 Alzamora
 Alzheimer's disease
 Alī
@@ -7957,6 +7904,7 @@ Angelo
 Angelo Caroselli
 Angelo Maria Bandini
 Angelo Plessas
+Angelo Torchi
 Angelo plessas
 Angelology (novel)
 Angelos Chaniotis
@@ -10233,6 +10181,7 @@ Arias-Stella reaction
 Arib al-Ma'muniyya
 Arid
 Aridity
+Arie Rip
 Arie?ul Mare
 Ariel (moon)
 Ariel Hollinshead
@@ -10594,7 +10543,6 @@ Art history
 Art manifesto
 Art movement
 Art objects
-Art of Europe
 Art of Hosting
 Art of representation
 Art of the American Southwest
@@ -11390,6 +11338,7 @@ Astrid Beckmann
 Astrid Cleve
 Astrid Kirchherr
 Astrid Lindgren
+Astrid Lindgren bibliography
 Astrid Lindgren's plays
 Astrid Uhrenholdt Jacobsen
 Astrid an Huef
@@ -14425,6 +14374,7 @@ Barrister
 Barroco
 Barry B. Longyear
 Barry Barish
+Barry Bozeman
 Barry Glassner
 Barry Goldwater
 Barry Goldwater Jr.
@@ -14716,6 +14666,7 @@ Basil Wells
 Basil the Doctor
 Basilar membrane
 Basilar part of occipital bone
+Basile Bouchon
 Basileus
 Basilica of Saint-Denis
 Basilicata
@@ -17965,7 +17916,6 @@ Blue note
 Blue pencil (editing)
 Blue plaque
 Blue ringtail
-Blue rinse
 Blue roof
 Blue sea catfish
 Blue seedeater
@@ -17977,7 +17927,6 @@ Blue supergiant
 Blue weed whiting
 Blue whale
 Blue wildebeest
-Blue Öyster Cult
 Blue, West Virginia
 Blue-eyed soul
 Blue-headed hummingbird
@@ -19073,6 +19022,7 @@ Box plot
 Box spline
 Box topology
 Box-drawing character
+Box-drawing characters
 Boxcar function
 Boxe pieds-poings
 Boxen (C. S. Lewis)
@@ -19567,6 +19517,7 @@ Brian Danza
 Brian David Ellis
 Brian Dunning (author)
 Brian Fox (computer programmer)
+Brian Fox (programmer)
 Brian Givens
 Brian Herbert
 Brian Houghton Hodgson
@@ -20240,6 +20191,7 @@ Bull graph
 Bull shark
 Bulla (seal)
 Bullet
+Bullet for My Valentine
 Bullet hell
 Bullet time
 Bullet voting
@@ -20262,7 +20214,9 @@ Bullwheel
 Bullwhip effect
 Bully Ray
 Bully algorithm
+Bully for Brontosaurus
 Bullying
+Bullying in teaching
 Bulrush
 Bulă
 Bumblebee
@@ -20601,8 +20555,6 @@ Buzz Aldrin
 Buzzword
 Bx-tree
 By Heart
-By His Bootstraps
-By Reason of Insanity
 By Yourself
 By the Grace of God
 By-election
@@ -21830,7 +21782,6 @@ Cancellariidae
 Cancellation (broadcasting)
 Cancellation (insurance)
 Cancellation (mail)
-Cancellation Hearts
 Cancellation of removal
 Cancellation property
 Cancellation-of-debt income
@@ -22609,6 +22560,7 @@ Carl Peterson
 Carl Philipp Emanuel Bach
 Carl Pollard
 Carl Pomerance
+Carl R. May
 Carl R. de Boor
 Carl Radle
 Carl Randall
@@ -24103,11 +24055,13 @@ Centralizer and normalizer
 Centration
 Centre (geometry)
 Centre for Gender Equality
+Centre for Inquiry Canada
 Centre for Mathematical Sciences (Cambridge)
 Centre for Nanosciences and Nanotechnologies
 Centre for Quantum Computation
 Centre for Research on the Epidemiology of Disasters
 Centre for Theoretical Cosmology
+Centre of Canada
 Centre of gravity
 Centre of mass
 Centre-right politics
@@ -24140,7 +24094,10 @@ Centripetal Catmull–Rom spline
 Centripetal acceleration
 Centripetal force
 Centrism
+Centro (álgebra)
+Centro Nacional para la Información Biotecnológica
 Centro-Matic
+Centrocampista
 Centroctena
 Centrohelid
 Centroid
@@ -24840,6 +24797,7 @@ Charles Roy Henderson
 Charles Rudolph Walgreen
 Charles S. Peskin
 Charles Sanders Peirce
+Charles Sanders Peirce bibliography
 Charles Schuchert
 Charles Scott Sherrington
 Charles Sealsfield
@@ -25022,7 +24980,6 @@ Chebyshev's inequality
 Chebyshev's sum inequality
 Chebyshev–Gauss quadrature
 Check
-Check (chess)
 Check (pattern)
 Check Point
 Check bit
@@ -25225,6 +25182,7 @@ Chemotherapy
 Chemotherapy regimen
 Chemoton
 Chemotroph
+Chemtrail conspiracy theory
 Chen Chuangtian
 Chen Hang
 Chen Je-cheng
@@ -25924,7 +25882,6 @@ Chown
 Chow–Rashevskii theorem
 Chresmodidae
 Chris Anderson (writer)
-Chris Benoit
 Chris Bond (wheelchair rugby)
 Chris Bunch
 Chris Danforth
@@ -28455,6 +28412,7 @@ CoinDesk
 Coinage
 Coinage Act
 Coinage metals
+Coinage of the Kingdom of Pontus
 Coinage shapes
 Coinbase
 Coincidence
@@ -28468,6 +28426,8 @@ Cointegration
 Cointerpretability
 Cointreau
 Coir
+Coke Studio (Pakistani TV series) season 1
+Coke Studio (Pakistani season 1)
 Cokernel
 Cokernel (category theory)
 Cokurtosis
@@ -31124,6 +31084,7 @@ Conservatism (belief revision)
 Conservatism in Serbia
 Conservative
 Conservative extension
+Conservative force
 Conservative vector field
 Conservativity
 Conservator-restorer
@@ -31831,12 +31792,14 @@ Contradance (solitaire)
 Contradanza
 Contraddiction
 Contrade of Legnano
+Contradicción
 Contradictio in terminis
 Contradiction
 Contradiction (disambiguation)
 Contradiction Films
 Contradictions Collapse
 Contradictory
+Contraditório think tank
 Contradusta pulchella
 Contradusta walkeri
 Contraharmonic mean
@@ -31848,6 +31811,7 @@ Contraposition
 Contraposition (traditional logic)
 Contrapositive
 Contrariety
+Contrarrecíproco
 Contrary (logic)
 Contrast (statistics)
 Contrast (vision)
@@ -32960,7 +32924,6 @@ Council
 Council Hill, Oklahoma
 Council of Chalcedon
 Council of Ephesus
-Council of Europe
 Council of India
 Council of Relief Agencies Licensed to Operate in Germany
 Council of Rome
@@ -33584,6 +33547,7 @@ Criminal behavior
 Criminal case
 Criminal charge
 Criminal code
+Criminal conspiracy
 Criminal court
 Criminal investigation
 Criminal justice
@@ -34322,6 +34286,7 @@ Cufflink
 Cugerni
 Cui Tiejun
 Cui bono
+Cui bono?
 Cuilidh
 Cuisenaire rods
 Cuisine of Northern Ireland
@@ -36479,20 +36444,15 @@ Dark Energy Survey
 Dark Forest
 Dark Horse (astronomy)
 Dark Lady
-Dark Matter (Crouch novel)
 Dark Matter (prose anthologies)
 Dark Matter Dimensions
 Dark Matter Particle Explorer
 Dark Matter Time Projection Chamber
 Dark Places
-Dark Places of the Heart
 Dark Planet
-Dark Planet (novel)
-Dark Planet: Battle for Natrolis
 Dark Side of the Spoon
 Dark Star Brewing Company
 Dark Star Safari
-Dark Star: H. R. Giger's World
 Dark Stares
 Dark Sun
 Dark Valley Destiny
@@ -37148,6 +37108,7 @@ David E. Muller
 David Easton
 David Eisenbud
 David Eppstein
+David F. Noble
 David Fairchild
 David Fell (biochemist)
 David Ferrucci
@@ -37976,7 +37937,6 @@ Definitely, Maybe
 Definiteness (disambiguation)
 Definiteness of a matrix
 Definition
-Definition of Europe
 Definition of life
 Definition of music
 Definition of planet
@@ -40095,6 +40055,7 @@ Digraph
 Digraph (orthography)
 Digraphia
 Digraphs and trigraphs
+Digraphs and trigraphs (programming)
 Digtheid
 Dihalomethane
 Dihedral
@@ -40589,7 +40550,6 @@ Direct current
 Direct democracy
 Direct development
 Direct digital control
-Direct effect of European Union law
 Direct election
 Direct electron ionization liquid chromatography–mass spectrometry interface
 Direct energy conversion
@@ -41981,7 +41941,6 @@ Don't Look Back in Anger
 Don't Look Up
 Don't Put Your Spell on Me
 Don't Smile at Me
-Don't Worry, Be Happy
 Don't ask, don't tell
 Don't repeat yourself
 Don't-care term
@@ -41989,6 +41948,7 @@ Dona Strauss
 Donabedian model
 Donal Fox
 Donald A. Wollheim
+Donald Angus MacKenzie
 Donald Appleyard
 Donald B. Johnson
 Donald Barr
@@ -42637,7 +42597,6 @@ Dravidian Languages
 Dravidian languages
 Dravya
 Draw
-Draw (chess)
 Draw by agreement
 Draw plate
 Draw poker
@@ -43657,7 +43616,6 @@ EThekwini elections
 ETrice
 EU (group)
 EU-US Data Privacy Framework
-EU–US Data Privacy Framework
 EVA (benchmark)
 EVM
 EVM Pilot Project
@@ -44476,6 +44434,7 @@ Editorial board
 Editorial calendar
 Editorialization
 Editors Press Service
+Editors' Association of Canada
 Edman degradation
 Edme Mariotte
 Edmentum
@@ -44561,6 +44520,7 @@ Education Week
 Education economics
 Education for librarianship
 Education for sustainability
+Education in Canada
 Education in Guyana
 Education in Northwest Territories
 Education in Tunisia
@@ -46350,6 +46310,7 @@ Elsie MacGill
 Elsie Maud Wakefield
 Elsie Widdowson
 Eltanin impact
+Elting E. Morison
 Elton John
 Elton's quadrant
 Elu
@@ -46610,6 +46571,7 @@ Emma Bunton
 Emma Castelnuovo
 Emma Frost
 Emma Goldman
+Emma Kowal
 Emma Lai
 Emma Lehmer
 Emma P. Carr
@@ -47363,6 +47325,7 @@ Enid
 Enid Bagnold
 Enid Bakewell
 Enid Blyton
+Enid Blyton bibliography
 Enid Charles
 Enid Greene Mickelsen
 Enid Lyons
@@ -47671,6 +47634,7 @@ Envenomation
 Envipco
 Environment (biophysical)
 Environment (systems)
+Environment Canada
 Environment and intelligence
 Environment mapping
 Environment of Trinidad and Tobago
@@ -48440,6 +48404,7 @@ Ergonomic hazard
 Ergonomic keyboard
 Ergonomics
 Ergonomics for manual material handling
+Ergonomics in Canada
 Ergonomics in Design
 Ergonym
 Ergosphere
@@ -49810,7 +49775,6 @@ European Tour 2014/2015 – Event 5
 European Train Control System
 European Underground Rare Event Calorimeter Array
 European Union
-European Union Agency for Cybersecurity
 European Union Aviation Safety Agency
 European Union Institute for Security Studies
 European Union law
@@ -50517,7 +50481,6 @@ Exemplification theory
 Exene Cervenka
 Exercise
 Exercise (mathematics)
-Exercise addiction
 Exercise intensity
 Exercise machine
 Exercise physiology
@@ -51204,7 +51167,6 @@ Extreme point (disambiguation)
 Extreme points of Afro-Eurasia
 Extreme points of Cuba
 Extreme points of Earth
-Extreme points of Europe
 Extreme poverty
 Extreme programming
 Extreme risk
@@ -51734,6 +51696,7 @@ Falkland Islands
 Falkner–Skan boundary layer
 Falkon
 Fall arrest
+Fall factor
 Fall of Capitalism
 Fall of Constantinople
 Fall of man
@@ -52107,12 +52070,12 @@ Faulty generalization
 Fauna
 Fauna (animals)
 Fauna and Flora International
+Fauna of Canada
 Fauna of Connecticut
 Fauna of Venezuela
 Faunalytics
 Faustina Pignatelli
 Fauvism
-Faux Cyrillic
 Faux pas
 Fauxtography
 Fava of Manosque
@@ -52250,7 +52213,6 @@ Federated state
 Federation
 Federation of Australia
 Federation of Bosnia and Herzegovina
-Federation of European Biochemical Societies
 Federico Capasso
 Federico Cortese
 Federico Faggin
@@ -53645,6 +53607,7 @@ First Amendment to the United States Constitution
 First Babylonian Empire
 First Babylonian dynasty
 First Carnatic War
+First Catilinarian conspiracy
 First Chern class
 First Contact (novelette)
 First Council of Constantinople
@@ -53678,6 +53641,7 @@ First Language (journal)
 First Libyan Civil War
 First Mile
 First Nations
+First Nations in Canada
 First Off
 First Open
 First Opium War
@@ -53875,7 +53839,9 @@ Fissility (geology)
 Fission (biology)
 Fissure (anatomy)
 Fissure vent
+Fistful of Metal
 Fisting
+Fit in or fuck off
 Fit-up
 FitTV
 Fitch notation
@@ -53934,6 +53900,7 @@ Fixed action pattern
 Fixed cost
 Fixed effect
 Fixed effects model
+Fixed election dates in Canada
 Fixed exchange rate system
 Fixed expression
 Fixed income
@@ -54334,6 +54301,7 @@ Flora Philip
 Flora Sadler
 Flora Wambaugh Patterson
 Flora family
+Flora of Canada
 Floral emblem
 Floral morphology
 Floral symmetry
@@ -55431,7 +55399,6 @@ Fortran 5
 Fortran 90
 FortranM
 Fortress (card game)
-Fortress (chess)
 Fortress (programming language)
 Fortress Investment Group
 Fortuna (PRNG)
@@ -56490,6 +56457,7 @@ French West Africa
 French and Raven's bases of power
 French braid
 French horn
+French immersion in Canada
 French labour law
 French language
 French nobility
@@ -59732,7 +59700,6 @@ Geographical distance
 Geographical feature
 Geographical indication
 Geographical location information
-Geographical midpoint of Europe
 Geographical pole
 Geographical regions of Turkey
 Geographical renaming
@@ -59758,6 +59725,7 @@ Geologic time
 Geologic time scale
 Geologic timescale
 Geologic unit
+Geological Association of Canada
 Geological Exploration of the Fortieth Parallel
 Geological Society of America
 Geological Society of London
@@ -60202,6 +60170,7 @@ Georges Henri Halphen
 Georges Jean Marie Darrieus
 Georges Lemaître
 Georges Méliès
+Georges Méliès bibliography
 Georges Sagnac
 Georges Seurat
 Georges Stern
@@ -60436,12 +60405,14 @@ Germaanse tale
 Germain Chardin
 Germain Henri Hess
 German Reich
+German Resistance Memorial Center
 German Romanticism
 German collective guilt
 German destroyer Z51
 German humour
 German idealism
 German language
+German orthography reform of 1996
 German patent law
 German philosophy
 German tank problem
@@ -60461,6 +60432,7 @@ Germanic substrate hypothesis
 Germanic umlaut
 Germanic verb
 Germanic verbs
+GermanicLanguages
 Germanium
 Germans
 Germany
@@ -61222,6 +61194,7 @@ GloVe (machine learning)
 Gloat
 Gloat (company)
 Glob (programming)
+Global Affairs Canada
 Global Biodiversity Information Facility
 Global Burden of Disease Study
 Global Change Information System
@@ -61783,7 +61756,6 @@ Golden Age
 Golden Axe
 Golden Bull of 1356
 Golden Gate Bridge
-Golden Knights (chess)
 Golden Rhinoceros of Mapungubwe
 Golden Rule
 Golden Shield Project
@@ -62254,7 +62226,7 @@ Gorji Dinka
 Gorlice
 Gorman Brothers
 Gormiti
-Gorna Dzhumaya gng
+Gorna Dzhumaya Uprising
 Gorni Kramer
 Gorni Lom
 Gornick
@@ -62269,6 +62241,16 @@ Gosford Glyphs
 Goshen, Connecticut
 Gosiwon
 Gospel
+Gospel Aerobics
+Gospel Broadcasting Network
+Gospel End
+Gospel Gangstaz
+Gospel Greats
+Gospel Principles
+Gospel Reflector
+Gospel Road: A Story of Jesus
+Gospel Trails
+Gospel Train
 Gospel harmony
 Gospel music
 Gospel of Barnabas
@@ -62286,6 +62268,8 @@ Gospel of Truth
 Gospel of the Ebionites
 Gospel of the Hebrews
 Gospel of the Nazarenes
+Gospel reggae
+Gospels of Máel Brigte
 Gosper curve
 Gosper island
 Gosper's algorithm
@@ -62294,6 +62278,7 @@ Gossard perspector
 Gosset graph
 Gosset–Elte figures
 Gossip
+Gossip Girl (novel series)
 Gossypieae
 Gossypium
 Gostak
@@ -62311,6 +62296,7 @@ Goto
 Gottfried Leibniz
 Gottfried Ungerboeck
 Gottfried Wilhelm Leibniz
+Gottfried Wilhelm Leibniz bibliography
 Gotthelf Fischer von Waldheim
 Gotthilf Hagen
 Gotthold Eisenstein
@@ -62351,6 +62337,7 @@ Government financial statements
 Government gazette
 Government intervention
 Government of Austria
+Government of Canada
 Government of France
 Government of India
 Government of Japan
@@ -62367,6 +62354,7 @@ Government-owned and controlled corporation
 Governmental
 Governor
 Governor (device)
+Governor General of Canada
 Governor of Connecticut
 Governor of Stockholm
 Governor's Cup (Florida)
@@ -63191,6 +63179,7 @@ Great Resignation
 Great Rift (astronomy)
 Great Rose Bowl Hoax
 Great Royal Wife
+Great Seal of Canada
 Great Slave Lake
 Great Society
 Great South Athletic Conference
@@ -63421,7 +63410,6 @@ Greg Ellingson
 Greg Evigan
 Greg Germann
 Greg Gianforte
-Greg Ginn
 Greg Giraldo
 Greg Girard
 Greg Graffin
@@ -64717,6 +64705,7 @@ Guy Spicola
 Guy Spier
 Guy Spitaels
 Guy Sprung
+Guy Spy and the Crystals of Armageddon
 Guy Stewart Callendar
 Guy Verhofstadt
 Guy Wyser-Pratte
@@ -64726,10 +64715,19 @@ Guy, Duke of Sorrento
 Guy-wire
 GuySpy
 Guyana
+Guyana Sugar Corporation
 Guyenne
 Guys
+Guys 'n' Dolls
+Guys Choice: Perfect 10
+Guys Like Us
+Guys We Fucked
+Guys with Kids
+Guysborough County, Nova Scotia
+Guysborough, Nova Scotia (community)
 Guyson E12
 Guyton de Morveau
+Guía completa de la Tierra Media
 Guðlaugur Kristinn Óttarsson
 Guðrún Björnsdóttir
 Guǵakovo
@@ -64740,6 +64738,7 @@ Gwadar Port
 Gwalior
 Gwalior Fort
 Gwangju
+Gwangju Uprising
 Gweedore
 Gweilo
 Gwen Cooper
@@ -64958,6 +64957,7 @@ H. Arthur Brown
 H. Beam Piper
 H. Carl McCall
 H. G. Wells
+H. G. Wells bibliography
 H. H. Franklin Manufacturing Company
 H. H. Hollis
 H. J. Ryser
@@ -65230,7 +65230,6 @@ Habitatio
 Habitation and Logistics Outpost
 Habitats
 Habitats Directive
-Habitats of the Indiana Dunes
 Habito
 Habits & Contradictions
 Habits Old and New
@@ -66340,6 +66339,7 @@ Harry Bates (writer)
 Harry Baur
 Harry Binswanger
 Harry Blum (scientist)
+Harry Collins
 Harry D. Dixon
 Harry Dym
 Harry Earles
@@ -66799,15 +66799,10 @@ Health psychology
 Health services research
 Health technology
 Healthcare
-Healthcare in Germany
-Healthcare in Pakistan
-Healthcare in Singapore
 Healthcare industry
 Healthcare journal
 Healthcare professional
 Healthcare provider
-Healtheries
-Healthy Americans Act
 Healthy Forests Initiative
 Healthy Life Years
 Healthy Planet
@@ -66815,9 +66810,6 @@ Healthy Way LA
 Healthy building
 Healthy city
 Healthy development measurement tool
-Healthy in Paranoid Times
-Healthy narcissism
-Healthy, Hunger-Free Kids Act of 2010
 Heap (data structure)
 Heap (mathematics)
 Heap Big Chief
@@ -66825,7 +66817,6 @@ Heap leaching
 Heap's algorithm
 Heaps' law
 Heapsort
-Heard It in a Past Life
 Hearing
 Hearing (law)
 Hearing (sense)
@@ -66838,41 +66829,19 @@ Hearing the shape of a drum
 Hearing, Balance and Communication
 Hearsay
 Heart
-Heart (Chinese medicine)
-Heart Institute of the Caribbean
-Heart Internet
-Heart Ipswich
 Heart Nebula
-Heart Peaks
-Heart Sutra
-Heart UK
-Heart Under
-Heart Up
 Heart arrhythmia
 Heart disease
 Heart failure
 Heart murmur
 Heart nanotechnology
-Heart of America Sports Attractions
-Heart of Asia
-Heart of Darkness
-Heart of Europe Debating Tournament
-Heart of God Church
-Heart of Illinois Conference
-Heart of Illinois Fair
-Heart of Iowa Conference
-Heart of Wales line
-Heart of Worcestershire College
-Heart of a Dog
 Heart of palm
-Heart of the Immigrants
 Heart rate
 Heart sounds
 Heart symbol
 Heart valve
 Heart*Iz
 Heart-lung machine
-HeartQuest
 Heartbeat
 Heartbeat (computing)
 Heartbeat Bill
@@ -67312,6 +67281,7 @@ Helena J. Nussenzveig Lopes
 Helena Kennedy, Baroness Kennedy of The Shaws
 Helena Magenbuch
 Helena Modjeska
+Helena Nussenzveig Lopes
 Helena Paparizou
 Helena Pycior
 Helena Rasiowa
@@ -69997,6 +69967,7 @@ Homeomorphism
 Homeomorphism (graph theory)
 Homeomorphism group
 Homeopathy
+Homeorhesis
 Homeosis
 Homeostasis
 Homeostatic
@@ -70620,7 +70591,6 @@ Horton Foote
 Horton Hatches the Egg
 Horton Plains National Park
 Horton Plaza (mall)
-Horton Plaza (shopping mall)
 Horton Plaza Mall
 Horton Plaza Park
 Horton Smith
@@ -70788,6 +70758,7 @@ House of Burnett
 House of Béthune
 House of Capet
 House of Chiefs (Fiji)
+House of Commons of Canada
 House of Councillors (Japan)
 House of Councilors (Japan)
 House of Croÿ
@@ -72029,6 +72000,7 @@ Hydroelectric power
 Hydroelectric power in Himachal Pradesh
 Hydroelectric power plant in Włocławek
 Hydroelectricity
+Hydroelectricity in Canada
 Hydroelectricity in Italy
 Hydroelectricity in Japan
 Hydroelectricity in Russia
@@ -72088,6 +72060,7 @@ Hydrogen pinch
 Hydrogen pipeline transport
 Hydrogen potassium ATPase
 Hydrogen production
+Hydrogen purification
 Hydrogen purifier
 Hydrogen purity
 Hydrogen safety
@@ -72618,7 +72591,6 @@ Hypermobility spectrum disorder
 Hypermodern Jazz 2000.5
 Hypermodernism
 Hypermodernism (art)
-Hypermodernism (chess)
 Hypermodernity
 Hypernymy
 Hypernymy and hyponymy
@@ -73198,7 +73170,6 @@ Iambic pentameter
 Iamblichus
 Iamblichus (novelist)
 Ian Bent
-Ian Brown
 Ian G. Macdonald
 Ian Goodfellow
 Ian Hacking
@@ -74314,7 +74285,6 @@ India
 Indian Day (Brazil)
 Indian Independence Act 1947
 Indian MRO Industry
-Indian National Congress
 Indian National Congress (Indira)
 Indian Ocean
 Indian Police Service
@@ -75713,7 +75683,6 @@ International Union of Biochemistry and Molecular Biology
 International Union of Foodworkers
 International Union of Geological Sciences
 International Union of Pure and Applied Chemistry
-International Volapük Academy
 International Whaling Commission
 International asset recovery
 International auxiliary language
@@ -77353,6 +77322,7 @@ Jacques Tits
 Jacques Touchard
 Jacques Vallée
 Jacques de Billy
+Jacques de Vaucanson
 Jacques-Charles Dupont de l'Eure
 Jacques-Louis David
 Jacques-Louis Lions
@@ -78346,6 +78316,7 @@ Johan Ernst Gunnerus
 Johan Frederik Steffensen
 Johan Jensen (mathematician)
 Johan Oxenstierna
+Johan Schot
 Johan Wilcke
 Johan Ångström
 Johann
@@ -79556,6 +79527,7 @@ Judy L. Walker
 Judy Malloy
 Judy R. Franz
 Judy Sheindlin
+Judy Wajcman
 Judy Woodruff
 Juglandaceae
 Juglans
@@ -79612,7 +79584,6 @@ Julia Alvarez
 Julia Angwin
 Julia Anna Gardner
 Julia Annas
-Julia Apostoli
 Julia Ashley
 Julia Avila
 Julia Avita Mamaea
@@ -79687,7 +79658,6 @@ Julia Frankau
 Julia Galef
 Julia Gardiner Tyler
 Julia Garner
-Julia Gasper
 Julia Gillard
 Julia Glushko
 Julia Goldani Telles
@@ -80378,7 +80348,6 @@ KARL
 KARTA Center
 KASH domain
 KASH domains
-KAUU
 KDE
 KDE Platform 4
 KDELR1
@@ -80651,6 +80620,7 @@ Karel Voous
 Karel Čapek
 Karen Aardal
 Karen Bandeen-Roche
+Karen Barad
 Karen C. Johnson
 Karen Callisen
 Karen D. King
@@ -81151,6 +81121,7 @@ Keith Campbell (biologist)
 Keith Clark (computer scientist)
 Keith Dalziel
 Keith Devlin
+Keith Gill
 Keith J. Laidler
 Keith Jackson
 Keith Laumer
@@ -82594,7 +82565,6 @@ LED circuit
 LEMON (C++ library)
 LEO (computer)
 LGBT history in Poland
-LGBT people in prison
 LGBT reproduction
 LIBSVM
 LIGO
@@ -84479,6 +84449,7 @@ Lerch zeta function
 Lernmatrix
 Lernus
 Leros
+Leroy Chiao
 Leroy Cronin
 Leroy Hood
 Lesbian
@@ -85932,6 +85903,7 @@ Lobachevskian geometry
 Lobachevsky integral formula
 Lobby Loyde
 Lobbying
+Lobbying in Canada
 Lobe pump
 Lobelia
 Lobelia inflata
@@ -86571,6 +86543,7 @@ Looking Backward
 Lookup table
 Looloo
 Loolwa Khazzoom
+Loom
 Looman–Menchoff theorem
 Loomis–Whitney inequality
 Loop (graph theory)
@@ -87171,6 +87144,7 @@ Lucy Jones
 Lucy M. Boston
 Lucy O'Brien
 Lucy R. Wyatt
+Lucy Suchman
 Lucy Weston Pickett
 Lucy Wills
 Lucy Wilson
@@ -87213,6 +87187,7 @@ Ludwig van Beethoven
 Ludwig von Bertalanffy
 Ludwig von Mises
 Ludwig von Mises Institute
+Ludwik Fleck
 Ludwik Idzikowski
 Ludwik Silberstein
 Lufeng, Guangdong
@@ -88241,6 +88216,7 @@ Magnaporthe salvinii
 Magnaporthiopsis
 Magnate
 Magnate & Valentino
+Magnate conspiracy
 Magne Skodvin
 MagneRide
 Magnesium
@@ -89891,6 +89867,7 @@ Martin Porter
 Martin Rodbell
 Martin Seligman
 Martin Shaw (sociologist)
+Martin Shkreli
 Martin Shubik
 Martin Simeonov
 Martin Van Buren
@@ -90166,6 +90143,7 @@ Massalia family
 Massey product
 Massi Vivo–Conecta
 Massif
+Massimiano Bucchi
 Massimiliano Versace
 Massimo Citi
 Massimo Porrati
@@ -90573,7 +90551,6 @@ Matriculation Certificate
 Matriculation Certificate (Malta)
 Matriculation exam (Finland)
 Matriculation examination
-Matriculation in South Africa
 Matrifocal family
 Matrikas
 Matrilineality
@@ -90841,6 +90818,7 @@ Matthews, North Carolina
 Matthews, Wright & King
 Matthias Aschenbrenner
 Matthias Corvinus
+Matthias Gross
 Matthias Jakob Schleiden
 Matthias Kreck
 Matthias of Trakai
@@ -92931,7 +92909,6 @@ Micah Owings
 Micah Parsons
 Micah Solusod
 Micah True
-Micah Wright
 Micaiah John Muller Hill
 Micanopy, Florida
 Micas
@@ -93233,6 +93210,7 @@ Michelle Antoine
 Michelle Dockery
 Michelle L. Wachs
 Michelle Manes
+Michelle Murphy
 Michelle Obama
 Michelle Remembers
 Michelle Sagara
@@ -93700,6 +93678,7 @@ Microsoft worker organizations
 Microsoft-specific exception handling mechanisms
 Microspikes
 Microsporangia
+Microsporangium
 Microspore
 Microstate (statistical mechanics)
 Microstigma
@@ -98128,6 +98107,7 @@ Napkin PC
 Napkin folding
 Napkin folding problem
 Napkin holder
+Napkin protest
 Napkin psoriasis
 Napkin ring
 Napkin ring cylinder
@@ -98453,6 +98433,7 @@ Nathaniel Clyne
 Nathaniel Erskine-Smith
 Nathaniel Hawthorne
 Nathaniel Holmes
+Nathaniel Holmes (theologian)
 Nathaniel Knight-Percival
 Nathaniel Lindley, Baron Lindley
 Nathaniel Lord Britton
@@ -99886,7 +99867,6 @@ NhaA family
 NhaB family
 Nheengatu
 Nheengatu language
-Ni
 Ni-Vanuatu
 Ni1000
 Nia Imara
@@ -101019,6 +100999,7 @@ Normalization (people with disabilities)
 Normalization (statistics)
 Normalization constant
 Normalization of deviance
+Normalization process theory
 Normalized difference vegetation index
 Normalized frequency (fiber optics)
 Normalized loop
@@ -101141,6 +101122,7 @@ North from Here
 North magnetic pole
 Northamptonshire
 Northeast Africa
+Northeast Canada
 Northeast Greenland National Park
 Northeast Interstate Dairy Compact
 Northeast Passage
@@ -101152,6 +101134,7 @@ Northern & Shell
 Northern America
 Northern Athabaskan languages
 Northern California
+Northern Canada
 Northern Canadian Shield taiga
 Northern Catalonia
 Northern Cyprus
@@ -102546,7 +102529,6 @@ Okinawa Prefectural Board of Education
 Okinawa Prefecture
 Okinawa SV
 Okinawa diet
-Okinawan Japanese
 Okinawan cuisine
 Okinawan kobudō
 Okinawan language
@@ -103794,6 +103776,7 @@ Oral medicine
 Oral mucosa
 Oral pigmentation
 Oral poetry
+Oral reasons of the Supreme Court of Canada
 Oral rehydration therapy
 Oral sedation dentistry
 Oral sex
@@ -104950,7 +104933,6 @@ Overload (novel)
 Overload (video game)
 Overloaded: The Singles Collection
 Overloading
-Overloading (chess)
 Overly Dedicated
 Overmedicalization
 Overoraptor
@@ -106514,6 +106496,7 @@ Parlatoria cakiloidea
 Parlement of Paris
 Parler
 Parliament
+Parliament of Canada
 Parliament of Paris
 Parliamentary
 Parliamentary Oversight Panel (Germany)
@@ -107344,7 +107327,6 @@ Pavlovsk, Saint Petersburg
 Pavo (constellation)
 Pavonia (plant)
 Pavonini
-Pawn (chess)
 Pax (command)
 Paxillosida
 Paxos (computer science)
@@ -110595,7 +110577,6 @@ PlaneShift (video game)
 Planegg
 Planes Mistaken for Stars
 Planes minutus
-Planes of Fame Air Museum
 Planes, Trains and Eric
 Planes: Fire & Rescue
 Planescape
@@ -112288,7 +112269,9 @@ Pope Isaac of Alexandria
 Pope Joan
 Pope John
 Pope John Paul I
+Pope John Paul I conspiracy theories
 Pope John Paul II
+Pope John Paul II bibliography
 Pope John VIII
 Pope John X
 Pope John XII
@@ -114361,7 +114344,6 @@ Promontory forts of Cornwall
 Promoter (entertainment)
 Promoter (genetics)
 Promoter based genetic algorithm
-Promotion (chess)
 Promotion (marketing)
 Promotion of anorexia
 Promotion to the 2. Bundesliga
@@ -114998,6 +114980,7 @@ Provider/Consumer
 Providone-iodine
 Province
 Province of Brindisi
+Province of Canada
 Province of Connecticut
 Province of Cáceres
 Province of Granada
@@ -117751,6 +117734,7 @@ Raoult's law
 Rao–Blackwell theorem
 Rapa Nui language
 Rapa Nui people
+Rapamycin
 Rape
 Rape and revenge film
 Rapelang Rabana
@@ -121150,6 +121134,7 @@ Robin Sibson
 Robin Warren
 Robin Wayne Bailey
 Robin Williams
+Robin Williams (academic)
 Robin Wright
 Robin of Sherwood
 Robin van Persie
@@ -121410,7 +121395,6 @@ Rolando Blackman
 Rolando Dy
 Rolando Hinojosa-Smith
 Rolando López Salinas
-Rolando McClain
 Rolando Tinio
 Rolando Villazón
 Rolando Zanni
@@ -121694,8 +121678,6 @@ Roofing material
 Roofline model
 Rooftop solar power
 Rook (bird)
-Rook (chess)
-Rook and bishop versus rook endgame
 Rook polynomial
 Rook's graph
 Rookie Blue
@@ -121996,6 +121978,7 @@ Royal Pioneer Corps
 Royal Radar Establishment Automatic Computer
 Royal Skousen
 Royal Society
+Royal Society of Canada
 Royal Swedish Academy of Sciences
 Royal assent
 Royal court
@@ -122399,11 +122382,13 @@ S-plane
 S-process
 S-wave
 S-waves
+S. Barry Barnes
 S. Fowler Wright
 S. G. Dani
 S. John Ross (artist)
 S. Joseph
 S. Lawrence Zipursky
+S. Lochlann Jain
 S. M. Stirling
 S. N. Goenka
 S. P. Hosimin
@@ -122601,6 +122586,7 @@ SR (programming language)
 SR Class 6Pul
 SR U class
 SR U1 class
+SR Usa 0-6-0 Dock Tank
 SR protein
 SRD5A1
 SRD5A2
@@ -122696,6 +122682,7 @@ Sabar people
 Sabina Jeschke
 Sabina Shoal
 Sabina Spielrein
+Sabine Hossenfelder
 Sabine Van Huffel
 Sablefish
 Sabotage
@@ -122732,6 +122719,7 @@ Sacral plexus
 Sacrament
 Sacraments
 Sacred
+Sacred Books of the East
 Sacred precinct
 Sacred site
 Sacred space
@@ -122781,6 +122769,7 @@ Safe deposit box
 Safe navigation operator
 Safe operating area
 Safe sex
+Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users
 Safed
 Safeguard
 Safeguard Defenders
@@ -122789,6 +122778,11 @@ Safeguard-class rescue and salvage ship
 Safeguarded wharf
 Safeguarding
 Safeguarding (planning law)
+Safeguarding Canadians' Personal Information Act
+Safeguarding Therapeutics Act
+Safeguarding Vulnerable Groups Act 2006
+Safeguarding of Industries (Customs Duties) Act 1925
+Safeguarding of Industries Act 1921
 Safeguards Transporter
 Safet Hadžić
 Safet Halilović
@@ -122975,6 +122969,7 @@ Saks Off 5th
 Sakthan Thampuran
 Sakura Schafer-Nameki
 Sakura, Chiba
+Sal Restivo
 Salad dressing
 Salad spinner
 Salafi movement
@@ -123404,6 +123399,7 @@ Sandpiper
 Sandra Arlinghaus
 Sandra Faber
 Sandra Gregory
+Sandra Harding
 Sandra Mitchell Hedetniemi
 Sandra Steingraber
 Sandra Trehub
@@ -124229,7 +124225,6 @@ Science
 Science Advances
 Science Publishing Group
 Science and engineering
-Science and technology studies
 Science as a Vocation
 Science communication
 Science fiction
@@ -124713,6 +124708,8 @@ Secernentea
 Seclusion
 Secobarbital
 Second
+Second Amendment of the Constitution of Ireland
+Second Catilinarian conspiracy
 Second Council of Nicaea
 Second Foundation
 Second Hardy–Littlewood conjecture
@@ -125509,6 +125506,7 @@ Semustine
 Sen'Derrick Marks
 Senate
 Senate Properties
+Senate of Canada
 Senator Christensen
 Senator Christensen (disambiguation)
 Senator Scanlon
@@ -126439,6 +126437,7 @@ Sheikha Helawy
 Sheila Bird
 Sheila Finch
 Sheila Greibach
+Sheila Jasanoff
 Sheila May Edmonds
 Sheila Oates Williams
 Sheila Scott
@@ -126689,6 +126688,7 @@ Shoaling and schooling
 Shoals Marine Laboratory
 Shoals, Indiana
 Shoalwater Bay
+Shobita Parthasarathy
 Shock (circulatory)
 Shock (mechanics)
 Shock absorber
@@ -127410,6 +127410,7 @@ Simon Plouffe
 Simon R. Green
 Simon Rose (author)
 Simon Says
+Simon Schaffer
 Simon Stålenhag
 Simon bar Kokhba
 Simon de Montfort, 6th Earl of Leicester
@@ -127649,6 +127650,7 @@ Simulation video game
 Simulation-based optimization
 Simulation-to-Flight 1
 SimulationX
+Simulations Canada
 Simulations Plus
 Simulations Publications, Inc.
 Simulator sickness
@@ -127855,6 +127857,7 @@ Sir William Rowan Hamilton
 Sirenia
 Sirenik language
 Sirohi
+Sirolimus
 Sisenand
 Sisimiut
 Sistan and Baluchestan province
@@ -131592,6 +131595,7 @@ Statistically independent
 Statistician
 Statistics
 Statistics (disambiguation)
+Statistics Canada
 Statistics education
 Stative verb
 Statsborgeren
@@ -132002,6 +132006,7 @@ Steve Shnider
 Steve Stapler
 Steve Vickers (computer scientist)
 Steve White (author)
+Steve Woolgar
 Steve Wozniak
 Stevedore
 Stevedore knot (mathematics)
@@ -132015,6 +132020,7 @@ Steven Curtis Chapman
 Steven Erikson
 Steven Gould
 Steven Kleiman
+Steven L. Goldman
 Steven L. Kent
 Steven Lawther
 Steven M. LaValle
@@ -132983,11 +132989,20 @@ Students
 Students' union
 Student–Newman–Keuls method
 Studia Mathematica
+Studies on Homer and the Homeric Age
 Studio Ghibli
+Studio for Electro-Instrumental Music
 Study design
 Study software
 Stuffed toy
 Stupa
+Stupid Coalescing Becomers
+Stupid Fucking Bird
+Stupid Hoe
+Stupid Invaders
+Stupid Stupid Stupid
+Stupid in Love
+Stupida
 Stupidity
 Sturamustine
 Sturgeon
@@ -135465,6 +135480,7 @@ Tamari lattice
 Tamarind
 Tamaulipas
 Tambja morosa
+Tambo (Inca structure)
 Tambo (Incan structure)
 Tame manifold
 Tame topology
@@ -135604,7 +135620,6 @@ Tannakian duality
 Tannakian formalism
 Tannase
 Tanner
-Tanner '88
 Tanner Amphitheater
 Tanner Buchanan
 Tanner Foust
@@ -136213,6 +136228,7 @@ Telemeter chronograph
 Telemetry
 Telencephalon
 Telenet
+Teleogenesis
 Teleological
 Teleology
 Teleomorph, anamorph and holomorph
@@ -136397,8 +136413,10 @@ Temporary Protection Directive
 Temporary adjustments of theodolites
 Temporary capital of Lithuania
 Temporary crown
+Temporary foreign worker program in Canada
 Temporary gentlemen
 Temporary protected status
+Temporary residency in Canada
 Temporary work
 Temporomandibular joint
 Temporomandibular joint dysfunction
@@ -136665,6 +136683,7 @@ Territorial
 Territorial dispute
 Territorial police force
 Territorial waters
+Territories of Canada
 Territory
 Territory (animal)
 Terroir
@@ -137256,7 +137275,6 @@ The Signpost
 The Simpsons
 The Smashing Pumpkins
 The Source
-The Spiral (New York City)
 The Story of Art
 The Street Trust
 The Structure of Scientific Revolutions
@@ -139455,9 +139473,11 @@ Tractable problem
 Tractatus Logico-Philosophicus
 Tractatus Politicus
 Tractatus Theologico-Politicus
+Traction (mechanics)
 Traction control system
 Traction engine
 Traction motor
+Tractive effort
 Tractrix
 Tracy Caldwell Dyson
 Tracy Caulkins
@@ -139919,7 +139939,6 @@ Transposed Paternò−Büchi reaction
 Transposed excitation
 Transposed letter effect
 Transposer
-Transposition (chess)
 Transposition (logic)
 Transposition (mathematics)
 Transposition (music)
@@ -139960,7 +139979,6 @@ Transverse wave
 Transverse-field Ising model
 Transversion
 Transylvania
-Trap Door (magazine)
 Trap Door Spiders
 Trapdoor
 Trapdoor (company)
@@ -139978,14 +139996,9 @@ Trapezoid graph
 Trapezoidal
 Trapezoidal rule
 Trapezus
-Trapped ion quantum computer
 Trapped-ion quantum computer
 Trapping
 Trappists
-Trash Boat
-Trash talk
-Trash-talk
-Trashion
 Trastuzumab deruxtecan
 Trastuzumab emtansine
 Trastuzumab/hyaluronidase
@@ -139996,28 +140009,17 @@ Traumatic stress
 Trautonium
 Travel
 Travel Bug
-Travel Edition 1990–2005
 Travel document
 Travel insurance
 Travel to work area
 Travel trailers
 Travel-routing system
-TravelCenters of America
 Traveler
-Traveler's Rest (Lolo, Montana)
-Travelers Aid Family Services of Boston
-Travelers Aid International
-Travelers Rest (Toccoa, Georgia)
-Travelers' Century Club
-Travelers' diarrhea
-Travelers' information station
 Traveline
 Traveling carnival
 Traveling salesman problem
 Traveller's Tales
 Traveller's cheque
-Travellers Club
-Travellers and Magicians
 Travelling funfair
 Travelling gnome
 Travelling salesman problem
@@ -140026,16 +140028,12 @@ Travesti (theatre)
 Travesties
 Traveston
 Traveston Crossing Dam
-Traveston Powder Magazine
 Travesty
-Travesty of Justice
 Travis
-Travis (chimpanzee)
 Travis A. Greaves
 Travis Ackerman
 Travis Alabanza
 Travis Allen
-Travis Association for the Blind
 Travis Atkins
 Travis Barker
 Travis Benjamin
@@ -140064,10 +140062,7 @@ Travis Jayner
 Travis Jeppesen
 Travis Jervey
 Travis Jewett
-Travis Johnson (defensive end)
-Travis Johnson (linebacker)
 Travis Johnstone
-Travis Jones (defensive lineman)
 Travis Kalanick
 Travis Pastrana
 Travis S. Taylor
@@ -140075,12 +140070,10 @@ Travis Tedford
 Travis Toews
 Travis Tomko
 Travis Tope
-Travis Touchdown
 Travis Trice
 Travis Trickett
 Travis Turnbull
 Travis Tygart
-Travis and Bob
 Travist Joseph
 Travistan
 Trazodone
@@ -140266,6 +140259,7 @@ Treveri
 Trevor Ariza
 Trevor Harley
 Trevor Hastie
+Trevor Pinch
 Trevor Swan
 Trey Anastasio
 Tri-Cities (British Columbia)
@@ -141600,6 +141594,7 @@ Type III error
 Type IV collagen
 Type IV hypersensitivity
 Type Ia supernova
+Type Iax supernova
 Type Ib and Ic supernovae
 Type O Negative
 Type Tunnel pattern
@@ -142001,6 +141996,7 @@ Ulotrichales
 Ulrica Wilson
 Ulrich K. Laemmli
 Ulrike Beisiegel
+Ulrike Felt
 Ulrike Grömping
 Ulrike Leopold-Wildburger
 Ulrike Tillmann
@@ -142864,12 +142860,14 @@ Upper Broughton
 Upper Burgundy
 Upper Caldecote
 Upper Calder Valley
+Upper Canada
 Upper Canada Guardian
 Upper Canada Rebellion
 Upper Carniola
 Upper Chattahoochee Riverkeeper
 Upper Chichester Township, Pennsylvania
 Upper Chinook language
+Upper Clyde Shipbuilders
 Upper Coomera, Queensland
 Upper Darby Fire Department
 Upper Dart
@@ -146735,6 +146733,7 @@ Widmanstätten pattern
 Widmanstätten patterns
 Widom insertion method
 Width
+Wiebe Bijker
 Wiedemann–Franz law
 Wiegand effect
 Wien's displacement law
@@ -147693,7 +147692,6 @@ Worms, Germany
 Wormshill
 Wormwood
 Worry
-Worship of heavenly bodies
 Worst-case
 Worst-case circuit analysis
 Worst-case complexity
@@ -147832,6 +147830,7 @@ X Development
 X Window System
 X Window System protocols and architecture
 X bot
+X bot (formerly knowed as Twitter bot)
 X chromosome
 X video extension
 X(3872)
@@ -149404,6 +149403,7 @@ Zero-based numbering
 Zero-configuration networking
 Zero-copy
 Zero-day (computing)
+Zero-day vulnerability
 Zero-divisor
 Zero-divisor graph
 Zero-energy building
