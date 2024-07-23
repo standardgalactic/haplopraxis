@@ -5,15 +5,9 @@
 The default branch has been renamed!
 master is now named 
 
-## How to Use
+[![Broken Sign](broken-sign.gif)](https://standardgalactic.github.io)
 
-Cut and paste Wikipedia watchlist 
+![](font-sample.png)
 
-From
-- Indistinguishable From Magic (IFM)
+This page is live at [https://standardgalactic.github.io/haplopraxis](https://standardgalactic.github.io/haplopraxis)
 
-https://github.com/standardgalactic/Haplopraxis/blob/%EE%AD%8F%EE%AD%91%EE%AD%88%EE%AD%8C%EE%AD%80%EE%AD%91%EE%AD%98/IFM/Wikipedia-watchlist.txt
-
-To http://en.wikipedia.org/wiki/Special:EditWatchlist/raw
-
-Add interesting topics and remove uninteresting ones, keeping the list at 150,000.
