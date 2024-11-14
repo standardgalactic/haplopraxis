@@ -2,6 +2,8 @@
 
 ## Simple Practice
 
+![](IFM/simple-practice.png)
+
 The default branch has been renamed!
 master is now named 
 

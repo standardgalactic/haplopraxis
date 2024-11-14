@@ -1412,34 +1412,6 @@ ARCHIVE Global
 ARCNET
 ARE
 ARGUS distribution
-ARM Cortex-A12
-ARM Cortex-A15
-ARM Cortex-A17
-ARM Cortex-A34
-ARM Cortex-A5
-ARM Cortex-A510
-ARM Cortex-A520
-ARM Cortex-A53
-ARM Cortex-A55
-ARM Cortex-A57
-ARM Cortex-A7
-ARM Cortex-A710
-ARM Cortex-A715
-ARM Cortex-A72
-ARM Cortex-A720
-ARM Cortex-A73
-ARM Cortex-A75
-ARM Cortex-A76
-ARM Cortex-A77
-ARM Cortex-A78
-ARM Cortex-A8
-ARM Cortex-A9
-ARM Cortex-M
-ARM Cortex-R
-ARM Cortex-X1
-ARM Cortex-X2
-ARM Cortex-X3
-ARM Cortex-X4
 ARM Holdings
 ARM Neoverse
 ARM architecture
@@ -2858,7 +2830,6 @@ Acsa
 Act (document)
 Act (law)
 Act-S
-ActBlue
 Acta Curiae
 Acta Eruditorum
 Acta diurna
@@ -4608,6 +4579,7 @@ Akwamu people
 Akyem
 Al Burnett
 Al Dubois
+Al Gordon
 Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud
 Al Jazeera
 Al Jazeera (disambiguation)
@@ -5480,6 +5452,7 @@ Algoid (programming language)
 Algol
 Algonquian languages
 Algonquian peoples
+Algonquin language
 Algorithm
 Algorithm (C++)
 Algorithm (disambiguation)
@@ -6249,6 +6222,7 @@ Alsophila spinulosa
 Alsos Mission
 Alsou
 Alspach's conjecture
+Alssund
 Alston Scott Householder
 Alstonia
 Alstonia venenata
@@ -6688,6 +6662,7 @@ Amdahl's law
 Amdon
 Amedeo Avogadro
 Ameland
+Amelanism
 Amelia (company)
 Amelia Griffiths
 Amelia Reynolds Long
@@ -7850,6 +7825,7 @@ Andvari
 Andvord Bay
 Andy Anstett
 Andy Kaufman
+Andy Lanning
 Andy Rooney
 Andy Van Dorsselaer
 Andy Van Hekken
@@ -8283,13 +8259,11 @@ Anna Freud
 Anna Irwin Young
 Anna J. Harrison
 Anna J. Schwartz
-Anna Jay
 Anna Jean Ayres
 Anna Johnson Pell Wheeler
 Anna Karlin
 Anna Kiesenhofer
 Anna Lindh
-Anna Lynch (billiards player)
 Anna Lynch-Robinson
 Anna Lypkivska
 Anna Lysyanskaya
@@ -9049,9 +9023,6 @@ Anyonic Lie algebra
 Anyte
 Anzick-1
 Anzû
-Análisis funcional
-Análisis matemático
-Análisis paradigmático
 Aníbal Quijano
 AoTeAroa
 Aogashima
@@ -9626,13 +9597,11 @@ Aquaculture of salmonids
 Aquafaba
 Aquajogging
 Aqualad (Kaldur'ahm)
-Aquaman (película)
 Aquapheresis
 Aquaponics
 Aquarium
 Aquarium de Barcelona
 Aquarium filter
-Aquarius (película)
 Aquatic animal
 Aquatic chemistry
 Aquatic ecosystem
@@ -9967,7 +9936,6 @@ Archive for Mathematical Logic
 Archive for Rational Mechanics and Analysis
 Archives management
 Archivist
-Archivo (informática)
 Archos AV series
 Archosaur
 Archosauria
@@ -10874,6 +10842,7 @@ Ascalista
 Ascanio Sobrero
 Ascariasis
 Ascaridida
+Ascaridomorpha
 Ascaris
 Ascaris lumbricoides
 Ascea
@@ -12815,6 +12784,7 @@ Autorouter
 Autorreferencia
 Autoscopy
 Autosomal dominant
+Autosomal recessive
 Autosome
 Autospore
 Autostereogram
@@ -12973,7 +12943,6 @@ Awad Saud Awad
 Awaiting
 Awaiting Trial
 Awaiting Your Reply
-Awake (película)
 Awareness
 Awas Tingni
 Away From Home
@@ -13833,6 +13802,7 @@ Ball lens
 Ball lightning
 Ball mill
 Ball screw
+Ball terminal
 Ball tree
 Ball's Pyramid
 Ball-and-disk integrator
@@ -21981,7 +21951,6 @@ Capita Super
 Capital (architecture)
 Capital (economics)
 Capital (political)
-Capital (política)
 Capital account
 Capital accumulation
 Capital asset
@@ -22120,6 +22089,7 @@ Carbohydrate chemistry
 Carbohydrate conformation
 Carbohydrate metabolism
 Carbohydrate synthesis
+Carbohydrate-binding module
 Carbohydrates
 Carbon
 Carbon Balance and Management
@@ -22352,6 +22322,7 @@ Cargo Sous Terrain
 Cargo cult
 Cargo cult programming
 Cargo cult science
+Cari Tuna
 Caria
 Caribbean
 Caribbean Media Corporation
@@ -22819,6 +22790,7 @@ Carolyn Kieran
 Carolyn King (zoologist)
 Carolyn Lawrence-Dill
 Carolyn Mahoney
+Carolyn Meinel
 Carolyn Porco
 Carolyn S. Gordon
 Carolyn S. Shoemaker
@@ -23820,6 +23792,7 @@ Cellulose fiber
 Cellulose insulation
 Cellulose nitrate
 Cellulosic ethanol
+Cellulosome
 Celosia argentea
 Celsius
 Celso Costa
@@ -26874,6 +26847,8 @@ Clarice di Durisio
 Clarification and stabilization of wine
 Clarifying agent
 Clarion-Clipperton Zone
+Clarion-Clipperton zone
+Clarion–Clipperton zone
 Clarividente
 Clark Ashton Smith
 Clark Kimberling
@@ -28057,7 +28032,6 @@ Coefficient of restitution
 Coefficient of thermal expansion
 Coefficient of variation
 Coefficients
-Coeficiente (matemática)
 Coeficiente binomial
 Coeficiente trinomial
 Coeficientes Clebsch—Gordan
@@ -28282,6 +28256,7 @@ Coherent topos
 Coherent turbulent structure
 Coherentism
 Coherer
+Cohesin domain
 Cohesion (chemistry)
 Cohesion (computer science)
 Cohesion number
@@ -28671,6 +28646,7 @@ Colorimetry
 Coloring
 Coloring book
 ColoringBook
+Colorist
 Colorless green ideas sleep furiously
 Colors of noise
 Colossal Cave Adventure
@@ -29808,8 +29784,6 @@ Compton scattering
 Compton wavelength
 Comptonella
 CompuServe
-Compuerta lógica
-Compuesto químico
 Compulsive behavior
 Compulsory voting
 Compurgation
@@ -30342,7 +30316,6 @@ Concrete slab
 Concrete syntax
 Concrete syntax tree
 Concretion
-Concurrencia (informática)
 Concurrency (computer science)
 Concurrency (road)
 Concurrency control
@@ -32550,6 +32523,7 @@ Corte Permanente de Justicia Internacional
 Cortes Generales
 Cortes de Dedekind
 Cortes of Cádiz
+Corteva Coliseum
 Cortex (anatomy)
 Cortex (archaeology)
 Cortex (botany)
@@ -36768,7 +36742,6 @@ Databank format
 Database
 Database (journal)
 Database Center for Life Science
-Database Center for North Korean Human Rights
 Database Directive
 Database Management Library
 Database Management System
@@ -37062,7 +37035,6 @@ David Maier
 David Makinson
 David Malament
 David Malet Armstrong
-David Manning (fictitious writer)
 David Marks (psychologist)
 David Marr (neuroscientist)
 David Marusek
@@ -37339,7 +37311,6 @@ Deadlock (computer science)
 Deadlock detection algorithm
 Deadmau5
 Deadnaming
-Deadpool (película)
 Deadstar 2
 Deadweight loss
 Deadweight tester
@@ -37664,14 +37635,11 @@ Deep
 Deep Adaptation
 Deep Blue versus Garry Kasparov
 Deep Ecliptic Survey
-Deep Impact (película)
 Deep Impact (spacecraft)
 Deep Lead Nature Conservation Reserve
 Deep Learning Studio
 Deep River, Connecticut
-Deep South
 Deep Space Network
-Deep Space Nine (fictional space station)
 Deep Throat (Watergate)
 Deep Underground Neutrino Experiment
 Deep Web Technologies
@@ -37730,9 +37698,6 @@ Deeplearning4j
 Deepwater Horizon explosion
 Deer Island, South Coast, Newfoundland and Labrador
 Deerhunter
-Deez Nuts (satirist)
-Defamation
-Defamiliarisation
 Defamiliarization
 Default (law)
 Default argument
@@ -37788,14 +37753,6 @@ Definite integral
 Definite matrix
 Definite quadratic form
 Definite symmetric matrix
-Definitely Dead
-Definitely La Yi Yi Yi
-Definitely Maybe (disambiguation)
-Definitely Maybe Tour
-Definitely Neighbors
-Definitely Not the Opera
-Definitely Now
-Definitely, Maybe
 Definiteness (disambiguation)
 Definiteness of a matrix
 Definition
@@ -38116,6 +38073,7 @@ Deltopectoral groove
 Deltoplastis causidica
 Deltritus
 Delusion
+Delvenau
 Demagnetization
 Demagnetizing field
 Demake
@@ -39470,6 +39428,7 @@ Didemnum vexillum
 Dideoxynucleotide
 Didier Dubois (mathematician)
 Didinium
+Didone (typography)
 Didrik Arup Seip
 Didyma
 Didymeles
@@ -41440,7 +41399,6 @@ Doctor
 Doctor (title)
 Doctor Faustus (play)
 Doctor Who
-Doctor Zhivago (película)
 Doctor in a cell
 Doctor of Medicine
 Doctor of Osteopathic Medicine
@@ -43348,6 +43306,7 @@ EEG
 EEG analysis
 EEPROM
 EF
+EF hand
 EF-G
 EF-Tu
 EFD
@@ -44353,6 +44312,7 @@ Educator effectiveness
 Educação Sentimental
 Edukatione
 Edvard Moser
+Edward A. Bayer
 Edward A. Guggenheim
 Edward A. Shanken
 Edward B. Craft
@@ -46592,7 +46552,6 @@ Enantiomeric excess
 Enantioselective synthesis
 Enasidenib
 Encaje (matemática)
-Encanto (película)
 Encapsulation (computer programming)
 Encapsulation (networking)
 Encapsulin nanocompartment
@@ -47109,6 +47068,7 @@ English-based creole languages
 English-language
 English-language Scrabble
 English-speaking world
+EnglishChannel
 Engram (neuropsychology)
 Engraved gem
 Engraving
@@ -48540,6 +48500,7 @@ Esmond Knight
 Esomeprazole
 Esophagus
 Esophoria
+Esopus people
 Esoteric
 Esoteric knowledge
 Esoteric programming language
@@ -48786,7 +48747,6 @@ Eternal recurrence
 Eternal return
 Eternal statement
 Eternalism (philosophy of time)
-Eternals (película)
 Eternity
 Eternity of the world
 Eternity puzzle
@@ -52535,6 +52495,7 @@ Fiji
 Fijian language
 Fijians
 Filadelfia
+Filaggrin
 Filament
 Filament (magazine)
 Filament cusk
@@ -54871,7 +54832,6 @@ Fornix (neuroanatomy)
 Foro Económico Mundial
 Forrest City, Arkansas
 Forrest Griffin
-Forrest Gump (película)
 Forrest J Ackerman
 Forschungsinstitut für Kraftfahrwesen und Fahrzeugmotoren Stuttgart
 Forssan Jalkapalloklubi
@@ -59059,7 +59019,6 @@ Genre studies
 Genre works
 Genrich Altshuller
 Genrikh Altshuller
-Genrikh Yagoda
 Gens
 Gens humana
 Genseric
@@ -59072,7 +59031,6 @@ Gentianales
 Gentile Budrioli
 Gentisic acid
 Gentoo Linux
-Gentrification
 Gentry
 Gentry Brothers
 Gentry County, Missouri
@@ -60119,6 +60077,7 @@ Giacomo Ceruti
 Giacomo Mauro D'Ariano
 Giacomo Meyerbeer
 Giallo
+Giambattista Bodoni
 Giambattista Vico
 Giambattista della Porta
 Giampietro Stocco
@@ -62850,14 +62809,9 @@ Greek philosophy
 Greek riddles
 Greek tragedy
 Greek uncial
-Greek words for love
-Greek wrestling
 Greeks
 Green
-Green Book (película)
 Green Dot (symbol)
-Green Economy in Kazakhstan
-Green Grow the Lilacs (play)
 Green Hill Zone
 Green New Deal
 Green Revolution
@@ -62926,8 +62880,6 @@ Greenlandic language
 Greenlight
 Greenpeace
 Greenpilot
-Greenscamming
-Greenwashing
 Greenway (landscape)
 Greenwich, Connecticut
 Greenwich-meridiaan
@@ -72030,10 +71982,7 @@ Hyperspheres
 Hypersthene
 Hypersurface
 Hypertabastic survival models
-Hypertension and the brain
-Hypertensive disease of pregnancy
-Hypertensive heart disease
-Hypertensive kidney disease
+Hypertension
 Hypertext
 Hypertext (semiotics)
 Hypertext Application Language
@@ -72717,6 +72666,7 @@ Ichiro Kishimi
 Ichirō Satake
 Ichneumonidae
 Ichthyology
+Ichthyosis
 Ichthyostega
 Ichthyostegalia
 Ichthyotoxin
@@ -74312,6 +74262,7 @@ Ink
 Ink brush
 Ink cartridge
 Ink wash painting
+Inker
 Inkjet printer
 Inkjet printing
 Inkjet refill kit
@@ -76274,7 +76225,6 @@ Isseka, Western Australia
 Isserlis' theorem
 Issoria
 Issue tree
-Issues affecting the single transferable vote
 Istanbul
 Isthmian script
 Isthmus
@@ -77762,6 +77712,7 @@ Joe Haldeman
 Joe Lieberman
 Joe Pantoliano
 Joe Scarborough
+Joe Simon
 Joe Stillman
 Joel Asaph Allen
 Joel Atkins
@@ -79499,7 +79450,6 @@ Justin Clark
 Justin Clarke
 Justin Cobb
 Justin Coleman
-Justin Cook
 Justin Credible
 Justin Currie
 Justin D. Edwards
@@ -79581,7 +79531,6 @@ Justin Keenan
 Justin Kelly (actor)
 Justin Kiriakis
 Justin Kirk
-Justin Knapp
 Justin Knox
 Justin Koschitzke
 Justin Krueger
@@ -80643,6 +80592,7 @@ Keith Clark (computer scientist)
 Keith Dalziel
 Keith Devlin
 Keith Gill
+Keith Henson
 Keith J. Laidler
 Keith Jackson
 Keith Laumer
@@ -81330,6 +81280,7 @@ Klara Kedem
 Klara Löbenstein
 Klaus Biemann
 Klaus Fuchs
+Klaus Janson
 Klaus Krippendorff
 Klaus Mølmer
 Klaus Roth
@@ -82762,6 +82713,7 @@ Lani Forbes
 Laniakea Supercluster
 Laniatores
 Laning and Zierler system
+Lanolin
 Lansford, Pennsylvania
 Lansing Lugnuts
 Lantau Island
@@ -86830,6 +86782,7 @@ Luigi's Mansion
 Luis Antonio Rivera
 Luis Eduardo Luna
 Luis Federico Leloir
+Luis van Rooten
 Luisa Ortega Díaz
 Luisa Ottolini
 Luise Meyer-Schützmeister
@@ -87256,6 +87209,7 @@ Löfven I cabinet
 Löllbach
 Löwenheim–Skolem theorem
 Lúcia Maria Mendes Gonçalves dos Passos
+Lübeck
 Lüliang
 Lüroth's theorem
 Lūʻau
@@ -88731,6 +88685,7 @@ Marc Morrone
 Marc Okrand
 Marc Rucart
 Marc Sherman
+Marc Silvestri
 Marc Stiegler
 Marcel André Boisard
 Marcel Duchamp
@@ -89462,6 +89417,7 @@ Martin Buber
 Martin Caidin
 Martin Charles Golumbic
 Martin Cooper (inventor)
+Martin Cregier
 Martin David Kruskal
 Martin Davis (mathematician)
 Martin Elbourne
@@ -89513,7 +89469,6 @@ Martinus Beijerinck
 Martinus Houttuyn
 Martinus J. G. Veltman
 Martu people
-Marty McFly and The Starlighters
 Martyn Hammersley
 Marva Dawn
 Marvalee Wake
@@ -90037,6 +89992,7 @@ Mathematical models of social learning
 Mathematical morphology
 Mathematical notation
 Mathematical object
+Mathematical object (philosophy)
 Mathematical objects
 Mathematical operation
 Mathematical operator
@@ -91273,11 +91229,13 @@ Melanie Wood
 Melanin
 Melanippe
 Melanippus
+Melanism
 Melanocortin 1 receptor
 Melanocyte
 Melanocyte-stimulating hormone
 Melanocytes
 Melanogenesis
+Melanophore
 Melanosome
 Melanthea
 Melanthiaceae
@@ -92724,6 +92682,7 @@ Michael Quintero
 Michael Quirke
 Michael Quiñónez
 Michael R. Douglas
+Michael R. Lerner
 Michael Ramsey
 Michael Rapaport
 Michael Reagan
@@ -93433,6 +93392,7 @@ Middle Franconia
 Middle French
 Middle Indo-Aryan languages
 Middle Jurassic
+Middle Low German
 Middle Miocene
 Middle Miocene disruption
 Middle Ordovician
@@ -95680,6 +95640,7 @@ Morganucodonta
 Morgenthau Plan
 Mori Chack
 Morikazu Toda
+Moritz Kaposi
 Moritz Ludwig Frankenheim
 Moritz Pasch
 Moritz Schlick
@@ -99398,6 +99359,7 @@ New Math
 New Milford, Connecticut
 New Objectivity
 New Orleans
+New Paltz, New York
 New Providence
 New Public Management
 New Research Building
@@ -99982,6 +99944,7 @@ Nishapur
 Nishapur County
 Nishi-Shinjuku
 Nisi Shawl
+Niskayuna, New York
 Nisnevich topology
 Nisporeni
 Nissan YD engine
@@ -101394,6 +101357,7 @@ Nyctimus
 Nyctimus (spider)
 Nyctophilus
 Nyctosaurus
+Nydam Mose
 Nydia Caro
 Nyika language
 Nyima County
@@ -102247,6 +102211,7 @@ Oitekaze stable
 Oiteyama Hirokuni
 Oja's rule
 Ojibwe language
+Ojibwe writing systems
 Ojos de Agua
 Ojos de Agua, El Salvador
 Okakura Kakuzō
@@ -104273,6 +104238,7 @@ Osazone
 Osbaston, Oswestry
 Osbaston, Telford
 Osborne Reynolds
+Osborne effect
 Oscar Isaac
 Oscar J. Friend
 Oscar Wilde
@@ -104407,6 +104373,7 @@ Osteopathic medicine
 Osteopathy
 Osteoporosis
 Osteosarcoma
+Ostholstein
 Ostia (Rome)
 Ostilio Ricci
 Ostinato
@@ -104726,6 +104693,7 @@ Owariki
 Owe Nordqvist
 Owen A. Wells
 Owen Barfield
+Owen King
 Owen Orford
 Owen's T function
 Oweniidae
@@ -105338,19 +105306,6 @@ Painted turtle
 Painter (person)
 Painter's algorithm
 Painting
-Painting Pictures
-Painting and Travel with Roger and Sarah Bansemer
-Painting in ancient Rome
-Painting of a Panic Attack
-Painting of the Six Kings
-Painting on Glass
-Paintings attributed to Caravaggio
-Paintings conservator
-Paintings from Arlanza
-Paintings in Hospitals
-Paintings in Yellow
-Paintings on Masonite
-Paintings on masonite
 Pair
 Pair potential
 Pair programming
@@ -105663,8 +105618,6 @@ Pangenesis
 Pangkalan Kerinci
 Pangram
 Panhellenic sanctuary
-Panic attack
-Panic disorder
 Paniceae
 Panicle
 Panicoideae
@@ -106282,6 +106235,8 @@ Parliamentary republic
 Parliamentary system
 Parlophone
 Parlour game
+Parma
+Parma (shield)
 Parmarion
 Parmenides
 Parmenides (dialogue)
@@ -106444,6 +106399,7 @@ Parts-per notation
 Party wall
 Part–whole theory
 Parva Naturalia
+Parvalbumin
 Parvati
 Parvocellular neurosecretory cell
 Parvorder
@@ -107142,6 +107098,7 @@ Payne Stewart
 Payoff
 Payoneer
 Payroll
+PaysafeCard
 Paysafecard
 Paywall
 Payworld
@@ -107443,6 +107400,7 @@ Pencil (mathematics)
 Pencil (optics)
 Pencil beam
 Pencil fish
+Penciller
 Pendant
 Pendant group
 Pendellösung
@@ -108294,6 +108252,7 @@ Pervasive computing
 Pervasive game
 Perverse incentive
 Pervez Musharraf
+Pervez Musharraf/Temp
 Perylene
 Perylenetetracarboxylic dianhydride
 Peryton (astronomy)
@@ -108347,6 +108306,7 @@ Peter Collinson (botanist)
 Peter Corning
 Peter Coyote
 Peter D. Mitchell
+Peter David
 Peter Debye
 Peter Diggle
 Peter Dodds (mathematician)
@@ -110899,6 +110859,7 @@ Plestiodon tetragrammus
 Plethadenia
 Plethysmograph
 Plethystic substitution
+Pleura
 Pleural cavity
 Pleural effusion
 Pleural space
@@ -114667,6 +114628,8 @@ Protium (isotope)
 Protmušis
 Proto-Afroasiatic language
 Proto-Albanian language
+Proto-Algic language
+Proto-Algonquian language
 Proto-Austronesian language
 Proto-Balto-Slavic language
 Proto-Canaanite alphabet
@@ -115155,6 +115118,7 @@ Psychoacoustics
 Psychoactive drug
 Psychoactive substance
 Psychoanalysis
+Psychoanalysis Theory
 Psychoanalyst
 Psychoanalytic infant observation
 Psychoanalytic theory
@@ -115475,6 +115439,7 @@ Pumping lemma for regular languages
 Pumpkin
 Pump–probe microscopy
 Punch (tool)
+Punchcutting
 Punched card
 Punched card sorter
 Punched cards
@@ -117711,6 +117676,7 @@ Rashidun al-Suri
 Rashomon effect
 Rashtrakuta Empire
 Rashtrakuta dynasty
+Rashtrakuta empire
 Rashtrakutas
 Rasina (river)
 Rasiowa–Sikorski lemma
@@ -119207,6 +119173,7 @@ Repellor
 Repelón
 Reperfusion therapy
 Repertory grid
+Repetin
 Repetition (Kierkegaard book)
 Repetition (music)
 Repetition code
@@ -120770,6 +120737,7 @@ Rob Brezsny
 Rob Grant
 Rob Krier
 Rob Lacey
+Rob Liefeld
 Rob Pike
 Rob Schrab
 Rob Williams (comics)
@@ -120811,6 +120779,7 @@ Robert Baldick
 Robert Ball (naturalist)
 Robert Barnabas Brough
 Robert Bentley (botanist)
+Robert Besley
 Robert Bloch
 Robert Bowne Minturn
 Robert Bowne Minturn Jr.
@@ -123755,6 +123724,7 @@ Sbrk
 Scadoxus puniceus
 Scaffold protein
 Scaffold/matrix attachment region
+Scaffoldin
 Scala (programming language)
 Scala Records
 Scala Regia
@@ -124325,6 +124295,7 @@ Scott Reuben
 Scott Sehon
 Scott Sigler
 Scott Westerfeld
+Scott Williams (comics)
 Scott domain
 Scott information system
 Scott's Pi
@@ -124385,6 +124356,8 @@ Scribonia gens
 Scripophily
 Script
 Script (Unicode)
+Script (comics)
+Script breakdown
 Script doctor
 Scripting language
 Scriptio continua
@@ -124918,6 +124891,7 @@ Seether: 2002–2013
 Seething Wells
 Sefideh Khvan
 Sega Genesis
+Segeberg
 Segimer
 Segment (handwriting)
 Segment (linguistics)
@@ -125594,7 +125568,6 @@ Sentencing Reform and Corrections Act
 Sentential logic
 Sentience
 Sentient Information Systems
-Sentientism
 Sentiment analysis
 Sentimentality
 Sentinel node
@@ -126000,7 +125973,6 @@ Seven Types of Ambiguity
 Seven against Thebes
 Seven against Thebes (myth)
 Seven capital virtues
-Seven dirty words
 Seven heavenly virtues
 Seven hills
 Seven hills of Rome
@@ -126519,7 +126491,6 @@ Shiny Toy Guns
 Shiny cowbird
 Shinya Aoki
 Shinya Hashimoto
-Shinya Hashimoto Memorial Legacy Cup Tournament
 Shinya Kogami
 Shinya Tsukamoto
 Shinya Yamanaka
@@ -127418,6 +127389,7 @@ Simple aromatic ring
 Simple aromatic rings
 Simple as Water
 Simple columnar epithelium
+Simple continued fraction
 Simple cubic
 Simple cuboidal epithelium
 Simple cycle
@@ -128018,6 +127990,7 @@ Skyway
 Skyways (British airline)
 Skåbu
 Skåne County
+Slab serif
 Slack Technologies
 Slack tide
 Slack variable
@@ -130191,6 +130164,8 @@ Species
 Species (disambiguation)
 Species (metaphysics)
 Species Plantarum
+Species Richness and Diversity.
+Species Richness.
 Species complex
 Species description
 Species distribution
@@ -130201,7 +130176,6 @@ Species inquirenda
 Species nova
 Species richness
 Species-typical behavior
-Speciesism
 Specific
 Specific activity
 Specific angular momentum
@@ -130669,6 +130643,7 @@ Splenomegaly
 Splice (platform)
 Splice (system call)
 Spliceosome
+Splicing (genetics)
 Splicing factor
 Spline (mathematics)
 Spline (mechanical)
@@ -132246,6 +132221,7 @@ Storm (software)
 Storm Constantine
 Storm Thorgerson
 Storm-force
+Stormarn (district)
 Stormy Peters
 Stornoway
 Storrs, Connecticut
@@ -132648,6 +132624,7 @@ Stripping (linguistics)
 Striptease
 Stroboscope
 Stroke
+Stroke ending
 Stroke unit
 Stroke volume
 Stromagen
@@ -132752,6 +132729,7 @@ Structural chemistry
 Structural clay tile
 Structural coloration
 Structural differential
+Structural domain
 Structural dynamics
 Structural element
 Structural encroachment
@@ -133535,6 +133513,7 @@ Sundarbans National Park
 Sundarbans Reserve Forest
 Sunder Lal Hora
 Sunderland
+Sundeved
 Sundew
 Sundial
 Sunflow
@@ -134100,6 +134079,7 @@ Swarm intelligence
 Swarmalators
 Swarming (military)
 Swartkrans
+Swash (typography)
 Swashbuckler
 Sway bar
 Swayback
@@ -134663,6 +134643,7 @@ Synthetism
 Synthography
 Synthoid
 Synthon
+Syntonic comma
 Syntractrix
 Syntrichia latifolia
 Syntrophy
@@ -134841,6 +134822,7 @@ Søgneelva
 Sølen
 Sølve Skagen
 Sølve Sundsbø
+Sønderborg
 Sør-Fron
 Søre Svarthåmåren
 Søren Johansen
@@ -135406,6 +135388,7 @@ Talk
 Talk (software)
 Talk box
 Talk show
+TalkBack
 Talkan
 Talking Heads
 Talking bird
@@ -136625,6 +136608,7 @@ Territory (animal)
 Terroir
 Terrorism
 Terroristic threat
+Terry Austin (comics)
 Terry Bisson
 Terry Brooks
 Terry Carr
@@ -136675,6 +136659,7 @@ Test (student assessment)
 Test Valley
 Test and learn
 Test charge
+Test cross
 Test function
 Test functions for optimization
 Test light
@@ -138447,6 +138432,7 @@ Timoshenko beam theory
 Timoshenko–Ehrenfest beam theory
 Timothy Abbott Conrad
 Timothy C. May
+Timothy Dexter
 Timothy Gowers
 Timothy Leary
 Timothy M. Chan
@@ -139552,6 +139538,7 @@ Trans-Planckian problem
 Trans-acting
 Trans-cultural diffusion
 Trans-regulatory element
+Trans-splicing
 TransAtlantic Lines
 TransLattice
 Transaction
@@ -139968,6 +139955,7 @@ Trauma (medicine)
 Trauma trigger
 Traumatic stress
 Trautonium
+Trave
 Travel
 Travel Bug
 Travel document
@@ -140346,6 +140334,7 @@ Trichoderma hamatum
 Trichoderma stromaticum
 Trichoderma viride
 Trichodesmium
+Trichohyalin
 Tricholomataceae
 Trichome
 Trichomonas
@@ -140817,6 +140806,7 @@ Truism
 Trujillo, Peru
 Truly neutral particle
 Truman Doctrine
+Truman Michelson
 Trumbull, Connecticut
 Trump (card games)
 Truncated 120-cell
@@ -141408,7 +141398,6 @@ Twill
 Twin
 Twin (windowing system)
 Twin Earth thought experiment
-Twin Peaks
 Twin Research and Human Genetics
 Twin circles
 Twin prime
@@ -141702,6 +141691,9 @@ U-matrix
 U-statistic
 U-statistics
 U.F.O.F.
+U11 spliceosomal RNA
+U12 minor spliceosomal RNA
+U2 spliceosomal RNA
 UB-tree
 UCL Centre for Advanced Spatial Analysis
 UCLA
@@ -143616,6 +143608,7 @@ Vapor-compression refrigeration
 Vaporisation
 Vaporization
 Vaporware
+Vaporwave
 Vapor–liquid equilibrium
 Vapour-phase-mediated antimicrobial activity
 Vapreotide
@@ -145580,6 +145573,7 @@ Wake-sleep algorithm
 Wakeboarding
 Wakefield
 Wakefulness
+Wakenitz
 Wakeskating
 Wakhan Corridor
 Waking Life
@@ -145602,6 +145596,7 @@ Walgreens
 Wali (administrative title)
 Walid Laamarti
 Walk and talk
+Walker motifs
 Walker tariff
 Walkie-talkie
 Walking
@@ -146514,6 +146509,7 @@ Wheeler–Feynman absorber theory
 Wheelset (rail transport)
 Whelk
 Where Mathematics Comes From
+Whilce Portacio
 While
 While loop
 Whip
@@ -147998,11 +147994,14 @@ Xenoturbellid
 Xeon
 Xeon Phi
 Xeric
+Xeroderma
+Xeroderma pigmentosum
 Xerography
 Xeromphalina setulipes
 Xerophile
 Xerophthalmia
 Xerophyte
+Xerosis
 Xeround
 Xerxes I
 Xestospongia
@@ -149116,6 +149115,7 @@ Yurihonjō Hinakaidō
 Yurii Nesterov
 Yuriko Renardy
 Yurok
+Yurok language
 Yury Tynyanov
 Yus
 Yusef Ahmed
