@@ -1482,6 +1482,7 @@ ATL
 ATL (group)
 ATL Server
 ATLAS experiment
+ATM
 ATO
 ATP Cup
 ATP hydrolysis
@@ -2266,6 +2267,9 @@ Acanthodii
 Acanthopteroctetidae
 Acanthostega
 Acanthozoon
+Acanthuridae
+Acanthuriformes
+Acanthuroidei
 Acanthus (ornament)
 Acantun
 Acapulco de Juárez
@@ -3481,6 +3485,7 @@ Adolf Hitler
 Adolf Hurwitz
 Adolf Kneser
 Adolf Martens
+Adolf Michaelis
 Adolf Reinach
 Adolf von Baeyer
 Adolfo J. de Bold
@@ -4564,6 +4569,7 @@ Akra–Bazzi method
 Akron, Ohio
 Akrotiri (prehistoric city)
 Akrotiri and Dhekelia
+Aksai Chin
 Akseleratione
 Akson
 Aksum
@@ -5026,6 +5032,7 @@ Aleut language
 Aleutian Islands
 Alex
 Alex Bayliss
+Alex D. Linz
 Alex Epstein (American writer)
 Alex Faickney Osborn
 Alex Graves (computer scientist)
@@ -6677,6 +6684,7 @@ Amenhotep III
 Ameretat
 America First Policies
 America's Stonehenge
+American Samoa
 American Sign Language
 American Sign Language grammar
 American Sign Language phonology
@@ -7710,6 +7718,7 @@ Andrew Steane
 Andrew Strominger
 Andrew Tink
 Andrew Tinkler
+Andrew Viterbi
 Andrew Wakefield
 Andrew Weir
 Andrew Wiles
@@ -10786,6 +10795,7 @@ ArviZ
 Arvid Carlsson
 Arvin Vohra
 Arvind Kejriwal
+Arvind Narayanan
 Arvison Formation
 Arwad
 Arya metre
@@ -12200,7 +12210,6 @@ Aurivillius phases
 Auroop Ratan Ganguly
 Aurora
 Aurora (disambiguation)
-Aurora College
 Aurora Negro
 Aurora australis
 Aurora borealis
@@ -13833,7 +13842,6 @@ Ballinger, Texas
 Ballingry
 Ballington Booth
 Ballinrobe
-Balliol College, Oxford
 Ballista
 Ballistic Recovery Systems
 Ballistic Research Laboratory
@@ -14704,7 +14712,6 @@ Bateman–Horn conjecture
 Bates
 Bates (surname)
 Bates Bobcats
-Bates College
 Bates County, Missouri
 Bates Smart
 Bates distribution
@@ -14716,6 +14723,7 @@ Batesia floribunda
 Batesian mimicry
 Batesville, Arkansas
 Batesville, Indiana
+Bath, Maine
 Bathing
 Bathochordaeus
 Batholith
@@ -15752,6 +15760,7 @@ Bernard Wolfe
 Bernard de Jussieu
 Bernardo Houssay
 Bernays–Schönfinkel class
+Bernd Noack
 Berndt–Hall–Hall–Hausman algorithm
 Berne Convention
 Bernhard Fischer
@@ -15803,7 +15812,6 @@ Berrien County, Michigan
 Berry
 Berry (botany)
 Berry Berenson
-Berry College
 Berry Good
 Berry Gordy
 Berry Sakharof
@@ -19638,7 +19646,6 @@ Brojce
 Brojen Das
 Brojendragee Luhongba
 Brojnići
-Brojomohun College
 Brojë
 Broke
 Broke (book)
@@ -19843,7 +19850,6 @@ Bryan John Birch
 Bryan Thomas Schmidt
 Bryan Wenzel
 Bryansk
-Bryant & Stratton College
 Bryce (software)
 Bryce Walton
 Bryidae
@@ -22492,6 +22498,7 @@ Carl Sagan
 Carl Schmitt
 Carl Sprengel
 Carl Stumpf
+Carl Switzer
 Carl Tamayo
 Carl Tanzler
 Carl Theodor Dreyer
@@ -24832,7 +24839,6 @@ Chart-topper
 Charta
 Charta Nationum Unitarum
 Charter
-Charter Oak State College
 Charter of the United Nations
 Charter school
 Charter township
@@ -25210,6 +25216,7 @@ Chess strategy
 Chess tactic
 Chess title
 Chess variant
+Chess960
 ChessCube
 Chessboard
 Chessboard detection
@@ -25842,6 +25849,7 @@ Christendom
 Christiaan Eijkman
 Christiaan Huygens
 Christian Bohr
+Christian Charles Josias von Bunsen
 Christian Doppler
 Christian Friedrich Ecklon
 Christian Gottfried Daniel Nees von Esenbeck
@@ -25946,7 +25954,6 @@ Christopher J. Date
 Christopher Jarzynski
 Christopher Kelk Ingold
 Christopher Kelly (historian)
-Christopher Langan
 Christopher Langton
 Christopher Lasch
 Christopher Latham Sholes
@@ -26130,6 +26137,8 @@ Chronological snobbery
 Chronological synchronism
 Chronologist
 Chronology
+Chronology of Star Trak
+Chronology of Star Wars
 Chronology of Western colonialism
 Chronology of the universe
 Chronology protection conjecture
@@ -26184,6 +26193,7 @@ Chrysothemis
 Chrysoula Tsogka
 Chrystal Macmillan
 Chthonic
+Chthonic deities
 Chthonius
 Chthonopatra
 Chu (state)
@@ -26234,7 +26244,6 @@ Church service
 Church's thesis (constructive mathematics)
 Church-Turing thesis
 Churchill Babington
-Churchill College, Cambridge
 Churchill County, Nevada
 Churchill Downs
 Churchill Methodist Church
@@ -27789,14 +27798,13 @@ Coastal plain
 Coastie
 Coastie (disambiguation)
 Coastline
-Coastline College
-Coastline Community College
 Coastline Plunge
 Coastline paradox
 Coastliner (company)
 Coastliner 700
 Coated paper
 Coatepantli
+Coates graph
 Coatesia
 Coating
 Coatomer
@@ -28494,12 +28502,6 @@ Collectivism
 Collectivism (disambiguation)
 Collectivism and individualism
 Collectivist anarchism
-College
-College health
-College of Engineering, Guindy
-College of Pontiffs
-College town
-College transfer
 Collegiate Learning Assessment
 Collegiate university
 Collen Vixen Kelapile
@@ -28633,6 +28635,7 @@ Color/red
 Color/white
 ColorForth
 Colorado
+Colorado Plateau
 Colorado River
 Colorado River Numic language
 Colorado Springs, Colorado
@@ -28680,7 +28683,6 @@ Colubridae
 Colubroides
 Colugo
 Columba (constellation)
-Columbia College (Missouri)
 Columbia Data Products
 Columbia Graphophone Company
 Columbia Records
@@ -28748,7 +28750,6 @@ Combatants
 Comber Greenway
 Combertault
 Comberton
-Comberton Village College
 Combinant
 Combinatio nova
 Combination
@@ -30217,6 +30218,7 @@ Concept (disambiguation)
 Concept (generic programming)
 Concept and object
 Concept art
+Concept drift
 Concept inventory
 Concept learning
 Concept map
@@ -30765,7 +30767,6 @@ ConnectedText
 Connectedness
 Connectedness locus
 Connecticut
-Connecticut College
 Connecticut Colony
 Connecticut Company
 Connecticut Independent Utility Workers
@@ -30889,6 +30890,7 @@ Consenso científico
 Consensual
 Consensus
 Consensus (computer science)
+Consensus (decision-making)
 Consensus (medical)
 Consensus (process)
 Consensus clustering
@@ -30902,6 +30904,7 @@ Consensus sequence
 Consensus theorem
 Consensus theory of truth
 Consensus-based assessment
+Consensus-based decision making
 Consent
 Consequence relation
 Consequences (game)
@@ -30989,6 +30992,7 @@ Conspecific
 Conspecificity
 Conspicuous consumption
 Conspicuous leisure
+Conspiracy of Cinadon
 Const (computer programming)
 Constance Anne Herschel
 Constance Calenda
@@ -31000,6 +31004,7 @@ Constance Kamii
 Constance Reid
 Constance Stone
 Constance of Aragon
+Constance of Aragon, Holy Roman Empress
 Constance van Eeden
 Constant (computer programming)
 Constant (mathematics)
@@ -32304,10 +32309,6 @@ Cornus capitata
 Cornwall
 Cornwall 2000
 Cornwall Association of Local Councils
-Cornwall College
-Cornwall College (England)
-Cornwall College(England)
-Cornwall College, England
 Cornwall Record Office
 Cornwall, Connecticut
 Coro
@@ -32400,7 +32401,6 @@ Corpse road
 Corpus
 Corpus Agrimensorum Romanorum
 Corpus Aristotelicum
-Corpus Christi College, Cambridge
 Corpus Juris
 Corpus Juris Civilis
 Corpus Platonicum
@@ -36497,6 +36497,7 @@ Data Tutashkhia
 Data URI scheme
 Data USA
 Data Universal Numbering System
+Data Version Control (software)
 Data Warehouse System Electronic Surveillance Data Management System
 Data abstraction
 Data access
@@ -36966,6 +36967,7 @@ David Forbes Hendry
 David Foster Wallace
 David Frederick Ronfeldt
 David G. Compton
+David G. Croly
 David Gabai
 David Gale
 David George Kendall
@@ -38649,6 +38651,7 @@ Desert (particle physics)
 Desert climate
 Desert kite
 Desertification
+Desertion
 Deserts and xeric shrublands
 Desiccant
 Desiccation
@@ -38712,6 +38715,7 @@ Desires
 Desiring-production
 Desk Set
 Deskstar
+Desktop (computer)
 Desktop Window Manager
 Desktop computer
 Desktop computers
@@ -44262,6 +44266,7 @@ Eduard von Hartmann
 Eduard Čech
 Eduardo Bonilla-Silva
 Eduardo D. Sontag
+Eduardo Durán
 Eduardo Krieger
 Eduardo Lapi
 Eduardo Schwartz
@@ -44794,6 +44799,7 @@ Eilenberg–Steenrod axioms
 Eilenberg–Zilber theorem
 Eilenberg−Ganea conjecture
 Einar Hille
+Einkorn
 Einkorn wheat
 Einsatzgruppen
 Einselection
@@ -47354,6 +47360,7 @@ Entropy and life
 Entropy coding
 Entropy compression
 Entropy encoding
+Entropy estimation
 Entropy in thermodynamics and information theory
 Entropy influence conjecture
 Entropy maximization
@@ -48326,6 +48333,7 @@ Ernst Mayr
 Ernst Münch
 Ernst Schröder
 Ernst Schröder (mathematician)
+Ernst Schulze (poet)
 Ernst Specker
 Ernst Steinitz
 Ernst Stueckelberg
@@ -48949,7 +48957,6 @@ Etobicoke
 Etodesnitazene
 Etofamide
 Etoglucid
-Eton College
 Eton Vale Homestead Ruins
 Etonitazene
 Etoposide
@@ -49661,7 +49668,6 @@ Even–odd rule
 Ever to Excel
 EverQuest expansions
 Everest (opera)
-Everest College
 Everest, Kansas
 Everett
 Everett Crowley Park
@@ -49699,7 +49705,6 @@ Everette Brown
 Everette Lee DeGolyer
 Everglades
 Evergreen
-Evergreen State College
 Evergreen forest
 Evergreening
 Everhart–Thornley detector
@@ -50850,6 +50855,7 @@ Eyring equation
 Ezekiel's Tomb
 Ezequiel Garay
 Ezo
+Ezra Klein
 Ezra Pound
 Ezra T. Newman
 Ezz El-Dine Zulficar
@@ -51036,6 +51042,7 @@ Facade pattern
 Face
 Face (disambiguation)
 Face (geometry)
+Face (social sciences)
 Face (sociological concept)
 Face Down
 Face Drop
@@ -51660,6 +51667,7 @@ Faunalytics
 Faustina Pignatelli
 Fauvism
 Faux pas
+Fauxpology
 Fauxtography
 Fava of Manosque
 Favard operator
@@ -52884,7 +52892,6 @@ Fine
 Fine (penalty)
 Fine Art of Leningrad
 Fine Arts Center (Massachusetts)
-Fine Arts College
 Fine Arts Museums of San Francisco
 Fine Arts Quartet
 Fine Arts Work Center
@@ -53196,10 +53203,6 @@ First Universal Races Congress
 First Universalist Church (Atlanta)
 First Universalist Church (Rochester, New York)
 First World War
-First and Second Battles of El Teb
-First and Second Battles of Kakarak
-First and Second Battles of Wonju
-First and Second Treaties of Tirana
 First and second fundamental theorems of invariant theory
 First ascent
 First contact (anthropology)
@@ -53343,7 +53346,6 @@ Fishing reel
 Fishing rod
 Fishing techniques
 Fishing trawler
-Fishing vessel
 Fishy
 Fishy Tales
 Fisika
@@ -54458,7 +54460,6 @@ Foramen
 Foramen magnum
 Foramen vertebral
 Foraminifera
-Forbes College
 Forbidden Planet
 Forbidden fruit
 Forbidden graph characterization
@@ -56246,7 +56247,6 @@ Friends and Family Test
 Friends and Heroes
 Friends but Married
 Friends for All Children
-Friends from College
 Friends in Low Places (novel)
 Friends meeting houses in Pennsylvania
 Friends of Bank Hall
@@ -56635,7 +56635,6 @@ Fullerene
 Fullerene chemistry
 Fullerian Professor of Chemistry
 Fullerian Professor of Physiology
-Fullerton College
 Fullerton Police Department
 Fullerton Public Library
 Fullerton station (CTA)
@@ -57501,6 +57500,7 @@ Gadolinium gallium garnet
 Gadolinium oxyorthosilicate
 Gadolinium oxysulfide
 Gadolinium(III) hydroxide
+Gadsden Purchase
 Gael García Bernal
 Gael Linn Cup
 Gaelic Athletic Association
@@ -59430,6 +59430,7 @@ Georg Henrik von Wright
 Georg Hermann Quincke
 Georg Kreisel
 Georg Landsberg
+Georg Ludolf Dissen
 Georg Muffat
 Georg Nees
 Georg Ohm
@@ -60206,6 +60207,7 @@ Gikuyum
 Gil Kalai
 Gil Scott-Heron
 Gila Hanna
+Gila River
 Gila Sher
 Gilbert Ames Bliss
 Gilbert Arenas
@@ -61001,6 +61003,7 @@ Gnat
 Gnat (surname)
 Gnathia
 Gnathia marleyi
+Gnathifera (Spiralia)
 Gnathifera (clade)
 Gnathodolus
 Gnathodolus bidens
@@ -61221,7 +61224,6 @@ Gokoku Shrines
 Gokoku-ji
 Gokoku-ji (Okinawa)
 Gokokuji Station
-Gokongwei College of Engineering
 Gokō Station
 Gol Dasteh, Kerman
 Gol Dasteh, Tehran
@@ -61809,7 +61811,6 @@ Gottlieb Daimler
 Gottlob Frege
 Gouache
 Gouais blanc
-Goucher College
 Gouda cheese
 Gough Island
 Gouraud shading
@@ -62989,7 +62990,6 @@ Grewioideae
 Grex (biology)
 Grex (horticulture)
 Grey
-Grey College, Bloemfontein
 Grey Global Group
 Grey Knotts
 Grey Lynn
@@ -65097,7 +65097,6 @@ Hameln-Pyrmont
 Hamilcar Barca
 Hamilton
 Hamilton Basso
-Hamilton College
 Hamilton County, Ohio
 Hamilton County, Tennessee
 Hamilton Hartridge
@@ -65865,7 +65864,6 @@ Haruto Takahashi
 Harutyun Hanesyan
 Harutyun Vardanyan
 Harutyunagomer, Nagorno-Karabakh
-Harvard College
 Harvard Graduate Council
 Harvard Mark I
 Harvard architecture
@@ -66723,7 +66721,6 @@ Helena, mother of Constantine I
 Helene
 Helene Deutsch
 Helene Fischer
-Helene Fuld College of Nursing
 Helene Fuld Health Trust
 Helene Hayman, Baroness Hayman
 Helene Ritchie
@@ -66813,6 +66810,7 @@ Hellen
 Hellenic Parliament
 Hellenic calendars
 Hellenic civilization
+Hellenica
 Hellenism
 Hellenistic
 Hellenistic Greece
@@ -68705,7 +68703,6 @@ Hilton Armstrong
 Hilton Cartwright
 Hilton Chicago
 Hilton Coliseum
-Hilton College (South Africa)
 Hilton Head Island, South Carolina
 Hilton Valentine
 Hilton Village
@@ -68925,6 +68922,7 @@ Histocompatibility
 Histogenesis
 Histogram
 Histogram equalization
+Histogram matching
 Histological
 Histology
 Histone
@@ -69042,7 +69040,6 @@ Hoare logic
 Hoax
 Hoaxes
 Hobart
-Hobart and William Smith Colleges
 Hobart's Funnies
 Hobbesian trap
 Hobbies
@@ -69383,6 +69380,7 @@ Homal biologia
 Homal evolutione
 Homalozoa
 Home
+Home Improvement
 Home Park, Windsor
 Home appliance
 Home automation
@@ -69581,6 +69579,7 @@ Homojunction
 Homola barbata
 Homoleptic
 Homoleptic and Heteroleptic compounds
+Homoleptic and heteroleptic compounds
 Homolidae
 HomoloGene
 Homologation
@@ -69923,6 +69922,7 @@ Horae Canonicae
 Horalkewgger?
 Horapollo
 Horatio Alger
+Horatio Seymour
 Horatius (nomen)
 Horava–Witten domain wall
 Hordaland
@@ -70845,7 +70845,6 @@ Humansdorp
 Humansdorp Commando
 Humansville, Missouri
 Human–animal communication
-Human–animal hybrid
 Human–computer chess matches
 Human–computer interaction
 Human–computer interface
@@ -70854,7 +70853,6 @@ Humayon Dar
 Humbaba
 Humban
 Humber Bridge
-Humber College
 Humber Polytechnic
 Humbert polynomials
 Humbert series
@@ -70989,7 +70987,6 @@ Hunk Anderson
 Hunsdiecker reaction
 Hunspell
 Hunt and peck typing
-Hunter College
 Hunter Lovins
 Hunter Pence
 Hunter S. Thompson
@@ -72945,7 +72942,6 @@ Ijjeh
 Ijji
 Ijjodu
 Ijoid languages
-Ikast Håndbold
 Ikat
 Ikaw ay Pag-Ibig
 Ike Barinholtz
@@ -73152,7 +73148,6 @@ Immanuel (Israeli settlement)
 Immanuel (settlement)
 Immanuel Casto
 Immanuel Church (Tel Aviv)
-Immanuel College, Adelaide
 Immanuel Hermann Fichte
 Immanuel Jakobovits, Baron Jakobovits
 Immanuel Kant
@@ -74099,6 +74094,7 @@ Information seeking behavior
 Information sensitivity
 Information set (game theory)
 Information society
+Information source (mathematics)
 Information space
 Information superhighway
 Information system
@@ -79970,7 +79966,6 @@ Kami
 Kamianets-Podilskyi
 Kamikaze
 Kamikazee
-Kamil Majchrzak
 Kaminahu
 Kaminey
 Kamioka Liquid Scintillator Antineutrino Detector
@@ -80173,6 +80168,7 @@ Karl Kraus (writer)
 Karl Krause
 Karl Kruszelnicki
 Karl Küpfmüller
+Karl Lachmann
 Karl Landsteiner
 Karl Lashley
 Karl Ludwig Kahlbaum
@@ -80289,6 +80285,7 @@ Kashaya (Jainism)
 Kashf al-Mahjub
 Kashgar
 Kashida
+Kashiwa
 Kashmir
 Kashyapa
 Kashō
@@ -80465,7 +80462,6 @@ Kauai National Wildlife Refuge Complex
 Kauai Plantation Railway
 Kauai serial killer
 Kauaiina
-Kauaʻi Community College
 Kauaʻi Island Utility Cooperative
 Kauaʻi cave wolf spider
 Kauaʻi nukupuʻu
@@ -80738,7 +80734,6 @@ Kenton, Ohio
 Kentucky
 Kenya
 Kenyanthropus
-Kenyon College
 Kenyon Farrow
 Kenzō Tange
 Kepler
@@ -81607,6 +81602,7 @@ Koper
 Kopit Levien
 Kopp's law
 Kopp–Etchells effect
+Korbach
 Korbinian Brodmann
 Korbous
 Korea
@@ -81632,6 +81628,7 @@ Korwa people
 Kos
 Kosala
 Kosala (Mahajanapada)
+Kosala (Vedic)
 Kosambi–Karhunen–Loève theorem
 Kosaraju's algorithm
 Koseki
@@ -82063,7 +82060,6 @@ LEB128
 LED circuit
 LEMON (C++ library)
 LEO (computer)
-LGBT history in Poland
 LGBT reproduction
 LIBSVM
 LIG4
@@ -83004,7 +83000,6 @@ Lathrobium
 Lathronympha strigana
 Lathrop Brown
 Lathrop House (Redwood City, California)
-Lathrop House (Vassar College)
 Lathrop, California
 Lathrop, Missouri
 Lathrophytum
@@ -83211,6 +83206,7 @@ Law of quadratic reciprocity
 Law of reflection
 Law of sines
 Law of superposition
+Law of the European Union
 Law of the excluded middle
 Law of the instrument
 Law of the iterated logarithm
@@ -83397,6 +83393,7 @@ Leah Berman
 Leah Jamieson
 Leah Keshet
 Leakage (electronics)
+Leakage (machine learning)
 Leakage flux
 Leakage inductance
 Leaky abstraction
@@ -83793,7 +83790,6 @@ Lenoir
 Lenoir C. Wright
 Lenoir Chambers
 Lenoir City, Tennessee
-Lenoir Community College
 Lenoir Cotton Mill
 Lenoir County, North Carolina
 Lenoir Red Sox
@@ -84362,6 +84358,7 @@ Liberi (surname)
 Liberia (Manassas, Virginia)
 Liberland
 Liberman's lemma
+Libertarian conservatism
 Libertarian paternalism
 Libertarian socialism
 Libertarianism
@@ -84767,6 +84764,7 @@ Linda Blair
 Linda Cardellini
 Linda Coffee
 Linda Darnell
+Linda Edwards McMahon
 Linda Evangelista
 Linda Gage
 Linda Gilbert Saucier
@@ -86115,6 +86113,7 @@ Loop subdivision surface
 Loop transformation
 Loop unrolling
 Loop unswitching
+Loop-erased random walk
 Loop-invariant code
 Loop-invariant code motion
 Loop-mediated isothermal amplification
@@ -86851,7 +86850,6 @@ Luna Alcalay
 Luna Amară
 Luna Andermatt
 Luna City
-Luna Community College
 Luna County Courthouse
 Luna County, New Mexico
 Luna Eslava
@@ -87337,7 +87335,6 @@ MIPS-X
 MISMO
 MIT
 MIT Computer Science and Artificial Intelligence Laboratory
-MIT Schwarzman College of Computing
 MIX
 MIX (abstract machine)
 MIXL1
@@ -88337,7 +88334,6 @@ Manche
 Manchester
 Manchester Arena
 Manchester Baby
-Manchester Community College (New Hampshire)
 Manchester Mark 1
 Manchester Unity Building
 Manchester, Connecticut
@@ -89669,6 +89665,9 @@ Masnières Newfoundland Memorial
 Masnuy-Saint-Jean
 Masny
 Mason B. Thomas
+Mason graph
+Mason's gain formula
+Mason's invariant
 Masonic ritual and symbolism
 Masonry
 Masoprocol
@@ -89786,7 +89785,6 @@ Master stock
 Master theorem (analysis of algorithms)
 Master versus main
 Master vs main
-Master's Academy & College
 Master's degree
 Master-slave architecture
 Master-slave model
@@ -91574,7 +91572,6 @@ Menzonio
 Meow
 Meows
 Mepacrine
-Mepco Schlenk Engineering College
 Mephisto (automaton)
 Meprobamate
 Mepyramine
@@ -92303,7 +92300,6 @@ Methodic school
 Methodical culturalism
 Methodism
 Methodism (philosophy)
-Methodist College Belfast
 Methodist Episcopal Church
 Methodological
 Methodological advisor
@@ -92462,7 +92458,6 @@ Mey Son Sotheary
 Meyah language
 Meycauayan
 Meycauayan Church
-Meycauayan College
 Meycauayan station
 Meyer Bockstein
 Meyer set
@@ -92481,7 +92476,6 @@ Miafondo
 Miahuaxihuitl
 Miami
 Miami Beach, Florida
-Miami Dade College
 Miami Gardens, Florida
 Miami Heat draft history
 Miami Indian (sculpture)
@@ -93420,7 +93414,6 @@ Middlebox
 Middleboxes
 Middlebury, Connecticut
 Middlefield, Connecticut
-Middlesex Community College (Connecticut)
 Middleton Scriven
 Middletown Area Transit
 Middletown Area Transit/Skeleton
@@ -93535,6 +93528,7 @@ Mikhail Kats
 Mikhail Kravchuk
 Mikhail Lavrentyev
 Mikhail Leontovich
+Mikhail Lomonosov
 Mikhail Lyapunov
 Mikhail Nikolayevich Zadornov
 Mikhail Postnikov
@@ -93646,6 +93640,7 @@ Milislav Popovic
 Milison Niasexe
 Milisonovka
 Milissa Rehberger
+Military service
 Milivoje Kostic
 Milk
 Milk and Alcohol
@@ -93789,6 +93784,7 @@ Milton S. Hershey
 Milton S. Plesset
 Milutin Milanković
 Milvago
+Milwaukee
 Mimalloc
 Mimas (Giant)
 Mimeograph
@@ -94906,6 +94902,7 @@ Molecules
 Molgulidae
 Molinism
 Molise
+Molière
 Molla Nasraddin (magazine)
 Mollicutes
 Mollifier
@@ -95017,7 +95014,6 @@ Monetary unit
 Money (The Office)
 Money demand
 Money flow index
-Money laundering
 Money of Kievan Rus'
 Money order
 Money supply
@@ -95644,6 +95640,7 @@ Moritz Kaposi
 Moritz Ludwig Frankenheim
 Moritz Pasch
 Moritz Schlick
+Moriz Haupt
 Morlet wavelet
 Morley centers
 Morley rank
@@ -95844,6 +95841,7 @@ Moses H. Grinnell
 Moses Harris
 Moses Schönfinkel
 Moses Wilhelm Shapira
+Moshe Shmuel Glasner
 Mosque
 Mosquito
 Mosquito Range
@@ -95900,7 +95898,6 @@ Motif Window Manager
 Motif-Index of Folk-Literature
 Motifs targeted by APC/C
 Motilal Nehru
-Motilal Nehru College
 Motilal Oswal Financial Services
 Motile
 Motile cilia
@@ -96155,6 +96152,7 @@ Mozambique
 Mozarabic chant
 Mozart Piano Quartet
 Mozilla Thunderbird
+Mołdawinek
 Mpumalanga
 Mr Justice (Sir Daniel) Brabin
 Mr. Capone-E
@@ -96528,6 +96526,7 @@ Multiple realizability
 Multiple regression
 Multiple roots of a polynomial
 Multiple sclerosis
+Multiple time dimensions
 Multiple trace theory
 Multiple-choice test
 Multiple-classification ripple-down rules
@@ -97877,6 +97876,7 @@ Nash–Moser theorem
 Nasion
 Nasiriyah
 Naskh (script)
+Naso minor
 Nasolacrimal duct
 Nasopharynx
 Nasreddin
@@ -98572,6 +98572,7 @@ Negative probability
 Negative refraction
 Negative relationship
 Negative resistance
+Negative responsiveness
 Negative responsiveness paradox
 Negative room pressure
 Negative space
@@ -99376,10 +99377,8 @@ New World
 New York (magazine)
 New York (state)
 New York City
-New York City College of Technology
 New York City Off-Track Betting Corporation
 New York City steam system
-New York College
 New York Cotton Exchange
 New York County
 New York Dada
@@ -100219,6 +100218,7 @@ Non-adjacent form
 Non-aggression pact
 Non-aggression principle
 Non-analytic smooth function
+Non-apology apology
 Non-archimedean field
 Non-associative algebra
 Non-belligerent
@@ -100621,6 +100621,7 @@ Normal Accidents
 Normal Adolescent Behavior
 Normal Again
 Normal Boots
+Normal Distribution
 Normal Park
 Normal Park branch
 Normal accident
@@ -104037,7 +104038,6 @@ Orishatukeh Faduma
 Oriska, North Dakota
 Oriskany, New York
 Orison Swett Marden
-Orissa Engineering College
 Oristano
 Oritsé Williams
 Orixa japonica
@@ -104468,6 +104468,7 @@ Otto Hesse
 Otto Hölder
 Otto III, Margrave of Brandenburg
 Otto IV, Holy Roman Emperor
+Otto Jahn
 Otto Jespersen
 Otto Kandler
 Otto Loewi
@@ -104477,6 +104478,7 @@ Otto Perutz
 Otto Pfleiderer
 Otto Piene
 Otto Preminger
+Otto Puchstein
 Otto Rössler
 Otto Rühle
 Otto Scharmer
@@ -104626,6 +104628,7 @@ Overcurrent
 Overdetermined system
 Overdiagnosis
 Overdispersion
+Overestimate
 Overexertion
 Overexploitation
 Overfishing
@@ -104872,8 +104875,6 @@ P. K. Gopi
 P. K. Gurudasan
 P. L. Gupta
 P. O. Davis
-P. R. Government College
-P. R. Government College, Kakinada
 P. R. Gunasekera
 P. Schuyler Miller
 P. T. Barnum
@@ -104933,6 +104934,7 @@ PCI Express
 PCLinuxOS
 PCMag
 PCO2
+PCP Tower
 PCP theorem
 PCSK9
 PD 360
@@ -105072,8 +105074,6 @@ PPP5C
 PQ tree
 PQCC
 PQL
-PR Government College Kakinada
-PR Government College, Kakinada
 PR-104
 PRDX3
 PRDX4
@@ -105131,6 +105131,7 @@ Pace of innovation
 Pachycephalosauria
 Pachygyria
 Pachyplastis
+Pacific Century Place Jakarta
 Pacific Coast Athabaskan languages
 Pacific Islander Americans
 Pacific National Exhibition
@@ -105408,6 +105409,7 @@ Paleoseismology
 Paleosol
 Paleotempestology
 Paleotropical Kingdom
+Paleotropical kingdom
 Paleozoic
 Paleozoology
 Palermo
@@ -105494,7 +105496,6 @@ Palomar 14
 Palomar 2
 Palomar 5
 Palomar 6
-Palomar College
 Palomar Health
 Palomar Medical Center
 Palomar Medical Center Escondido
@@ -105941,6 +105942,7 @@ Parallel ATA
 Parallel Patterns Library
 Parallel RAM
 Parallel algorithm
+Parallel algorithms for minimum spanning trees
 Parallel and counter parallel
 Parallel array
 Parallel axis theorem
@@ -106036,7 +106038,6 @@ Paraphyletic group
 Paraphyly
 Paraphyses
 Parapielus
-Parappanangadi Co-operative College
 Paraproduct
 Parapsychology
 Paraquat
@@ -106722,7 +106723,6 @@ Patrick Geddes
 Patrick Hamilton (writer)
 Patrick Henry
 Patrick Henry (packet)
-Patrick Henry College
 Patrick Ibrahim Yakowa
 Patrick J. Urda
 Patrick Leahy
@@ -106858,6 +106858,7 @@ Paul Bernays
 Paul Bocuse
 Paul Boghossian
 Paul Boyton
+Paul Broca
 Paul Butler (bishop)
 Paul Butzer
 Paul Capon
@@ -109274,6 +109275,7 @@ Phosphotransferase
 Phosvitin
 Photic zone
 Photinus knulli
+Photo op
 Photo-oxidation of polymers
 Photo-reactive amino acid analog
 PhotoLine
@@ -111871,7 +111873,6 @@ Pomfret, Connecticut
 Pomio Kivung
 Pomo
 Pomology
-Pomona College
 Pompeia (wife of Caesar)
 Pompeia (wife of Julius Caesar)
 Pompeii
@@ -112243,8 +112244,6 @@ Population mean
 Population model
 Population model (evolutionary algorithm)
 Population modeling
-Population of Canada by province and territory
-Population of the Northwest Territories
 Population pyramid
 Population stratification
 Population structure (genetics)
@@ -113163,7 +113162,6 @@ Preoptic area
 Preorder
 Preordered class
 Preordered set
-PrepStar College Recruiting
 Preparatory school
 Prepared statement
 Preparedness (learning)
@@ -113220,6 +113218,7 @@ Presidential system
 Press
 Press Freedom Index
 Press Gang
+Press conference
 Press support
 Press to Play
 Pressing (wine)
@@ -115289,6 +115288,7 @@ Public opinion brigades
 Public ownership
 Public policy
 Public property
+Public relations
 Public school (government funded)
 Public sector
 Public sector consulting
@@ -115307,6 +115307,8 @@ Public-key infrastructure
 Publication
 Publication (copyright)
 Publication bias
+Publicity
+Publicity stunt
 Public–private partnership
 Publisher
 Publishing
@@ -116520,6 +116522,7 @@ Quercetin
 Quercus
 Quercus agrifolia
 Quercus alba
+Quercus dentata
 Quercus infectoria
 Quercus petraea
 Quercus robur
@@ -118506,7 +118509,6 @@ Reed (plant)
 Reed Alexander
 Reed Amendment (immigration)
 Reed Birney
-Reed College
 Reed Farrel Coleman
 Reed Gusciora
 Reed Hadley
@@ -118659,6 +118661,7 @@ Refurbishment (electronics)
 Refusal of work
 Refusenik
 Reg Vermue
+Rega
 Regal (cigarette)
 Regal Cinema
 Regal Cinema, Dublin
@@ -118907,6 +118910,7 @@ Relative dimension
 Relative direction
 Relative direction (geometry)
 Relative effectiveness factor
+Relative entropy
 Relative error
 Relative frequency
 Relative growth rate
@@ -119206,6 +119210,7 @@ Replicate (biology)
 Replication
 Replication (computing)
 Replication (statistics)
+Replication crisis
 Replication factor C
 Replication terminator Tus family
 Replication timing
@@ -119621,7 +119626,6 @@ Retraining
 Retraining of Racehorses
 Retransmission (data networks)
 Retread
-Retributive justice
 Retrieval-augmented generation
 RetrievalWare
 Retro Futurism
@@ -120344,6 +120348,7 @@ Riemann sphere
 Riemann sum
 Riemann surface
 Riemann surfaces
+Riemann xi function
 Riemann zeta function
 Riemann's differential equation
 Riemann's minimal surface
@@ -120561,6 +120566,7 @@ Rinne test
 Rinse
 Rio Dell, California
 Rio Ferdinand
+Rio Grande
 Rio Grande leopard frog
 Rio de Janeiro
 Rio del Mar, California
@@ -121122,7 +121128,6 @@ Rockaway, New Jersey
 Rockaway, Queens
 Rockbitch
 Rockefeller Center
-Rockefeller College of Public Affairs & Policy
 Rockefeller Institute of Government
 Rocket
 Rocket artillery
@@ -122058,7 +122063,6 @@ Runnymede (1825 ship)
 Runnymede (disambiguation)
 Runnymede Borough Council elections
 Runnymede Bridge
-Runnymede College
 Runnymede Collegiate Institute
 Runnymede Independent Residents' Group
 Runnymede Trust
@@ -122220,7 +122224,6 @@ Rydberg formula
 Rydberg state
 Rydberg–Ritz combination principle
 Rydon
-Rydon Community College
 Rye
 Rykoff
 Rylene dye
@@ -122356,6 +122359,7 @@ SEAT Ibiza
 SEAT Salsa
 SECD machine
 SECI model of knowledge dimensions
+SEEC microscopy
 SEI Investments Company
 SEPW1
 SEQUAL framework
@@ -122636,7 +122640,6 @@ Sacrum
 Sadako Yamamura
 Sadanam Divakara Marar
 Sadao Araki
-Saddam Hussein
 Saddle
 Saddle (landform)
 Saddle Brook, New Jersey
@@ -123206,6 +123209,7 @@ Samuel Frederick Gray
 Samuel Gottlieb Gmelin
 Samuel Hahnemann
 Samuel Hartlib
+Samuel Jefferson Mason
 Samuel Johnson
 Samuel L. Braunstein
 Samuel Langley
@@ -123391,7 +123395,6 @@ Santa Clara, California
 Santa Claus
 Santa Claus Is a Stinker
 Santa Claus is a Stinker
-Santa Fe Community College
 Santa Fe, New Mexico
 Santa Maria Val Müstair
 Santa Marta
@@ -123677,7 +123680,6 @@ Saved game
 Saverio Muratori
 Savilian Professor of Astronomy
 Saving
-Savio Salesian College
 Savitch's theorem
 Savitzky–Golay filter
 Savonia (historical province)
@@ -124316,6 +124318,7 @@ Scouting
 Scrabble
 Scrambling (linguistics)
 Scramjet
+Scranton, Pennsylvania
 Scrap
 Scrap metal shredder
 Scraper (archaeology)
@@ -124597,6 +124600,7 @@ Seasons of Giving
 Seasons of Love
 Seasons of My Heart
 Seasons of War
+Seasons of War (film)
 Seasons of Wither
 Seasons of Your Day
 Seasons of the Witch
@@ -124881,7 +124885,6 @@ Seetha Coleman-Kammula
 Seethakaathi
 Seethakka
 Seethakoka Chilaka
-Seethalakshmi Ramaswami College
 Seetharama Kalyana
 Seethe Alla Savithri
 Seethen
@@ -125215,7 +125218,6 @@ Sella turcica
 Selling out
 Sellmeier equation
 Sellotape
-Selly Oak Colleges
 Selma Feldbach
 Selma Fine Goldsmith
 Selman Waksman
@@ -126117,7 +126119,6 @@ Shakoy
 Shaktism
 Shale
 Shalim
-Shall and will
 Shalom H. Schwartz
 Sham surgery
 Shamanism
@@ -126512,6 +126513,7 @@ Shipping container
 Shipworm
 Shipyard
 Shir
+Shiraoi, Hokkaido
 Shiraz
 Shire
 Shire (pharmaceutical company)
@@ -126777,7 +126779,6 @@ Shouting fire in a crowded theater
 Shred (Unix)
 Shreeram Shankar Abhyankar
 Shri
-Shri R.L.T. College of Science
 Shriek map
 Shrike-like tanager
 Shrikhande graph
@@ -128069,6 +128070,7 @@ Slipper lobster
 Slippery nipple
 Slippery slope
 Slips of the tongue
+Slipstream fiction
 Slipstream genre
 Slit lamp
 Sliver triangle
@@ -129231,7 +129233,6 @@ Someone, Somewhere
 Somers, Connecticut
 Somerset
 Somerset Light Infantry
-Somerville College, Oxford
 Somerville, Massachusetts
 Something Awful
 Sometime
@@ -130275,6 +130276,7 @@ Specular reflection
 Specularity
 Speculation
 Speculative bubble
+Speculative execution CPU vulnerabilities
 Speculative fiction
 Speculative realism
 Speculative reason
@@ -131509,6 +131511,7 @@ Statute book
 Statute of limitations
 Statute of the International Criminal Court
 Statutes
+Statutes of limitations
 Statutory body
 Statutory corporation
 Statutory instrument
@@ -131602,7 +131605,6 @@ Steeple Barton
 Steeple Grange Light Railway
 Steeple Langford
 Steeple Peak
-SteepleChase Records
 Steeplecab
 Steeplechase (athletics)
 Steeplechase Face
@@ -132170,7 +132172,6 @@ Stony
 Stony Brook, New York
 Stony Stratford
 Stony coral
-Stonyhurst College
 Stonyhurst Saint Mary's Hall
 Stooge sort
 Stool (seat)
@@ -134923,6 +134924,7 @@ TGF-beta receptor family
 TGF-β superfamily ligand signaling
 THA
 THE multiprogramming system
+THEMIS (protein)
 THEO
 THESEUS
 TI-83 Series
@@ -135865,7 +135867,6 @@ Tavila
 Tavistock
 Tavistock Abbey
 Tavistock Canal
-Tavistock College
 Tavistock Group
 Tavistock Institute
 Tavistock Square
@@ -137072,7 +137073,6 @@ The Coddling of the American Mind
 The Communist Manifesto
 The Connecticut Mirror
 The Convention (The Office)
-The Cornwall College Group
 The Creation of the Humanoids
 The Crow
 The Daily Signal
@@ -137094,7 +137094,6 @@ The Extended Phenotype
 The Faerie Queene
 The Firearms Coalition
 The Firebrand of Florence
-The Flintstones
 The Fountainhead
 The Fractal Geometry of Nature
 The Fresno Bee
@@ -137330,6 +137329,7 @@ Theodor Escherich
 Theodor Estermann
 Theodor Herzl
 Theodor Kaluza
+Theodor Mommsen
 Theodor Schwann
 Theodor W. Adorno
 Theodor W. Hänsch
@@ -139533,6 +139533,7 @@ Trans-Atlantic Exoplanet Survey
 Trans-Atlantic Fan Fund
 Trans-Cyclooctene
 Trans-Fixed
+Trans-Karakoram Tract
 Trans-Neptunian object
 Trans-Planckian problem
 Trans-acting
@@ -139592,6 +139593,7 @@ Transcendence (philosophy)
 Transcendence basis
 Transcendence degree
 Transcendental Perspectivism
+Transcendental argument
 Transcendental arguments
 Transcendental element
 Transcendental equation
@@ -140530,7 +140532,6 @@ Trinidad and Tobago
 Trinity
 Trinity (nuclear test)
 Trinity Church (Manhattan)
-Trinity College Dublin
 Trino (SQL query engine)
 Trinomial nomenclature
 Trinomial tree
@@ -141905,8 +141906,6 @@ Ulfilas' Alphabet
 Ulfuls
 Uli Aschenborn
 Ulidiidae
-Ulink College
-UlinkCollege
 Ulisse Dini
 Ulla Pursiheimo
 Ulliyeri
@@ -142318,6 +142317,7 @@ Uniform property
 Uniform scaling
 Uniform space
 Uniform spaces
+Uniform spanning tree
 Uniform star polyhedron
 Uniform theory of diffraction
 Uniform tiling
@@ -143298,6 +143298,7 @@ Vadastuximab talirine
 Vaddera
 Vade retro satana
 Vademecum
+Vadim G. Vizing
 Vadim Yefremovich
 Vadimezan
 Vadnagar
@@ -143428,6 +143429,7 @@ Valiant–Vazirani theorem
 Valid name (zoology)
 Validated numerics
 Validation authority
+Validity
 Validity (logic)
 Validity (statistics)
 Validly published name
@@ -144596,7 +144598,6 @@ Vigathakumaran
 Vigenère cipher
 Vigesimal
 Viggo Mortensen
-Vigilantism
 Vigna mungo
 Vigna subterranea
 Vigo
@@ -145048,6 +145049,7 @@ Viz.
 Vizhinjam
 Vizhinjam Cave Temple
 Vizing's conjecture
+Vizing's theorem
 Viète's formula
 Viên An Đông
 Vlacherna, Arcadia
@@ -145300,8 +145302,6 @@ Vontae Davis
 Vookondi
 Voorhees
 Voorhees (CDP), New Jersey
-Voorhees College (India)
-Voorhees College, Vellore
 Voorhees Mall
 Voorhees State Park
 Voorhees Township, New Jersey
@@ -145579,6 +145579,7 @@ Wakhan Corridor
 Waking Life
 Walam Olum
 Walatta Petros
+Wald test
 Wald's equation
 Wald's maximin model
 Waldemar Lindgren
@@ -146417,7 +146418,6 @@ Westmere (microarchitecture)
 Westminster
 Westminster Abbey
 Westminster system
-Westmoreland County Community College
 Westmoreland County, Connecticut
 Weston, Connecticut
 Weston-super-Mare
@@ -146491,7 +146491,6 @@ Wheal Jane
 Wheat
 Wheat and chessboard problem
 Wheat beer
-Wheaton College (Illinois)
 Wheatpaste
 Wheatstone bridge
 Wheel
@@ -146607,7 +146606,6 @@ Whitley Stokes (Celtic scholar)
 Whitley Stokes (physician)
 Whitley Strieber
 Whitley, Coventry
-Whitman College
 Whitney Houston
 Whitney K. Newey
 Whitney conditions
@@ -146994,6 +146992,7 @@ William Kittredge
 William Kneale
 William Kneale (logician)
 William Kruskal
+William L. Marcy
 William L. Maxwell
 William L. Rowe
 William Labov
@@ -147047,6 +147046,7 @@ William Rowan Hamilton
 William Roxburgh
 William S. Cleveland
 William S. Massey
+William Safire
 William Saunders (botanist)
 William Saville-Kent
 William Schaus
@@ -147746,7 +147746,6 @@ Wyatt Earp
 Wyatt's rebellion
 Wyckoff, New Jersey
 Wyclef Jean
-Wye College
 Wyeth
 Wyman Guin
 Wymondham
@@ -147863,6 +147862,7 @@ XPL
 XPath
 XQuery
 XR-2
+XRP Ledger
 XSLT
 XScale
 XTRA
@@ -147911,7 +147911,6 @@ Xargs
 Xavier
 Xavier Becerra
 Xavier Bettel
-Xavier College
 Xavier McDaniel
 Xavier Niel
 Xavier Rhodes
@@ -149863,6 +149862,7 @@ Zürich
 İş Yatırım
 İşbank
 Ķemeri National Park
+Łobez
 Łoś–Tarski preservation theorem
 Łukasiewicz implication
 Łukasiewicz logic
