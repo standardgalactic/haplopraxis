@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haplopraxis</title>
+    <title>Phaistos Disc</title>
     <style>
         @font-face {
             font-family: 'Sga-Regular';
@@ -12,7 +12,7 @@
             font-style: normal;
         }
         body {
-            font-family: 'Sga-Regular', Arial, sans-serif;
+            font-family: Arial, sans-serif;
             color: #00ff00;
             background: black;
             margin: 0;
@@ -28,51 +28,31 @@
             font-size: 2em;
         }
         img {
-            max-width: 80%; /* Adjust as needed */
+            max-width: 80%;
             height: auto;
             margin: 20px 0;
+            cursor: pointer;
         }
         a {
-            color: #00ff00; /* Makes links green */
+            color: #00ff00;
             text-decoration: none;
         }
         a:hover {
             text-decoration: underline;
         }
-        .spaced-text {
-            margin-top: 150px; /* Add margin to the top of the paragraph */
-        }
-        .hidden {
-            display: none;
+        .content {
+            padding: 20px;
         }
     </style>
 </head>
 <body>
-    <h1 id="title">Haplopraxis</h1>
-    <p class="spaced-text" style="font-family: 'Sga-Regular', Arial, sans-serif;">  - Haplopraxis -   - Simple Practice</p>
-    <p>The default branch has been renamed! <strong>master</strong> is now named <strong></strong></p>
-    <a href="https://standardgalactic.github.io">
-        <img src="broken-sign.gif" alt="Broken Sign">
-    </a>
-    <img src="font-sample.png" alt="Font Sample">
-    <p>This page is live at <a href="https://standardgalactic.github.io/haplopraxis">https://standardgalactic.github.io/haplopraxis</a></p>
-
-    <!-- Hidden tweet section -->
-    <div id="tweet-container" class="hidden">
-        <p>From Utilitronium to Ultronium to Youtronium, we continue to evolve. The next decade's word: 'MetaMindium.' What will it bring? See you in the 2030s, where the future always feels just a tweet away.</p>
+    <div class="content">
+        <h1>Phaistos Disc</h1>
+        <p>The Phaistos Disc is a famous archaeological find from the Minoan civilization, discovered in the Minoan palace of Phaistos. It is a unique disc made of fired clay, featuring a spiral of stamped symbols.</p>
+        <a href="https://standardgalactic.github.io/vectorspace/#/galaxy/word2vec-wiki?cx=-2381&cy=-476&cz=-1569&lx=0.0868&ly=0.8923&lz=0.3087&lw=-0.3177&ml=300&s=1.75&l=1&v=d50_clean&_k=6uuhne">
+            <img src="IFM/phaistos-disk.jpg" alt="Phaistos Disc">
+        </a>
+        <p>Learn more about it <a href="https://standardgalactic.github.io/vectorspace/#/galaxy/word2vec-wiki?cx=-3208&cy=-8930&cz=2898&lx=-0.2059&ly=-0.6299&lz=-0.5451&lw=0.5135&ml=300&s=1.75&l=1&v=d50_clean">here</a>.</p>
     </div>
-
-    <script>
-        // Fixed future date: January 1, 2035
-        const futureDate = new Date('2035-01-01T00:00:00');
-
-        // Check current date
-        const currentDate = new Date();
-
-        // Show the tweet if the current date is past the future date
-        if (currentDate >= futureDate) {
-            document.getElementById('tweet-container').classList.remove('hidden');
-        }
-    </script>
 </body>
 </html>
