@@ -1,0 +1,393 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Function
+     * [30]2 History
+     * [31]3 Examples
+     * [32]4 See also
+     * [33]5 References
+
+   [ ] Toggle the table of contents
+
+/dev/zero
+
+   [ ] 17 languages
+     * [34]Čeština
+     * [35]Deutsch
+     * [36]Español
+     * [37]Français
+     * [38]한국어
+     * [39]Bahasa Indonesia
+     * [40]Italiano
+     * [41]Magyar
+     * [42]Nederlands
+     * [43]日本語
+     * [44]Polski
+     * [45]Português
+     * [46]Русский
+     * [47]Српски / srpski
+     * [48]Türkçe
+     * [49]Tiếng Việt
+     * [50]中文
+
+   [51]Edit links
+
+     * [52]Article
+     * [53]Talk
+
+   [ ] English
+
+     * [54]Read
+     * [55]Edit
+     * [56]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [57]Read
+     * [58]Edit
+     * [59]View history
+
+   General
+     * [60]What links here
+     * [61]Related changes
+     * [62]Upload file
+     * [63]Special pages
+     * [64]Permanent link
+     * [65]Page information
+     * [66]Cite this page
+     * [67]Get shortened URL
+     * [68]Download QR code
+
+   Print/export
+     * [69]Download as PDF
+     * [70]Printable version
+
+   In other projects
+     * [71]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Not to be confused with [72]Null device.
+   Special file in Unix-like operating systems
+
+   /dev/zero is a [73]special file in [74]Unix-like [75]operating systems
+   that provides as many [76]null characters ([77]ASCII NUL, 0x00) as are
+   read from it.^[78][1] One of the typical uses is to provide a character
+   stream for initializing data storage.^[79][2]
+
+Function
+
+   [[80]edit]
+
+   Read operations from
+   /dev/zero return as many [81]null characters (0x00) as requested in the
+   read operation.
+
+   Unlike
+   [82]/dev/null, /dev/zero may be used as a source, not only as a sink
+   for data. All write operations to
+   /dev/zero succeed with no other effects. However,
+   /dev/null is more commonly used for this purpose.
+
+   When
+
+   /dev/zero is memory-mapped, e.g., with [83]mmap, to the virtual address
+   space, it is equivalent to using anonymous memory; i.e. memory not
+   connected to any file.
+
+History
+
+   [[84]edit]
+
+   /dev/zero was introduced in 1988 by SunOS-4.0 in order to allow a
+   mappable BSS segment for shared libraries using anonymous
+   memory.^[85][3] HP-UX 8.x introduced the MAP_ANONYMOUS flag for mmap(),
+   which maps anonymous memory directly without a need to open
+   /dev/zero.^[86][4] Since the late 1990s, MAP_ANONYMOUS^[87][5] or
+   MAP_ANON are supported by most UNIX versions, removing the original
+   purpose of /dev/zero.^[88][6]
+
+Examples
+
+   [[89]edit]
+
+   [90]Erasing a file system partition or drive:
+cp /dev/zero /dev/<destination drive or partition>
+
+   (Note that this does not perform a secure erasure, may not destroy the
+   data at all, and may take significantly more time than required – for
+   this purpose, domain-specific tooling like blkdiscard may be preferred
+   for devices that support [91]TRIM.)
+
+   Creating a 1 [92]MiB file, called [93]foobar, filled with null
+   characters:
+head -c $(( 1024 * 1024 )) /dev/zero > foobar
+
+   Instead of creating a file really filled with only zero bytes, many
+   file systems also support the creation of [94]sparse files, which
+   return zeros upon reading but use less actual space. The classic way of
+   doing this (without the domain-specific truncate utility) would be, to
+   create a 1 [95]GiB file:
+dd bs=1 seek=$(( 1024 * 1024 * 1024 - 1 )) count=1 < /dev/zero > foobar
+
+   which seeks to position seek·bs=1GiB−1 in the output and copies
+   count·bs=1 byte from /dev/zero, thus making the file contain only one
+   data block.
+
+See also
+
+   [[96]edit]
+
+     * [97]Unix philosophy
+     * [98]Standard streams
+     *
+
+   [99]/dev
+
+     [100]/dev/null
+
+     [101]/dev/full
+
+References
+
+   [[102]edit]
+
+    1. [103]^ Mitchell, Mark; Oldham, Jeffrey; Samuel, Alex (2001), "6.5.2
+       /dev/zero", [104]Advanced Linux Programming, Sams Publishing,
+       p. 136, [105]ISBN [106]9780735710436
+    2. [107]^ Love, Robert (2007), "Mapping /dev/zero", [108]Linux System
+       Programming: Talking Directly to the Kernel and C Library, O'Reilly
+       Media, Inc., pp. 259–260, [109]ISBN [110]9780596009588
+    3. [111]^ [112]""C" run-time program bootstrap from SunOS, contributed
+       to CSRG for inclusion in 4.4BSD". TUHS.
+    4. [113]^ [114]"HP-UX 8.0.7 install media". 1992-07-22.
+    5. [115]^ Beal, Chris. [116]"So what the heck is anonymous memory".
+       Oracle Blog. Archived from [117]the original on 2021-04-15.
+       Retrieved 2019-09-09.
+    6. [118]^ [119]"MAP_ANON description in mmap(2)". NetBSD. Archived
+       from [120]the original on 2019-11-25. Retrieved 2019-09-09.
+
+   Retrieved from
+   "[121]https://en.wikipedia.org/w/index.php?title=/dev/zero&oldid=121892
+   0296"
+
+   [122]Categories:
+     * [123]Unix file system technology
+     * [124]Device file
+
+   Hidden categories:
+     * [125]Articles with short description
+     * [126]Short description is different from Wikidata
+     * [127]Use dmy dates from February 2020
+
+     * This page was last edited on 14 April 2024, at 17:40 (UTC).
+     * Text is available under the [128]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [129]Terms of Use and
+       [130]Privacy Policy. Wikipedia® is a registered trademark of the
+       [131]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [132]Privacy policy
+     * [133]About Wikipedia
+     * [134]Disclaimers
+     * [135]Contact Wikipedia
+     * [136]Code of Conduct
+     * [137]Developers
+     * [138]Statistics
+     * [139]Cookie statement
+     * [140]Mobile view
+
+     * [141]Wikimedia Foundation
+     * [142]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki//dev/zero
+   2. file:///w/index.php?title=/dev/zero&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=/dev/zero
+  21. file:///w/index.php?title=Special:UserLogin&returnto=/dev/zero
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=/dev/zero
+  24. file:///w/index.php?title=Special:UserLogin&returnto=/dev/zero
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html
+  29. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#Function
+  30. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#History
+  31. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#Examples
+  32. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#See_also
+  33. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#References
+  34. https://cs.wikipedia.org/wiki//dev/zero
+  35. https://de.wikipedia.org/wiki//dev/zero
+  36. https://es.wikipedia.org/wiki//dev/zero
+  37. https://fr.wikipedia.org/wiki//dev/zero
+  38. https://ko.wikipedia.org/wiki//dev/zero
+  39. https://id.wikipedia.org/wiki//dev/zero
+  40. https://it.wikipedia.org/wiki//dev/zero
+  41. https://hu.wikipedia.org/wiki//dev/zero
+  42. https://nl.wikipedia.org/wiki//dev/zero
+  43. https://ja.wikipedia.org/wiki//dev/zero
+  44. https://pl.wikipedia.org/wiki//dev/zero
+  45. https://pt.wikipedia.org/wiki//dev/zero
+  46. https://ru.wikipedia.org/wiki//dev/zero
+  47. https://sr.wikipedia.org/wiki//dev/zero
+  48. https://tr.wikipedia.org/wiki//dev/zero
+  49. https://vi.wikipedia.org/wiki//dev/zero
+  50. https://zh.wikipedia.org/wiki//dev/zero
+  51. https://www.wikidata.org/wiki/Special:EntityPage/Q287103#sitelinks-wikipedia
+  52. file:///wiki//dev/zero
+  53. file:///wiki/Talk:/dev/zero
+  54. file:///wiki//dev/zero
+  55. file:///w/index.php?title=/dev/zero&action=edit
+  56. file:///w/index.php?title=/dev/zero&action=history
+  57. file:///wiki//dev/zero
+  58. file:///w/index.php?title=/dev/zero&action=edit
+  59. file:///w/index.php?title=/dev/zero&action=history
+  60. file:///wiki/Special:WhatLinksHere//dev/zero
+  61. file:///wiki/Special:RecentChangesLinked//dev/zero
+  62. file:///wiki/Wikipedia:File_Upload_Wizard
+  63. file:///wiki/Special:SpecialPages
+  64. file:///w/index.php?title=/dev/zero&oldid=1218920296
+  65. file:///w/index.php?title=/dev/zero&action=info
+  66. file:///w/index.php?title=Special:CiteThisPage&page=/dev/zero&id=1218920296&wpFormIdentifier=titleform
+  67. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki//dev/zero
+  68. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki//dev/zero
+  69. file:///w/index.php?title=Special:DownloadAsPdf&page=/dev/zero&action=show-download-screen
+  70. file:///w/index.php?title=/dev/zero&printable=yes
+  71. https://www.wikidata.org/wiki/Special:EntityPage/Q287103
+  72. file:///wiki/Null_device
+  73. file:///wiki/Special_file
+  74. file:///wiki/Unix-like
+  75. file:///wiki/Operating_system
+  76. file:///wiki/Null_character
+  77. file:///wiki/ASCII
+  78. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_note-1
+  79. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_note-2
+  80. file:///w/index.php?title=/dev/zero&action=edit&section=1
+  81. file:///wiki/Null_character
+  82. file:///wiki//dev/null
+  83. file:///wiki/Mmap
+  84. file:///w/index.php?title=/dev/zero&action=edit&section=2
+  85. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_note-3
+  86. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_note-4
+  87. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_note-5
+  88. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_note-6
+  89. file:///w/index.php?title=/dev/zero&action=edit&section=3
+  90. file:///wiki/Data_erasure
+  91. file:///wiki/Trim_(computing)
+  92. file:///wiki/Mebibyte
+  93. file:///wiki/Foobar
+  94. file:///wiki/Sparse_file
+  95. file:///wiki/Gibibyte
+  96. file:///w/index.php?title=/dev/zero&action=edit&section=4
+  97. file:///wiki/Unix_philosophy
+  98. file:///wiki/Standard_streams
+  99. file:///wiki//dev
+ 100. file:///wiki//dev/null
+ 101. file:///wiki//dev/full
+ 102. file:///w/index.php?title=/dev/zero&action=edit&section=5
+ 103. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_ref-1
+ 104. https://books.google.com/books?id=oRqqAVyXjwAC&pg=PA136
+ 105. file:///wiki/ISBN_(identifier)
+ 106. file:///wiki/Special:BookSources/9780735710436
+ 107. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_ref-2
+ 108. https://books.google.com/books?id=k_ocKY0iegsC&pg=PA259
+ 109. file:///wiki/ISBN_(identifier)
+ 110. file:///wiki/Special:BookSources/9780596009588
+ 111. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_ref-3
+ 112. https://minnie.tuhs.org/cgi-bin/utree.pl?file=4.4BSD/usr/src/contrib/sun.sharedlib/lib/csu/m68k/crt0.s
+ 113. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_ref-4
+ 114. https://archive.org/details/hp-ux8.07forhp9000s7xx
+ 115. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_ref-5
+ 116. https://web.archive.org/web/20210415103111/https://blogs.oracle.com/cwb/so-what-the-heck-is-anonymous-memory
+ 117. https://blogs.oracle.com/cwb/so-what-the-heck-is-anonymous-memory
+ 118. file:///tmp/lynxXXXXRK1LIZ/L56032-7727TMP.html#cite_ref-6
+ 119. https://web.archive.org/web/20191125152633/https://netbsd.gw.com/cgi-bin/man-cgi?mmap
+ 120. https://netbsd.gw.com/cgi-bin/man-cgi?mmap
+ 121. https://en.wikipedia.org/w/index.php?title=/dev/zero&oldid=1218920296
+ 122. file:///wiki/Help:Category
+ 123. file:///wiki/Category:Unix_file_system_technology
+ 124. file:///wiki/Category:Device_file
+ 125. file:///wiki/Category:Articles_with_short_description
+ 126. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 127. file:///wiki/Category:Use_dmy_dates_from_February_2020
+ 128. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 129. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 130. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 131. https://wikimediafoundation.org/
+ 132. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 133. file:///wiki/Wikipedia:About
+ 134. file:///wiki/Wikipedia:General_disclaimer
+ 135. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 136. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 137. https://developer.wikimedia.org/
+ 138. https://stats.wikimedia.org/#/en.wikipedia.org
+ 139. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 140. file://en.m.wikipedia.org/w/index.php?title=/dev/zero&mobileaction=toggle_view_mobile
+ 141. https://wikimediafoundation.org/
+ 142. https://www.mediawiki.org/

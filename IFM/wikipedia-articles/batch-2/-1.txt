@@ -1,0 +1,2905 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 In mathematics
+       (BUTTON) Toggle In mathematics subsection
+          + [30]1.1 Algebraic properties
+          + [31]1.2 Inverse and invertible elements
+     * [32]2 In other uses
+     * [33]3 See also
+     * [34]4 References
+       (BUTTON) Toggle References subsection
+          + [35]4.1 Notes
+          + [36]4.2 Sources
+
+   [ ] Toggle the table of contents
+
+−1
+
+   [ ] 50 languages
+     * [37]العربية
+     * [38]অসমীয়া
+     * [39]Asturianu
+     * [40]Basa Bali
+     * [41]বাংলা
+     * [42]Башҡортса
+     * [43]Беларуская
+     * [44]Беларуская (тарашкевіца)
+     * [45]Български
+     * [46]Català
+     * [47]Deutsch
+     * [48]Ελληνικά
+     * [49]Español
+     * [50]Euskara
+     * [51]فارسی
+     * [52]Français
+     * [53]Galego
+     * [54]ГӀалгӀай
+     * [55]한국어
+     * [56]Հայերեն
+     * [57]Bahasa Indonesia
+     * [58]Italiano
+     * [59]עברית
+     * [60]कॉशुर / کٲشُر
+     * [61]Latina
+     * [62]മലയാളം
+     * [63]मराठी
+     * [64]日本語
+     * [65]Nordfriisk
+     * [66]Oʻzbekcha / ўзбекча
+     * [67]ਪੰਜਾਬੀ
+     * [68]Polski
+     * [69]Português
+     * [70]Română
+     * [71]Русский
+     * [72]Scots
+     * [73]Simple English
+     * [74]Slovenščina
+     * [75]کوردی
+     * [76]Српски / srpski
+     * [77]Suomi
+     * [78]Svenska
+     * [79]தமிழ்
+     * [80]ไทย
+     * [81]Türkçe
+     * [82]Українська
+     * [83]Tiếng Việt
+     * [84]吴语
+     * [85]粵語
+     * [86]中文
+
+   [87]Edit links
+
+     * [88]Article
+     * [89]Talk
+
+   [ ] English
+
+     * [90]Read
+     * [91]Edit
+     * [92]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [93]Read
+     * [94]Edit
+     * [95]View history
+
+   General
+     * [96]What links here
+     * [97]Related changes
+     * [98]Upload file
+     * [99]Special pages
+     * [100]Permanent link
+     * [101]Page information
+     * [102]Cite this page
+     * [103]Get shortened URL
+     * [104]Download QR code
+
+   Print/export
+     * [105]Download as PDF
+     * [106]Printable version
+
+   In other projects
+     * [107]Wikimedia Commons
+     * [108]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [109]-1)
+   Integer
+   This article is about the number. For other uses, see [110]−1
+   (disambiguation).
+   Natural number
+   ← −2 −1 [111]0 →
+   −1 [112]0 [113]1 [114]2 [115]3 [116]4 [117]5 [118]6 [119]7 [120]8
+   [121]9 [122]→
+     * [123]List of numbers
+     * [124]Integers
+
+   [125]← [126]0 [127]10 [128]20 [129]30 [130]40 [131]50 [132]60 [133]70
+   [134]80 [135]90 [136]→
+   [137]Cardinal −1, minus one, negative one
+   [138]Ordinal −1st (negative first)
+   [139]Divisors 1
+   [140]Arabic −١
+   [141]Chinese numeral 负一，负弌，负壹
+   [142]Bengali −১
+   [143]Binary ([144]byte)
+   [145]S&M: 100000001[2]
+   [146]2sC: 11111111[2]
+   [147]Hex ([148]byte)
+   [149]S&M: 0x101[16]
+   [150]2sC: 0xFF[16]
+
+   In [151]mathematics, −1 (negative one or minus one) is the
+   [152]additive inverse of [153]1, that is, the number that when
+   [154]added to 1 gives the [155]additive identity element, 0. It is the
+   [156]negative [157]integer greater than negative two (−2) and less
+   than [158]0.
+
+In mathematics
+
+   [[159]edit]
+
+Algebraic properties
+
+   [[160]edit]
+
+   Multiplying a number by −1 is equivalent to changing the [161]sign of
+   the number – that is, for any x we have (−1) ⋅ x = −x. This can be
+   proved using the [162]distributive law and the axiom that 1 is the
+   [163]multiplicative identity:
+
+          x + (−1) ⋅ x = 1 ⋅ x + (−1) ⋅ x = (1 + (−1)) ⋅ x = 0 ⋅ x = 0.
+
+   Here we have used the fact that any number x times 0 equals 0, which
+   follows by [164]cancellation from the equation
+
+          0 ⋅ x = (0 + 0) ⋅ x = 0 ⋅ x + 0 ⋅ x.
+
+   In other words,
+
+          x + (−1) ⋅ x = 0,
+
+   so (−1) ⋅ x is the additive inverse of x, i.e. (−1) ⋅ x = −x, as was to
+   be shown.
+
+   The [165]square of −1 (that is −1 multiplied by −1) equals 1. As a
+   consequence, a product of two negative numbers is positive. For an
+   algebraic proof of this result, start with the equation
+
+          0 = −1 ⋅ 0 = −1 ⋅ [1 + (−1)].
+
+   The first equality follows from the above result, and the second
+   follows from the definition of −1 as additive inverse of 1: it is
+   precisely that number which when added to 1 gives 0. Now, using the
+   distributive law, it can be seen that
+
+          0 = −1 ⋅ [1 + (−1)] = −1 ⋅ 1 + (−1) ⋅ (−1) = −1 + (−1) ⋅ (−1).
+
+   The third equality follows from the fact that 1 is a multiplicative
+   identity. But now adding 1 to both sides of this last equation implies
+
+          (−1) ⋅ (−1) = 1.
+
+   The above arguments hold in any [166]ring, a concept of [167]abstract
+   algebra generalizing integers and [168]real numbers.^[169][1]^: p.48 
+   [170][170px-ImaginaryUnit5.svg.png] 0, 1, −1, [171]i, and −i in the
+   [172]complex or [173]Cartesian plane
+
+   Although there are no [174]real square roots of −1, the [175]complex
+   number [176]i satisfies i^2 = −1, and as such can be considered as a
+   [177]square root of −1.^[178][2] The only other complex number whose
+   square is −1 is −i because there are exactly two square roots of any
+   non‐zero complex number, which follows from the [179]fundamental
+   theorem of algebra. In the algebra of [180]quaternions – where the
+   fundamental theorem does not apply – which contains the complex
+   numbers, the equation x^2 = −1 has [181]infinitely many
+   solutions.^[182][3]^[183][4]
+
+Inverse and invertible elements
+
+   [[184]edit]
+   [185][350px-Geogebra_f%28x%29%3D1%C3%B7x_20211118.svg.png] The
+   reciprocal function f(x) = x^−1 where for every x except 0, f(x)
+   represents its [186]multiplicative inverse
+
+   [187]Exponentiation of a non‐zero real number can be [188]extended to
+   negative integers, where raising a number to the power −1 has the same
+   effect as taking its [189]multiplicative inverse:
+
+          x^−1 = ⁠1/x⁠.
+
+   This definition is then applied to negative integers, preserving the
+   exponential law x^ax^b = x^(a + b) for real numbers a and b.
+
+   A −1 [190]superscript in f^ −1(x) takes the [191]inverse function of
+   f(x), where ( f(x))^−1 specifically denotes a [192]pointwise
+   reciprocal.^[193][a] Where f is [194]bijective specifying an output
+   [195]codomain of every y ∈ Y  from every input [196]domain x ∈ X, there
+   will be
+
+          f^ −1( f(x)) = x,  and  f^ −1( f(y)) = y.
+
+   When a subset of the codomain is specified inside the function f, its
+   inverse will yield an [197]inverse image, or preimage, of that subset
+   under the function.
+
+   Exponentiation to negative integers can be further extended to
+   [198]invertible elements of a ring by defining x^−1 as the
+   multiplicative inverse of x; in this context, these elements are
+   considered [199]units.^[200][1]^: p.49 
+
+   In a [201]polynomial domain F [x] over any [202]field F, the polynomial
+   x has no inverse. If it did have an inverse q(x), then there would
+   be^[203][5]
+
+          x q(x) = 1 ⇒ deg (x) + deg (q(x)) = deg (1)
+                           ⇒ 1 + deg (q(x)) = 0
+                           ⇒ deg (q(x)) = −1
+
+   which is not possible, and therefore, F [x] is not a field. More
+   specifically, because the polynomial is not [204]constant, it is not a
+   unit in F.
+
+In other uses
+
+   [[205]edit]
+
+   [206]Integer sequences commonly use −1 to represent an [207]uncountable
+   set, in place of "[208]∞" as a value resulting from a given
+   [209]index.^[210][6] As an example, the number of regular convex
+   [211]polytopes in n-dimensional space is,
+
+          {1, 1, −1, 5, 6, 3, 3, ...} for n = {0, 1, 2, ...} (sequence
+          [212]A060296 in the [213]OEIS).
+
+   −1 can also be used as a [214]null value, from an index that yields an
+   [215]empty set ∅ or [216]non-integer where the general [217]expression
+   describing the [218]sequence is not [219]satisfied, or met.^[220][6]
+   For instance, the smallest k > 1 such that in the interval 1...k there
+   are as many integers that have exactly twice n [221]divisors as there
+   are [222]prime numbers is,
+
+          {2, 27, −1, 665, −1, 57675, −1, 57230, −1} for n = {1, 2, ...,
+          9} (sequence [223]A356136 in the [224]OEIS).
+
+   A non-integer or empty element is often represented by [225]0.
+
+   In [226]software development, −1 is a common initial value for integers
+   and is also used to show that [227]a variable contains no useful
+   information.^[[228]citation needed]
+
+See also
+
+   [[229]edit]
+     * [230]icon [231]Mathematics portal
+
+     * [232]Balanced ternary
+
+References
+
+   [[233]edit]
+
+Notes
+
+   [[234]edit]
+    1. [235]^ For example, sin^−1(x) is a notation for the [236]arcsine
+       function.
+
+Sources
+
+   [[237]edit]
+    1. ^ [238]^a [239]^b [240]Nathanson, Melvyn B. (2000). [241]"Chapter
+       2: Congruences". Elementary Methods in Number Theory. [242]Graduate
+       Texts in Mathematics. Vol. 195. New York: [243]Springer. pp. xviii,
+       1−514. [244]doi:[245]10.1007/978-0-387-22738-2_2.
+       [246]ISBN [247]978-0-387-98912-9. [248]MR [249]1732941.
+       [250]OCLC [251]42061097.
+    2. [252]^ Bauer, Cameron (2007). [253]"Chapter 13: Complex Numbers".
+       Algebra for Athletes (2nd ed.). Hauppauge: [254]Nova Science
+       Publishers. p. 273. [255]ISBN [256]978-1-60021-925-2.
+       [257]OCLC [258]957126114.
+    3. [259]^ Perlis, Sam (1971). [260]"Capsule 77: Quaternions".
+       Historical Topics in Algebra. Historical Topics for the
+       Mathematical Classroom. Vol. 31. Reston, VA: [261]National Council
+       of Teachers of Mathematics. p. 39. [262]ISBN [263]9780873530583.
+       [264]OCLC [265]195566.
+    4. [266]^ [267]Porteous, Ian R. (1995). "Chapter 8: Quaternions".
+       [268]Clifford Algebras and the Classical Groups (PDF). Cambridge
+       Studies in Advanced Mathematics. Vol. 50. Cambridge: [269]Cambridge
+       University Press. p. 60.
+       [270]doi:[271]10.1017/CBO9780511470912.009.
+       [272]ISBN [273]9780521551779. [274]MR [275]1369094.
+       [276]OCLC [277]32348823.
+    5. [278]^ Czapor, Stephen R.; Geddes, Keith O.; Labahn, George (1992).
+       "Chapter 2: Algebra of Polynomials, Rational Functions, and Power
+       Series". [279]Algorithms for Computer Algebra (1st ed.). Boston:
+       Kluwer Academic Publishers. pp. 41, 42.
+       [280]doi:[281]10.1007/b102438. [282]ISBN [283]978-0-7923-9259-0.
+       [284]OCLC [285]26212117. [286]S2CID [287]964280.
+       [288]Zbl [289]0805.68072 – via [290]Springer.
+    6. ^ [291]^a [292]^b See searches with "−1 if no such number exists"
+       or "−1 if the number is infinite" in the [293]OEIS for an
+       assortment of relevant sequences.
+
+     * [294]v
+     * [295]t
+     * [296]e
+
+   [297]Integers
+   −1
+    [298]0s
+     *  [299]0
+     *  [300]1
+     *  [301]2
+     *  [302]3
+     *  [303]4
+     *  [304]5
+     *  [305]6
+     *  [306]7
+     *  [307]8
+     *  [308]9
+
+     * [309]10
+     * [310]11
+     * [311]12
+     * [312]13
+     * [313]14
+     * [314]15
+     * [315]16
+     * [316]17
+     * [317]18
+     * [318]19
+
+     * [319]20
+     * [320]21
+     * [321]22
+     * [322]23
+     * [323]24
+     * [324]25
+     * [325]26
+     * [326]27
+     * [327]28
+     * [328]29
+
+     * [329]30
+     * [330]31
+     * [331]32
+     * [332]33
+     * [333]34
+     * [334]35
+     * [335]36
+     * [336]37
+     * [337]38
+     * [338]39
+
+     * [339]40
+     * [340]41
+     * [341]42
+     * [342]43
+     * [343]44
+     * [344]45
+     * [345]46
+     * [346]47
+     * [347]48
+     * [348]49
+
+     * [349]50
+     * [350]51
+     * [351]52
+     * [352]53
+     * [353]54
+     * [354]55
+     * [355]56
+     * [356]57
+     * [357]58
+     * [358]59
+
+     * [359]60
+     * [360]61
+     * [361]62
+     * [362]63
+     * [363]64
+     * [364]65
+     * [365]66
+     * [366]67
+     * [367]68
+     * [368]69
+
+     * [369]70
+     * [370]71
+     * [371]72
+     * [372]73
+     * [373]74
+     * [374]75
+     * [375]76
+     * [376]77
+     * [377]78
+     * [378]79
+
+     * [379]80
+     * [380]81
+     * [381]82
+     * [382]83
+     * [383]84
+     * [384]85
+     * [385]86
+     * [386]87
+     * [387]88
+     * [388]89
+
+     * [389]90
+     * [390]91
+     * [391]92
+     * [392]93
+     * [393]94
+     * [394]95
+     * [395]96
+     * [396]97
+     * [397]98
+     * [398]99
+
+    [399]100s
+     * [400]100
+     * [401]101
+     * [402]102
+     * [403]103
+     * [404]104
+     * [405]105
+     * [406]106
+     * [407]107
+     * [408]108
+     * [409]109
+
+     * [410]110
+     * [411]111
+     * [412]112
+     * [413]113
+     * [414]114
+     * [415]115
+     * [416]116
+     * [417]117
+     * [418]118
+     * [419]119
+
+     * [420]120
+     * [421]121
+     * [422]122
+     * [423]123
+     * [424]124
+     * [425]125
+     * [426]126
+     * [427]127
+     * [428]128
+     * [429]129
+
+     * [430]130
+     * [431]131
+     * [432]132
+     * [433]133
+     * [434]134
+     * [435]135
+     * [436]136
+     * [437]137
+     * [438]138
+     * [439]139
+
+     * [440]140
+     * [441]141
+     * [442]142
+     * [443]143
+     * [444]144
+     * [445]145
+     * [446]146
+     * [447]147
+     * [448]148
+     * [449]149
+
+     * [450]150
+     * [451]151
+     * [452]152
+     * [453]153
+     * [454]154
+     * [455]155
+     * [456]156
+     * [457]157
+     * [458]158
+     * [459]159
+
+     * [460]160
+     * [461]161
+     * [462]162
+     * [463]163
+     * [464]164
+     * [465]165
+     * [466]166
+     * [467]167
+     * [468]168
+     * [469]169
+
+     * [470]170
+     * [471]171
+     * [472]172
+     * [473]173
+     * [474]174
+     * [475]175
+     * [476]176
+     * [477]177
+     * [478]178
+     * [479]179
+
+     * [480]180
+     * [481]181
+     * [482]182
+     * [483]183
+     * [484]184
+     * [485]185
+     * [486]186
+     * [487]187
+     * [488]188
+     * [489]189
+
+     * [490]190
+     * [491]191
+     * [492]192
+     * [493]193
+     * [494]194
+     * [495]195
+     * [496]196
+     * [497]197
+     * [498]198
+     * [499]199
+
+    [500]200s
+     * [501]200
+     * [502]201
+     * [503]202
+     * [504]203
+     * [505]204
+     * [506]205
+     * [507]206
+     * [508]207
+     * [509]208
+     * [510]209
+
+     * [511]210
+     * [512]211
+     * [513]212
+     * [514]213
+     * [515]214
+     * [516]215
+     * [517]216
+     * [518]217
+     * [519]218
+     * [520]219
+
+     * [521]220
+     * [522]221
+     * [523]222
+     * [524]223
+     * [525]224
+     * [526]225
+     * [527]226
+     * [528]227
+     * [529]228
+     * [530]229
+
+     * [531]230
+     * [532]231
+     * [533]232
+     * [534]233
+     * [535]234
+     * [536]235
+     * [537]236
+     * [538]237
+     * [539]238
+     * [540]239
+
+     * [541]240
+     * [542]241
+     * [543]242
+     * [544]243
+     * [545]244
+     * [546]245
+     * [547]246
+     * [548]247
+     * [549]248
+     * [550]249
+
+     * [551]250
+     * [552]251
+     * [553]252
+     * [554]253
+     * [555]254
+     * [556]255
+     * [557]256
+     * [558]257
+     * [559]258
+     * [560]259
+
+     * [561]260
+     * [562]261
+     * [563]262
+     * [564]263
+     * [565]264
+     * [566]265
+     * [567]266
+     * [568]267
+     * [569]268
+     * [570]269
+
+     * [571]270
+     * [572]271
+     * [573]272
+     * [574]273
+     * [575]274
+     * [576]275
+     * [577]276
+     * [578]277
+     * [579]278
+     * [580]279
+
+     * [581]280
+     * [582]281
+     * [583]282
+     * [584]283
+     * [585]284
+     * [586]285
+     * [587]286
+     * [588]287
+     * [589]288
+     * [590]289
+
+     * [591]290
+     * [592]291
+     * [593]292
+     * [594]293
+     * [595]294
+     * [596]295
+     * [597]296
+     * [598]297
+     * [599]298
+     * [600]299
+
+    [601]300s
+     * [602]300
+     * [603]301
+     * [604]302
+     * [605]303
+     * [606]304
+     * [607]305
+     * [608]306
+     * [609]307
+     * [610]308
+     * [611]309
+
+     * [612]310
+     * [613]311
+     * [614]312
+     * [615]313
+     * [616]314
+     * [617]315
+     * [618]316
+     * [619]317
+     * [620]318
+     * [621]319
+
+     * [622]320
+     * [623]321
+     * [624]322
+     * [625]323
+     * [626]324
+     * [627]325
+     * [628]326
+     * [629]327
+     * [630]328
+     * [631]329
+
+     * [632]330
+     * [633]331
+     * [634]332
+     * [635]333
+     * [636]334
+     * [637]335
+     * [638]336
+     * [639]337
+     * [640]338
+     * [641]339
+
+     * [642]340
+     * [643]341
+     * [644]342
+     * [645]343
+     * [646]344
+     * [647]345
+     * [648]346
+     * [649]347
+     * [650]348
+     * [651]349
+
+     * [652]350
+     * [653]351
+     * [654]352
+     * [655]353
+     * [656]354
+     * [657]355
+     * [658]356
+     * [659]357
+     * [660]358
+     * [661]359
+
+     * [662]360
+     * [663]361
+     * [664]362
+     * [665]363
+     * [666]364
+     * [667]365
+     * [668]366
+     * [669]367
+     * [670]368
+     * [671]369
+
+     * [672]370
+     * [673]371
+     * [674]372
+     * [675]373
+     * [676]374
+     * [677]375
+     * [678]376
+     * [679]377
+     * [680]378
+     * [681]379
+
+     * [682]380
+     * [683]381
+     * [684]382
+     * [685]383
+     * [686]384
+     * [687]385
+     * [688]386
+     * [689]387
+     * [690]388
+     * [691]389
+
+     * [692]390
+     * [693]391
+     * [694]392
+     * [695]393
+     * [696]394
+     * [697]395
+     * [698]396
+     * [699]397
+     * [700]398
+     * [701]399
+
+    [702]400s
+     * [703]400
+     * [704]401
+     * [705]402
+     * [706]403
+     * [707]404
+     * [708]405
+     * [709]406
+     * [710]407
+     * [711]408
+     * [712]409
+
+     * [713]410
+     * [714]411
+     * [715]412
+     * [716]413
+     * [717]414
+     * [718]415
+     * [719]416
+     * [720]417
+     * [721]418
+     * [722]419
+
+     * [723]420
+     * [724]421
+     * [725]422
+     * [726]423
+     * [727]424
+     * [728]425
+     * [729]426
+     * [730]427
+     * [731]428
+     * [732]429
+
+     * [733]430
+     * [734]431
+     * [735]432
+     * [736]433
+     * [737]434
+     * [738]435
+     * [739]436
+     * [740]437
+     * [741]438
+     * [742]439
+
+     * [743]440
+     * [744]441
+     * [745]442
+     * [746]443
+     * [747]444
+     * [748]445
+     * [749]446
+     * [750]447
+     * [751]448
+     * [752]449
+
+     * [753]450
+     * [754]451
+     * [755]452
+     * [756]453
+     * [757]454
+     * [758]455
+     * [759]456
+     * [760]457
+     * [761]458
+     * [762]459
+
+     * [763]460
+     * [764]461
+     * [765]462
+     * [766]463
+     * [767]464
+     * [768]465
+     * [769]466
+     * [770]467
+     * [771]468
+     * [772]469
+
+     * [773]470
+     * [774]471
+     * [775]472
+     * [776]473
+     * [777]474
+     * [778]475
+     * [779]476
+     * [780]477
+     * [781]478
+     * [782]479
+
+     * [783]480
+     * [784]481
+     * [785]482
+     * [786]483
+     * [787]484
+     * [788]485
+     * [789]486
+     * [790]487
+     * [791]488
+     * [792]489
+
+     * [793]490
+     * [794]491
+     * [795]492
+     * [796]493
+     * [797]494
+     * [798]495
+     * [799]496
+     * [800]497
+     * [801]498
+     * [802]499
+
+    [803]500s
+     * [804]500
+     * [805]501
+     * [806]502
+     * [807]503
+     * [808]504
+     * [809]505
+     * [810]506
+     * [811]507
+     * [812]508
+     * [813]509
+
+     * [814]510
+     * [815]511
+     * [816]512
+     * [817]513
+     * [818]514
+     * [819]515
+     * [820]516
+     * [821]517
+     * [822]518
+     * [823]519
+
+     * [824]520
+     * [825]521
+     * [826]522
+     * [827]523
+     * [828]524
+     * [829]525
+     * [830]526
+     * [831]527
+     * [832]528
+     * [833]529
+
+     * [834]530
+     * [835]531
+     * [836]532
+     * [837]533
+     * [838]534
+     * [839]535
+     * [840]536
+     * [841]537
+     * [842]538
+     * [843]539
+
+     * [844]540
+     * [845]541
+     * [846]542
+     * [847]543
+     * [848]544
+     * [849]545
+     * [850]546
+     * [851]547
+     * [852]548
+     * [853]549
+
+     * [854]550
+     * [855]551
+     * [856]552
+     * [857]553
+     * [858]554
+     * [859]555
+     * [860]556
+     * [861]557
+     * [862]558
+     * [863]559
+
+     * [864]560
+     * [865]561
+     * [866]562
+     * [867]563
+     * [868]564
+     * [869]565
+     * [870]566
+     * [871]567
+     * [872]568
+     * [873]569
+
+     * [874]570
+     * [875]571
+     * [876]572
+     * [877]573
+     * [878]574
+     * [879]575
+     * [880]576
+     * [881]577
+     * [882]578
+     * [883]579
+
+     * [884]580
+     * [885]581
+     * [886]582
+     * [887]583
+     * [888]584
+     * [889]585
+     * [890]586
+     * [891]587
+     * [892]588
+     * [893]589
+
+     * [894]590
+     * [895]591
+     * [896]592
+     * [897]593
+     * [898]594
+     * [899]595
+     * [900]596
+     * [901]597
+     * [902]598
+     * [903]599
+
+    [904]600s
+     * [905]600
+     * [906]601
+     * [907]602
+     * [908]603
+     * [909]604
+     * [910]605
+     * [911]606
+     * [912]607
+     * [913]608
+     * [914]609
+
+     * [915]610
+     * [916]611
+     * [917]612
+     * [918]613
+     * [919]614
+     * [920]615
+     * [921]616
+     * [922]617
+     * [923]618
+     * [924]619
+
+     * [925]620
+     * [926]621
+     * [927]622
+     * [928]623
+     * [929]624
+     * [930]625
+     * [931]626
+     * [932]627
+     * [933]628
+     * [934]629
+
+     * [935]630
+     * [936]631
+     * [937]632
+     * [938]633
+     * [939]634
+     * [940]635
+     * [941]636
+     * [942]637
+     * [943]638
+     * [944]639
+
+     * [945]640
+     * [946]641
+     * [947]642
+     * [948]643
+     * [949]644
+     * [950]645
+     * [951]646
+     * [952]647
+     * [953]648
+     * [954]649
+
+     * [955]650
+     * [956]651
+     * [957]652
+     * [958]653
+     * [959]654
+     * [960]655
+     * [961]656
+     * [962]657
+     * [963]658
+     * [964]659
+
+     * [965]660
+     * [966]661
+     * [967]662
+     * [968]663
+     * [969]664
+     * [970]665
+     * [971]666
+     * [972]667
+     * [973]668
+     * [974]669
+
+     * [975]670
+     * [976]671
+     * [977]672
+     * [978]673
+     * [979]674
+     * [980]675
+     * [981]676
+     * [982]677
+     * [983]678
+     * [984]679
+
+     * [985]680
+     * [986]681
+     * [987]682
+     * [988]683
+     * [989]684
+     * [990]685
+     * [991]686
+     * [992]687
+     * [993]688
+     * [994]689
+
+     * [995]690
+     * [996]691
+     * [997]692
+     * [998]693
+     * [999]694
+     * [1000]695
+     * [1001]696
+     * [1002]697
+     * [1003]698
+     * [1004]699
+
+    [1005]700s
+     * [1006]700
+     * [1007]701
+     * [1008]702
+     * [1009]703
+     * [1010]704
+     * [1011]705
+     * [1012]706
+     * [1013]707
+     * [1014]708
+     * [1015]709
+
+     * [1016]710
+     * [1017]711
+     * [1018]712
+     * [1019]713
+     * [1020]714
+     * [1021]715
+     * [1022]716
+     * [1023]717
+     * [1024]718
+     * [1025]719
+
+     * [1026]720
+     * [1027]721
+     * [1028]722
+     * [1029]723
+     * [1030]724
+     * [1031]725
+     * [1032]726
+     * [1033]727
+     * [1034]728
+     * [1035]729
+
+     * [1036]730
+     * [1037]731
+     * [1038]732
+     * [1039]733
+     * [1040]734
+     * [1041]735
+     * [1042]736
+     * [1043]737
+     * [1044]738
+     * [1045]739
+
+     * [1046]740
+     * [1047]741
+     * [1048]742
+     * [1049]743
+     * [1050]744
+     * [1051]745
+     * [1052]746
+     * [1053]747
+     * [1054]748
+     * [1055]749
+
+     * [1056]750
+     * [1057]751
+     * [1058]752
+     * [1059]753
+     * [1060]754
+     * [1061]755
+     * [1062]756
+     * [1063]757
+     * [1064]758
+     * [1065]759
+
+     * [1066]760
+     * [1067]761
+     * [1068]762
+     * [1069]763
+     * [1070]764
+     * [1071]765
+     * [1072]766
+     * [1073]767
+     * [1074]768
+     * [1075]769
+
+     * [1076]770
+     * [1077]771
+     * [1078]772
+     * [1079]773
+     * [1080]774
+     * [1081]775
+     * [1082]776
+     * [1083]777
+     * [1084]778
+     * [1085]779
+
+     * [1086]780
+     * [1087]781
+     * [1088]782
+     * [1089]783
+     * [1090]784
+     * [1091]785
+     * [1092]786
+     * [1093]787
+     * [1094]788
+     * [1095]789
+
+     * [1096]790
+     * [1097]791
+     * [1098]792
+     * [1099]793
+     * [1100]794
+     * [1101]795
+     * [1102]796
+     * [1103]797
+     * [1104]798
+     * [1105]799
+
+    [1106]800s
+     * [1107]800
+     * [1108]801
+     * [1109]802
+     * [1110]803
+     * [1111]804
+     * [1112]805
+     * [1113]806
+     * [1114]807
+     * [1115]808
+     * [1116]809
+
+     * [1117]810
+     * [1118]811
+     * [1119]812
+     * [1120]813
+     * [1121]814
+     * [1122]815
+     * [1123]816
+     * [1124]817
+     * [1125]818
+     * [1126]819
+
+     * [1127]820
+     * [1128]821
+     * [1129]822
+     * [1130]823
+     * [1131]824
+     * [1132]825
+     * [1133]826
+     * [1134]827
+     * [1135]828
+     * [1136]829
+
+     * [1137]830
+     * [1138]831
+     * [1139]832
+     * [1140]833
+     * [1141]834
+     * [1142]835
+     * [1143]836
+     * [1144]837
+     * [1145]838
+     * [1146]839
+
+     * [1147]840
+     * [1148]841
+     * [1149]842
+     * [1150]843
+     * [1151]844
+     * [1152]845
+     * [1153]846
+     * [1154]847
+     * [1155]848
+     * [1156]849
+
+     * [1157]850
+     * [1158]851
+     * [1159]852
+     * [1160]853
+     * [1161]854
+     * [1162]855
+     * [1163]856
+     * [1164]857
+     * [1165]858
+     * [1166]859
+
+     * [1167]860
+     * [1168]861
+     * [1169]862
+     * [1170]863
+     * [1171]864
+     * [1172]865
+     * [1173]866
+     * [1174]867
+     * [1175]868
+     * [1176]869
+
+     * [1177]870
+     * [1178]871
+     * [1179]872
+     * [1180]873
+     * [1181]874
+     * [1182]875
+     * [1183]876
+     * [1184]877
+     * [1185]878
+     * [1186]879
+
+     * [1187]880
+     * [1188]881
+     * [1189]882
+     * [1190]883
+     * [1191]884
+     * [1192]885
+     * [1193]886
+     * [1194]887
+     * [1195]888
+     * [1196]889
+
+     * [1197]890
+     * [1198]891
+     * [1199]892
+     * [1200]893
+     * [1201]894
+     * [1202]895
+     * [1203]896
+     * [1204]897
+     * [1205]898
+     * [1206]899
+
+    [1207]900s
+     * [1208]900
+     * [1209]901
+     * [1210]902
+     * [1211]903
+     * [1212]904
+     * [1213]905
+     * [1214]906
+     * [1215]907
+     * [1216]908
+     * [1217]909
+
+     * [1218]910
+     * [1219]911
+     * [1220]912
+     * [1221]913
+     * [1222]914
+     * [1223]915
+     * [1224]916
+     * [1225]917
+     * [1226]918
+     * [1227]919
+
+     * [1228]920
+     * [1229]921
+     * [1230]922
+     * [1231]923
+     * [1232]924
+     * [1233]925
+     * [1234]926
+     * [1235]927
+     * [1236]928
+     * [1237]929
+
+     * [1238]930
+     * [1239]931
+     * [1240]932
+     * [1241]933
+     * [1242]934
+     * [1243]935
+     * [1244]936
+     * [1245]937
+     * [1246]938
+     * [1247]939
+
+     * [1248]940
+     * [1249]941
+     * [1250]942
+     * [1251]943
+     * [1252]944
+     * [1253]945
+     * [1254]946
+     * [1255]947
+     * [1256]948
+     * [1257]949
+
+     * [1258]950
+     * [1259]951
+     * [1260]952
+     * [1261]953
+     * [1262]954
+     * [1263]955
+     * [1264]956
+     * [1265]957
+     * [1266]958
+     * [1267]959
+
+     * [1268]960
+     * [1269]961
+     * [1270]962
+     * [1271]963
+     * [1272]964
+     * [1273]965
+     * [1274]966
+     * [1275]967
+     * [1276]968
+     * [1277]969
+
+     * [1278]970
+     * [1279]971
+     * [1280]972
+     * [1281]973
+     * [1282]974
+     * [1283]975
+     * [1284]976
+     * [1285]977
+     * [1286]978
+     * [1287]979
+
+     * [1288]980
+     * [1289]981
+     * [1290]982
+     * [1291]983
+     * [1292]984
+     * [1293]985
+     * [1294]986
+     * [1295]987
+     * [1296]988
+     * [1297]989
+
+     * [1298]990
+     * [1299]991
+     * [1300]992
+     * [1301]993
+     * [1302]994
+     * [1303]995
+     * [1304]996
+     * [1305]997
+     * [1306]998
+     * [1307]999
+
+     [1308]1000s
+     * [1309]1000
+     * [1310]2000
+     * [1311]3000
+     * [1312]4000
+     * [1313]5000
+     * [1314]6000
+     * [1315]7000
+     * [1316]8000
+     * [1317]9000
+
+     * [1318]10,000
+     * [1319]20,000
+     * [1320]30,000
+     * [1321]40,000
+     * [1322]50,000
+     * [1323]60,000
+     * [1324]70,000
+     * [1325]80,000
+     * [1326]90,000
+
+     * [1327]100,000
+     * [1328]1,000,000
+     * [1329]10,000,000
+     * [1330]100,000,000
+     * [1331]1,000,000,000
+
+   Retrieved from
+   "[1332]https://en.wikipedia.org/w/index.php?title=−1&oldid=1267387368"
+
+   [1333]Categories:
+     * [1334]Integers
+     * [1335]1 (number)
+
+   Hidden categories:
+     * [1336]Articles with short description
+     * [1337]Short description is different from Wikidata
+     * [1338]All articles with unsourced statements
+     * [1339]Articles with unsourced statements from November 2023
+
+     * This page was last edited on 4 January 2025, at 22:18 (UTC).
+     * Text is available under the [1340]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [1341]Terms of Use and
+       [1342]Privacy Policy. Wikipedia® is a registered trademark of the
+       [1343]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [1344]Privacy policy
+     * [1345]About Wikipedia
+     * [1346]Disclaimers
+     * [1347]Contact Wikipedia
+     * [1348]Code of Conduct
+     * [1349]Developers
+     * [1350]Statistics
+     * [1351]Cookie statement
+     * [1352]Mobile view
+
+     * [1353]Wikimedia Foundation
+     * [1354]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/−1
+   2. file:///w/index.php?title=−1&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=−1
+  21. file:///w/index.php?title=Special:UserLogin&returnto=−1
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=−1
+  24. file:///w/index.php?title=Special:UserLogin&returnto=−1
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html
+  29. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#In_mathematics
+  30. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#Algebraic_properties
+  31. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#Inverse_and_invertible_elements
+  32. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#In_other_uses
+  33. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#See_also
+  34. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#References
+  35. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#Notes
+  36. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#Sources
+  37. https://ar.wikipedia.org/wiki/-1_(عدد)
+  38. https://as.wikipedia.org/wiki/−১
+  39. https://ast.wikipedia.org/wiki/Menos_unu
+  40. https://ban.wikipedia.org/wiki/-1_(angka)
+  41. https://bn.wikipedia.org/wiki/–১
+  42. https://ba.wikipedia.org/wiki/-1_(һан)
+  43. https://be.wikipedia.org/wiki/-1
+  44. https://be-tarask.wikipedia.org/wiki/−1_(лік)
+  45. https://bg.wikipedia.org/wiki/-1
+  46. https://ca.wikipedia.org/wiki/−1
+  47. https://de.wikipedia.org/wiki/Minus_eins
+  48. https://el.wikipedia.org/wiki/−1
+  49. https://es.wikipedia.org/wiki/Menos_uno
+  50. https://eu.wikipedia.org/wiki/-1
+  51. https://fa.wikipedia.org/wiki/−۱
+  52. https://fr.wikipedia.org/wiki/−1_(nombre)
+  53. https://gl.wikipedia.org/wiki/Menos_un
+  54. https://inh.wikipedia.org/wiki/−1
+  55. https://ko.wikipedia.org/wiki/−1
+  56. https://hy.wikipedia.org/wiki/−1
+  57. https://id.wikipedia.org/wiki/−1_(angka)
+  58. https://it.wikipedia.org/wiki/−1
+  59. https://he.wikipedia.org/wiki/−1
+  60. https://ks.wikipedia.org/wiki/-1_(گرَٛنٛد)
+  61. https://la.wikipedia.org/wiki/Unus_negativus
+  62. https://ml.wikipedia.org/wiki/−1_(സംഖ്യ)
+  63. https://mr.wikipedia.org/wiki/−१_(संख्या)
+  64. https://ja.wikipedia.org/wiki/−1
+  65. https://frr.wikipedia.org/wiki/Ian_oner_nol
+  66. https://uz.wikipedia.org/wiki/-1
+  67. https://pa.wikipedia.org/wiki/-1_(ਸੰਖਿਆ)
+  68. https://pl.wikipedia.org/wiki/−1
+  69. https://pt.wikipedia.org/wiki/Menos_um
+  70. https://ro.wikipedia.org/wiki/−1_(număr)
+  71. https://ru.wikipedia.org/wiki/−1_(число)
+  72. https://sco.wikipedia.org/wiki/-1_(nummer)
+  73. https://simple.wikipedia.org/wiki/−1_(number)
+  74. https://sl.wikipedia.org/wiki/−1_(število)
+  75. https://ckb.wikipedia.org/wiki/١-_(ژمارە)
+  76. https://sr.wikipedia.org/wiki/−1
+  77. https://fi.wikipedia.org/wiki/−1_(luku)
+  78. https://sv.wikipedia.org/wiki/−1_(tal)
+  79. https://ta.wikipedia.org/wiki/-1_(எண்)
+  80. https://th.wikipedia.org/wiki/−1
+  81. https://tr.wikipedia.org/wiki/−1
+  82. https://uk.wikipedia.org/wiki/-1_(число)
+  83. https://vi.wikipedia.org/wiki/-1
+  84. https://wuu.wikipedia.org/wiki/−1
+  85. https://zh-yue.wikipedia.org/wiki/-1
+  86. https://zh.wikipedia.org/wiki/−1
+  87. https://www.wikidata.org/wiki/Special:EntityPage/Q310395#sitelinks-wikipedia
+  88. file:///wiki/−1
+  89. file:///wiki/Talk:−1
+  90. file:///wiki/−1
+  91. file:///w/index.php?title=−1&action=edit
+  92. file:///w/index.php?title=−1&action=history
+  93. file:///wiki/−1
+  94. file:///w/index.php?title=−1&action=edit
+  95. file:///w/index.php?title=−1&action=history
+  96. file:///wiki/Special:WhatLinksHere/−1
+  97. file:///wiki/Special:RecentChangesLinked/−1
+  98. file:///wiki/Wikipedia:File_Upload_Wizard
+  99. file:///wiki/Special:SpecialPages
+ 100. file:///w/index.php?title=−1&oldid=1267387368
+ 101. file:///w/index.php?title=−1&action=info
+ 102. file:///w/index.php?title=Special:CiteThisPage&page=−1&id=1267387368&wpFormIdentifier=titleform
+ 103. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/%E2%88%921
+ 104. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/%E2%88%921
+ 105. file:///w/index.php?title=Special:DownloadAsPdf&page=−1&action=show-download-screen
+ 106. file:///w/index.php?title=−1&printable=yes
+ 107. https://commons.wikimedia.org/wiki/Category:-1_(number)
+ 108. https://www.wikidata.org/wiki/Special:EntityPage/Q310395
+ 109. file:///w/index.php?title=-1&redirect=no
+ 110. file:///wiki/−1_(disambiguation)
+ 111. file:///wiki/0_(number)
+ 112. file:///wiki/0
+ 113. file:///wiki/1
+ 114. file:///wiki/2
+ 115. file:///wiki/3
+ 116. file:///wiki/4
+ 117. file:///wiki/5
+ 118. file:///wiki/6
+ 119. file:///wiki/7
+ 120. file:///wiki/8
+ 121. file:///wiki/9
+ 122. file:///wiki/10_(number)
+ 123. file:///wiki/List_of_numbers
+ 124. file:///wiki/Integer
+ 125. file:///wiki/Negative_number
+ 126. file:///wiki/0
+ 127. file:///wiki/10
+ 128. file:///wiki/20_(number)
+ 129. file:///wiki/30_(number)
+ 130. file:///wiki/40_(number)
+ 131. file:///wiki/50_(number)
+ 132. file:///wiki/60_(number)
+ 133. file:///wiki/70_(number)
+ 134. file:///wiki/80_(number)
+ 135. file:///wiki/90_(number)
+ 136. file:///wiki/100_(number)
+ 137. file:///wiki/Cardinal_numeral
+ 138. file:///wiki/Ordinal_numeral
+ 139. file:///wiki/Divisor
+ 140. file:///wiki/Hindu–Arabic_numeral_system
+ 141. file:///wiki/Chinese_numerals#Negative_numbers
+ 142. file:///wiki/Bengali_language
+ 143. file:///wiki/Binary_numeral_system
+ 144. file:///wiki/Byte
+ 145. file:///wiki/Signed_magnitude
+ 146. file:///wiki/Two's_complement
+ 147. file:///wiki/Hexadecimal
+ 148. file:///wiki/Byte
+ 149. file:///wiki/Signed_magnitude
+ 150. file:///wiki/Two's_complement
+ 151. file:///wiki/Mathematics
+ 152. file:///wiki/Additive_inverse
+ 153. file:///wiki/1_(number)
+ 154. file:///wiki/Addition
+ 155. file:///wiki/Additive_identity
+ 156. file:///wiki/Negative_number
+ 157. file:///wiki/Integer
+ 158. file:///wiki/0_(number)
+ 159. file:///w/index.php?title=−1&action=edit&section=1
+ 160. file:///w/index.php?title=−1&action=edit&section=2
+ 161. file:///wiki/Sign_(mathematics)
+ 162. file:///wiki/Distributive_law
+ 163. file:///wiki/Multiplicative_identity
+ 164. file:///wiki/Cancellation_property
+ 165. file:///wiki/Square_(algebra)
+ 166. file:///wiki/Ring_(mathematics)
+ 167. file:///wiki/Abstract_algebra
+ 168. file:///wiki/Real_number
+ 169. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_note-MultIdRng-1
+ 170. file:///wiki/File:ImaginaryUnit5.svg
+ 171. file:///wiki/Imaginary_unit
+ 172. file:///wiki/Complex_plane
+ 173. file:///wiki/Cartesian_plane
+ 174. file:///wiki/Real_number
+ 175. file:///wiki/Complex_number
+ 176. file:///wiki/Imaginary_unit
+ 177. file:///wiki/Square_root
+ 178. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_note-imaginary-2
+ 179. file:///wiki/Fundamental_theorem_of_algebra
+ 180. file:///wiki/Quaternion
+ 181. file:///wiki/Quaternion#Square_roots_of_−1
+ 182. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_note-3
+ 183. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_note-4
+ 184. file:///w/index.php?title=−1&action=edit&section=3
+ 185. file:///wiki/File:Geogebra_f(x)=1÷x_20211118.svg
+ 186. file:///wiki/Multiplicative_inverse
+ 187. file:///wiki/Exponentiation
+ 188. file:///wiki/Exponentiation#Negative_exponents
+ 189. file:///wiki/Multiplicative_inverse
+ 190. file:///wiki/Superscript
+ 191. file:///wiki/Inverse_function
+ 192. file:///wiki/Pointwise
+ 193. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_note-5
+ 194. file:///wiki/Bijection
+ 195. file:///wiki/Codomain
+ 196. file:///wiki/Domain_of_a_function
+ 197. file:///wiki/Inverse_image
+ 198. file:///wiki/Inverse_element
+ 199. file:///wiki/Unit_(ring_theory)
+ 200. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_note-MultIdRng-1
+ 201. file:///wiki/Polynomial#Polynomial_ring
+ 202. file:///wiki/Field_(mathematics)#Constructing_fields
+ 203. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_note-6
+ 204. file:///wiki/Polynomial_ring#Terminology
+ 205. file:///w/index.php?title=−1&action=edit&section=4
+ 206. file:///wiki/Integer_sequence
+ 207. file:///wiki/Uncountable_set
+ 208. file:///wiki/Infinity
+ 209. file:///wiki/Sequence
+ 210. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_note-IntSeq-7
+ 211. file:///wiki/Polytope
+ 212. file://oeis.org/A060296
+ 213. file:///wiki/On-Line_Encyclopedia_of_Integer_Sequences
+ 214. file:///wiki/Null_(mathematics)
+ 215. file:///wiki/Empty_set
+ 216. file:///wiki/Number#Main_classification
+ 217. file:///wiki/Expression_(mathematics)
+ 218. file:///wiki/Sequence
+ 219. file:///wiki/Satisfiability
+ 220. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_note-IntSeq-7
+ 221. file:///wiki/Divisor
+ 222. file:///wiki/Prime_number
+ 223. file://oeis.org/A356136
+ 224. file:///wiki/On-Line_Encyclopedia_of_Integer_Sequences
+ 225. file:///wiki/0#Mathematics
+ 226. file:///wiki/Software_development
+ 227. file:///wiki/Sentinel_value
+ 228. file:///wiki/Wikipedia:Citation_needed
+ 229. file:///w/index.php?title=−1&action=edit&section=5
+ 230. file:///wiki/File:Nuvola_apps_edu_mathematics_blue-p.svg
+ 231. file:///wiki/Portal:Mathematics
+ 232. file:///wiki/Balanced_ternary
+ 233. file:///w/index.php?title=−1&action=edit&section=6
+ 234. file:///w/index.php?title=−1&action=edit&section=7
+ 235. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_ref-5
+ 236. file:///wiki/Arcsine
+ 237. file:///w/index.php?title=−1&action=edit&section=8
+ 238. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_ref-MultIdRng_1-0
+ 239. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_ref-MultIdRng_1-1
+ 240. file:///wiki/Melvyn_B._Nathanson
+ 241. https://link.springer.com/chapter/10.1007/978-0-387-22738-2_2
+ 242. file:///wiki/Graduate_Texts_in_Mathematics
+ 243. file:///wiki/Springer_Science+Business_Media
+ 244. file:///wiki/Doi_(identifier)
+ 245. https://doi.org/10.1007/978-0-387-22738-2_2
+ 246. file:///wiki/ISBN_(identifier)
+ 247. file:///wiki/Special:BookSources/978-0-387-98912-9
+ 248. file:///wiki/MR_(identifier)
+ 249. https://mathscinet.ams.org/mathscinet-getitem?mr=1732941
+ 250. file:///wiki/OCLC_(identifier)
+ 251. https://search.worldcat.org/oclc/42061097
+ 252. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_ref-imaginary_2-0
+ 253. https://books.google.com/books?id=GmB1cSGHbZcC&pg=PA273
+ 254. file:///wiki/Nova_Science_Publishers
+ 255. file:///wiki/ISBN_(identifier)
+ 256. file:///wiki/Special:BookSources/978-1-60021-925-2
+ 257. file:///wiki/OCLC_(identifier)
+ 258. https://search.worldcat.org/oclc/957126114
+ 259. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_ref-3
+ 260. https://archive.org/details/historicaltopics0000nati/page/38/mode/2up
+ 261. file:///wiki/National_Council_of_Teachers_of_Mathematics
+ 262. file:///wiki/ISBN_(identifier)
+ 263. file:///wiki/Special:BookSources/9780873530583
+ 264. file:///wiki/OCLC_(identifier)
+ 265. https://search.worldcat.org/oclc/195566
+ 266. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_ref-4
+ 267. file:///wiki/Ian_R._Porteous
+ 268. https://www.maths.ed.ac.uk/~v1ranick/papers/porteous3.pdf
+ 269. file:///wiki/Cambridge_University_Press
+ 270. file:///wiki/Doi_(identifier)
+ 271. https://doi.org/10.1017/CBO9780511470912.009
+ 272. file:///wiki/ISBN_(identifier)
+ 273. file:///wiki/Special:BookSources/9780521551779
+ 274. file:///wiki/MR_(identifier)
+ 275. https://mathscinet.ams.org/mathscinet-getitem?mr=1369094
+ 276. file:///wiki/OCLC_(identifier)
+ 277. https://search.worldcat.org/oclc/32348823
+ 278. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_ref-6
+ 279. https://link.springer.com/book/10.1007/b102438
+ 280. file:///wiki/Doi_(identifier)
+ 281. https://doi.org/10.1007/b102438
+ 282. file:///wiki/ISBN_(identifier)
+ 283. file:///wiki/Special:BookSources/978-0-7923-9259-0
+ 284. file:///wiki/OCLC_(identifier)
+ 285. https://search.worldcat.org/oclc/26212117
+ 286. file:///wiki/S2CID_(identifier)
+ 287. https://api.semanticscholar.org/CorpusID:964280
+ 288. file:///wiki/Zbl_(identifier)
+ 289. https://zbmath.org/?format=complete&q=an:0805.68072
+ 290. file:///wiki/Springer_Science+Business_Media
+ 291. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_ref-IntSeq_7-0
+ 292. file:///tmp/lynxXXXXTUlDZV/L51332-8467TMP.html#cite_ref-IntSeq_7-1
+ 293. file:///wiki/On-Line_Encyclopedia_of_Integer_Sequences
+ 294. file:///wiki/Template:Integers
+ 295. file:///wiki/Template_talk:Integers
+ 296. file:///wiki/Special:EditPage/Template:Integers
+ 297. file:///wiki/Integer
+ 298. file:///wiki/0
+ 299. file:///wiki/0
+ 300. file:///wiki/1
+ 301. file:///wiki/2
+ 302. file:///wiki/3
+ 303. file:///wiki/4
+ 304. file:///wiki/5
+ 305. file:///wiki/6
+ 306. file:///wiki/7
+ 307. file:///wiki/8
+ 308. file:///wiki/9
+ 309. file:///wiki/10
+ 310. file:///wiki/11_(number)
+ 311. file:///wiki/12_(number)
+ 312. file:///wiki/13_(number)
+ 313. file:///wiki/14_(number)
+ 314. file:///wiki/15_(number)
+ 315. file:///wiki/16_(number)
+ 316. file:///wiki/17_(number)
+ 317. file:///wiki/18_(number)
+ 318. file:///wiki/19_(number)
+ 319. file:///wiki/20_(number)
+ 320. file:///wiki/21_(number)
+ 321. file:///wiki/22_(number)
+ 322. file:///wiki/23_(number)
+ 323. file:///wiki/24_(number)
+ 324. file:///wiki/25_(number)
+ 325. file:///wiki/26_(number)
+ 326. file:///wiki/27_(number)
+ 327. file:///wiki/28_(number)
+ 328. file:///wiki/29_(number)
+ 329. file:///wiki/30_(number)
+ 330. file:///wiki/31_(number)
+ 331. file:///wiki/32_(number)
+ 332. file:///wiki/33_(number)
+ 333. file:///wiki/34_(number)
+ 334. file:///wiki/35_(number)
+ 335. file:///wiki/36_(number)
+ 336. file:///wiki/37_(number)
+ 337. file:///wiki/38_(number)
+ 338. file:///wiki/39_(number)
+ 339. file:///wiki/40_(number)
+ 340. file:///wiki/41_(number)
+ 341. file:///wiki/42_(number)
+ 342. file:///wiki/43_(number)
+ 343. file:///wiki/44_(number)
+ 344. file:///wiki/45_(number)
+ 345. file:///wiki/46_(number)
+ 346. file:///wiki/47_(number)
+ 347. file:///wiki/48_(number)
+ 348. file:///wiki/49_(number)
+ 349. file:///wiki/50_(number)
+ 350. file:///wiki/51_(number)
+ 351. file:///wiki/52_(number)
+ 352. file:///wiki/53_(number)
+ 353. file:///wiki/54_(number)
+ 354. file:///wiki/55_(number)
+ 355. file:///wiki/56_(number)
+ 356. file:///wiki/57_(number)
+ 357. file:///wiki/58_(number)
+ 358. file:///wiki/59_(number)
+ 359. file:///wiki/60_(number)
+ 360. file:///wiki/61_(number)
+ 361. file:///wiki/62_(number)
+ 362. file:///wiki/63_(number)
+ 363. file:///wiki/64_(number)
+ 364. file:///wiki/65_(number)
+ 365. file:///wiki/66_(number)
+ 366. file:///wiki/67_(number)
+ 367. file:///wiki/68_(number)
+ 368. file:///wiki/69_(number)
+ 369. file:///wiki/70_(number)
+ 370. file:///wiki/71_(number)
+ 371. file:///wiki/72_(number)
+ 372. file:///wiki/73_(number)
+ 373. file:///wiki/74_(number)
+ 374. file:///wiki/75_(number)
+ 375. file:///wiki/76_(number)
+ 376. file:///wiki/77_(number)
+ 377. file:///wiki/78_(number)
+ 378. file:///wiki/79_(number)
+ 379. file:///wiki/80_(number)
+ 380. file:///wiki/81_(number)
+ 381. file:///wiki/82_(number)
+ 382. file:///wiki/83_(number)
+ 383. file:///wiki/84_(number)
+ 384. file:///wiki/85_(number)
+ 385. file:///wiki/86_(number)
+ 386. file:///wiki/87_(number)
+ 387. file:///wiki/88_(number)
+ 388. file:///wiki/89_(number)
+ 389. file:///wiki/90_(number)
+ 390. file:///wiki/91_(number)
+ 391. file:///wiki/92_(number)
+ 392. file:///wiki/93_(number)
+ 393. file:///wiki/94_(number)
+ 394. file:///wiki/95_(number)
+ 395. file:///wiki/96_(number)
+ 396. file:///wiki/97_(number)
+ 397. file:///wiki/98_(number)
+ 398. file:///wiki/99_(number)
+ 399. file:///wiki/100
+ 400. file:///wiki/100
+ 401. file:///wiki/101_(number)
+ 402. file:///wiki/102_(number)
+ 403. file:///wiki/103_(number)
+ 404. file:///wiki/104_(number)
+ 405. file:///wiki/105_(number)
+ 406. file:///wiki/106_(number)
+ 407. file:///wiki/107_(number)
+ 408. file:///wiki/108_(number)
+ 409. file:///wiki/109_(number)
+ 410. file:///wiki/110_(number)
+ 411. file:///wiki/111_(number)
+ 412. file:///wiki/112_(number)
+ 413. file:///wiki/113_(number)
+ 414. file:///wiki/114_(number)
+ 415. file:///wiki/115_(number)
+ 416. file:///wiki/116_(number)
+ 417. file:///wiki/117_(number)
+ 418. file:///wiki/118_(number)
+ 419. file:///wiki/119_(number)
+ 420. file:///wiki/120_(number)
+ 421. file:///wiki/121_(number)
+ 422. file:///wiki/122_(number)
+ 423. file:///wiki/123_(number)
+ 424. file:///wiki/124_(number)
+ 425. file:///wiki/125_(number)
+ 426. file:///wiki/126_(number)
+ 427. file:///wiki/127_(number)
+ 428. file:///wiki/128_(number)
+ 429. file:///wiki/129_(number)
+ 430. file:///wiki/130_(number)
+ 431. file:///wiki/131_(number)
+ 432. file:///wiki/132_(number)
+ 433. file:///wiki/133_(number)
+ 434. file:///wiki/134_(number)
+ 435. file:///wiki/135_(number)
+ 436. file:///wiki/136_(number)
+ 437. file:///wiki/137_(number)
+ 438. file:///wiki/138_(number)
+ 439. file:///wiki/139_(number)
+ 440. file:///wiki/140_(number)
+ 441. file:///wiki/141_(number)
+ 442. file:///wiki/142_(number)
+ 443. file:///wiki/143_(number)
+ 444. file:///wiki/144_(number)
+ 445. file:///wiki/145_(number)
+ 446. file:///wiki/146_(number)
+ 447. file:///wiki/147_(number)
+ 448. file:///wiki/148_(number)
+ 449. file:///wiki/149_(number)
+ 450. file:///wiki/150_(number)
+ 451. file:///wiki/151_(number)
+ 452. file:///wiki/152_(number)
+ 453. file:///wiki/153_(number)
+ 454. file:///wiki/154_(number)
+ 455. file:///wiki/155_(number)
+ 456. file:///wiki/156_(number)
+ 457. file:///wiki/157_(number)
+ 458. file:///wiki/158_(number)
+ 459. file:///wiki/159_(number)
+ 460. file:///wiki/160_(number)
+ 461. file:///wiki/161_(number)
+ 462. file:///wiki/162_(number)
+ 463. file:///wiki/163_(number)
+ 464. file:///wiki/164_(number)
+ 465. file:///wiki/165_(number)
+ 466. file:///wiki/166_(number)
+ 467. file:///wiki/167_(number)
+ 468. file:///wiki/168_(number)
+ 469. file:///wiki/169_(number)
+ 470. file:///wiki/170_(number)
+ 471. file:///wiki/171_(number)
+ 472. file:///wiki/172_(number)
+ 473. file:///wiki/173_(number)
+ 474. file:///wiki/174_(number)
+ 475. file:///wiki/175_(number)
+ 476. file:///wiki/176_(number)
+ 477. file:///wiki/177_(number)
+ 478. file:///wiki/178_(number)
+ 479. file:///wiki/179_(number)
+ 480. file:///wiki/180_(number)
+ 481. file:///wiki/181_(number)
+ 482. file:///wiki/182_(number)
+ 483. file:///wiki/183_(number)
+ 484. file:///wiki/184_(number)
+ 485. file:///wiki/185_(number)
+ 486. file:///wiki/186_(number)
+ 487. file:///wiki/187_(number)
+ 488. file:///wiki/188_(number)
+ 489. file:///wiki/189_(number)
+ 490. file:///wiki/190_(number)
+ 491. file:///wiki/191_(number)
+ 492. file:///wiki/192_(number)
+ 493. file:///wiki/193_(number)
+ 494. file:///wiki/194_(number)
+ 495. file:///wiki/195_(number)
+ 496. file:///wiki/196_(number)
+ 497. file:///wiki/197_(number)
+ 498. file:///wiki/198_(number)
+ 499. file:///wiki/199_(number)
+ 500. file:///wiki/200_(number)
+ 501. file:///wiki/200_(number)
+ 502. file:///wiki/201_(number)
+ 503. file:///wiki/202_(number)
+ 504. file:///wiki/203_(number)
+ 505. file:///wiki/204_(number)
+ 506. file:///wiki/205_(number)
+ 507. file:///wiki/206_(number)
+ 508. file:///wiki/207_(number)
+ 509. file:///wiki/208_(number)
+ 510. file:///wiki/209_(number)
+ 511. file:///wiki/210_(number)
+ 512. file:///wiki/211_(number)
+ 513. file:///wiki/212_(number)
+ 514. file:///wiki/213_(number)
+ 515. file:///wiki/214_(number)
+ 516. file:///wiki/215_(number)
+ 517. file:///wiki/216_(number)
+ 518. file:///wiki/217_(number)
+ 519. file:///wiki/218_(number)
+ 520. file:///wiki/219_(number)
+ 521. file:///wiki/220_(number)
+ 522. file:///wiki/221_(number)
+ 523. file:///wiki/222_(number)
+ 524. file:///wiki/223_(number)
+ 525. file:///wiki/224_(number)
+ 526. file:///wiki/225_(number)
+ 527. file:///wiki/226_(number)
+ 528. file:///wiki/227_(number)
+ 529. file:///wiki/228_(number)
+ 530. file:///wiki/229_(number)
+ 531. file:///wiki/230_(number)
+ 532. file:///wiki/231_(number)
+ 533. file:///wiki/232_(number)
+ 534. file:///wiki/233_(number)
+ 535. file:///wiki/234_(number)
+ 536. file:///wiki/235_(number)
+ 537. file:///wiki/236_(number)
+ 538. file:///wiki/237_(number)
+ 539. file:///wiki/238_(number)
+ 540. file:///wiki/239_(number)
+ 541. file:///wiki/240_(number)
+ 542. file:///wiki/241_(number)
+ 543. file:///wiki/242_(number)
+ 544. file:///wiki/243_(number)
+ 545. file:///wiki/244_(number)
+ 546. file:///wiki/245_(number)
+ 547. file:///wiki/246_(number)
+ 548. file:///wiki/247_(number)
+ 549. file:///wiki/248_(number)
+ 550. file:///wiki/249_(number)
+ 551. file:///wiki/250_(number)
+ 552. file:///wiki/251_(number)
+ 553. file:///wiki/252_(number)
+ 554. file:///wiki/253_(number)
+ 555. file:///wiki/254_(number)
+ 556. file:///wiki/255_(number)
+ 557. file:///wiki/256_(number)
+ 558. file:///wiki/257_(number)
+ 559. file:///wiki/258_(number)
+ 560. file:///wiki/259_(number)
+ 561. file:///wiki/260_(number)
+ 562. file:///wiki/261_(number)
+ 563. file:///wiki/262_(number)
+ 564. file:///wiki/263_(number)
+ 565. file:///wiki/264_(number)
+ 566. file:///wiki/265_(number)
+ 567. file:///wiki/266_(number)
+ 568. file:///wiki/267_(number)
+ 569. file:///wiki/268_(number)
+ 570. file:///wiki/269_(number)
+ 571. file:///wiki/270_(number)
+ 572. file:///wiki/271_(number)
+ 573. file:///wiki/272_(number)
+ 574. file:///wiki/273_(number)
+ 575. file:///wiki/274_(number)
+ 576. file:///wiki/275_(number)
+ 577. file:///wiki/276_(number)
+ 578. file:///wiki/277_(number)
+ 579. file:///wiki/278_(number)
+ 580. file:///wiki/279_(number)
+ 581. file:///wiki/280_(number)
+ 582. file:///wiki/281_(number)
+ 583. file:///wiki/282_(number)
+ 584. file:///wiki/283_(number)
+ 585. file:///wiki/284_(number)
+ 586. file:///wiki/285_(number)
+ 587. file:///wiki/286_(number)
+ 588. file:///wiki/287_(number)
+ 589. file:///wiki/288_(number)
+ 590. file:///wiki/289_(number)
+ 591. file:///wiki/290_(number)
+ 592. file:///wiki/291_(number)
+ 593. file:///wiki/292_(number)
+ 594. file:///wiki/293_(number)
+ 595. file:///wiki/294_(number)
+ 596. file:///wiki/295_(number)
+ 597. file:///wiki/296_(number)
+ 598. file:///wiki/297_(number)
+ 599. file:///wiki/298_(number)
+ 600. file:///wiki/299_(number)
+ 601. file:///wiki/300_(number)
+ 602. file:///wiki/300_(number)
+ 603. file:///wiki/301_(number)
+ 604. file:///wiki/302_(number)
+ 605. file:///wiki/303_(number)
+ 606. file:///wiki/304_(number)
+ 607. file:///wiki/305_(number)
+ 608. file:///wiki/306_(number)
+ 609. file:///wiki/307_(number)
+ 610. file:///wiki/308_(number)
+ 611. file:///wiki/309_(number)
+ 612. file:///wiki/310_(number)
+ 613. file:///wiki/311_(number)
+ 614. file:///wiki/312_(number)
+ 615. file:///wiki/313_(number)
+ 616. file:///wiki/314_(number)
+ 617. file:///wiki/315_(number)
+ 618. file:///wiki/316_(number)
+ 619. file:///wiki/317_(number)
+ 620. file:///wiki/318_(number)
+ 621. file:///wiki/319_(number)
+ 622. file:///wiki/320_(number)
+ 623. file:///wiki/321_(number)
+ 624. file:///wiki/322_(number)
+ 625. file:///wiki/323_(number)
+ 626. file:///wiki/324_(number)
+ 627. file:///wiki/325_(number)
+ 628. file:///wiki/326_(number)
+ 629. file:///wiki/327_(number)
+ 630. file:///wiki/328_(number)
+ 631. file:///wiki/329_(number)
+ 632. file:///wiki/330_(number)
+ 633. file:///wiki/331_(number)
+ 634. file:///wiki/332_(number)
+ 635. file:///wiki/333_(number)
+ 636. file:///wiki/334_(number)
+ 637. file:///wiki/335_(number)
+ 638. file:///wiki/336_(number)
+ 639. file:///wiki/337_(number)
+ 640. file:///wiki/338_(number)
+ 641. file:///wiki/339_(number)
+ 642. file:///wiki/340_(number)
+ 643. file:///wiki/341_(number)
+ 644. file:///wiki/342_(number)
+ 645. file:///wiki/343_(number)
+ 646. file:///wiki/344_(number)
+ 647. file:///wiki/345_(number)
+ 648. file:///wiki/346_(number)
+ 649. file:///wiki/347_(number)
+ 650. file:///wiki/348_(number)
+ 651. file:///wiki/349_(number)
+ 652. file:///wiki/350_(number)
+ 653. file:///wiki/351_(number)
+ 654. file:///wiki/352_(number)
+ 655. file:///wiki/353_(number)
+ 656. file:///wiki/354_(number)
+ 657. file:///wiki/355_(number)
+ 658. file:///wiki/356_(number)
+ 659. file:///wiki/357_(number)
+ 660. file:///wiki/358_(number)
+ 661. file:///wiki/359_(number)
+ 662. file:///wiki/360_(number)
+ 663. file:///wiki/361_(number)
+ 664. file:///wiki/362_(number)
+ 665. file:///wiki/363_(number)
+ 666. file:///wiki/364_(number)
+ 667. file:///wiki/365_(number)
+ 668. file:///wiki/366_(number)
+ 669. file:///wiki/367_(number)
+ 670. file:///wiki/368_(number)
+ 671. file:///wiki/369_(number)
+ 672. file:///wiki/370_(number)
+ 673. file:///wiki/371_(number)
+ 674. file:///wiki/372_(number)
+ 675. file:///wiki/373_(number)
+ 676. file:///wiki/374_(number)
+ 677. file:///wiki/375_(number)
+ 678. file:///wiki/376_(number)
+ 679. file:///wiki/377_(number)
+ 680. file:///wiki/378_(number)
+ 681. file:///wiki/379_(number)
+ 682. file:///wiki/380_(number)
+ 683. file:///wiki/381_(number)
+ 684. file:///wiki/382_(number)
+ 685. file:///wiki/383_(number)
+ 686. file:///wiki/384_(number)
+ 687. file:///wiki/385_(number)
+ 688. file:///wiki/386_(number)
+ 689. file:///wiki/387_(number)
+ 690. file:///wiki/388_(number)
+ 691. file:///wiki/389_(number)
+ 692. file:///wiki/390_(number)
+ 693. file:///wiki/391_(number)
+ 694. file:///wiki/392_(number)
+ 695. file:///wiki/393_(number)
+ 696. file:///wiki/394_(number)
+ 697. file:///wiki/395_(number)
+ 698. file:///wiki/396_(number)
+ 699. file:///wiki/397_(number)
+ 700. file:///wiki/398_(number)
+ 701. file:///wiki/399_(number)
+ 702. file:///wiki/400_(number)
+ 703. file:///wiki/400_(number)
+ 704. file:///wiki/401_(number)
+ 705. file:///wiki/402_(number)
+ 706. file:///wiki/403_(number)
+ 707. file:///wiki/404_(number)
+ 708. file:///wiki/405_(number)
+ 709. file:///wiki/406_(number)
+ 710. file:///wiki/407_(number)
+ 711. file:///wiki/408_(number)
+ 712. file:///wiki/409_(number)
+ 713. file:///wiki/410_(number)
+ 714. file:///wiki/411_(number)
+ 715. file:///wiki/412_(number)
+ 716. file:///wiki/413_(number)
+ 717. file:///wiki/414_(number)
+ 718. file:///wiki/415_(number)
+ 719. file:///wiki/416_(number)
+ 720. file:///wiki/417_(number)
+ 721. file:///wiki/418_(number)
+ 722. file:///wiki/419_(number)
+ 723. file:///wiki/420_(number)
+ 724. file:///wiki/421_(number)
+ 725. file:///wiki/422_(number)
+ 726. file:///wiki/423_(number)
+ 727. file:///wiki/424_(number)
+ 728. file:///wiki/425_(number)
+ 729. file:///wiki/426_(number)
+ 730. file:///wiki/427_(number)
+ 731. file:///wiki/428_(number)
+ 732. file:///wiki/429_(number)
+ 733. file:///wiki/430_(number)
+ 734. file:///wiki/431_(number)
+ 735. file:///wiki/432_(number)
+ 736. file:///wiki/433_(number)
+ 737. file:///wiki/434_(number)
+ 738. file:///wiki/435_(number)
+ 739. file:///wiki/436_(number)
+ 740. file:///wiki/437_(number)
+ 741. file:///wiki/438_(number)
+ 742. file:///wiki/439_(number)
+ 743. file:///wiki/440_(number)
+ 744. file:///wiki/441_(number)
+ 745. file:///wiki/442_(number)
+ 746. file:///wiki/443_(number)
+ 747. file:///wiki/444_(number)
+ 748. file:///wiki/445_(number)
+ 749. file:///wiki/446_(number)
+ 750. file:///wiki/447_(number)
+ 751. file:///wiki/448_(number)
+ 752. file:///wiki/449_(number)
+ 753. file:///wiki/450_(number)
+ 754. file:///wiki/451_(number)
+ 755. file:///wiki/452_(number)
+ 756. file:///wiki/453_(number)
+ 757. file:///wiki/454_(number)
+ 758. file:///wiki/455_(number)
+ 759. file:///wiki/456_(number)
+ 760. file:///wiki/457_(number)
+ 761. file:///wiki/458_(number)
+ 762. file:///wiki/459_(number)
+ 763. file:///wiki/460_(number)
+ 764. file:///wiki/461_(number)
+ 765. file:///wiki/462_(number)
+ 766. file:///wiki/463_(number)
+ 767. file:///wiki/464_(number)
+ 768. file:///wiki/465_(number)
+ 769. file:///wiki/466_(number)
+ 770. file:///wiki/467_(number)
+ 771. file:///wiki/468_(number)
+ 772. file:///wiki/469_(number)
+ 773. file:///wiki/470_(number)
+ 774. file:///wiki/471_(number)
+ 775. file:///wiki/472_(number)
+ 776. file:///wiki/473_(number)
+ 777. file:///wiki/474_(number)
+ 778. file:///wiki/475_(number)
+ 779. file:///wiki/476_(number)
+ 780. file:///wiki/477_(number)
+ 781. file:///wiki/478_(number)
+ 782. file:///wiki/479_(number)
+ 783. file:///wiki/480_(number)
+ 784. file:///wiki/481_(number)
+ 785. file:///wiki/482_(number)
+ 786. file:///wiki/483_(number)
+ 787. file:///wiki/484_(number)
+ 788. file:///wiki/485_(number)
+ 789. file:///wiki/486_(number)
+ 790. file:///wiki/487_(number)
+ 791. file:///wiki/488_(number)
+ 792. file:///wiki/489_(number)
+ 793. file:///wiki/490_(number)
+ 794. file:///wiki/491_(number)
+ 795. file:///wiki/492_(number)
+ 796. file:///wiki/493_(number)
+ 797. file:///wiki/494_(number)
+ 798. file:///wiki/495_(number)
+ 799. file:///wiki/496_(number)
+ 800. file:///wiki/497_(number)
+ 801. file:///wiki/498_(number)
+ 802. file:///wiki/499_(number)
+ 803. file:///wiki/500_(number)
+ 804. file:///wiki/500_(number)
+ 805. file:///wiki/501_(number)
+ 806. file:///wiki/502_(number)
+ 807. file:///wiki/503_(number)
+ 808. file:///wiki/504_(number)
+ 809. file:///wiki/505_(number)
+ 810. file:///wiki/506_(number)
+ 811. file:///wiki/507_(number)
+ 812. file:///wiki/508_(number)
+ 813. file:///wiki/509_(number)
+ 814. file:///wiki/510_(number)
+ 815. file:///wiki/511_(number)
+ 816. file:///wiki/512_(number)
+ 817. file:///wiki/513_(number)
+ 818. file:///wiki/514_(number)
+ 819. file:///wiki/515_(number)
+ 820. file:///wiki/516_(number)
+ 821. file:///wiki/517_(number)
+ 822. file:///wiki/518_(number)
+ 823. file:///wiki/519_(number)
+ 824. file:///wiki/520_(number)
+ 825. file:///wiki/521_(number)
+ 826. file:///wiki/522_(number)
+ 827. file:///wiki/523_(number)
+ 828. file:///wiki/524_(number)
+ 829. file:///wiki/525_(number)
+ 830. file:///wiki/526_(number)
+ 831. file:///wiki/527_(number)
+ 832. file:///wiki/528_(number)
+ 833. file:///wiki/529_(number)
+ 834. file:///wiki/530_(number)
+ 835. file:///wiki/531_(number)
+ 836. file:///wiki/532_(number)
+ 837. file:///wiki/533_(number)
+ 838. file:///wiki/534_(number)
+ 839. file:///wiki/535_(number)
+ 840. file:///wiki/536_(number)
+ 841. file:///wiki/537_(number)
+ 842. file:///wiki/538_(number)
+ 843. file:///wiki/539_(number)
+ 844. file:///wiki/540_(number)
+ 845. file:///wiki/541_(number)
+ 846. file:///wiki/542_(number)
+ 847. file:///wiki/543_(number)
+ 848. file:///wiki/544_(number)
+ 849. file:///wiki/545_(number)
+ 850. file:///wiki/546_(number)
+ 851. file:///wiki/547_(number)
+ 852. file:///wiki/548_(number)
+ 853. file:///wiki/549_(number)
+ 854. file:///wiki/550_(number)
+ 855. file:///wiki/551_(number)
+ 856. file:///wiki/552_(number)
+ 857. file:///wiki/553_(number)
+ 858. file:///wiki/554_(number)
+ 859. file:///wiki/555_(number)
+ 860. file:///wiki/556_(number)
+ 861. file:///wiki/557_(number)
+ 862. file:///wiki/558_(number)
+ 863. file:///wiki/559_(number)
+ 864. file:///wiki/560_(number)
+ 865. file:///wiki/561_(number)
+ 866. file:///wiki/562_(number)
+ 867. file:///wiki/563_(number)
+ 868. file:///wiki/564_(number)
+ 869. file:///wiki/565_(number)
+ 870. file:///wiki/566_(number)
+ 871. file:///wiki/567_(number)
+ 872. file:///wiki/568_(number)
+ 873. file:///wiki/569_(number)
+ 874. file:///wiki/570_(number)
+ 875. file:///wiki/571_(number)
+ 876. file:///wiki/572_(number)
+ 877. file:///wiki/573_(number)
+ 878. file:///wiki/574_(number)
+ 879. file:///wiki/575_(number)
+ 880. file:///wiki/576_(number)
+ 881. file:///wiki/577_(number)
+ 882. file:///wiki/578_(number)
+ 883. file:///wiki/579_(number)
+ 884. file:///wiki/580_(number)
+ 885. file:///wiki/581_(number)
+ 886. file:///wiki/582_(number)
+ 887. file:///wiki/583_(number)
+ 888. file:///wiki/584_(number)
+ 889. file:///wiki/585_(number)
+ 890. file:///wiki/586_(number)
+ 891. file:///wiki/587_(number)
+ 892. file:///wiki/588_(number)
+ 893. file:///wiki/589_(number)
+ 894. file:///wiki/590_(number)
+ 895. file:///wiki/591_(number)
+ 896. file:///wiki/592_(number)
+ 897. file:///wiki/593_(number)
+ 898. file:///wiki/594_(number)
+ 899. file:///wiki/595_(number)
+ 900. file:///wiki/596_(number)
+ 901. file:///wiki/597_(number)
+ 902. file:///wiki/598_(number)
+ 903. file:///wiki/599_(number)
+ 904. file:///wiki/600_(number)
+ 905. file:///wiki/600_(number)
+ 906. file:///wiki/601_(number)
+ 907. file:///wiki/602_(number)
+ 908. file:///wiki/603_(number)
+ 909. file:///wiki/604_(number)
+ 910. file:///wiki/605_(number)
+ 911. file:///wiki/606_(number)
+ 912. file:///wiki/607_(number)
+ 913. file:///wiki/608_(number)
+ 914. file:///wiki/609_(number)
+ 915. file:///wiki/610_(number)
+ 916. file:///wiki/611_(number)
+ 917. file:///wiki/612_(number)
+ 918. file:///wiki/613_(number)
+ 919. file:///wiki/614_(number)
+ 920. file:///wiki/615_(number)
+ 921. file:///wiki/616_(number)
+ 922. file:///wiki/617_(number)
+ 923. file:///wiki/618_(number)
+ 924. file:///wiki/619_(number)
+ 925. file:///wiki/620_(number)
+ 926. file:///wiki/621_(number)
+ 927. file:///wiki/622_(number)
+ 928. file:///wiki/623_(number)
+ 929. file:///wiki/624_(number)
+ 930. file:///wiki/625_(number)
+ 931. file:///wiki/626_(number)
+ 932. file:///wiki/627_(number)
+ 933. file:///wiki/628_(number)
+ 934. file:///wiki/629_(number)
+ 935. file:///wiki/630_(number)
+ 936. file:///wiki/631_(number)
+ 937. file:///wiki/632_(number)
+ 938. file:///wiki/633_(number)
+ 939. file:///wiki/634_(number)
+ 940. file:///wiki/635_(number)
+ 941. file:///wiki/636_(number)
+ 942. file:///wiki/637_(number)
+ 943. file:///wiki/638_(number)
+ 944. file:///wiki/639_(number)
+ 945. file:///wiki/640_(number)
+ 946. file:///wiki/641_(number)
+ 947. file:///wiki/642_(number)
+ 948. file:///wiki/643_(number)
+ 949. file:///wiki/644_(number)
+ 950. file:///wiki/645_(number)
+ 951. file:///wiki/646_(number)
+ 952. file:///wiki/647_(number)
+ 953. file:///wiki/648_(number)
+ 954. file:///wiki/649_(number)
+ 955. file:///wiki/650_(number)
+ 956. file:///wiki/651_(number)
+ 957. file:///wiki/652_(number)
+ 958. file:///wiki/653_(number)
+ 959. file:///wiki/654_(number)
+ 960. file:///wiki/655_(number)
+ 961. file:///wiki/656_(number)
+ 962. file:///wiki/657_(number)
+ 963. file:///wiki/658_(number)
+ 964. file:///wiki/659_(number)
+ 965. file:///wiki/660_(number)
+ 966. file:///wiki/661_(number)
+ 967. file:///wiki/662_(number)
+ 968. file:///wiki/663_(number)
+ 969. file:///wiki/664_(number)
+ 970. file:///wiki/665_(number)
+ 971. file:///wiki/666_(number)
+ 972. file:///wiki/667_(number)
+ 973. file:///wiki/668_(number)
+ 974. file:///wiki/669_(number)
+ 975. file:///wiki/670_(number)
+ 976. file:///wiki/671_(number)
+ 977. file:///wiki/672_(number)
+ 978. file:///wiki/673_(number)
+ 979. file:///wiki/674_(number)
+ 980. file:///wiki/675_(number)
+ 981. file:///wiki/676_(number)
+ 982. file:///wiki/677_(number)
+ 983. file:///wiki/678_(number)
+ 984. file:///wiki/679_(number)
+ 985. file:///wiki/680_(number)
+ 986. file:///wiki/681_(number)
+ 987. file:///wiki/682_(number)
+ 988. file:///wiki/683_(number)
+ 989. file:///wiki/684_(number)
+ 990. file:///wiki/685_(number)
+ 991. file:///wiki/686_(number)
+ 992. file:///wiki/687_(number)
+ 993. file:///wiki/688_(number)
+ 994. file:///wiki/689_(number)
+ 995. file:///wiki/690_(number)
+ 996. file:///wiki/691_(number)
+ 997. file:///wiki/692_(number)
+ 998. file:///wiki/693_(number)
+ 999. file:///wiki/694_(number)
+1000. file:///wiki/695_(number)
+1001. file:///wiki/696_(number)
+1002. file:///wiki/697_(number)
+1003. file:///wiki/698_(number)
+1004. file:///wiki/699_(number)
+1005. file:///wiki/700_(number)
+1006. file:///wiki/700_(number)
+1007. file:///wiki/701_(number)
+1008. file:///wiki/702_(number)
+1009. file:///wiki/703_(number)
+1010. file:///wiki/704_(number)
+1011. file:///wiki/705_(number)
+1012. file:///wiki/706_(number)
+1013. file:///wiki/707_(number)
+1014. file:///wiki/708_(number)
+1015. file:///wiki/709_(number)
+1016. file:///wiki/710_(number)
+1017. file:///wiki/711_(number)
+1018. file:///wiki/712_(number)
+1019. file:///wiki/713_(number)
+1020. file:///wiki/714_(number)
+1021. file:///wiki/715_(number)
+1022. file:///wiki/716_(number)
+1023. file:///wiki/717_(number)
+1024. file:///wiki/718_(number)
+1025. file:///wiki/719_(number)
+1026. file:///wiki/720_(number)
+1027. file:///wiki/721_(number)
+1028. file:///wiki/722_(number)
+1029. file:///wiki/723_(number)
+1030. file:///wiki/724_(number)
+1031. file:///wiki/725_(number)
+1032. file:///wiki/726_(number)
+1033. file:///wiki/727_(number)
+1034. file:///wiki/728_(number)
+1035. file:///wiki/729_(number)
+1036. file:///wiki/730_(number)
+1037. file:///wiki/731_(number)
+1038. file:///wiki/732_(number)
+1039. file:///wiki/733_(number)
+1040. file:///wiki/734_(number)
+1041. file:///wiki/735_(number)
+1042. file:///wiki/736_(number)
+1043. file:///wiki/737_(number)
+1044. file:///wiki/738_(number)
+1045. file:///wiki/739_(number)
+1046. file:///wiki/740_(number)
+1047. file:///wiki/741_(number)
+1048. file:///wiki/742_(number)
+1049. file:///wiki/743_(number)
+1050. file:///wiki/744_(number)
+1051. file:///wiki/745_(number)
+1052. file:///wiki/746_(number)
+1053. file:///wiki/747_(number)
+1054. file:///wiki/748_(number)
+1055. file:///wiki/749_(number)
+1056. file:///wiki/750_(number)
+1057. file:///wiki/751_(number)
+1058. file:///wiki/752_(number)
+1059. file:///wiki/753_(number)
+1060. file:///wiki/754_(number)
+1061. file:///wiki/755_(number)
+1062. file:///wiki/756_(number)
+1063. file:///wiki/757_(number)
+1064. file:///wiki/758_(number)
+1065. file:///wiki/759_(number)
+1066. file:///wiki/760_(number)
+1067. file:///wiki/761_(number)
+1068. file:///wiki/762_(number)
+1069. file:///wiki/763_(number)
+1070. file:///wiki/764_(number)
+1071. file:///wiki/765_(number)
+1072. file:///wiki/766_(number)
+1073. file:///wiki/767_(number)
+1074. file:///wiki/768_(number)
+1075. file:///wiki/769_(number)
+1076. file:///wiki/770_(number)
+1077. file:///wiki/771_(number)
+1078. file:///wiki/772_(number)
+1079. file:///wiki/773_(number)
+1080. file:///wiki/774_(number)
+1081. file:///wiki/775_(number)
+1082. file:///wiki/776_(number)
+1083. file:///wiki/777_(number)
+1084. file:///wiki/778_(number)
+1085. file:///wiki/779_(number)
+1086. file:///wiki/780_(number)
+1087. file:///wiki/781_(number)
+1088. file:///wiki/782_(number)
+1089. file:///wiki/783_(number)
+1090. file:///wiki/784_(number)
+1091. file:///wiki/785_(number)
+1092. file:///wiki/786_(number)
+1093. file:///wiki/787_(number)
+1094. file:///wiki/788_(number)
+1095. file:///wiki/789_(number)
+1096. file:///wiki/790_(number)
+1097. file:///wiki/791_(number)
+1098. file:///wiki/792_(number)
+1099. file:///wiki/793_(number)
+1100. file:///wiki/794_(number)
+1101. file:///wiki/795_(number)
+1102. file:///wiki/796_(number)
+1103. file:///wiki/797_(number)
+1104. file:///wiki/798_(number)
+1105. file:///wiki/799_(number)
+1106. file:///wiki/800_(number)
+1107. file:///wiki/800_(number)
+1108. file:///wiki/801_(number)
+1109. file:///wiki/802_(number)
+1110. file:///wiki/803_(number)
+1111. file:///wiki/804_(number)
+1112. file:///wiki/805_(number)
+1113. file:///wiki/806_(number)
+1114. file:///wiki/807_(number)
+1115. file:///wiki/808_(number)
+1116. file:///wiki/809_(number)
+1117. file:///wiki/810_(number)
+1118. file:///wiki/811_(number)
+1119. file:///wiki/812_(number)
+1120. file:///wiki/813_(number)
+1121. file:///wiki/814_(number)
+1122. file:///wiki/815_(number)
+1123. file:///wiki/816_(number)
+1124. file:///wiki/817_(number)
+1125. file:///wiki/818_(number)
+1126. file:///wiki/819_(number)
+1127. file:///wiki/820_(number)
+1128. file:///wiki/821_(number)
+1129. file:///wiki/822_(number)
+1130. file:///wiki/823_(number)
+1131. file:///wiki/824_(number)
+1132. file:///wiki/825_(number)
+1133. file:///wiki/826_(number)
+1134. file:///wiki/827_(number)
+1135. file:///wiki/828_(number)
+1136. file:///wiki/829_(number)
+1137. file:///wiki/830_(number)
+1138. file:///wiki/831_(number)
+1139. file:///wiki/832_(number)
+1140. file:///wiki/833_(number)
+1141. file:///wiki/834_(number)
+1142. file:///wiki/835_(number)
+1143. file:///wiki/836_(number)
+1144. file:///wiki/837_(number)
+1145. file:///wiki/838_(number)
+1146. file:///wiki/839_(number)
+1147. file:///wiki/840_(number)
+1148. file:///wiki/841_(number)
+1149. file:///wiki/842_(number)
+1150. file:///wiki/843_(number)
+1151. file:///wiki/844_(number)
+1152. file:///wiki/845_(number)
+1153. file:///wiki/846_(number)
+1154. file:///wiki/847_(number)
+1155. file:///wiki/848_(number)
+1156. file:///wiki/849_(number)
+1157. file:///wiki/850_(number)
+1158. file:///wiki/851_(number)
+1159. file:///wiki/852_(number)
+1160. file:///wiki/853_(number)
+1161. file:///wiki/854_(number)
+1162. file:///wiki/855_(number)
+1163. file:///wiki/856_(number)
+1164. file:///wiki/857_(number)
+1165. file:///wiki/858_(number)
+1166. file:///wiki/859_(number)
+1167. file:///wiki/860_(number)
+1168. file:///wiki/861_(number)
+1169. file:///wiki/862_(number)
+1170. file:///wiki/863_(number)
+1171. file:///wiki/864_(number)
+1172. file:///wiki/865_(number)
+1173. file:///wiki/866_(number)
+1174. file:///wiki/867_(number)
+1175. file:///wiki/868_(number)
+1176. file:///wiki/869_(number)
+1177. file:///wiki/870_(number)
+1178. file:///wiki/871_(number)
+1179. file:///wiki/872_(number)
+1180. file:///wiki/873_(number)
+1181. file:///wiki/874_(number)
+1182. file:///wiki/875_(number)
+1183. file:///wiki/876_(number)
+1184. file:///wiki/877_(number)
+1185. file:///wiki/878_(number)
+1186. file:///wiki/879_(number)
+1187. file:///wiki/880_(number)
+1188. file:///wiki/881_(number)
+1189. file:///wiki/882_(number)
+1190. file:///wiki/883_(number)
+1191. file:///wiki/884_(number)
+1192. file:///wiki/885_(number)
+1193. file:///wiki/886_(number)
+1194. file:///wiki/887_(number)
+1195. file:///wiki/888_(number)
+1196. file:///wiki/889_(number)
+1197. file:///wiki/890_(number)
+1198. file:///wiki/891_(number)
+1199. file:///wiki/892_(number)
+1200. file:///wiki/893_(number)
+1201. file:///wiki/894_(number)
+1202. file:///wiki/895_(number)
+1203. file:///wiki/896_(number)
+1204. file:///wiki/897_(number)
+1205. file:///wiki/898_(number)
+1206. file:///wiki/899_(number)
+1207. file:///wiki/900_(number)
+1208. file:///wiki/900_(number)
+1209. file:///wiki/901_(number)
+1210. file:///wiki/902_(number)
+1211. file:///wiki/903_(number)
+1212. file:///wiki/904_(number)
+1213. file:///wiki/905_(number)
+1214. file:///wiki/906_(number)
+1215. file:///wiki/907_(number)
+1216. file:///wiki/908_(number)
+1217. file:///wiki/909_(number)
+1218. file:///wiki/910_(number)
+1219. file:///wiki/911_(number)
+1220. file:///wiki/912_(number)
+1221. file:///wiki/913_(number)
+1222. file:///wiki/914_(number)
+1223. file:///wiki/915_(number)
+1224. file:///wiki/916_(number)
+1225. file:///wiki/917_(number)
+1226. file:///wiki/918_(number)
+1227. file:///wiki/919_(number)
+1228. file:///wiki/920_(number)
+1229. file:///wiki/921_(number)
+1230. file:///wiki/922_(number)
+1231. file:///wiki/923_(number)
+1232. file:///wiki/924_(number)
+1233. file:///wiki/925_(number)
+1234. file:///wiki/926_(number)
+1235. file:///wiki/927_(number)
+1236. file:///wiki/928_(number)
+1237. file:///wiki/929_(number)
+1238. file:///wiki/930_(number)
+1239. file:///wiki/931_(number)
+1240. file:///wiki/932_(number)
+1241. file:///wiki/933_(number)
+1242. file:///wiki/934_(number)
+1243. file:///wiki/935_(number)
+1244. file:///wiki/936_(number)
+1245. file:///wiki/937_(number)
+1246. file:///wiki/938_(number)
+1247. file:///wiki/939_(number)
+1248. file:///wiki/940_(number)
+1249. file:///wiki/941_(number)
+1250. file:///wiki/942_(number)
+1251. file:///wiki/943_(number)
+1252. file:///wiki/944_(number)
+1253. file:///wiki/945_(number)
+1254. file:///wiki/946_(number)
+1255. file:///wiki/947_(number)
+1256. file:///wiki/948_(number)
+1257. file:///wiki/949_(number)
+1258. file:///wiki/950_(number)
+1259. file:///wiki/951_(number)
+1260. file:///wiki/952_(number)
+1261. file:///wiki/953_(number)
+1262. file:///wiki/954_(number)
+1263. file:///wiki/955_(number)
+1264. file:///wiki/956_(number)
+1265. file:///wiki/957_(number)
+1266. file:///wiki/958_(number)
+1267. file:///wiki/959_(number)
+1268. file:///wiki/960_(number)
+1269. file:///wiki/961_(number)
+1270. file:///wiki/962_(number)
+1271. file:///wiki/963_(number)
+1272. file:///wiki/964_(number)
+1273. file:///wiki/965_(number)
+1274. file:///wiki/966_(number)
+1275. file:///wiki/967_(number)
+1276. file:///wiki/968_(number)
+1277. file:///wiki/969_(number)
+1278. file:///wiki/970_(number)
+1279. file:///wiki/971_(number)
+1280. file:///wiki/972_(number)
+1281. file:///wiki/973_(number)
+1282. file:///wiki/974_(number)
+1283. file:///wiki/975_(number)
+1284. file:///wiki/976_(number)
+1285. file:///wiki/977_(number)
+1286. file:///wiki/978_(number)
+1287. file:///wiki/979_(number)
+1288. file:///wiki/980_(number)
+1289. file:///wiki/981_(number)
+1290. file:///wiki/982_(number)
+1291. file:///wiki/983_(number)
+1292. file:///wiki/984_(number)
+1293. file:///wiki/985_(number)
+1294. file:///wiki/986_(number)
+1295. file:///wiki/987_(number)
+1296. file:///wiki/988_(number)
+1297. file:///wiki/989_(number)
+1298. file:///wiki/990_(number)
+1299. file:///wiki/991_(number)
+1300. file:///wiki/992_(number)
+1301. file:///wiki/993_(number)
+1302. file:///wiki/994_(number)
+1303. file:///wiki/995_(number)
+1304. file:///wiki/996_(number)
+1305. file:///wiki/997_(number)
+1306. file:///wiki/998_(number)
+1307. file:///wiki/999_(number)
+1308. file:///wiki/1000_(number)
+1309. file:///wiki/1000_(number)
+1310. file:///wiki/2000_(number)
+1311. file:///wiki/3000_(number)
+1312. file:///wiki/4000_(number)
+1313. file:///wiki/5000_(number)
+1314. file:///wiki/6000_(number)
+1315. file:///wiki/7000_(number)
+1316. file:///wiki/8000_(number)
+1317. file:///wiki/9000_(number)
+1318. file:///wiki/10,000
+1319. file:///wiki/20,000
+1320. file:///wiki/30,000
+1321. file:///wiki/40,000
+1322. file:///wiki/50,000
+1323. file:///wiki/60,000
+1324. file:///wiki/70,000
+1325. file:///wiki/80,000
+1326. file:///wiki/90,000
+1327. file:///wiki/100,000
+1328. file:///wiki/1,000,000
+1329. file:///wiki/10,000,000
+1330. file:///wiki/100,000,000
+1331. file:///wiki/1,000,000,000
+1332. https://en.wikipedia.org/w/index.php?title=−1&oldid=1267387368
+1333. file:///wiki/Help:Category
+1334. file:///wiki/Category:Integers
+1335. file:///wiki/Category:1_(number)
+1336. file:///wiki/Category:Articles_with_short_description
+1337. file:///wiki/Category:Short_description_is_different_from_Wikidata
+1338. file:///wiki/Category:All_articles_with_unsourced_statements
+1339. file:///wiki/Category:Articles_with_unsourced_statements_from_November_2023
+1340. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+1341. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+1342. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+1343. https://wikimediafoundation.org/
+1344. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+1345. file:///wiki/Wikipedia:About
+1346. file:///wiki/Wikipedia:General_disclaimer
+1347. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+1348. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+1349. https://developer.wikimedia.org/
+1350. https://stats.wikimedia.org/#/en.wikipedia.org
+1351. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+1352. file://en.m.wikipedia.org/w/index.php?title=−1&mobileaction=toggle_view_mobile
+1353. https://wikimediafoundation.org/
+1354. https://www.mediawiki.org/

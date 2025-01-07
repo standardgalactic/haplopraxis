@@ -1,0 +1,488 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 References
+
+   [ ] Toggle the table of contents
+
+(−)-endo-fenchol synthase
+
+   [ ] 2 languages
+     * [30]Српски / srpski
+     * [31]Srpskohrvatski / српскохрватски
+
+   [32]Edit links
+
+     * [33]Article
+     * [34]Talk
+
+   [ ] English
+
+     * [35]Read
+     * [36]Edit
+     * [37]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [38]Read
+     * [39]Edit
+     * [40]View history
+
+   General
+     * [41]What links here
+     * [42]Related changes
+     * [43]Upload file
+     * [44]Special pages
+     * [45]Permanent link
+     * [46]Page information
+     * [47]Cite this page
+     * [48]Get shortened URL
+     * [49]Download QR code
+
+   Print/export
+     * [50]Download as PDF
+     * [51]Printable version
+
+   In other projects
+     * [52]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [53](-)-endo-fenchol synthase)
+   Class of enzymes
+               (−)-endo-fenchol synthase
+                      Identifiers
+       [54]EC no.     [55]4.2.3.10
+      [56]CAS no.     [57]117758-41-5
+                       Databases
+       [58]IntEnz     [59]IntEnz view
+       [60]BRENDA     [61]BRENDA entry
+       [62]ExPASy     [63]NiceZyme view
+        [64]KEGG      [65]KEGG entry
+      [66]MetaCyc     [67]metabolic pathway
+       [68]PRIAM      [69]profile
+   [70]PDB structures [71]RCSB PDB [72]PDBe [73]PDBsum
+   [74]Gene Ontology  [75]AmiGO / [76]QuickGO
+           Search
+    [77]PMC   [78]articles
+   [79]PubMed [80]articles
+    [81]NCBI  [82]proteins
+
+   The [83]enzyme (−)-endo-Fenchol synthase (EC 4.2.3.10) [84]catalyzes
+   the [85]chemical reaction
+
+          geranyl diphosphate + H[2]O
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo class="MJX-variant"
+          stretchy="false">⇌</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \rightleftharpoons
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \rightleftharpoons } (−)-endo-fenchol +
+          diphosphate
+
+   This enzyme belongs to the family of [86]lyases, specifically those
+   carbon-oxygen lyases acting on phosphates. The [87]systematic name of
+   this enzyme class is geranyl-diphosphate diphosphate-lyase [cyclizing,
+   (−)-endo-fenchol-forming]. Other names in common use include
+   (−)-endo-fenchol cyclase, and geranyl pyrophosphate:(−)-endo-fenchol
+   cyclase. This enzyme participates in [88]monoterpenoid
+   [89]biosynthesis.
+
+References
+
+   [[90]edit]
+     * Croteau R, Miyazaki JH, Wheeler CJ (1989). "Monoterpene
+       biosynthesis: mechanistic evaluation of the geranyl
+       pyrophosphate:(−)-endo-fenchol cyclase from fennel (Foeniculum
+       vulgare)". Arch. Biochem. Biophys. 269 (2): 507–16.
+       [91]doi:[92]10.1016/0003-9861(89)90134-3. [93]PMID [94]2919880.
+     *
+
+   Croteau R, Satterwhite DM, Wheeler CJ, Felton NM (1988).
+   [95]"Biosynthesis of monoterpenes. Stereochemistry of the enzymatic
+   cyclization of geranyl pyrophosphate to (−)-endo-fenchol". J. Biol.
+   Chem. 263 (30): 15449–53. [96]doi:[97]10.1016/S0021-9258(19)37609-4.
+   [98]PMID [99]3170591.
+     * [100]v
+     * [101]t
+     * [102]e
+
+   Carbon–oxygen [103]lyases ([104]EC 4.2) (primarily [105]dehydratases)
+
+   [106]4.2.1: [107]Hydro-Lyases
+
+     * [108]Carbonic anhydrase
+     * [109]Fumarase
+     * [110]Aconitase
+     * [111]Enolase
+          + [112]Alpha
+          + [113]Enolase 2
+     * [114]Enoyl-CoA hydratase/[115]3-Hydroxyacyl ACP dehydrase
+     * [116]Methylglutaconyl-CoA hydratase
+     * [117]Tryptophan synthase
+     * [118]Cystathionine beta synthase
+     * [119]Porphobilinogen synthase
+     * [120]3-Isopropylmalate dehydratase
+     * [121]Urocanase
+     * [122]Uroporphyrinogen III synthase
+     * [123]Nitrile hydratase
+
+   [124]4.2.2: Acting on polysaccharides
+
+     * [125]Hyaluronate lyase
+     * [126]Pectin lyase
+
+   [127]4.2.3: Acting on phosphates
+
+     * [128]Threonine synthase
+
+   [129]4.2.99: Other
+
+     * [130]Carboxymethyloxysuccinate lyase
+     * [131]Hydroperoxide lyase
+
+     * [132]v
+     * [133]t
+     * [134]e
+
+   [135]Enzymes
+
+   Activity
+
+     * [136]Active site
+     * [137]Binding site
+     * [138]Catalytic triad
+     * [139]Oxyanion hole
+     * [140]Enzyme promiscuity
+     * [141]Diffusion-limited enzyme
+     * [142]Cofactor
+     * [143]Enzyme catalysis
+
+   Regulation
+
+     * [144]Allosteric regulation
+     * [145]Cooperativity
+     * [146]Enzyme inhibitor
+     * [147]Enzyme activator
+
+   Classification
+
+     * [148]EC number
+     * [149]Enzyme superfamily
+     * [150]Enzyme family
+     * [151]List of enzymes
+
+   Kinetics
+
+     * [152]Enzyme kinetics
+     * [153]Eadie–Hofstee diagram
+     * [154]Hanes–Woolf plot
+     * [155]Lineweaver–Burk plot
+     * [156]Michaelis–Menten kinetics
+
+   Types
+
+     * EC1 [157]Oxidoreductases ([158]list)
+     * EC2 [159]Transferases ([160]list)
+     * EC3 [161]Hydrolases ([162]list)
+     * EC4 [163]Lyases ([164]list)
+     * EC5 [165]Isomerases ([166]list)
+     * EC6 [167]Ligases ([168]list)
+     * EC7 [169]Translocases ([170]list)
+
+   [171]Portal:
+     * [172]icon [173]Biology
+
+   This [174]EC 4.2 [175]enzyme-related article is a [176]stub. You can
+   help Wikipedia by [177]expanding it.
+
+     * [178]v
+     * [179]t
+     * [180]e
+
+   Retrieved from
+   "[181]https://en.wikipedia.org/w/index.php?title=(−)-endo-fenchol_synth
+   ase&oldid=1227628965"
+
+   [182]Categories:
+     * [183]EC 4.2.3
+     * [184]Enzymes of unknown structure
+     * [185]EC 4.2 stubs
+
+   Hidden categories:
+     * [186]Articles with short description
+     * [187]Short description matches Wikidata
+     * [188]All stub articles
+
+     * This page was last edited on 6 June 2024, at 22:02 (UTC).
+     * Text is available under the [189]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [190]Terms of Use and
+       [191]Privacy Policy. Wikipedia® is a registered trademark of the
+       [192]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [193]Privacy policy
+     * [194]About Wikipedia
+     * [195]Disclaimers
+     * [196]Contact Wikipedia
+     * [197]Code of Conduct
+     * [198]Developers
+     * [199]Statistics
+     * [200]Cookie statement
+     * [201]Mobile view
+
+     * [202]Wikimedia Foundation
+     * [203]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/(−)-endo-fenchol_synthase
+   2. file:///w/index.php?title=(−)-endo-fenchol_synthase&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXX7Il8hX/L40074-5854TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=(−)-endo-fenchol+synthase
+  21. file:///w/index.php?title=Special:UserLogin&returnto=(−)-endo-fenchol+synthase
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=(−)-endo-fenchol+synthase
+  24. file:///w/index.php?title=Special:UserLogin&returnto=(−)-endo-fenchol+synthase
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXX7Il8hX/L40074-5854TMP.html
+  29. file:///tmp/lynxXXXX7Il8hX/L40074-5854TMP.html#References
+  30. https://sr.wikipedia.org/wiki/(-)-Endo-fenholna_sintaza
+  31. https://sh.wikipedia.org/wiki/(-)-Endo-fenholna_sintaza
+  32. https://www.wikidata.org/wiki/Special:EntityPage/Q8171001#sitelinks-wikipedia
+  33. file:///wiki/(−)-endo-fenchol_synthase
+  34. file:///wiki/Talk:(−)-endo-fenchol_synthase
+  35. file:///wiki/(−)-endo-fenchol_synthase
+  36. file:///w/index.php?title=(−)-endo-fenchol_synthase&action=edit
+  37. file:///w/index.php?title=(−)-endo-fenchol_synthase&action=history
+  38. file:///wiki/(−)-endo-fenchol_synthase
+  39. file:///w/index.php?title=(−)-endo-fenchol_synthase&action=edit
+  40. file:///w/index.php?title=(−)-endo-fenchol_synthase&action=history
+  41. file:///wiki/Special:WhatLinksHere/(−)-endo-fenchol_synthase
+  42. file:///wiki/Special:RecentChangesLinked/(−)-endo-fenchol_synthase
+  43. file:///wiki/Wikipedia:File_Upload_Wizard
+  44. file:///wiki/Special:SpecialPages
+  45. file:///w/index.php?title=(−)-endo-fenchol_synthase&oldid=1227628965
+  46. file:///w/index.php?title=(−)-endo-fenchol_synthase&action=info
+  47. file:///w/index.php?title=Special:CiteThisPage&page=(−)-endo-fenchol_synthase&id=1227628965&wpFormIdentifier=titleform
+  48. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/(%E2%88%92)-endo-fenchol_synthase
+  49. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/(%E2%88%92)-endo-fenchol_synthase
+  50. file:///w/index.php?title=Special:DownloadAsPdf&page=(−)-endo-fenchol_synthase&action=show-download-screen
+  51. file:///w/index.php?title=(−)-endo-fenchol_synthase&printable=yes
+  52. https://www.wikidata.org/wiki/Special:EntityPage/Q8171001
+  53. file:///w/index.php?title=(-)-endo-fenchol_synthase&redirect=no
+  54. file:///wiki/Enzyme_Commission_number
+  55. https://www.enzyme-database.org/query.php?ec=4.2.3.10
+  56. file:///wiki/CAS_registry_number
+  57. https://commonchemistry.cas.org/detail?cas_rn=117758-41-5&title=
+  58. file:///wiki/IntEnz
+  59. https://www.ebi.ac.uk/intenz/query?cmd=SearchEC&ec=4.2.3.10
+  60. file:///wiki/BRENDA
+  61. http://www.brenda-enzymes.org/enzyme.php?ecno=4.2.3.10
+  62. file:///wiki/ExPASy
+  63. https://enzyme.expasy.org/EC/4.2.3.10
+  64. file:///wiki/KEGG
+  65. https://www.genome.jp/dbget-bin/www_bget?enzyme+4.2.3.10
+  66. file:///wiki/MetaCyc
+  67. https://biocyc.org/META/substring-search?type=NIL&object=4.2.3.10
+  68. file:///wiki/PRIAM_enzyme-specific_profiles
+  69. http://priam.prabi.fr/cgi-bin/PRIAM_profiles_CurrentRelease.pl?EC=4.2.3.10
+  70. file:///wiki/Protein_Data_Bank
+  71. https://www.rcsb.org/search?q=rcsb_polymer_entity.rcsb_ec_lineage.id:4.2.3.10
+  72. https://www.ebi.ac.uk/pdbe/entry/search/index?ec_number:4.2.3.10
+  73. https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/enzymes/GetPage.pl?ec_number=4.2.3.10
+  74. file:///wiki/Gene_Ontology
+  75. http://amigo.geneontology.org/amigo/term/GO:0050437
+  76. https://www.ebi.ac.uk/QuickGO/term/GO:0050437
+  77. file:///wiki/PubMed_Central
+  78. https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&term=4.2.3.10[EC/RN Number] AND pubmed pmc local[sb]
+  79. file:///wiki/PubMed
+  80. https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&term=4.2.3.10[EC/RN Number]
+  81. file:///wiki/National_Center_for_Biotechnology_Information
+  82. https://www.ncbi.nlm.nih.gov/protein?term=4.2.3.10[EC/RN Number]
+  83. file:///wiki/Enzyme
+  84. file:///wiki/Catalysis
+  85. file:///wiki/Chemical_reaction
+  86. file:///wiki/Lyase
+  87. file:///wiki/List_of_enzymes
+  88. file:///wiki/Monoterpenoid
+  89. file:///wiki/Biosynthesis
+  90. file:///w/index.php?title=(−)-endo-fenchol_synthase&action=edit&section=1
+  91. file:///wiki/Doi_(identifier)
+  92. https://doi.org/10.1016/0003-9861(89)90134-3
+  93. file:///wiki/PMID_(identifier)
+  94. https://pubmed.ncbi.nlm.nih.gov/2919880
+  95. https://doi.org/10.1016/S0021-9258(19)37609-4
+  96. file:///wiki/Doi_(identifier)
+  97. https://doi.org/10.1016/S0021-9258(19)37609-4
+  98. file:///wiki/PMID_(identifier)
+  99. https://pubmed.ncbi.nlm.nih.gov/3170591
+ 100. file:///wiki/Template:Carbon–oxygen_lyases
+ 101. file:///wiki/Template_talk:Carbon–oxygen_lyases
+ 102. file:///wiki/Special:EditPage/Template:Carbon–oxygen_lyases
+ 103. file:///wiki/Lyase
+ 104. file:///wiki/Enzyme_Commission_number
+ 105. file:///wiki/Dehydratase
+ 106. file:///wiki/List_of_EC_numbers_(EC_4)#EC_4.2.1:_Hydro-Lyases
+ 107. file:///wiki/Hydro-lyase
+ 108. file:///wiki/Carbonic_anhydrase
+ 109. file:///wiki/Fumarase
+ 110. file:///wiki/Aconitase
+ 111. file:///wiki/Enolase
+ 112. file:///wiki/Alpha-enolase
+ 113. file:///wiki/Enolase_2
+ 114. file:///wiki/Enoyl-CoA_hydratase
+ 115. file:///wiki/3-Hydroxyacyl_ACP_dehydrase
+ 116. file:///wiki/Methylglutaconyl-CoA_hydratase
+ 117. file:///wiki/Tryptophan_synthase
+ 118. file:///wiki/Cystathionine_beta_synthase
+ 119. file:///wiki/Porphobilinogen_synthase
+ 120. file:///wiki/3-Isopropylmalate_dehydratase
+ 121. file:///wiki/Urocanase
+ 122. file:///wiki/Uroporphyrinogen_III_synthase
+ 123. file:///wiki/Nitrile_hydratase
+ 124. file:///wiki/List_of_EC_numbers_(EC_4)#EC_4.2.2:_Acting_on_Polysaccharides
+ 125. file:///wiki/Hyaluronate_lyase
+ 126. file:///wiki/Pectin_lyase
+ 127. file:///wiki/List_of_EC_numbers_(EC_4)#EC_4.2.3:_Acting_on_phosphates
+ 128. file:///wiki/Threonine_synthase
+ 129. file:///wiki/List_of_EC_numbers_(EC_4)#EC_4.2.99:_Other_Carbon-Oxygen_Lyases
+ 130. file:///wiki/Carboxymethyloxysuccinate_lyase
+ 131. file:///wiki/Hydroperoxide_lyase
+ 132. file:///wiki/Template:Enzymes
+ 133. file:///wiki/Template_talk:Enzymes
+ 134. file:///wiki/Special:EditPage/Template:Enzymes
+ 135. file:///wiki/Enzyme
+ 136. file:///wiki/Active_site
+ 137. file:///wiki/Binding_site
+ 138. file:///wiki/Catalytic_triad
+ 139. file:///wiki/Oxyanion_hole
+ 140. file:///wiki/Enzyme_promiscuity
+ 141. file:///wiki/Diffusion-limited_enzyme
+ 142. file:///wiki/Cofactor_(biochemistry)
+ 143. file:///wiki/Enzyme_catalysis
+ 144. file:///wiki/Allosteric_regulation
+ 145. file:///wiki/Cooperativity
+ 146. file:///wiki/Enzyme_inhibitor
+ 147. file:///wiki/Enzyme_activator
+ 148. file:///wiki/Enzyme_Commission_number
+ 149. file:///wiki/Protein_superfamily
+ 150. file:///wiki/Protein_family
+ 151. file:///wiki/List_of_enzymes
+ 152. file:///wiki/Enzyme_kinetics
+ 153. file:///wiki/Eadie–Hofstee_diagram
+ 154. file:///wiki/Hanes–Woolf_plot
+ 155. file:///wiki/Lineweaver–Burk_plot
+ 156. file:///wiki/Michaelis–Menten_kinetics
+ 157. file:///wiki/Oxidoreductase
+ 158. file:///wiki/List_of_EC_numbers_(EC_1)
+ 159. file:///wiki/Transferase
+ 160. file:///wiki/List_of_EC_numbers_(EC_2)
+ 161. file:///wiki/Hydrolase
+ 162. file:///wiki/List_of_EC_numbers_(EC_3)
+ 163. file:///wiki/Lyase
+ 164. file:///wiki/List_of_EC_numbers_(EC_4)
+ 165. file:///wiki/Isomerase
+ 166. file:///wiki/List_of_EC_numbers_(EC_5)
+ 167. file:///wiki/Ligase
+ 168. file:///wiki/List_of_EC_numbers_(EC_6)
+ 169. file:///wiki/Translocase
+ 170. file:///wiki/List_of_EC_numbers_(EC_7)
+ 171. file:///wiki/Wikipedia:Contents/Portals
+ 172. file:///wiki/File:Issoria_lathonia.jpg
+ 173. file:///wiki/Portal:Biology
+ 174. file:///wiki/EC_4.2
+ 175. file:///wiki/Enzyme
+ 176. file:///wiki/Wikipedia:Stub
+ 177. https://en.wikipedia.org/w/index.php?title=(−)-endo-fenchol_synthase&action=edit
+ 178. file:///wiki/Template:4.2-enzyme-stub
+ 179. file:///wiki/Template_talk:4.2-enzyme-stub
+ 180. file:///wiki/Special:EditPage/Template:4.2-enzyme-stub
+ 181. https://en.wikipedia.org/w/index.php?title=(−)-endo-fenchol_synthase&oldid=1227628965
+ 182. file:///wiki/Help:Category
+ 183. file:///wiki/Category:EC_4.2.3
+ 184. file:///wiki/Category:Enzymes_of_unknown_structure
+ 185. file:///wiki/Category:EC_4.2_stubs
+ 186. file:///wiki/Category:Articles_with_short_description
+ 187. file:///wiki/Category:Short_description_matches_Wikidata
+ 188. file:///wiki/Category:All_stub_articles
+ 189. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 190. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 191. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 192. https://wikimediafoundation.org/
+ 193. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 194. file:///wiki/Wikipedia:About
+ 195. file:///wiki/Wikipedia:General_disclaimer
+ 196. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 197. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 198. https://developer.wikimedia.org/
+ 199. https://stats.wikimedia.org/#/en.wikipedia.org
+ 200. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 201. file://en.m.wikipedia.org/w/index.php?title=(−)-endo-fenchol_synthase&mobileaction=toggle_view_mobile
+ 202. https://wikimediafoundation.org/
+ 203. https://www.mediawiki.org/

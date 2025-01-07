@@ -1,0 +1,1261 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Definitions
+       (BUTTON) Toggle Definitions subsection
+          + [30]1.1 *-ring
+          + [31]1.2 *-algebra
+          + [32]1.3 Philosophy of the *-operation
+          + [33]1.4 Notation
+     * [34]2 Examples
+     * [35]3 Non-Example
+     * [36]4 Additional structures
+       (BUTTON) Toggle Additional structures subsection
+          + [37]4.1 Skew structures
+     * [38]5 See also
+     * [39]6 Notes
+     * [40]7 References
+
+   [ ] Toggle the table of contents
+
+*-algebra
+
+   [ ] 13 languages
+     * [41]Català
+     * [42]Deutsch
+     * [43]Español
+     * [44]فارسی
+     * [45]Français
+     * [46]한국어
+     * [47]עברית
+     * [48]日本語
+     * [49]Polski
+     * [50]Português
+     * [51]Русский
+     * [52]Українська
+     * [53]中文
+
+   [54]Edit links
+
+     * [55]Article
+     * [56]Talk
+
+   [ ] English
+
+     * [57]Read
+     * [58]Edit
+     * [59]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [60]Read
+     * [61]Edit
+     * [62]View history
+
+   General
+     * [63]What links here
+     * [64]Related changes
+     * [65]Upload file
+     * [66]Special pages
+     * [67]Permanent link
+     * [68]Page information
+     * [69]Cite this page
+     * [70]Get shortened URL
+     * [71]Download QR code
+
+   Print/export
+     * [72]Download as PDF
+     * [73]Printable version
+
+   In other projects
+     * [74]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [75]*-homomorphism)
+   Mathematical structure in abstract algebra
+
+   [76]Algebraic structures
+   [77]Group-like
+     * [78]Group
+     * [79]Semigroup / [80]Monoid
+     * [81]Rack and quandle
+     * [82]Quasigroup and loop
+
+     * [83]Abelian group
+     * [84]Magma
+     * [85]Lie group
+
+   [86]Group theory
+   [87]Ring-like
+     * [88]Ring
+     * [89]Rng
+     * [90]Semiring
+     * [91]Near-ring
+     * [92]Commutative ring
+     * [93]Domain
+     * [94]Integral domain
+     * [95]Field
+     * [96]Division ring
+     * [97]Lie ring
+
+   [98]Ring theory
+   [99]Lattice-like
+     * [100]Lattice
+     * [101]Semilattice
+     * [102]Complemented lattice
+     * [103]Total order
+     * [104]Heyting algebra
+     * [105]Boolean algebra
+
+     * [106]Map of lattices
+     * [107]Lattice theory
+
+   [108]Module-like
+     * [109]Module
+     * [110]Group with operators
+     * [111]Vector space
+
+     * [112]Linear algebra
+
+   [113]Algebra-like
+     * [114]Algebra
+
+     * [115]Associative
+     * [116]Non-associative
+     * [117]Composition algebra
+     * [118]Lie algebra
+     * [119]Graded
+     * [120]Bialgebra
+     * [121]Hopf algebra
+
+     * [122]v
+     * [123]t
+     * [124]e
+
+   In [125]mathematics, and more specifically in [126]abstract algebra, a
+   *-algebra (or involutive algebra; read as "star-algebra") is a
+   mathematical structure consisting of two involutive rings R and A,
+   where R is commutative and A has the structure of an [127]associative
+   algebra over R. Involutive algebras generalize the idea of a number
+   system equipped with conjugation, for example the [128]complex numbers
+   and [129]complex conjugation, [130]matrices over the complex numbers
+   and [131]conjugate transpose, and [132]linear operators over a
+   [133]Hilbert space and [134]Hermitian adjoints. However, it may happen
+   that an algebra admits no [135]involution.^[136][a]
+
+   Look up [137]* or [138]star in Wiktionary, the free dictionary.
+
+Definitions
+
+   [[139]edit]
+
+*-ring
+
+   [[140]edit]
+
+   [141]Algebraic structure → Ring theory
+   [142]Ring theory
+   Basic concepts
+   [143]Rings
+
+          • [144]Subrings
+          • [145]Ideal
+          • [146]Quotient ring
+
+                • [147]Fractional ideal
+                • [148]Total ring of fractions
+
+          • [149]Product of rings
+          • [150]Free product of associative algebras
+          • [151]Tensor product of algebras
+
+   [152]Ring homomorphisms
+
+          • [153]Kernel
+          • [154]Inner automorphism
+          • [155]Frobenius endomorphism
+
+   [156]Algebraic structures
+
+          • [157]Module
+          • [158]Associative algebra
+          • [159]Graded ring
+          • [160]Involutive ring
+          • [161]Category of rings
+
+                • [162]Initial ring
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mrow
+                class="MJX-TeXAtom-ORD"> <mi
+                mathvariant="double-struck">Z</mi> </mrow> </mstyle>
+                </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \mathbb {Z}
+                }</annotation> </semantics> :MATH]
+                {\displaystyle \mathbb {Z} }
+                • [163]Terminal ring
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mn>0</mn> <mo>=</mo>
+                <mrow class="MJX-TeXAtom-ORD"> <mi
+                mathvariant="double-struck">Z</mi> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>1</mn>
+                <mrow class="MJX-TeXAtom-ORD"> <mi
+                mathvariant="double-struck">Z</mi> </mrow> </mstyle>
+                </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle 0=\mathbb {Z}
+                /1\mathbb {Z} }</annotation> </semantics> :MATH]
+                {\displaystyle 0=\mathbb {Z} /1\mathbb {Z} }
+
+   Related structures
+
+          • [164]Field
+
+                • [165]Finite field
+
+          • [166]Non-associative ring
+
+                • [167]Lie ring
+                • [168]Jordan ring
+
+          • [169]Semiring
+
+                • [170]Semifield
+
+   [171]Commutative algebra
+   [172]Commutative rings
+
+          • [173]Integral domain
+
+                • [174]Integrally closed domain
+                • [175]GCD domain
+                • [176]Unique factorization domain
+                • [177]Principal ideal domain
+                • [178]Euclidean domain
+                • [179]Field
+
+                      • [180]Finite field
+
+                • [181]Polynomial ring
+                • [182]Formal power series ring
+
+   [183]Algebraic number theory
+
+          • [184]Algebraic number field
+          • [185]Integers modulo n
+          • [186]Ring of integers
+          • [187]p-adic integers
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">Z</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>p</mi> </mrow>
+          </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \mathbb {Z}
+          _{p}}</annotation> </semantics> :MATH]
+          {\displaystyle \mathbb {Z} _{p}}
+          • [188]p-adic numbers
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">Q</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>p</mi> </mrow>
+          </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \mathbb {Q}
+          _{p}}</annotation> </semantics> :MATH]
+          {\displaystyle \mathbb {Q} _{p}}
+          • [189]Prüfer p-ring
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">Z</mi>
+          </mrow> <mo stretchy="false">(</mo> <msup> <mi>p</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">∞</mi> </mrow>
+          </msup> <mo stretchy="false">)</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \mathbb
+          {Z} (p^{\infty })}</annotation> </semantics> :MATH]
+          {\displaystyle \mathbb {Z} (p^{\infty })}
+
+   [190]Noncommutative algebra
+   [191]Noncommutative rings
+
+          • [192]Division ring
+          • [193]Semiprimitive ring
+          • [194]Simple ring
+          • [195]Commutator
+
+   [196]Noncommutative algebraic geometry
+
+   [197]Free algebra
+
+   [198]Clifford algebra
+
+          • [199]Geometric algebra
+
+   [200]Operator algebra
+
+     * [201]v
+     * [202]t
+     * [203]e
+
+   In [204]mathematics, a *-ring is a [205]ring with a map * : A → A that
+   is an [206]antiautomorphism and an [207]involution.
+
+   More precisely, * is required to satisfy the following
+   properties:^[208][1]
+     * (x + y)* = x* + y*
+     * (x y)* = y* x*
+     * 1* = 1
+     * (x*)* = x
+
+   for all x, y in A.
+
+   This is also called an involutive ring, involutory ring, and ring with
+   involution. The third axiom is implied by the second and fourth axioms,
+   making it redundant.
+
+   Elements such that x* = x are called [209]self-adjoint.^[210][2]
+
+   Archetypical examples of a *-ring are fields of [211]complex numbers
+   and [212]algebraic numbers with [213]complex conjugation as the
+   involution. One can define a [214]sesquilinear form over any *-ring.
+
+   Also, one can define *-versions of algebraic objects, such as
+   [215]ideal and [216]subring, with the requirement to be
+   *-[217]invariant: x ∈ I ⇒ x* ∈ I and so on.
+
+   *-rings are unrelated to [218]star semirings in the theory of
+   computation.
+
+*-algebra
+
+   [[219]edit]
+
+   A *-algebra A is a *-ring,^[220][b] with involution * that is an
+   [221]associative algebra over a [222]commutative *-ring R with
+   involution ′, such that (r x)* = r′ x*  ∀r ∈ R, x ∈ A.^[223][3]
+
+   The base *-ring R is often the complex numbers (with ′ acting as
+   complex conjugation).
+
+   It follows from the axioms that * on A is [224]conjugate-linear in R,
+   meaning
+
+          (λ x + μ y)* = λ′ x* + μ′ y*
+
+   for λ, μ ∈ R, x, y ∈ A.
+
+   A *-homomorphism f : A → B is an [225]algebra homomorphism that is
+   compatible with the involutions of A and B, i.e.,
+     * f(a*) = f(a)* for all a in A.^[226][2]
+
+Philosophy of the *-operation
+
+   [[227]edit]
+
+   The *-operation on a *-ring is analogous to [228]complex conjugation on
+   the complex numbers. The *-operation on a *-algebra is analogous to
+   taking [229]adjoints in complex [230]matrix algebras.
+
+Notation
+
+   [[231]edit]
+
+   The * involution is a [232]unary operation written with a postfixed
+   star glyph centered above or near the [233]mean line:
+
+          x ↦ x*, or
+          x ↦ x^∗ ([234]TeX: x^*),
+
+   but not as "x∗"; see the [235]asterisk article for details.
+
+Examples
+
+   [[236]edit]
+
+     * Any [237]commutative ring becomes a *-ring with the trivial
+       ([238]identical) involution.
+     * The most familiar example of a *-ring and a *-algebra over
+       [239]reals is the field of complex numbers C where * is just
+       [240]complex conjugation.
+     * More generally, a [241]field extension made by adjunction of a
+       [242]square root (such as the [243]imaginary unit √−1) is a
+       *-algebra over the original field, considered as a
+       trivially-*-ring. The * [244]flips the sign of that square root.
+     * A [245]quadratic integer ring (for some D) is a commutative *-ring
+       with the * defined in the similar way; [246]quadratic fields are
+       *-algebras over appropriate quadratic integer rings.
+     * [247]Quaternions, [248]split-complex numbers, [249]dual numbers,
+       and possibly other [250]hypercomplex number systems form *-rings
+       (with their built-in conjugation operation) and *-algebras over
+       reals (where * is trivial). None of the three is a complex algebra.
+     * [251]Hurwitz quaternions form a non-commutative *-ring with the
+       quaternion conjugation.
+     * The [252]matrix algebra of n × n [253]matrices over R with * given
+       by the [254]transposition.
+     * The matrix algebra of n × n matrices over C with * given by the
+       [255]conjugate transpose.
+     * Its generalization, the [256]Hermitian adjoint in the algebra of
+       [257]bounded linear operators on a [258]Hilbert space also defines
+       a *-algebra.
+     * The [259]polynomial ring R[x] over a commutative trivially-*-ring R
+       is a *-algebra over R with P *(x) = P (−x).
+     * If (A, +, ×, *) is simultaneously a *-ring, an [260]algebra over a
+       ring R (commutative), and (r x)* = r (x*)  ∀r ∈ R, x ∈ A, then A is
+       a *-algebra over R (where * is trivial).
+          + As a partial case, any *-ring is a *-algebra over
+            [261]integers.
+     * Any commutative *-ring is a *-algebra over itself and, more
+       generally, over any its [262]*-subring.
+     * For a commutative *-ring R, its [263]quotient by any its
+       [264]*-ideal is a *-algebra over R.
+          + For example, any commutative trivially-*-ring is a *-algebra
+            over its [265]dual numbers ring, a *-ring with non-trivial *,
+            because the quotient by ε = 0 makes the original ring.
+          + The same about a commutative ring K and its polynomial ring
+            K[x]: the quotient by x = 0 restores K.
+     * In [266]Hecke algebra, an involution is important to the
+       [267]Kazhdan–Lusztig polynomial.
+     * The [268]endomorphism ring of an [269]elliptic curve becomes a
+       *-algebra over the integers, where the involution is given by
+       taking the [270]dual isogeny. A similar construction works for
+       [271]abelian varieties with a [272]polarization, in which case it
+       is called the [273]Rosati involution (see Milne's lecture notes on
+       abelian varieties).
+
+   [274]Involutive Hopf algebras are important examples of *-algebras
+   (with the additional structure of a compatible [275]comultiplication);
+   the most familiar example being:
+     * The [276]group Hopf algebra: a [277]group ring, with involution
+       given by g ↦ g^−1.
+
+Non-Example
+
+   [[278]edit]
+
+   Not every algebra admits an involution:
+
+   Regard the 2×2 [279]matrices over the complex numbers. Consider the
+   following subalgebra:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">A</mi> </mrow> </mrow> <mo>:=</mo> <mrow>
+   <mo>{</mo> <mrow> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo>
+   <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mi>a</mi>
+   </mtd> <mtd> <mi>b</mi> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd>
+   <mtd> <mn>0</mn> </mtd> </mtr> </mtable> <mo>)</mo> </mrow> </mrow>
+   <mo>:</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo>∈</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">C</mi> </mrow>
+   </mrow> <mo>}</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\mathcal
+   {A}}:=\left\{{\begin{pmatrix}a&b\\0&0\end{pmatrix}}:a,b\in \mathbb {C}
+   \right\}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal
+   {A}}:=\left\{{\begin{pmatrix}a&b\\0&0\end{pmatrix}}:a,b\in \mathbb {C}
+   \right\}}
+
+   Any nontrivial antiautomorphism necessarily has the form:^[280][4]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>φ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>z</mi> </mrow> </msub> <mrow> <mo>[</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>1</mn> </mtd>
+   <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd>
+   <mn>0</mn> </mtd> </mtr> </mtable> <mo>)</mo> </mrow> </mrow>
+   <mo>]</mo> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow>
+   <mo>(</mo> <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd>
+   <mn>1</mn> </mtd> <mtd> <mi>z</mi> </mtd> </mtr> <mtr> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> </mtr> </mtable> <mo>)</mo> </mrow>
+   </mrow> <mspace width="1em" /> <msub> <mi>φ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>z</mi> </mrow> </msub> <mrow> <mo>[</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn> </mtd>
+   <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd>
+   <mn>0</mn> </mtd> </mtr> </mtable> <mo>)</mo> </mrow> </mrow>
+   <mo>]</mo> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow>
+   <mo>(</mo> <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd>
+   <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> </mtr> </mtable> <mo>)</mo> </mrow>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \varphi
+   _{z}\left[{\begin{pmatrix}1&0\\0&0\end{pmatrix}}\right]={\begin{pmatrix
+   }1&z\\0&0\end{pmatrix}}\quad \varphi
+   _{z}\left[{\begin{pmatrix}0&1\\0&0\end{pmatrix}}\right]={\begin{pmatrix
+   }0&0\\0&0\end{pmatrix}}}</annotation> </semantics> :MATH]
+   {\displaystyle \varphi
+   _{z}\left[{\begin{pmatrix}1&0\\0&0\end{pmatrix}}\right]={\begin{pmatrix
+   }1&z\\0&0\end{pmatrix}}\quad \varphi
+   _{z}\left[{\begin{pmatrix}0&1\\0&0\end{pmatrix}}\right]={\begin{pmatrix
+   }0&0\\0&0\end{pmatrix}}} for any complex number
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>z</mi> <mo>∈</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">C</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle z\in \mathbb {C}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle z\in \mathbb {C} } .
+
+   It follows that any nontrivial antiautomorphism fails to be involutive:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msubsup> <mi>φ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>z</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msubsup> <mrow>
+   <mo>[</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn> </mtd>
+   <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd>
+   <mn>0</mn> </mtd> </mtr> </mtable> <mo>)</mo> </mrow> </mrow>
+   <mo>]</mo> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow>
+   <mo>(</mo> <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd>
+   <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> </mtr> </mtable> <mo>)</mo> </mrow>
+   </mrow> <mo>≠</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo>
+   <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd>
+   <mtd> <mn>0</mn> </mtd> </mtr> </mtable> <mo>)</mo> </mrow> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \varphi
+   _{z}^{2}\left[{\begin{pmatrix}0&1\\0&0\end{pmatrix}}\right]={\begin{pma
+   trix}0&0\\0&0\end{pmatrix}}\neq
+   {\begin{pmatrix}0&1\\0&0\end{pmatrix}}}</annotation> </semantics>
+   :MATH]
+   {\displaystyle \varphi
+   _{z}^{2}\left[{\begin{pmatrix}0&1\\0&0\end{pmatrix}}\right]={\begin{pma
+   trix}0&0\\0&0\end{pmatrix}}\neq {\begin{pmatrix}0&1\\0&0\end{pmatrix}}}
+
+   Concluding that the subalgebra admits no involution.
+
+Additional structures
+
+   [[281]edit]
+
+   Many properties of the [282]transpose hold for general *-algebras:
+     * The [283]Hermitian elements form a [284]Jordan algebra;
+     * The skew Hermitian elements form a [285]Lie algebra;
+     * If 2 is invertible in the *-ring, then the operators ⁠1/2⁠(1 + *)
+       and ⁠1/2⁠(1 − *) are [286]orthogonal idempotents,^[287][2] called
+       symmetrizing and anti-symmetrizing, so the algebra decomposes as a
+       direct sum of [288]modules ([289]vector spaces if the *-ring is a
+       field) of symmetric and anti-symmetric (Hermitian and skew
+       Hermitian) elements. These spaces do not, generally, form
+       associative algebras, because the idempotents are [290]operators,
+       not elements of the algebra.
+
+Skew structures
+
+   [[291]edit]
+
+   Given a *-ring, there is also the map −* : x ↦ −x*. It does not define
+   a *-ring structure (unless the [292]characteristic is 2, in which case
+   −* is identical to the original *), as 1 ↦ −1, neither is it
+   antimultiplicative, but it satisfies the other axioms (linear,
+   involution) and hence is quite similar to *-algebra where x ↦ x*.
+
+   Elements fixed by this map (i.e., such that a = −a*) are called skew
+   Hermitian.
+
+   For the complex numbers with complex conjugation, the real numbers are
+   the Hermitian elements, and the imaginary numbers are the skew
+   Hermitian.
+
+See also
+
+   [[293]edit]
+
+     * [294]Semigroup with involution
+     * [295]B*-algebra
+     * [296]C*-algebra
+     * [297]Dagger category
+     * [298]von Neumann algebra
+     * [299]Baer ring
+     * [300]Operator algebra
+     * [301]Conjugate (algebra)
+     * [302]Cayley–Dickson construction
+     * [303]Composition algebra
+
+Notes
+
+   [[304]edit]
+
+    1. [305]^ In this context, involution is taken to mean an involutory
+       antiautomorphism, also known as an anti-involution.
+    2. [306]^ Most definitions do not require a *-algebra to have the
+       [307]unity, i.e. a *-algebra is allowed to be a *-[308]rng only.
+
+References
+
+   [[309]edit]
+
+    1. [310]^ [311]Weisstein, Eric W. (2015). [312]"C-Star Algebra".
+       Wolfram MathWorld.
+    2. ^ [313]^a [314]^b [315]^c [316]Baez, John (2015). [317]"Octonions".
+       Department of Mathematics. University of California, Riverside.
+       [318]Archived from the original on 26 March 2015. Retrieved 27
+       January 2015.
+    3. [319]^ [320]star-algebra at the [321]nLab
+    4. [322]^ Winker, S. K.; Wos, L.; Lusk, E. L. (1981).
+       [323]"Semigroups, Antiautomorphisms, and Involutions: A Computer
+       Solution to an Open Problem, I". Mathematics of Computation. 37
+       (156): 533–545. [324]doi:[325]10.2307/2007445.
+       [326]ISSN [327]0025-5718.
+
+     * [328]v
+     * [329]t
+     * [330]e
+
+   [331]Spectral theory and ^*-algebras
+
+   Basic concepts
+
+     * Involution/*-algebra
+     * [332]Banach algebra
+     * [333]B*-algebra
+     * [334]C*-algebra
+     * [335]Noncommutative topology
+     * [336]Projection-valued measure
+     * [337]Spectrum
+     * [338]Spectrum of a C*-algebra
+     * [339]Spectral radius
+     * [340]Operator space
+
+   Main results
+
+     * [341]Gelfand–Mazur theorem
+     * [342]Gelfand–Naimark theorem
+     * [343]Gelfand representation
+     * [344]Polar decomposition
+     * [345]Singular value decomposition
+     * [346]Spectral theorem
+     * [347]Spectral theory of normal C*-algebras
+
+   Special Elements/Operators
+
+     * [348]Isospectral
+     * [349]Normal [350]operator
+     * [351]Hermitian/Self-adjoint [352]operator
+     * [353]Unitary [354]operator
+     * [355]Unit
+
+   [356]Spectrum
+
+     * [357]Krein–Rutman theorem
+     * [358]Normal eigenvalue
+     * [359]Spectrum of a C*-algebra
+     * [360]Spectral radius
+     * [361]Spectral asymmetry
+     * [362]Spectral gap
+
+   Decomposition
+
+     * [363]Decomposition of a spectrum
+          + [364]Continuous
+          + [365]Point
+          + [366]Residual
+     * [367]Approximate point
+     * [368]Compression
+     * [369]Direct integral
+     * [370]Discrete
+     * [371]Spectral abscissa
+
+   Spectral Theorem
+
+     * [372]Borel functional calculus
+     * [373]Min-max theorem
+     * [374]Positive operator-valued measure
+     * [375]Projection-valued measure
+     * [376]Riesz projector
+     * [377]Rigged Hilbert space
+     * [378]Spectral theorem
+     * [379]Spectral theory of compact operators
+     * [380]Spectral theory of normal C*-algebras
+
+   Special algebras
+
+     * [381]Amenable Banach algebra
+     * With an [382]Approximate identity
+     * [383]Banach function algebra
+     * [384]Disk algebra
+     * [385]Nuclear C*-algebra
+     * [386]Uniform algebra
+     * [387]Von Neumann algebra
+          + [388]Tomita–Takesaki theory
+
+   Finite-Dimensional
+
+     * [389]Alon–Boppana bound
+     * [390]Bauer–Fike theorem
+     * [391]Numerical range
+     * [392]Schur–Horn theorem
+
+   Generalizations
+
+     * [393]Dirac spectrum
+     * [394]Essential spectrum
+     * [395]Pseudospectrum
+     * [396]Structure space ([397]Shilov boundary)
+
+   Miscellaneous
+
+     * [398]Abstract index group
+     * [399]Banach algebra cohomology
+     * [400]Cohen–Hewitt factorization theorem
+     * [401]Extensions of symmetric operators
+     * [402]Fredholm theory
+     * [403]Limiting absorption principle
+     * [404]Schröder–Bernstein theorems for operator algebras
+     * [405]Sherman–Takeda theorem
+     * [406]Unbounded operator
+
+   Examples
+
+     * [407]Wiener algebra
+
+   Applications
+
+     * [408]Almost Mathieu operator
+     * [409]Corona theorem
+     * [410]Hearing the shape of a drum ([411]Dirichlet eigenvalue)
+     * [412]Heat kernel
+     * [413]Kuznetsov trace formula
+     * [414]Lax pair
+     * [415]Proto-value function
+     * [416]Ramanujan graph
+     * [417]Rayleigh–Faber–Krahn inequality
+     * [418]Spectral geometry
+     * [419]Spectral method
+     * [420]Spectral theory of ordinary differential equations
+     * [421]Sturm–Liouville theory
+     * [422]Superstrong approximation
+     * [423]Transfer operator
+     * [424]Transform theory
+     * [425]Weyl law
+     * [426]Wiener–Khinchin theorem
+
+   Retrieved from
+   "[427]https://en.wikipedia.org/w/index.php?title=*-algebra&oldid=126427
+   6171"
+
+   [428]Categories:
+     * [429]Algebras
+     * [430]Ring theory
+
+   Hidden categories:
+     * [431]Articles with short description
+     * [432]Short description is different from Wikidata
+
+     * This page was last edited on 21 December 2024, at 08:52 (UTC).
+     * Text is available under the [433]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [434]Terms of Use and
+       [435]Privacy Policy. Wikipedia® is a registered trademark of the
+       [436]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [437]Privacy policy
+     * [438]About Wikipedia
+     * [439]Disclaimers
+     * [440]Contact Wikipedia
+     * [441]Code of Conduct
+     * [442]Developers
+     * [443]Statistics
+     * [444]Cookie statement
+     * [445]Mobile view
+
+     * [446]Wikimedia Foundation
+     * [447]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/*-algebra
+   2. file:///w/index.php?title=*-algebra&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=*-algebra
+  21. file:///w/index.php?title=Special:UserLogin&returnto=*-algebra
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=*-algebra
+  24. file:///w/index.php?title=Special:UserLogin&returnto=*-algebra
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html
+  29. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#Definitions
+  30. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#*-ring
+  31. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#*-algebra
+  32. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#Philosophy_of_the_*-operation
+  33. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#Notation
+  34. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#Examples
+  35. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#Non-Example
+  36. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#Additional_structures
+  37. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#Skew_structures
+  38. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#See_also
+  39. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#Notes
+  40. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#References
+  41. https://ca.wikipedia.org/wiki/*-àlgebra
+  42. https://de.wikipedia.org/wiki/*-Algebra
+  43. https://es.wikipedia.org/wiki/*-álgebra
+  44. https://fa.wikipedia.org/wiki/*-جبر
+  45. https://fr.wikipedia.org/wiki/Algèbre_involutive
+  46. https://ko.wikipedia.org/wiki/대합_대수
+  47. https://he.wikipedia.org/wiki/אינוולוציה_(תורת_החוגים)
+  48. https://ja.wikipedia.org/wiki/対合環
+  49. https://pl.wikipedia.org/wiki/*-pierścień
+  50. https://pt.wikipedia.org/wiki/Álgebra_estrela
+  51. https://ru.wikipedia.org/wiki/*-алгебра
+  52. https://uk.wikipedia.org/wiki/*-алгебра
+  53. https://zh.wikipedia.org/wiki/*-代数
+  54. https://www.wikidata.org/wiki/Special:EntityPage/Q2836000#sitelinks-wikipedia
+  55. file:///wiki/*-algebra
+  56. file:///wiki/Talk:*-algebra
+  57. file:///wiki/*-algebra
+  58. file:///w/index.php?title=*-algebra&action=edit
+  59. file:///w/index.php?title=*-algebra&action=history
+  60. file:///wiki/*-algebra
+  61. file:///w/index.php?title=*-algebra&action=edit
+  62. file:///w/index.php?title=*-algebra&action=history
+  63. file:///wiki/Special:WhatLinksHere/*-algebra
+  64. file:///wiki/Special:RecentChangesLinked/*-algebra
+  65. file:///wiki/Wikipedia:File_Upload_Wizard
+  66. file:///wiki/Special:SpecialPages
+  67. file:///w/index.php?title=*-algebra&oldid=1264276171
+  68. file:///w/index.php?title=*-algebra&action=info
+  69. file:///w/index.php?title=Special:CiteThisPage&page=*-algebra&id=1264276171&wpFormIdentifier=titleform
+  70. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/*-algebra
+  71. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/*-algebra
+  72. file:///w/index.php?title=Special:DownloadAsPdf&page=*-algebra&action=show-download-screen
+  73. file:///w/index.php?title=*-algebra&printable=yes
+  74. https://www.wikidata.org/wiki/Special:EntityPage/Q2836000
+  75. file:///w/index.php?title=*-homomorphism&redirect=no
+  76. file:///wiki/Algebraic_structure
+  77. file:///wiki/Group_(mathematics)
+  78. file:///wiki/Group_(mathematics)
+  79. file:///wiki/Semigroup
+  80. file:///wiki/Monoid
+  81. file:///wiki/Racks_and_quandles
+  82. file:///wiki/Quasigroup
+  83. file:///wiki/Abelian_group
+  84. file:///wiki/Magma_(algebra)
+  85. file:///wiki/Lie_group
+  86. file:///wiki/Group_theory
+  87. file:///wiki/Ring_(mathematics)
+  88. file:///wiki/Ring_(mathematics)
+  89. file:///wiki/Rng_(algebra)
+  90. file:///wiki/Semiring
+  91. file:///wiki/Near-ring
+  92. file:///wiki/Commutative_ring
+  93. file:///wiki/Domain_(ring_theory)
+  94. file:///wiki/Integral_domain
+  95. file:///wiki/Field_(mathematics)
+  96. file:///wiki/Division_ring
+  97. file:///wiki/Lie_algebra#Lie_ring
+  98. file:///wiki/Ring_theory
+  99. file:///wiki/Lattice_(order)
+ 100. file:///wiki/Lattice_(order)
+ 101. file:///wiki/Semilattice
+ 102. file:///wiki/Complemented_lattice
+ 103. file:///wiki/Total_order
+ 104. file:///wiki/Heyting_algebra
+ 105. file:///wiki/Boolean_algebra_(structure)
+ 106. file:///wiki/Map_of_lattices
+ 107. file:///wiki/Lattice_(order)
+ 108. file:///wiki/Module_(mathematics)
+ 109. file:///wiki/Module_(mathematics)
+ 110. file:///wiki/Group_with_operators
+ 111. file:///wiki/Vector_space
+ 112. file:///wiki/Linear_algebra
+ 113. file:///wiki/Algebra_over_a_field
+ 114. file:///wiki/Algebra_over_a_field
+ 115. file:///wiki/Associative_algebra
+ 116. file:///wiki/Non-associative_algebra
+ 117. file:///wiki/Composition_algebra
+ 118. file:///wiki/Lie_algebra
+ 119. file:///wiki/Graded_ring
+ 120. file:///wiki/Bialgebra
+ 121. file:///wiki/Hopf_algebra
+ 122. file:///wiki/Template:Algebraic_structures
+ 123. file:///wiki/Template_talk:Algebraic_structures
+ 124. file:///wiki/Special:EditPage/Template:Algebraic_structures
+ 125. file:///wiki/Mathematics
+ 126. file:///wiki/Abstract_algebra
+ 127. file:///wiki/Associative_algebra
+ 128. file:///wiki/Complex_numbers
+ 129. file:///wiki/Complex_conjugation
+ 130. file:///wiki/Matrix_(mathematics)
+ 131. file:///wiki/Conjugate_transpose
+ 132. file:///wiki/Linear_operator
+ 133. file:///wiki/Hilbert_space
+ 134. file:///wiki/Hermitian_adjoint
+ 135. file:///wiki/Involution_(mathematics)
+ 136. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_note-1
+ 137. https://en.wiktionary.org/wiki/*
+ 138. https://en.wiktionary.org/wiki/star
+ 139. file:///w/index.php?title=*-algebra&action=edit&section=1
+ 140. file:///w/index.php?title=*-algebra&action=edit&section=2
+ 141. file:///wiki/Algebraic_structure
+ 142. file:///wiki/Ring_theory
+ 143. file:///wiki/Ring_(mathematics)
+ 144. file:///wiki/Subring
+ 145. file:///wiki/Ideal_(ring_theory)
+ 146. file:///wiki/Quotient_ring
+ 147. file:///wiki/Fractional_ideal
+ 148. file:///wiki/Total_ring_of_fractions
+ 149. file:///wiki/Product_of_rings
+ 150. file:///wiki/Free_product_of_associative_algebras
+ 151. file:///wiki/Tensor_product_of_algebras
+ 152. file:///wiki/Ring_homomorphism
+ 153. file:///wiki/Kernel_(algebra)#Ring_homomorphisms
+ 154. file:///wiki/Inner_automorphism#Ring_case
+ 155. file:///wiki/Frobenius_endomorphism
+ 156. file:///wiki/Algebraic_structure
+ 157. file:///wiki/Module_(mathematics)
+ 158. file:///wiki/Associative_algebra
+ 159. file:///wiki/Graded_ring
+ 160. file:///wiki/Involutive_ring
+ 161. file:///wiki/Category_of_rings
+ 162. file:///wiki/Integer
+ 163. file:///wiki/Zero_ring
+ 164. file:///wiki/Field_(mathematics)
+ 165. file:///wiki/Finite_field
+ 166. file:///wiki/Non-associative_ring
+ 167. file:///wiki/Lie_ring
+ 168. file:///wiki/Jordan_ring
+ 169. file:///wiki/Semiring
+ 170. file:///wiki/Semifield
+ 171. file:///wiki/Commutative_algebra
+ 172. file:///wiki/Commutative_ring
+ 173. file:///wiki/Integral_domain
+ 174. file:///wiki/Integrally_closed_domain
+ 175. file:///wiki/GCD_domain
+ 176. file:///wiki/Unique_factorization_domain
+ 177. file:///wiki/Principal_ideal_domain
+ 178. file:///wiki/Euclidean_domain
+ 179. file:///wiki/Field_(mathematics)
+ 180. file:///wiki/Finite_field
+ 181. file:///wiki/Polynomial_ring
+ 182. file:///wiki/Formal_power_series_ring
+ 183. file:///wiki/Algebraic_number_theory
+ 184. file:///wiki/Algebraic_number_field
+ 185. file:///wiki/Integers_modulo_n
+ 186. file:///wiki/Ring_of_integers
+ 187. file:///wiki/P-adic_integer
+ 188. file:///wiki/P-adic_number
+ 189. file:///wiki/Prüfer_group#The_Prüfer_group_as_a_ring
+ 190. file:///wiki/Noncommutative_algebra
+ 191. file:///wiki/Noncommutative_ring
+ 192. file:///wiki/Division_ring
+ 193. file:///wiki/Semiprimitive_ring
+ 194. file:///wiki/Simple_ring
+ 195. file:///wiki/Commutator_(ring_theory)
+ 196. file:///wiki/Noncommutative_algebraic_geometry
+ 197. file:///wiki/Free_algebra
+ 198. file:///wiki/Clifford_algebra
+ 199. file:///wiki/Geometric_algebra
+ 200. file:///wiki/Operator_algebra
+ 201. file:///wiki/Template:Ring_theory_sidebar
+ 202. file:///wiki/Template_talk:Ring_theory_sidebar
+ 203. file:///wiki/Special:EditPage/Template:Ring_theory_sidebar
+ 204. file:///wiki/Mathematics
+ 205. file:///wiki/Ring_(mathematics)
+ 206. file:///wiki/Antiautomorphism
+ 207. file:///wiki/Semigroup_with_involution
+ 208. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_note-2
+ 209. file:///wiki/Self-adjoint
+ 210. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_note-:0-3
+ 211. file:///wiki/Complex_number
+ 212. file:///wiki/Algebraic_number
+ 213. file:///wiki/Complex_conjugation
+ 214. file:///wiki/Sesquilinear_form
+ 215. file:///wiki/Ideal_(ring_theory)
+ 216. file:///wiki/Subring
+ 217. file:///wiki/Invariant_(mathematics)#Invariant_set
+ 218. file:///wiki/Star_semiring
+ 219. file:///w/index.php?title=*-algebra&action=edit&section=3
+ 220. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_note-4
+ 221. file:///wiki/Associative_algebra
+ 222. file:///wiki/Commutative_ring
+ 223. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_note-5
+ 224. file:///wiki/Conjugate-linear
+ 225. file:///wiki/Algebra_homomorphism
+ 226. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_note-:0-3
+ 227. file:///w/index.php?title=*-algebra&action=edit&section=4
+ 228. file:///wiki/Complex_conjugation
+ 229. file:///wiki/Conjugate_transpose
+ 230. file:///wiki/Matrix_algebra
+ 231. file:///w/index.php?title=*-algebra&action=edit&section=5
+ 232. file:///wiki/Unary_operation
+ 233. file:///wiki/Mean_line
+ 234. file:///wiki/TeX
+ 235. file:///wiki/Asterisk
+ 236. file:///w/index.php?title=*-algebra&action=edit&section=6
+ 237. file:///wiki/Commutative_ring
+ 238. file:///wiki/Identity_map
+ 239. file:///wiki/Real_number
+ 240. file:///wiki/Complex_conjugation
+ 241. file:///wiki/Field_extension
+ 242. file:///wiki/Square_root
+ 243. file:///wiki/Imaginary_unit
+ 244. file:///wiki/Additive_inverse
+ 245. file:///wiki/Quadratic_integer
+ 246. file:///wiki/Quadratic_field
+ 247. file:///wiki/Quaternion
+ 248. file:///wiki/Split-complex_number
+ 249. file:///wiki/Dual_number
+ 250. file:///wiki/Hypercomplex_number
+ 251. file:///wiki/Hurwitz_quaternion
+ 252. file:///wiki/Matrix_ring
+ 253. file:///wiki/Matrix_(mathematics)
+ 254. file:///wiki/Transpose
+ 255. file:///wiki/Conjugate_transpose
+ 256. file:///wiki/Hermitian_adjoint
+ 257. file:///wiki/Bounded_linear_operator
+ 258. file:///wiki/Hilbert_space
+ 259. file:///wiki/Polynomial_ring
+ 260. file:///wiki/Algebra_over_a_ring
+ 261. file:///wiki/Integer
+ 262. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#*-objects
+ 263. file:///wiki/Quotient_ring
+ 264. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#*-objects
+ 265. file:///wiki/Dual_number#Generalization
+ 266. file:///wiki/Hecke_algebra_of_a_Coxeter_group
+ 267. file:///wiki/Kazhdan–Lusztig_polynomial
+ 268. file:///wiki/Endomorphism_ring
+ 269. file:///wiki/Elliptic_curve
+ 270. file:///wiki/Dual_abelian_variety
+ 271. file:///wiki/Abelian_variety
+ 272. file:///wiki/Abelian_variety
+ 273. file:///wiki/Rosati_involution
+ 274. file:///wiki/Hopf_algebra#Examples
+ 275. file:///wiki/Comultiplication
+ 276. file:///wiki/Group_Hopf_algebra
+ 277. file:///wiki/Group_ring
+ 278. file:///w/index.php?title=*-algebra&action=edit&section=7
+ 279. file:///wiki/Matrix_(mathematics)
+ 280. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_note-6
+ 281. file:///w/index.php?title=*-algebra&action=edit&section=8
+ 282. file:///wiki/Transpose
+ 283. file:///wiki/Self-adjoint
+ 284. file:///wiki/Jordan_algebra
+ 285. file:///wiki/Lie_algebra
+ 286. file:///wiki/Idempotent
+ 287. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_note-:0-3
+ 288. file:///wiki/Module_(algebra)
+ 289. file:///wiki/Vector_space
+ 290. file:///wiki/Linear_operator
+ 291. file:///w/index.php?title=*-algebra&action=edit&section=9
+ 292. file:///wiki/Characteristic_(algebra)
+ 293. file:///w/index.php?title=*-algebra&action=edit&section=10
+ 294. file:///wiki/Semigroup_with_involution
+ 295. file:///wiki/B*-algebra
+ 296. file:///wiki/C*-algebra
+ 297. file:///wiki/Dagger_category
+ 298. file:///wiki/Von_Neumann_algebra
+ 299. file:///wiki/Baer_ring
+ 300. file:///wiki/Operator_algebra
+ 301. file:///wiki/Conjugate_(algebra)
+ 302. file:///wiki/Cayley–Dickson_construction
+ 303. file:///wiki/Composition_algebra
+ 304. file:///w/index.php?title=*-algebra&action=edit&section=11
+ 305. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_ref-1
+ 306. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_ref-4
+ 307. file:///wiki/Multiplicative_identity
+ 308. file:///wiki/Rng_(algebra)
+ 309. file:///w/index.php?title=*-algebra&action=edit&section=12
+ 310. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_ref-2
+ 311. file:///wiki/Eric_W._Weisstein
+ 312. http://mathworld.wolfram.com/C-Star-Algebra.html
+ 313. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_ref-:0_3-0
+ 314. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_ref-:0_3-1
+ 315. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_ref-:0_3-2
+ 316. file:///wiki/John_Baez
+ 317. http://math.ucr.edu/home/baez/octonions/node5.html
+ 318. https://web.archive.org/web/20150326133405/http://math.ucr.edu/home/baez/octonions/node5.html
+ 319. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_ref-5
+ 320. https://ncatlab.org/nlab/show/star-algebra
+ 321. file:///wiki/NLab
+ 322. file:///tmp/lynxXXXX8BwdKF/L50570-8177TMP.html#cite_ref-6
+ 323. https://www.jstor.org/stable/2007445
+ 324. file:///wiki/Doi_(identifier)
+ 325. https://doi.org/10.2307/2007445
+ 326. file:///wiki/ISSN_(identifier)
+ 327. https://search.worldcat.org/issn/0025-5718
+ 328. file:///wiki/Template:Spectral_theory
+ 329. file:///wiki/Template_talk:Spectral_theory
+ 330. file:///wiki/Special:EditPage/Template:Spectral_theory
+ 331. file:///wiki/Spectral_theory
+ 332. file:///wiki/Banach_algebra
+ 333. file:///wiki/Banach_*-algebra
+ 334. file:///wiki/C*-algebra
+ 335. file:///wiki/Noncommutative_topology
+ 336. file:///wiki/Projection-valued_measure
+ 337. file:///wiki/Spectrum_(functional_analysis)
+ 338. file:///wiki/Spectrum_of_a_C*-algebra
+ 339. file:///wiki/Spectral_radius
+ 340. file:///wiki/Operator_space
+ 341. file:///wiki/Gelfand–Mazur_theorem
+ 342. file:///wiki/Gelfand–Naimark_theorem
+ 343. file:///wiki/Gelfand_representation
+ 344. file:///wiki/Polar_decomposition
+ 345. file:///wiki/Singular_value_decomposition
+ 346. file:///wiki/Spectral_theorem
+ 347. file:///wiki/Spectral_theory_of_normal_C*-algebras
+ 348. file:///wiki/Isospectral
+ 349. file:///wiki/Normal_element
+ 350. file:///wiki/Normal_operator
+ 351. file:///wiki/Self-adjoint
+ 352. file:///wiki/Self-adjoint_operator
+ 353. file:///wiki/Unitary_element
+ 354. file:///wiki/Unitary_operator
+ 355. file:///wiki/Unit_(ring_theory)
+ 356. file:///wiki/Spectrum_(functional_analysis)
+ 357. file:///wiki/Krein–Rutman_theorem
+ 358. file:///wiki/Normal_eigenvalue
+ 359. file:///wiki/Spectrum_of_a_C*-algebra
+ 360. file:///wiki/Spectral_radius
+ 361. file:///wiki/Spectral_asymmetry
+ 362. file:///wiki/Spectral_gap
+ 363. file:///wiki/Decomposition_of_spectrum_(functional_analysis)
+ 364. file:///wiki/Continuous_spectrum_(functional_analysis)
+ 365. file:///wiki/Point_spectrum
+ 366. file:///wiki/Spectrum_(functional_analysis)#Residual_spectrum
+ 367. file:///wiki/Spectrum_(functional_analysis)#Approximate_point_spectrum
+ 368. file:///wiki/Spectrum_(functional_analysis)#Compression_spectrum
+ 369. file:///wiki/Direct_integral
+ 370. file:///wiki/Discrete_spectrum_(mathematics)
+ 371. file:///wiki/Spectral_abscissa
+ 372. file:///wiki/Borel_functional_calculus
+ 373. file:///wiki/Min-max_theorem
+ 374. file:///wiki/Positive_operator-valued_measure
+ 375. file:///wiki/Projection-valued_measure
+ 376. file:///wiki/Riesz_projector
+ 377. file:///wiki/Rigged_Hilbert_space
+ 378. file:///wiki/Spectral_theorem
+ 379. file:///wiki/Spectral_theory_of_compact_operators
+ 380. file:///wiki/Spectral_theory_of_normal_C*-algebras
+ 381. file:///wiki/Amenable_Banach_algebra
+ 382. file:///wiki/Approximate_identity
+ 383. file:///wiki/Banach_function_algebra
+ 384. file:///wiki/Disk_algebra
+ 385. file:///wiki/Nuclear_C*-algebra
+ 386. file:///wiki/Uniform_algebra
+ 387. file:///wiki/Von_Neumann_algebra
+ 388. file:///wiki/Tomita–Takesaki_theory
+ 389. file:///wiki/Alon–Boppana_bound
+ 390. file:///wiki/Bauer–Fike_theorem
+ 391. file:///wiki/Numerical_range
+ 392. file:///wiki/Schur–Horn_theorem
+ 393. file:///wiki/Dirac_spectrum
+ 394. file:///wiki/Essential_spectrum
+ 395. file:///wiki/Pseudospectrum
+ 396. file:///wiki/Structure_space
+ 397. file:///wiki/Shilov_boundary
+ 398. file:///wiki/Abstract_index_group
+ 399. file:///wiki/Banach_algebra_cohomology
+ 400. file:///wiki/Cohen–Hewitt_factorization_theorem
+ 401. file:///wiki/Extensions_of_symmetric_operators
+ 402. file:///wiki/Fredholm_theory
+ 403. file:///wiki/Limiting_absorption_principle
+ 404. file:///wiki/Schröder–Bernstein_theorems_for_operator_algebras
+ 405. file:///wiki/Sherman–Takeda_theorem
+ 406. file:///wiki/Unbounded_operator
+ 407. file:///wiki/Wiener_algebra
+ 408. file:///wiki/Almost_Mathieu_operator
+ 409. file:///wiki/Corona_theorem
+ 410. file:///wiki/Hearing_the_shape_of_a_drum
+ 411. file:///wiki/Dirichlet_eigenvalue
+ 412. file:///wiki/Heat_kernel
+ 413. file:///wiki/Kuznetsov_trace_formula
+ 414. file:///wiki/Lax_pair
+ 415. file:///wiki/Proto-value_function
+ 416. file:///wiki/Ramanujan_graph
+ 417. file:///wiki/Rayleigh–Faber–Krahn_inequality
+ 418. file:///wiki/Spectral_geometry
+ 419. file:///wiki/Spectral_method
+ 420. file:///wiki/Spectral_theory_of_ordinary_differential_equations
+ 421. file:///wiki/Sturm–Liouville_theory
+ 422. file:///wiki/Superstrong_approximation
+ 423. file:///wiki/Transfer_operator
+ 424. file:///wiki/Transform_theory
+ 425. file:///wiki/Weyl_law
+ 426. file:///wiki/Wiener–Khinchin_theorem
+ 427. https://en.wikipedia.org/w/index.php?title=*-algebra&oldid=1264276171
+ 428. file:///wiki/Help:Category
+ 429. file:///wiki/Category:Algebras
+ 430. file:///wiki/Category:Ring_theory
+ 431. file:///wiki/Category:Articles_with_short_description
+ 432. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 433. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 434. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 435. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 436. https://wikimediafoundation.org/
+ 437. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 438. file:///wiki/Wikipedia:About
+ 439. file:///wiki/Wikipedia:General_disclaimer
+ 440. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 441. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 442. https://developer.wikimedia.org/
+ 443. https://stats.wikimedia.org/#/en.wikipedia.org
+ 444. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 445. file://en.m.wikipedia.org/w/index.php?title=*-algebra&mobileaction=toggle_view_mobile
+ 446. https://wikimediafoundation.org/
+ 447. https://www.mediawiki.org/
+
+   Hidden links:
+ 449. file://localhost/wiki/File:Wiktionary-logo-en-v2.svg

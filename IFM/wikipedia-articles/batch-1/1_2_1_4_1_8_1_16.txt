@@ -1,0 +1,736 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Proof
+     * [30]2 History
+       (BUTTON) Toggle History subsection
+          + [31]2.1 Zeno's paradox
+          + [32]2.2 The Eye of Horus
+          + [33]2.3 In Zhuangzi
+     * [34]3 See also
+     * [35]4 Notes
+     * [36]5 References
+
+   [ ] Toggle the table of contents
+
+1/2 + 1/4 + 1/8 + 1/16 + ⋯
+
+   [ ] 15 languages
+     * [37]Bosanski
+     * [38]Español
+     * [39]فارسی
+     * [40]Français
+     * [41]한국어
+     * [42]हिन्दी
+     * [43]Bahasa Indonesia
+     * [44]Italiano
+     * [45]日本語
+     * [46]සිංහල
+     * [47]Српски / srpski
+     * [48]Svenska
+     * [49]தமிழ்
+     * [50]Tiếng Việt
+     * [51]中文
+
+   [52]Edit links
+
+     * [53]Article
+     * [54]Talk
+
+   [ ] English
+
+     * [55]Read
+     * [56]Edit
+     * [57]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [58]Read
+     * [59]Edit
+     * [60]View history
+
+   General
+     * [61]What links here
+     * [62]Related changes
+     * [63]Upload file
+     * [64]Special pages
+     * [65]Permanent link
+     * [66]Page information
+     * [67]Cite this page
+     * [68]Get shortened URL
+     * [69]Download QR code
+
+   Print/export
+     * [70]Download as PDF
+     * [71]Printable version
+
+   In other projects
+     * [72]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [73]1/2 + 1/4 + 1/8 + 1/16 + · · ·)
+   Infinite series summable to 1
+   [74][220px-Eye_of_Horus_square.png] First six summands drawn as
+   portions of a square.[75][220px-Geometric_Segment.svg.png] The
+   geometric series on the real line.
+
+   In [76]mathematics, the [77]infinite series ⁠1/2⁠ + ⁠1/4⁠ +
+   ⁠1/8⁠ +
+   ⁠1/16⁠ + ··· is an elementary example of a [78]geometric series that
+   [79]converges absolutely. The sum of the series is 1. In [80]summation
+   notation, this may be expressed as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac>
+          </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <mn>4</mn> </mfrac> </mrow> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac>
+          </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <mn>16</mn> </mfrac> </mrow> <mo>+</mo> <mo>⋯</mo>
+          <mo>=</mo> <munderover> <mo>∑</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>=</mo> <mn>1</mn>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">∞</mi> </mrow> </munderover> <msup> <mrow>
+          <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+          <mn>2</mn> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+          <mn>1.</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac
+          {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+{\frac {1}{16}}+\cdots
+          =\sum _{n=1}^{\infty }\left({\frac
+          {1}{2}}\right)^{n}=1.}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {1}{2}}+{\frac {1}{4}}+{\frac
+          {1}{8}}+{\frac {1}{16}}+\cdots =\sum _{n=1}^{\infty
+          }\left({\frac {1}{2}}\right)^{n}=1.}
+
+   The series is related to philosophical questions considered in
+   antiquity, particularly to [81]Zeno's paradoxes.
+
+Proof
+
+   [[82]edit]
+
+   As with any [83]infinite series, the sum
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac>
+          </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <mn>4</mn> </mfrac> </mrow> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac>
+          </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <mn>16</mn> </mfrac> </mrow> <mo>+</mo> <mo>⋯</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac
+          {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+{\frac {1}{16}}+\cdots
+          }</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {1}{2}}+{\frac {1}{4}}+{\frac
+          {1}{8}}+{\frac {1}{16}}+\cdots }
+
+   is defined to mean the [84]limit of the [85]partial sum of the first n
+   terms
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn>
+          </mfrac> </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> </mrow> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac>
+          </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <mn>16</mn> </mfrac> </mrow> <mo>+</mo> <mo>⋯</mo>
+          <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+          <msup> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          <mo>−</mo> <mn>1</mn> </mrow> </msup> </mfrac> </mrow>
+          <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+          <msup> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          </mrow> </msup> </mfrac> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle s_{n}={\frac
+          {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+{\frac {1}{16}}+\cdots
+          +{\frac {1}{2^{n-1}}}+{\frac {1}{2^{n}}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle s_{n}={\frac {1}{2}}+{\frac {1}{4}}+{\frac
+          {1}{8}}+{\frac {1}{16}}+\cdots +{\frac {1}{2^{n-1}}}+{\frac
+          {1}{2^{n}}}}
+
+   as n approaches infinity, if it exists. By various
+   arguments,^[86][a]^[87][1] one can show that each finite sum is equal
+   to
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+          <mn>1</mn> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <msup> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msup> </mfrac> </mrow> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          s_{n}=1-{\frac {1}{2^{n}}},}</annotation> </semantics> :MATH]
+          {\displaystyle s_{n}=1-{\frac {1}{2^{n}}},}
+
+   and as n approaches infinity, the term
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>1</mn> <msup> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </msup> </mfrac> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\frac
+   {1}{2^{n}}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {1}{2^{n}}}} approaches 0 and so s[n] approaches
+   1.
+
+History
+
+   [[88]edit]
+
+Zeno's paradox
+
+   [[89]edit]
+
+   This series was used as a representation of two of [90]Zeno's
+   paradoxes.^[91][2] For example, in the [92]paradox of Achilles and the
+   Tortoise, the warrior Achilles was to race against a tortoise. The
+   track is 100 meters long. Achilles could run at 10 m/s, while the
+   tortoise only 5. The tortoise, with a 10-meter advantage, Zeno argued,
+   would win. Achilles would have to move 10 meters to catch up to the
+   tortoise, but the tortoise would already have moved another five meters
+   by then. Achilles would then have to move 5 meters, where the tortoise
+   would move 2.5 meters, and so on. Zeno argued that the tortoise would
+   always remain ahead of Achilles. Similarly, Zeno's [93]dichotomy
+   paradox arises from the supposition that to move a certain distance,
+   one would have to move half of it, then half of the remaining distance,
+   and so on, therefore having infinitely many time intervals.^[94][2]
+
+   In both cases, each time interval is a term of this [95]infinite
+   geometric series, and so even in the limit of infinite terms it would
+   sum to a finite total time. This is sometimes considered to resolve
+   Zeno's paradoxes.^[96][3] However, insofar as Zeno was concerned with
+   the problems of division of a continuum into an [97]actual infinity of
+   sub-parts, rather than the problem of their sum, it may not address the
+   philosophical heart of Zeno's argument.^[98][4]
+
+The Eye of Horus
+
+   [[99]edit]
+
+   The parts of the [100]Eye of Horus were once thought to represent the
+   first six summands of the series.^[101][5]
+
+In Zhuangzi
+
+   [[102]edit]
+
+   A version of the series appears in the ancient [103]Taoist book
+   [104]Zhuangzi. The miscellaneous chapters "All Under Heaven" include
+   the following sentence: "Take a [105]chi long stick and remove half
+   every day, in a myriad ages it will not be exhausted."^[[106]citation
+   needed]
+
+See also
+
+   [[107]edit]
+     * [108]0.999...
+     * [109]1/2 − 1/4 + 1/8 − 1/16 + ⋯
+     * [110]Actual infinity
+
+Notes
+
+   [[111]edit]
+    1. [112]^ For example: multiplying s[n] by 2 yields
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mn>2</mn> <msub> <mi>s</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+       <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>2</mn>
+       <mn>2</mn> </mfrac> </mrow> <mo>+</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mn>2</mn> <mn>4</mn> </mfrac>
+       </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+       <mn>2</mn> <mn>8</mn> </mfrac> </mrow> <mo>+</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mn>2</mn> <mn>16</mn> </mfrac>
+       </mrow> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mn>2</mn> <msup> <mn>2</mn> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mfrac>
+       </mrow> <mo>=</mo> <mn>1</mn> <mo>+</mo> <mrow> <mo>[</mo> <mrow>
+       <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn>
+       </mfrac> </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+       <mn>1</mn> <mn>4</mn> </mfrac> </mrow> <mo>+</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac>
+       </mrow> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <msup> <mn>2</mn> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+       </msup> </mfrac> </mrow> </mrow> <mo>]</mo> </mrow> <mo>=</mo>
+       <mn>1</mn> <mo>+</mo> <mrow> <mo>[</mo> <mrow> <msub> <mi>s</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+       <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <msup>
+       <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+       </msup> </mfrac> </mrow> </mrow> <mo>]</mo> </mrow> <mo>.</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle 2s_{n}={\frac
+       {2}{2}}+{\frac {2}{4}}+{\frac {2}{8}}+{\frac {2}{16}}+\cdots
+       +{\frac {2}{2^{n}}}=1+\left[{\frac {1}{2}}+{\frac {1}{4}}+{\frac
+       {1}{8}}+\cdots +{\frac {1}{2^{n-1}}}\right]=1+\left[s_{n}-{\frac
+       {1}{2^{n}}}\right].}</annotation> </semantics> :MATH]
+       {\displaystyle 2s_{n}={\frac {2}{2}}+{\frac {2}{4}}+{\frac
+       {2}{8}}+{\frac {2}{16}}+\cdots +{\frac {2}{2^{n}}}=1+\left[{\frac
+       {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+\cdots +{\frac
+       {1}{2^{n-1}}}\right]=1+\left[s_{n}-{\frac {1}{2^{n}}}\right].}
+       Subtracting s[n] from both sides, one concludes
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>s</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+       <mn>1</mn> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+       <mn>1</mn> <msup> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD">
+       <mi>n</mi> </mrow> </msup> </mfrac> </mrow> <mo>.</mo> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       s_{n}=1-{\frac {1}{2^{n}}}.}</annotation> </semantics> :MATH]
+       {\displaystyle s_{n}=1-{\frac {1}{2^{n}}}.} Other arguments might
+       proceed by [113]mathematical induction, or by adding
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mn>1</mn> <msup> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD">
+       <mi>n</mi> </mrow> </msup> </mfrac> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\frac
+       {1}{2^{n}}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\frac {1}{2^{n}}}} to both sides of
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>s</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+       <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn>
+       </mfrac> </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+       <mn>1</mn> <mn>4</mn> </mfrac> </mrow> <mo>+</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac>
+       </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+       <mn>1</mn> <mn>16</mn> </mfrac> </mrow> <mo>+</mo> <mo>⋯</mo>
+       <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <msup>
+       <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo>
+       <mn>1</mn> </mrow> </msup> </mfrac> </mrow> <mo>+</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <msup> <mn>2</mn> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mfrac>
+       </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle s_{n}={\frac
+       {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+{\frac {1}{16}}+\cdots
+       +{\frac {1}{2^{n-1}}}+{\frac {1}{2^{n}}}}</annotation> </semantics>
+       :MATH]
+       {\displaystyle s_{n}={\frac {1}{2}}+{\frac {1}{4}}+{\frac
+       {1}{8}}+{\frac {1}{16}}+\cdots +{\frac {1}{2^{n-1}}}+{\frac
+       {1}{2^{n}}}} and manipulating to show that the right side of the
+       result is equal to 1.^[[114]citation needed]
+
+References
+
+   [[115]edit]
+    1. [116]^ Abramowitz, M.; Stegun, I. A., eds. (1972). Handbook of
+       Mathematical Functions with Formulas, Graphs, and Mathematical
+       Tables (9th printing). New York: Dover. p. 10.
+    2. ^ [117]^a [118]^b Field, Paul and Weisstein, Eric W. "Zeno's
+       Paradoxes." From MathWorld--A Wolfram Web Resource.
+       [119]https://mathworld.wolfram.com/ZenosParadoxes.html
+    3. [120]^ Huggett, Nick (2010). [121]"Zeno's Paradoxes: 5. Zeno's
+       Influence on Philosophy". [122]Stanford Encyclopedia of Philosophy.
+       [123]Archived from the original on 2022-03-01. Retrieved
+       2011-03-07.
+    4. [124]^ Papa-Grimaldi, Alba (1996). [125]"Why Mathematical Solutions
+       of Zeno's Paradoxes Miss the Point: Zeno's One and Many Relation
+       and Parmenides' Prohibition" (PDF). The Review of Metaphysics. 50:
+       299–314. [126]Archived (PDF) from the original on 2012-06-09.
+       Retrieved 2012-03-06.
+    5. [127]^ Stewart, Ian (2009). Professor Stewart's Hoard of
+       Mathematical Treasures. Profile Books. pp. 76–80.
+       [128]ISBN [129]978-1-84668-292-6.
+
+     * [130]v
+     * [131]t
+     * [132]e
+
+   [133]Sequences and [134]series
+   [135]Integer sequences
+   Basic
+     * [136]Arithmetic progression
+     * [137]Geometric progression
+     * [138]Harmonic progression
+     * [139]Square number
+     * [140]Cubic number
+     * [141]Factorial
+     * [142]Powers of two
+     * [143]Powers of three
+     * [144]Powers of 10
+
+   Advanced ([145]list)
+     * [146]Complete sequence
+     * [147]Fibonacci sequence
+     * [148]Figurate number
+     * [149]Heptagonal number
+     * [150]Hexagonal number
+     * [151]Lucas number
+     * [152]Pell number
+     * [153]Pentagonal number
+     * [154]Polygonal number
+     * [155]Triangular number
+          + [156]array
+
+   [157]Fibonacci spiral with square sizes up to 34.
+
+   Properties of sequences
+
+     * [158]Cauchy sequence
+     * [159]Monotonic function
+     * [160]Periodic sequence
+
+   Properties of series
+
+   Series
+     * [161]Alternating
+     * [162]Convergent
+     * [163]Divergent
+     * [164]Telescoping
+
+   Convergence
+     * [165]Absolute
+     * [166]Conditional
+     * [167]Uniform
+
+   Explicit series
+
+   Convergent
+     * [168]1/2 − 1/4 + 1/8 − 1/16 + ⋯
+     * 1/2 + 1/4 + 1/8 + 1/16 + ⋯
+     * [169]1/4 + 1/16 + 1/64 + 1/256 + ⋯
+     * [170]1 + 1/2^s + 1/3^s + ... (Riemann zeta function)
+
+   Divergent
+     * [171]1 + 1 + 1 + 1 + ⋯
+     * [172]1 − 1 + 1 − 1 + ⋯ (Grandi's series)
+     * [173]1 + 2 + 3 + 4 + ⋯
+     * [174]1 − 2 + 3 − 4 + ⋯
+     * [175]1 + 2 + 4 + 8 + ⋯
+     * [176]1 − 2 + 4 − 8 + ⋯
+     * [177]Infinite arithmetic series
+     * [178]1 − 1 + 2 − 6 + 24 − 120 + ⋯ (alternating factorials)
+     * [179]1 + 1/2 + 1/3 + 1/4 + ⋯ (harmonic series)
+     * [180]1/2 + 1/3 + 1/5 + 1/7 + 1/11 + ⋯ (inverses of primes)
+
+   Kinds of series
+
+     * [181]Taylor series
+     * [182]Power series
+     * [183]Formal power series
+     * [184]Laurent series
+     * [185]Puiseux series
+     * [186]Dirichlet series
+     * [187]Trigonometric series
+     * [188]Fourier series
+     * [189]Generating series
+
+   [190]Hypergeometric series
+
+     * [191]Generalized hypergeometric series
+     * [192]Hypergeometric function of a matrix argument
+     * [193]Lauricella hypergeometric series
+     * [194]Modular hypergeometric series
+     * [195]Riemann's differential equation
+     * [196]Theta hypergeometric series
+
+     * [197]Category
+
+   Retrieved from
+   "[198]https://en.wikipedia.org/w/index.php?title=1/2_%2B_1/4_%2B_1/8_%2
+   B_1/16_%2B_⋯&oldid=1251594650"
+
+   [199]Categories:
+     * [200]Geometric series
+     * [201]1 (number)
+
+   Hidden categories:
+     * [202]All articles with unsourced statements
+     * [203]Articles with unsourced statements from November 2020
+     * [204]Articles with short description
+     * [205]Short description is different from Wikidata
+
+     * This page was last edited on 16 October 2024, at 23:31 (UTC).
+     * Text is available under the [206]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [207]Terms of Use and
+       [208]Privacy Policy. Wikipedia® is a registered trademark of the
+       [209]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [210]Privacy policy
+     * [211]About Wikipedia
+     * [212]Disclaimers
+     * [213]Contact Wikipedia
+     * [214]Code of Conduct
+     * [215]Developers
+     * [216]Statistics
+     * [217]Cookie statement
+     * [218]Mobile view
+
+     * [219]Wikimedia Foundation
+     * [220]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+   2. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=1/2+++1/4+++1/8+++1/16+++⋯
+  21. file:///w/index.php?title=Special:UserLogin&returnto=1/2+++1/4+++1/8+++1/16+++⋯
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=1/2+++1/4+++1/8+++1/16+++⋯
+  24. file:///w/index.php?title=Special:UserLogin&returnto=1/2+++1/4+++1/8+++1/16+++⋯
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html
+  29. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#Proof
+  30. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#History
+  31. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#Zeno's_paradox
+  32. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#The_Eye_of_Horus
+  33. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#In_Zhuangzi
+  34. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#See_also
+  35. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#Notes
+  36. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#References
+  37. https://bs.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_·_·_·
+  38. https://es.wikipedia.org/wiki/1⁄2_+_1⁄4_+_1⁄8_+_1⁄16_+_…
+  39. https://fa.wikipedia.org/wiki/۱/۲_+_۱/۴_+_۱/۸_+_۱/۱۶_+_⋯
+  40. https://fr.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  41. https://ko.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  42. https://hi.wikipedia.org/wiki/१/२_+_१/४_+_१/८_+_१/१६_+_·_·_·
+  43. https://id.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  44. https://it.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  45. https://ja.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  46. https://si.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  47. https://sr.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  48. https://sv.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  49. https://ta.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_·_·_·
+  50. https://vi.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  51. https://zh.wikipedia.org/wiki/1/2_+_1/4_+_1/8_+_1/16_+_…
+  52. https://www.wikidata.org/wiki/Special:EntityPage/Q3817754#sitelinks-wikipedia
+  53. file:///wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  54. file:///wiki/Talk:1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  55. file:///wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  56. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit
+  57. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=history
+  58. file:///wiki/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  59. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit
+  60. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=history
+  61. file:///wiki/Special:WhatLinksHere/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  62. file:///wiki/Special:RecentChangesLinked/1/2_+_1/4_+_1/8_+_1/16_+_⋯
+  63. file:///wiki/Wikipedia:File_Upload_Wizard
+  64. file:///wiki/Special:SpecialPages
+  65. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&oldid=1251594650
+  66. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=info
+  67. file:///w/index.php?title=Special:CiteThisPage&page=1/2_+_1/4_+_1/8_+_1/16_+_⋯&id=1251594650&wpFormIdentifier=titleform
+  68. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/1/2_%2B_1/4_%2B_1/8_%2B_1/16_%2B_%E2%8B%AF
+  69. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/1/2_%2B_1/4_%2B_1/8_%2B_1/16_%2B_%E2%8B%AF
+  70. file:///w/index.php?title=Special:DownloadAsPdf&page=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=show-download-screen
+  71. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&printable=yes
+  72. https://www.wikidata.org/wiki/Special:EntityPage/Q3817754
+  73. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_·_·_·&redirect=no
+  74. file:///wiki/File:Eye_of_Horus_square.png
+  75. file:///wiki/File:Geometric_Segment.svg
+  76. file:///wiki/Mathematics
+  77. file:///wiki/Infinite_series
+  78. file:///wiki/Geometric_series
+  79. file:///wiki/Absolute_convergence
+  80. file:///wiki/Capital-sigma_notation
+  81. file:///wiki/Zeno's_paradoxes
+  82. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit&section=1
+  83. file:///wiki/Series_(mathematics)
+  84. file:///wiki/Limit_of_a_sequence
+  85. file:///wiki/Partial_sum
+  86. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_note-1
+  87. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_note-2
+  88. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit&section=2
+  89. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit&section=3
+  90. file:///wiki/Zeno's_paradoxes
+  91. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_note-Description_of_Zeno's_paradoxe...-3
+  92. file:///wiki/Achilles_and_the_Tortoise
+  93. file:///wiki/Dichotomy_paradox
+  94. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_note-Description_of_Zeno's_paradoxe...-3
+  95. file:///wiki/Infinite_geometric_series
+  96. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_note-4
+  97. file:///wiki/Actual_infinity
+  98. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_note-Papa-G-5
+  99. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit&section=4
+ 100. file:///wiki/Eye_of_Horus#In_arithmetic
+ 101. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_note-6
+ 102. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit&section=5
+ 103. file:///wiki/Taoism
+ 104. file:///wiki/Zhuangzi_(book)
+ 105. file:///wiki/Chi_(length)
+ 106. file:///wiki/Wikipedia:Citation_needed
+ 107. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit&section=6
+ 108. file:///wiki/0.999...
+ 109. file:///wiki/1/2_−_1/4_+_1/8_−_1/16_+_⋯
+ 110. file:///wiki/Actual_infinity
+ 111. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit&section=7
+ 112. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_ref-1
+ 113. file:///wiki/Mathematical_induction
+ 114. file:///wiki/Wikipedia:Citation_needed
+ 115. file:///w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&action=edit&section=8
+ 116. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_ref-2
+ 117. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_ref-Description_of_Zeno's_paradoxe..._3-0
+ 118. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_ref-Description_of_Zeno's_paradoxe..._3-1
+ 119. https://mathworld.wolfram.com/ZenosParadoxes.html
+ 120. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_ref-4
+ 121. http://plato.stanford.edu/entries/paradox-zeno/#ZenInf
+ 122. file:///wiki/Stanford_Encyclopedia_of_Philosophy
+ 123. https://web.archive.org/web/20220301174333/https://plato.stanford.edu/entries/paradox-zeno/#ZenInf
+ 124. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_ref-Papa-G_5-0
+ 125. http://philsci-archive.pitt.edu/2304/1/zeno_maths_review_metaphysics_alba_papa_grimaldi.pdf
+ 126. https://web.archive.org/web/20120609113959/http://philsci-archive.pitt.edu/2304/1/zeno_maths_review_metaphysics_alba_papa_grimaldi.pdf
+ 127. file:///tmp/lynxXXXX56qUk9/L61027-7013TMP.html#cite_ref-6
+ 128. file:///wiki/ISBN_(identifier)
+ 129. file:///wiki/Special:BookSources/978-1-84668-292-6
+ 130. file:///wiki/Template:Series_(mathematics)
+ 131. file:///wiki/Template_talk:Series_(mathematics)
+ 132. file:///wiki/Special:EditPage/Template:Series_(mathematics)
+ 133. file:///wiki/Sequence
+ 134. file:///wiki/Series_(mathematics)
+ 135. file:///wiki/Integer_sequence
+ 136. file:///wiki/Arithmetic_progression
+ 137. file:///wiki/Geometric_progression
+ 138. file:///wiki/Harmonic_progression_(mathematics)
+ 139. file:///wiki/Square_number
+ 140. file:///wiki/Cube_(algebra)
+ 141. file:///wiki/Factorial
+ 142. file:///wiki/Power_of_two
+ 143. file:///wiki/Power_of_three
+ 144. file:///wiki/Power_of_10
+ 145. file:///wiki/List_of_OEIS_sequences
+ 146. file:///wiki/Complete_sequence
+ 147. file:///wiki/Fibonacci_sequence
+ 148. file:///wiki/Figurate_number
+ 149. file:///wiki/Heptagonal_number
+ 150. file:///wiki/Hexagonal_number
+ 151. file:///wiki/Lucas_number
+ 152. file:///wiki/Pell_number
+ 153. file:///wiki/Pentagonal_number
+ 154. file:///wiki/Polygonal_number
+ 155. file:///wiki/Triangular_number
+ 156. file:///wiki/Triangular_array
+ 157. file:///wiki/Fibonacci_sequence
+ 158. file:///wiki/Cauchy_sequence
+ 159. file:///wiki/Monotonic_function
+ 160. file:///wiki/Periodic_sequence
+ 161. file:///wiki/Alternating_series
+ 162. file:///wiki/Convergent_series
+ 163. file:///wiki/Divergent_series
+ 164. file:///wiki/Telescoping_series
+ 165. file:///wiki/Absolute_convergence
+ 166. file:///wiki/Conditional_convergence
+ 167. file:///wiki/Uniform_convergence
+ 168. file:///wiki/1/2_−_1/4_+_1/8_−_1/16_+_⋯
+ 169. file:///wiki/1/4_+_1/16_+_1/64_+_1/256_+_⋯
+ 170. file:///wiki/Riemann_zeta_function
+ 171. file:///wiki/1_+_1_+_1_+_1_+_⋯
+ 172. file:///wiki/Grandi's_series
+ 173. file:///wiki/1_+_2_+_3_+_4_+_⋯
+ 174. file:///wiki/1_−_2_+_3_−_4_+_⋯
+ 175. file:///wiki/1_+_2_+_4_+_8_+_⋯
+ 176. file:///wiki/1_−_2_+_4_−_8_+_⋯
+ 177. file:///wiki/Infinite_arithmetic_series
+ 178. file:///wiki/1_−_1_+_2_−_6_+_24_−_120_+_...
+ 179. file:///wiki/Harmonic_series_(mathematics)
+ 180. file:///wiki/Divergence_of_the_sum_of_the_reciprocals_of_the_primes
+ 181. file:///wiki/Taylor_series
+ 182. file:///wiki/Power_series
+ 183. file:///wiki/Formal_power_series
+ 184. file:///wiki/Laurent_series
+ 185. file:///wiki/Puiseux_series
+ 186. file:///wiki/Dirichlet_series
+ 187. file:///wiki/Trigonometric_series
+ 188. file:///wiki/Fourier_series
+ 189. file:///wiki/Generating_series
+ 190. file:///wiki/Hypergeometric_function
+ 191. file:///wiki/Generalized_hypergeometric_series
+ 192. file:///wiki/Hypergeometric_function_of_a_matrix_argument
+ 193. file:///wiki/Lauricella_hypergeometric_series
+ 194. file:///wiki/Modular_hypergeometric_series
+ 195. file:///wiki/Riemann's_differential_equation
+ 196. file:///wiki/Theta_hypergeometric_series
+ 197. file:///wiki/Category:Mathematical_series
+ 198. https://en.wikipedia.org/w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&oldid=1251594650
+ 199. file:///wiki/Help:Category
+ 200. file:///wiki/Category:Geometric_series
+ 201. file:///wiki/Category:1_(number)
+ 202. file:///wiki/Category:All_articles_with_unsourced_statements
+ 203. file:///wiki/Category:Articles_with_unsourced_statements_from_November_2020
+ 204. file:///wiki/Category:Articles_with_short_description
+ 205. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 206. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 207. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 208. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 209. https://wikimediafoundation.org/
+ 210. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 211. file:///wiki/Wikipedia:About
+ 212. file:///wiki/Wikipedia:General_disclaimer
+ 213. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 214. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 215. https://developer.wikimedia.org/
+ 216. https://stats.wikimedia.org/#/en.wikipedia.org
+ 217. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 218. file://en.m.wikipedia.org/w/index.php?title=1/2_+_1/4_+_1/8_+_1/16_+_⋯&mobileaction=toggle_view_mobile
+ 219. https://wikimediafoundation.org/
+ 220. https://www.mediawiki.org/

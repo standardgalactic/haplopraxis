@@ -1,0 +1,607 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 See also
+     * [30]2 References
+     * [31]3 Further reading
+
+   [ ] Toggle the table of contents
+
+(−1)^F
+
+   [ ] 1 language
+     * [32]Português
+
+   [33]Edit links
+
+     * [34]Article
+     * [35]Talk
+
+   [ ] English
+
+     * [36]Read
+     * [37]Edit
+     * [38]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [39]Read
+     * [40]Edit
+     * [41]View history
+
+   General
+     * [42]What links here
+     * [43]Related changes
+     * [44]Upload file
+     * [45]Special pages
+     * [46]Permanent link
+     * [47]Page information
+     * [48]Cite this page
+     * [49]Get shortened URL
+     * [50]Download QR code
+
+   Print/export
+     * [51]Download as PDF
+     * [52]Printable version
+
+   In other projects
+     * [53]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [54](-1)F)
+   Term in quantum field theory
+   This article includes a list of [55]general references, but it lacks
+   sufficient corresponding [56]inline citations. Please help to
+   [57]improve this article by [58]introducing more precise citations.
+   (February 2013) ([59]Learn how and when to remove this message)
+
+   Part of a series of articles about
+                     [60]Quantum mechanics
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> <mi
+   class="MJX-variant">ℏ</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+   <mi>d</mi> <mrow> <mi>d</mi> <mi>t</mi> </mrow> </mfrac> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow> <mi
+   mathvariant="normal">Ψ</mi> <mo fence="false" stretchy="false">⟩</mo>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mi>H</mi> <mo stretchy="false">^</mo>
+   </mover> </mrow> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mo
+   stretchy="false">|</mo> </mrow> <mi mathvariant="normal">Ψ</mi> <mo
+   fence="false" stretchy="false">⟩</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle i\hbar {\frac {d}{dt}}|\Psi
+   \rangle ={\hat {H}}|\Psi \rangle }</annotation> </semantics> :MATH]
+   {\displaystyle i\hbar {\frac {d}{dt}}|\Psi \rangle ={\hat {H}}|\Psi
+   \rangle }
+   [61]Schrödinger equation
+     * [62]Introduction
+     * [63]Glossary
+     * [64]History
+
+   Background
+     * [65]Classical mechanics
+     * [66]Old quantum theory
+     * [67]Bra–ket notation
+
+     * [68]Hamiltonian
+     * [69]Interference
+
+   Fundamentals
+     * [70]Complementarity
+     * [71]Decoherence
+     * [72]Entanglement
+     * [73]Energy level
+     * [74]Measurement
+     * [75]Nonlocality
+     * [76]Quantum number
+     * [77]State
+     * [78]Superposition
+     * [79]Symmetry
+     * [80]Tunnelling
+     * [81]Uncertainty
+     * [82]Wave function
+          + [83]Collapse
+
+   Experiments
+     * [84]Bell's inequality
+     * [85]CHSH inequality
+     * [86]Davisson–Germer
+     * [87]Double-slit
+     * [88]Elitzur–Vaidman
+     * [89]Franck–Hertz
+     * [90]Leggett inequality
+     * [91]Leggett–Garg inequality
+     * [92]Mach–Zehnder
+     * [93]Popper
+
+     * [94]Quantum eraser
+          + [95]Delayed-choice
+
+     * [96]Schrödinger's cat
+     * [97]Stern–Gerlach
+     * [98]Wheeler's delayed-choice
+
+   Formulations
+     * [99]Overview
+
+     * [100]Heisenberg
+     * [101]Interaction
+     * [102]Matrix
+     * [103]Phase-space
+     * [104]Schrödinger
+     * [105]Sum-over-histories (path integral)
+
+   Equations
+     * [106]Dirac
+     * [107]Klein–Gordon
+     * [108]Pauli
+     * [109]Rydberg
+     * [110]Schrödinger
+
+   [111]Interpretations
+     * [112]Bayesian
+     * [113]Consistent histories
+     * [114]Copenhagen
+     * [115]de Broglie–Bohm
+     * [116]Ensemble
+     * [117]Hidden-variable
+          + [118]Local
+               o [119]Superdeterminism
+     * [120]Many-worlds
+     * [121]Objective-collapse
+     * [122]Quantum logic
+     * [123]Relational
+     * [124]Transactional
+     * [125]Von Neumann–Wigner
+
+   Advanced topics
+     * [126]Relativistic quantum mechanics
+     * [127]Quantum field theory
+     * [128]Quantum information science
+     * [129]Quantum computing
+     * [130]Quantum chaos
+     * [131]EPR paradox
+     * [132]Density matrix
+     * [133]Scattering theory
+     * [134]Quantum statistical mechanics
+     * [135]Quantum machine learning
+
+   Scientists
+     * [136]Aharonov
+     * [137]Bell
+     * [138]Bethe
+     * [139]Blackett
+     * [140]Bloch
+     * [141]Bohm
+     * [142]Bohr
+     * [143]Born
+     * [144]Bose
+     * [145]de Broglie
+     * [146]Compton
+     * [147]Dirac
+     * [148]Davisson
+     * [149]Debye
+     * [150]Ehrenfest
+     * [151]Einstein
+     * [152]Everett
+     * [153]Fock
+     * [154]Fermi
+     * [155]Feynman
+     * [156]Glauber
+     * [157]Gutzwiller
+     * [158]Heisenberg
+     * [159]Hilbert
+     * [160]Jordan
+     * [161]Kramers
+     * [162]Lamb
+     * [163]Landau
+     * [164]Laue
+     * [165]Moseley
+     * [166]Millikan
+     * [167]Onnes
+     * [168]Pauli
+     * [169]Planck
+     * [170]Rabi
+     * [171]Raman
+     * [172]Rydberg
+     * [173]Schrödinger
+     * [174]Simmons
+     * [175]Sommerfeld
+     * [176]von Neumann
+     * [177]Weyl
+     * [178]Wien
+     * [179]Wigner
+     * [180]Zeeman
+     * [181]Zeilinger
+
+     * [182]v
+     * [183]t
+     * [184]e
+
+   In a [185]quantum field theory with [186]fermions, (−1)^F is a
+   [187]unitary, [188]Hermitian, [189]involutive [190]operator where F is
+   the [191]fermion [192]number operator. For the example of particles in
+   the [193]Standard Model, it is equal to the sum of the lepton number
+   plus the baryon number, F = B + L. The action of this operator is to
+   multiply [194]bosonic states by 1 and [195]fermionic states by −1. This
+   is always a global [196]internal symmetry of any quantum field theory
+   with fermions and corresponds to a rotation by 2π. This splits the
+   [197]Hilbert space into two [198]superselection sectors. Bosonic
+   operators [199]commute with (−1)^F whereas fermionic operators
+   [200]anticommute with it.^[201][1]
+
+   This operator really shows its utility in [202]supersymmetric
+   theories.^[203][1] [204]Its trace is the [205]spectral asymmetry of the
+   fermion spectrum, and can be understood physically as the [206]Casimir
+   effect.
+
+See also
+
+   [[207]edit]
+
+     * [208]Parity (physics)
+     * [209]Primon gas
+     * [210]Möbius function
+
+References
+
+   [[211]edit]
+
+    1. ^ [212]^a [213]^b Terning, John (2006). [214]Modern
+       Supersymmetry:Dynamics and Duality: Dynamics and Duality. New York:
+       [215]Oxford University Press. [216]ISBN [217]0-19-856763-4.
+
+Further reading
+
+   [[218]edit]
+
+     *
+
+   [219]Shifman, Mikhail A. (2012). [220]Advanced Topics in Quantum Field
+   Theory: A Lecture Course. Cambridge: Cambridge University Press.
+   [221]ISBN [222]978-0-521-19084-8.
+
+     Ibáñez, Luis E.; Uranga, Angel M. (2012). [223]String Theory and
+   Particle Physics: An Introduction to String Phenomenology. Cambridge:
+   Cambridge University Press. [224]ISBN [225]978-0-521-51752-2.
+
+     Bastianelli, Fiorenzo (2006). [226]Path Integrals and Anomalies in
+   Curved Space. Cambridge: Cambridge University Press.
+   [227]ISBN [228]978-0-521-84761-2.
+
+   Retrieved from
+   "[229]https://en.wikipedia.org/w/index.php?title=(−1)F&oldid=1236052069
+   "
+
+   [230]Categories:
+     * [231]Quantum field theory
+     * [232]Supersymmetric quantum field theory
+     * [233]Fermions
+
+   Hidden categories:
+     * [234]Articles with short description
+     * [235]Short description matches Wikidata
+     * [236]Articles lacking in-text citations from February 2013
+     * [237]All articles lacking in-text citations
+
+     * This page was last edited on 22 July 2024, at 16:43 (UTC).
+     * Text is available under the [238]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [239]Terms of Use and
+       [240]Privacy Policy. Wikipedia® is a registered trademark of the
+       [241]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [242]Privacy policy
+     * [243]About Wikipedia
+     * [244]Disclaimers
+     * [245]Contact Wikipedia
+     * [246]Code of Conduct
+     * [247]Developers
+     * [248]Statistics
+     * [249]Cookie statement
+     * [250]Mobile view
+
+     * [251]Wikimedia Foundation
+     * [252]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/(−1)F
+   2. file:///w/index.php?title=(−1)F&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXX7i6133/L40131-9113TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=(−1)F
+  21. file:///w/index.php?title=Special:UserLogin&returnto=(−1)F
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=(−1)F
+  24. file:///w/index.php?title=Special:UserLogin&returnto=(−1)F
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXX7i6133/L40131-9113TMP.html
+  29. file:///tmp/lynxXXXX7i6133/L40131-9113TMP.html#See_also
+  30. file:///tmp/lynxXXXX7i6133/L40131-9113TMP.html#References
+  31. file:///tmp/lynxXXXX7i6133/L40131-9113TMP.html#Further_reading
+  32. https://pt.wikipedia.org/wiki/(-1)F
+  33. https://www.wikidata.org/wiki/Special:EntityPage/Q4544968#sitelinks-wikipedia
+  34. file:///wiki/(−1)F
+  35. file:///wiki/Talk:(−1)F
+  36. file:///wiki/(−1)F
+  37. file:///w/index.php?title=(−1)F&action=edit
+  38. file:///w/index.php?title=(−1)F&action=history
+  39. file:///wiki/(−1)F
+  40. file:///w/index.php?title=(−1)F&action=edit
+  41. file:///w/index.php?title=(−1)F&action=history
+  42. file:///wiki/Special:WhatLinksHere/(−1)F
+  43. file:///wiki/Special:RecentChangesLinked/(−1)F
+  44. file:///wiki/Wikipedia:File_Upload_Wizard
+  45. file:///wiki/Special:SpecialPages
+  46. file:///w/index.php?title=(−1)F&oldid=1236052069
+  47. file:///w/index.php?title=(−1)F&action=info
+  48. file:///w/index.php?title=Special:CiteThisPage&page=(−1)F&id=1236052069&wpFormIdentifier=titleform
+  49. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/(%E2%88%921)F
+  50. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/(%E2%88%921)F
+  51. file:///w/index.php?title=Special:DownloadAsPdf&page=(−1)F&action=show-download-screen
+  52. file:///w/index.php?title=(−1)F&printable=yes
+  53. https://www.wikidata.org/wiki/Special:EntityPage/Q4544968
+  54. file:///w/index.php?title=(-1)F&redirect=no
+  55. file:///wiki/Wikipedia:Citing_sources#General_references
+  56. file:///wiki/Wikipedia:Citing_sources#Inline_citations
+  57. file:///wiki/Wikipedia:WikiProject_Reliability
+  58. file:///wiki/Wikipedia:When_to_cite
+  59. file:///wiki/Help:Maintenance_template_removal
+  60. file:///wiki/Quantum_mechanics
+  61. file:///wiki/Schrödinger_equation
+  62. file:///wiki/Introduction_to_quantum_mechanics
+  63. file:///wiki/Glossary_of_elementary_quantum_mechanics
+  64. file:///wiki/History_of_quantum_mechanics
+  65. file:///wiki/Classical_mechanics
+  66. file:///wiki/Old_quantum_theory
+  67. file:///wiki/Bra–ket_notation
+  68. file:///wiki/Hamiltonian_(quantum_mechanics)
+  69. file:///wiki/Wave_interference
+  70. file:///wiki/Complementarity_(physics)
+  71. file:///wiki/Quantum_decoherence
+  72. file:///wiki/Quantum_entanglement
+  73. file:///wiki/Energy_level
+  74. file:///wiki/Measurement_in_quantum_mechanics
+  75. file:///wiki/Quantum_nonlocality
+  76. file:///wiki/Quantum_number
+  77. file:///wiki/Quantum_state
+  78. file:///wiki/Quantum_superposition
+  79. file:///wiki/Symmetry_in_quantum_mechanics
+  80. file:///wiki/Quantum_tunnelling
+  81. file:///wiki/Uncertainty_principle
+  82. file:///wiki/Wave_function
+  83. file:///wiki/Wave_function_collapse
+  84. file:///wiki/Bell_test
+  85. file:///wiki/CHSH_inequality
+  86. file:///wiki/Davisson–Germer_experiment
+  87. file:///wiki/Double-slit_experiment
+  88. file:///wiki/Elitzur–Vaidman_bomb_tester
+  89. file:///wiki/Franck–Hertz_experiment
+  90. file:///wiki/Leggett_inequality
+  91. file:///wiki/Leggett–Garg_inequality
+  92. file:///wiki/Mach–Zehnder_interferometer
+  93. file:///wiki/Popper's_experiment
+  94. file:///wiki/Quantum_eraser_experiment
+  95. file:///wiki/Delayed-choice_quantum_eraser
+  96. file:///wiki/Schrödinger's_cat
+  97. file:///wiki/Stern–Gerlach_experiment
+  98. file:///wiki/Wheeler's_delayed-choice_experiment
+  99. file:///wiki/Mathematical_formulation_of_quantum_mechanics
+ 100. file:///wiki/Heisenberg_picture
+ 101. file:///wiki/Interaction_picture
+ 102. file:///wiki/Matrix_mechanics
+ 103. file:///wiki/Phase-space_formulation
+ 104. file:///wiki/Schrödinger_picture
+ 105. file:///wiki/Path_integral_formulation
+ 106. file:///wiki/Dirac_equation
+ 107. file:///wiki/Klein–Gordon_equation
+ 108. file:///wiki/Pauli_equation
+ 109. file:///wiki/Rydberg_formula
+ 110. file:///wiki/Schrödinger_equation
+ 111. file:///wiki/Interpretations_of_quantum_mechanics
+ 112. file:///wiki/Quantum_Bayesianism
+ 113. file:///wiki/Consistent_histories
+ 114. file:///wiki/Copenhagen_interpretation
+ 115. file:///wiki/De_Broglie–Bohm_theory
+ 116. file:///wiki/Ensemble_interpretation
+ 117. file:///wiki/Hidden-variable_theory
+ 118. file:///wiki/Local_hidden-variable_theory
+ 119. file:///wiki/Superdeterminism
+ 120. file:///wiki/Many-worlds_interpretation
+ 121. file:///wiki/Objective-collapse_theory
+ 122. file:///wiki/Quantum_logic
+ 123. file:///wiki/Relational_quantum_mechanics
+ 124. file:///wiki/Transactional_interpretation
+ 125. file:///wiki/Von_Neumann–Wigner_interpretation
+ 126. file:///wiki/Relativistic_quantum_mechanics
+ 127. file:///wiki/Quantum_field_theory
+ 128. file:///wiki/Quantum_information_science
+ 129. file:///wiki/Quantum_computing
+ 130. file:///wiki/Quantum_chaos
+ 131. file:///wiki/Einstein–Podolsky–Rosen_paradox
+ 132. file:///wiki/Density_matrix
+ 133. file:///wiki/Scattering_theory
+ 134. file:///wiki/Quantum_statistical_mechanics
+ 135. file:///wiki/Quantum_machine_learning
+ 136. file:///wiki/Yakir_Aharonov
+ 137. file:///wiki/John_Stewart_Bell
+ 138. file:///wiki/Hans_Bethe
+ 139. file:///wiki/Patrick_Blackett
+ 140. file:///wiki/Felix_Bloch
+ 141. file:///wiki/David_Bohm
+ 142. file:///wiki/Niels_Bohr
+ 143. file:///wiki/Max_Born
+ 144. file:///wiki/Satyendra_Nath_Bose
+ 145. file:///wiki/Louis_de_Broglie
+ 146. file:///wiki/Arthur_Compton
+ 147. file:///wiki/Paul_Dirac
+ 148. file:///wiki/Clinton_Davisson
+ 149. file:///wiki/Peter_Debye
+ 150. file:///wiki/Paul_Ehrenfest
+ 151. file:///wiki/Albert_Einstein
+ 152. file:///wiki/Hugh_Everett_III
+ 153. file:///wiki/Vladimir_Fock
+ 154. file:///wiki/Enrico_Fermi
+ 155. file:///wiki/Richard_Feynman
+ 156. file:///wiki/Roy_J._Glauber
+ 157. file:///wiki/Martin_Gutzwiller
+ 158. file:///wiki/Werner_Heisenberg
+ 159. file:///wiki/David_Hilbert
+ 160. file:///wiki/Pascual_Jordan
+ 161. file:///wiki/Hans_Kramers
+ 162. file:///wiki/Willis_Lamb
+ 163. file:///wiki/Lev_Landau
+ 164. file:///wiki/Max_von_Laue
+ 165. file:///wiki/Henry_Moseley
+ 166. file:///wiki/Robert_Andrews_Millikan
+ 167. file:///wiki/Heike_Kamerlingh_Onnes
+ 168. file:///wiki/Wolfgang_Pauli
+ 169. file:///wiki/Max_Planck
+ 170. file:///wiki/Isidor_Isaac_Rabi
+ 171. file:///wiki/C._V._Raman
+ 172. file:///wiki/Johannes_Rydberg
+ 173. file:///wiki/Erwin_Schrödinger
+ 174. file:///wiki/Michelle_Simmons
+ 175. file:///wiki/Arnold_Sommerfeld
+ 176. file:///wiki/John_von_Neumann
+ 177. file:///wiki/Hermann_Weyl
+ 178. file:///wiki/Wilhelm_Wien
+ 179. file:///wiki/Eugene_Wigner
+ 180. file:///wiki/Pieter_Zeeman
+ 181. file:///wiki/Anton_Zeilinger
+ 182. file:///wiki/Template:Quantum_mechanics
+ 183. file:///wiki/Template_talk:Quantum_mechanics
+ 184. file:///wiki/Special:EditPage/Template:Quantum_mechanics
+ 185. file:///wiki/Quantum_field_theory
+ 186. file:///wiki/Fermion
+ 187. file:///wiki/Unitary_operator
+ 188. file:///wiki/Hermitian_operator
+ 189. file:///wiki/Involution_(mathematics)
+ 190. file:///wiki/Operator_(mathematics)
+ 191. file:///wiki/Fermion
+ 192. file:///wiki/Number_operator
+ 193. file:///wiki/Standard_Model
+ 194. file:///wiki/Boson
+ 195. file:///wiki/Fermion
+ 196. file:///wiki/Internal_symmetry
+ 197. file:///wiki/Hilbert_space
+ 198. file:///wiki/Superselection_sector
+ 199. file:///wiki/Commutativity
+ 200. file:///wiki/Anticommute
+ 201. file:///tmp/lynxXXXX7i6133/L40131-9113TMP.html#cite_note-terning-1
+ 202. file:///wiki/Supersymmetry
+ 203. file:///tmp/lynxXXXX7i6133/L40131-9113TMP.html#cite_note-terning-1
+ 204. file:///wiki/Witten_index
+ 205. file:///wiki/Spectral_asymmetry
+ 206. file:///wiki/Casimir_effect
+ 207. file:///w/index.php?title=(−1)F&action=edit&section=1
+ 208. file:///wiki/Parity_(physics)
+ 209. file:///wiki/Primon_gas
+ 210. file:///wiki/Möbius_function
+ 211. file:///w/index.php?title=(−1)F&action=edit&section=2
+ 212. file:///tmp/lynxXXXX7i6133/L40131-9113TMP.html#cite_ref-terning_1-0
+ 213. file:///tmp/lynxXXXX7i6133/L40131-9113TMP.html#cite_ref-terning_1-1
+ 214. https://books.google.com/books?id=1JMf-fcnOHYC&q=fermion+"(-1)F"&pg=PA5
+ 215. file:///wiki/Oxford_University_Press
+ 216. file:///wiki/ISBN_(identifier)
+ 217. file:///wiki/Special:BookSources/0-19-856763-4
+ 218. file:///w/index.php?title=(−1)F&action=edit&section=3
+ 219. file:///wiki/Mikhail_A._Shifman
+ 220. https://books.google.com/books?id=zeQuWycXV3oC&q=fermion+"(-1)F"&pg=PA581
+ 221. file:///wiki/ISBN_(identifier)
+ 222. file:///wiki/Special:BookSources/978-0-521-19084-8
+ 223. https://books.google.com/books?id=vAUUu6DpVkUC&q=fermion+"(-1)F"&pg=PA111
+ 224. file:///wiki/ISBN_(identifier)
+ 225. file:///wiki/Special:BookSources/978-0-521-51752-2
+ 226. https://books.google.com/books?id=HxpBObJ8roEC&q="(-1)F"&pg=PA278
+ 227. file:///wiki/ISBN_(identifier)
+ 228. file:///wiki/Special:BookSources/978-0-521-84761-2
+ 229. https://en.wikipedia.org/w/index.php?title=(−1)F&oldid=1236052069
+ 230. file:///wiki/Help:Category
+ 231. file:///wiki/Category:Quantum_field_theory
+ 232. file:///wiki/Category:Supersymmetric_quantum_field_theory
+ 233. file:///wiki/Category:Fermions
+ 234. file:///wiki/Category:Articles_with_short_description
+ 235. file:///wiki/Category:Short_description_matches_Wikidata
+ 236. file:///wiki/Category:Articles_lacking_in-text_citations_from_February_2013
+ 237. file:///wiki/Category:All_articles_lacking_in-text_citations
+ 238. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 239. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 240. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 241. https://wikimediafoundation.org/
+ 242. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 243. file:///wiki/Wikipedia:About
+ 244. file:///wiki/Wikipedia:General_disclaimer
+ 245. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 246. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 247. https://developer.wikimedia.org/
+ 248. https://stats.wikimedia.org/#/en.wikipedia.org
+ 249. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 250. file://en.m.wikipedia.org/w/index.php?title=(−1)F&mobileaction=toggle_view_mobile
+ 251. https://wikimediafoundation.org/
+ 252. https://www.mediawiki.org/

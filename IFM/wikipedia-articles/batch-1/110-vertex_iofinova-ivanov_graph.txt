@@ -1,0 +1,396 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Properties
+       (BUTTON) Toggle Properties subsection
+          + [30]1.1 Coloring
+          + [31]1.2 Algebraic properties
+     * [32]2 Semi-symmetry
+     * [33]3 References
+     * [34]4 Bibliography
+
+   [ ] Toggle the table of contents
+
+110-vertex Iofinova–Ivanov graph
+
+   [ ] 2 languages
+     * [35]Français
+     * [36]Русский
+
+   [37]Edit links
+
+     * [38]Article
+     * [39]Talk
+
+   [ ] English
+
+     * [40]Read
+     * [41]Edit
+     * [42]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [43]Read
+     * [44]Edit
+     * [45]View history
+
+   General
+     * [46]What links here
+     * [47]Related changes
+     * [48]Upload file
+     * [49]Special pages
+     * [50]Permanent link
+     * [51]Page information
+     * [52]Cite this page
+     * [53]Get shortened URL
+     * [54]Download QR code
+
+   Print/export
+     * [55]Download as PDF
+     * [56]Printable version
+
+   In other projects
+     * [57]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [58]110-vertex Iofinova-Ivanov graph)
+   Semi-symmetric cubic graph with 110 vertices and 165 edges
+   110-vertex Iofinova–Ivanov graph
+   [59][220px-110_vertex_Iofinova_Ivanov_graph.svg.png]
+   [60]Vertices 110
+   [61]Edges 165
+   [62]Radius 7
+   [63]Diameter 7
+   [64]Girth 10
+   [65]Automorphisms 1320 (PGL[2](11))
+   [66]Chromatic number 2
+   [67]Chromatic index 3
+   Properties [68]semi-symmetric
+   [69]bipartite
+   [70]cubic
+   [71]Hamiltonian
+   [72]Table of graphs and parameters
+
+   The 110-vertex Iofinova–Ivanov graph is, in [73]graph theory, a
+   [74]semi-symmetric [75]cubic graph with 110 vertices and 165 edges.
+
+Properties
+
+   [[76]edit]
+
+   Iofinova and Ivanov proved in 1985 the existence of five and only five
+   semi-symmetric cubic bipartite graphs whose automorphism groups act
+   [77]primitively on each partition.^[78][1] The smallest has 110
+   vertices. The others have 126, 182, 506 and 990.^[79][2] The 126-vertex
+   Iofinova–Ivanov graph is also known as the [80]Tutte 12-cage.
+
+   The [81]diameter of the 110-vertex Iofinova–Ivanov graph, the greatest
+   distance between any pair of vertices, is 7. Its radius is likewise 7.
+   Its [82]girth is 10.
+
+   It is [83]3-connected and 3-edge-connected: to make it disconnected at
+   least three edges, or at least three vertices, must be removed.
+
+Coloring
+
+   [[84]edit]
+
+   The [85]chromatic number of the 110-vertex Iofina-Ivanov graph is 2:
+   its vertices can be 2-colored so that no two vertices of the same color
+   are joined by an edge. Its [86]chromatic index is 3: its edges can be
+   3-colored so that no two edges of the same color met at a vertex.
+
+Algebraic properties
+
+   [[87]edit]
+
+   The [88]characteristic polynomial of the 110-vertex Iofina-Ivanov graph
+   is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>x</mi> <mo>−</mo> <mn>3</mn> <mo stretchy="false">)</mo> <msup>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>20</mn> </mrow> </msup>
+   <mo stretchy="false">(</mo> <mi>x</mi> <mo>+</mo> <mn>3</mn> <mo
+   stretchy="false">)</mo> <mo stretchy="false">(</mo> <msup> <mi>x</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> <mo>−</mo>
+   <mn>8</mn> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mo>+</mo> <mn>11</mn> <msup> <mo
+   stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mn>12</mn>
+   </mrow> </msup> <mo stretchy="false">(</mo> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> <mo>−</mo>
+   <mn>6</mn> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mo>+</mo> <mn>6</mn> <msup> <mo
+   stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mn>10</mn>
+   </mrow> </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   (x-3)x^{20}(x+3)(x^{4}-8x^{2}+11)^{12}(x^{4}-6x^{2}+6)^{10}}</annotatio
+   n> </semantics> :MATH]
+   {\displaystyle
+   (x-3)x^{20}(x+3)(x^{4}-8x^{2}+11)^{12}(x^{4}-6x^{2}+6)^{10}} . The
+   symmetry group of the 110-vertex Iofina-Ivanov is the [89]projective
+   linear group PGL[2](11), with 1320 elements.^[90][3]
+
+Semi-symmetry
+
+   [[91]edit]
+
+   Few graphs show semi-symmetry: most edge-transitive graphs are also
+   vertex-transitive. The smallest semi-symmetric graph is the [92]Folkman
+   graph, with 20 vertices, which is 4-regular. The three smallest cubic
+   semi-symmetric graphs are the [93]Gray graph, with 54 vertices, this
+   the smallest of the Iofina-Ivanov graphs with 110, and the
+   [94]Ljubljana graph with 112.^[95][4]^[96][5] It is only for the five
+   Iofina-Ivanov graphs that the symmetry group acts primitively on each
+   partition of the vertices.
+
+References
+
+   [[97]edit]
+    1. [98]^ Han and Lu. [99]"Affine primitive groups and Semisymmetric
+       graphs". combinatorics.org. Retrieved 12 August 2015.
+    2. [100]^ Weisstein, Eric. [101]"Iofinova-Ivanov Graphs". Wolfram
+       MathWorld. Wolfram. Retrieved 11 August 2015.
+    3. [102]^ Iofinova and Ivanov (2013). [103]Investigations in Algebraic
+       Theory of Combinatorial Objects. Springer. p. 470.
+       [104]ISBN [105]9789401719728. Retrieved 12 August 2015.
+    4. [106]^ [107]Conder, M.; Malnič, A.; [108]Marušič, D.;
+       [109]Pisanski, T.; Potočnik, P. (2002), [110]"The Ljubljana Graph"
+       (PDF), IMFM Preprints, vol. 40, no. 845, Ljubljana: Institute of
+       Mathematics, Physics and Mechanics
+    5. [111]^ [112]Conder, Marston; Malnič, Aleksander; [113]Marušič,
+       Dragan; Potočnik, Primož (2006), "A census of semisymmetric cubic
+       graphs on up to 768 vertices", Journal of Algebraic Combinatorics,
+       23 (3): 255–294, [114]doi:[115]10.1007/s10801-006-7397-3.
+
+Bibliography
+
+   [[116]edit]
+     * Iofinova, M. E. and Ivanov, A. A. Bi-Primitive Cubic Graphs. In
+       Investigations in the Algebraic Theory of Combinatorial Objects.
+       pp. 123–134, 2002. (Vsesoyuz. Nauchno-Issled. Inst. Sistem.
+       Issled., Moscow, pp. 137–152, 1985.)
+     * Ivanov, A. A. Computation of Lengths of Orbits of a Subgroup in a
+       Transitive Permutation Group. In Methods for Complex System
+       Studies. Moscow: VNIISI, pp. 3–7, 1983.
+     * Ivanov, A. V. On Edge But Not Vertex Transitive Regular Graphs. In
+       Combinatorial Design Theory (Ed. C. J. Colbourn and R. Mathon).
+       Amsterdam, Netherlands: North-Holland, pp. 273–285, 1987.
+
+   Retrieved from
+   "[117]https://en.wikipedia.org/w/index.php?title=110-vertex_Iofinova–Iv
+   anov_graph&oldid=1236308604"
+   [118]Categories:
+     * [119]Individual graphs
+     * [120]Regular graphs
+
+   Hidden categories:
+     * [121]Articles with short description
+     * [122]Short description matches Wikidata
+
+     * This page was last edited on 24 July 2024, at 00:39 (UTC).
+     * Text is available under the [123]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [124]Terms of Use and
+       [125]Privacy Policy. Wikipedia® is a registered trademark of the
+       [126]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [127]Privacy policy
+     * [128]About Wikipedia
+     * [129]Disclaimers
+     * [130]Contact Wikipedia
+     * [131]Code of Conduct
+     * [132]Developers
+     * [133]Statistics
+     * [134]Cookie statement
+     * [135]Mobile view
+
+     * [136]Wikimedia Foundation
+     * [137]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/110-vertex_Iofinova–Ivanov_graph
+   2. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=110-vertex+Iofinova–Ivanov+graph
+  21. file:///w/index.php?title=Special:UserLogin&returnto=110-vertex+Iofinova–Ivanov+graph
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=110-vertex+Iofinova–Ivanov+graph
+  24. file:///w/index.php?title=Special:UserLogin&returnto=110-vertex+Iofinova–Ivanov+graph
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html
+  29. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#Properties
+  30. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#Coloring
+  31. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#Algebraic_properties
+  32. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#Semi-symmetry
+  33. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#References
+  34. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#Bibliography
+  35. https://fr.wikipedia.org/wiki/110-graphe_de_Iofinova-Ivanov
+  36. https://ru.wikipedia.org/wiki/110-вершинный_граф_Иванова_—_Иофиновой
+  37. https://www.wikidata.org/wiki/Special:EntityPage/Q2806925#sitelinks-wikipedia
+  38. file:///wiki/110-vertex_Iofinova–Ivanov_graph
+  39. file:///wiki/Talk:110-vertex_Iofinova–Ivanov_graph
+  40. file:///wiki/110-vertex_Iofinova–Ivanov_graph
+  41. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=edit
+  42. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=history
+  43. file:///wiki/110-vertex_Iofinova–Ivanov_graph
+  44. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=edit
+  45. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=history
+  46. file:///wiki/Special:WhatLinksHere/110-vertex_Iofinova–Ivanov_graph
+  47. file:///wiki/Special:RecentChangesLinked/110-vertex_Iofinova–Ivanov_graph
+  48. file:///wiki/Wikipedia:File_Upload_Wizard
+  49. file:///wiki/Special:SpecialPages
+  50. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&oldid=1236308604
+  51. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=info
+  52. file:///w/index.php?title=Special:CiteThisPage&page=110-vertex_Iofinova–Ivanov_graph&id=1236308604&wpFormIdentifier=titleform
+  53. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/110-vertex_Iofinova%E2%80%93Ivanov_graph
+  54. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/110-vertex_Iofinova%E2%80%93Ivanov_graph
+  55. file:///w/index.php?title=Special:DownloadAsPdf&page=110-vertex_Iofinova–Ivanov_graph&action=show-download-screen
+  56. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&printable=yes
+  57. https://www.wikidata.org/wiki/Special:EntityPage/Q2806925
+  58. file:///w/index.php?title=110-vertex_Iofinova-Ivanov_graph&redirect=no
+  59. file:///wiki/File:110_vertex_Iofinova_Ivanov_graph.svg
+  60. file:///wiki/Vertex_(graph_theory)
+  61. file:///wiki/Edge_(graph_theory)
+  62. file:///wiki/Distance_(graph_theory)
+  63. file:///wiki/Diameter_(graph_theory)
+  64. file:///wiki/Girth_(graph_theory)
+  65. file:///wiki/Graph_automorphism
+  66. file:///wiki/Chromatic_number
+  67. file:///wiki/Chromatic_index
+  68. file:///wiki/Semi-symmetric_graph
+  69. file:///wiki/Bipartite_graph
+  70. file:///wiki/Cubic_graph
+  71. file:///wiki/Hamiltonian_path
+  72. file:///wiki/List_of_graphs_by_edges_and_vertices
+  73. file:///wiki/Graph_theory
+  74. file:///wiki/Semi-symmetric_graph
+  75. file:///wiki/Cubic_graph
+  76. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=edit&section=1
+  77. file:///wiki/Primitive_permutation_group
+  78. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_note-1
+  79. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_note-wolfram-2
+  80. file:///wiki/Tutte_12-cage
+  81. file:///wiki/Distance_(graph_theory)#Related_concepts
+  82. file:///wiki/Girth_(graph_theory)
+  83. file:///wiki/Connectivity_(graph_theory)#Definitions_of_components.2C_cuts_and_connectivity
+  84. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=edit&section=2
+  85. file:///wiki/Graph_coloring#Definition_and_terminology
+  86. file:///wiki/Edge_coloring
+  87. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=edit&section=3
+  88. file:///wiki/Characteristic_polynomial
+  89. file:///wiki/Projective_linear_group
+  90. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_note-3
+  91. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=edit&section=4
+  92. file:///wiki/Folkman_graph
+  93. file:///wiki/Gray_graph
+  94. file:///wiki/Ljubljana_graph
+  95. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_note-LUB-4
+  96. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_note-5
+  97. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=edit&section=5
+  98. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_ref-1
+  99. http://www.combinatorics.org/ojs/index.php/eljc/article/viewFile/v20i2p39/pdf
+ 100. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_ref-wolfram_2-0
+ 101. http://mathworld.wolfram.com/Iofinova-IvanovGraphs.html
+ 102. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_ref-3
+ 103. https://books.google.com/books?id=NVDqCAAAQBAJ&q=Iofinova+graph&pg=PA470
+ 104. file:///wiki/ISBN_(identifier)
+ 105. file:///wiki/Special:BookSources/9789401719728
+ 106. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_ref-LUB_4-0
+ 107. file:///wiki/Marston_Conder
+ 108. file:///wiki/Dragan_Marušič
+ 109. file:///wiki/Tomaž_Pisanski
+ 110. http://www.imfm.si/preprinti/PDF/00845.pdf
+ 111. file:///tmp/lynxXXXXtDXZ2a/L64993-3545TMP.html#cite_ref-5
+ 112. file:///wiki/Marston_Conder
+ 113. file:///wiki/Dragan_Marušič
+ 114. file:///wiki/Doi_(identifier)
+ 115. https://doi.org/10.1007/s10801-006-7397-3
+ 116. file:///w/index.php?title=110-vertex_Iofinova–Ivanov_graph&action=edit&section=6
+ 117. https://en.wikipedia.org/w/index.php?title=110-vertex_Iofinova–Ivanov_graph&oldid=1236308604
+ 118. file:///wiki/Help:Category
+ 119. file:///wiki/Category:Individual_graphs
+ 120. file:///wiki/Category:Regular_graphs
+ 121. file:///wiki/Category:Articles_with_short_description
+ 122. file:///wiki/Category:Short_description_matches_Wikidata
+ 123. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 124. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 125. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 126. https://wikimediafoundation.org/
+ 127. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 128. file:///wiki/Wikipedia:About
+ 129. file:///wiki/Wikipedia:General_disclaimer
+ 130. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 131. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 132. https://developer.wikimedia.org/
+ 133. https://stats.wikimedia.org/#/en.wikipedia.org
+ 134. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 135. file://en.m.wikipedia.org/w/index.php?title=110-vertex_Iofinova–Ivanov_graph&mobileaction=toggle_view_mobile
+ 136. https://wikimediafoundation.org/
+ 137. https://www.mediawiki.org/

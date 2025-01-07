@@ -1,0 +1,787 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Operation
+       (BUTTON) Toggle Operation subsection
+          + [30]1.1 mobiForge
+     * [31]2 Reception
+     * [32]3 See also
+     * [33]4 References
+     * [34]5 External links
+
+   [ ] Toggle the table of contents
+
+.mobi
+
+   [ ] 39 languages
+     * [35]العربية
+     * [36]Asturianu
+     * [37]Беларуская
+     * [38]Беларуская (тарашкевіца)
+     * [39]Български
+     * [40]Català
+     * [41]Čeština
+     * [42]Dansk
+     * [43]Deutsch
+     * [44]Eesti
+     * [45]Emiliàn e rumagnòl
+     * [46]Español
+     * [47]Euskara
+     * [48]فارسی
+     * [49]Français
+     * [50]한국어
+     * [51]Hrvatski
+     * [52]Bahasa Indonesia
+     * [53]Italiano
+     * [54]Lombard
+     * [55]Magyar
+     * [56]مازِرونی
+     * [57]Nederlands
+     * [58]日本語
+     * [59]Нохчийн
+     * [60]Norsk bokmål
+     * [61]Occitan
+     * [62]Polski
+     * [63]Română
+     * [64]Русский
+     * [65]Саха тыла
+     * [66]Suomi
+     * [67]Svenska
+     * [68]Türkçe
+     * [69]Українська
+     * [70]اردو
+     * [71]Võro
+     * [72]Zazaki
+     * [73]中文
+
+   [74]Edit links
+
+     * [75]Article
+     * [76]Talk
+
+   [ ] English
+
+     * [77]Read
+     * [78]Edit
+     * [79]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [80]Read
+     * [81]Edit
+     * [82]View history
+
+   General
+     * [83]What links here
+     * [84]Related changes
+     * [85]Upload file
+     * [86]Special pages
+     * [87]Permanent link
+     * [88]Page information
+     * [89]Cite this page
+     * [90]Get shortened URL
+     * [91]Download QR code
+
+   Print/export
+     * [92]Download as PDF
+     * [93]Printable version
+
+   In other projects
+     * [94]Wikimedia Commons
+     * [95]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   This article is about the top-level domain. For the file extension, see
+   [96]Mobipocket. For other uses, see [97]Mobi.
+   Internet top-level domain
+
+   CAPTION: mobi
+
+   [98][180px-DotMobi.png]
+   Introduced 2005; 20 years ago (2005)
+   [99]TLD type [100]Generic top-level domain
+   Status Active
+   [101]Registry dotMobi (subsidiary of [102]Afilias)
+   Sponsor None
+   Intended use Mobile content providers
+   Actual use Mobile products and services websites
+   Registration restrictions None. Adherence to [103]mobile-first style
+   guidelines recommended.
+   Structure Registrations are conducted at second level.
+   Documents [104]ICANN Registry Agreement
+   Dispute policies [105]UDRP
+   [106]DNSSEC Yes
+   Registry website [107]dotMobi.mobi
+
+   The domain name mobi is a [108]generic top-level domain (gTLD) in the
+   [109]Domain Name System (DNS) of the [110]Internet. The name is short
+   for mobile.
+
+   The domain was approved by [111]ICANN on 11 July 2005, and is managed
+   by the mTLD global registry. It was originally financially backed and
+   sponsored by [112]Google, [113]Microsoft, [114]Nokia, [115]Samsung,
+   [116]Ericsson, [117]Vodafone, [118]T-Mobile, [119]Telefónica Móviles,
+   [120]Telecom Italia Mobile, [121]Orascom Telecom, [122]GSM Association,
+   [123]Hutchison Whampoa, [124]Syniverse Technologies, and [125]Visa,
+   with an executive from each company serving on mTLD's board of
+   directors.^[126][1] In February 2010, [127]Afilias acquired mTLD
+   Top-Level Domain Ltd. (known publicly as "dotMobi").^[128][2] In March
+   2017, .mobi became an unsponsored generic top-level domain, using the
+   same terms offered to [129]new gTLDs.^[130][3]
+
+Operation
+
+   [[131]edit]
+
+   DotMobi domain names have been available for registration by the public
+   since 26 September 2006.
+
+   dotMobi engaged with the [132]W3C Mobile Web Initiative (MWI) to help
+   formulate the MWI Best Practices for mobile content. The practices
+   outlined a number of ways to achieve good user experiences on mobile
+   Web-enabled devices, and recognized several methods of implementing
+   these practices.
+
+   mTLD has released a free testing tool called Ready.mobi (later
+   mobiForge) to analyze the mobile readiness of websites. It does a free
+   page analysis and gives a .mobi Ready score from 1 to 5. This report
+   tests the mobile-readiness of the site using dotMobi's recommended best
+   practices.
+
+   dotMobi does not itself mandate any particular technology, but does
+   recommends that .mobi sites produce user experiences consistent with
+   their guidelines and specifically optimized for mobile phones.
+
+   By 2024, the old authoritative [133]WHOIS domain for .mobi had been
+   allowed to expire, which created a vulnerability that included allowing
+   for the creation of fraudulent [134]digital certificates.^[135][4]
+
+mobiForge
+
+   [[136]edit]
+
+   "mobiForge" is a [137]mobile development and [138]design resource site
+   run dotMobi. mobiForge functions both as a platform to announce product
+   updates to the [139]developer community and [140]discussion forums for
+   each of dotMobi's products and services. mobiForge was launched in
+   November 2006 as dev.mobi. It was announced at the [141]Mobile 2.0
+   Conference in [142]San Francisco, along with the launch of ready.mobi.
+   dev.mobi underwent a major [143]redesign in September 2008 and was
+   rebranded as mobiForge and moved to mobiForge.com
+
+Reception
+
+   [[144]edit]
+
+   Originally dotMobi focused on promoting the creation of two separate
+   device-dependent [145]World Wide Webs, one desktop-based and the other
+   mobile-based. Because of this, [146]Tim-Berners Lee brought up concerns
+   of excess Internet content redundancy.^[147][5]
+
+   Providing content tailored to particular devices can be done by other
+   means than a specific TLD, such as using hostnames within an existing
+   domain, [148]HTTP [149]content negotiation, [150]cascading style
+   sheets, or other forms of adaptation. The popularization of
+   [151]responsive web design has caused the domain name to be relocated
+   for use on mobile services and [152]mobile apps websites.
+
+See also
+
+   [[153]edit]
+     * [154]icon [155]Internet portal
+
+     * [156]Mobile computing
+     * [157]Mobile apps
+     * [158]Mobile web
+
+References
+
+   [[159]edit]
+    1. [160]^ [161]"Mobile and Web Services – Afilias". Archived from
+       [162]the original on 8 February 2009. Retrieved 29 January 2008.
+    2. [163]^ [164]"Afilias Limited acquires .mobi domain registry and
+       expands market leadership". dotMobi. 11 February 2010. Archived
+       from [165]the original on 24 February 2012. Retrieved 11 April
+       2010.
+    3. [166]^ [167]"Renewal of .MOBI registry contract". ICANN. 16 March
+       2017.
+    4. [168]^ Goodin, Dan (11 September 2024). [169]"Rogue WHOIS server
+       gives researcher superpowers no one should ever have". Ars
+       Technica.
+    5. [170]^ Tim Berners Lee. [171]"New Top Level Domains .mobi and .xxx
+       Considered Harmful".
+
+External links
+
+   [[172]edit]
+     * [173]IANA .mobi whois information
+     * [174].mobi Registry Agreement with ICANN
+     * [175]mobiForge
+
+     * [176]v
+     * [177]t
+     * [178]e
+
+   Notable [179]generic top-level domains
+   Current
+   [180]General
+     * [181].bar
+     * [182].biz
+     * [183].blog
+     * [184].cam
+     * [185].cloud
+     * [186].club
+     * [187].college
+     * [188].com
+     * [189].fun
+     * [190].gay
+     * [191].gdn
+     * [192].global
+     * [193].guru
+     * [194].inc
+     * [195].info
+     * [196].kaufen
+     * [197].lgbt
+     * [198].name
+     * .mobi
+     * [199].moe
+     * [200].monster
+     * [201].net
+     * [202].ngo/.ong
+     * [203].one
+     * [204].online
+     * [205].ooo
+     * [206].org
+     * [207].pro
+     * [208].sexy
+     * [209].shop
+     * [210].site
+     * [211].tech
+     * [212].top
+     * [213].video
+     * [214].wiki
+     * [215].wtf
+     * [216].xyz
+     * [217].zip
+
+   [218]Sponsored
+     * [219].aero
+     * [220].amazon
+     * [221].app
+     * [222].art
+     * [223].bank
+     * [224].bible
+     * [225].cern
+     * [226].coop
+     * [227].design
+     * [228].dev
+     * [229].eco
+     * [230].edu
+     * [231].google
+     * [232].gov
+     * [233].hiv
+     * [234].int
+     * [235].jobs
+     * [236].kids
+     * [237].kiwi
+     * [238].kosher
+     * [239].mil
+     * [240].museum
+     * [241].post
+     * [242].radio
+     * [243].realtor
+     * [244].tel
+     * [245].travel
+     * [246].xxx
+
+   [247]Geographic
+     * [248].africa
+     * [249].alsace
+     * [250].amsterdam
+     * [251].asia
+     * [252].barcelona
+     * [253].bcn
+     * [254].berlin
+     * [255].brussels
+     * [256].bzh
+     * [257].cat
+     * [258].cymru
+     * [259].eu
+     * [260].eus
+     * [261].frl
+     * [262].gal
+     * [263].gent
+     * [264].irish
+     * [265].ist
+     * [266].istanbul
+     * [267].koeln
+     * [268].krd
+     * [269].lat
+     * [270].london
+     * [271].melbourne
+     * [272].nyc
+     * [273].paris
+     * [274].quebec
+     * [275].rio
+     * [276].saarland
+     * [277].scot
+     * [278].sydney
+     * [279].taipei
+     * [280].tokyo
+     * [281].vegas
+     * [282].vlaanderen
+     * [283].wales
+     * [284].wien
+     * [285].zuerich
+
+   Infrastructure
+     * [286].arpa
+
+   Deleted/retired
+     * [287].nato
+
+   [288]Reserved
+     * [289].example
+     * [290].internal
+     * [291].invalid
+     * [292].local
+     * [293].localhost
+     * [294].onion
+     * [295].test
+
+   [296]Proposed
+   Language and
+   nationality
+     * [297].eng
+     * [298].ker
+     * [299].nai
+     * [300].sic
+
+   Technical
+     * [301].geo
+     * [302].mail
+     * [303].web
+
+                  Other
+     * [304].kid
+     * [305].music
+
+     * [306]Category
+     * [307]Full list
+     * [308]Country code top-level domains
+
+   Retrieved from
+   "[309]https://en.wikipedia.org/w/index.php?title=.mobi&oldid=1266880073
+   "
+
+   [310]Categories:
+     * [311]Domain Name System Security Extensions
+     * [312]Generic top-level domains
+     * [313]Internet properties established in 2005
+
+   Hidden categories:
+     * [314]Articles with short description
+     * [315]Short description is different from Wikidata
+     * [316]Use dmy dates from October 2019
+
+     * This page was last edited on 2 January 2025, at 17:18 (UTC).
+     * Text is available under the [317]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [318]Terms of Use and
+       [319]Privacy Policy. Wikipedia® is a registered trademark of the
+       [320]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [321]Privacy policy
+     * [322]About Wikipedia
+     * [323]Disclaimers
+     * [324]Contact Wikipedia
+     * [325]Code of Conduct
+     * [326]Developers
+     * [327]Statistics
+     * [328]Cookie statement
+     * [329]Mobile view
+
+     * [330]Wikimedia Foundation
+     * [331]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/.mobi
+   2. file:///w/index.php?title=.mobi&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=.mobi
+  21. file:///w/index.php?title=Special:UserLogin&returnto=.mobi
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=.mobi
+  24. file:///w/index.php?title=Special:UserLogin&returnto=.mobi
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html
+  29. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#Operation
+  30. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#mobiForge
+  31. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#Reception
+  32. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#See_also
+  33. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#References
+  34. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#External_links
+  35. https://ar.wikipedia.org/wiki/.mobi
+  36. https://ast.wikipedia.org/wiki/.mobi
+  37. https://be.wikipedia.org/wiki/.mobi
+  38. https://be-tarask.wikipedia.org/wiki/.mobi
+  39. https://bg.wikipedia.org/wiki/.mobi
+  40. https://ca.wikipedia.org/wiki/.mobi
+  41. https://cs.wikipedia.org/wiki/.mobi
+  42. https://da.wikipedia.org/wiki/.mobi
+  43. https://de.wikipedia.org/wiki/.mobi
+  44. https://et.wikipedia.org/wiki/.mobi
+  45. https://eml.wikipedia.org/wiki/.mobi
+  46. https://es.wikipedia.org/wiki/.mobi
+  47. https://eu.wikipedia.org/wiki/.mobi
+  48. https://fa.wikipedia.org/wiki/.mobi
+  49. https://fr.wikipedia.org/wiki/.mobi
+  50. https://ko.wikipedia.org/wiki/.mobi
+  51. https://hr.wikipedia.org/wiki/.mobi
+  52. https://id.wikipedia.org/wiki/.mobi
+  53. https://it.wikipedia.org/wiki/.mobi
+  54. https://lmo.wikipedia.org/wiki/.mobi
+  55. https://hu.wikipedia.org/wiki/.mobi
+  56. https://mzn.wikipedia.org/wiki/.mobi
+  57. https://nl.wikipedia.org/wiki/.mobi
+  58. https://ja.wikipedia.org/wiki/.mobi
+  59. https://ce.wikipedia.org/wiki/.mobi
+  60. https://no.wikipedia.org/wiki/.mobi
+  61. https://oc.wikipedia.org/wiki/.mobi
+  62. https://pl.wikipedia.org/wiki/.mobi
+  63. https://ro.wikipedia.org/wiki/.mobi
+  64. https://ru.wikipedia.org/wiki/.mobi
+  65. https://sah.wikipedia.org/wiki/.mobi
+  66. https://fi.wikipedia.org/wiki/.mobi
+  67. https://sv.wikipedia.org/wiki/Toppdomän#Generiska_toppdomäner
+  68. https://tr.wikipedia.org/wiki/.mobi
+  69. https://uk.wikipedia.org/wiki/.mobi
+  70. https://ur.wikipedia.org/wiki/Mobi.
+  71. https://fiu-vro.wikipedia.org/wiki/.mobi
+  72. https://diq.wikipedia.org/wiki/.mobi
+  73. https://zh.wikipedia.org/wiki/.mobi
+  74. https://www.wikidata.org/wiki/Special:EntityPage/Q329702#sitelinks-wikipedia
+  75. file:///wiki/.mobi
+  76. file:///wiki/Talk:.mobi
+  77. file:///wiki/.mobi
+  78. file:///w/index.php?title=.mobi&action=edit
+  79. file:///w/index.php?title=.mobi&action=history
+  80. file:///wiki/.mobi
+  81. file:///w/index.php?title=.mobi&action=edit
+  82. file:///w/index.php?title=.mobi&action=history
+  83. file:///wiki/Special:WhatLinksHere/.mobi
+  84. file:///wiki/Special:RecentChangesLinked/.mobi
+  85. file:///wiki/Wikipedia:File_Upload_Wizard
+  86. file:///wiki/Special:SpecialPages
+  87. file:///w/index.php?title=.mobi&oldid=1266880073
+  88. file:///w/index.php?title=.mobi&action=info
+  89. file:///w/index.php?title=Special:CiteThisPage&page=.mobi&id=1266880073&wpFormIdentifier=titleform
+  90. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/.mobi
+  91. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/.mobi
+  92. file:///w/index.php?title=Special:DownloadAsPdf&page=.mobi&action=show-download-screen
+  93. file:///w/index.php?title=.mobi&printable=yes
+  94. https://commons.wikimedia.org/wiki/Category:.mobi
+  95. https://www.wikidata.org/wiki/Special:EntityPage/Q329702
+  96. file:///wiki/Mobipocket
+  97. file:///wiki/Mobi_(disambiguation)
+  98. file:///wiki/File:DotMobi.png
+  99. file:///wiki/Top-level_domain
+ 100. file:///wiki/Generic_top-level_domain
+ 101. file:///wiki/Domain_name_registry
+ 102. file:///wiki/Afilias
+ 103. file:///wiki/Mobile-first_design
+ 104. http://www.icann.org/tlds/agreements/mobi/
+ 105. file:///wiki/UDRP
+ 106. file:///wiki/DNSSEC
+ 107. http://www.dotmobi.mobi/
+ 108. file:///wiki/Generic_top-level_domain
+ 109. file:///wiki/Domain_Name_System
+ 110. file:///wiki/Internet
+ 111. file:///wiki/ICANN
+ 112. file:///wiki/Google
+ 113. file:///wiki/Microsoft
+ 114. file:///wiki/Nokia
+ 115. file:///wiki/Samsung
+ 116. file:///wiki/Ericsson
+ 117. file:///wiki/Vodafone
+ 118. file:///wiki/T-Mobile_International_AG
+ 119. file:///wiki/Telefónica_Móviles
+ 120. file:///wiki/Telecom_Italia_Mobile
+ 121. file:///wiki/Orascom_Telecom
+ 122. file:///wiki/GSM_Association
+ 123. file:///wiki/Hutchison_Whampoa
+ 124. file:///wiki/Syniverse_Technologies
+ 125. file:///wiki/Visa_Inc.
+ 126. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_note-Mobile&Web-1
+ 127. file:///wiki/Afilias
+ 128. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_note-2
+ 129. file:///wiki/Generic_top-level_domain#New_top-level_domains
+ 130. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_note-3
+ 131. file:///w/index.php?title=.mobi&action=edit&section=1
+ 132. file:///wiki/W3C
+ 133. file:///wiki/WHOIS
+ 134. file:///wiki/Digital_certificates
+ 135. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_note-4
+ 136. file:///w/index.php?title=.mobi&action=edit&section=2
+ 137. file:///wiki/Mobile_app_development
+ 138. file:///wiki/Web_design
+ 139. file:///wiki/Programmer
+ 140. file:///wiki/Discussion_forums
+ 141. file:///wiki/Mobile_2.0
+ 142. file:///wiki/San_Francisco
+ 143. file:///wiki/Redesign
+ 144. file:///w/index.php?title=.mobi&action=edit&section=3
+ 145. file:///wiki/World_Wide_Web
+ 146. file:///wiki/Tim-Berners_Lee
+ 147. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_note-dotmobi-harmful-5
+ 148. file:///wiki/HTTP
+ 149. file:///wiki/Content_negotiation
+ 150. file:///wiki/Cascading_style_sheets
+ 151. file:///wiki/Responsive_web_design
+ 152. file:///wiki/Mobile_app
+ 153. file:///w/index.php?title=.mobi&action=edit&section=4
+ 154. file:///wiki/File:Crystal_Clear_app_linneighborhood.svg
+ 155. file:///wiki/Portal:Internet
+ 156. file:///wiki/Mobile_computing
+ 157. file:///wiki/Mobile_apps
+ 158. file:///wiki/Mobile_web
+ 159. file:///w/index.php?title=.mobi&action=edit&section=5
+ 160. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_ref-Mobile&Web_1-0
+ 161. https://web.archive.org/web/20090208091212/http://mtld.mobi/company/about/directors
+ 162. http://mtld.mobi/company/about/directors
+ 163. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_ref-2
+ 164. https://web.archive.org/web/20120224181211/http://mtld.mobi/node/1744
+ 165. http://mtld.mobi/node/1744
+ 166. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_ref-3
+ 167. https://features.icann.org/renewal-mobi-registry-contract
+ 168. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_ref-4
+ 169. https://arstechnica.com/security/2024/09/rogue-whois-server-gives-researcher-superpowers-no-one-should-ever-have/
+ 170. file:///tmp/lynxXXXXU1XzYt/L55044-562TMP.html#cite_ref-dotmobi-harmful_5-0
+ 171. http://www.w3.org/DesignIssues/TLD
+ 172. file:///w/index.php?title=.mobi&action=edit&section=6
+ 173. https://www.iana.org/root-whois/mobi.htm
+ 174. http://www.icann.org/tlds/agreements/mobi/
+ 175. http://mobiforge.com/
+ 176. file:///wiki/Template:Generic_top-level_domains
+ 177. file:///wiki/Template_talk:Generic_top-level_domains
+ 178. file:///wiki/Special:EditPage/Template:Generic_top-level_domains
+ 179. file:///wiki/Generic_top-level_domain
+ 180. file:///wiki/Generic_top-level_domain
+ 181. file:///wiki/.bar
+ 182. file:///wiki/.biz
+ 183. file:///wiki/.blog
+ 184. file:///wiki/.cam
+ 185. file:///wiki/.cloud
+ 186. file:///wiki/.club
+ 187. file:///wiki/.college
+ 188. file:///wiki/.com
+ 189. file:///wiki/.fun
+ 190. file:///wiki/.gay
+ 191. file:///wiki/.gdn
+ 192. file:///wiki/.global
+ 193. file:///wiki/.guru
+ 194. file:///wiki/.inc
+ 195. file:///wiki/.info
+ 196. file:///wiki/.kaufen
+ 197. file:///wiki/.lgbt
+ 198. file:///wiki/.name
+ 199. file:///wiki/.moe
+ 200. file:///wiki/.monster
+ 201. file:///wiki/.net
+ 202. file:///wiki/.NGO_and_.ONG
+ 203. file:///wiki/.one_(domain)
+ 204. file:///wiki/.online
+ 205. file:///wiki/.OOO
+ 206. file:///wiki/.org
+ 207. file:///wiki/.pro
+ 208. file:///wiki/.sexy
+ 209. file:///wiki/.shop
+ 210. file:///wiki/.site
+ 211. file:///wiki/.tech
+ 212. file:///wiki/.top
+ 213. file:///wiki/.video
+ 214. file:///wiki/.wiki
+ 215. file:///wiki/.wtf
+ 216. file:///wiki/.xyz
+ 217. file:///wiki/.zip_(top-level_domain)
+ 218. file:///wiki/Sponsored_top-level_domain
+ 219. file:///wiki/.aero
+ 220. file:///wiki/.amazon
+ 221. file:///wiki/.app_(gTLD)
+ 222. file:///wiki/.art_(top-level_domain)
+ 223. file:///wiki/.bank
+ 224. file:///wiki/.bible
+ 225. file:///wiki/.cern
+ 226. file:///wiki/.coop
+ 227. file:///wiki/.design
+ 228. file:///wiki/.dev
+ 229. file:///wiki/.eco
+ 230. file:///wiki/.edu
+ 231. file:///wiki/.google
+ 232. file:///wiki/.gov
+ 233. file:///wiki/.hiv
+ 234. file:///wiki/.int
+ 235. file:///wiki/.jobs
+ 236. file:///wiki/.kids
+ 237. file:///wiki/.kiwi
+ 238. file:///wiki/.kosher
+ 239. file:///wiki/.mil
+ 240. file:///wiki/.museum
+ 241. file:///wiki/.post
+ 242. file:///wiki/.radio
+ 243. file:///wiki/.realtor
+ 244. file:///wiki/.tel
+ 245. file:///wiki/.travel
+ 246. file:///wiki/.xxx
+ 247. file:///wiki/Geographic_top-level_domain
+ 248. file:///wiki/.africa
+ 249. file:///wiki/.alsace
+ 250. file:///wiki/.amsterdam
+ 251. file:///wiki/.asia
+ 252. file:///wiki/.barcelona
+ 253. file:///wiki/.bcn
+ 254. file:///wiki/.berlin
+ 255. file:///wiki/.brussels
+ 256. file:///wiki/.bzh
+ 257. file:///wiki/.cat
+ 258. file:///wiki/.cymru
+ 259. file:///wiki/.eu
+ 260. file:///wiki/.eus
+ 261. file:///wiki/.frl
+ 262. file:///wiki/.gal
+ 263. file:///wiki/.gent
+ 264. file:///wiki/.irish
+ 265. file:///wiki/.istanbul
+ 266. file:///wiki/.istanbul
+ 267. file:///wiki/.koeln
+ 268. file:///wiki/.krd
+ 269. file:///wiki/.lat
+ 270. file:///wiki/.london
+ 271. file:///wiki/.melbourne
+ 272. file:///wiki/.nyc
+ 273. file:///wiki/.paris
+ 274. file:///wiki/.quebec
+ 275. file:///wiki/.rio
+ 276. file:///wiki/.saarland
+ 277. file:///wiki/.scot
+ 278. file:///wiki/.sydney
+ 279. file:///wiki/.taipei
+ 280. file:///wiki/.tokyo
+ 281. file:///wiki/.vegas
+ 282. file:///wiki/.vlaanderen
+ 283. file:///wiki/.wales
+ 284. file:///wiki/.wien
+ 285. file:///wiki/.zuerich
+ 286. file:///wiki/.arpa
+ 287. file:///wiki/.nato
+ 288. file:///wiki/Top-level_domain#Reserved_domains
+ 289. file:///wiki/.example
+ 290. file:///wiki/.internal
+ 291. file:///wiki/.invalid
+ 292. file:///wiki/.local
+ 293. file:///wiki/.localhost
+ 294. file:///wiki/.onion
+ 295. file:///wiki/.test
+ 296. file:///wiki/Proposed_top-level_domain
+ 297. file:///wiki/.eng
+ 298. file:///wiki/.ker
+ 299. file:///wiki/.nai
+ 300. file:///wiki/.sic
+ 301. file:///wiki/.geo
+ 302. file:///wiki/.mail
+ 303. file:///wiki/.web
+ 304. file:///wiki/.kid
+ 305. file:///wiki/.music
+ 306. file:///wiki/Category:Generic_top-level_domains
+ 307. file:///wiki/List_of_Internet_top-level_domains
+ 308. file:///wiki/Country_code_top-level_domain
+ 309. https://en.wikipedia.org/w/index.php?title=.mobi&oldid=1266880073
+ 310. file:///wiki/Help:Category
+ 311. file:///wiki/Category:Domain_Name_System_Security_Extensions
+ 312. file:///wiki/Category:Generic_top-level_domains
+ 313. file:///wiki/Category:Internet_properties_established_in_2005
+ 314. file:///wiki/Category:Articles_with_short_description
+ 315. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 316. file:///wiki/Category:Use_dmy_dates_from_October_2019
+ 317. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 318. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 319. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 320. https://wikimediafoundation.org/
+ 321. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 322. file:///wiki/Wikipedia:About
+ 323. file:///wiki/Wikipedia:General_disclaimer
+ 324. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 325. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 326. https://developer.wikimedia.org/
+ 327. https://stats.wikimedia.org/#/en.wikipedia.org
+ 328. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 329. file://en.m.wikipedia.org/w/index.php?title=.mobi&mobileaction=toggle_view_mobile
+ 330. https://wikimediafoundation.org/
+ 331. https://www.mediawiki.org/

@@ -1,0 +1,836 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Coordinates
+     * [30]2 Images
+     * [31]3 Related polytopes
+     * [32]4 References
+     * [33]5 External links
+
+   [ ] Toggle the table of contents
+
+10-simplex
+
+   [ ] 5 languages
+     * [34]Čeština
+     * [35]Русский
+     * [36]Slovenščina
+     * [37]Українська
+     * [38]中文
+
+   [39]Edit links
+
+     * [40]Article
+     * [41]Talk
+
+   [ ] English
+
+     * [42]Read
+     * [43]Edit
+     * [44]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [45]Read
+     * [46]Edit
+     * [47]View history
+
+   General
+     * [48]What links here
+     * [49]Related changes
+     * [50]Upload file
+     * [51]Special pages
+     * [52]Permanent link
+     * [53]Page information
+     * [54]Cite this page
+     * [55]Get shortened URL
+     * [56]Download QR code
+
+   Print/export
+     * [57]Download as PDF
+     * [58]Printable version
+
+   In other projects
+     * [59]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Convex regular 10-polytope
+
+                                                     Regular hendecaxennon
+                                                              (10-simplex)
+                                         [60][280px-10-simplex_t0.svg.png]
+                                                 [61]Orthogonal projection
+                                                 inside [62]Petrie polygon
+                                              Type Regular [63]10-polytope
+                                                        Family [64]simplex
+                                  [65]Schläfli symbol {3,3,3,3,3,3,3,3,3}
+                 [66]Coxeter-Dynkin diagram [CDel_node_1.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                                                           [CDel_node.png]
+                  9-faces 11 [67]9-simplex[68] [25px-9-simplex_t0.svg.png]
+                  8-faces 55 [69]8-simplex[70] [25px-8-simplex_t0.svg.png]
+                 7-faces 165 [71]7-simplex[72] [25px-7-simplex_t0.svg.png]
+                 6-faces 330 [73]6-simplex[74] [25px-6-simplex_t0.svg.png]
+                 5-faces 462 [75]5-simplex[76] [25px-5-simplex_t0.svg.png]
+                    4-faces 462 [77]5-cell[78] [25px-4-simplex_t0.svg.png]
+                 Cells 330 [79]tetrahedron[80] [25px-3-simplex_t0.svg.png]
+                    Faces 165 [81]triangle[82] [25px-2-simplex_t0.svg.png]
+                                                                  Edges 55
+                                                               Vertices 11
+                                           [83]Vertex figure [84]9-simplex
+                                         [85]Petrie polygon [86]hendecagon
+                               [87]Coxeter group A[10] [3,3,3,3,3,3,3,3,3]
+                                                        Dual [88]Self-dual
+                                                     Properties [89]convex
+
+   In [90]geometry, a 10-[91]simplex is a self-dual [92]regular
+   [93]10-polytope. It has 11 [94]vertices, 55 [95]edges, 165 triangle
+   [96]faces, 330 tetrahedral [97]cells, 462 [98]5-cell 4-faces, 462
+   [99]5-simplex 5-faces, 330 [100]6-simplex 6-faces, 165 [101]7-simplex
+   7-faces, 55 [102]8-simplex 8-faces, and 11 [103]9-simplex 9-faces. Its
+   [104]dihedral angle is cos^−1(1/10), or approximately 84.26°.
+
+   It can also be called a hendecaxennon, or hendeca-10-tope, as an
+   11-[105]facetted polytope in 10-dimensions. The [106]name hendecaxennon
+   is derived from hendeca for 11 [107]facets in [108]Greek and [109]-xenn
+   (variation of ennea for nine), having 9-dimensional facets, and -on.
+
+Coordinates
+
+   [[110]edit]
+
+   The [111]Cartesian coordinates of the vertices of an origin-centered
+   regular 10-simplex having edge length 2 are:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>55</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>45</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn>
+          <mo>,</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>28</mn> </msqrt> </mrow> <mo>,</mo> <mtext> </mtext>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>21</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>15</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>10</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>3</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mo>±</mo> <mn>1</mn>
+          </mrow> <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \left({\sqrt
+          {1/55}},\ {\sqrt {1/45}},\ 1/6,\ {\sqrt {1/28}},\ {\sqrt
+          {1/21}},\ {\sqrt {1/15}},\ {\sqrt {1/10}},\ {\sqrt {1/6}},\
+          {\sqrt {1/3}},\ \pm 1\right)}</annotation> </semantics> :MATH]
+          {\displaystyle \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\
+          {\sqrt {1/28}},\ {\sqrt {1/21}},\ {\sqrt {1/15}},\ {\sqrt
+          {1/10}},\ {\sqrt {1/6}},\ {\sqrt {1/3}},\ \pm 1\right)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>55</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>45</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn>
+          <mo>,</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>28</mn> </msqrt> </mrow> <mo>,</mo> <mtext> </mtext>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>21</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>15</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>10</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mo>−</mo> <mn>2</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>3</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>0</mn> </mrow>
+          <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \left({\sqrt
+          {1/55}},\ {\sqrt {1/45}},\ 1/6,\ {\sqrt {1/28}},\ {\sqrt
+          {1/21}},\ {\sqrt {1/15}},\ {\sqrt {1/10}},\ {\sqrt {1/6}},\
+          -2{\sqrt {1/3}},\ 0\right)}</annotation> </semantics> :MATH]
+          {\displaystyle \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\
+          {\sqrt {1/28}},\ {\sqrt {1/21}},\ {\sqrt {1/15}},\ {\sqrt
+          {1/10}},\ {\sqrt {1/6}},\ -2{\sqrt {1/3}},\ 0\right)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>55</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>45</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn>
+          <mo>,</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>28</mn> </msqrt> </mrow> <mo>,</mo> <mtext> </mtext>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>21</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>15</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>10</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mo>−</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>3</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\ {\sqrt {1/28}},\
+          {\sqrt {1/21}},\ {\sqrt {1/15}},\ {\sqrt {1/10}},\ -{\sqrt
+          {3/2}},\ 0,\ 0\right)}</annotation> </semantics> :MATH]
+          {\displaystyle \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\
+          {\sqrt {1/28}},\ {\sqrt {1/21}},\ {\sqrt {1/15}},\ {\sqrt
+          {1/10}},\ -{\sqrt {3/2}},\ 0,\ 0\right)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>55</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>45</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn>
+          <mo>,</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>28</mn> </msqrt> </mrow> <mo>,</mo> <mtext> </mtext>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>21</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>15</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mo>−</mo> <mn>2</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\ {\sqrt {1/28}},\
+          {\sqrt {1/21}},\ {\sqrt {1/15}},\ -2{\sqrt {2/5}},\ 0,\ 0,\
+          0\right)}</annotation> </semantics> :MATH]
+          {\displaystyle \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\
+          {\sqrt {1/28}},\ {\sqrt {1/21}},\ {\sqrt {1/15}},\ -2{\sqrt
+          {2/5}},\ 0,\ 0,\ 0\right)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>55</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>45</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn>
+          <mo>,</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>28</mn> </msqrt> </mrow> <mo>,</mo> <mtext> </mtext>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>21</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mo>−</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>5</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>3</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> </mrow>
+          <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \left({\sqrt
+          {1/55}},\ {\sqrt {1/45}},\ 1/6,\ {\sqrt {1/28}},\ {\sqrt
+          {1/21}},\ -{\sqrt {5/3}},\ 0,\ 0,\ 0,\ 0\right)}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\
+          {\sqrt {1/28}},\ {\sqrt {1/21}},\ -{\sqrt {5/3}},\ 0,\ 0,\ 0,\
+          0\right)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>55</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>45</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn>
+          <mo>,</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>28</mn> </msqrt> </mrow> <mo>,</mo> <mtext> </mtext>
+          <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>12</mn>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>7</mn>
+          </msqrt> </mrow> <mo>,</mo> <mtext> </mtext> <mn>0</mn>
+          <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> </mrow>
+          <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \left({\sqrt
+          {1/55}},\ {\sqrt {1/45}},\ 1/6,\ {\sqrt {1/28}},\ -{\sqrt
+          {12/7}},\ 0,\ 0,\ 0,\ 0,\ 0\right)}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\
+          {\sqrt {1/28}},\ -{\sqrt {12/7}},\ 0,\ 0,\ 0,\ 0,\ 0\right)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>55</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>45</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn>
+          <mo>,</mo> <mtext> </mtext> <mo>−</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>7</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>4</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\ -{\sqrt {7/4}},\
+          0,\ 0,\ 0,\ 0,\ 0,\ 0\right)}</annotation> </semantics> :MATH]
+          {\displaystyle \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ 1/6,\
+          -{\sqrt {7/4}},\ 0,\ 0,\ 0,\ 0,\ 0,\ 0\right)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>55</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>45</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mo>−</mo> <mn>4</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>3</mn>
+          <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> </mrow>
+          <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \left({\sqrt
+          {1/55}},\ {\sqrt {1/45}},\ -4/3,\ 0,\ 0,\ 0,\ 0,\ 0,\ 0,\
+          0\right)}</annotation> </semantics> :MATH]
+          {\displaystyle \left({\sqrt {1/55}},\ {\sqrt {1/45}},\ -4/3,\
+          0,\ 0,\ 0,\ 0,\ 0,\ 0,\ 0\right)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>55</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mo>−</mo> <mn>3</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> </msqrt>
+          </mrow> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \left({\sqrt {1/55}},\ -3{\sqrt {1/5}},\ 0,\ 0,\ 0,\ 0,\ 0,\ 0,\
+          0,\ 0\right)}</annotation> </semantics> :MATH]
+          {\displaystyle \left({\sqrt {1/55}},\ -3{\sqrt {1/5}},\ 0,\ 0,\
+          0,\ 0,\ 0,\ 0,\ 0,\ 0\right)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+          <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>20</mn>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>11</mn>
+          </msqrt> </mrow> <mo>,</mo> <mtext> </mtext> <mn>0</mn>
+          <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> <mo>,</mo> <mtext> </mtext>
+          <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> <mo>,</mo>
+          <mtext> </mtext> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \left(-{\sqrt {20/11}},\ 0,\ 0,\ 0,\ 0,\ 0,\ 0,\ 0,\ 0,\
+          0\right)}</annotation> </semantics> :MATH]
+          {\displaystyle \left(-{\sqrt {20/11}},\ 0,\ 0,\ 0,\ 0,\ 0,\ 0,\
+          0,\ 0,\ 0\right)}
+
+   More simply, the vertices of the 10-simplex can be positioned in
+   11-space as permutations of (0,0,0,0,0,0,0,0,0,0,1). This construction
+   is based on [112]facets of the [113]11-orthoplex.
+
+Images
+
+   [[114]edit]
+
+   CAPTION: [115]orthographic projections
+
+   A[k] [116]Coxeter plane A[10] A[9] A[8]
+   Graph [117][100px-10-simplex_t0.svg.png]
+   [118][100px-10-simplex_t0_A9.svg.png]
+   [119][100px-10-simplex_t0_A8.svg.png]
+   [120]Dihedral symmetry [11] [10] [9]
+   A[k] Coxeter plane A[7] A[6] A[5]
+   Graph [121][100px-10-simplex_t0_A7.svg.png]
+   [122][100px-10-simplex_t0_A6.svg.png]
+   [123][100px-10-simplex_t0_A5.svg.png]
+   Dihedral symmetry [8] [7] [6]
+   A[k] Coxeter plane A[4] A[3] A[2]
+   Graph [124][100px-10-simplex_t0_A4.svg.png]
+   [125][100px-10-simplex_t0_A3.svg.png]
+   [126][100px-10-simplex_t0_A2.svg.png]
+   Dihedral symmetry [5] [4] [3]
+
+Related polytopes
+
+   [[127]edit]
+
+   The [128]2-skeleton of the 10-simplex is topologically related to the
+   [129]11-cell [130]abstract regular polychoron which has the same 11
+   vertices, 55 edges, but only 1/3 the faces (55).
+
+References
+
+   [[131]edit]
+     * [132]Coxeter, H.S.M.:
+          + — (1973). "Table I (iii): Regular Polytopes, three regular
+            polytopes in n-dimensions (n≥5)". [133]Regular Polytopes
+            (3rd ed.). Dover. pp. [134]296. [135]ISBN [136]0-486-61480-8.
+          +
+       Sherk, F. Arthur; McMullen, Peter; Thompson, Anthony C.; Weiss,
+       Asia Ivic, eds. (1995). [137]Kaleidoscopes: Selected Writings of
+       H.S.M. Coxeter. Wiley. [138]ISBN [139]978-0-471-01003-6.
+          + (Paper 22)
+       — (1940). [140]"Regular and Semi Regular Polytopes I". Math. Zeit.
+       46: 380–407. [141]doi:[142]10.1007/BF01181449.
+       [143]ISBN [144]9780471010036. [145]S2CID [146]186237114.
+     * (Paper 23)
+
+   — (1985). [147]"Regular and Semi-Regular Polytopes II". Math. Zeit. 188
+   (4): 559–591. [148]doi:[149]10.1007/BF01161657.
+   [150]S2CID [151]120429557.
+
+     (Paper 24) — (1988). [152]"Regular and Semi-Regular Polytopes III".
+   Math. Zeit. 200: 3–45. [153]doi:[154]10.1007/BF01161745.
+   [155]S2CID [156]186237142.
+
+     [157]Conway, John H.; Burgiel, Heidi; Goodman-Strauss, Chaim (2008).
+   "26. Hemicubes: 1[n1]". The Symmetries of Things. p. 409.
+   [158]ISBN [159]978-1-56881-220-5.
+
+     [160]Johnson, Norman (1991). Uniform Polytopes (Manuscript).
+     *
+
+   Johnson, N.W. (1966). [161]The Theory of Uniform Polytopes and
+   Honeycombs (PhD). University of Toronto. [162]OCLC [163]258527038.
+
+     Klitzing, Richard. [164]"10D uniform polytopes (polyxenna)
+   x3o3o3o3o3o3o3o3o3o — ux".
+
+External links
+
+   [[165]edit]
+
+     * [166]Glossary for hyperspace, George Olshevsky.
+     * [167]Polytopes of Various Dimensions
+     * [168]Multi-dimensional Glossary
+
+     * [169]v
+     * [170]t
+     * [171]e
+
+   Fundamental convex [172]regular and [173]uniform polytopes in
+   dimensions 2–10
+
+   [174]Family [175]A[n] [176]B[n] I[2](p) / [177]D[n] [178]E[6] /
+   [179]E[7] / [180]E[8] / [181]F[4] / [182]G[2] [183]H[n]
+   [184]Regular polygon [185]Triangle [186]Square [187]p-gon [188]Hexagon
+   [189]Pentagon
+   [190]Uniform polyhedron [191]Tetrahedron [192]Octahedron • [193]Cube
+   [194]Demicube [195]Dodecahedron • [196]Icosahedron
+   [197]Uniform polychoron [198]Pentachoron [199]16-cell • [200]Tesseract
+   [201]Demitesseract [202]24-cell [203]120-cell • [204]600-cell
+   [205]Uniform 5-polytope [206]5-simplex [207]5-orthoplex • [208]5-cube
+   [209]5-demicube
+   [210]Uniform 6-polytope [211]6-simplex [212]6-orthoplex • [213]6-cube
+   [214]6-demicube [215]1[22] • [216]2[21]
+   [217]Uniform 7-polytope [218]7-simplex [219]7-orthoplex • [220]7-cube
+   [221]7-demicube [222]1[32] • [223]2[31] • [224]3[21]
+   [225]Uniform 8-polytope [226]8-simplex [227]8-orthoplex • [228]8-cube
+   [229]8-demicube [230]1[42] • [231]2[41] • [232]4[21]
+   [233]Uniform 9-polytope [234]9-simplex [235]9-orthoplex • [236]9-cube
+   [237]9-demicube
+   [238]Uniform 10-polytope 10-simplex [239]10-orthoplex • [240]10-cube
+   [241]10-demicube
+   Uniform n-[242]polytope n-[243]simplex n-[244]orthoplex • n-[245]cube
+   n-[246]demicube [247]1[k2] • [248]2[k1] • [249]k[21] n-[250]pentagonal
+   polytope
+   Topics: [251]Polytope families • [252]Regular polytope • [253]List of
+   regular polytopes and compounds
+
+   Retrieved from
+   "[254]https://en.wikipedia.org/w/index.php?title=10-simplex&oldid=11896
+   03193"
+
+   [255]Category:
+     * [256]10-polytopes
+
+   Hidden categories:
+     * [257]Articles with short description
+     * [258]Short description matches Wikidata
+
+     * This page was last edited on 12 December 2023, at 22:06 (UTC).
+     * Text is available under the [259]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [260]Terms of Use and
+       [261]Privacy Policy. Wikipedia® is a registered trademark of the
+       [262]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [263]Privacy policy
+     * [264]About Wikipedia
+     * [265]Disclaimers
+     * [266]Contact Wikipedia
+     * [267]Code of Conduct
+     * [268]Developers
+     * [269]Statistics
+     * [270]Cookie statement
+     * [271]Mobile view
+
+     * [272]Wikimedia Foundation
+     * [273]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/10-simplex
+   2. file:///w/index.php?title=10-simplex&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXEEm4je/L62319-5217TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=10-simplex
+  21. file:///w/index.php?title=Special:UserLogin&returnto=10-simplex
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=10-simplex
+  24. file:///w/index.php?title=Special:UserLogin&returnto=10-simplex
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXEEm4je/L62319-5217TMP.html
+  29. file:///tmp/lynxXXXXEEm4je/L62319-5217TMP.html#Coordinates
+  30. file:///tmp/lynxXXXXEEm4je/L62319-5217TMP.html#Images
+  31. file:///tmp/lynxXXXXEEm4je/L62319-5217TMP.html#Related_polytopes
+  32. file:///tmp/lynxXXXXEEm4je/L62319-5217TMP.html#References
+  33. file:///tmp/lynxXXXXEEm4je/L62319-5217TMP.html#External_links
+  34. https://cs.wikipedia.org/wiki/10simplex
+  35. https://ru.wikipedia.org/wiki/Правильный_10-симплекс
+  36. https://sl.wikipedia.org/wiki/10-simpleks
+  37. https://uk.wikipedia.org/wiki/Правильний_10-симплекс
+  38. https://zh.wikipedia.org/wiki/十維正十一胞體
+  39. https://www.wikidata.org/wiki/Special:EntityPage/Q4545908#sitelinks-wikipedia
+  40. file:///wiki/10-simplex
+  41. file:///wiki/Talk:10-simplex
+  42. file:///wiki/10-simplex
+  43. file:///w/index.php?title=10-simplex&action=edit
+  44. file:///w/index.php?title=10-simplex&action=history
+  45. file:///wiki/10-simplex
+  46. file:///w/index.php?title=10-simplex&action=edit
+  47. file:///w/index.php?title=10-simplex&action=history
+  48. file:///wiki/Special:WhatLinksHere/10-simplex
+  49. file:///wiki/Special:RecentChangesLinked/10-simplex
+  50. file:///wiki/Wikipedia:File_Upload_Wizard
+  51. file:///wiki/Special:SpecialPages
+  52. file:///w/index.php?title=10-simplex&oldid=1189603193
+  53. file:///w/index.php?title=10-simplex&action=info
+  54. file:///w/index.php?title=Special:CiteThisPage&page=10-simplex&id=1189603193&wpFormIdentifier=titleform
+  55. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/10-simplex
+  56. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/10-simplex
+  57. file:///w/index.php?title=Special:DownloadAsPdf&page=10-simplex&action=show-download-screen
+  58. file:///w/index.php?title=10-simplex&printable=yes
+  59. https://www.wikidata.org/wiki/Special:EntityPage/Q4545908
+  60. file:///wiki/File:10-simplex_t0.svg
+  61. file:///wiki/Orthogonal_projection
+  62. file:///wiki/Petrie_polygon
+  63. file:///wiki/10-polytope
+  64. file:///wiki/Simplex
+  65. file:///wiki/Schläfli_symbol
+  66. file:///wiki/Coxeter-Dynkin_diagram
+  67. file:///wiki/9-simplex
+  68. file:///wiki/File:9-simplex_t0.svg
+  69. file:///wiki/8-simplex
+  70. file:///wiki/File:8-simplex_t0.svg
+  71. file:///wiki/7-simplex
+  72. file:///wiki/File:7-simplex_t0.svg
+  73. file:///wiki/6-simplex
+  74. file:///wiki/File:6-simplex_t0.svg
+  75. file:///wiki/5-simplex
+  76. file:///wiki/File:5-simplex_t0.svg
+  77. file:///wiki/5-cell
+  78. file:///wiki/File:4-simplex_t0.svg
+  79. file:///wiki/Tetrahedron
+  80. file:///wiki/File:3-simplex_t0.svg
+  81. file:///wiki/Triangle
+  82. file:///wiki/File:2-simplex_t0.svg
+  83. file:///wiki/Vertex_figure
+  84. file:///wiki/9-simplex
+  85. file:///wiki/Petrie_polygon
+  86. file:///wiki/Hendecagon
+  87. file:///wiki/Coxeter_group
+  88. file:///wiki/Self-dual_polytope
+  89. file:///wiki/Convex_polytope
+  90. file:///wiki/Geometry
+  91. file:///wiki/Simplex
+  92. file:///wiki/Regular_polytope
+  93. file:///wiki/10-polytope
+  94. file:///wiki/Vertex_(geometry)
+  95. file:///wiki/Edge_(geometry)
+  96. file:///wiki/Face_(geometry)
+  97. file:///wiki/Cell_(mathematics)
+  98. file:///wiki/5-cell
+  99. file:///wiki/5-simplex
+ 100. file:///wiki/6-simplex
+ 101. file:///wiki/7-simplex
+ 102. file:///wiki/8-simplex
+ 103. file:///wiki/9-simplex
+ 104. file:///wiki/Dihedral_angle
+ 105. file:///wiki/Facet_(geometry)
+ 106. file:///wiki/5-polytope#A_note_on_generality_of_terms_for_n-polytopes_and_elements
+ 107. file:///wiki/Facet_(mathematics)
+ 108. file:///wiki/Greek_language
+ 109. file:///wiki/Xenna
+ 110. file:///w/index.php?title=10-simplex&action=edit&section=1
+ 111. file:///wiki/Cartesian_coordinate
+ 112. file:///wiki/Facet_(geometry)
+ 113. file:///wiki/11-orthoplex
+ 114. file:///w/index.php?title=10-simplex&action=edit&section=2
+ 115. file:///wiki/Orthographic_projection
+ 116. file:///wiki/Coxeter_plane
+ 117. file:///wiki/File:10-simplex_t0.svg
+ 118. file:///wiki/File:10-simplex_t0_A9.svg
+ 119. file:///wiki/File:10-simplex_t0_A8.svg
+ 120. file:///wiki/Dihedral_symmetry
+ 121. file:///wiki/File:10-simplex_t0_A7.svg
+ 122. file:///wiki/File:10-simplex_t0_A6.svg
+ 123. file:///wiki/File:10-simplex_t0_A5.svg
+ 124. file:///wiki/File:10-simplex_t0_A4.svg
+ 125. file:///wiki/File:10-simplex_t0_A3.svg
+ 126. file:///wiki/File:10-simplex_t0_A2.svg
+ 127. file:///w/index.php?title=10-simplex&action=edit&section=3
+ 128. file:///wiki/N-skeleton
+ 129. file:///wiki/11-cell
+ 130. file:///wiki/Abstract_polytope
+ 131. file:///w/index.php?title=10-simplex&action=edit&section=4
+ 132. file:///wiki/Harold_Scott_MacDonald_Coxeter
+ 133. file:///wiki/Regular_Polytopes_(book)
+ 134. https://archive.org/details/regularpolytopes00coxe_869/page/n319
+ 135. file:///wiki/ISBN_(identifier)
+ 136. file:///wiki/Special:BookSources/0-486-61480-8
+ 137. https://books.google.com/books?id=fUm5Mwfx8rAC&pg=PP1
+ 138. file:///wiki/ISBN_(identifier)
+ 139. file:///wiki/Special:BookSources/978-0-471-01003-6
+ 140. https://books.google.com/books?id=fUm5Mwfx8rAC&pg=PA251
+ 141. file:///wiki/Doi_(identifier)
+ 142. https://doi.org/10.1007/BF01181449
+ 143. file:///wiki/ISBN_(identifier)
+ 144. file:///wiki/Special:BookSources/9780471010036
+ 145. file:///wiki/S2CID_(identifier)
+ 146. https://api.semanticscholar.org/CorpusID:186237114
+ 147. https://books.google.com/books?id=fUm5Mwfx8rAC&pg=PA279
+ 148. file:///wiki/Doi_(identifier)
+ 149. https://doi.org/10.1007/BF01161657
+ 150. file:///wiki/S2CID_(identifier)
+ 151. https://api.semanticscholar.org/CorpusID:120429557
+ 152. https://books.google.com/books?id=fUm5Mwfx8rAC&pg=PA313
+ 153. file:///wiki/Doi_(identifier)
+ 154. https://doi.org/10.1007/BF01161745
+ 155. file:///wiki/S2CID_(identifier)
+ 156. https://api.semanticscholar.org/CorpusID:186237142
+ 157. file:///wiki/John_Horton_Conway
+ 158. file:///wiki/ISBN_(identifier)
+ 159. file:///wiki/Special:BookSources/978-1-56881-220-5
+ 160. file:///wiki/Norman_Johnson_(mathematician)
+ 161. https://search.library.utoronto.ca/details?402790
+ 162. file:///wiki/OCLC_(identifier)
+ 163. https://search.worldcat.org/oclc/258527038
+ 164. https://bendwavy.org/klitzing/dimensions/polyxenna.htm
+ 165. file:///w/index.php?title=10-simplex&action=edit&section=5
+ 166. https://web.archive.org/web/20070204075028/members.aol.com/Polycell/glossary.html#simplex
+ 167. http://www.polytope.net/hedrondude/topes.htm
+ 168. http://tetraspace.alkaline.org/glossary.htm
+ 169. file:///wiki/Template:Polytopes
+ 170. file:///wiki/Template_talk:Polytopes
+ 171. file:///wiki/Special:EditPage/Template:Polytopes
+ 172. file:///wiki/Regular_polytope
+ 173. file:///wiki/Uniform_polytope
+ 174. file:///wiki/Coxeter_group#Finite_Coxeter_groups
+ 175. file:///wiki/Simple_Lie_group#A_series
+ 176. file:///wiki/Simple_Lie_group#B_series
+ 177. file:///wiki/Simple_Lie_group#D_series
+ 178. file:///wiki/E6_(mathematics)
+ 179. file:///wiki/E7_(mathematics)
+ 180. file:///wiki/E8_(mathematics)
+ 181. file:///wiki/F4_(mathematics)
+ 182. file:///wiki/G2_(mathematics)
+ 183. file:///wiki/H4_(mathematics)
+ 184. file:///wiki/Regular_polygon
+ 185. file:///wiki/Equilateral_triangle
+ 186. file:///wiki/Square
+ 187. file:///wiki/Regular_polygon
+ 188. file:///wiki/Hexagon
+ 189. file:///wiki/Pentagon
+ 190. file:///wiki/Uniform_polyhedron
+ 191. file:///wiki/Tetrahedron
+ 192. file:///wiki/Octahedron
+ 193. file:///wiki/Cube
+ 194. file:///wiki/Tetrahedron
+ 195. file:///wiki/Regular_dodecahedron
+ 196. file:///wiki/Regular_icosahedron
+ 197. file:///wiki/Uniform_polychoron
+ 198. file:///wiki/5-cell
+ 199. file:///wiki/16-cell
+ 200. file:///wiki/Tesseract
+ 201. file:///wiki/16-cell
+ 202. file:///wiki/24-cell
+ 203. file:///wiki/120-cell
+ 204. file:///wiki/600-cell
+ 205. file:///wiki/Uniform_5-polytope
+ 206. file:///wiki/5-simplex
+ 207. file:///wiki/5-orthoplex
+ 208. file:///wiki/5-cube
+ 209. file:///wiki/5-demicube
+ 210. file:///wiki/Uniform_6-polytope
+ 211. file:///wiki/6-simplex
+ 212. file:///wiki/6-orthoplex
+ 213. file:///wiki/6-cube
+ 214. file:///wiki/6-demicube
+ 215. file:///wiki/1_22_polytope
+ 216. file:///wiki/2_21_polytope
+ 217. file:///wiki/Uniform_7-polytope
+ 218. file:///wiki/7-simplex
+ 219. file:///wiki/7-orthoplex
+ 220. file:///wiki/7-cube
+ 221. file:///wiki/7-demicube
+ 222. file:///wiki/1_32_polytope
+ 223. file:///wiki/2_31_polytope
+ 224. file:///wiki/3_21_polytope
+ 225. file:///wiki/Uniform_8-polytope
+ 226. file:///wiki/8-simplex
+ 227. file:///wiki/8-orthoplex
+ 228. file:///wiki/8-cube
+ 229. file:///wiki/8-demicube
+ 230. file:///wiki/1_42_polytope
+ 231. file:///wiki/2_41_polytope
+ 232. file:///wiki/4_21_polytope
+ 233. file:///wiki/Uniform_9-polytope
+ 234. file:///wiki/9-simplex
+ 235. file:///wiki/9-orthoplex
+ 236. file:///wiki/9-cube
+ 237. file:///wiki/9-demicube
+ 238. file:///wiki/Uniform_10-polytope
+ 239. file:///wiki/10-orthoplex
+ 240. file:///wiki/10-cube
+ 241. file:///wiki/10-demicube
+ 242. file:///wiki/Polytope
+ 243. file:///wiki/Simplex
+ 244. file:///wiki/Cross-polytope
+ 245. file:///wiki/Hypercube
+ 246. file:///wiki/Demihypercube
+ 247. file:///wiki/Uniform_1_k2_polytope
+ 248. file:///wiki/Uniform_2_k1_polytope
+ 249. file:///wiki/Uniform_k_21_polytope
+ 250. file:///wiki/Pentagonal_polytope
+ 251. file:///wiki/Polytope_families
+ 252. file:///wiki/Regular_polytope
+ 253. file:///wiki/List_of_regular_polytopes_and_compounds
+ 254. https://en.wikipedia.org/w/index.php?title=10-simplex&oldid=1189603193
+ 255. file:///wiki/Help:Category
+ 256. file:///wiki/Category:10-polytopes
+ 257. file:///wiki/Category:Articles_with_short_description
+ 258. file:///wiki/Category:Short_description_matches_Wikidata
+ 259. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 260. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 261. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 262. https://wikimediafoundation.org/
+ 263. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 264. file:///wiki/Wikipedia:About
+ 265. file:///wiki/Wikipedia:General_disclaimer
+ 266. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 267. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 268. https://developer.wikimedia.org/
+ 269. https://stats.wikimedia.org/#/en.wikipedia.org
+ 270. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 271. file://en.m.wikipedia.org/w/index.php?title=10-simplex&mobileaction=toggle_view_mobile
+ 272. https://wikimediafoundation.org/
+ 273. https://www.mediawiki.org/

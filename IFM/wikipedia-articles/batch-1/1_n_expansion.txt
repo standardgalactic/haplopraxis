@@ -1,0 +1,453 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Example
+     * [30]2 QCD
+     * [31]3 References
+
+   [ ] Toggle the table of contents
+
+1/N expansion
+
+   [ ] 4 languages
+     * [32]Italiano
+     * [33]日本語
+     * [34]ਪੰਜਾਬੀ
+     * [35]中文
+
+   [36]Edit links
+
+     * [37]Article
+     * [38]Talk
+
+   [ ] English
+
+     * [39]Read
+     * [40]Edit
+     * [41]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [42]Read
+     * [43]Edit
+     * [44]View history
+
+   General
+     * [45]What links here
+     * [46]Related changes
+     * [47]Upload file
+     * [48]Special pages
+     * [49]Permanent link
+     * [50]Page information
+     * [51]Cite this page
+     * [52]Get shortened URL
+     * [53]Download QR code
+
+   Print/export
+     * [54]Download as PDF
+     * [55]Printable version
+
+   In other projects
+     * [56]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Perturbative analysis of quantum field theories
+
+              [57][320px-Three_Gluon_Vertex_in_t%27Hooft_notation.svg.png]
+
+          How a three gluon vertex would appear in 't Hooft's double index
+   notation. This makes the analogy to a string theory that will appear at
+                                                         large N apparent.
+                                                                  Examples
+                                      1
+                         [58][157px-1_over_N1.png] 2
+                          [59][150px-1_over_N2.png]
+
+   In [60]quantum field theory and [61]statistical mechanics, the 1/N
+   expansion (also known as the "large N" expansion) is a particular
+   [62]perturbative analysis of quantum field theories with an
+   [63]internal symmetry [64]group such as [65]SO(N) or [66]SU(N). It
+   consists in deriving an expansion for the properties of the theory in
+   powers of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>1</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>N</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   1/N}</annotation> </semantics> :MATH]
+   {\displaystyle 1/N} , which is treated as a small parameter.
+
+   This technique is used in [67]QCD (even though
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>N</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+   </semantics> :MATH]
+   {\displaystyle N} is only 3 there) with the [68]gauge group SU(3).
+   Another application in [69]particle physics is to the study of
+   [70]AdS/CFT dualities.
+
+   It is also extensively used in [71]condensed matter physics where it
+   can be used to provide a rigorous basis for [72]mean-field theory.
+
+Example
+
+   [[73]edit]
+
+   Starting with a simple example — the [74]O(N) [75]φ^4 — the scalar
+   field φ takes on values in the [76]real vector representation of O(N).
+   Using the [77]index notation for the N "[78]flavors" with the
+   [79]Einstein summation convention and because O(N) is orthogonal, no
+   distinction will be made between covariant and contravariant indices.
+   The [80]Lagrangian density is given by
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-caligraphic" mathvariant="script">L</mi> </mrow>
+          </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <mn>2</mn> </mfrac> </mrow> <msup> <mi
+          mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>μ</mi> </mrow> </msup> <msub> <mi>ϕ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msub> <msub> <mi
+          mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>μ</mi> </mrow> </msub> <msub> <mi>ϕ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msub> <mo>−</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mi>m</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mn>2</mn>
+          </mfrac> </mrow> <msub> <mi>ϕ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msub> <msub>
+          <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow>
+          </msub> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mi>λ</mi> <mrow> <mn>8</mn> <mi>N</mi> </mrow> </mfrac> </mrow>
+          <mo stretchy="false">(</mo> <msub> <mi>ϕ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msub> <msub>
+          <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow>
+          </msub> <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\mathcal {L}}={1 \over 2}\partial ^{\mu }\phi _{a}\partial
+          _{\mu }\phi _{a}-{m^{2} \over 2}\phi _{a}\phi _{a}-{\lambda
+          \over 8N}(\phi _{a}\phi _{a})^{2}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle {\mathcal {L}}={1 \over 2}\partial ^{\mu }\phi
+          _{a}\partial _{\mu }\phi _{a}-{m^{2} \over 2}\phi _{a}\phi
+          _{a}-{\lambda \over 8N}(\phi _{a}\phi _{a})^{2}}
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} runs from 1 to N. Note that N has been absorbed into
+   the [81]coupling strength λ. This is crucial here.
+
+   Introducing an [82]auxiliary field F;
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-caligraphic" mathvariant="script">L</mi> </mrow>
+          </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <mn>2</mn> </mfrac> </mrow> <msup> <mi
+          mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>μ</mi> </mrow> </msup> <msub> <mi>ϕ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msub> <msub> <mi
+          mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>μ</mi> </mrow> </msub> <msub> <mi>ϕ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msub> <mo>−</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mi>m</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mn>2</mn>
+          </mfrac> </mrow> <msub> <mi>ϕ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msub> <msub>
+          <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow>
+          </msub> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <mn>2</mn> </mfrac> </mrow> <msup> <mi>F</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>−</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>λ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>N</mi> </msqrt>
+          </mrow> <mn>2</mn> </mfrac> </mrow> <mi>F</mi> <msub> <mi>ϕ</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msub> <msub>
+          <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow>
+          </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\mathcal {L}}={1
+          \over 2}\partial ^{\mu }\phi _{a}\partial _{\mu }\phi
+          _{a}-{m^{2} \over 2}\phi _{a}\phi _{a}+{1 \over 2}F^{2}-{{\sqrt
+          {\lambda /N}} \over 2}F\phi _{a}\phi _{a}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\mathcal {L}}={1 \over 2}\partial ^{\mu }\phi
+          _{a}\partial _{\mu }\phi _{a}-{m^{2} \over 2}\phi _{a}\phi
+          _{a}+{1 \over 2}F^{2}-{{\sqrt {\lambda /N}} \over 2}F\phi
+          _{a}\phi _{a}}
+
+   In the [83]Feynman diagrams, the graph breaks up into disjoint
+   [84]cycles, each made up of φ edges of the same flavor and the cycles
+   are connected by F edges (which have no propagator line as auxiliary
+   fields do not propagate).
+
+   Each 4-point vertex contributes λ/N and hence, 1/N. Each flavor cycle
+   contributes N because there are N such flavors to sum over. Note that
+   not all momentum flow cycles are flavor cycles.
+
+   At least perturbatively, the dominant contribution to the 2k-point
+   [85]connected correlation function is of the order (1/N)^k-1 and the
+   other terms are higher powers of 1/N. Performing a 1/N expansion gets
+   more and more accurate in the large N limit. The [86]vacuum energy
+   density is proportional to N, but can be ignored due to non-compliance
+   with [87]general relativity assumptions.^[[88]clarification needed]
+
+   Due to this structure, a different graphical notation to denote the
+   [89]Feynman diagrams can be used. Each flavor cycle can be represented
+   by a vertex. The flavor paths connecting two external vertices are
+   represented by a single vertex. The two external vertices along the
+   same flavor path are naturally paired and can be replaced by a single
+   vertex and an edge (not an F edge) connecting it to the flavor path.
+   The F edges are edges connecting two flavor cycles/paths to each other
+   (or a flavor cycle/path to itself). The interactions along a flavor
+   cycle/path have a definite cyclic order and represent a special kind of
+   graph where the order of the edges incident to a vertex matters, but
+   only up to a cyclic permutation, and since this is a theory of real
+   scalars, also an order reversal (but if we have SU(N) instead of SU(2),
+   order reversals aren't valid). Each F edge is assigned a momentum (the
+   momentum transfer) and there is an internal momentum integral
+   associated with each flavor cycle.
+
+QCD
+
+   [[90]edit]
+   Main article: [91]Quantum chromodynamics
+
+   QCD is an SU(3) [92]gauge theory involving [93]gluons and [94]quarks.
+   The [95]left-handed quarks belong to a [96]triplet representation, the
+   right-handed to an [97]antitriplet representation (after
+   charge-conjugating them) and the gluons to a [98]real [99]adjoint
+   representation. A quark edge is assigned a color and orientation and a
+   gluon edge is assigned a color pair.
+
+   In the large N limit, we only consider the dominant term. See
+   [100]AdS/CFT.
+
+References
+
+   [[101]edit]
+     * [102]G. 't Hooft (1974). [103]"A planar diagram theory for strong
+       interactions". Nuclear Physics B. 72 (3): 461.
+       [104]Bibcode:[105]1974NuPhB..72..461T.
+       [106]doi:[107]10.1016/0550-3213(74)90154-0. Archived from [108]the
+       original on 2006-10-11.
+
+   Retrieved from
+   "[109]https://en.wikipedia.org/w/index.php?title=1/N_expansion&oldid=12
+   44280871"
+   [110]Categories:
+     * [111]Quantum field theory
+     * [112]Quantum chromodynamics
+     * [113]String theory
+     * [114]Statistical mechanics
+
+   Hidden categories:
+     * [115]Articles with short description
+     * [116]Short description is different from Wikidata
+     * [117]Wikipedia articles needing clarification from December 2020
+
+     * This page was last edited on 6 September 2024, at 03:37 (UTC).
+     * Text is available under the [118]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [119]Terms of Use and
+       [120]Privacy Policy. Wikipedia® is a registered trademark of the
+       [121]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [122]Privacy policy
+     * [123]About Wikipedia
+     * [124]Disclaimers
+     * [125]Contact Wikipedia
+     * [126]Code of Conduct
+     * [127]Developers
+     * [128]Statistics
+     * [129]Cookie statement
+     * [130]Mobile view
+
+     * [131]Wikimedia Foundation
+     * [132]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/1/N_expansion
+   2. file:///w/index.php?title=1/N_expansion&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXo0jAGA/L61464-167TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=1/N+expansion
+  21. file:///w/index.php?title=Special:UserLogin&returnto=1/N+expansion
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=1/N+expansion
+  24. file:///w/index.php?title=Special:UserLogin&returnto=1/N+expansion
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXo0jAGA/L61464-167TMP.html
+  29. file:///tmp/lynxXXXXo0jAGA/L61464-167TMP.html#Example
+  30. file:///tmp/lynxXXXXo0jAGA/L61464-167TMP.html#QCD
+  31. file:///tmp/lynxXXXXo0jAGA/L61464-167TMP.html#References
+  32. https://it.wikipedia.org/wiki/Espansione_1/N
+  33. https://ja.wikipedia.org/wiki/1/N展開
+  34. https://pa.wikipedia.org/wiki/1/N_ਫੈਲਾਓ
+  35. https://zh.wikipedia.org/wiki/1/N展开
+  36. https://www.wikidata.org/wiki/Special:EntityPage/Q951142#sitelinks-wikipedia
+  37. file:///wiki/1/N_expansion
+  38. file:///wiki/Talk:1/N_expansion
+  39. file:///wiki/1/N_expansion
+  40. file:///w/index.php?title=1/N_expansion&action=edit
+  41. file:///w/index.php?title=1/N_expansion&action=history
+  42. file:///wiki/1/N_expansion
+  43. file:///w/index.php?title=1/N_expansion&action=edit
+  44. file:///w/index.php?title=1/N_expansion&action=history
+  45. file:///wiki/Special:WhatLinksHere/1/N_expansion
+  46. file:///wiki/Special:RecentChangesLinked/1/N_expansion
+  47. file:///wiki/Wikipedia:File_Upload_Wizard
+  48. file:///wiki/Special:SpecialPages
+  49. file:///w/index.php?title=1/N_expansion&oldid=1244280871
+  50. file:///w/index.php?title=1/N_expansion&action=info
+  51. file:///w/index.php?title=Special:CiteThisPage&page=1/N_expansion&id=1244280871&wpFormIdentifier=titleform
+  52. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/1/N_expansion
+  53. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/1/N_expansion
+  54. file:///w/index.php?title=Special:DownloadAsPdf&page=1/N_expansion&action=show-download-screen
+  55. file:///w/index.php?title=1/N_expansion&printable=yes
+  56. https://www.wikidata.org/wiki/Special:EntityPage/Q951142
+  57. file:///wiki/File:Three_Gluon_Vertex_in_t'Hooft_notation.svg
+  58. file:///wiki/File:1_over_N1.png
+  59. file:///wiki/File:1_over_N2.png
+  60. file:///wiki/Quantum_field_theory
+  61. file:///wiki/Statistical_mechanics
+  62. file:///wiki/Perturbation_theory
+  63. file:///wiki/Internal_symmetry
+  64. file:///wiki/Group_theory
+  65. file:///wiki/Special_orthogonal_group
+  66. file:///wiki/Special_unitary_group
+  67. file:///wiki/Quantum_chromodynamics
+  68. file:///wiki/Gauge_group
+  69. file:///wiki/Particle_physics
+  70. file:///wiki/AdS/CFT
+  71. file:///wiki/Condensed_matter_physics
+  72. file:///wiki/Mean-field_theory
+  73. file:///w/index.php?title=1/N_expansion&action=edit&section=1
+  74. file:///wiki/Orthogonal_group
+  75. file:///wiki/Quartic_interaction
+  76. file:///wiki/Real_number
+  77. file:///wiki/Index_notation
+  78. file:///wiki/Flavour_(particle_physics)
+  79. file:///wiki/Einstein_summation_convention
+  80. file:///wiki/Lagrangian_density
+  81. file:///wiki/Coupling_constant
+  82. file:///wiki/Auxiliary_field
+  83. file:///wiki/Feynman_diagram
+  84. file:///wiki/Cycle_(graph_theory)
+  85. file:///wiki/Connected_correlation_function
+  86. file:///wiki/Vacuum_energy_density
+  87. file:///wiki/General_relativity
+  88. file:///wiki/Wikipedia:Please_clarify
+  89. file:///wiki/Feynman_diagram
+  90. file:///w/index.php?title=1/N_expansion&action=edit&section=2
+  91. file:///wiki/Quantum_chromodynamics
+  92. file:///wiki/Gauge_theory
+  93. file:///wiki/Gluon
+  94. file:///wiki/Quark
+  95. file:///wiki/Weyl_fermion
+  96. file:///w/index.php?title=Triplet_representation&action=edit&redlink=1
+  97. file:///w/index.php?title=Antitriplet_representation&action=edit&redlink=1
+  98. file:///wiki/Real_number
+  99. file:///wiki/Adjoint_representation
+ 100. file:///wiki/AdS/CFT
+ 101. file:///w/index.php?title=1/N_expansion&action=edit&section=3
+ 102. file:///wiki/Gerardus_'t_Hooft
+ 103. https://web.archive.org/web/20061011161657/http://igitur-archive.library.uu.nl/phys/2005-0622-152933/UUindex.html
+ 104. file:///wiki/Bibcode_(identifier)
+ 105. https://ui.adsabs.harvard.edu/abs/1974NuPhB..72..461T
+ 106. file:///wiki/Doi_(identifier)
+ 107. https://doi.org/10.1016/0550-3213(74)90154-0
+ 108. http://igitur-archive.library.uu.nl/phys/2005-0622-152933/UUindex.html
+ 109. https://en.wikipedia.org/w/index.php?title=1/N_expansion&oldid=1244280871
+ 110. file:///wiki/Help:Category
+ 111. file:///wiki/Category:Quantum_field_theory
+ 112. file:///wiki/Category:Quantum_chromodynamics
+ 113. file:///wiki/Category:String_theory
+ 114. file:///wiki/Category:Statistical_mechanics
+ 115. file:///wiki/Category:Articles_with_short_description
+ 116. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 117. file:///wiki/Category:Wikipedia_articles_needing_clarification_from_December_2020
+ 118. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 119. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 120. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 121. https://wikimediafoundation.org/
+ 122. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 123. file:///wiki/Wikipedia:About
+ 124. file:///wiki/Wikipedia:General_disclaimer
+ 125. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 126. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 127. https://developer.wikimedia.org/
+ 128. https://stats.wikimedia.org/#/en.wikipedia.org
+ 129. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 130. file://en.m.wikipedia.org/w/index.php?title=1/N_expansion&mobileaction=toggle_view_mobile
+ 131. https://wikimediafoundation.org/
+ 132. https://www.mediawiki.org/

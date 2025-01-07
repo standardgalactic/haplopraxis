@@ -1,0 +1,542 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Synthesis
+     * [30]2 Reactions
+       (BUTTON) Toggle Reactions subsection
+          + [31]2.1 Acetic acid addition
+          + [32]2.2 Polymerization
+     * [33]3 See also
+     * [34]4 References
+
+   [ ] Toggle the table of contents
+
+1.1.1-Propellane
+
+   [ ] 4 languages
+     * [35]Čeština
+     * [36]日本語
+     * [37]Српски / srpski
+     * [38]Srpskohrvatski / српскохрватски
+
+   [39]Edit links
+
+     * [40]Article
+     * [41]Talk
+
+   [ ] English
+
+     * [42]Read
+     * [43]Edit
+     * [44]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [45]Read
+     * [46]Edit
+     * [47]View history
+
+   General
+     * [48]What links here
+     * [49]Related changes
+     * [50]Upload file
+     * [51]Special pages
+     * [52]Permanent link
+     * [53]Page information
+     * [54]Cite this page
+     * [55]Get shortened URL
+     * [56]Download QR code
+
+   Print/export
+     * [57]Download as PDF
+     * [58]Printable version
+
+   In other projects
+     * [59]Wikimedia Commons
+     * [60]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Highly-strained hydrocarbon ring compound
+   The correct title of this article is [1.1.1]Propellane. The omission of
+   any [61]brackets is due to [62]technical restrictions.
+
+   CAPTION: [1.1.1]Propellane
+
+   [63][110px-1.1.1-propellane.svg.png] [64][150px-1.1.1-propellane.png]
+   Names
+   [65]Preferred IUPAC name
+   Tricyclo[1.1.1.0^1,3]pentane
+   Identifiers
+   [66]CAS Number
+     * [67]35634-10-7^  ☒ N
+
+   3D model ([68]JSmol)
+     * [69]Interactive image
+
+   [70]ChemSpider
+     * [71]125285^  check Y
+
+   [72]PubChem CID
+
+     * [73]142022
+
+   [74]CompTox Dashboard (EPA)
+
+     * [75]DTXSID20189149 [76]Edit this at Wikidata
+
+   [77]InChI
+     * InChI=1S/C5H6/c1-4-2-5(1,4)3-4/h1-3H2^  check Y
+       Key: ZTXSPLGEGCABFL-UHFFFAOYSA-N^  check Y
+
+   [78]SMILES
+     * C1(C2)(C3)C23C1
+
+   Properties
+
+   [79]Chemical formula
+
+   C[5]H[6]
+   [80]Molar mass 66.103 g·mol^−1
+
+   Except where otherwise noted, data are given for materials in their
+   [81]standard state (at 25 °C [77 °F], 100 kPa).
+
+   ☒ N [82]verify ([83]what is ^ check Y ☒ N ?)
+
+   [84]Infobox references
+
+   Chemical compound
+
+   [1.1.1]Propellane is an [85]organic compound, the simplest member of
+   the [86]propellane family. It is a [87]hydrocarbon with formula
+   C[5]H[6] or C[2](CH[2])[3]. The molecular structure consists of three
+   rings of three [88]carbon atoms each, sharing one [89]C–C bond.
+
+   [1.1.1]Propellane is a [90]highly strained molecule. The bonds of the
+   two central carbon atoms have an [91]inverted tetrahedral geometry, and
+   the [92]length of the central bond is 160 pm. The [93]strength of that
+   bond is disputed; estimates vary from 59–65 [94]kcal/[95]mol to no
+   strength at all. The energy of the [96]biradical state (with no central
+   bond at all) is calculated to be 80 kcal/mol higher. At 114 °C it will
+   spontaneously [97]isomerize to [98]3-methylidenecyclobutene (5 below)
+   with a [99]half-life of 5 minutes. Its [100]strain energy is estimated
+   to be 102 kcal/mol (427 [101]kJ/mol). Surprisingly, [1.1.1]propellane
+   is persistent at room temperature and is somewhat less susceptible to
+   thermal decomposition than the less strained (90 kcal/mol)
+   [2.2.2]propellane system, which has an estimated half-life of only
+   about 1 h at 25 °C.^[102][1] This unusual stability is attributed to
+   delocalisation of electron density from the bond between the central
+   carbon atoms onto the bridging carbon atoms.^[103][2]
+
+   The type of bonding in this molecule has been explained in terms of
+   [104]charge-shift bonding.^[105][3]
+
+Synthesis
+
+   [[106]edit]
+
+   [1.1.1]Propellane was first reported by [107]Kenneth B. Wiberg and F.
+   Walker in 1982. The synthesis commences with [108]cyclopropanation of
+   [109]1,1-bis(chloromethyl)ethylene,^[110][4] according to the following
+   scheme:
+
+          [111][400px-111propellaneSynthesis.png] Scheme 1. Synthesis of
+          [1.1.1]propellane
+
+   Synthesis begins with conversion of the 1,3-di-[112]carboxylic acid of
+   [113]bicyclo[1.1.1]pentane 1 in a [114]Hunsdiecker reaction to the
+   corresponding di[115]bromide 2 followed by a [116]coupling reaction
+   with [117]n-butyllithium. The final product 3 was isolated by
+   [118]column chromatography at −30 °C.
+
+   However, a much simplified synthesis was published by
+   Szeimies.^[119][5] It starts with [120]dibromocarbene addition to the
+   [121]alkene bond of 3-chloro-2-(chloromethyl)propene 6 followed by
+   [122]deprotonation by [123]methyllithium and [124]nucleophilic
+   displacements in 7.^[125][6] The product was not isolated but kept in
+   solution at −196 °C.
+
+Reactions
+
+   [[126]edit]
+
+Acetic acid addition
+
+   [[127]edit]
+
+   [1.1.1]Propellane spontaneously reacts with [128]acetic acid to yield a
+   [129]methylidenecyclobutane [130]ester (4 above).
+
+Polymerization
+
+   [[131]edit]
+
+   [1.1.1]Propellane undergoes a [132]polymerization reaction where the
+   central C–C bond is split and connected to adjacent [133]monomer units,
+   resulting in [134]staffanes.^[135][7]
+
+          [136][400px-Staffanes.png] Scheme 2. Synthesis of [n]staffane
+
+   A [137]radical polymerization initiated by [138]methyl formate and
+   [139]benzoyl peroxide results in a distribution of [140]oligomers. An
+   [141]anionic addition polymerization with [142]n-butyllithium results
+   in a fully polymerized product. [143]X-ray diffraction of the polymer
+   shows that the connecting C–C bonds have [144]bond lengths of only
+   1.48 Å, significantly shorter than the normal 1.54 Å.
+
+   The compound [145]1,3-dehydroadamantane, which can be viewed as a
+   bridged [1.3.3]propellane, also polymerizes in a similar way.
+
+See also
+
+   [[146]edit]
+
+     * [147][2.2.2]Propellane
+     * [148]Bicyclo(1.1.1)pentane which lacks a bond between the
+       bridgehead carbons.
+
+References
+
+   [[149]edit]
+
+    1. [150]^ [151]"Houben-Weyl Methods of Organic Chemistry Vol. E 17e,
+       4th Edition Supplement (E-Book PDF) - Thieme.de - Thieme Webshop -
+       Armin de Meijere, Holger Butenschön, Hak-Fun Chow, Lutz Fitjer,
+       Günter Haufe". Thieme Webshop (in German). Archived from [152]the
+       original on October 22, 2017. Retrieved 2017-10-21.
+    2. [153]^ Sterling, Alistair J.; Dürr, Alexander; Smith, Russell;
+       Anderson, Edward Alexander; Duarte, Fernanda (2020-04-13).
+       [154]"Rationalizing the diverse reactivity of [1.1.1]propellane
+       through sigma-pi-delocalization". Chemical Science. 11 (19):
+       4895–4903. [155]doi:[156]10.1039/D0SC01386B.
+       [157]ISSN [158]2041-6539. [159]PMC [160]8159217.
+       [161]PMID [162]34122945.
+    3. [163]^ Wu, Wei; Gu, Junjing; Song, Jinshuai; Shaik, Sason; Hiberty,
+       Philippe C. (2009). [164]"The Inverted Bond in [1.1.1]Propellane is
+       a Charge-Shift Bond". [165]Angew. Chem. Int. Ed. 48 (8): 1407–1410.
+       [166]doi:[167]10.1002/anie.200804965. [168]PMID [169]19072971.
+    4. [170]^ Wiberg, K. B.; Walker, F. H. (1982). "[1.1.1]Propellane".
+       [171]J. Am. Chem. Soc. 104 (19): 5239–5240.
+       [172]doi:[173]10.1021/ja00383a046.
+    5. [174]^ Belzner, Johannes; Bunz, Uwe; Semmler, Klaus; Szeimies,
+       Günter; Opitz, Klaus; Schlüter, Arnulf-Dieter; et al. (1989).
+       "Concerning the synthesis of [1.1.1]propellane". [175]Chem. Ber.
+       122 (2): 397–398. [176]doi:[177]10.1002/cber.19891220233.
+    6. [178]^ Mondanaro, Kathleen R.; Dailey, William P.
+       [179]"[1.1.1]Propellane". [180]Organic Syntheses. 75: 98;
+
+   Collected Volumes, vol. 10.
+
+     [181]^ Kaszynski, Piotr; Michl, Josef (1988). "[n]Staffanes: a
+   molecular-size "Tinkertoy" construction set for nanotechnology.
+   Preparation of end-functionalized telomers and a polymer of
+   [1.1.1]propellane". [182]J. Am. Chem. Soc. 110 (15): 5225–5226.
+   [183]doi:[184]10.1021/ja00223a070.
+
+   Retrieved from
+   "[185]https://en.wikipedia.org/w/index.php?title=1.1.1-Propellane&oldid
+   =1225286980"
+
+   [186]Categories:
+     * [187]Bicycloalkanes
+     * [188]Tricyclic compounds
+
+   Hidden categories:
+     * [189]CS1 German-language sources (de)
+     * [190]Articles with short description
+     * [191]Short description is different from Wikidata
+     * [192]Restricted titles (brackets)
+     * [193]Articles without InChI source
+     * [194]Articles without EBI source
+     * [195]Articles without KEGG source
+     * [196]Articles without UNII source
+     * [197]Articles with changed CASNo identifier
+     * [198]Articles containing unverified chemical infoboxes
+     * [199]Chembox image size set
+     * [200]Short description matches Wikidata
+
+     * This page was last edited on 23 May 2024, at 14:11 (UTC).
+     * Text is available under the [201]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [202]Terms of Use and
+       [203]Privacy Policy. Wikipedia® is a registered trademark of the
+       [204]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [205]Privacy policy
+     * [206]About Wikipedia
+     * [207]Disclaimers
+     * [208]Contact Wikipedia
+     * [209]Code of Conduct
+     * [210]Developers
+     * [211]Statistics
+     * [212]Cookie statement
+     * [213]Mobile view
+
+     * [214]Wikimedia Foundation
+     * [215]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/1.1.1-Propellane
+   2. file:///w/index.php?title=1.1.1-Propellane&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=1.1.1-Propellane
+  21. file:///w/index.php?title=Special:UserLogin&returnto=1.1.1-Propellane
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=1.1.1-Propellane
+  24. file:///w/index.php?title=Special:UserLogin&returnto=1.1.1-Propellane
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html
+  29. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#Synthesis
+  30. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#Reactions
+  31. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#Acetic_acid_addition
+  32. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#Polymerization
+  33. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#See_also
+  34. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#References
+  35. https://cs.wikipedia.org/wiki/1.1.1-propelan
+  36. https://ja.wikipedia.org/wiki/1.1.1-プロペラン
+  37. https://sr.wikipedia.org/wiki/1.1.1-Propelan
+  38. https://sh.wikipedia.org/wiki/1.1.1-Propelan
+  39. https://www.wikidata.org/wiki/Special:EntityPage/Q4545828#sitelinks-wikipedia
+  40. file:///wiki/1.1.1-Propellane
+  41. file:///wiki/Talk:1.1.1-Propellane
+  42. file:///wiki/1.1.1-Propellane
+  43. file:///w/index.php?title=1.1.1-Propellane&action=edit
+  44. file:///w/index.php?title=1.1.1-Propellane&action=history
+  45. file:///wiki/1.1.1-Propellane
+  46. file:///w/index.php?title=1.1.1-Propellane&action=edit
+  47. file:///w/index.php?title=1.1.1-Propellane&action=history
+  48. file:///wiki/Special:WhatLinksHere/1.1.1-Propellane
+  49. file:///wiki/Special:RecentChangesLinked/1.1.1-Propellane
+  50. file:///wiki/Wikipedia:File_Upload_Wizard
+  51. file:///wiki/Special:SpecialPages
+  52. file:///w/index.php?title=1.1.1-Propellane&oldid=1225286980
+  53. file:///w/index.php?title=1.1.1-Propellane&action=info
+  54. file:///w/index.php?title=Special:CiteThisPage&page=1.1.1-Propellane&id=1225286980&wpFormIdentifier=titleform
+  55. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/1.1.1-Propellane
+  56. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/1.1.1-Propellane
+  57. file:///w/index.php?title=Special:DownloadAsPdf&page=1.1.1-Propellane&action=show-download-screen
+  58. file:///w/index.php?title=1.1.1-Propellane&printable=yes
+  59. https://commons.wikimedia.org/wiki/Category:1.1.1-Propellane
+  60. https://www.wikidata.org/wiki/Special:EntityPage/Q4545828
+  61. file:///wiki/Bracket
+  62. file:///wiki/Wikipedia:Naming_conventions_(technical_restrictions)#Clashes_with_wiki_markup/HTML_syntax
+  63. file:///wiki/File:1.1.1-propellane.svg
+  64. file:///wiki/File:1.1.1-propellane.png
+  65. file:///wiki/Preferred_IUPAC_name
+  66. file:///wiki/CAS_Registry_Number
+  67. https://commonchemistry.cas.org/detail?cas_rn=35634-10-7
+  68. file:///wiki/JSmol
+  69. https://chemapps.stolaf.edu/jmol/jmol.php?model=C1(C2)(C3)C23C1
+  70. file:///wiki/ChemSpider
+  71. https://www.chemspider.com/Chemical-Structure.125285.html
+  72. file:///wiki/PubChem
+  73. https://pubchem.ncbi.nlm.nih.gov/compound/142022
+  74. file:///wiki/CompTox_Chemicals_Dashboard
+  75. https://comptox.epa.gov/dashboard/chemical/details/DTXSID20189149
+  76. https://www.wikidata.org/wiki/Q4545828#P3117
+  77. file:///wiki/International_Chemical_Identifier
+  78. file:///wiki/Simplified_molecular-input_line-entry_system
+  79. file:///wiki/Chemical_formula
+  80. file:///wiki/Molar_mass
+  81. file:///wiki/Standard_state
+  82. https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=477208655&page2=1.1.1-Propellane
+  83. file:///wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation
+  84. file:///wiki/Wikipedia:Chemical_infobox#References
+  85. file:///wiki/Organic_compound
+  86. file:///wiki/Propellane
+  87. file:///wiki/Hydrocarbon
+  88. file:///wiki/Carbon
+  89. file:///wiki/C–C_bond
+  90. file:///wiki/Ring_strain
+  91. file:///wiki/Inverted_tetrahedral_geometry
+  92. file:///wiki/Bond_length
+  93. file:///wiki/Bond_strength
+  94. file:///wiki/Kcal
+  95. file:///wiki/Mole_(unit)
+  96. file:///wiki/Biradical
+  97. file:///wiki/Isomerization
+  98. file:///w/index.php?title=3-methylidenecyclobutene&action=edit&redlink=1
+  99. file:///wiki/Chemical_half-life
+ 100. file:///wiki/Strain_energy
+ 101. file:///wiki/Kilojoule
+ 102. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_note-1
+ 103. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_note-2
+ 104. file:///wiki/Charge-shift_bond
+ 105. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_note-3
+ 106. file:///w/index.php?title=1.1.1-Propellane&action=edit&section=1
+ 107. file:///wiki/Kenneth_B._Wiberg
+ 108. file:///wiki/Cyclopropanation
+ 109. file:///wiki/1,1-bis(chloromethyl)ethylene
+ 110. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_note-4
+ 111. file:///wiki/File:111propellaneSynthesis.png
+ 112. file:///wiki/Carboxylic_acid
+ 113. file:///wiki/Bicyclo(1.1.1)pentane
+ 114. file:///wiki/Hunsdiecker_reaction
+ 115. file:///wiki/Bromide
+ 116. file:///wiki/Coupling_reaction
+ 117. file:///wiki/N-Butyllithium
+ 118. file:///wiki/Column_chromatography
+ 119. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_note-5
+ 120. file:///wiki/Dibromocarbene
+ 121. file:///wiki/Alkene
+ 122. file:///wiki/Deprotonation
+ 123. file:///wiki/Methyllithium
+ 124. file:///wiki/Nucleophilic_displacement
+ 125. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_note-6
+ 126. file:///w/index.php?title=1.1.1-Propellane&action=edit&section=2
+ 127. file:///w/index.php?title=1.1.1-Propellane&action=edit&section=3
+ 128. file:///wiki/Acetic_acid
+ 129. file:///w/index.php?title=Methylidenecyclobutane&action=edit&redlink=1
+ 130. file:///wiki/Ester
+ 131. file:///w/index.php?title=1.1.1-Propellane&action=edit&section=4
+ 132. file:///wiki/Polymerization
+ 133. file:///wiki/Monomer
+ 134. file:///wiki/Staffane
+ 135. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_note-7
+ 136. file:///wiki/File:Staffanes.png
+ 137. file:///wiki/Radical_polymerization
+ 138. file:///wiki/Methyl_formate
+ 139. file:///wiki/Benzoyl_peroxide
+ 140. file:///wiki/Oligomer
+ 141. file:///wiki/Anionic_addition_polymerization
+ 142. file:///wiki/N-Butyllithium
+ 143. file:///wiki/X-ray_diffraction
+ 144. file:///wiki/Bond_length
+ 145. file:///wiki/1,3-dehydroadamantane
+ 146. file:///w/index.php?title=1.1.1-Propellane&action=edit&section=5
+ 147. file:///wiki/2.2.2-Propellane
+ 148. file:///wiki/Bicyclo(1.1.1)pentane
+ 149. file:///w/index.php?title=1.1.1-Propellane&action=edit&section=6
+ 150. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_ref-1
+ 151. https://web.archive.org/web/20171022033632/https://www.thieme.de/shop/Houben-Weyl--SoS/de-Meijere-Butenschoen-Chow-Fitjer-Haufe-Houben-Weyl-Methods-of-Organic-Chemistry-9783131819840/p/000000009583004404
+ 152. https://www.thieme.de/shop/Houben-Weyl--SoS/de-Meijere-Butenschoen-Chow-Fitjer-Haufe-Houben-Weyl-Methods-of-Organic-Chemistry-9783131819840/p/000000009583004404
+ 153. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_ref-2
+ 154. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8159217
+ 155. file:///wiki/Doi_(identifier)
+ 156. https://doi.org/10.1039/D0SC01386B
+ 157. file:///wiki/ISSN_(identifier)
+ 158. https://search.worldcat.org/issn/2041-6539
+ 159. file:///wiki/PMC_(identifier)
+ 160. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8159217
+ 161. file:///wiki/PMID_(identifier)
+ 162. https://pubmed.ncbi.nlm.nih.gov/34122945
+ 163. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_ref-3
+ 164. https://doi.org/10.1002/anie.200804965
+ 165. file:///wiki/Angew._Chem._Int._Ed.
+ 166. file:///wiki/Doi_(identifier)
+ 167. https://doi.org/10.1002/anie.200804965
+ 168. file:///wiki/PMID_(identifier)
+ 169. https://pubmed.ncbi.nlm.nih.gov/19072971
+ 170. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_ref-4
+ 171. file:///wiki/J._Am._Chem._Soc.
+ 172. file:///wiki/Doi_(identifier)
+ 173. https://doi.org/10.1021/ja00383a046
+ 174. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_ref-5
+ 175. file:///wiki/Chem._Ber.
+ 176. file:///wiki/Doi_(identifier)
+ 177. https://doi.org/10.1002/cber.19891220233
+ 178. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_ref-6
+ 179. http://www.orgsyn.org/demo.aspx?prep=v75p0098
+ 180. file:///wiki/Organic_Syntheses
+ 181. file:///tmp/lynxXXXXuq4v5p/L60667-1673TMP.html#cite_ref-7
+ 182. file:///wiki/J._Am._Chem._Soc.
+ 183. file:///wiki/Doi_(identifier)
+ 184. https://doi.org/10.1021/ja00223a070
+ 185. https://en.wikipedia.org/w/index.php?title=1.1.1-Propellane&oldid=1225286980
+ 186. file:///wiki/Help:Category
+ 187. file:///wiki/Category:Bicycloalkanes
+ 188. file:///wiki/Category:Tricyclic_compounds
+ 189. file:///wiki/Category:CS1_German-language_sources_(de)
+ 190. file:///wiki/Category:Articles_with_short_description
+ 191. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 192. file:///wiki/Category:Restricted_titles_(brackets)
+ 193. file:///wiki/Category:Articles_without_InChI_source
+ 194. file:///wiki/Category:Articles_without_EBI_source
+ 195. file:///wiki/Category:Articles_without_KEGG_source
+ 196. file:///wiki/Category:Articles_without_UNII_source
+ 197. file:///wiki/Category:Articles_with_changed_CASNo_identifier
+ 198. file:///wiki/Category:Articles_containing_unverified_chemical_infoboxes
+ 199. file:///wiki/Category:Chembox_image_size_set
+ 200. file:///wiki/Category:Short_description_matches_Wikidata
+ 201. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 202. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 203. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 204. https://wikimediafoundation.org/
+ 205. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 206. file:///wiki/Wikipedia:About
+ 207. file:///wiki/Wikipedia:General_disclaimer
+ 208. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 209. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 210. https://developer.wikimedia.org/
+ 211. https://stats.wikimedia.org/#/en.wikipedia.org
+ 212. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 213. file://en.m.wikipedia.org/w/index.php?title=1.1.1-Propellane&mobileaction=toggle_view_mobile
+ 214. https://wikimediafoundation.org/
+ 215. https://www.mediawiki.org/

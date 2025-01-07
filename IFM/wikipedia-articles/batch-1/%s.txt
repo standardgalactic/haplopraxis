@@ -1,0 +1,249 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 C string
+     * [30]2 System time
+     * [31]3 Web browsers and websites
+
+   [ ] Toggle the table of contents
+
+%s
+
+   [ ] 2 languages
+     * [32]Español
+     * [33]فارسی
+
+   [34]Edit links
+
+     * [35]Article
+     * [36]Talk
+
+   [ ] English
+
+     * [37]Read
+     * [38]Edit
+     * [39]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [40]Read
+     * [41]Edit
+     * [42]View history
+
+   General
+     * [43]What links here
+     * [44]Related changes
+     * [45]Upload file
+     * [46]Special pages
+     * [47]Permanent link
+     * [48]Page information
+     * [49]Cite this page
+     * [50]Get shortened URL
+     * [51]Download QR code
+
+   Print/export
+     * [52]Download as PDF
+     * [53]Printable version
+
+   In other projects
+     * [54]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+
+   %s may refer to:
+
+C string
+
+   [[55]edit]
+     * %s, in [56]printf format string
+     * %s, in [57]scanf format string
+
+System time
+
+   [[58]edit]
+     * %s, seconds in the [59]strftime format string
+     * %s, used to check the [60]Unix timestamp
+
+Web browsers and websites
+
+   [[61]edit]
+     * a marker in a [62]smart bookmark showing where to insert an
+       argument string
+     * a marker in setting 'site search shortcuts' (in the "URL with %s in
+       place of query" field) for [63]Opera and [64]Chromium-based
+       browsers
+
+   Topics referred to by the same term
+   [65]Disambiguation icon
+   This [66]disambiguation page lists articles associated with the title
+   %s.
+   If an [67]internal link led you here, you may wish to change the link
+   to point directly to the intended article.
+   Retrieved from
+   "[68]https://en.wikipedia.org/w/index.php?title=%25s&oldid=1176455956"
+   [69]Category:
+     * [70]Disambiguation pages
+
+   Hidden categories:
+     * [71]Short description is different from Wikidata
+     * [72]All article disambiguation pages
+     * [73]All disambiguation pages
+
+     * This page was last edited on 21 September 2023, at 20:45 (UTC).
+     * Text is available under the [74]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [75]Terms of Use and [76]Privacy
+       Policy. Wikipedia® is a registered trademark of the [77]Wikimedia
+       Foundation, Inc., a non-profit organization.
+
+     * [78]Privacy policy
+     * [79]About Wikipedia
+     * [80]Disclaimers
+     * [81]Contact Wikipedia
+     * [82]Code of Conduct
+     * [83]Developers
+     * [84]Statistics
+     * [85]Cookie statement
+     * [86]Mobile view
+
+     * [87]Wikimedia Foundation
+     * [88]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/%s
+   2. file:///w/index.php?title=%s&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXg5I8xm/L26048-7168TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=%s
+  21. file:///w/index.php?title=Special:UserLogin&returnto=%s
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=%s
+  24. file:///w/index.php?title=Special:UserLogin&returnto=%s
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXg5I8xm/L26048-7168TMP.html
+  29. file:///tmp/lynxXXXXg5I8xm/L26048-7168TMP.html#C_string
+  30. file:///tmp/lynxXXXXg5I8xm/L26048-7168TMP.html#System_time
+  31. file:///tmp/lynxXXXXg5I8xm/L26048-7168TMP.html#Web_browsers_and_websites
+  32. https://es.wikipedia.org/wiki/%s
+  33. https://fa.wikipedia.org/wiki/%s
+  34. https://www.wikidata.org/wiki/Special:EntityPage/Q13416959#sitelinks-wikipedia
+  35. file:///wiki/%s
+  36. file:///wiki/Talk:%s
+  37. file:///wiki/%s
+  38. file:///w/index.php?title=%s&action=edit
+  39. file:///w/index.php?title=%s&action=history
+  40. file:///wiki/%s
+  41. file:///w/index.php?title=%s&action=edit
+  42. file:///w/index.php?title=%s&action=history
+  43. file:///wiki/Special:WhatLinksHere/%s
+  44. file:///wiki/Special:RecentChangesLinked/%s
+  45. file:///wiki/Wikipedia:File_Upload_Wizard
+  46. file:///wiki/Special:SpecialPages
+  47. file:///w/index.php?title=%s&oldid=1176455956
+  48. file:///w/index.php?title=%s&action=info
+  49. file:///w/index.php?title=Special:CiteThisPage&page=%s&id=1176455956&wpFormIdentifier=titleform
+  50. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/%25s
+  51. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/%25s
+  52. file:///w/index.php?title=Special:DownloadAsPdf&page=%s&action=show-download-screen
+  53. file:///w/index.php?title=%s&printable=yes
+  54. https://www.wikidata.org/wiki/Special:EntityPage/Q13416959
+  55. file:///w/index.php?title=%s&action=edit&section=1
+  56. file:///wiki/Printf_format_string
+  57. file:///wiki/Scanf_format_string
+  58. file:///w/index.php?title=%s&action=edit&section=2
+  59. file:///wiki/Strftime
+  60. file:///wiki/Unix_timestamp
+  61. file:///w/index.php?title=%s&action=edit&section=3
+  62. file:///wiki/Smart_bookmark
+  63. file:///wiki/Opera_(web_browser)
+  64. file:///wiki/Chromium_(web_browser)
+  65. file:///wiki/File:Disambig_gray.svg
+  66. file:///wiki/Help:Disambiguation
+  67. https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/%s&namespace=0
+  68. https://en.wikipedia.org/w/index.php?title=%s&oldid=1176455956
+  69. file:///wiki/Help:Category
+  70. file:///wiki/Category:Disambiguation_pages
+  71. file:///wiki/Category:Short_description_is_different_from_Wikidata
+  72. file:///wiki/Category:All_article_disambiguation_pages
+  73. file:///wiki/Category:All_disambiguation_pages
+  74. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+  75. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+  76. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+  77. https://wikimediafoundation.org/
+  78. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+  79. file:///wiki/Wikipedia:About
+  80. file:///wiki/Wikipedia:General_disclaimer
+  81. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  82. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+  83. https://developer.wikimedia.org/
+  84. https://stats.wikimedia.org/#/en.wikipedia.org
+  85. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+  86. file://en.m.wikipedia.org/w/index.php?title=%s&mobileaction=toggle_view_mobile
+  87. https://wikimediafoundation.org/
+  88. https://www.mediawiki.org/

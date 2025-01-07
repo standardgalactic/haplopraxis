@@ -1,0 +1,1360 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Regular 10-polytopes
+     * [30]2 Euler characteristic
+     * [31]3 Uniform 10-polytopes by fundamental Coxeter groups
+     * [32]4 The A[10] family
+     * [33]5 The B[10] family
+     * [34]6 The D[10] family
+     * [35]7 Regular and uniform honeycombs
+       (BUTTON) Toggle Regular and uniform honeycombs subsection
+          + [36]7.1 Regular and uniform hyperbolic honeycombs
+     * [37]8 References
+     * [38]9 External links
+
+   [ ] Toggle the table of contents
+
+Uniform 10-polytope
+
+   [ ] Add languages
+
+   [39]Add links
+
+     * [40]Article
+     * [41]Talk
+
+   [ ] English
+
+     * [42]Read
+     * [43]Edit
+     * [44]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [45]Read
+     * [46]Edit
+     * [47]View history
+
+   General
+     * [48]What links here
+     * [49]Related changes
+     * [50]Upload file
+     * [51]Special pages
+     * [52]Permanent link
+     * [53]Page information
+     * [54]Cite this page
+     * [55]Get shortened URL
+     * [56]Download QR code
+
+   Print/export
+     * [57]Download as PDF
+     * [58]Printable version
+
+   In other projects
+     * [59]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [60]10-polytope)
+   Type of geometrical object
+
+   CAPTION: Graphs of three [61]regular and related [62]uniform polytopes.
+
+                      [63][100px-10-simplex_t0.svg.png]
+              [64]10-simplex [65][100px-10-simplex_t01.svg.png]
+         [66]Truncated 10-simplex [67][100px-10-simplex_t1.svg.png]
+                          [68]Rectified 10-simplex
+                     [69][150px-10-simplex_t02.svg.png]
+        [70]Cantellated 10-simplex [71][150px-10-simplex_t03.svg.png]
+                          [72]Runcinated 10-simplex
+                     [73][100px-10-simplex_t04.svg.png]
+        [74]Stericated 10-simplex [75][100px-10-simplex_t05.svg.png]
+        [76]Pentellated 10-simplex [77][100px-10-simplex_t06.svg.png]
+                          [78]Hexicated 10-simplex
+                     [79][100px-10-simplex_t07.svg.png]
+        [80]Heptellated 10-simplex [81][100px-10-simplex_t08.svg.png]
+        [82]Octellated 10-simplex [83][100px-10-simplex_t09.svg.png]
+                          [84]Ennecated 10-simplex
+                      [85][100px-10-orthoplex.svg.png]
+           [86]10-orthoplex [87][100px-Truncated_10-orthoplex.png]
+       [88]Truncated 10-orthoplex [89][100px-Rectified_decacross.png]
+                         [90]Rectified 10-orthoplex
+                         [91][100px-10-cube.svg.png]
+                [92]10-cube [93][100px-Truncated_10-cube.png]
+           [94]Truncated 10-cube [95][100px-Rectified_10-cube.png]
+                            [96]Rectified 10-cube
+                       [97][150px-10-demicube.svg.png]
+            [98]10-demicube [99][150px-Truncated_10-demicube.png]
+                         [100]Truncated 10-demicube
+
+   In ten-dimensional [101]geometry, a 10-polytope is a 10-dimensional
+   [102]polytope whose boundary consists of [103]9-polytope [104]facets,
+   exactly two such facets meeting at each [105]8-polytope [106]ridge.
+
+   A uniform 10-polytope is one which is [107]vertex-transitive, and
+   constructed from [108]uniform [109]facets.
+
+Regular 10-polytopes
+
+   [[110]edit]
+
+   Regular 10-polytopes can be represented by the [111]Schläfli symbol
+   {p,q,r,s,t,u,v,w,x}, with x {p,q,r,s,t,u,v,w} 9-polytope [112]facets
+   around each [113]peak.
+
+   There are exactly three such [114]convex regular 10-polytopes:
+    1. {3,3,3,3,3,3,3,3,3} - [115]10-simplex
+    2. {4,3,3,3,3,3,3,3,3} - [116]10-cube
+    3. {3,3,3,3,3,3,3,3,4} - [117]10-orthoplex
+
+   There are no nonconvex regular 10-polytopes.
+
+Euler characteristic
+
+   [[118]edit]
+
+   The topology of any given 10-polytope is defined by its [119]Betti
+   numbers and [120]torsion coefficients.^[121][1]
+
+   The value of the [122]Euler characteristic used to characterise
+   polyhedra does not generalize usefully to higher dimensions, and is
+   zero for all 10-polytopes, whatever their underlying topology. This
+   inadequacy of the Euler characteristic to reliably distinguish between
+   different topologies in higher dimensions led to the discovery of the
+   more sophisticated Betti numbers.^[123][1]
+
+   Similarly, the notion of orientability of a polyhedron is insufficient
+   to characterise the surface twistings of toroidal polytopes, and this
+   led to the use of torsion coefficients.^[124][1]
+
+Uniform 10-polytopes by fundamental Coxeter groups
+
+   [[125]edit]
+
+   Uniform 10-polytopes with reflective symmetry can be generated by these
+   three Coxeter groups, represented by permutations of rings of the
+   [126]Coxeter-Dynkin diagrams:
+   # [127]Coxeter group [128]Coxeter-Dynkin diagram
+   1 A[10] [3^9] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   2 B[10] [4,3^8] [CDel_node.png] [CDel_4.png] [CDel_node.png]
+   [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   3 D[10] [3^7,1,1] [CDel_nodes.png] [CDel_split2.png] [CDel_node.png]
+   [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png]
+
+   Selected regular and uniform 10-polytopes from each family include:
+    1. [129]Simplex family: A[10] [3^9] - [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png]
+          + 527 uniform 10-polytopes as permutations of rings in the group
+            diagram, including one regular:
+              1. {3^9} - [130]10-simplex - [CDel_node_1.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png]
+    2. [131]Hypercube/[132]orthoplex family: B[10] [4,3^8] -
+       [CDel_node.png] [CDel_4.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png]
+          + 1023 uniform 10-polytopes as permutations of rings in the
+            group diagram, including two regular ones:
+              1. {4,3^8} - [133]10-cube or dekeract - [CDel_node_1.png]
+                 [CDel_4.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png]
+              2. {3^8,4} - [134]10-orthoplex or decacross -
+                 [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_4.png] [CDel_node.png]
+              3. h{4,3^8} - [135]10-demicube [CDel_node_h.png]
+                 [CDel_4.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] .
+    3. [136]Demihypercube D[10] family: [3^7,1,1] - [CDel_nodes.png]
+       [CDel_split2.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+       [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+       [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+       [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+          + 767 uniform 10-polytopes as permutations of rings in the group
+            diagram, including:
+              1. 1[7,1] - [137]10-demicube or demidekeract -
+                 [CDel_nodes_10ru.png] [CDel_split2.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+                 [CDel_3.png] [CDel_node.png]
+              2. 7[1,1] - [138]10-orthoplex - [CDel_nodes.png]
+                 [CDel_split2.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node_1.png]
+
+The A[10] family
+
+   [[139]edit]
+
+   The A[10] family has symmetry of order 39,916,800 (11 [140]factorial).
+
+   There are 512+16-1=527 forms based on all permutations of the
+   [141]Coxeter-Dynkin diagrams with one or more rings. 31 are shown
+   below: all one and two ringed forms, and the final omnitruncated form.
+   Bowers-style acronym names are given in parentheses for
+   cross-referencing.
+   # Graph [142]Coxeter-Dynkin diagram
+   [143]Schläfli symbol
+   Name Element counts
+   9-faces 8-faces 7-faces 6-faces 5-faces 4-faces Cells Faces Edges
+   Vertices
+                     1 [144][60px-10-simplex_t0.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png]
+   t[0]{3,3,3,3,3,3,3,3,3}
+   [145]10-simplex (ux)
+   11 55 165 330 462 462 330 165 55 11
+                     2 [146][60px-10-simplex_t1.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   t[1]{3,3,3,3,3,3,3,3,3}
+   [147]Rectified 10-simplex (ru)
+   495 55
+                     3 [148][60px-10-simplex_t2.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[2]{3,3,3,3,3,3,3,3,3}
+   [149]Birectified 10-simplex (bru)
+   1980 165
+                     4 [150][60px-10-simplex_t3.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[3]{3,3,3,3,3,3,3,3,3}
+   [151]Trirectified 10-simplex (tru)
+   4620 330
+                     5 [152][60px-10-simplex_t4.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[4]{3,3,3,3,3,3,3,3,3}
+   [153]Quadrirectified 10-simplex (teru)
+   6930 462
+                    6 [154][60px-10-simplex_t01.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node_1.png]
+   t[0,1]{3,3,3,3,3,3,3,3,3}
+   [155]Truncated 10-simplex (tu)
+   550 110
+                    7 [156][60px-10-simplex_t02.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png]
+   t[0,2]{3,3,3,3,3,3,3,3,3}
+   [157]Cantellated 10-simplex
+   4455 495
+                    8 [158][60px-10-simplex_t12.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   t[1,2]{3,3,3,3,3,3,3,3,3}
+   [159]Bitruncated 10-simplex
+   2475 495
+                    9 [160][60px-10-simplex_t03.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png]
+   t[0,3]{3,3,3,3,3,3,3,3,3}
+   [161]Runcinated 10-simplex
+   15840 1320
+                    10 [162][60px-10-simplex_t13.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   t[1,3]{3,3,3,3,3,3,3,3,3}
+   [163]Bicantellated 10-simplex
+   17820 1980
+                    11 [164][60px-10-simplex_t23.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[2,3]{3,3,3,3,3,3,3,3,3}
+   [165]Tritruncated 10-simplex
+   6600 1320
+                    12 [166][60px-10-simplex_t04.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png]
+   t[0,4]{3,3,3,3,3,3,3,3,3}
+   [167]Stericated 10-simplex
+   32340 2310
+                    13 [168][60px-10-simplex_t14.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   t[1,4]{3,3,3,3,3,3,3,3,3}
+   [169]Biruncinated 10-simplex
+   55440 4620
+                    14 [170][60px-10-simplex_t24.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[2,4]{3,3,3,3,3,3,3,3,3}
+   [171]Tricantellated 10-simplex
+   41580 4620
+                                     15
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[3,4]{3,3,3,3,3,3,3,3,3}
+   [172]Quadritruncated 10-simplex
+   11550 2310
+                    16 [173][60px-10-simplex_t05.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png]
+   t[0,5]{3,3,3,3,3,3,3,3,3}
+   [174]Pentellated 10-simplex
+   41580 2772
+                                     17
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   t[1,5]{3,3,3,3,3,3,3,3,3}
+   [175]Bistericated 10-simplex
+   97020 6930
+                                     18
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[2,5]{3,3,3,3,3,3,3,3,3}
+   [176]Triruncinated 10-simplex
+   110880 9240
+                    19 [177][60px-10-simplex_t35.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[3,5]{3,3,3,3,3,3,3,3,3}
+   [178]Quadricantellated 10-simplex
+   62370 6930
+                                     20
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[4,5]{3,3,3,3,3,3,3,3,3}
+   [179]Quintitruncated 10-simplex
+   13860 2772
+                    21 [180][60px-10-simplex_t06.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png]
+   t[0,6]{3,3,3,3,3,3,3,3,3}
+   [181]Hexicated 10-simplex
+   34650 2310
+                                     22
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   t[1,6]{3,3,3,3,3,3,3,3,3}
+   [182]Bipentellated 10-simplex
+   103950 6930
+                                     23
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[2,6]{3,3,3,3,3,3,3,3,3}
+   [183]Tristericated 10-simplex
+   161700 11550
+                                     24
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[3,6]{3,3,3,3,3,3,3,3,3}
+   [184]Quadriruncinated 10-simplex
+   138600 11550
+                    25 [185][60px-10-simplex_t07.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png]
+   t[0,7]{3,3,3,3,3,3,3,3,3}
+   [186]Heptellated 10-simplex
+   18480 1320
+                                     26
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   t[1,7]{3,3,3,3,3,3,3,3,3}
+   [187]Bihexicated 10-simplex
+   69300 4620
+                                     27
+
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   t[2,7]{3,3,3,3,3,3,3,3,3}
+   [188]Tripentellated 10-simplex
+   138600 9240
+                    28 [189][60px-10-simplex_t08.svg.png]
+
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png]
+   t[0,8]{3,3,3,3,3,3,3,3,3}
+   [190]Octellated 10-simplex
+   5940 495
+                                     29
+
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   t[1,8]{3,3,3,3,3,3,3,3,3}
+   [191]Biheptellated 10-simplex
+   27720 1980
+                    30 [192][60px-10-simplex_t09.svg.png]
+
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node_1.png]
+   t[0,9]{3,3,3,3,3,3,3,3,3}
+   [193]Ennecated 10-simplex
+   990 110
+      31 [CDel_node_1.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+        [CDel_node_1.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+        [CDel_node_1.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+        [CDel_node_1.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+              [CDel_node_1.png] [CDel_3.png] [CDel_node_1.png]
+                  t[0,1,2,3,4,5,6,7,8,9]{3,3,3,3,3,3,3,3,3}
+              [194]Omnitruncated 10-simplex 199584000 39916800
+
+The B[10] family
+
+   [[195]edit]
+
+   There are 1023 forms based on all permutations of the
+   [196]Coxeter-Dynkin diagrams with one or more rings.
+
+   Twelve cases are shown below: ten single-ring ([197]rectified) forms,
+   and two truncations. Bowers-style acronym names are given in
+   parentheses for cross-referencing.
+   # Graph [198]Coxeter-Dynkin diagram
+   [199]Schläfli symbol
+   Name Element counts
+   9-faces 8-faces 7-faces 6-faces 5-faces 4-faces Cells Faces Edges
+   Vertices
+       1 [200][60px-10-cube_t0.svg.png] [CDel_node_1.png] [CDel_4.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                               [CDel_node.png]
+                           t[0]{4,3,3,3,3,3,3,3,3}
+    [201]10-cube (deker) 20 180 960 3360 8064 13440 15360 11520 5120 1024
+     2 [202][60px-Truncated_10-cube.png] [CDel_node_1.png] [CDel_4.png]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                               [CDel_node.png]
+                          t[0,1]{4,3,3,3,3,3,3,3,3}
+                  [203]Truncated 10-cube (tade) 51200 10240
+        3 [204][60px-10-cube_t1.svg.png] [CDel_node.png] [CDel_4.png]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                               [CDel_node.png]
+                           t[1]{4,3,3,3,3,3,3,3,3}
+                  [205]Rectified 10-cube (rade) 46080 5120
+        4 [206][60px-10-cube_t2.svg.png] [CDel_node.png] [CDel_4.png]
+         [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                               [CDel_node.png]
+                           t[2]{4,3,3,3,3,3,3,3,3}
+                [207]Birectified 10-cube (brade) 184320 11520
+        5 [208][60px-10-cube_t3.svg.png] [CDel_node.png] [CDel_4.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                               [CDel_node.png]
+                           t[3]{4,3,3,3,3,3,3,3,3}
+               [209]Trirectified 10-cube (trade) 322560 15360
+        6 [210][60px-10-cube_t4.svg.png] [CDel_node.png] [CDel_4.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+         [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                               [CDel_node.png]
+                           t[4]{4,3,3,3,3,3,3,3,3}
+             [211]Quadrirectified 10-cube (terade) 322560 13440
+        7 [212][60px-10-cube_t5.svg.png] [CDel_node.png] [CDel_4.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                               [CDel_node.png]
+                           t[4]{3,3,3,3,3,3,3,3,4}
+           [213]Quadrirectified 10-orthoplex (terake) 201600 8064
+        8 [214][60px-10-cube_t6.svg.png] [CDel_node.png] [CDel_4.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+         [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                               [CDel_node.png]
+                            t[3]{3,3,3,3,3,3,3,4}
+              [215]Trirectified 10-orthoplex (trake) 80640 3360
+        9 [216][60px-10-cube_t7.svg.png] [CDel_node.png] [CDel_4.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                               [CDel_node.png]
+                           t[2]{3,3,3,3,3,3,3,3,4}
+               [217]Birectified 10-orthoplex (brake) 20160 960
+       10 [218][60px-10-cube_t8.svg.png] [CDel_node.png] [CDel_4.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+         [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+                               [CDel_node.png]
+                           t[1]{3,3,3,3,3,3,3,3,4}
+                 [219]Rectified 10-orthoplex (rake) 2880 180
+   11 [220][60px-Truncated_10-orthoplex.png] [CDel_node.png] [CDel_4.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+         [CDel_node.png] [CDel_3.png] [CDel_node_1.png] [CDel_3.png]
+                              [CDel_node_1.png]
+                          t[0,1]{3,3,3,3,3,3,3,3,4}
+                 [221]Truncated 10-orthoplex (take) 3060 360
+       12 [222][60px-10-cube_t9.svg.png] [CDel_node.png] [CDel_4.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                              [CDel_node_1.png]
+                           t[0]{3,3,3,3,3,3,3,3,4}
+   [223]10-orthoplex (ka) 1024 5120 11520 15360 13440 8064 3360 960 180 20
+
+The D[10] family
+
+   [[224]edit]
+
+   The D[10] family has symmetry of order 1,857,945,600 (10 [225]factorial
+   × 2^9).
+
+   This family has 3×256−1=767 Wythoffian uniform polytopes, generated by
+   marking one or more nodes of the D[10] [226]Coxeter-Dynkin diagram. Of
+   these, 511 (2×256−1) are repeated from the B[10] family and 256 are
+   unique to this family, with 2 listed below. Bowers-style acronym names
+   are given in parentheses for cross-referencing.
+   # Graph [227]Coxeter-Dynkin diagram
+   [228]Schläfli symbol
+   Name Element counts
+   9-faces 8-faces 7-faces 6-faces 5-faces 4-faces Cells Faces Edges
+   Vertices
+           1 [229][60px-10-demicube.svg.png] [CDel_nodes_10ru.png]
+       [CDel_split2.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_3.png] [CDel_node.png]
+   [230]10-demicube (hede) 532 5300 24000 64800 115584 142464 122880 61440
+                                  11520 512
+        2 [231][60px-Truncated_10-demicube.png] [CDel_nodes_10ru.png]
+      [CDel_split2.png] [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_3.png] [CDel_node.png]
+               [232]Truncated 10-demicube (thede) 195840 23040
+
+Regular and uniform honeycombs
+
+   [[233]edit]
+
+   There are four fundamental affine [234]Coxeter groups that generate
+   regular and uniform tessellations in 9-space:
+   # [235]Coxeter group [236]Coxeter-Dynkin diagram
+   1
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>A</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>9</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\tilde
+   {A}}_{9}}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {A}}_{9}} [3^[10]] [CDel_node.png]
+   [CDel_split1.png] [CDel_nodes.png] [CDel_3ab.png] [CDel_nodes.png]
+   [CDel_3ab.png] [CDel_nodes.png] [CDel_3ab.png] [CDel_nodes.png]
+   [CDel_split2.png] [CDel_node.png]
+   2
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>B</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>9</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\tilde
+   {B}}_{9}}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {B}}_{9}} [4,3^7,4] [CDel_node.png] [CDel_4.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+   [CDel_node.png]
+   3
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>C</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>9</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\tilde
+   {C}}_{9}}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {C}}_{9}} h[4,3^7,4]
+   [4,3^6,3^1,1] [CDel_nodes.png] [CDel_split2.png] [CDel_node.png]
+   [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+   [CDel_node.png]
+   4
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>D</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>9</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\tilde
+   {D}}_{9}}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {D}}_{9}} q[4,3^7,4]
+   [3^1,1,3^5,3^1,1] [CDel_nodes.png] [CDel_split2.png] [CDel_node.png]
+   [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_split1.png] [CDel_nodes.png]
+
+   Regular and uniform tessellations include:
+     * [237]Regular [238]9-hypercubic honeycomb, with symbols {4,3^7,4},
+       [CDel_node_1.png] [CDel_4.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+       [CDel_node.png] [CDel_4.png] [CDel_node.png]
+     * Uniform [239]alternated 9-hypercubic honeycomb with symbols
+       h{4,3^7,4}, [CDel_node_h.png] [CDel_4.png] [CDel_node.png]
+       [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+       [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+       [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png]
+       [CDel_3.png] [CDel_node.png] [CDel_4.png] [CDel_node.png]
+
+Regular and uniform hyperbolic honeycombs
+
+   [[240]edit]
+
+   There are no compact hyperbolic Coxeter groups of rank 10, groups that
+   can generate honeycombs with all finite facets, and a finite
+   [241]vertex figure. However, there are [242]3 paracompact hyperbolic
+   Coxeter groups of rank 9, each generating uniform honeycombs in 9-space
+   as permutations of rings of the Coxeter diagrams.
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>Q</mi> <mo stretchy="false">¯</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>9</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\bar
+   {Q}}_{9}}</annotation> </semantics> :MATH]
+   {\displaystyle {\bar {Q}}_{9}} = [3^1,1,3^4,3^2,1]:
+   [CDel_nodea.png] [CDel_3a.png] [CDel_branch.png] [CDel_3a.png]
+   [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+   [CDel_nodea.png] [CDel_3a.png] [CDel_branch.png] [CDel_3a.png]
+   [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>S</mi> <mo stretchy="false">¯</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>9</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\bar
+   {S}}_{9}}</annotation> </semantics> :MATH]
+   {\displaystyle {\bar {S}}_{9}} = [4,3^5,3^2,1]:
+   [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+   [CDel_branch.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+   [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+   [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_4a.png]
+   [CDel_nodea.png]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>E</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>10</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   E_{10}}</annotation> </semantics> :MATH]
+   {\displaystyle E_{10}} or
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>T</mi> <mo stretchy="false">¯</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>9</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\bar
+   {T}}_{9}}</annotation> </semantics> :MATH]
+   {\displaystyle {\bar {T}}_{9}} = [3^6,2,1]:
+   [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+   [CDel_branch.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+   [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+   [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+   [CDel_nodea.png]
+
+   Three honeycombs from the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>E</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>10</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   E_{10}}</annotation> </semantics> :MATH]
+   {\displaystyle E_{10}} family, generated by end-ringed Coxeter diagrams
+   are:
+     * [243]6[21] honeycomb: [CDel_nodea.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_branch.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_nodea_1.png]
+     * [244]2[61] honeycomb: [CDel_nodea_1.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_branch.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png]
+     * [245]1[62] honeycomb: [CDel_nodea.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_branch_01lr.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png]
+       [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png]
+
+References
+
+   [[246]edit]
+    1. ^ [247]^a [248]^b [249]^c Richeson, D.; Euler's Gem: The Polyhedron
+       Formula and the Birth of Topoplogy, Princeton, 2008.
+
+     * [250]T. Gosset: On the Regular and Semi-Regular Figures in Space of
+       n Dimensions, [251]Messenger of Mathematics, Macmillan, 1900
+     * [252]A. Boole Stott: Geometrical deduction of semiregular from
+       regular polytopes and space fillings, Verhandelingen of the
+       Koninklijke academy van Wetenschappen width unit Amsterdam, Eerste
+       Sectie 11,1, Amsterdam, 1910
+     * [253]H.S.M. Coxeter:
+          + H.S.M. Coxeter, M.S. Longuet-Higgins und J.C.P. Miller:
+            Uniform Polyhedra, Philosophical Transactions of the Royal
+            Society of London, Londne, 1954
+          + H.S.M. Coxeter, Regular Polytopes, 3rd Edition, Dover New
+            York, 1973
+     * Kaleidoscopes: Selected Writings of H.S.M. Coxeter, edited by F.
+       Arthur Sherk, Peter McMullen, Anthony C. Thompson, Asia Ivic Weiss,
+       Wiley-Interscience Publication, 1995,
+       [254]ISBN [255]978-0-471-01003-6 [256][1]
+
+     * (Paper 22) H.S.M. Coxeter, Regular and Semi Regular Polytopes I,
+       [Math. Zeit. 46 (1940) 380-407, MR 2,10]
+     * (Paper 23) H.S.M. Coxeter, Regular and Semi-Regular Polytopes II,
+       [Math. Zeit. 188 (1985) 559-591]
+     * (Paper 24) H.S.M. Coxeter, Regular and Semi-Regular Polytopes III,
+       [Math. Zeit. 200 (1988) 3-45]
+
+     [257]N.W. Johnson: The Theory of Uniform Polytopes and Honeycombs,
+   Ph.D. Dissertation, University of Toronto, 1966
+
+     Klitzing, Richard. [258]"10D uniform polytopes (polyxenna)".
+
+External links
+
+   [[259]edit]
+
+     * [260]Polytope names
+     * [261]Polytopes of Various Dimensions, Jonathan Bowers
+     * [262]Multi-dimensional Glossary
+     * [263]Glossary for hyperspace, George Olshevsky.
+
+     * [264]v
+     * [265]t
+     * [266]e
+
+   Fundamental convex [267]regular and [268]uniform polytopes in
+   dimensions 2–10
+
+   [269]Family [270]A[n] [271]B[n] I[2](p) / [272]D[n] [273]E[6] /
+   [274]E[7] / [275]E[8] / [276]F[4] / [277]G[2] [278]H[n]
+   [279]Regular polygon [280]Triangle [281]Square [282]p-gon [283]Hexagon
+   [284]Pentagon
+   [285]Uniform polyhedron [286]Tetrahedron [287]Octahedron • [288]Cube
+   [289]Demicube [290]Dodecahedron • [291]Icosahedron
+   [292]Uniform polychoron [293]Pentachoron [294]16-cell • [295]Tesseract
+   [296]Demitesseract [297]24-cell [298]120-cell • [299]600-cell
+   [300]Uniform 5-polytope [301]5-simplex [302]5-orthoplex • [303]5-cube
+   [304]5-demicube
+   [305]Uniform 6-polytope [306]6-simplex [307]6-orthoplex • [308]6-cube
+   [309]6-demicube [310]1[22] • [311]2[21]
+   [312]Uniform 7-polytope [313]7-simplex [314]7-orthoplex • [315]7-cube
+   [316]7-demicube [317]1[32] • [318]2[31] • [319]3[21]
+   [320]Uniform 8-polytope [321]8-simplex [322]8-orthoplex • [323]8-cube
+   [324]8-demicube [325]1[42] • [326]2[41] • [327]4[21]
+   [328]Uniform 9-polytope [329]9-simplex [330]9-orthoplex • [331]9-cube
+   [332]9-demicube
+   Uniform 10-polytope [333]10-simplex [334]10-orthoplex • [335]10-cube
+   [336]10-demicube
+   Uniform n-[337]polytope n-[338]simplex n-[339]orthoplex • n-[340]cube
+   n-[341]demicube [342]1[k2] • [343]2[k1] • [344]k[21] n-[345]pentagonal
+   polytope
+   Topics: [346]Polytope families • [347]Regular polytope • [348]List of
+   regular polytopes and compounds
+
+   Retrieved from
+   "[349]https://en.wikipedia.org/w/index.php?title=Uniform_10-polytope&ol
+   did=1197693133"
+
+   [350]Category:
+     * [351]10-polytopes
+
+   Hidden categories:
+     * [352]Articles with short description
+     * [353]Short description is different from Wikidata
+
+     * This page was last edited on 21 January 2024, at 15:32 (UTC).
+     * Text is available under the [354]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [355]Terms of Use and
+       [356]Privacy Policy. Wikipedia® is a registered trademark of the
+       [357]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [358]Privacy policy
+     * [359]About Wikipedia
+     * [360]Disclaimers
+     * [361]Contact Wikipedia
+     * [362]Code of Conduct
+     * [363]Developers
+     * [364]Statistics
+     * [365]Cookie statement
+     * [366]Mobile view
+
+     * [367]Wikimedia Foundation
+     * [368]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/Uniform_10-polytope
+   2. file:///w/index.php?title=Uniform_10-polytope&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Uniform+10-polytope
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Uniform+10-polytope
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Uniform+10-polytope
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Uniform+10-polytope
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html
+  29. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#Regular_10-polytopes
+  30. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#Euler_characteristic
+  31. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#Uniform_10-polytopes_by_fundamental_Coxeter_groups
+  32. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#The_A10_family
+  33. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#The_B10_family
+  34. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#The_D10_family
+  35. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#Regular_and_uniform_honeycombs
+  36. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#Regular_and_uniform_hyperbolic_honeycombs
+  37. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#References
+  38. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#External_links
+  39. https://www.wikidata.org/wiki/Special:EntityPage/Q17104408#sitelinks-wikipedia
+  40. file:///wiki/Uniform_10-polytope
+  41. file:///wiki/Talk:Uniform_10-polytope
+  42. file:///wiki/Uniform_10-polytope
+  43. file:///w/index.php?title=Uniform_10-polytope&action=edit
+  44. file:///w/index.php?title=Uniform_10-polytope&action=history
+  45. file:///wiki/Uniform_10-polytope
+  46. file:///w/index.php?title=Uniform_10-polytope&action=edit
+  47. file:///w/index.php?title=Uniform_10-polytope&action=history
+  48. file:///wiki/Special:WhatLinksHere/Uniform_10-polytope
+  49. file:///wiki/Special:RecentChangesLinked/Uniform_10-polytope
+  50. file:///wiki/Wikipedia:File_Upload_Wizard
+  51. file:///wiki/Special:SpecialPages
+  52. file:///w/index.php?title=Uniform_10-polytope&oldid=1197693133
+  53. file:///w/index.php?title=Uniform_10-polytope&action=info
+  54. file:///w/index.php?title=Special:CiteThisPage&page=Uniform_10-polytope&id=1197693133&wpFormIdentifier=titleform
+  55. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/Uniform_10-polytope
+  56. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/Uniform_10-polytope
+  57. file:///w/index.php?title=Special:DownloadAsPdf&page=Uniform_10-polytope&action=show-download-screen
+  58. file:///w/index.php?title=Uniform_10-polytope&printable=yes
+  59. https://www.wikidata.org/wiki/Special:EntityPage/Q17104408
+  60. file:///w/index.php?title=10-polytope&redirect=no
+  61. file:///wiki/List_of_regular_polytopes#Ten_Dimensions
+  62. file:///wiki/Uniform_polytope
+  63. file:///wiki/File:10-simplex_t0.svg
+  64. file:///wiki/10-simplex
+  65. file:///wiki/File:10-simplex_t01.svg
+  66. file:///w/index.php?title=Truncated_10-simplex&action=edit&redlink=1
+  67. file:///wiki/File:10-simplex_t1.svg
+  68. file:///wiki/Rectified_10-simplex
+  69. file:///wiki/File:10-simplex_t02.svg
+  70. file:///w/index.php?title=Cantellated_10-simplex&action=edit&redlink=1
+  71. file:///wiki/File:10-simplex_t03.svg
+  72. file:///w/index.php?title=Runcinated_10-simplex&action=edit&redlink=1
+  73. file:///wiki/File:10-simplex_t04.svg
+  74. file:///w/index.php?title=Stericated_10-simplex&action=edit&redlink=1
+  75. file:///wiki/File:10-simplex_t05.svg
+  76. file:///w/index.php?title=Pentellated_10-simplex&action=edit&redlink=1
+  77. file:///wiki/File:10-simplex_t06.svg
+  78. file:///w/index.php?title=Hexicated_10-simplex&action=edit&redlink=1
+  79. file:///wiki/File:10-simplex_t07.svg
+  80. file:///w/index.php?title=Heptellated_10-simplex&action=edit&redlink=1
+  81. file:///wiki/File:10-simplex_t08.svg
+  82. file:///w/index.php?title=Octellated_10-simplex&action=edit&redlink=1
+  83. file:///wiki/File:10-simplex_t09.svg
+  84. file:///w/index.php?title=Ennecated_10-simplex&action=edit&redlink=1
+  85. file:///wiki/File:10-orthoplex.svg
+  86. file:///wiki/10-orthoplex
+  87. file:///wiki/File:Truncated_10-orthoplex.png
+  88. file:///w/index.php?title=Truncated_10-orthoplex&action=edit&redlink=1
+  89. file:///wiki/File:Rectified_decacross.png
+  90. file:///wiki/Rectified_10-orthoplex
+  91. file:///wiki/File:10-cube.svg
+  92. file:///wiki/10-cube
+  93. file:///wiki/File:Truncated_10-cube.png
+  94. file:///w/index.php?title=Truncated_10-cube&action=edit&redlink=1
+  95. file:///wiki/File:Rectified_10-cube.png
+  96. file:///wiki/Rectified_10-cube
+  97. file:///wiki/File:10-demicube.svg
+  98. file:///wiki/10-demicube
+  99. file:///wiki/File:Truncated_10-demicube.png
+ 100. file:///w/index.php?title=Truncated_10-demicube&action=edit&redlink=1
+ 101. file:///wiki/Geometry
+ 102. file:///wiki/Polytope
+ 103. file:///wiki/9-polytope
+ 104. file:///wiki/Facet_(mathematics)
+ 105. file:///wiki/8-polytope
+ 106. file:///wiki/Ridge_(geometry)
+ 107. file:///wiki/Vertex-transitive
+ 108. file:///wiki/Uniform_9-polytope
+ 109. file:///wiki/Facet_(geometry)
+ 110. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=1
+ 111. file:///wiki/Schläfli_symbol
+ 112. file:///wiki/Facet_(mathematics)
+ 113. file:///wiki/Peak_(geometry)
+ 114. file:///wiki/List_of_regular_polytopes#Convex_4
+ 115. file:///wiki/10-simplex
+ 116. file:///wiki/10-cube
+ 117. file:///wiki/10-orthoplex
+ 118. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=2
+ 119. file:///wiki/Betti_number
+ 120. file:///wiki/Torsion_coefficient_(topology)
+ 121. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#cite_note-richeson-1
+ 122. file:///wiki/Euler_characteristic
+ 123. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#cite_note-richeson-1
+ 124. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#cite_note-richeson-1
+ 125. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=3
+ 126. file:///wiki/Coxeter-Dynkin_diagram
+ 127. file:///wiki/Coxeter_group
+ 128. file:///wiki/Coxeter-Dynkin_diagram
+ 129. file:///wiki/Simplex
+ 130. file:///wiki/10-simplex
+ 131. file:///wiki/Hypercube
+ 132. file:///wiki/Orthoplex
+ 133. file:///wiki/10-cube
+ 134. file:///wiki/10-orthoplex
+ 135. file:///wiki/10-demicube
+ 136. file:///wiki/Demihypercube
+ 137. file:///wiki/10-demicube
+ 138. file:///wiki/10-orthoplex
+ 139. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=4
+ 140. file:///wiki/Factorial
+ 141. file:///wiki/Coxeter-Dynkin_diagram
+ 142. file:///wiki/Coxeter-Dynkin_diagram
+ 143. file:///wiki/Schläfli_symbol
+ 144. file:///wiki/File:10-simplex_t0.svg
+ 145. file:///wiki/10-simplex
+ 146. file:///wiki/File:10-simplex_t1.svg
+ 147. file:///wiki/Rectified_10-simplex
+ 148. file:///wiki/File:10-simplex_t2.svg
+ 149. file:///wiki/Birectified_10-simplex
+ 150. file:///wiki/File:10-simplex_t3.svg
+ 151. file:///wiki/Trirectified_10-simplex
+ 152. file:///wiki/File:10-simplex_t4.svg
+ 153. file:///wiki/Quadrirectified_10-simplex
+ 154. file:///wiki/File:10-simplex_t01.svg
+ 155. file:///w/index.php?title=Truncated_10-simplex&action=edit&redlink=1
+ 156. file:///wiki/File:10-simplex_t02.svg
+ 157. file:///w/index.php?title=Cantellated_10-simplex&action=edit&redlink=1
+ 158. file:///wiki/File:10-simplex_t12.svg
+ 159. file:///w/index.php?title=Bitruncated_10-simplex&action=edit&redlink=1
+ 160. file:///wiki/File:10-simplex_t03.svg
+ 161. file:///w/index.php?title=Runcinated_10-simplex&action=edit&redlink=1
+ 162. file:///wiki/File:10-simplex_t13.svg
+ 163. file:///w/index.php?title=Bicantellated_10-simplex&action=edit&redlink=1
+ 164. file:///wiki/File:10-simplex_t23.svg
+ 165. file:///w/index.php?title=Tritruncated_10-simplex&action=edit&redlink=1
+ 166. file:///wiki/File:10-simplex_t04.svg
+ 167. file:///w/index.php?title=Stericated_10-simplex&action=edit&redlink=1
+ 168. file:///wiki/File:10-simplex_t14.svg
+ 169. file:///w/index.php?title=Biruncinated_10-simplex&action=edit&redlink=1
+ 170. file:///wiki/File:10-simplex_t24.svg
+ 171. file:///w/index.php?title=Tricantellated_10-simplex&action=edit&redlink=1
+ 172. file:///w/index.php?title=Quadritruncated_10-simplex&action=edit&redlink=1
+ 173. file:///wiki/File:10-simplex_t05.svg
+ 174. file:///w/index.php?title=Pentellated_10-simplex&action=edit&redlink=1
+ 175. file:///w/index.php?title=Bistericated_10-simplex&action=edit&redlink=1
+ 176. file:///w/index.php?title=Triruncinated_10-simplex&action=edit&redlink=1
+ 177. file:///wiki/File:10-simplex_t35.svg
+ 178. file:///w/index.php?title=Quadricantellated_10-simplex&action=edit&redlink=1
+ 179. file:///w/index.php?title=Quintitruncated_10-simplex&action=edit&redlink=1
+ 180. file:///wiki/File:10-simplex_t06.svg
+ 181. file:///w/index.php?title=Hexicated_10-simplex&action=edit&redlink=1
+ 182. file:///w/index.php?title=Bipentellated_10-simplex&action=edit&redlink=1
+ 183. file:///w/index.php?title=Tristericated_10-simplex&action=edit&redlink=1
+ 184. file:///w/index.php?title=Quadriruncinated_10-simplex&action=edit&redlink=1
+ 185. file:///wiki/File:10-simplex_t07.svg
+ 186. file:///w/index.php?title=Heptellated_10-simplex&action=edit&redlink=1
+ 187. file:///w/index.php?title=Bihexicated_10-simplex&action=edit&redlink=1
+ 188. file:///w/index.php?title=Tripentellated_10-simplex&action=edit&redlink=1
+ 189. file:///wiki/File:10-simplex_t08.svg
+ 190. file:///w/index.php?title=Octellated_10-simplex&action=edit&redlink=1
+ 191. file:///w/index.php?title=Biheptellated_10-simplex&action=edit&redlink=1
+ 192. file:///wiki/File:10-simplex_t09.svg
+ 193. file:///w/index.php?title=Ennecated_10-simplex&action=edit&redlink=1
+ 194. file:///w/index.php?title=Omnitruncated_10-simplex&action=edit&redlink=1
+ 195. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=5
+ 196. file:///wiki/Coxeter-Dynkin_diagram
+ 197. file:///wiki/Rectification_(geometry)
+ 198. file:///wiki/Coxeter-Dynkin_diagram
+ 199. file:///wiki/Schläfli_symbol
+ 200. file:///wiki/File:10-cube_t0.svg
+ 201. file:///wiki/10-cube
+ 202. file:///wiki/File:Truncated_10-cube.png
+ 203. file:///w/index.php?title=Truncated_10-cube&action=edit&redlink=1
+ 204. file:///wiki/File:10-cube_t1.svg
+ 205. file:///wiki/Rectified_10-cube
+ 206. file:///wiki/File:10-cube_t2.svg
+ 207. file:///wiki/Birectified_10-cube
+ 208. file:///wiki/File:10-cube_t3.svg
+ 209. file:///wiki/Trirectified_10-cube
+ 210. file:///wiki/File:10-cube_t4.svg
+ 211. file:///wiki/Quadrirectified_10-cube
+ 212. file:///wiki/File:10-cube_t5.svg
+ 213. file:///wiki/Quadrirectified_10-orthoplex
+ 214. file:///wiki/File:10-cube_t6.svg
+ 215. file:///wiki/Trirectified_10-orthoplex
+ 216. file:///wiki/File:10-cube_t7.svg
+ 217. file:///wiki/Birectified_10-orthoplex
+ 218. file:///wiki/File:10-cube_t8.svg
+ 219. file:///wiki/Rectified_10-orthoplex
+ 220. file:///wiki/File:Truncated_10-orthoplex.png
+ 221. file:///w/index.php?title=Truncated_10-orthoplex&action=edit&redlink=1
+ 222. file:///wiki/File:10-cube_t9.svg
+ 223. file:///wiki/10-orthoplex
+ 224. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=6
+ 225. file:///wiki/Factorial
+ 226. file:///wiki/Coxeter-Dynkin_diagram
+ 227. file:///wiki/Coxeter-Dynkin_diagram
+ 228. file:///wiki/Schläfli_symbol
+ 229. file:///wiki/File:10-demicube.svg
+ 230. file:///wiki/10-demicube
+ 231. file:///wiki/File:Truncated_10-demicube.png
+ 232. file:///w/index.php?title=Truncated_10-demicube&action=edit&redlink=1
+ 233. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=7
+ 234. file:///wiki/Coxeter_groups
+ 235. file:///wiki/Coxeter_group
+ 236. file:///wiki/Coxeter-Dynkin_diagram
+ 237. file:///wiki/List_of_regular_polytopes#Higher_dimensions_3
+ 238. file:///wiki/Hypercubic_honeycomb
+ 239. file:///wiki/Alternated_hypercubic_honeycomb
+ 240. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=8
+ 241. file:///wiki/Vertex_figure
+ 242. file:///wiki/Coxeter-Dynkin_diagram#Rank_4_to_10
+ 243. file:///wiki/6_21_honeycomb
+ 244. file:///wiki/2_61_honeycomb
+ 245. file:///wiki/1_62_honeycomb
+ 246. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=9
+ 247. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#cite_ref-richeson_1-0
+ 248. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#cite_ref-richeson_1-1
+ 249. file:///tmp/lynxXXXXPgQ9Zv/L62255-5686TMP.html#cite_ref-richeson_1-2
+ 250. file:///wiki/Thorold_Gosset
+ 251. file:///wiki/Messenger_of_Mathematics
+ 252. file:///wiki/Alicia_Boole_Stott
+ 253. file:///wiki/Harold_Scott_MacDonald_Coxeter
+ 254. file:///wiki/ISBN_(identifier)
+ 255. file:///wiki/Special:BookSources/978-0-471-01003-6
+ 256. http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471010030.html
+ 257. file:///wiki/Norman_Johnson_(mathematician)
+ 258. https://bendwavy.org/klitzing/dimensions/polyxenna.htm
+ 259. file:///w/index.php?title=Uniform_10-polytope&action=edit&section=10
+ 260. http://www.steelpillow.com/polyhedra/ditela.html
+ 261. http://www.polytope.net/hedrondude/topes.htm
+ 262. http://tetraspace.alkaline.org/glossary.htm
+ 263. https://web.archive.org/web/20070204075028/members.aol.com/Polycell/glossary.html
+ 264. file:///wiki/Template:Polytopes
+ 265. file:///wiki/Template_talk:Polytopes
+ 266. file:///wiki/Special:EditPage/Template:Polytopes
+ 267. file:///wiki/Regular_polytope
+ 268. file:///wiki/Uniform_polytope
+ 269. file:///wiki/Coxeter_group#Finite_Coxeter_groups
+ 270. file:///wiki/Simple_Lie_group#A_series
+ 271. file:///wiki/Simple_Lie_group#B_series
+ 272. file:///wiki/Simple_Lie_group#D_series
+ 273. file:///wiki/E6_(mathematics)
+ 274. file:///wiki/E7_(mathematics)
+ 275. file:///wiki/E8_(mathematics)
+ 276. file:///wiki/F4_(mathematics)
+ 277. file:///wiki/G2_(mathematics)
+ 278. file:///wiki/H4_(mathematics)
+ 279. file:///wiki/Regular_polygon
+ 280. file:///wiki/Equilateral_triangle
+ 281. file:///wiki/Square
+ 282. file:///wiki/Regular_polygon
+ 283. file:///wiki/Hexagon
+ 284. file:///wiki/Pentagon
+ 285. file:///wiki/Uniform_polyhedron
+ 286. file:///wiki/Tetrahedron
+ 287. file:///wiki/Octahedron
+ 288. file:///wiki/Cube
+ 289. file:///wiki/Tetrahedron
+ 290. file:///wiki/Regular_dodecahedron
+ 291. file:///wiki/Regular_icosahedron
+ 292. file:///wiki/Uniform_polychoron
+ 293. file:///wiki/5-cell
+ 294. file:///wiki/16-cell
+ 295. file:///wiki/Tesseract
+ 296. file:///wiki/16-cell
+ 297. file:///wiki/24-cell
+ 298. file:///wiki/120-cell
+ 299. file:///wiki/600-cell
+ 300. file:///wiki/Uniform_5-polytope
+ 301. file:///wiki/5-simplex
+ 302. file:///wiki/5-orthoplex
+ 303. file:///wiki/5-cube
+ 304. file:///wiki/5-demicube
+ 305. file:///wiki/Uniform_6-polytope
+ 306. file:///wiki/6-simplex
+ 307. file:///wiki/6-orthoplex
+ 308. file:///wiki/6-cube
+ 309. file:///wiki/6-demicube
+ 310. file:///wiki/1_22_polytope
+ 311. file:///wiki/2_21_polytope
+ 312. file:///wiki/Uniform_7-polytope
+ 313. file:///wiki/7-simplex
+ 314. file:///wiki/7-orthoplex
+ 315. file:///wiki/7-cube
+ 316. file:///wiki/7-demicube
+ 317. file:///wiki/1_32_polytope
+ 318. file:///wiki/2_31_polytope
+ 319. file:///wiki/3_21_polytope
+ 320. file:///wiki/Uniform_8-polytope
+ 321. file:///wiki/8-simplex
+ 322. file:///wiki/8-orthoplex
+ 323. file:///wiki/8-cube
+ 324. file:///wiki/8-demicube
+ 325. file:///wiki/1_42_polytope
+ 326. file:///wiki/2_41_polytope
+ 327. file:///wiki/4_21_polytope
+ 328. file:///wiki/Uniform_9-polytope
+ 329. file:///wiki/9-simplex
+ 330. file:///wiki/9-orthoplex
+ 331. file:///wiki/9-cube
+ 332. file:///wiki/9-demicube
+ 333. file:///wiki/10-simplex
+ 334. file:///wiki/10-orthoplex
+ 335. file:///wiki/10-cube
+ 336. file:///wiki/10-demicube
+ 337. file:///wiki/Polytope
+ 338. file:///wiki/Simplex
+ 339. file:///wiki/Cross-polytope
+ 340. file:///wiki/Hypercube
+ 341. file:///wiki/Demihypercube
+ 342. file:///wiki/Uniform_1_k2_polytope
+ 343. file:///wiki/Uniform_2_k1_polytope
+ 344. file:///wiki/Uniform_k_21_polytope
+ 345. file:///wiki/Pentagonal_polytope
+ 346. file:///wiki/Polytope_families
+ 347. file:///wiki/Regular_polytope
+ 348. file:///wiki/List_of_regular_polytopes_and_compounds
+ 349. https://en.wikipedia.org/w/index.php?title=Uniform_10-polytope&oldid=1197693133
+ 350. file:///wiki/Help:Category
+ 351. file:///wiki/Category:10-polytopes
+ 352. file:///wiki/Category:Articles_with_short_description
+ 353. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 354. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 355. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 356. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 357. https://wikimediafoundation.org/
+ 358. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 359. file:///wiki/Wikipedia:About
+ 360. file:///wiki/Wikipedia:General_disclaimer
+ 361. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 362. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 363. https://developer.wikimedia.org/
+ 364. https://stats.wikimedia.org/#/en.wikipedia.org
+ 365. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 366. file://en.m.wikipedia.org/w/index.php?title=Uniform_10-polytope&mobileaction=toggle_view_mobile
+ 367. https://wikimediafoundation.org/
+ 368. https://www.mediawiki.org/

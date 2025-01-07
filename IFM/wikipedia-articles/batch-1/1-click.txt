@@ -1,0 +1,924 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Patent
+     * [30]2 Licensing
+       (BUTTON) Toggle Licensing subsection
+          + [31]2.1 Apple Inc.
+          + [32]2.2 Barnes & Noble
+     * [33]3 References
+
+   [ ] Toggle the table of contents
+
+1-Click
+
+   [ ] 3 languages
+     * [34]العربية
+     * [35]日本語
+     * [36]Português
+
+   [37]Edit links
+
+     * [38]Article
+     * [39]Talk
+
+   [ ] English
+
+     * [40]Read
+     * [41]Edit
+     * [42]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [43]Read
+     * [44]Edit
+     * [45]View history
+
+   General
+     * [46]What links here
+     * [47]Related changes
+     * [48]Upload file
+     * [49]Special pages
+     * [50]Permanent link
+     * [51]Page information
+     * [52]Cite this page
+     * [53]Get shortened URL
+     * [54]Download QR code
+
+   Print/export
+     * [55]Download as PDF
+     * [56]Printable version
+
+   In other projects
+     * [57]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Online purchasing with only a single mouse click
+
+   [58][220px-Amazon_1-Click_option.png] [59]Amazon.com offering the
+   option to either add an item to the user's cart, or purchase it
+   immediately using 1-Click
+
+   1-Click, also called one-click or one-click buying, is the technique of
+   allowing customers to make purchases with the payment information
+   needed to complete the purchase having been entered by the user
+   previously.^[60][1] More particularly, it allows an [61]online shopper
+   using an [62]Internet marketplace to purchase an item without having to
+   use [63]shopping cart software. Instead of manually inputting billing
+   and shipping information for a purchase, a user can use one-click
+   buying to use a predefined address and [64]credit card number to
+   purchase one or more items. Since the expiration of Amazon's patent,
+   there has been an advent of checkout experience platforms, such as
+   ShopPay, Simpler, PeachPay, Zplit, and Bolt which offer similar
+   one-click checkout flows.^[65][2]
+
+Patent
+
+   [[66]edit]
+
+   The [67]United States Patent and Trademark Office (USPTO) issued a
+   patent^[68][3] for this technique to [69]Amazon.com in September 1999.
+   Amazon.com also owns the "1-Click" trademark.^[70][4]
+
+   On May 12, 2006, the USPTO ordered a [71]reexamination^[72][5] of the
+   "One-Click" patent, based on a request filed by Peter Calveley.^[73][6]
+   Calveley cited as [74]prior art an earlier e-commerce patent and the
+   Digicash [75]electronic cash system.
+
+   On October 9, 2007, the USPTO issued an [76]office action in the
+   reexamination which confirmed the patentability of claims 6 to 10 of
+   the patent.^[77][7] The [78]patent examiner, however, rejected claims 1
+   to 5 and 11 to 26. In November 2007, Amazon responded by amending the
+   broadest claims (1 and 11) to restrict them to a shopping cart model of
+   commerce. They have also submitted several hundred references for the
+   examiner to consider.^[79][8] In March 2010, the reexamined and amended
+   patent was allowed.^[80][9]^[81][10]
+
+   Amazon's U.S. patent expired on September 11, 2017.^[82][11]
+
+   In Europe, a patent application^[83][12] on 1-Click ordering was filed
+   with the [84]European Patent Office (EPO) but was rejected by the EPO
+   in 2007 due to [85]obviousness; the decision was upheld in
+   2011.^[86][13]
+
+   A related gift-ordering patent was granted in 2003, but revoked in 2007
+   following an [87]opposition.^[88][14]
+
+   In Canada, the Federal Court of Canada held that the One click patent
+   could not be rejected as a pure business method since it had a physical
+   effect. The Court remanded the application to the Canadian patent
+   office for a reexamination.^[89][15]
+
+Licensing
+
+   [[90]edit]
+
+Apple Inc.
+
+   [[91]edit]
+
+   Amazon.com in 2000 licensed 1-Click ordering to Apple Computer (now
+   [92]Apple Inc.) for use on its online store.^[93][16]^[94][17] Apple
+   subsequently added 1-Click ordering to the [95]iTunes Store^[96][18]
+   and [97]iPhoto.^[98][19] Apple paid $1 million to license the patent.
+
+Barnes & Noble
+
+   [[99]edit]
+
+   Amazon filed a patent infringement lawsuit in October 1999 in response
+   to [100]Barnes & Noble's offering a 1-Click ordering option called
+   "Express Lane". After reviewing the evidence, a judge issued a
+   [101]preliminary injunction ordering Barnes & Noble to stop offering
+   Express Lane until the case was settled.^[102][20] Barnes & Noble had
+   developed a way to [103]design around the patent by requiring shoppers
+   to make a second click to confirm their purchase.^[104][21]^[105][22]
+   The lawsuit was settled in 2002. The terms of the settlement, including
+   whether or not Barnes & Noble took a license to the patent or paid any
+   money to Amazon, were not disclosed.^[106][23]
+
+   In response to the lawsuit, the [107]Free Software Foundation urged a
+   boycott of Amazon.com.^[108][24] The boycott was lifted by [109]GNU in
+   September 2002.^[110][25] ^[111][26]
+
+References
+
+   [[112]edit]
+    1. [113]^ [114]"Amazon.com Help: About 1-Click Ordering".
+       www.amazon.com.
+    2. [115]^ [116]"Payment Startup Bolt Sued by Its Most Prominent
+       Customer". Bloomberg.com. April 26, 2022. Retrieved April 27, 2022.
+    3. [117]^ [118]US 5960411, Hartman, Peri; Bezos, Jeffrey P. & Kaphan,
+       Shel et al., "Method and system for placing a purchase order via a
+       communications network", published 1999-09-28, assigned to
+       [119]Amazon.com Inc.
+    4. [120]^ Nickelsburg, Monica (September 11, 2017). [121]"Amazon's
+       '1-Click' patent expires today, and soon you'll be able to
+       accidentally order stuff across the entire internet".
+    5. [122]^ Hutcheon, Stephen (May 23, 2006). [123]"Kiwi actor v
+       Amazon.com". Sydney Morning Herald. Archived from [124]the original
+       on December 11, 2008. Retrieved November 19, 2008.
+    6. [125]^ [126]"IGDMLGD Blog". [127]Archived from the original on
+       September 25, 2007. Retrieved November 19, 2008.
+    7. [128]^ [129]"Examiner Office Action dated Oct 9, 2007 for
+       reexamination serial number 90/007,946". USPTO. [130]Archived from
+       the original on January 14, 2009. Retrieved November 19, 2008.
+    8. [131]^ [132]"Amazon surrenders on One-Click shopping monopoly".
+       Out-law.com. November 23, 2007. Archived from [133]the original on
+       December 11, 2008. Retrieved November 19, 2008.
+    9. [134]^ [135]"Tech Flash". Archived from [136]the original on April
+       13, 2010. Retrieved April 13, 2010.
+   10. [137]^ [138]"Electronista". Archived from [139]the original on
+       April 19, 2014. Retrieved April 13, 2010.
+   11. [140]^ [141]"Amazon's patent on one-click payments to expire".
+       [142]Business Insider.
+   12. [143]^ [144]EP application 1134680, Hartman, Peri; Kaphan, Shel &
+       Bezos, Jeffrey P. et al., "Method and system for placing a purchase
+       order via a communications network", published 2001-09-19, assigned
+       to [145]Amazon.com Inc. , since rejected.
+   13. [146]^ Jeremy Kirk (July 7, 2011). [147]"Europe Rejects
+       One-click-to-buy Amazon Patent Application". IDG News Service.
+   14. [148]^ [149]"EPO revokes Amazon's "Gift Ordering" patent after
+       opposition hearing". European Patent Office. December 7, 2007.
+       Archived from [150]the original on June 4, 2009. Retrieved May 13,
+       2009.
+   15. [151]^ [152]"Amazon.com, Inc. and The Attorney General of Canada
+       and The Commissioner of Patents, 2010 FC 1011, October 14, 2010"
+       (PDF). Archived from [153]the original (PDF) on November 4, 2010.
+   16. [154]^ Wolverton, Troy (September 18, 2000). [155]"Apple licenses
+       Amazon's 1-Click". CNET News.com. Archived from [156]the original
+       on February 3, 2009. Retrieved November 19, 2008.
+   17. [157]^ [158]"Apple Licenses Amazon.com 1-Click Patent and
+       Trademark". Apple. September 18, 2000.
+   18. [159]^ [160]"iTunes Store Terms of Sale". Apple Inc. Archived from
+       [161]the original on December 7, 2008. Retrieved November 19, 2008.
+   19. [162]^ [163]"iPhoto 6.0 Help: Turning 1-Click ordering on and off".
+       Apple Inc. [164]Archived from the original on January 21, 2008.
+       Retrieved November 19, 2008.
+   20. [165]^ Wolverton, Troy (March 6, 2002). [166]"Amazon, Barnes&Noble
+       settle patent suit". CNET. [167]Archived from the original on July
+       30, 2009. Retrieved April 20, 2009.
+   21. [168]^ [Claim 1 of the patent is limited to orders being placed "in
+       response to only a single action being performed"
+   22. [169]^ [170]"My Conversation with Jeff Bezos". O'Reilly Media.
+       Archived from [171]the original on December 18, 2007. Retrieved
+       December 30, 2007.
+   23. [172]^ Wolverton, Troy (March 6, 2002). [173]"Amazon, Barnes&Noble
+       settle patent suit". CNET. Archived from [174]the original on
+       February 3, 2009. Retrieved November 19, 2008.
+   24. [175]^ [176]"Free Software Foundation (fsf)'s status on Tuesday,
+       13-Oct-2020 15:53:03 UTC". [177]Free Software Foundation.
+   25. [178]^ [179]"(Formerly) Boycott Amazon!". [180]GNU.
+   26. [181]^ [182]"Amazon Advertising". www.adcanyon.com.
+
+     * [183]v
+     * [184]t
+     * [185]e
+
+   [186]Amazon
+   People
+   Current
+     * [187]Jeff Bezos (Founder and Executive Chairman)
+     * [188]Andy Jassy (President and CEO)
+     * [189]Werner Vogels (CTO)
+
+   Former
+     * [190]Rick Dalzell
+     * [191]Paul Davis
+     * [192]Tony Hsieh
+     * [193]Christopher North
+     * [194]Ram Shriram
+     * [195]Tom Szkutak
+     * [196]Brian Valentine
+
+   Facilities
+     * [197]List of Amazon locations
+     * [198]Doppler
+     * [199]Day 1
+     * [200]HQ2
+     * [201]Principal Place
+     * [202]Spheres
+     * [203]Bellevue 600
+
+   Products and
+   services
+   Subsidiaries
+     * [204]A9.com
+     * [205]AbeBooks
+     * [206]Amazon Clinic
+     * [207]Amazon Games
+          + [208]Double Helix Games
+     * [209]Amazon Lab126
+     * [210]Amazon Pharmacy
+     * [211]Amazon Robotics
+     * [212]Amazon University Esports
+     * [213]Annapurna Labs
+     * [214]Audible
+     * [215]Blink Home
+     * [216]Body Labs
+     * [217]Book Depository
+     * [218]BookFinder
+     * [219]ComiXology
+     * [220]Freevee
+     * [221]Fresh
+     * [222]Goodreads
+          + [223]Goodreads Choice Awards
+     * [224]Graphiq
+     * [225]IMDb
+          + [226]Box Office Mojo
+          + [227]IMDbPro
+     * [228]Kuiper Systems
+     * [229]One Medical
+     * [230]PillPack
+     * [231]Ring
+          + [232]Neighbors
+     * [233]Shopbop
+     * [234]Souq.com
+     * [235]Twitch
+     * [236]Woot.com
+     * [237]Zappos
+     * [238]Zoox
+
+   Cloud
+   computing
+     * [239]Web Services
+          + [240]AMI
+          + [241]Amazon Aurora
+          + [242]Beanstalk
+          + [243]CloudFront
+          + [244]DynamoDB
+          + [245]EBS
+          + [246]EC2
+          + [247]EFS
+          + [248]ElastiCache
+          + [249]EMR
+          + [250]Glacier
+          + [251]Glue
+          + [252]Lambda
+          + [253]Lightsail
+          + [254]MTurk
+          + [255]Neptune
+          + [256]Product Advertising API
+          + [257]RDS
+          + [258]Redshift
+          + [259]Rekognition
+          + [260]Route 53
+          + [261]S3
+          + [262]SageMaker
+          + [263]SES
+          + [264]SNS
+          + [265]SimpleDB
+          + [266]SQS
+          + [267]VPC
+
+   Services
+     * [268]Amazon.com
+          + [269]China
+     * [270]Alexa
+     * [271]Appstore
+     * [272]Digital Game Store
+     * [273]Fire OS
+     * [274]Kindle Store
+     * [275]Luna
+     * [276]Payments
+     * [277]Prime
+     * [278]Amazon miniTV
+     * [279]MX Player
+          + [280]Key
+          + [281]Prime Music
+          + [282]Prime Now
+          + [283]Prime Pantry
+          + [284]Prime Video
+               o [285]Sports
+     * [286]Marketplace
+     * [287]Music ([288]Wondery)
+     * [289]Silk
+     * [290]Wireless
+
+   Devices
+     * [291]Astro
+     * [292]Echo
+          + [293]Show
+     * [294]Echo Buds
+     * [295]Fire
+          + [296]Fire HD
+          + [297]Fire HDX
+     * [298]Fire TV
+          + [299]Stick
+     * [300]Kindle
+
+   Technology
+     * 1-Click
+     * [301]Dynamo
+     * [302]Obidos
+     * [303]Lumberyard
+
+   Media
+     * [304]Amazon Games
+     * [305]Amazon Publishing
+     * [306]Breakthrough Novel Award
+     * [307]Best Books of the Year
+     * [308]Amazon MGM Studios
+          + [309]Metro-Goldwyn-Mayer
+          + [310]United Artists
+          + [311]Orion Pictures
+          + [312]American International Pictures
+          + [313]MGM+
+     * [314]Kindle Direct Publishing
+     * [315]YES Network (15%)
+
+   Retail
+     * [316]Amazon Fresh
+     * [317]Amazon Go
+     * [318]Whole Foods Market
+
+              Logistics
+     * [319]Amazon Air
+     * [320]Amazon Prime Air
+
+   Former
+     * [321]43 Things
+     * [322]Askville
+     * [323]Alexa Internet
+     * [324]Amapedia
+     * [325]Amazon Books
+     * [326]Amie Street ([327]Songza)
+     * [328]CDNow
+     * [329]Dash buttons
+     * [330]Dash wand
+     * [331]Diapers.com
+     * [332]Digital Photography Review
+     * [333]Drive
+     * [334]Endless.com
+     * [335]Fire Phone
+     * [336]Lexcycle
+     * [337]Liquavista
+     * [338]LivingSocial
+     * [339]LoveFilm
+     * [340]MGM Holdings
+     * [341]Mobipocket
+     * [342]PlanetAll
+     * [343]Reflexive Entertainment
+     * [344]Sellaband
+     * [345]Shelfari
+     * [346]TenMarks
+     * [347]Treasure Truck
+     * [348]Withoutabox
+
+   Litigation
+     * [349]Perfect 10, Inc. v. Amazon.com, Inc.
+     * [350]Amazon.com, Inc. v. Barnesandnoble.com, Inc.
+     * [351]Amazon.com Inc v Canada (Commissioner of Patents)
+     * [352]FTC v. Amazon
+
+   Other
+
+     * [353]Amazon Light
+     * [354]ASIN
+     * [355]Community Banana Stand
+     * [356]Criticism ([357]tax)
+     * [358]Fishbowl
+     * [359]History of Amazon
+     * [360]LibraryThing
+     * [361]List of Amazon brands
+     * [362]List of Amazon products and services
+     * [363]List of mergers and acquisitions by Amazon
+     * [364]Locker
+     * [365]MacKenzie Scott
+     * [366]Statistically improbable phrase
+     * [367]Vine
+     * [368]Worker organization
+
+   Unions
+
+     * [369]Congress of Essential Workers
+     * [370]Amazon Labor Union
+     * [371]Amazon worker organization
+          + [372]2024 strike
+
+   [373]Category
+
+   Retrieved from
+   "[374]https://en.wikipedia.org/w/index.php?title=1-Click&oldid=12100516
+   82"
+
+   [375]Categories:
+     * [376]Amazon (company)
+     * [377]Internet properties established in 1997
+     * [378]Internet terminology
+     * [379]Software features
+     * [380]Software patent law
+
+   Hidden categories:
+     * [381]Articles with short description
+     * [382]Short description matches Wikidata
+     * [383]Use mdy dates from March 2012
+
+     * This page was last edited on 24 February 2024, at 19:41 (UTC).
+     * Text is available under the [384]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [385]Terms of Use and
+       [386]Privacy Policy. Wikipedia® is a registered trademark of the
+       [387]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [388]Privacy policy
+     * [389]About Wikipedia
+     * [390]Disclaimers
+     * [391]Contact Wikipedia
+     * [392]Code of Conduct
+     * [393]Developers
+     * [394]Statistics
+     * [395]Cookie statement
+     * [396]Mobile view
+
+     * [397]Wikimedia Foundation
+     * [398]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/1-Click
+   2. file:///w/index.php?title=1-Click&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=1-Click
+  21. file:///w/index.php?title=Special:UserLogin&returnto=1-Click
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=1-Click
+  24. file:///w/index.php?title=Special:UserLogin&returnto=1-Click
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html
+  29. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#Patent
+  30. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#Licensing
+  31. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#Apple_Inc.
+  32. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#Barnes_&_Noble
+  33. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#References
+  34. https://ar.wikipedia.org/wiki/نقرة_واحدة
+  35. https://ja.wikipedia.org/wiki/1-Click
+  36. https://pt.wikipedia.org/wiki/1-Click
+  37. https://www.wikidata.org/wiki/Special:EntityPage/Q4545770#sitelinks-wikipedia
+  38. file:///wiki/1-Click
+  39. file:///wiki/Talk:1-Click
+  40. file:///wiki/1-Click
+  41. file:///w/index.php?title=1-Click&action=edit
+  42. file:///w/index.php?title=1-Click&action=history
+  43. file:///wiki/1-Click
+  44. file:///w/index.php?title=1-Click&action=edit
+  45. file:///w/index.php?title=1-Click&action=history
+  46. file:///wiki/Special:WhatLinksHere/1-Click
+  47. file:///wiki/Special:RecentChangesLinked/1-Click
+  48. file:///wiki/Wikipedia:File_Upload_Wizard
+  49. file:///wiki/Special:SpecialPages
+  50. file:///w/index.php?title=1-Click&oldid=1210051682
+  51. file:///w/index.php?title=1-Click&action=info
+  52. file:///w/index.php?title=Special:CiteThisPage&page=1-Click&id=1210051682&wpFormIdentifier=titleform
+  53. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/1-Click
+  54. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/1-Click
+  55. file:///w/index.php?title=Special:DownloadAsPdf&page=1-Click&action=show-download-screen
+  56. file:///w/index.php?title=1-Click&printable=yes
+  57. https://www.wikidata.org/wiki/Special:EntityPage/Q4545770
+  58. file:///wiki/File:Amazon_1-Click_option.png
+  59. file:///wiki/Amazon.com
+  60. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-1
+  61. file:///wiki/Online_shop
+  62. file:///wiki/Internet_marketplace
+  63. file:///wiki/Shopping_cart_software
+  64. file:///wiki/Payment_card_number
+  65. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-2
+  66. file:///w/index.php?title=1-Click&action=edit&section=1
+  67. file:///wiki/United_States_Patent_and_Trademark_Office
+  68. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-3
+  69. file:///wiki/Amazon.com
+  70. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-4
+  71. file:///wiki/Reexamination
+  72. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-5
+  73. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-6
+  74. file:///wiki/Prior_art
+  75. file:///wiki/Electronic_cash
+  76. file:///wiki/Office_action
+  77. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-7
+  78. file:///wiki/Patent_examiner
+  79. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-8
+  80. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-9
+  81. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-10
+  82. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-11
+  83. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-12
+  84. file:///wiki/European_Patent_Office
+  85. file:///wiki/Inventive_step_and_non-obviousness
+  86. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-13
+  87. file:///wiki/Opposition_procedure_before_the_European_Patent_Office
+  88. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-epo-14
+  89. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-15
+  90. file:///w/index.php?title=1-Click&action=edit&section=2
+  91. file:///w/index.php?title=1-Click&action=edit&section=3
+  92. file:///wiki/Apple_Inc.
+  93. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-multiref1-16
+  94. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-17
+  95. file:///wiki/ITunes_Store
+  96. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-multiref2-18
+  97. file:///wiki/IPhoto
+  98. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-multiref3-19
+  99. file:///w/index.php?title=1-Click&action=edit&section=4
+ 100. file:///wiki/Barnes_&_Noble
+ 101. file:///wiki/Preliminary_injunction
+ 102. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-20
+ 103. file:///wiki/Design_around
+ 104. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-21
+ 105. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-22
+ 106. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-23
+ 107. file:///wiki/Free_Software_Foundation
+ 108. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-24
+ 109. file:///wiki/GNU
+ 110. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-25
+ 111. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_note-26
+ 112. file:///w/index.php?title=1-Click&action=edit&section=5
+ 113. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-1
+ 114. https://www.amazon.com/gp/help/customer/display.html?nodeId=468482
+ 115. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-2
+ 116. https://www.bloomberg.com/news/articles/2022-04-26/forever-21-parent-authentic-brands-sues-bolt-startup
+ 117. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-3
+ 118. https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=US5960411
+ 119. file:///wiki/Amazon.com_Inc.
+ 120. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-4
+ 121. https://www.geekwire.com/2017/amazons-1-click-patent-expires-today-soon-youll-able-accidentally-order-stuff-across-entire-internet/
+ 122. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-5
+ 123. https://web.archive.org/web/20081211091740/http://www.smh.com.au/news/technology/kiwi-actor-v-amazoncom/2006/05/23/1148150224714.html
+ 124. http://www.smh.com.au/news/technology/kiwi-actor-v-amazoncom/2006/05/23/1148150224714.html
+ 125. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-6
+ 126. http://igdmlgd.blogspot.com/
+ 127. https://web.archive.org/web/20070925203700/http://igdmlgd.blogspot.com/
+ 128. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-7
+ 129. http://portal.uspto.gov/external/portal/pair
+ 130. https://web.archive.org/web/20090114020637/http://portal.uspto.gov/external/portal/pair
+ 131. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-8
+ 132. https://web.archive.org/web/20081211093025/http://www.out-law.com/page-8659
+ 133. http://www.out-law.com/page-8659
+ 134. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-9
+ 135. https://web.archive.org/web/20100413043447/http://www.techflash.com/seattle/2010/03/amazons_1-click_patent_confirmed_following_re-exam.html
+ 136. http://www.techflash.com/seattle/2010/03/amazons_1-click_patent_confirmed_following_re-exam.html
+ 137. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-10
+ 138. https://web.archive.org/web/20140419191500/http://www.electronista.com/articles/10/03/10/amazon.1.click.patent.confirmed.after.four.years/
+ 139. http://www.electronista.com/articles/10/03/10/amazon.1.click.patent.confirmed.after.four.years/
+ 140. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-11
+ 141. http://www.businessinsider.com/amazons-patent-on-one-click-payments-to-expire-2017-1
+ 142. file:///wiki/Business_Insider
+ 143. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-12
+ 144. https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=EP1134680
+ 145. file:///wiki/Amazon.com_Inc.
+ 146. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-13
+ 147. https://www.pcworld.com/article/235190/article.html
+ 148. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-epo_14-0
+ 149. https://web.archive.org/web/20090604043421/http://www.epo.org/topics/news/2007/20071207.html
+ 150. http://www.epo.org/topics/news/2007/20071207.html
+ 151. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-15
+ 152. http://webarchive.loc.gov/all/20101104232642/http://www.patentlyo.com/amazon-dot-com.pdf
+ 153. http://www.patentlyo.com/amazon-dot-com.pdf
+ 154. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-multiref1_16-0
+ 155. https://web.archive.org/web/20090203092304/http://news.cnet.com/2100-1017-245879.html
+ 156. http://news.cnet.com/2100-1017-245879.html
+ 157. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-17
+ 158. https://www.apple.com/newsroom/2000/09/18Apple-Licenses-Amazon-com-1-Click-Patent-and-Trademark/
+ 159. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-multiref2_18-0
+ 160. https://web.archive.org/web/20081207125802/http://www.apple.com/legal/itunes/us/sales.html
+ 161. https://www.apple.com/legal/itunes/us/sales.html
+ 162. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-multiref3_19-0
+ 163. http://docs.info.apple.com/article.html?path=iPhoto/6.0/en/oc2rem.html
+ 164. https://web.archive.org/web/20080121062749/http://docs.info.apple.com/article.html?path=iPhoto/6.0/en/oc2rem.html
+ 165. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-20
+ 166. http://news.cnet.com/2100-1017-854105.html
+ 167. https://web.archive.org/web/20090730055049/http://news.cnet.com/2100-1017-854105.html
+ 168. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-21
+ 169. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-22
+ 170. https://web.archive.org/web/20071218184903/http://www.oreilly.com/pub/a/oreilly/ask_tim/2000/bezos_0300.html
+ 171. http://www.oreilly.com/pub/a/oreilly/ask_tim/2000/bezos_0300.html
+ 172. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-23
+ 173. https://web.archive.org/web/20090203023218/http://news.cnet.com/2100-1017-854105.html
+ 174. http://news.cnet.com/2100-1017-854105.html
+ 175. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-24
+ 176. https://status.fsf.org/notice/3139013
+ 177. file:///wiki/Free_Software_Foundation
+ 178. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-25
+ 179. https://www.gnu.org/philosophy/amazon.html
+ 180. file:///wiki/GNU
+ 181. file:///tmp/lynxXXXXkH5BRY/L59264-7204TMP.html#cite_ref-26
+ 182. https://www.adcanyon.com/
+ 183. file:///wiki/Template:Amazon
+ 184. file:///wiki/Template_talk:Amazon
+ 185. file:///wiki/Special:EditPage/Template:Amazon
+ 186. file:///wiki/Amazon_(company)
+ 187. file:///wiki/Jeff_Bezos
+ 188. file:///wiki/Andy_Jassy
+ 189. file:///wiki/Werner_Vogels
+ 190. file:///wiki/Rick_Dalzell
+ 191. file:///wiki/Paul_Davis_(programmer)
+ 192. file:///wiki/Tony_Hsieh
+ 193. file:///wiki/Christopher_North_(businessman)
+ 194. file:///wiki/Ram_Shriram
+ 195. file:///wiki/Tom_Szkutak
+ 196. file:///wiki/Brian_Valentine
+ 197. file:///wiki/List_of_Amazon_locations
+ 198. file:///wiki/Doppler_(building)
+ 199. file:///wiki/Day_1_(building)
+ 200. file:///wiki/Amazon_HQ2
+ 201. file:///wiki/Principal_Place
+ 202. file:///wiki/Amazon_Spheres
+ 203. file:///wiki/Bellevue_600
+ 204. file:///wiki/A9.com
+ 205. file:///wiki/AbeBooks
+ 206. file:///wiki/Amazon_Clinic
+ 207. file:///wiki/Amazon_Games
+ 208. file:///wiki/Double_Helix_Games
+ 209. file:///wiki/Amazon_Lab126
+ 210. file:///wiki/Amazon_Pharmacy
+ 211. file:///wiki/Amazon_Robotics
+ 212. file:///wiki/Amazon_University_Esports
+ 213. file:///wiki/Annapurna_Labs
+ 214. file:///wiki/Audible_(service)
+ 215. file:///wiki/Blink_Home
+ 216. file:///wiki/Body_Labs
+ 217. file:///wiki/Book_Depository
+ 218. file:///wiki/BookFinder.com
+ 219. file:///wiki/ComiXology
+ 220. file:///wiki/Amazon_Freevee
+ 221. file:///wiki/AmazonFresh
+ 222. file:///wiki/Goodreads
+ 223. file:///wiki/Goodreads_Choice_Awards
+ 224. file:///wiki/Graphiq
+ 225. file:///wiki/IMDb
+ 226. file:///wiki/Box_Office_Mojo
+ 227. file:///wiki/IMDb#IMDbPro
+ 228. file:///wiki/Kuiper_Systems
+ 229. file:///wiki/1Life_Healthcare
+ 230. file:///wiki/PillPack
+ 231. file:///wiki/Ring_(company)
+ 232. file:///wiki/Neighbors_(app)
+ 233. file:///wiki/Shopbop
+ 234. file:///wiki/Souq.com
+ 235. file:///wiki/Twitch_(service)
+ 236. file:///wiki/Woot
+ 237. file:///wiki/Zappos
+ 238. file:///wiki/Zoox_(company)
+ 239. file:///wiki/Amazon_Web_Services
+ 240. file:///wiki/Amazon_Machine_Image
+ 241. file:///wiki/Amazon_Aurora
+ 242. file:///wiki/AWS_Elastic_Beanstalk
+ 243. file:///wiki/Amazon_CloudFront
+ 244. file:///wiki/Amazon_DynamoDB
+ 245. file:///wiki/Amazon_Elastic_Block_Store
+ 246. file:///wiki/Amazon_Elastic_Compute_Cloud
+ 247. file:///wiki/Amazon_Elastic_File_System
+ 248. file:///wiki/Amazon_ElastiCache
+ 249. file:///wiki/Amazon_Elastic_MapReduce
+ 250. file:///wiki/Amazon_Glacier
+ 251. file:///wiki/AWS_Glue
+ 252. file:///wiki/AWS_Lambda
+ 253. file:///wiki/Amazon_Lightsail
+ 254. file:///wiki/Amazon_Mechanical_Turk
+ 255. file:///wiki/Amazon_Neptune
+ 256. file:///wiki/Amazon_Product_Advertising_API
+ 257. file:///wiki/Amazon_Relational_Database_Service
+ 258. file:///wiki/Amazon_Redshift
+ 259. file:///wiki/Amazon_Rekognition
+ 260. file:///wiki/Amazon_Route_53
+ 261. file:///wiki/Amazon_S3
+ 262. file:///wiki/Amazon_SageMaker
+ 263. file:///wiki/Amazon_Web_Services
+ 264. file:///wiki/Amazon_Simple_Notification_Service
+ 265. file:///wiki/Amazon_SimpleDB
+ 266. file:///wiki/Amazon_Simple_Queue_Service
+ 267. file:///wiki/Amazon_Virtual_Private_Cloud
+ 268. file:///wiki/Amazon_(company)#Website
+ 269. file:///wiki/Amazon_China
+ 270. file:///wiki/Amazon_Alexa
+ 271. file:///wiki/Amazon_Appstore
+ 272. file:///wiki/Amazon_Digital_Game_Store
+ 273. file:///wiki/Fire_OS
+ 274. file:///wiki/Kindle_Store
+ 275. file:///wiki/Amazon_Luna
+ 276. file:///wiki/Amazon_Pay
+ 277. file:///wiki/Amazon_Prime
+ 278. file:///wiki/Amazon_miniTV
+ 279. file:///wiki/MX_Player
+ 280. file:///wiki/Amazon_Key
+ 281. file:///wiki/Amazon_Prime_Music
+ 282. file:///wiki/Prime_Now
+ 283. file:///wiki/Amazon_Prime_Pantry
+ 284. file:///wiki/Amazon_Prime_Video
+ 285. file:///wiki/Sports_on_Amazon_Prime_Video
+ 286. file:///wiki/Amazon_Marketplace
+ 287. file:///wiki/Amazon_Music
+ 288. file:///wiki/Wondery
+ 289. file:///wiki/Amazon_Silk
+ 290. file:///wiki/Amazon_(company)#AmazonWireless
+ 291. file:///wiki/Amazon_Astro
+ 292. file:///wiki/Amazon_Echo
+ 293. file:///wiki/Amazon_Echo_Show
+ 294. file:///wiki/Amazon_Echo_Buds
+ 295. file:///wiki/Amazon_Fire
+ 296. file:///wiki/Fire_HD
+ 297. file:///wiki/Fire_HDX
+ 298. file:///wiki/Amazon_Fire_TV
+ 299. file:///wiki/Amazon_Fire_TV#Fire_TV_Stick
+ 300. file:///wiki/Amazon_Kindle
+ 301. file:///wiki/Dynamo_(storage_system)
+ 302. file:///wiki/Obidos_(software)
+ 303. file:///wiki/Amazon_Lumberyard
+ 304. file:///wiki/Amazon_Games
+ 305. file:///wiki/Amazon_Publishing
+ 306. file:///wiki/Amazon_Breakthrough_Novel_Award
+ 307. file:///wiki/Amazon's_Best_Books_of_the_Year
+ 308. file:///wiki/Amazon_MGM_Studios
+ 309. file:///wiki/Metro-Goldwyn-Mayer
+ 310. file:///wiki/United_Artists
+ 311. file:///wiki/Orion_Pictures
+ 312. file:///wiki/American_International_Pictures
+ 313. file:///wiki/MGM+
+ 314. file:///wiki/Kindle_Direct_Publishing
+ 315. file:///wiki/YES_Network
+ 316. file:///wiki/Amazon_Fresh
+ 317. file:///wiki/Amazon_Go
+ 318. file:///wiki/Whole_Foods_Market
+ 319. file:///wiki/Amazon_Air
+ 320. file:///wiki/Amazon_Prime_Air
+ 321. file:///wiki/43_Things
+ 322. file:///wiki/Askville
+ 323. file:///wiki/Alexa_Internet
+ 324. file:///wiki/Amapedia
+ 325. file:///wiki/Amazon_Books
+ 326. file:///wiki/Amie_Street
+ 327. file:///wiki/Songza
+ 328. file:///wiki/CDNow
+ 329. file:///wiki/Amazon_Dash
+ 330. file:///wiki/Amazon_Dash#Barcode_scanner
+ 331. file:///wiki/Diapers.com
+ 332. file:///wiki/Digital_Photography_Review
+ 333. file:///wiki/Amazon_Drive
+ 334. file:///wiki/Endless.com
+ 335. file:///wiki/Fire_Phone
+ 336. file:///wiki/Lexcycle
+ 337. file:///wiki/Liquavista
+ 338. file:///wiki/LivingSocial
+ 339. file:///wiki/LoveFilm
+ 340. file:///wiki/MGM_Holdings
+ 341. file:///wiki/Mobipocket
+ 342. file:///wiki/PlanetAll
+ 343. file:///wiki/Reflexive_Entertainment
+ 344. file:///wiki/Sellaband
+ 345. file:///wiki/Shelfari
+ 346. file:///wiki/TenMarks_Education,_Inc.
+ 347. file:///wiki/Treasure_Truck
+ 348. file:///wiki/Withoutabox
+ 349. file:///wiki/Perfect_10,_Inc._v._Amazon.com,_Inc.
+ 350. file:///wiki/Amazon.com,_Inc._v._Barnesandnoble.com,_Inc.
+ 351. file:///wiki/Amazon.com_Inc_v_Canada_(Commissioner_of_Patents)
+ 352. file:///wiki/FTC_v._Amazon
+ 353. file:///wiki/Amazon_Light
+ 354. file:///wiki/Amazon_Standard_Identification_Number
+ 355. file:///wiki/Community_Banana_Stand
+ 356. file:///wiki/Criticism_of_Amazon
+ 357. file:///wiki/Amazon_tax
+ 358. file:///wiki/Amazon_Fishbowl
+ 359. file:///wiki/History_of_Amazon
+ 360. file:///wiki/LibraryThing
+ 361. file:///wiki/List_of_Amazon_brands
+ 362. file:///wiki/List_of_Amazon_products_and_services
+ 363. file:///wiki/List_of_mergers_and_acquisitions_by_Amazon
+ 364. file:///wiki/Amazon_Locker
+ 365. file:///wiki/MacKenzie_Scott
+ 366. file:///wiki/Statistically_improbable_phrase
+ 367. file:///wiki/Amazon_Vine
+ 368. file:///wiki/Amazon_worker_organization
+ 369. file:///wiki/Congress_of_Essential_Workers
+ 370. file:///wiki/Amazon_Labor_Union
+ 371. file:///wiki/Amazon_worker_organization
+ 372. file:///wiki/2024_Teamsters_Amazon_Strike
+ 373. file:///wiki/Category:Amazon_(company)
+ 374. https://en.wikipedia.org/w/index.php?title=1-Click&oldid=1210051682
+ 375. file:///wiki/Help:Category
+ 376. file:///wiki/Category:Amazon_(company)
+ 377. file:///wiki/Category:Internet_properties_established_in_1997
+ 378. file:///wiki/Category:Internet_terminology
+ 379. file:///wiki/Category:Software_features
+ 380. file:///wiki/Category:Software_patent_law
+ 381. file:///wiki/Category:Articles_with_short_description
+ 382. file:///wiki/Category:Short_description_matches_Wikidata
+ 383. file:///wiki/Category:Use_mdy_dates_from_March_2012
+ 384. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 385. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 386. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 387. https://wikimediafoundation.org/
+ 388. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 389. file:///wiki/Wikipedia:About
+ 390. file:///wiki/Wikipedia:General_disclaimer
+ 391. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 392. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 393. https://developer.wikimedia.org/
+ 394. https://stats.wikimedia.org/#/en.wikipedia.org
+ 395. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 396. file://en.m.wikipedia.org/w/index.php?title=1-Click&mobileaction=toggle_view_mobile
+ 397. https://wikimediafoundation.org/
+ 398. https://www.mediawiki.org/

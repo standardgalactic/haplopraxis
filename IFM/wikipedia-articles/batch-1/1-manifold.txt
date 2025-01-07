@@ -1,0 +1,1816 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 History
+     * [30]2 Topological curve
+     * [31]3 Differentiable curve
+       (BUTTON) Toggle Differentiable curve subsection
+          + [32]3.1 Differentiable arc
+          + [33]3.2 Length of a curve
+          + [34]3.3 Differential geometry
+     * [35]4 Algebraic curve
+     * [36]5 See also
+     * [37]6 Notes
+     * [38]7 References
+     * [39]8 External links
+
+   [ ] Toggle the table of contents
+
+Curve
+
+   [ ] 75 languages
+     * [40]Afrikaans
+     * [41]العربية
+     * [42]Asturianu
+     * [43]Banjar
+     * [44]Беларуская
+     * [45]Български
+     * [46]Bosanski
+     * [47]Català
+     * [48]Чӑвашла
+     * [49]Čeština
+     * [50]ChiShona
+     * [51]Cymraeg
+     * [52]Dansk
+     * [53]Deutsch
+     * [54]Eesti
+     * [55]Ελληνικά
+     * [56]Español
+     * [57]Esperanto
+     * [58]Euskara
+     * [59]فارسی
+     * [60]Français
+     * [61]Gaeilge
+     * [62]Galego
+     * [63]한국어
+     * [64]Հայերեն
+     * [65]हिन्दी
+     * [66]Hrvatski
+     * [67]Ido
+     * [68]Bahasa Indonesia
+     * [69]Íslenska
+     * [70]Italiano
+     * [71]עברית
+     * [72]ಕನ್ನಡ
+     * [73]ქართული
+     * [74]Қазақша
+     * [75]Kiswahili
+     * [76]Latviešu
+     * [77]Lietuvių
+     * [78]Lingála
+     * [79]Magyar
+     * [80]Македонски
+     * [81]Malagasy
+     * [82]മലയാളം
+     * [83]Bahasa Melayu
+     * [84]Nederlands
+     * [85]नेपाल भाषा
+     * [86]日本語
+     * [87]Norsk bokmål
+     * [88]Norsk nynorsk
+     * [89]ਪੰਜਾਬੀ
+     * [90]Polski
+     * [91]Português
+     * [92]Română
+     * [93]Русский
+     * [94]Shqip
+     * [95]Sicilianu
+     * [96]Simple English
+     * [97]Slovenščina
+     * [98]کوردی
+     * [99]Српски / srpski
+     * [100]Srpskohrvatski / српскохрватски
+     * [101]Suomi
+     * [102]Svenska
+     * [103]Tagalog
+     * [104]தமிழ்
+     * [105]Taqbaylit
+     * [106]ไทย
+     * [107]Türkçe
+     * [108]Українська
+     * [109]اردو
+     * [110]Tiếng Việt
+     * [111]文言
+     * [112]吴语
+     * [113]粵語
+     * [114]中文
+
+   [115]Edit links
+
+     * [116]Article
+     * [117]Talk
+
+   [ ] English
+
+     * [118]Read
+     * [119]Edit
+     * [120]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [121]Read
+     * [122]Edit
+     * [123]View history
+
+   General
+     * [124]What links here
+     * [125]Related changes
+     * [126]Upload file
+     * [127]Special pages
+     * [128]Permanent link
+     * [129]Page information
+     * [130]Cite this page
+     * [131]Get shortened URL
+     * [132]Download QR code
+
+   Print/export
+     * [133]Download as PDF
+     * [134]Printable version
+
+   In other projects
+     * [135]Wikimedia Commons
+     * [136]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [137]1-manifold)
+   Mathematical idealization of the trace left by a moving point
+   For other uses, see [138]Curve (disambiguation).
+   [139][220px-Parabola.svg.png] A [140]parabola, one of the simplest
+   curves, after (straight) lines
+
+   In [141]mathematics, a curve (also called a curved line in older texts)
+   is an object similar to a [142]line, but that does not have to be
+   [143]straight.
+
+   Intuitively, a curve may be thought of as the trace left by a moving
+   [144]point. This is the definition that appeared more than 2000 years
+   ago in [145]Euclid's Elements: "The [curved] line^[146][a] is […] the
+   first species of quantity, which has only one dimension, namely length,
+   without any width nor depth, and is nothing else than the flow or run
+   of the point which […] will leave from its imaginary moving some
+   vestige in length, exempt of any width."^[147][1]
+
+   This definition of a curve has been formalized in modern mathematics
+   as: A curve is the [148]image of an [149]interval to a [150]topological
+   space by a [151]continuous function. In some contexts, the function
+   that defines the curve is called a parametrization, and the curve is a
+   [152]parametric curve. In this article, these curves are sometimes
+   called topological curves to distinguish them from more constrained
+   curves such as [153]differentiable curves. This definition encompasses
+   most curves that are studied in mathematics; notable exceptions are
+   [154]level curves (which are [155]unions of curves and isolated
+   points), and [156]algebraic curves (see below). Level curves and
+   algebraic curves are sometimes called [157]implicit curves, since they
+   are generally defined by [158]implicit equations.
+
+   Nevertheless, the class of topological curves is very broad, and
+   contains some curves that do not look as one may expect for a curve, or
+   even cannot be drawn. This is the case of [159]space-filling curves and
+   [160]fractal curves. For ensuring more regularity, the function that
+   defines a curve is often supposed to be [161]differentiable, and the
+   curve is then said to be a [162]differentiable curve.
+
+   A [163]plane algebraic curve is the [164]zero set of a [165]polynomial
+   in two [166]indeterminates. More generally, an [167]algebraic curve is
+   the zero set of a finite set of polynomials, which satisfies the
+   further condition of being an [168]algebraic variety of [169]dimension
+   one. If the coefficients of the polynomials belong to a [170]field k,
+   the curve is said to be defined over k. In the common case of a
+   [171]real algebraic curve, where k is the field of [172]real numbers,
+   an algebraic curve is a finite union of topological curves. When
+   [173]complex zeros are considered, one has a complex algebraic curve,
+   which, from the [174]topological point of view, is not a curve, but a
+   [175]surface, and is often called a [176]Riemann surface. Although not
+   being curves in the common sense, algebraic curves defined over other
+   fields have been widely studied. In particular, algebraic curves over a
+   [177]finite field are widely used in modern [178]cryptography.
+
+History
+
+   [[179]edit]
+   [180][225px-Newgrange_Entrance_Stone.jpg] [181]Megalithic art from
+   [182]Newgrange showing an early interest in curves
+
+   Interest in curves began long before they were the subject of
+   mathematical study. This can be seen in numerous examples of their
+   decorative use in art and on everyday objects dating back to
+   prehistoric times.^[183][2] Curves, or at least their graphical
+   representations, are simple to create, for example with a stick on the
+   sand on a beach.
+
+   Historically, the term line was used in place of the more modern term
+   curve. Hence the terms straight line and right line were used to
+   distinguish what are today called lines from curved lines. For example,
+   in Book I of [184]Euclid's Elements, a line is defined as a
+   "breadthless length" (Def. 2), while a straight line is defined as "a
+   line that lies evenly with the points on itself" (Def. 4). Euclid's
+   idea of a line is perhaps clarified by the statement "The extremities
+   of a line are points," (Def. 3).^[185][3] Later commentators further
+   classified lines according to various schemes. For example:^[186][4]
+     * Composite lines (lines forming an angle)
+     * Incomposite lines
+          + Determinate (lines that do not extend indefinitely, such as
+            the circle)
+          + Indeterminate (lines that extend indefinitely, such as the
+            straight line and the parabola)
+
+   [187][225px-Conic_sections_with_plane.svg.png] The curves created by
+   slicing a cone ([188]conic sections) were among the curves studied in
+   ancient [189]Greek mathematics.
+
+   The Greek [190]geometers had studied many other kinds of curves. One
+   reason was their interest in solving geometrical problems that could
+   not be solved using standard [191]compass and straightedge
+   construction. These curves include:
+     * The conic sections, studied in depth by [192]Apollonius of Perga
+     * The [193]cissoid of Diocles, studied by [194]Diocles and used as a
+       method to [195]double the cube.^[196][5]
+     * The [197]conchoid of Nicomedes, studied by [198]Nicomedes as a
+       method to both double the cube and to [199]trisect an
+       angle.^[200][6]
+     * The [201]Archimedean spiral, studied by [202]Archimedes as a method
+       to trisect an angle and [203]square the circle.^[204][7]
+     * The [205]spiric sections, sections of [206]tori studied by
+       [207]Perseus as sections of cones had been studied by Apollonius.
+
+   [208][225px-Folium_Of_Descartes.svg.png] Analytic geometry allowed
+   curves, such as the [209]Folium of Descartes, to be defined using
+   equations instead of geometrical construction.
+
+   A fundamental advance in the theory of curves was the introduction of
+   [210]analytic geometry by [211]René Descartes in the seventeenth
+   century. This enabled a curve to be described using an equation rather
+   than an elaborate geometrical construction. This not only allowed new
+   curves to be defined and studied, but it enabled a formal distinction
+   to be made between [212]algebraic curves that can be defined using
+   [213]polynomial equations, and [214]transcendental curves that cannot.
+   Previously, curves had been described as "geometrical" or "mechanical"
+   according to how they were, or supposedly could be, generated.^[215][2]
+
+   Conic sections were applied in [216]astronomy by [217]Kepler. Newton
+   also worked on an early example in the [218]calculus of variations.
+   Solutions to variational problems, such as the [219]brachistochrone and
+   [220]tautochrone questions, introduced properties of curves in new ways
+   (in this case, the [221]cycloid). The [222]catenary gets its name as
+   the solution to the problem of a hanging chain, the sort of question
+   that became routinely accessible by means of [223]differential
+   calculus.
+
+   In the eighteenth century came the beginnings of the theory of plane
+   algebraic curves, in general. Newton had studied the [224]cubic curves,
+   in the general description of the real points into 'ovals'. The
+   statement of [225]Bézout's theorem showed a number of aspects which
+   were not directly accessible to the geometry of the time, to do with
+   singular points and complex solutions.
+
+   Since the nineteenth century, curve theory is viewed as the special
+   case of dimension one of the theory of [226]manifolds and
+   [227]algebraic varieties. Nevertheless, many questions remain specific
+   to curves, such as [228]space-filling curves, [229]Jordan curve theorem
+   and [230]Hilbert's sixteenth problem.
+
+Topological curve
+
+   [[231]edit]
+
+   A topological curve can be specified by a [232]continuous function
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo>:</mo> <mi>I</mi>
+   <mo stretchy="false">→</mo> <mi>X</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \gamma \colon I\rightarrow
+   X}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma \colon I\rightarrow X} from an [233]interval I of
+   the [234]real numbers into a [235]topological space X. Properly
+   speaking, the curve is the [236]image of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \gamma
+   .}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma .} However, in some contexts,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } itself is called a curve, especially when the
+   image does not look like what is generally called a curve and does not
+   characterize sufficiently
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \gamma
+   .}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma .}
+
+   For example, the image of the [237]Peano curve or, more generally, a
+   [238]space-filling curve completely fills a square, and therefore does
+   not give any information on how
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } is defined.
+
+   A curve
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } is closed^[239][b] or is a [240]loop if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>I</mi> <mo>=</mo> <mo
+   stretchy="false">[</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo
+   stretchy="false">]</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle I=[a,b]}</annotation>
+   </semantics> :MATH]
+   {\displaystyle I=[a,b]} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo
+   stretchy="false">(</mo> <mi>a</mi> <mo stretchy="false">)</mo>
+   <mo>=</mo> <mi>γ</mi> <mo stretchy="false">(</mo> <mi>b</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \gamma (a)=\gamma
+   (b)}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma (a)=\gamma (b)} . A closed curve is thus the
+   image of a continuous mapping of a [241]circle. A non-closed curve may
+   also be called an open curve.
+
+   If the [242]domain of a topological curve is a closed and bounded
+   interval
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>I</mi> <mo>=</mo> <mo
+   stretchy="false">[</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo
+   stretchy="false">]</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle I=[a,b]}</annotation>
+   </semantics> :MATH]
+   {\displaystyle I=[a,b]} , the curve is called a [243]path, also known
+   as topological arc (or just arc
+   ).
+
+   A curve is simple if it is the image of an interval or a circle by an
+   [244]injective continuous function. In other words, if a curve is
+   defined by a continuous function
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } with an interval as a domain, the curve is
+   simple if and only if any two different points of the interval have
+   different images, except, possibly, if the points are the endpoints of
+   the interval. Intuitively, a simple curve is a curve that "does not
+   cross itself and has no missing points" (a continuous
+   non-self-intersecting curve).^[245][8]
+
+   A [246]plane curve is a curve for which
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is the [247]Euclidean plane—these are the examples
+   first encountered—or in some cases the [248]projective plane. A space
+   curve is a curve for which
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is at least three-dimensional; a skew curve is a
+   space curve which lies in no plane. These definitions of plane, space
+   and skew curves apply also to [249]real algebraic curves, although the
+   above definition of a curve does not apply (a real algebraic curve may
+   be [250]disconnected).
+   [251][220px-Fractal_dragon_curve.jpg] A [252]dragon curve with a
+   positive area
+
+   A plane simple closed curve is also called a Jordan curve. It is also
+   defined as a non-self-intersecting [253]continuous loop in the
+   plane.^[254][9] The [255]Jordan curve theorem states that the [256]set
+   complement in a plane of a Jordan curve consists of two [257]connected
+   components (that is the curve divides the plane in two non-intersecting
+   [258]regions that are both connected). The bounded region inside a
+   Jordan curve is known as Jordan domain.
+
+   The definition of a curve includes figures that can hardly be called
+   curves in common usage. For example, the image of a curve can cover a
+   [259]square in the plane ([260]space-filling curve), and a simple curve
+   may have a positive area.^[261][10] [262]Fractal curves can have
+   properties that are strange for the common sense. For example, a
+   fractal curve can have a [263]Hausdorff dimension bigger than one (see
+   [264]Koch snowflake) and even a positive area. An example is the
+   [265]dragon curve, which has many other unusual properties.
+
+Differentiable curve
+
+   [[266]edit]
+   Main article: [267]Differentiable curve
+
+   Roughly speaking a differentiable curve is a curve that is defined as
+   being locally the image of an injective differentiable function
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo>:</mo> <mi>I</mi>
+   <mo stretchy="false">→</mo> <mi>X</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \gamma \colon I\rightarrow
+   X}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma \colon I\rightarrow X} from an [268]interval I of
+   the [269]real numbers into a differentiable manifold X, often
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>.</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {R}
+   ^{n}.}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {R} ^{n}.}
+
+   More precisely, a differentiable curve is a subset C of X where every
+   point of C has a neighborhood U such that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>C</mi> <mo>∩</mo> <mi>U</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle C\cap U}</annotation>
+   </semantics> :MATH]
+   {\displaystyle C\cap U} is [270]diffeomorphic to an interval of the
+   real numbers.^[[271]clarification needed] In other words, a
+   differentiable curve is a differentiable manifold of dimension one.
+
+Differentiable arc
+
+   [[272]edit]
+   "Arc (geometry)" redirects here. For the use in finite projective
+   geometry, see [273]Arc (projective geometry). For other uses, see
+   [274]Arc (disambiguation).
+
+   In [275]Euclidean geometry, an arc (symbol: ⌒) is a [276]connected
+   subset of a [277]differentiable curve.
+
+   Arcs of [278]lines are called [279]segments, [280]rays, or [281]lines,
+   depending on how they are bounded.
+
+   A common curved example is an arc of a [282]circle, called a
+   [283]circular arc.
+
+   In a [284]sphere (or a [285]spheroid), an arc of a [286]great circle
+   (or a [287]great ellipse) is called a great arc.
+
+Length of a curve
+
+   [[288]edit]
+   Main article: [289]Arc length
+   Further information: [290]Differentiable curve § Length
+
+   If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> <mo>=</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   X=\mathbb {R} ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle X=\mathbb {R} ^{n}} is the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} -dimensional Euclidean space, and if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo>:</mo> <mo
+   stretchy="false">[</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo
+   stretchy="false">]</mo> <mo stretchy="false">→</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \gamma
+   :[a,b]\to \mathbb {R} ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma :[a,b]\to \mathbb {R} ^{n}} is an injective and
+   continuously differentiable function, then the length of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } is defined as the quantity
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>Length</mi> <mo>⁡</mo>
+          <mo stretchy="false">(</mo> <mi>γ</mi> <mo
+          stretchy="false">)</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-REL"> <mover>
+          <mrow class="MJX-TeXAtom-OP MJX-fixedlimits"> <mo>=</mo> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mtext>def</mtext> </mrow>
+          </mover> </mrow> </mrow> <mtext> </mtext> <msubsup> <mo>∫</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow> </msubsup> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mi>γ</mi> <msup> <mspace width="thinmathspace" /> <mo>′</mo>
+          </msup> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">d</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>t</mi> </mrow> <mo>.</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \operatorname
+          {Length} (\gamma )~{\stackrel {\text{def}}{=}}~\int
+          _{a}^{b}|\gamma \,'(t)|~\mathrm {d} {t}.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \operatorname {Length} (\gamma )~{\stackrel
+          {\text{def}}{=}}~\int _{a}^{b}|\gamma \,'(t)|~\mathrm {d} {t}.}
+
+   The length of a curve is independent of the [291]parametrization
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } .
+
+   In particular, the length
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>s</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle s}</annotation>
+   </semantics> :MATH]
+   {\displaystyle s} of the [292]graph of a continuously differentiable
+   function
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> <mo>=</mo> <mi>f</mi>
+   <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle y=f(x)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle y=f(x)} defined on a closed interval
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+   <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo stretchy="false">]</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   [a,b]}</annotation> </semantics> :MATH]
+   {\displaystyle [a,b]} is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>s</mi> <mo>=</mo>
+          <msubsup> <mo>∫</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow>
+          </msubsup> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn>
+          <mo>+</mo> <mo stretchy="false">[</mo> <msup> <mi>f</mi>
+          <mo>′</mo> </msup> <mo stretchy="false">(</mo> <mi>x</mi> <mo
+          stretchy="false">)</mo> <msup> <mo stretchy="false">]</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </msqrt>
+          </mrow> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">d</mi> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>x</mi> </mrow> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          s=\int _{a}^{b}{\sqrt {1+[f'(x)]^{2}}}~\mathrm {d}
+          {x},}</annotation> </semantics> :MATH]
+          {\displaystyle s=\int _{a}^{b}{\sqrt {1+[f'(x)]^{2}}}~\mathrm
+          {d} {x},}
+
+   which can be thought of intuitively as using the [293]Pythagorean
+   theorem at the infinitesimal scale continuously over the full length of
+   the curve.^[294][11]
+
+   More generally, if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is a [295]metric space with metric
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} , then we can define the length of a curve
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo>:</mo> <mo
+   stretchy="false">[</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo
+   stretchy="false">]</mo> <mo stretchy="false">→</mo> <mi>X</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \gamma :[a,b]\to
+   X}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma :[a,b]\to X} by
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>Length</mi> <mo>⁡</mo>
+          <mo stretchy="false">(</mo> <mi>γ</mi> <mo
+          stretchy="false">)</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-REL"> <mover>
+          <mrow class="MJX-TeXAtom-OP MJX-fixedlimits"> <mo>=</mo> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mtext>def</mtext> </mrow>
+          </mover> </mrow> </mrow> <mtext> </mtext> <mo
+          movablelimits="true" form="prefix">sup</mo> <mspace
+          width="negativethinmathspace" /> <mrow> <mo>{</mo> <mrow>
+          <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </munderover>
+          <mi>d</mi> <mo stretchy="false">(</mo> <mi>γ</mi> <mo
+          stretchy="false">(</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> <mo>,</mo> <mi>γ</mi> <mo
+          stretchy="false">(</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>−</mo> <mn>1</mn>
+          </mrow> </msub> <mo stretchy="false">)</mo> <mo
+          stretchy="false">)</mo> <mtext> </mtext> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mo
+          maxsize="2.470em" minsize="2.470em">|</mo> </mrow> </mrow>
+          <mtext> </mtext> <mi>n</mi> <mo>∈</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">N</mi>
+          </mrow> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+          <mtext>and</mtext> </mrow> <mtext> </mtext> <mi>a</mi>
+          <mo>=</mo> <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>0</mn> </mrow> </msub> <mo><</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo><</mo>
+          <mo>…</mo> <mo><</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+          <mi>b</mi> </mrow> <mo>}</mo> </mrow> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \operatorname {Length} (\gamma )~{\stackrel
+          {\text{def}}{=}}~\sup \!\left\{\sum _{i=1}^{n}d(\gamma
+          (t_{i}),\gamma (t_{i-1}))~{\Bigg |}~n\in \mathbb {N}
+          ~{\text{and}}~a=t_{0}<t_{1}<\ldots
+          <t_{n}=b\right\},}</annotation> </semantics> :MATH]
+          {\displaystyle \operatorname {Length} (\gamma )~{\stackrel
+          {\text{def}}{=}}~\sup \!\left\{\sum _{i=1}^{n}d(\gamma
+          (t_{i}),\gamma (t_{i-1}))~{\Bigg |}~n\in \mathbb {N}
+          ~{\text{and}}~a=t_{0}<t_{1}<\ldots <t_{n}=b\right\},}
+
+   where the supremum is taken over all
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>∈</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">N</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle n\in \mathbb {N}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle n\in \mathbb {N} } and all partitions
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo><</mo> <msub>
+   <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo><</mo> <mo>…</mo> <mo><</mo> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   t_{0}<t_{1}<\ldots <t_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle t_{0}<t_{1}<\ldots <t_{n}} of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+   <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo stretchy="false">]</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   [a,b]}</annotation> </semantics> :MATH]
+   {\displaystyle [a,b]} .
+
+   A rectifiable curve is a curve with [296]finite length. A curve
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo>:</mo> <mo
+   stretchy="false">[</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo
+   stretchy="false">]</mo> <mo stretchy="false">→</mo> <mi>X</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \gamma :[a,b]\to
+   X}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma :[a,b]\to X} is called natural (or unit-speed or
+   parametrized by arc length) if for any
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo> <msub>
+   <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+   <mo>∈</mo> <mo stretchy="false">[</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi>
+   <mo stretchy="false">]</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle t_{1},t_{2}\in
+   [a,b]}</annotation> </semantics> :MATH]
+   {\displaystyle t_{1},t_{2}\in [a,b]} such that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>≤</mo> <msub>
+   <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle t_{1}\leq
+   t_{2}}</annotation> </semantics> :MATH]
+   {\displaystyle t_{1}\leq t_{2}} , we have
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>Length</mi> <mspace
+          width="negativethinmathspace" /> <mrow> <mo>(</mo> <mrow>
+          <mi>γ</mi> <msub> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">[</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msub> <mo stretchy="false">]</mo> </mrow> </msub>
+          </mrow> <mo>)</mo> </mrow> <mo>=</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>−</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \operatorname
+          {Length} \!\left(\gamma
+          |_{[t_{1},t_{2}]}\right)=t_{2}-t_{1}.}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \operatorname {Length} \!\left(\gamma
+          |_{[t_{1},t_{2}]}\right)=t_{2}-t_{1}.}
+
+   If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo>:</mo> <mo
+   stretchy="false">[</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo
+   stretchy="false">]</mo> <mo stretchy="false">→</mo> <mi>X</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \gamma :[a,b]\to
+   X}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma :[a,b]\to X} is a [297]Lipschitz-continuous
+   function, then it is automatically rectifiable. Moreover, in this case,
+   one can define the speed (or [298]metric derivative) of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } at
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> <mo>∈</mo> <mo
+   stretchy="false">[</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo
+   stretchy="false">]</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle t\in [a,b]}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t\in [a,b]} as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msub> <mi>Speed</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>γ</mi> </mrow> </msub> </mrow> <mo
+          stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+          <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-REL"> <mover> <mrow class="MJX-TeXAtom-OP
+          MJX-fixedlimits"> <mo>=</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext>def</mtext> </mrow> </mover>
+          </mrow> </mrow> <mtext> </mtext> <munder> <mo
+          movablelimits="true" form="prefix">lim sup</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>s</mi> <mo stretchy="false">→</mo>
+          <mi>t</mi> </mrow> </munder> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mrow> <mi>d</mi> <mo stretchy="false">(</mo> <mi>γ</mi>
+          <mo stretchy="false">(</mo> <mi>s</mi> <mo
+          stretchy="false">)</mo> <mo>,</mo> <mi>γ</mi> <mo
+          stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+          <mo stretchy="false">)</mo> </mrow> <mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mi>s</mi> <mo>−</mo> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo> </mrow> </mrow> </mfrac> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\operatorname
+          {Speed} _{\gamma }}(t)~{\stackrel {\text{def}}{=}}~\limsup
+          _{s\to t}{\frac {d(\gamma (s),\gamma (t))}{|s-t|}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\operatorname {Speed} _{\gamma }}(t)~{\stackrel
+          {\text{def}}{=}}~\limsup _{s\to t}{\frac {d(\gamma (s),\gamma
+          (t))}{|s-t|}}}
+
+   and then show that
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>Length</mi> <mo>⁡</mo>
+          <mo stretchy="false">(</mo> <mi>γ</mi> <mo
+          stretchy="false">)</mo> <mo>=</mo> <msubsup> <mo>∫</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow> </msubsup> <mrow
+          class="MJX-TeXAtom-ORD"> <msub> <mi>Speed</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>γ</mi> </mrow> </msub> </mrow> <mo
+          stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+          <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">d</mi> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>t</mi> </mrow> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \operatorname {Length} (\gamma )=\int _{a}^{b}{\operatorname
+          {Speed} _{\gamma }}(t)~\mathrm {d} {t}.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \operatorname {Length} (\gamma )=\int
+          _{a}^{b}{\operatorname {Speed} _{\gamma }}(t)~\mathrm {d} {t}.}
+
+Differential geometry
+
+   [[299]edit]
+   Main article: [300]Differential geometry of curves
+
+   While the first examples of curves that are met are mostly plane curves
+   (that is, in everyday words, curved lines in two-dimensional space),
+   there are obvious examples such as the [301]helix which exist naturally
+   in three dimensions. The needs of geometry, and also for example
+   [302]classical mechanics are to have a notion of curve in space of any
+   number of dimensions. In [303]general relativity, a [304]world line is
+   a curve in [305]spacetime.
+
+   If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is a [306]differentiable manifold, then we can define
+   the notion of differentiable curve in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} . This general idea is enough to cover many of the
+   applications of curves in mathematics. From a local point of view one
+   can take
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} to be Euclidean space. On the other hand, it is
+   useful to be more general, in that (for example) it is possible to
+   define the [307]tangent vectors to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} by means of this notion of curve.
+
+   If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is a [308]smooth manifold, a smooth curve in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is a [309]smooth map
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>γ</mi> <mo>:</mo>
+          <mi>I</mi> <mo stretchy="false">→</mo> <mi>X</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \gamma \colon I\rightarrow X}</annotation> </semantics> :MATH]
+          {\displaystyle \gamma \colon I\rightarrow X} .
+
+   This is a basic notion. There are less and more restricted ideas, too.
+   If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   C^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle C^{k}} manifold (i.e., a manifold whose [310]charts are
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>k</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+   </semantics> :MATH]
+   {\displaystyle k} times [311]continuously differentiable), then a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   C^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle C^{k}} curve in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is such a curve which is only assumed to be
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   C^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle C^{k}} (i.e.
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>k</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+   </semantics> :MATH]
+   {\displaystyle k} times continuously differentiable). If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is an [312]analytic manifold (i.e. infinitely
+   differentiable and charts are expressible as [313]power series), and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } is an analytic map, then
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } is said to be an analytic curve.
+
+   A differentiable curve is said to be regular
+   if its [314]derivative never vanishes. (In words, a regular curve never
+   slows to a stop or backtracks on itself.) Two
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   C^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle C^{k}} differentiable curves
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>γ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>:</mo>
+          <mi>I</mi> <mo stretchy="false">→</mo> <mi>X</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \gamma _{1}\colon I\rightarrow X}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \gamma _{1}\colon I\rightarrow X} and
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>γ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>:</mo>
+          <mi>J</mi> <mo stretchy="false">→</mo> <mi>X</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \gamma _{2}\colon J\rightarrow X}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \gamma _{2}\colon J\rightarrow X}
+
+   are said to be equivalent if there is a [315]bijective
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   C^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle C^{k}} map
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo>:</mo>
+          <mi>J</mi> <mo stretchy="false">→</mo> <mi>I</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          p\colon J\rightarrow I}</annotation> </semantics> :MATH]
+          {\displaystyle p\colon J\rightarrow I}
+
+   such that the [316]inverse map
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>p</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msup>
+          <mo>:</mo> <mi>I</mi> <mo stretchy="false">→</mo> <mi>J</mi>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle p^{-1}\colon
+          I\rightarrow J}</annotation> </semantics> :MATH]
+          {\displaystyle p^{-1}\colon I\rightarrow J}
+
+   is also
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   C^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle C^{k}} , and
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>γ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <msub> <mi>γ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn> </mrow> </msub> <mo stretchy="false">(</mo>
+          <mi>p</mi> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \gamma _{2}(t)=\gamma _{1}(p(t))}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \gamma _{2}(t)=\gamma _{1}(p(t))}
+
+   for all
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t} . The map
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>γ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   _{2}}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma _{2}} is called a reparametrization of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>γ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   _{1}}</annotation> </semantics> :MATH]
+   {\displaystyle \gamma _{1}} ; and this makes an [317]equivalence
+   relation on the set of all
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   C^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle C^{k}} differentiable curves in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} . A
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   C^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle C^{k}} arc is an [318]equivalence class of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>C</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   C^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle C^{k}} curves under the relation of reparametrization.
+
+Algebraic curve
+
+   [[319]edit]
+
+   Main article: [320]Algebraic curve
+
+   Algebraic curves are the curves considered in [321]algebraic geometry.
+   A plane algebraic curve is the [322]set of the points of coordinates x,
+   y such that f(x, y) = 0, where f is a polynomial in two variables
+   defined over some field F. One says that the curve is defined over F.
+   Algebraic geometry normally considers not only points with coordinates
+   in F but all the points with coordinates in an [323]algebraically
+   closed field K.
+
+   If C is a curve defined by a polynomial f with coefficients in F, the
+   curve is said to be defined over F.
+
+   In the case of a curve defined over the [324]real numbers, one normally
+   considers points with [325]complex coordinates. In this case, a point
+   with real coordinates is a real point, and the set of all real points
+   is the real part of the curve. It is therefore only the real part of an
+   algebraic curve that can be a topological curve (this is not always the
+   case, as the real part of an algebraic curve may be disconnected and
+   contain isolated points). The whole curve, that is the set of its
+   complex point is, from the topological point of view a surface. In
+   particular, the nonsingular complex projective algebraic curves are
+   called [326]Riemann surfaces.
+
+   The points of a curve C with coordinates in a field G are said to be
+   rational over G and can be denoted C(G). When G is the field of the
+   [327]rational numbers, one simply talks of rational points. For
+   example, [328]Fermat's Last Theorem may be restated as: For n > 2,
+   every rational point of the [329]Fermat curve of degree n has a zero
+   coordinate.
+
+   Algebraic curves can also be space curves, or curves in a space of
+   higher dimension, say n. They are defined as [330]algebraic varieties
+   of [331]dimension one. They may be obtained as the common solutions of
+   at least n–1 polynomial equations in n variables. If n–1 polynomials
+   are sufficient to define a curve in a space of dimension n, the curve
+   is said to be a [332]complete intersection. By eliminating variables
+   (by any tool of [333]elimination theory), an algebraic curve may be
+   projected onto a [334]plane algebraic curve, which however may
+   introduce new singularities such as [335]cusps or [336]double points.
+
+   A plane curve may also be completed to a curve in the [337]projective
+   plane: if a curve is defined by a polynomial f of total degree d, then
+   w^df(u/w, v/w) simplifies to a [338]homogeneous polynomial g(u, v, w)
+   of degree d. The values of u, v, w such that g(u, v, w) = 0 are the
+   homogeneous coordinates of the points of the completion of the curve in
+   the projective plane and the points of the initial curve are those such
+   that w is not zero. An example is the Fermat curve u^n + v^n = w^n,
+   which has an affine form x^n + y^n = 1. A similar process of
+   homogenization may be defined for curves in higher dimensional spaces.
+
+   Except for [339]lines, the simplest examples of algebraic curves are
+   the [340]conics, which are nonsingular curves of degree two and
+   [341]genus zero. [342]Elliptic curves, which are nonsingular curves of
+   genus one, are studied in [343]number theory, and have important
+   applications to [344]cryptography.
+
+See also
+
+   [[345]edit]
+
+     * [346]Coordinate curve
+     * [347]Crinkled arc
+     * [348]Curve fitting
+     * [349]Curve orientation
+     * [350]Curve sketching
+     * [351]Differential geometry of curves
+     * [352]Gallery of curves
+     * [353]Index of the curve
+     * [354]List of curves topics
+     * [355]List of curves
+     * [356]Osculating circle
+     * [357]Parametric surface
+     * [358]Path (topology)
+     * [359]Polygonal curve
+     * [360]Position vector
+     * [361]Vector-valued function
+          + [362]Infinite-dimensional vector function
+     * [363]Winding number
+
+Notes
+
+   [[364]edit]
+
+    1. [365]^ In current mathematical usage, a line is straight.
+       Previously lines could be either curved or straight.
+    2. [366]^ This term my be ambiguous, as a non-closed curve may be a
+       [367]closed set, as is a line in a plane.
+
+References
+
+   [[368]edit]
+
+    1. [369]^ In (rather old) French: "La ligne est la première espece de
+       quantité, laquelle a tant seulement une dimension à sçavoir
+       longitude, sans aucune latitude ni profondité, & n'est autre chose
+       que le flux ou coulement du poinct, lequel […] laissera de son
+       mouvement imaginaire quelque vestige en long, exempt de toute
+       latitude." Pages 7 and 8 of Les quinze livres des éléments
+       géométriques d'Euclide Megarien, traduits de Grec en François, &
+       augmentez de plusieurs figures & demonstrations, avec la
+       corrections des erreurs commises és autres traductions, by Pierre
+       Mardele, Lyon, MDCXLV (1645).
+    2. ^ [370]^a [371]^b Lockwood p. ix
+    3. [372]^ Heath p. 153
+    4. [373]^ Heath p. 160
+    5. [374]^ Lockwood p. 132
+    6. [375]^ Lockwood p. 129
+    7. [376]^ O'Connor, John J.; [377]Robertson, Edmund F., [378]"Spiral
+       of Archimedes", [379]MacTutor History of Mathematics Archive,
+       [380]University of St Andrews
+    8. [381]^ [382]"Jordan arc definition at Dictionary.com.
+       Dictionary.com Unabridged. Random House, Inc".
+       [383]Dictionary.reference.com. Retrieved 2012-03-14.
+    9. [384]^ Sulovský, Marek (2012). [385]Depth, Crossings and Conflicts
+       in Discrete Geometry. Logos Verlag Berlin GmbH. p. 7.
+       [386]ISBN [387]9783832531195.
+   10. [388]^ [389]Osgood, William F. (January 1903). [390]"A Jordan Curve
+       of Positive Area". Transactions of the American Mathematical
+       Society. 4 (1). [391]American Mathematical Society: 107–112.
+       [392]doi:[393]10.2307/1986455. [394]ISSN [395]0002-9947.
+       [396]JSTOR [397]1986455.
+   11. [398]^ Davis, Ellery W.; Brenke, William C. (1913). [399]The
+       Calculus. MacMillan Company. p. 108. [400]ISBN [401]9781145891982.
+
+     *
+
+   A.S. Parkhomenko (2001) [1994], [402]"Line (curve)", [403]Encyclopedia
+   of Mathematics, [404]EMS Press
+
+     B.I. Golubov (2001) [1994], [405]"Rectifiable curve",
+   [406]Encyclopedia of Mathematics, [407]EMS Press
+
+     [408]Euclid, commentary and trans. by [409]T. L. Heath Elements Vol.
+   1 (1908 Cambridge) [410]Google Books
+
+     E. H. Lockwood A Book of Curves (1961 Cambridge)
+
+External links
+
+   [[411]edit]
+
+   Wikimedia Commons has media related to [412]Curves.
+
+     * [413]Famous Curves Index, School of Mathematics and Statistics,
+       University of St Andrews, Scotland
+     * [414]Mathematical curves A collection of 874 two-dimensional
+       mathematical curves
+     * [415]Gallery of Space Curves Made from Circles, includes animations
+       by Peter Moses
+     * [416]Gallery of Bishop Curves and Other Spherical Curves, includes
+       animations by Peter Moses
+     * The Encyclopedia of Mathematics article on [417]lines.
+     * The Manifold Atlas page on [418]1-manifolds.
+
+     * [419]v
+     * [420]t
+     * [421]e
+
+   [422]Spirals, curves and [423]helices
+
+   Curves
+
+     * [424]Algebraic
+     * [425]Curvature
+     * [426]Gallery
+     * [427]List
+     * [428]Topics
+
+   Helices
+
+     * [429]Angle
+     * [430]Antenna
+     * [431]Boerdijk–Coxeter
+     * [432]Hemi
+     * [433]Symmetry
+     * [434]Triple
+
+   Biochemistry
+     * [435]3[10]
+     * [436]Alpha
+     * [437]Beta
+     * [438]Double
+     * [439]Pi
+     * [440]Polyproline
+     * [441]Super
+     * [442]Triple
+          + [443]Collagen
+
+   Spirals
+
+     * [444]Archimedean
+     * [445]Cotes's
+          + [446]Epispiral
+          + [447]Hyperbolic
+          + [448]Poinsot's
+     * [449]Doyle
+     * [450]Euler
+     * [451]Fermat's
+     * [452]Involute
+     * [453]List
+     * [454]Logarithmic
+          + [455]Golden
+     * [456]On Spirals
+     * [457]Padovan
+     * [458]Pitch angle
+     * [459]Theodorus
+     * [460]Spirangle
+     * [461]Ulam
+
+   [462]Authority control databases: National [463]Edit this at Wikidata
+     * [464]Germany
+     * [465]United States
+     * [466]France
+     * [467]BnF data
+     * [468]Japan
+     * [469]Czech Republic
+     * [470]Latvia
+     * [471]Israel
+
+   Retrieved from
+   "[472]https://en.wikipedia.org/w/index.php?title=Curve&oldid=1254347532
+   "
+
+   [473]Categories:
+     * [474]Curves
+     * [475]Metric geometry
+     * [476]Topology
+     * [477]General topology
+
+   Hidden categories:
+     * [478]Articles with short description
+     * [479]Short description matches Wikidata
+     * [480]Wikipedia articles needing clarification from May 2019
+     * [481]Commons category link is on Wikidata
+
+     * This page was last edited on 30 October 2024, at 15:32 (UTC).
+     * Text is available under the [482]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [483]Terms of Use and
+       [484]Privacy Policy. Wikipedia® is a registered trademark of the
+       [485]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [486]Privacy policy
+     * [487]About Wikipedia
+     * [488]Disclaimers
+     * [489]Contact Wikipedia
+     * [490]Code of Conduct
+     * [491]Developers
+     * [492]Statistics
+     * [493]Cookie statement
+     * [494]Mobile view
+
+     * [495]Wikimedia Foundation
+     * [496]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/Curve
+   2. file:///w/index.php?title=Curve&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Curve
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Curve
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Curve
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Curve
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html
+  29. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#History
+  30. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#Topological_curve
+  31. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#Differentiable_curve
+  32. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#Differentiable_arc
+  33. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#Length_of_a_curve
+  34. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#Differential_geometry
+  35. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#Algebraic_curve
+  36. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#See_also
+  37. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#Notes
+  38. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#References
+  39. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#External_links
+  40. https://af.wikipedia.org/wiki/Kromme
+  41. https://ar.wikipedia.org/wiki/منحن
+  42. https://ast.wikipedia.org/wiki/Curva
+  43. https://bjn.wikipedia.org/wiki/Langkuk
+  44. https://be.wikipedia.org/wiki/Лінія
+  45. https://bg.wikipedia.org/wiki/Крива
+  46. https://bs.wikipedia.org/wiki/Kriva
+  47. https://ca.wikipedia.org/wiki/Corba
+  48. https://cv.wikipedia.org/wiki/Йĕр_(математика)
+  49. https://cs.wikipedia.org/wiki/Křivka
+  50. https://sn.wikipedia.org/wiki/Munyonga
+  51. https://cy.wikipedia.org/wiki/Cromlin
+  52. https://da.wikipedia.org/wiki/Kurve
+  53. https://de.wikipedia.org/wiki/Kurve_(Mathematik)
+  54. https://et.wikipedia.org/wiki/Joon
+  55. https://el.wikipedia.org/wiki/Καμπύλη
+  56. https://es.wikipedia.org/wiki/Curva
+  57. https://eo.wikipedia.org/wiki/Linio_(geometrio)
+  58. https://eu.wikipedia.org/wiki/Kurba_(matematika)
+  59. https://fa.wikipedia.org/wiki/منحنی
+  60. https://fr.wikipedia.org/wiki/Courbe
+  61. https://ga.wikipedia.org/wiki/Cuar
+  62. https://gl.wikipedia.org/wiki/Curva
+  63. https://ko.wikipedia.org/wiki/곡선
+  64. https://hy.wikipedia.org/wiki/Կոր
+  65. https://hi.wikipedia.org/wiki/वक्र
+  66. https://hr.wikipedia.org/wiki/Krivulja
+  67. https://io.wikipedia.org/wiki/Kurvo
+  68. https://id.wikipedia.org/wiki/Kurva
+  69. https://is.wikipedia.org/wiki/Ferill
+  70. https://it.wikipedia.org/wiki/Curva_(matematica)
+  71. https://he.wikipedia.org/wiki/עקומה
+  72. https://kn.wikipedia.org/wiki/ವಕ್ರರೇಖೆ
+  73. https://ka.wikipedia.org/wiki/წირი
+  74. https://kk.wikipedia.org/wiki/Жордан_қисығы
+  75. https://sw.wikipedia.org/wiki/Mchirizo
+  76. https://lv.wikipedia.org/wiki/Līnija
+  77. https://lt.wikipedia.org/wiki/Kreivė
+  78. https://ln.wikipedia.org/wiki/Libúnu
+  79. https://hu.wikipedia.org/wiki/Görbe_(matematika)
+  80. https://mk.wikipedia.org/wiki/Крива
+  81. https://mg.wikipedia.org/wiki/Biloka_(jeômetria)
+  82. https://ml.wikipedia.org/wiki/വക്രം
+  83. https://ms.wikipedia.org/wiki/Lengkung
+  84. https://nl.wikipedia.org/wiki/Kromme
+  85. https://new.wikipedia.org/wiki/वक्र
+  86. https://ja.wikipedia.org/wiki/曲線
+  87. https://no.wikipedia.org/wiki/Kurve
+  88. https://nn.wikipedia.org/wiki/Kurve
+  89. https://pa.wikipedia.org/wiki/ਵਕਰ
+  90. https://pl.wikipedia.org/wiki/Krzywa
+  91. https://pt.wikipedia.org/wiki/Curva
+  92. https://ro.wikipedia.org/wiki/Curbă
+  93. https://ru.wikipedia.org/wiki/Кривая
+  94. https://sq.wikipedia.org/wiki/Lakorja
+  95. https://scn.wikipedia.org/wiki/Curva_(matimàtica)
+  96. https://simple.wikipedia.org/wiki/Curve
+  97. https://sl.wikipedia.org/wiki/Krivulja
+  98. https://ckb.wikipedia.org/wiki/چەماوە
+  99. https://sr.wikipedia.org/wiki/Крива
+ 100. https://sh.wikipedia.org/wiki/Krivulja
+ 101. https://fi.wikipedia.org/wiki/Käyrä
+ 102. https://sv.wikipedia.org/wiki/Kurva
+ 103. https://tl.wikipedia.org/wiki/Kurba
+ 104. https://ta.wikipedia.org/wiki/வளைகோடு
+ 105. https://kab.wikipedia.org/wiki/Tameknut
+ 106. https://th.wikipedia.org/wiki/เส้นโค้ง
+ 107. https://tr.wikipedia.org/wiki/Eğri
+ 108. https://uk.wikipedia.org/wiki/Крива
+ 109. https://ur.wikipedia.org/wiki/منحنی
+ 110. https://vi.wikipedia.org/wiki/Đường_cong
+ 111. https://zh-classical.wikipedia.org/wiki/曲線
+ 112. https://wuu.wikipedia.org/wiki/曲线
+ 113. https://zh-yue.wikipedia.org/wiki/曲綫
+ 114. https://zh.wikipedia.org/wiki/曲线
+ 115. https://www.wikidata.org/wiki/Special:EntityPage/Q161973#sitelinks-wikipedia
+ 116. file:///wiki/Curve
+ 117. file:///wiki/Talk:Curve
+ 118. file:///wiki/Curve
+ 119. file:///w/index.php?title=Curve&action=edit
+ 120. file:///w/index.php?title=Curve&action=history
+ 121. file:///wiki/Curve
+ 122. file:///w/index.php?title=Curve&action=edit
+ 123. file:///w/index.php?title=Curve&action=history
+ 124. file:///wiki/Special:WhatLinksHere/Curve
+ 125. file:///wiki/Special:RecentChangesLinked/Curve
+ 126. file:///wiki/Wikipedia:File_Upload_Wizard
+ 127. file:///wiki/Special:SpecialPages
+ 128. file:///w/index.php?title=Curve&oldid=1254347532
+ 129. file:///w/index.php?title=Curve&action=info
+ 130. file:///w/index.php?title=Special:CiteThisPage&page=Curve&id=1254347532&wpFormIdentifier=titleform
+ 131. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/Curve
+ 132. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/Curve
+ 133. file:///w/index.php?title=Special:DownloadAsPdf&page=Curve&action=show-download-screen
+ 134. file:///w/index.php?title=Curve&printable=yes
+ 135. https://commons.wikimedia.org/wiki/Category:Curves
+ 136. https://www.wikidata.org/wiki/Special:EntityPage/Q161973
+ 137. file:///w/index.php?title=1-manifold&redirect=no
+ 138. file:///wiki/Curve_(disambiguation)
+ 139. file:///wiki/File:Parabola.svg
+ 140. file:///wiki/Parabola
+ 141. file:///wiki/Mathematics
+ 142. file:///wiki/Line_(geometry)
+ 143. file:///wiki/Linearity
+ 144. file:///wiki/Point_(geometry)
+ 145. file:///wiki/Euclid's_Elements
+ 146. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-1
+ 147. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-2
+ 148. file:///wiki/Image_(mathematics)
+ 149. file:///wiki/Interval_(mathematics)
+ 150. file:///wiki/Topological_space
+ 151. file:///wiki/Continuous_function
+ 152. file:///wiki/Parametric_curve
+ 153. file:///wiki/Differentiable_curve
+ 154. file:///wiki/Level_curve
+ 155. file:///wiki/Union_(set_theory)
+ 156. file:///wiki/Algebraic_curve
+ 157. file:///wiki/Implicit_curve
+ 158. file:///wiki/Implicit_equation
+ 159. file:///wiki/Space-filling_curve
+ 160. file:///wiki/Fractal_curve
+ 161. file:///wiki/Differentiable_function
+ 162. file:///wiki/Differentiable_curve
+ 163. file:///wiki/Plane_algebraic_curve
+ 164. file:///wiki/Zero_set
+ 165. file:///wiki/Polynomial
+ 166. file:///wiki/Indeterminate_(variable)
+ 167. file:///wiki/Algebraic_curve
+ 168. file:///wiki/Algebraic_variety
+ 169. file:///wiki/Dimension_of_an_algebraic_variety
+ 170. file:///wiki/Field_(mathematics)
+ 171. file:///wiki/Real_algebraic_curve
+ 172. file:///wiki/Real_number
+ 173. file:///wiki/Complex_number
+ 174. file:///wiki/Topology
+ 175. file:///wiki/Surface_(mathematics)
+ 176. file:///wiki/Riemann_surface
+ 177. file:///wiki/Finite_field
+ 178. file:///wiki/Cryptography
+ 179. file:///w/index.php?title=Curve&action=edit&section=1
+ 180. file:///wiki/File:Newgrange_Entrance_Stone.jpg
+ 181. file:///wiki/Megalithic_art
+ 182. file:///wiki/Newgrange
+ 183. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-Lockwood-3
+ 184. file:///wiki/Euclid's_Elements
+ 185. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-4
+ 186. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-5
+ 187. file:///wiki/File:Conic_sections_with_plane.svg
+ 188. file:///wiki/Conic_section
+ 189. file:///wiki/Greek_mathematics
+ 190. file:///wiki/Geometers
+ 191. file:///wiki/Compass_and_straightedge
+ 192. file:///wiki/Apollonius_of_Perga
+ 193. file:///wiki/Cissoid_of_Diocles
+ 194. file:///wiki/Diocles_(mathematician)
+ 195. file:///wiki/Doubling_the_cube
+ 196. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-6
+ 197. file:///wiki/Conchoid_of_Nicomedes
+ 198. file:///wiki/Nicomedes_(mathematician)
+ 199. file:///wiki/Angle_trisection
+ 200. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-7
+ 201. file:///wiki/Archimedean_spiral
+ 202. file:///wiki/Archimedes
+ 203. file:///wiki/Squaring_the_circle
+ 204. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-8
+ 205. file:///wiki/Spiric_section
+ 206. file:///wiki/Torus
+ 207. file:///wiki/Perseus_(geometer)
+ 208. file:///wiki/File:Folium_Of_Descartes.svg
+ 209. file:///wiki/Folium_of_Descartes
+ 210. file:///wiki/Analytic_geometry
+ 211. file:///wiki/René_Descartes
+ 212. file:///wiki/Algebraic_curve
+ 213. file:///wiki/Polynomial_equation
+ 214. file:///wiki/Transcendental_curve
+ 215. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-Lockwood-3
+ 216. file:///wiki/Astronomy
+ 217. file:///wiki/Johannes_Kepler
+ 218. file:///wiki/Calculus_of_variations
+ 219. file:///wiki/Brachistochrone
+ 220. file:///wiki/Tautochrone
+ 221. file:///wiki/Cycloid
+ 222. file:///wiki/Catenary
+ 223. file:///wiki/Differential_calculus
+ 224. file:///wiki/Cubic_curve
+ 225. file:///wiki/Bézout's_theorem
+ 226. file:///wiki/Manifold
+ 227. file:///wiki/Algebraic_varieties
+ 228. file:///wiki/Space-filling_curve
+ 229. file:///wiki/Jordan_curve_theorem
+ 230. file:///wiki/Hilbert's_sixteenth_problem
+ 231. file:///w/index.php?title=Curve&action=edit&section=2
+ 232. file:///wiki/Continuous_function_(topology)
+ 233. file:///wiki/Interval_(mathematics)
+ 234. file:///wiki/Real_number
+ 235. file:///wiki/Topological_space
+ 236. file:///wiki/Image_(mathematics)
+ 237. file:///wiki/Peano_curve
+ 238. file:///wiki/Space-filling_curve
+ 239. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-9
+ 240. file:///wiki/Loop_(topology)
+ 241. file:///wiki/Circle
+ 242. file:///wiki/Domain_of_a_function
+ 243. file:///wiki/Path_(topology)
+ 244. file:///wiki/Injective
+ 245. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-10
+ 246. file:///wiki/Plane_curve
+ 247. file:///wiki/Euclidean_plane
+ 248. file:///wiki/Projective_plane
+ 249. file:///wiki/Real_algebraic_geometry
+ 250. file:///wiki/Connected_space
+ 251. file:///wiki/File:Fractal_dragon_curve.jpg
+ 252. file:///wiki/Dragon_curve
+ 253. file:///wiki/Loop_(topology)
+ 254. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-11
+ 255. file:///wiki/Jordan_curve_theorem
+ 256. file:///wiki/Set_complement
+ 257. file:///wiki/Connected_component_(topology)
+ 258. file:///wiki/Region_(mathematics)
+ 259. file:///wiki/Square_(geometry)
+ 260. file:///wiki/Space-filling_curve
+ 261. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-12
+ 262. file:///wiki/Fractal_curve
+ 263. file:///wiki/Hausdorff_dimension
+ 264. file:///wiki/Koch_snowflake
+ 265. file:///wiki/Dragon_curve
+ 266. file:///w/index.php?title=Curve&action=edit&section=3
+ 267. file:///wiki/Differentiable_curve
+ 268. file:///wiki/Interval_(mathematics)
+ 269. file:///wiki/Real_number
+ 270. file:///wiki/Diffeomorphism
+ 271. file:///wiki/Wikipedia:Please_clarify
+ 272. file:///w/index.php?title=Curve&action=edit&section=4
+ 273. file:///wiki/Arc_(projective_geometry)
+ 274. file:///wiki/Arc_(disambiguation)
+ 275. file:///wiki/Euclidean_geometry
+ 276. file:///wiki/Connected_set
+ 277. file:///wiki/Differentiable_function
+ 278. file:///wiki/Line_(geometry)
+ 279. file:///wiki/Line_segment
+ 280. file:///wiki/Ray_(geometry)
+ 281. file:///wiki/Line_(geometry)
+ 282. file:///wiki/Circle
+ 283. file:///wiki/Circular_arc
+ 284. file:///wiki/Sphere
+ 285. file:///wiki/Spheroid
+ 286. file:///wiki/Great_circle
+ 287. file:///wiki/Great_ellipse
+ 288. file:///w/index.php?title=Curve&action=edit&section=5
+ 289. file:///wiki/Arc_length
+ 290. file:///wiki/Differentiable_curve#Length
+ 291. file:///wiki/Parametrization_(geometry)
+ 292. file:///wiki/Graph_of_a_function
+ 293. file:///wiki/Pythagorean_theorem
+ 294. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_note-13
+ 295. file:///wiki/Metric_space
+ 296. https://en.wiktionary.org/wiki/finite
+ 297. file:///wiki/Lipschitz_continuity
+ 298. file:///wiki/Metric_derivative
+ 299. file:///w/index.php?title=Curve&action=edit&section=6
+ 300. file:///wiki/Differential_geometry_of_curves
+ 301. file:///wiki/Helix
+ 302. file:///wiki/Classical_mechanics
+ 303. file:///wiki/General_relativity
+ 304. file:///wiki/World_line
+ 305. file:///wiki/Spacetime
+ 306. file:///wiki/Differentiable_manifold
+ 307. file:///wiki/Differential_geometry_of_curves
+ 308. file:///wiki/Smooth_manifold
+ 309. file:///wiki/Smooth_map
+ 310. file:///wiki/Chart_(topology)
+ 311. file:///wiki/Continuously_differentiable
+ 312. file:///wiki/Manifold
+ 313. file:///wiki/Power_series
+ 314. file:///wiki/Derivative
+ 315. file:///wiki/Bijection
+ 316. file:///wiki/Inverse_map
+ 317. file:///wiki/Equivalence_relation
+ 318. file:///wiki/Equivalence_class
+ 319. file:///w/index.php?title=Curve&action=edit&section=7
+ 320. file:///wiki/Algebraic_curve
+ 321. file:///wiki/Algebraic_geometry
+ 322. file:///wiki/Set_(mathematics)
+ 323. file:///wiki/Algebraically_closed_field
+ 324. file:///wiki/Real_number
+ 325. file:///wiki/Complex_number
+ 326. file:///wiki/Riemann_surface
+ 327. file:///wiki/Rational_number
+ 328. file:///wiki/Fermat's_Last_Theorem
+ 329. file:///wiki/Fermat_curve
+ 330. file:///wiki/Algebraic_varieties
+ 331. file:///wiki/Dimension_of_an_algebraic_variety
+ 332. file:///wiki/Complete_intersection
+ 333. file:///wiki/Elimination_theory
+ 334. file:///wiki/Plane_algebraic_curve
+ 335. file:///wiki/Cusp_(singularity)
+ 336. file:///wiki/Double_point
+ 337. file:///wiki/Projective_plane
+ 338. file:///wiki/Homogeneous_polynomial
+ 339. file:///wiki/Line_(geometry)
+ 340. file:///wiki/Conic_section
+ 341. file:///wiki/Genus_(mathematics)
+ 342. file:///wiki/Elliptic_curve
+ 343. file:///wiki/Number_theory
+ 344. file:///wiki/Cryptography
+ 345. file:///w/index.php?title=Curve&action=edit&section=8
+ 346. file:///wiki/Coordinate_curve
+ 347. file:///wiki/Crinkled_arc
+ 348. file:///wiki/Curve_fitting
+ 349. file:///wiki/Curve_orientation
+ 350. file:///wiki/Curve_sketching
+ 351. file:///wiki/Differential_geometry_of_curves
+ 352. file:///wiki/Gallery_of_curves
+ 353. file:///wiki/Index_of_the_curve
+ 354. file:///wiki/List_of_curves_topics
+ 355. file:///wiki/List_of_curves
+ 356. file:///wiki/Osculating_circle
+ 357. file:///wiki/Parametric_surface
+ 358. file:///wiki/Path_(topology)
+ 359. file:///wiki/Polygonal_curve
+ 360. file:///wiki/Position_vector
+ 361. file:///wiki/Vector-valued_function
+ 362. file:///wiki/Infinite-dimensional_vector_function
+ 363. file:///wiki/Winding_number
+ 364. file:///w/index.php?title=Curve&action=edit&section=9
+ 365. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-1
+ 366. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-9
+ 367. file:///wiki/Closed_set
+ 368. file:///w/index.php?title=Curve&action=edit&section=10
+ 369. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-2
+ 370. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-Lockwood_3-0
+ 371. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-Lockwood_3-1
+ 372. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-4
+ 373. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-5
+ 374. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-6
+ 375. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-7
+ 376. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-8
+ 377. file:///wiki/Edmund_F._Robertson
+ 378. https://mathshistory.st-andrews.ac.uk/Curves/Spiral.html
+ 379. file:///wiki/MacTutor_History_of_Mathematics_Archive
+ 380. file:///wiki/University_of_St_Andrews
+ 381. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-10
+ 382. http://dictionary.reference.com/browse/jordan arc
+ 383. file:///wiki/Dictionary.reference.com
+ 384. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-11
+ 385. https://books.google.com/books?id=0Q9mbXCQRyoC&pg=PA7
+ 386. file:///wiki/ISBN_(identifier)
+ 387. file:///wiki/Special:BookSources/9783832531195
+ 388. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-12
+ 389. file:///wiki/William_Fogg_Osgood
+ 390. https://doi.org/10.2307/1986455
+ 391. file:///wiki/American_Mathematical_Society
+ 392. file:///wiki/Doi_(identifier)
+ 393. https://doi.org/10.2307/1986455
+ 394. file:///wiki/ISSN_(identifier)
+ 395. https://search.worldcat.org/issn/0002-9947
+ 396. file:///wiki/JSTOR_(identifier)
+ 397. https://www.jstor.org/stable/1986455
+ 398. file:///tmp/lynxXXXXPuVHdW/L60267-7509TMP.html#cite_ref-13
+ 399. https://books.google.com/books?id=OS4AAAAAYAAJ&dq=length+of+a+curve+formula+pythagorean&pg=RA2-PA108
+ 400. file:///wiki/ISBN_(identifier)
+ 401. file:///wiki/Special:BookSources/9781145891982
+ 402. https://www.encyclopediaofmath.org/index.php?title=Line_(curve)
+ 403. file:///wiki/Encyclopedia_of_Mathematics
+ 404. file:///wiki/European_Mathematical_Society
+ 405. https://www.encyclopediaofmath.org/index.php?title=Rectifiable_curve
+ 406. file:///wiki/Encyclopedia_of_Mathematics
+ 407. file:///wiki/European_Mathematical_Society
+ 408. file:///wiki/Euclid
+ 409. file:///wiki/T._L._Heath
+ 410. https://books.google.com/books?id=UhgPAAAAIAAJ
+ 411. file:///w/index.php?title=Curve&action=edit&section=11
+ 412. https://commons.wikimedia.org/wiki/Category:Curves
+ 413. https://web.archive.org/web/20040609111105/http://www-gap.dcs.st-and.ac.uk/~history/Curves/Curves.html
+ 414. http://www.2dcurves.com/
+ 415. http://faculty.evansville.edu/ck6/Gallery/Introduction.html
+ 416. http://faculty.evansville.edu/ck6/GalleryTwo/Introduction2.html
+ 417. http://www.encyclopediaofmath.org/index.php/Line_(curve)
+ 418. http://www.map.mpim-bonn.mpg.de/1-manifolds
+ 419. file:///wiki/Template:Spirals
+ 420. file:///wiki/Template_talk:Spirals
+ 421. file:///wiki/Special:EditPage/Template:Spirals
+ 422. file:///wiki/Spiral
+ 423. file:///wiki/Helix
+ 424. file:///wiki/Algebraic_curve
+ 425. file:///wiki/Curvature
+ 426. file:///wiki/Gallery_of_curves
+ 427. file:///wiki/List_of_curves
+ 428. file:///wiki/List_of_curves_topics
+ 429. file:///wiki/Helix_angle
+ 430. file:///wiki/Helical_antenna
+ 431. file:///wiki/Boerdijk–Coxeter_helix
+ 432. file:///wiki/Hemihelix
+ 433. file:///wiki/Helical_symmetry
+ 434. file:///wiki/Triple_helix
+ 435. file:///wiki/310_helix
+ 436. file:///wiki/Alpha_helix
+ 437. file:///wiki/Beta_helix
+ 438. file:///wiki/Nucleic_acid_double_helix
+ 439. file:///wiki/Pi_helix
+ 440. file:///wiki/Polyproline_helix
+ 441. file:///wiki/Superhelix
+ 442. file:///wiki/Triple_helix
+ 443. file:///wiki/Collagen_helix
+ 444. file:///wiki/Archimedean_spiral
+ 445. file:///wiki/Cotes's_spiral
+ 446. file:///wiki/Epispiral
+ 447. file:///wiki/Hyperbolic_spiral
+ 448. file:///wiki/Poinsot's_spirals
+ 449. file:///wiki/Doyle_spiral
+ 450. file:///wiki/Euler_spiral
+ 451. file:///wiki/Fermat's_spiral
+ 452. file:///wiki/Involute
+ 453. file:///wiki/List_of_spirals
+ 454. file:///wiki/Logarithmic_spiral
+ 455. file:///wiki/Golden_spiral
+ 456. file:///wiki/On_Spirals
+ 457. file:///wiki/Padovan_cuboid_spiral
+ 458. file:///wiki/Pitch_angle_of_a_spiral
+ 459. file:///wiki/Spiral_of_Theodorus
+ 460. file:///wiki/Spirangle
+ 461. file:///wiki/Ulam_spiral
+ 462. file:///wiki/Help:Authority_control
+ 463. https://www.wikidata.org/wiki/Q161973#identifiers
+ 464. https://d-nb.info/gnd/4033824-1
+ 465. https://id.loc.gov/authorities/sh85034914
+ 466. https://catalogue.bnf.fr/ark:/12148/cb119415578
+ 467. https://data.bnf.fr/ark:/12148/cb119415578
+ 468. https://id.ndl.go.jp/auth/ndlna/00567237
+ 469. https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph122155&CON_LNG=ENG
+ 470. https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000137077&P_CON_LNG=ENG
+ 471. https://www.nli.org.il/en/authorities/987007538488705171
+ 472. https://en.wikipedia.org/w/index.php?title=Curve&oldid=1254347532
+ 473. file:///wiki/Help:Category
+ 474. file:///wiki/Category:Curves
+ 475. file:///wiki/Category:Metric_geometry
+ 476. file:///wiki/Category:Topology
+ 477. file:///wiki/Category:General_topology
+ 478. file:///wiki/Category:Articles_with_short_description
+ 479. file:///wiki/Category:Short_description_matches_Wikidata
+ 480. file:///wiki/Category:Wikipedia_articles_needing_clarification_from_May_2019
+ 481. file:///wiki/Category:Commons_category_link_is_on_Wikidata
+ 482. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 483. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 484. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 485. https://wikimediafoundation.org/
+ 486. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 487. file:///wiki/Wikipedia:About
+ 488. file:///wiki/Wikipedia:General_disclaimer
+ 489. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 490. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 491. https://developer.wikimedia.org/
+ 492. https://stats.wikimedia.org/#/en.wikipedia.org
+ 493. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 494. file://en.m.wikipedia.org/w/index.php?title=Curve&mobileaction=toggle_view_mobile
+ 495. https://wikimediafoundation.org/
+ 496. https://www.mediawiki.org/
+
+   Hidden links:
+ 498. file://localhost/wiki/File:Commons-logo.svg

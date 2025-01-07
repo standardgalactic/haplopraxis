@@ -1,0 +1,1255 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Overview
+     * [30]2 Formats
+     * [31]3 File and directory structure
+     * [32]4 Software support
+     * [33]5 See also
+     * [34]6 Notes
+
+   [ ] Toggle the table of contents
+
+.m2ts
+
+   [ ] 8 languages
+     * [35]Català
+     * [36]Čeština
+     * [37]Français
+     * [38]Bahasa Indonesia
+     * [39]Italiano
+     * [40]Português
+     * [41]Yorùbá
+     * [42]中文
+
+   [43]Edit links
+
+     * [44]Article
+     * [45]Talk
+
+   [ ] English
+
+     * [46]Read
+     * [47]Edit
+     * [48]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [49]Read
+     * [50]Edit
+     * [51]View history
+
+   General
+     * [52]What links here
+     * [53]Related changes
+     * [54]Upload file
+     * [55]Special pages
+     * [56]Permanent link
+     * [57]Page information
+     * [58]Cite this page
+     * [59]Get shortened URL
+     * [60]Download QR code
+
+   Print/export
+     * [61]Download as PDF
+     * [62]Printable version
+
+   In other projects
+     * [63]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Container file format
+   Not to be confused with [64].m2t.
+   This article may be too technical for most readers to understand.
+   Please [65]help improve it to [66]make it understandable to
+   non-experts, without removing the technical details. (April 2022)
+   ([67]Learn how and when to remove this message)
+
+   CAPTION: BDAV MPEG-2 Transport Stream
+
+   [68]Filename extension
+   .m2t, .m2ts, .MTS
+   [69]Internet media type
+   video/MP2T^[70][1]
+   Developed by [71]Blu-ray Disc Association
+   Initial release August 2004; 20 years ago (2004-08)
+   [72]Latest release
+   5th edition
+   January 2018; 7 years ago (2018-01)
+   Type of format [73]Container format
+
+   [74]Container for Audio, video, data
+   Contained by [75]Blu-ray Disc, [76]AVCHD
+   Extended from [77]MPEG-2 transport stream (ISO/IEC 13818-1)
+   [78]Open format? Yes
+   [79]Free format? No
+
+   .m2ts is a filename extension used for the Blu-ray disc Audio-Video
+   (BDAV) MPEG-2 Transport Stream (M2TS) [80]container [81]file format. It
+   is used for [82]multiplexing audio, video and other streams, such as
+   subtitles. It is based on the [83]MPEG-2 transport stream
+   container.^[84][2]^[85][3]^[86][4]^[87][5] This container format is
+   commonly used for [88]high-definition video on [89]Blu-ray Disc and
+   [90]AVCHD.^[91][6]
+
+Overview
+
+   [[92]edit]
+
+   The BDAV container format is a [93]modification of the MPEG-2 transport
+   stream (ITU-T [94]H.222.0 | [95]ISO/[96]IEC 13818-1) specification for
+   random-access media, such as Blu-ray discs, DVDs, hard drives or
+   solid-state memory cards. The format is informally called M2TS.
+
+   In order to optimize the storage size, the format uses variable rate
+   Transport Streams instead of the constant rates found in MPEG-2 TS
+   broadcast. To be able to reconstruct a T-STD compliant constant rate
+   Transport Stream for playback, the arrival timestamp of each packet
+   needs to be recorded.^[97][7]
+
+   The standard MPEG-2 TS 188-byte packet is prefixed with a 4-byte extra
+   header to a total size of 192 bytes. The header consists of a 2-bit
+   copy permission indicator and the 30-bit arrival timestamp with a
+   resolution of 27 MHz.^[98][8]
+
+   The BDAV container format (.m2ts) is a standard used on Blu-ray
+   discs.^[99][9]^[100][10]^[101][11] Blu-ray disc titles authored with
+   menu support are in the BDMV (Blu-ray disc Movie) format and contain
+   audio, video, and other streams in a BDAV container (.m2ts), which is
+   based on the MPEG transport stream format.^[102][4]^[103][5] The BDAV
+   container is also used in the BDAV (Blu-ray disc Audio/Visual) disc
+   format, the consumer-oriented alternative to the BDMV discs. The BDAV
+   disc format is used on [104]BD-RE and BD-R discs for audio/video
+   recording.^[105][5]^[106][12]
+
+   The BDAV container with filename extension .MTS or .m2ts is also used
+   in [107]AVCHD format, which is a high-definition digital video camera
+   recorder format.^[108][13] AVCHD is a simpler form of the Blu-ray disc
+   standard with just one video encoding algorithm and two audio
+   encodings.^[109][13]^[110][14] Compared to Blu-ray disc format, AVCHD
+   can use various storage media, such as [111]DVD media, [112]memory
+   cards or [113]hard disk drives. The BDAV container contains videos
+   recorded using AVCHD [114]camcorders, such as Sony's HDR-SR(xx) series
+   models. Panasonic, Canon and other brands of AVCHD camcorders also
+   store recorded video in the BDAV container format.
+
+Formats
+
+   [[115]edit]
+
+   The BDAV container format used on Blu-ray discs can contain one of the
+   three mandatory supported [116]video compression
+   formats–[117]H.262/MPEG-2 Part 2, [118]H.264/MPEG-4 AVC or [119]SMPTE
+   [120]VC-1^[121][15]–and [122]audio compression formats, such as
+   [123]Dolby Digital, [124]DTS or uncompressed [125]Linear PCM.
+   Optionally supported audio formats are [126]Dolby Digital Plus,
+   [127]DTS-HD High Resolution Audio, [128]DTS-HD Master Audio and
+   [129]Dolby TrueHD.^[130][11]^[131][16]
+
+   The BDAV container format used on AVCHD equipment is more restricted
+   and can contain only H.264/MPEG-4 AVC video compression and Dolby
+   Digital (AC-3) audio compression or uncompressed LPCM audio.^[132][14]
+
+File and directory structure
+
+   [[133]edit]
+
+   See also: [134]Blu-ray Disc § Directory and file structure, and
+   [135]AVCHD § Overview
+
+   The names of M2TS files are in the form
+   zzzzz.m2ts, where zzzzz is a five-digit number corresponding to the
+   audiovisual clip. This number is also used in the filename of an
+   associated clip information file "zzzzz.clpi".^[136][11] (This number
+   can be a [137]date and time stamp of when the video clip was recorded.)
+   Each stream has its own file.^[138][17]
+
+   Files in the AVCHD format use the legacy [139]8.3 filename convention,
+   whereas Blu-ray discs use [140]long filenames. This is why the filename
+   extension of video files is ".MTS" instead of Blu-ray disc's ".m2ts".
+   Also, other files use different extensions: .CPI – .clpi, .MPL – .mpls,
+   .BDM – .bdmv.^[141][13]^[142][18]^[143][19]
+
+   The M2TS files on a Blu-ray disc are placed in the subdirectory "
+   STREAM" of the "BDMV" (or "BDAV") directory, which is at the root
+   level. (e.g. \BDMV\STREAM\00001.m2ts or
+   \BDAV\STREAM\00001.m2ts)^[144][2]^[145][10] On some AVCHD equipment,
+   the "BDMV" directory is located in the "AVCHD" directory, which is
+   placed at the root level (e.g. \AVCHD\BDMV\STREAM\00001.MTS).^[146][13]
+
+Software support
+
+   [[147]edit]
+
+   Almost all commercially produced Blu-ray disc titles use a [148]copy
+   protection method called the [149]Advanced Access Content System, which
+   encrypts the content of the disc, including M2TS files. Software that
+   supports M2TS files usually works only with decrypted or unencrypted
+   files. Blu-ray disc software players can usually play back encrypted
+   content from the original disc. Video content created using AVCHD
+   equipment is commonly unencrypted.
+
+   Most M2TS files can be played with [150]ALLPlayer, [151]MPlayer,
+   [152]VLC, [153]PotPlayer and other [154]media players, depending on the
+   compression formats used in the M2TS file. Some players will need an
+   appropriate [155]codec, component or plugin installed.
+
+   Current versions of [156]Nero Vision, [157]FormatFactory,
+   [158]MediaCoder, [159]HandBrake and Picture Motion Browser are capable
+   of converting M2TS files into [160]MPEG-4 files, which can also be
+   viewed using the aforementioned media players.
+
+   M2TS files can also be played on Sony PlayStation 3s, Sony Bravia TVs,
+   Western Digital WDTVs, [161]Xtreamer media player, Amkette FlashTV HD
+   Media Player and Panasonic Viera TVs supporting playback of AVCHD.
+
+   Apple's [162]Final Cut Pro can read .MTS files (as stored in Sony HDR
+   camcorders) by using the AVCHD plugin in the Log and Transfer
+   window.^[163][19]
+
+See also
+
+   [[164]edit]
+
+     * [165]Comparison of container formats
+     * [166]Enhanced VOB (used on HD DVD)
+     * [167]MOD and TOD (video format)
+     * [168]VOB (used on DVD)
+
+Notes
+
+   [[169]edit]
+
+    1. [170]^ [171]RFC 3555: "MIME subtype name: MP2T – [172]MPEG-2
+       Transport Streams". Accessed 2009-09-01. [173]Archived 2009-09-04.
+    2. ^ [174]^a [175]^b Blu-ray Disc Association (March 2005) [176]BD ROM
+       – Audio Visual Application Format Specifications (PDF) Page 15,
+       Retrieved on 2009-07-26. [177]Archived 2009-07-29.
+    3. [178]^ Blu-ray Disc Association (2010), [179]Application Definition
+       – Blu-ray Disc Format – BD-J Baseline Application and Logical Model
+       Definition for BD-ROM – March 2005 (PDF), archived from [180]the
+       original (PDF) on 2011-07-08, retrieved 2010-06-10
+    4. ^ [181]^a [182]^b AfterDawn.com [183]Glossary – BD-MV (Blu-ray Disc
+       Movie) and BDAV container, Retrieved on 2009-07-26. [184]Archived
+       2009-07-29.
+    5. ^ [185]^a [186]^b [187]^c AfterDawn.com [188]Glossary – BDAV
+       container, Retrieved on 2009-07-26
+    6. [189]^ [190]"VideoHelp Glossary – M2T, m2ts, mts". Retrieved
+       2010-06-10.
+    7. [191]^ Doom9.org forum (2006) [192]New HD Format - AVCHD (By Sony
+       and Panasonic)
+    8. [193]^ Doom9.org forum (2011) [194]Question about m2ts h264 files
+    9. [195]^ Blu-ray Disc Association (August 2004) [196]Blu-ray Disc
+       Format, White paper [197]Archived 2009-06-12 at the [198]Wayback
+       Machine (PDF) Pages 18 and 22, Retrieved on 2009-07-28
+   10. ^ [199]^a [200]^b Blu-ray Disc Association (March 2008) [201]BD RE
+       – Audiovisual Application Format Specification for BD-RE 2.1 (PDF),
+       Retrieved on 2009-07-28. [202]Archived 2009-07-29.
+   11. ^ [203]^a [204]^b [205]^c Videohelp.com [206]What is Blu-ray Disc
+       and HD DVD?, Retrieved on 2009-07-26. [207]Archived 2009-07-29.
+   12. [208]^ Sony. [209]"Upscale Blu-ray Disc (BDAV) content". Retrieved
+       2010-06-10.
+   13. ^ [210]^a [211]^b [212]^c [213]^d [214]Backing up AVCHD video onto
+       DVDs and playing them on a Blu-ray Disc player^[215][usurped],
+       Retrieved on 2009-07-27. [216]Archived^[217][usurped] 2009-07-29.
+   14. ^ [218]^a [219]^b AVCHD Information Website [220]AVCHD format
+       specification overview, Retrieved on 2009-07-27
+   15. [221]^ [222]"Blu-ray Disc To Support WHS, MPEG-4, VC-1 – PC World".
+       [223]Archived from the original on 2009-05-20. Retrieved
+       2009-07-01.
+   16. [224]^ [225]"1st HD DVD Players To Decode All Mandatory, Optional
+       Audio Codecs". TWICE. Archived from [226]the original on
+       2009-04-09. Retrieved 2009-01-29.
+   17. [227]^ [228]M2TS filename extension, Retrieved on 2009-07-27.
+       [229]Archived 2009-07-29.
+   18. [230]^ Doom9.org forum (2008) [231]Changing Blu-ray Disc structure
+       to AVCHD, Retrieved on 2009-07-29
+   19. ^ [232]^a [233]^b [234]"MTS". iCoolsoft. [235]Archived from the
+       original on 2012-01-26. Retrieved 2012-03-07.
+
+     * [236]v
+     * [237]t
+     * [238]e
+
+   [239]Multimedia [240]compression and [241]container formats
+
+   [242]Video
+   compression
+
+   [243]ISO, [244]IEC,
+   [245]MPEG
+     * [246]DV
+     * [247]MJPEG
+     * [248]Motion JPEG 2000
+     * [249]MPEG-1
+     * [250]MPEG-2
+          + [251]Part 2
+     * [252]MPEG-4
+          + [253]Part 2 / ASP
+          + [254]Part 10 / AVC
+          + [255]Part 33 / IVC
+     * [256]MPEG-H
+          + [257]Part 2 / HEVC
+     * [258]MPEG-I
+          + [259]Part 3 / VVC
+     * [260]MPEG-5
+          + [261]Part 1 / EVC
+          + [262]Part 2 / LCEVC
+
+   [263]ITU-T, [264]VCEG
+     * [265]H.120
+     * [266]H.261
+     * [267]H.262
+     * [268]H.263
+     * [269]H.264 / AVC
+     * [270]H.265 / HEVC
+     * [271]H.266 / VVC
+
+   [272]SMPTE
+     * [273]VC-1
+     * [274]VC-2
+     * [275]VC-3
+     * [276]VC-5
+     * [277]VC-6
+
+   [278]TrueMotion and AOMedia
+     * [279]TrueMotion S
+     * [280]VP3
+     * [281]VP6
+     * [282]VP7
+     * [283]VP8
+     * [284]VP9
+     * [285]AV1
+
+   Chinese Standard
+     * [286]AVS1 P2/AVS+(GB/T 20090.2/16)
+     * [287]AVS2 P2(GB/T 33475.2,GY/T 299.1)
+          + HDR Vivid(GY/T 358)
+     * AVS3 P2(GY/T 368)
+
+   Others
+     * [288]Apple Video
+     * [289]AVS
+     * [290]Bink
+     * [291]Cinepak
+     * [292]Daala
+     * [293]DVI
+     * [294]FFV1
+     * [295]Huffyuv
+     * [296]Indeo
+     * [297]Lagarith
+     * [298]Microsoft Video 1
+     * [299]MSU Lossless
+     * [300]OMS Video
+     * [301]Pixlet
+     * [302]ProRes
+          + [303]422
+          + [304]4444
+     * QuickTime
+          + [305]Animation
+          + [306]Graphics
+     * [307]RealVideo
+     * [308]RTVideo
+     * [309]SheerVideo
+     * [310]Smacker
+     * [311]Sorenson Video/Spark
+     * [312]Theora
+     * [313]Thor
+     * [314]Ut
+     * [315]WMV
+     * [316]XEB
+     * [317]YULS
+
+   [318]Audio
+   compression
+
+   [319]ISO, [320]IEC,
+   [321]MPEG
+     * [322]MPEG-1 Layer II
+          + [323]Multichannel
+     * [324]MPEG-1 Layer I
+     * [325]MPEG-1 Layer III (MP3)
+     * [326]AAC
+          + [327]HE-AAC
+          + [328]AAC-LD
+     * [329]MPEG Surround
+     * [330]MPEG-4 ALS
+     * [331]MPEG-4 SLS
+     * [332]MPEG-4 DST
+     * [333]MPEG-4 HVXC
+     * [334]MPEG-4 CELP
+     * [335]MPEG-D USAC
+     * [336]MPEG-H 3D Audio
+
+   [337]ITU-T
+     * [338]G.711
+          + [339]A-law
+          + [340]µ-law
+     * [341]G.718
+     * [342]G.719
+     * [343]G.722
+     * [344]G.722.1
+     * [345]G.722.2
+     * [346]G.723
+     * [347]G.723.1
+     * [348]G.726
+     * [349]G.728
+     * [350]G.729
+     * [351]G.729.1
+
+   [352]IETF
+     * [353]Opus
+     * [354]iLBC
+     * [355]Speex
+     * [356]Vorbis
+     * [357]FLAC
+
+   [358]3GPP
+     * [359]AMR
+     * [360]AMR-WB
+     * [361]AMR-WB+
+     * [362]EVRC
+     * [363]EVRC-B
+     * [364]EVS
+     * [365]GSM-HR
+     * [366]GSM-FR
+     * [367]GSM-EFR
+
+   [368]ETSI
+     * [369]AC-3
+     * [370]AC-4
+     * [371]DTS
+
+             [372]Bluetooth SIG
+     * [373]SBC
+     * [374]LC3
+
+   Chinese Standard
+     * [375]AVS1 P10(GB/T 20090.10)
+     * [376]AVS2 P3(GB/T 33475.3)
+          + [377]Audio Vivid(GY/T 363)
+     * [378]DRA(GB/T 22726)
+     * ExAC(SJ/T 11299.4)
+
+   Others
+     * [379]ACELP
+     * [380]ALAC
+     * [381]Asao
+     * [382]ATRAC
+     * [383]CELT
+     * [384]Codec 2
+     * [385]iSAC
+     * [386]Lyra
+     * [387]MELP
+     * [388]Monkey's Audio
+     * [389]MT9
+     * [390]Musepack
+     * [391]OptimFROG
+     * [392]OSQ
+     * [393]QCELP
+     * [394]RCELP
+     * [395]RealAudio
+     * [396]RTAudio
+     * [397]SD2
+     * [398]SHN
+     * [399]SILK
+     * [400]Siren
+     * [401]SMV
+     * [402]SVOPC
+     * TTA
+          + True Audio
+     * [403]TwinVQ
+     * [404]VMR-WB
+     * [405]VSELP
+     * [406]WavPack
+     * [407]WMA
+     * [408]MQA
+     * [409]aptX
+     * [410]aptX HD
+     * [411]aptX Low Latency
+     * [412]aptX Adaptive
+     * [413]LDAC
+     * [414]LHDC
+     * [415]LLAC
+
+   [416]Image
+   compression
+
+   [417]IEC, [418]ISO, [419]IETF,
+   [420]W3C, [421]ITU-T, [422]JPEG
+     * [423]CCITT Group 4
+     * [424]GIF
+     * [425]HEIC / HEIF
+     * [426]HEVC
+     * [427]JBIG
+     * [428]JBIG2
+     * [429]JPEG
+     * [430]JPEG 2000
+     * [431]JPEG-LS
+     * [432]JPEG XL
+     * [433]JPEG XR
+     * [434]JPEG XS
+     * [435]JPEG XT
+     * [436]PNG
+     * [437]TIFF
+     * [438]TIFF/EP
+     * [439]TIFF/IT
+
+   Others
+     * [440]APNG
+     * [441]AV1
+     * [442]AVIF
+     * [443]BPG
+     * [444]DjVu
+     * [445]EXR
+     * [446]FLIF
+     * [447]ICER
+     * [448]MNG
+     * [449]PGF
+     * [450]QOI
+     * [451]QTVR
+     * [452]WBMP
+     * [453]WebP
+
+   [454]Containers
+
+   [455]ISO, [456]IEC
+     * [457]MPEG-ES
+          + [458]MPEG-PES
+     * [459]MPEG-PS
+     * [460]MPEG-TS
+     * [461]ISO/IEC base media file format
+     * [462]MPEG-4 Part 14 (MP4)
+     * [463]Motion JPEG 2000
+     * [464]MPEG-21 Part 9
+     * [465]MPEG media transport
+
+       [466]ITU-T
+     * [467]H.222.0
+     * [468]T.802
+
+   [469]IETF
+     * [470]RTP
+     * [471]Ogg
+     * [472]Matroska
+
+       [473]SMPTE
+     * [474]GXF
+     * [475]MXF
+
+   Others
+     * [476]3GP and 3G2
+     * [477]AMV
+     * [478]ASF
+     * [479]AIFF
+     * [480]AVI
+     * [481]AU
+     * [482]BPG
+     * [483]Bink
+          + [484]Smacker
+     * [485]BMP
+     * [486]DivX Media Format
+     * [487]EVO
+     * [488]Flash Video
+     * [489]HEIF
+     * [490]IFF
+     * M2TS
+     * [491]Matroska
+          + [492]WebM
+     * [493]QuickTime File Format
+     * [494]RatDVD
+     * [495]RealMedia
+     * [496]RIFF
+          + [497]WAV
+     * [498]MOD and TOD
+     * [499]VOB, IFO and BUP
+
+   Collaborations
+
+     * [500]NETVC
+     * [501]MPEG LA
+     * [502]Alliance for Open Media
+
+   [503]Methods
+
+     * [504]Entropy
+          + [505]Arithmetic
+          + [506]Huffman
+          + [507]Modified
+     * [508]LPC
+          + [509]ACELP
+          + [510]CELP
+          + [511]LSP
+          + [512]WLPC
+     * [513]Lossless
+     * [514]Lossy
+     * [515]LZ
+          + [516]DEFLATE
+          + [517]LZW
+     * [518]PCM
+          + [519]A-law
+          + [520]µ-law
+          + [521]ADPCM
+          + [522]DPCM
+     * [523]Transforms
+          + [524]DCT
+          + [525]FFT
+          + [526]MDCT
+          + [527]Wavelet
+               o [528]Daubechies
+               o [529]DWT
+
+   Lists
+
+     * [530]Comparison of audio coding formats
+     * [531]Comparison of video codecs
+     * [532]List of codecs
+
+   See [533]Compression methods for techniques and [534]Compression
+   software for codecs
+
+   Retrieved from
+   "[535]https://en.wikipedia.org/w/index.php?title=.m2ts&oldid=1247077457
+   "
+
+   [536]Categories:
+     * [537]Computer file formats
+     * [538]Filename extensions
+     * [539]Sony image processing
+
+   Hidden categories:
+     * [540]Webarchive template wayback links
+     * [541]Articles with short description
+     * [542]Short description matches Wikidata
+     * [543]Wikipedia articles that are too technical from April 2022
+     * [544]All articles that are too technical
+
+     * This page was last edited on 22 September 2024, at 18:09 (UTC).
+     * Text is available under the [545]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [546]Terms of Use and
+       [547]Privacy Policy. Wikipedia® is a registered trademark of the
+       [548]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [549]Privacy policy
+     * [550]About Wikipedia
+     * [551]Disclaimers
+     * [552]Contact Wikipedia
+     * [553]Code of Conduct
+     * [554]Developers
+     * [555]Statistics
+     * [556]Cookie statement
+     * [557]Mobile view
+
+     * [558]Wikimedia Foundation
+     * [559]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/.m2ts
+   2. file:///w/index.php?title=.m2ts&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=.m2ts
+  21. file:///w/index.php?title=Special:UserLogin&returnto=.m2ts
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=.m2ts
+  24. file:///w/index.php?title=Special:UserLogin&returnto=.m2ts
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html
+  29. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#Overview
+  30. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#Formats
+  31. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#File_and_directory_structure
+  32. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#Software_support
+  33. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#See_also
+  34. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#Notes
+  35. https://ca.wikipedia.org/wiki/.m2ts
+  36. https://cs.wikipedia.org/wiki/BDAV_MPEG-2_Transport_Stream
+  37. https://fr.wikipedia.org/wiki/.m2ts
+  38. https://id.wikipedia.org/wiki/.m2ts
+  39. https://it.wikipedia.org/wiki/.m2ts
+  40. https://pt.wikipedia.org/wiki/M2ts
+  41. https://yo.wikipedia.org/wiki/.m2ts
+  42. https://zh.wikipedia.org/wiki/M2TS
+  43. https://www.wikidata.org/wiki/Special:EntityPage/Q2609791#sitelinks-wikipedia
+  44. file:///wiki/.m2ts
+  45. file:///wiki/Talk:.m2ts
+  46. file:///wiki/.m2ts
+  47. file:///w/index.php?title=.m2ts&action=edit
+  48. file:///w/index.php?title=.m2ts&action=history
+  49. file:///wiki/.m2ts
+  50. file:///w/index.php?title=.m2ts&action=edit
+  51. file:///w/index.php?title=.m2ts&action=history
+  52. file:///wiki/Special:WhatLinksHere/.m2ts
+  53. file:///wiki/Special:RecentChangesLinked/.m2ts
+  54. file:///wiki/Wikipedia:File_Upload_Wizard
+  55. file:///wiki/Special:SpecialPages
+  56. file:///w/index.php?title=.m2ts&oldid=1247077457
+  57. file:///w/index.php?title=.m2ts&action=info
+  58. file:///w/index.php?title=Special:CiteThisPage&page=.m2ts&id=1247077457&wpFormIdentifier=titleform
+  59. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/.m2ts
+  60. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/.m2ts
+  61. file:///w/index.php?title=Special:DownloadAsPdf&page=.m2ts&action=show-download-screen
+  62. file:///w/index.php?title=.m2ts&printable=yes
+  63. https://www.wikidata.org/wiki/Special:EntityPage/Q2609791
+  64. file:///wiki/.m2t
+  65. https://en.wikipedia.org/w/index.php?title=.m2ts&action=edit
+  66. file:///wiki/Wikipedia:Make_technical_articles_understandable
+  67. file:///wiki/Help:Maintenance_template_removal
+  68. file:///wiki/Filename_extension
+  69. file:///wiki/Media_type
+  70. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-1
+  71. file:///wiki/Blu-ray_Disc_Association
+  72. file:///wiki/Software_release_life_cycle
+  73. file:///wiki/Container_format_(digital)
+  74. file:///wiki/Container_format
+  75. file:///wiki/Blu-ray_Disc
+  76. file:///wiki/AVCHD
+  77. file:///wiki/MPEG_transport_stream
+  78. file:///wiki/Open_file_format
+  79. file:///wiki/Open_standard#Comparison_of_definitions
+  80. file:///wiki/Container_format_(digital)
+  81. file:///wiki/File_format
+  82. file:///wiki/Multiplexing
+  83. file:///wiki/MPEG_transport_stream
+  84. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bda-av-2
+  85. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-3
+  86. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bdvm-4
+  87. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bdav-5
+  88. file:///wiki/High-definition_video
+  89. file:///wiki/Blu-ray_Disc
+  90. file:///wiki/AVCHD
+  91. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-6
+  92. file:///w/index.php?title=.m2ts&action=edit&section=1
+  93. file:///wiki/MPEG_transport_stream#Use_in_Blu-ray
+  94. file:///wiki/H.222.0
+  95. file:///wiki/International_Organization_for_Standardization
+  96. file:///wiki/International_Electrotechnical_Commission
+  97. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-ats-7
+  98. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-tpeh-8
+  99. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bda-9
+ 100. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bda-bdre-10
+ 101. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bdav-videohelp-11
+ 102. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bdvm-4
+ 103. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bdav-5
+ 104. file:///wiki/BD-RE
+ 105. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bdav-5
+ 106. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-12
+ 107. file:///wiki/AVCHD
+ 108. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-avchduser-13
+ 109. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-avchduser-13
+ 110. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-avchd-14
+ 111. file:///wiki/DVD
+ 112. file:///wiki/Memory_card
+ 113. file:///wiki/Hard_disk_drives
+ 114. file:///wiki/Camcorder
+ 115. file:///w/index.php?title=.m2ts&action=edit&section=2
+ 116. file:///wiki/Video_compression
+ 117. file:///wiki/H.262/MPEG-2_Part_2
+ 118. file:///wiki/H.264/MPEG-4_AVC
+ 119. file:///wiki/SMPTE
+ 120. file:///wiki/VC-1
+ 121. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-15
+ 122. file:///wiki/Audio_data_compression
+ 123. file:///wiki/Dolby_Digital
+ 124. file:///wiki/Digital_Theatre_System
+ 125. file:///wiki/Linear_PCM
+ 126. file:///wiki/Dolby_Digital_Plus
+ 127. file:///wiki/Digital_Theater_System#DTS-HD_High_Resolution_Audio
+ 128. file:///wiki/DTS-HD_Master_Audio
+ 129. file:///wiki/Dolby_TrueHD
+ 130. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bdav-videohelp-11
+ 131. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-16
+ 132. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-avchd-14
+ 133. file:///w/index.php?title=.m2ts&action=edit&section=3
+ 134. file:///wiki/Blu-ray_Disc#Directory_and_file_structure
+ 135. file:///wiki/AVCHD#Overview
+ 136. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bdav-videohelp-11
+ 137. file:///wiki/Timestamp
+ 138. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-17
+ 139. file:///wiki/8.3_filename
+ 140. file:///wiki/Long_filename
+ 141. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-avchduser-13
+ 142. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-18
+ 143. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-icoolsoft-19
+ 144. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bda-av-2
+ 145. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-bda-bdre-10
+ 146. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-avchduser-13
+ 147. file:///w/index.php?title=.m2ts&action=edit&section=4
+ 148. file:///wiki/Copy_protection
+ 149. file:///wiki/Advanced_Access_Content_System
+ 150. file:///wiki/ALLPlayer
+ 151. file:///wiki/MPlayer
+ 152. file:///wiki/VLC_media_player
+ 153. file:///wiki/PotPlayer
+ 154. file:///wiki/Media_player_(application_software)
+ 155. file:///wiki/Codec
+ 156. file:///wiki/Nero_Vision
+ 157. file:///wiki/FormatFactory
+ 158. file:///wiki/MediaCoder
+ 159. file:///wiki/HandBrake
+ 160. file:///wiki/MPEG-4
+ 161. file:///wiki/Xtreamer
+ 162. file:///wiki/Final_Cut_Pro
+ 163. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_note-icoolsoft-19
+ 164. file:///w/index.php?title=.m2ts&action=edit&section=5
+ 165. file:///wiki/Comparison_of_container_formats
+ 166. file:///wiki/Enhanced_VOB
+ 167. file:///wiki/MOD_and_TOD_(video_format)
+ 168. file:///wiki/VOB
+ 169. file:///w/index.php?title=.m2ts&action=edit&section=6
+ 170. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-1
+ 171. http://www.rfc-editor.org/rfc/rfc3555.txt
+ 172. file:///wiki/MPEG_transport_stream#Modifications_of_transport_stream_specification_for_random-access_media_(M2TS)
+ 173. https://web.archive.org/web/20090331201845/http://rfc-editor.org/rfc/rfc3555.txt
+ 174. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bda-av_2-0
+ 175. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bda-av_2-1
+ 176. http://www.blu-raydisc.com/Assets/Downloadablefile/2b_bdrom_audiovisualapplication_0305-12955-15269.pdf
+ 177. https://web.archive.org/web/20090326224610/http://www.blu-raydisc.com/Assets/Downloadablefile/2b_bdrom_audiovisualapplication_0305-12955-15269.pdf
+ 178. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-3
+ 179. https://web.archive.org/web/20110708073443/http://www.blu-raydisc.com/Assets/Downloadablefile/bdj_gem_application_definition-15496.pdf
+ 180. http://www.blu-raydisc.com/Assets/Downloadablefile/bdj_gem_application_definition-15496.pdf
+ 181. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bdvm_4-0
+ 182. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bdvm_4-1
+ 183. http://www.afterdawn.com/glossary/terms/bd-mv.cfm
+ 184. https://web.archive.org/web/20090218234755/http://www.afterdawn.com/glossary/terms/bd-mv.cfm
+ 185. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bdav_5-0
+ 186. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bdav_5-1
+ 187. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bdav_5-2
+ 188. http://www.afterdawn.com/glossary/terms/bdav.cfm
+ 189. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-6
+ 190. http://www.videohelp.com/glossary?M#M2T, m2ts, mts
+ 191. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-ats_7-0
+ 192. http://forum.doom9.org/showthread.php?p=888381#post888381
+ 193. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-tpeh_8-0
+ 194. http://forum.doom9.org/showthread.php?t=160008
+ 195. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bda_9-0
+ 196. http://www.blu-raydisc.com/Assets/Downloadablefile/general_bluraydiscformat-15263.pdf
+ 197. https://web.archive.org/web/20090612042130/http://www.blu-raydisc.com/Assets/Downloadablefile/general_bluraydiscformat-15263.pdf
+ 198. file:///wiki/Wayback_Machine
+ 199. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bda-bdre_10-0
+ 200. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bda-bdre_10-1
+ 201. http://www.blu-raydisc.com/Assets/Downloadablefile/BD-RE_Part3_V2.1_WhitePaper_080406-15271.pdf
+ 202. https://web.archive.org/web/20090206111829/http://www.blu-raydisc.com/Assets/Downloadablefile/BD-RE_Part3_V2.1_WhitePaper_080406-15271.pdf
+ 203. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bdav-videohelp_11-0
+ 204. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bdav-videohelp_11-1
+ 205. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-bdav-videohelp_11-2
+ 206. http://www.videohelp.com/hd
+ 207. https://web.archive.org/web/20091224035325/http://www.videohelp.com/hd
+ 208. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-12
+ 209. http://au.playstation.com/ps3/support/movies/detail/linked224927/item109214/Upscale-Blu-ray-Disc-(BDAV)-content/
+ 210. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-avchduser_13-0
+ 211. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-avchduser_13-1
+ 212. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-avchduser_13-2
+ 213. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-avchduser_13-3
+ 214. https://web.archive.org/web/20080921200339/http://www.avchduser.com/articles/avchd_to_bluray.jsp
+ 215. file:///wiki/Template:Usurped/doc
+ 216. https://web.archive.org/web/20080921200339/http://www.avchduser.com/articles/avchd_to_bluray.jsp
+ 217. file:///wiki/Template:Usurped/doc
+ 218. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-avchd_14-0
+ 219. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-avchd_14-1
+ 220. http://www.avchd-info.org/format/index.html
+ 221. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-15
+ 222. http://www.pcworld.com/article/117681/bluray_disc_to_support_mpeg4_vc1.html
+ 223. https://web.archive.org/web/20090520074814/http://www.pcworld.com/article/117681/bluray_disc_to_support_mpeg4_vc1.html
+ 224. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-16
+ 225. https://web.archive.org/web/20090409074432/http://www.twice.com/article/CA6323699.html
+ 226. http://www.twice.com/article/CA6323699.html
+ 227. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-17
+ 228. http://filext.com/file-extension/m2ts
+ 229. https://web.archive.org/web/20070420042223/http://filext.com/file-extension/m2ts
+ 230. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-18
+ 231. http://forum.doom9.org/archive/index.php/t-141423.html
+ 232. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-icoolsoft_19-0
+ 233. file:///tmp/lynxXXXXO5lMf6/L54509-4797TMP.html#cite_ref-icoolsoft_19-1
+ 234. http://www.icoolsoft.com/glossary/mts.html
+ 235. https://web.archive.org/web/20120126085508/http://www.icoolsoft.com/glossary/mts.html
+ 236. file:///wiki/Template:Compression_formats
+ 237. file:///wiki/Template_talk:Compression_formats
+ 238. file:///wiki/Special:EditPage/Template:Compression_formats
+ 239. file:///wiki/Multimedia
+ 240. file:///wiki/Data_compression
+ 241. file:///wiki/Container_format_(computing)
+ 242. file:///wiki/Video_coding_format
+ 243. file:///wiki/International_Organization_for_Standardization
+ 244. file:///wiki/International_Electrotechnical_Commission
+ 245. file:///wiki/Moving_Picture_Experts_Group
+ 246. file:///wiki/DV_(video_format)
+ 247. file:///wiki/Motion_JPEG
+ 248. file:///wiki/Motion_JPEG_2000
+ 249. file:///wiki/MPEG-1
+ 250. file:///wiki/MPEG-2
+ 251. file:///wiki/H.262/MPEG-2_Part_2
+ 252. file:///wiki/MPEG-4
+ 253. file:///wiki/MPEG-4_Part_2
+ 254. file:///wiki/H.264/MPEG-4_AVC
+ 255. file:///wiki/MPEG-4_IVC
+ 256. file:///wiki/MPEG-H
+ 257. file:///wiki/High_Efficiency_Video_Coding
+ 258. file:///w/index.php?title=MPEG-I&action=edit&redlink=1
+ 259. file:///wiki/Versatile_Video_Coding
+ 260. file:///wiki/MPEG-5
+ 261. file:///wiki/Essential_Video_Coding
+ 262. file:///wiki/LCEVC
+ 263. file:///wiki/ITU-T
+ 264. file:///wiki/Video_Coding_Experts_Group
+ 265. file:///wiki/H.120
+ 266. file:///wiki/H.261
+ 267. file:///wiki/H.262/MPEG-2_Part_2
+ 268. file:///wiki/H.263
+ 269. file:///wiki/Advanced_Video_Coding
+ 270. file:///wiki/High_Efficiency_Video_Coding
+ 271. file:///wiki/Versatile_Video_Coding
+ 272. file:///wiki/Society_of_Motion_Picture_and_Television_Engineers
+ 273. file:///wiki/VC-1
+ 274. file:///wiki/Dirac_(video_compression_format)
+ 275. file:///wiki/Avid_DNxHD
+ 276. file:///wiki/CineForm
+ 277. file:///wiki/VC-6
+ 278. file:///wiki/On2_Technologies
+ 279. file:///wiki/On2_Technologies#TrueMotion_S
+ 280. file:///wiki/VP3
+ 281. file:///wiki/VP6
+ 282. file:///wiki/VP7
+ 283. file:///wiki/VP8
+ 284. file:///wiki/VP9
+ 285. file:///wiki/AV1
+ 286. file:///wiki/Audio_Video_Standard#First_generation
+ 287. file:///wiki/Audio_Video_Standard#Second_generation
+ 288. file:///wiki/Apple_Video
+ 289. file:///wiki/Audio_Video_Standard
+ 290. file:///wiki/Bink_Video
+ 291. file:///wiki/Cinepak
+ 292. file:///wiki/Daala
+ 293. file:///wiki/Digital_Video_Interactive
+ 294. file:///wiki/FFV1
+ 295. file:///wiki/Huffyuv
+ 296. file:///wiki/Indeo
+ 297. file:///wiki/Lagarith
+ 298. file:///wiki/Microsoft_Video_1
+ 299. file:///wiki/MSU_Lossless_Video_Codec
+ 300. file:///wiki/OMS_Video
+ 301. file:///wiki/Pixlet
+ 302. file:///wiki/Apple_ProRes
+ 303. file:///wiki/ProRes_422
+ 304. file:///wiki/ProRes_4444
+ 305. file:///wiki/QuickTime_Animation
+ 306. file:///wiki/QuickTime_Graphics
+ 307. file:///wiki/RealVideo
+ 308. file:///wiki/RTVideo
+ 309. file:///wiki/SheerVideo
+ 310. file:///wiki/Smacker_video
+ 311. file:///wiki/Sorenson_Media
+ 312. file:///wiki/Theora
+ 313. file:///wiki/Thor_(video_codec)
+ 314. file:///wiki/Ut_Video_Codec_Suite
+ 315. file:///wiki/Windows_Media_Video
+ 316. file:///wiki/RatDVD
+ 317. file:///wiki/YULS
+ 318. file:///wiki/Audio_coding_format
+ 319. file:///wiki/International_Organization_for_Standardization
+ 320. file:///wiki/International_Electrotechnical_Commission
+ 321. file:///wiki/Moving_Picture_Experts_Group
+ 322. file:///wiki/MPEG-1_Audio_Layer_II
+ 323. file:///wiki/MPEG_Multichannel
+ 324. file:///wiki/MPEG-1_Audio_Layer_I
+ 325. file:///wiki/MP3
+ 326. file:///wiki/Advanced_Audio_Coding
+ 327. file:///wiki/High-Efficiency_Advanced_Audio_Coding
+ 328. file:///wiki/AAC-LD
+ 329. file:///wiki/MPEG_Surround
+ 330. file:///wiki/Audio_Lossless_Coding
+ 331. file:///wiki/MPEG-4_SLS
+ 332. file:///wiki/Super_Audio_CD#DST
+ 333. file:///wiki/Harmonic_Vector_Excitation_Coding
+ 334. file:///wiki/Code-excited_linear_prediction
+ 335. file:///wiki/Unified_Speech_and_Audio_Coding
+ 336. file:///wiki/MPEG-H_3D_Audio
+ 337. file:///wiki/ITU-T
+ 338. file:///wiki/G.711
+ 339. file:///wiki/A-law_algorithm
+ 340. file:///wiki/Μ-law_algorithm
+ 341. file:///wiki/G.718
+ 342. file:///wiki/G.719
+ 343. file:///wiki/G.722
+ 344. file:///wiki/G.722.1
+ 345. file:///wiki/Adaptive_Multi-Rate_Wideband
+ 346. file:///wiki/G.723
+ 347. file:///wiki/G.723.1
+ 348. file:///wiki/G.726
+ 349. file:///wiki/G.728
+ 350. file:///wiki/G.729
+ 351. file:///wiki/G.729.1
+ 352. file:///wiki/Internet_Engineering_Task_Force
+ 353. file:///wiki/Opus_(audio_format)
+ 354. file:///wiki/Internet_Low_Bitrate_Codec
+ 355. file:///wiki/Speex
+ 356. file:///wiki/Vorbis
+ 357. file:///wiki/FLAC
+ 358. file:///wiki/3GPP
+ 359. file:///wiki/Adaptive_Multi-Rate_audio_codec
+ 360. file:///wiki/Adaptive_Multi-Rate_Wideband
+ 361. file:///wiki/Extended_Adaptive_Multi-Rate_–_Wideband
+ 362. file:///wiki/Enhanced_Variable_Rate_Codec
+ 363. file:///wiki/Enhanced_Variable_Rate_Codec_B
+ 364. file:///wiki/Enhanced_Voice_Services
+ 365. file:///wiki/Half_Rate
+ 366. file:///wiki/Full_Rate
+ 367. file:///wiki/Enhanced_full_rate
+ 368. file:///wiki/ETSI
+ 369. file:///wiki/Dolby_Digital
+ 370. file:///wiki/Dolby_AC-4
+ 371. file:///wiki/DTS_(sound_system)
+ 372. file:///wiki/Bluetooth_Special_Interest_Group
+ 373. file:///wiki/SBC_(codec)
+ 374. file:///wiki/LC3_(codec)
+ 375. file:///wiki/Audio_Video_Standard#First_generation
+ 376. file:///wiki/Audio_Video_Standard#Second_generation
+ 377. file:///w/index.php?title=Audio_Vivid&action=edit&redlink=1
+ 378. file:///wiki/Dynamic_Resolution_Adaptation
+ 379. file:///wiki/Algebraic_code-excited_linear_prediction
+ 380. file:///wiki/Apple_Lossless_Audio_Codec
+ 381. file:///wiki/Asao_(codec)
+ 382. file:///wiki/Adaptive_Transform_Acoustic_Coding
+ 383. file:///wiki/CELT
+ 384. file:///wiki/Codec_2
+ 385. file:///wiki/Internet_Speech_Audio_Codec
+ 386. file:///wiki/Lyra_(codec)
+ 387. file:///wiki/Mixed-excitation_linear_prediction
+ 388. file:///wiki/Monkey's_Audio
+ 389. file:///wiki/MT9
+ 390. file:///wiki/Musepack
+ 391. file:///wiki/OptimFROG
+ 392. file:///wiki/Original_Sound_Quality
+ 393. file:///wiki/Qualcomm_code-excited_linear_prediction
+ 394. file:///wiki/Relaxed_code-excited_linear_prediction
+ 395. file:///wiki/RealAudio
+ 396. file:///wiki/RTAudio
+ 397. file:///wiki/Avid_Audio#Sound_Designer_file_formats
+ 398. file:///wiki/Shorten_file_format
+ 399. file:///wiki/SILK
+ 400. file:///wiki/Siren_(codec)
+ 401. file:///wiki/Selectable_Mode_Vocoder
+ 402. file:///wiki/SVOPC
+ 403. file:///wiki/TwinVQ
+ 404. file:///wiki/Variable-Rate_Multimode_Wideband
+ 405. file:///wiki/Vector_sum_excited_linear_prediction
+ 406. file:///wiki/WavPack
+ 407. file:///wiki/Windows_Media_Audio
+ 408. file:///wiki/Master_Quality_Authenticated
+ 409. file:///wiki/AptX
+ 410. file:///wiki/AptX#aptX_HD
+ 411. file:///wiki/AptX#aptX_Low_Latency
+ 412. file:///wiki/AptX#aptX_Adaptive
+ 413. file:///wiki/LDAC_(codec)
+ 414. file:///wiki/LHDC_(codec)
+ 415. file:///wiki/LHDC_(codec)#LLAC
+ 416. file:///wiki/Image_compression
+ 417. file:///wiki/International_Electrotechnical_Commission
+ 418. file:///wiki/International_Organization_for_Standardization
+ 419. file:///wiki/Internet_Engineering_Task_Force
+ 420. file:///wiki/World_Wide_Web_Consortium
+ 421. file:///wiki/ITU-T
+ 422. file:///wiki/Joint_Photographic_Experts_Group
+ 423. file:///wiki/Group_4_compression
+ 424. file:///wiki/GIF
+ 425. file:///wiki/High_Efficiency_Image_File_Format#HEIC:_HEVC_in_HEIF
+ 426. file:///wiki/High_Efficiency_Video_Coding#Main_Still_Picture
+ 427. file:///wiki/JBIG
+ 428. file:///wiki/JBIG2
+ 429. file:///wiki/JPEG
+ 430. file:///wiki/JPEG_2000
+ 431. file:///wiki/JPEG-LS
+ 432. file:///wiki/JPEG_XL
+ 433. file:///wiki/JPEG_XR
+ 434. file:///wiki/JPEG_XS
+ 435. file:///wiki/JPEG_XT
+ 436. file:///wiki/Portable_Network_Graphics
+ 437. file:///wiki/TIFF
+ 438. file:///wiki/TIFF/EP
+ 439. file:///wiki/TIFF/IT
+ 440. file:///wiki/APNG
+ 441. file:///wiki/AV1
+ 442. file:///wiki/AVIF
+ 443. file:///wiki/Better_Portable_Graphics
+ 444. file:///wiki/DjVu
+ 445. file:///wiki/OpenEXR
+ 446. file:///wiki/Free_Lossless_Image_Format
+ 447. file:///wiki/ICER_(file_format)
+ 448. file:///wiki/Multiple-image_Network_Graphics
+ 449. file:///wiki/Progressive_Graphics_File
+ 450. file:///wiki/QOI_(image_format)
+ 451. file:///wiki/QuickTime_VR
+ 452. file:///wiki/Wireless_Application_Protocol_Bitmap_Format
+ 453. file:///wiki/WebP
+ 454. file:///wiki/Digital_container_format
+ 455. file:///wiki/International_Organization_for_Standardization
+ 456. file:///wiki/International_Electrotechnical_Commission
+ 457. file:///wiki/MPEG_elementary_stream
+ 458. file:///wiki/Packetized_elementary_stream
+ 459. file:///wiki/MPEG_program_stream
+ 460. file:///wiki/MPEG_transport_stream
+ 461. file:///wiki/ISO/IEC_base_media_file_format
+ 462. file:///wiki/MPEG-4_Part_14
+ 463. file:///wiki/Motion_JPEG_2000
+ 464. file:///wiki/MPEG-21
+ 465. file:///wiki/MPEG_media_transport
+ 466. file:///wiki/ITU-T
+ 467. file:///wiki/MPEG-2#Systems
+ 468. file:///wiki/Motion_JPEG_2000
+ 469. file:///wiki/Internet_Engineering_Task_Force
+ 470. file:///wiki/Real-time_Transport_Protocol
+ 471. file:///wiki/Ogg
+ 472. file:///wiki/Matroska
+ 473. file:///wiki/Society_of_Motion_Picture_and_Television_Engineers
+ 474. file:///wiki/General_Exchange_Format
+ 475. file:///wiki/Material_Exchange_Format
+ 476. file:///wiki/3GP_and_3G2
+ 477. file:///wiki/AMV_video_format
+ 478. file:///wiki/Advanced_Systems_Format
+ 479. file:///wiki/Audio_Interchange_File_Format
+ 480. file:///wiki/Audio_Video_Interleave
+ 481. file:///wiki/Au_file_format
+ 482. file:///wiki/Better_Portable_Graphics
+ 483. file:///wiki/Bink_Video
+ 484. file:///wiki/Smacker_video
+ 485. file:///wiki/BMP_file_format
+ 486. file:///wiki/DivX#DivX_Media_Format_(DMF)
+ 487. file:///wiki/Enhanced_VOB
+ 488. file:///wiki/Flash_Video
+ 489. file:///wiki/High_Efficiency_Image_File_Format
+ 490. file:///wiki/Interchange_File_Format
+ 491. file:///wiki/Matroska
+ 492. file:///wiki/WebM
+ 493. file:///wiki/QuickTime_File_Format
+ 494. file:///wiki/RatDVD
+ 495. file:///wiki/RealMedia
+ 496. file:///wiki/Resource_Interchange_File_Format
+ 497. file:///wiki/WAV
+ 498. file:///wiki/MOD_and_TOD
+ 499. file:///wiki/VOB
+ 500. file:///wiki/NETVC
+ 501. file:///wiki/MPEG_LA
+ 502. file:///wiki/Alliance_for_Open_Media
+ 503. file:///wiki/Data_compression
+ 504. file:///wiki/Entropy_encoding
+ 505. file:///wiki/Arithmetic_coding
+ 506. file:///wiki/Huffman_coding
+ 507. file:///wiki/Modified_Huffman_coding
+ 508. file:///wiki/Linear_predictive_coding
+ 509. file:///wiki/Algebraic_code-excited_linear_prediction
+ 510. file:///wiki/Code-excited_linear_prediction
+ 511. file:///wiki/Line_spectral_pairs
+ 512. file:///wiki/Warped_linear_predictive_coding
+ 513. file:///wiki/Lossless_compression
+ 514. file:///wiki/Lossy_compression
+ 515. file:///wiki/LZ77_and_LZ78
+ 516. file:///wiki/DEFLATE
+ 517. file:///wiki/Lempel–Ziv–Welch
+ 518. file:///wiki/Pulse-code_modulation
+ 519. file:///wiki/A-law_algorithm
+ 520. file:///wiki/Μ-law_algorithm
+ 521. file:///wiki/Adaptive_differential_pulse-code_modulation
+ 522. file:///wiki/Differential_pulse-code_modulation
+ 523. file:///wiki/Transform_coding
+ 524. file:///wiki/Discrete_cosine_transform
+ 525. file:///wiki/Fast_Fourier_transform
+ 526. file:///wiki/Modified_discrete_cosine_transform
+ 527. file:///wiki/Wavelet
+ 528. file:///wiki/Daubechies_wavelet
+ 529. file:///wiki/Discrete_wavelet_transform
+ 530. file:///wiki/Comparison_of_audio_coding_formats
+ 531. file:///wiki/Comparison_of_video_codecs
+ 532. file:///wiki/List_of_codecs
+ 533. file:///wiki/Template:Compression_methods
+ 534. file:///wiki/Template:Compression_software
+ 535. https://en.wikipedia.org/w/index.php?title=.m2ts&oldid=1247077457
+ 536. file:///wiki/Help:Category
+ 537. file:///wiki/Category:Computer_file_formats
+ 538. file:///wiki/Category:Filename_extensions
+ 539. file:///wiki/Category:Sony_image_processing
+ 540. file:///wiki/Category:Webarchive_template_wayback_links
+ 541. file:///wiki/Category:Articles_with_short_description
+ 542. file:///wiki/Category:Short_description_matches_Wikidata
+ 543. file:///wiki/Category:Wikipedia_articles_that_are_too_technical_from_April_2022
+ 544. file:///wiki/Category:All_articles_that_are_too_technical
+ 545. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 546. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 547. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 548. https://wikimediafoundation.org/
+ 549. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 550. file:///wiki/Wikipedia:About
+ 551. file:///wiki/Wikipedia:General_disclaimer
+ 552. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 553. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 554. https://developer.wikimedia.org/
+ 555. https://stats.wikimedia.org/#/en.wikipedia.org
+ 556. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 557. file://en.m.wikipedia.org/w/index.php?title=.m2ts&mobileaction=toggle_view_mobile
+ 558. https://wikimediafoundation.org/
+ 559. https://www.mediawiki.org/

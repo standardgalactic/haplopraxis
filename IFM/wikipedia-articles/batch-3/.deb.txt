@@ -1,0 +1,1344 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Design
+     * [30]2 Implementation
+       (BUTTON) Toggle Implementation subsection
+          + [31]2.1 Control archive
+          + [32]2.2 Signed packages
+     * [33]3 Adoption
+     * [34]4 See also
+     * [35]5 References
+     * [36]6 External links
+
+   [ ] Toggle the table of contents
+
+deb (file format)
+
+   [ ] 26 languages
+     * [37]العربية
+     * [38]বাংলা
+     * [39]Català
+     * [40]Čeština
+     * [41]Deutsch
+     * [42]Español
+     * [43]فارسی
+     * [44]Français
+     * [45]한국어
+     * [46]Bahasa Indonesia
+     * [47]Italiano
+     * [48]עברית
+     * [49]Lombard
+     * [50]Bahasa Melayu
+     * [51]日本語
+     * [52]Polski
+     * [53]Português
+     * [54]Română
+     * [55]Русский
+     * [56]Simple English
+     * [57]Slovenčina
+     * [58]Svenska
+     * [59]Türkçe
+     * [60]Українська
+     * [61]Tiếng Việt
+     * [62]中文
+
+   [63]Edit links
+
+     * [64]Article
+     * [65]Talk
+
+   [ ] English
+
+     * [66]Read
+     * [67]Edit
+     * [68]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [69]Read
+     * [70]Edit
+     * [71]View history
+
+   General
+     * [72]What links here
+     * [73]Related changes
+     * [74]Upload file
+     * [75]Special pages
+     * [76]Permanent link
+     * [77]Page information
+     * [78]Cite this page
+     * [79]Get shortened URL
+     * [80]Download QR code
+
+   Print/export
+     * [81]Download as PDF
+     * [82]Printable version
+
+   In other projects
+     * [83]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [84].deb)
+   Debian software package format
+
+   CAPTION: Debian package
+
+   [85][64px-Application-x-deb.svg.png]
+   The [86]GNOME icon for deb files
+   (showing the [87]Debian logo on a package)
+   [88]Filename extension
+   .deb, .udeb
+   [89]Internet media type
+   application/vnd.debian.binary-package^[90][1]
+   Developed by [91]Debian
+   Type of format [92]Package management system
+   [93]Container for [94]Software package
+   Extended from [95]ar archive, [96]tarball
+
+   Website [97]deb format specification
+
+   deb is the format, as well as [98]filename extension of the
+   [99]software package format for the [100]Debian [101]Linux distribution
+   and [102]its derivatives.
+
+Design
+
+   [[103]edit]
+
+   [104][220px-Gdebi.png] GDebi installing a .deb package
+
+   Debian packages are standard [105]Unix [106]ar archives that include
+   two [107]tar archives. One archive holds the control information and
+   another contains the installable data.^[108][2]
+
+   [109]dpkg provides the basic functionality for installing and
+   manipulating Debian packages. Generally end users don't manage packages
+   directly with [110]dpkg but instead use the [111]APT package management
+   software or other [112]APT front-ends such as [113]aptitude
+   ([114]nCurses) and [115]synaptic ([116]GTK).^[117][3]
+
+   Debian packages can be converted into other package formats and vice
+   versa using [118]alien, and created from source code using
+   [119]checkinstall or the Debian Package Maker.^[120][4]
+
+   Some core Debian packages are available as udebs ("micro debs"), and
+   are typically used only for bootstrapping a Debian installation.
+   Although these files use the udeb filename extension, they adhere to
+   the same structure specification as ordinary deb files. However, unlike
+   their deb counterparts, udeb packages contain only essential functional
+   files.^[121][5] In particular, documentation files are normally
+   omitted. udeb packages are not installable on a standard Debian system,
+   but are used in [122]Debian-Installer.
+
+Implementation
+
+   [[123]edit]
+
+   [124][220px-Deb_File_Structure.svg.png] Diagram showing an example file
+   structure of a .deb file[125]
+   [220px-Frhed_hex_editor_displaying_deb_package.png] [126]Frhed hex
+   editor displaying the raw data of a Debian package
+
+   Prior to Debian 0.93, a package consisted of a file header and two
+   concatenated [127]gzip archives.^[128][6] Since Debian 0.93, a deb
+   package is implemented as an [129]ar archive.^[130][7] This archive
+   contains three files in a specific order:^[131][8]^[132][9]
+    1. debian-binary - A text file named debian-binary containing a single
+       line giving the package format version number. (2.0 for current
+       versions of Debian).^[133][9]
+    2. control archive - A tar archive named control.tar contains the
+       maintainer scripts and the package meta-information (package name,
+       version, dependencies and maintainer). Compressing the archive with
+       [134]gzip or [135]xz and [136]zstd is supported. The file extension
+       changes to indicate the compression method.^[137][9]^[138][2]
+    3. data archive - A tar archive named data.tar contains the actual
+       installable files. Compressing the archive with [139]gzip,
+       [140]bzip2, [141]lzma or [142]xz and [143]zstd is supported. The
+       file extension changes to indicate the compression
+       method.^[144][9]^[145][2]
+
+Control archive
+
+   [[146]edit]
+
+   The control archive contents can include the following files:
+     * control contains a brief description of the package as well as
+       other information such as its
+       dependencies.^[147][10]^[148][11]^[149][12]^[150][13]
+     * md5sums contains [151]MD5 [152]checksums of all files in the
+       package in order to detect corrupt or incomplete files.^[153][14]
+     * conffiles lists the files of the package that should be treated as
+       configuration files. Configuration files are not overwritten during
+       an update unless specified.^[154][15]
+     * preinst, postinst, prerm and postrm are optional scripts that are
+       executed before or after installing or removing the
+       package.^[155][15]^[156][16]
+     * config is an optional script that supports the [157]debconf
+       configuration mechanism.^[158][17]
+     * shlibs list of shared library dependencies.^[159][18]^[160][19]
+
+Signed packages
+
+   [[161]edit]
+
+   Debian-based distributions support [162]OpenPGP signature verification
+   of signed Debian packages, but most (if not all) have this feature
+   disabled by default.^[163][20] Instead packages are verified by signing
+   the repository metadata (i.e. Release files). The metadata files in
+   turn include checksums for the repository files as a means to verify
+   authenticity of the files.^[164][21]^[165][22] Currently there are two
+   different implementations for signing individual packages. The first is
+   done via the debsigs / debsig-verify toolset, which is supported by
+   [166]dpkg.^[167][20]^[168][23] The second is done through the dpkg-sig
+   program which is not supported by [169]dpkg, so the packages have to be
+   manually checked with the dpkg-sig
+   program.^[170][20]^[171][24]^[172][25]^[173][26] Both formats add new
+   sections to the [174]ar archive to store the signature information, but
+   the formats are not compatible with one another.^[175][20] Neither of
+   the modifications to the package format are listed in the official
+   Debian handbook or [176]man page about the binary package
+   format.^[177][27]^[178][8]
+
+Adoption
+
+   [[179]edit]
+
+     * Debian packages are used in distributions [180]based on Debian,
+       such as, [181]Linux Mint (LMDE),^[182][28]^[183][29] [184]KDE neon,
+       [185]Ubuntu and [186]many others.
+     * [187]Fink, a port of [188]dpkg and [189]APT to [190]macOS, uses deb
+       packages.^[191][30]^[192][31]
+     * [193]Nexenta OS, a discontinued OS based on [194]OpenSolaris,
+       included Debian package management software and the use of deb
+       packages.
+     * [195]Debian GNU/kFreeBSD, an OS that uses a GNU based [196]userland
+       and the FreeBSD kernel.
+     * [197]Debian GNU/Hurd.
+     * Some [198]jailbroken iOS devices (iPhones, iPads and
+       iPods).^[199][32]^[200][33]
+     * [201]Ipkg and [202]Opkg, which both use .ipk packages that resemble
+       [203]Debian's [204]dpkg
+
+     * [205]Termux, which is a [206]GNU environment for [207]Android.
+
+See also
+
+   [[208]edit]
+
+     * [209]List of archive formats
+     * [210]dpkg
+     * [211]wpkg
+     * [212]CheckInstall
+     * [213]List of software package management systems
+
+References
+
+   [[214]edit]
+
+    1. [215]^ [216]"Media Type Registration for
+       vnd.debian.binary-package". [217]Internet Assigned Numbers
+       Authority. Retrieved 21 May 2014.
+    2. ^ [218]^a [219]^b [220]^c Raphaël Hertzog (17 Sep 2010). [221]"How
+       to create Debian packages with alternative compression methods".
+       raphaelhertzog.com. Retrieved 26 Aug 2016.
+    3. [222]^ [223]"Debian Courses/Maintaining Packages/Packages
+       Management". debian.org. 31 Oct 2010. Retrieved 26 Aug 2016.
+    4. [224]^ [225]"Overview of Debian Maintainer Tools / Alien".
+       debian.org. n.d. Retrieved 26 Aug 2016.
+    5. [226]^ [227]"Chapter 3. D-I components or udebs". debian.org. n.d.
+       Archived from [228]the original on 3 December 2011. Retrieved 26
+       Aug 2016.
+    6. [229]^ [230]"deb-old(5) man page: Debian old binary package
+       format". manpages.debian.org. Retrieved 2017-04-23.
+    7. [231]^ Lucas Nussbaum (16 Oct 2014). [232]"Debian Packaging
+       Tutorial" (PDF). debian.org. Retrieved 26 Aug 2016.
+    8. ^ [233]^a [234]^b [235]"deb(5) man page: Debian binary package
+       format". manpages.debian.org. Retrieved 2017-04-23.
+    9. ^ [236]^a [237]^b [238]^c [239]^d [240]"Debian Binary Package
+       Building HOWTO/3. Package Structure". tldp.org. n.d. Retrieved 26
+       Aug 2016.
+   10. [241]^ [242]"deb-control(5) man page: Debian packages' master
+       control file format". manpages.debian.org. Retrieved 2017-04-23.
+   11. [243]^ [244]"Debian Policy Manual Chapter 5 - Control files and
+       their fields". debian.org. 30 Mar 2016. Retrieved 26 Aug 2016.
+   12. [245]^ Josip Rodin and Osamu Aoki (9 Jun 2015). [246]"Debian New
+       Maintainers' Guide - Ch4 Required files under the debian
+       directory". debian.org. Retrieved 26 Aug 2016.
+   13. [247]^ [248]"Debian Policy Manual Ch7 - Declaring relationships
+       between packages". debian.org. 30 Mar 2016. Retrieved 26 Aug 2016.
+   14. [249]^ [250]"The Debian Administrator's Handbook - Package
+       Meta-Information". debian-handbook.info. n.d. Retrieved 26 Aug
+       2016.
+   15. ^ [251]^a [252]^b [253]"Chapter 7. Basics of the Debian package
+       management system". debian.org. 12 August 2019. Retrieved 27 May
+       2021.
+   16. [254]^ [255]"Debian Maintainer Scripts". debian.org. 11 Oct 2012.
+       Retrieved 26 Aug 2016.
+   17. [256]^ Joey Hess (n.d.). [257]"The Debconf Programmer's Tutorial -
+       The Config Script". fifi.org. Retrieved 26 Aug 2016.
+   18. [258]^ [259]"dpkg-shlibdeps(1) man page". manpages.debian.org.
+       Retrieved 2017-04-23.
+   19. [260]^ [261]"Debian Policy - 8.6 Dependencies between the library
+       and other packages". debian.org. 30 Mar 2016. Retrieved 26 Aug
+       2016.
+   20. ^ [262]^a [263]^b [264]^c [265]^d Joe Damato (28 Oct 2014).
+       [266]"HOWTO: GPG sign and verify deb packages and APT
+       repositories". packagecloud.io. Retrieved 26 Aug 2016.
+   21. [267]^ [268]"APT repository internals". packagecloud.io. 4 Aug
+       2015. Retrieved 26 Aug 2016.
+   22. [269]^ [270]"SecureApt - All about secure apt". debian.org. 22 Sep
+       2015. Retrieved 26 Aug 2016.
+   23. [271]^ [272]"debsig-verify(1) man page". manpages.debian.org.
+       Retrieved 2017-04-23.
+   24. [273]^ [274]"debsigs(1) man page". manpages.debian.org. Retrieved
+       2017-04-23.
+   25. [275]^ Andreas Barth (29 Dec 2003). [276]"Integrating signatures
+       into Debian archive files". turmzimmer.net. Archived from the
+       original on 2006-02-22. Retrieved 29 Dec 2003.{{[277]cite web}}:
+       CS1 maint: bot: original URL status unknown ([278]link)
+   26. [279]^ [280]"policy for debsigs". turmzimmer.net. 1 Feb 2004.
+       Archived from the original on 2006-07-14. Retrieved 1 Feb
+       2004.{{[281]cite web}}: CS1 maint: bot: original URL status unknown
+       ([282]link)
+   27. [283]^ [284]"The Debian Administrator's Handbook - Ch5. Packaging
+       System: Tools and Fundamental Principles". debian.org. n.d.
+       Retrieved 26 Aug 2016.
+   28. [285]^ Kumar, Sarvottam (2020-07-03). [286]"Linux Mint 20 "Ulyana"
+       Review: The Most Complete OS For Everyone". Fossbytes.
+       [287]Archived from the original on 2024-05-15. Retrieved
+       2024-05-15.
+   29. [288]^ Saive, Ravi (2022-12-12). [289]"3 Ways to Install Deb
+       Packages in Ubuntu, Mint & Debian". www.ubuntumint.com.
+       [290]Archived from the original on 2024-05-15. Retrieved
+       2024-05-15.
+   30. [291]^ [292]"Fink FAQ - General Questions". finkproject.org. 6 Jun
+       2015. Retrieved 26 Aug 2016.
+   31. [293]^ [294]"Fink FAQ - Installing, Using and Maintaining Fink".
+       finkproject.org. 6 Jun 2015. Retrieved 26 Aug 2016.
+   32. [295]^ Jay Freeman (n.d.). [296]"Bringing Debian APT to the
+       iPhone". saurik.com. Retrieved 26 Aug 2016.
+   33. [297]^ Erica Sadun (28 Feb 2008). [298]"Debian-style installation
+       arrives on iPhone". engadget.com. Retrieved 26 Aug 2016.
+
+External links
+
+   [[299]edit]
+
+     * [300]Debian FAQ: Basics of the Debian package management system
+     * [301]Debreate - A powerful Debian Package Builder
+     * [302].deb feature support
+     * [303]Manipulating debs directly with standard utilities
+     * [304]Anatomy of a Debian package video
+
+     * [305]v
+     * [306]t
+     * [307]e
+
+   [308]Debian
+
+   [309]Software in the Public Interest
+
+   General
+
+     * [310]DebConf
+     * [311]Debian Free Software Guidelines
+     * [312]Debian Social Contract
+     * [313]Project leaders
+     * [314]Releases
+
+   [315]Debian OpenLogo
+
+   People
+
+     * [316]Bdale Garbee
+     * [317]Benjamin Mako Hill
+     * [318]Sam Hocevar
+     * [319]Ian Jackson
+     * [320]Martin Michlmayr
+     * [321]Ian Murdock
+     * [322]Jonathan Oxer
+     * [323]Bruce Perens
+     * [324]Scott James Remnant
+     * [325]Stefano Zacchiroli
+
+   Derivatives
+
+   Kernels
+     * [326]Debian GNU/Hurd
+     * [327]Debian GNU/kFreeBSD
+     * [328]Debian Pure Blend
+
+   Forks
+     * [329]Devuan
+     * [330]Linux Mint Debian Edition
+     * [331]Ubuntu
+
+   Software
+
+     * [332]APT
+     * [333]aptitude
+     * [334]Debbugs
+     * [335]debconf
+     * [336]Debian-Installer
+     * [337]dpkg (deb)
+     * [338]win32-loader
+
+   Others
+
+   [339]Debian–Mozilla trademark dispute
+
+     * [340]icon [341]Linux portal
+     * [342]Free and open-source software portal
+     * [343]Category
+     * [344]Commons
+     * [345]Wikiversity
+
+     * [346]v
+     * [347]t
+     * [348]e
+
+   [349]Archive formats
+
+   Archiving only
+
+     * [350]ar
+     * [351]cpio
+     * [352]shar
+     * [353]tar
+     * [354]LBR
+     * [355]WAD
+     * [356]WARC
+
+   Compression only
+
+     * [357]Brotli
+     * [358]bzip2
+     * [359]compress
+     * [360]gzip
+     * [361]Zopfli
+     * [362]LZMA
+     * [363]LZ4
+     * [364]lzip
+     * [365]lzop
+     * [366]SQ
+     * [367]xz
+     * [368]Zstandard
+
+   Archiving and compression
+
+     * [369]7z
+     * [370]ACE
+     * [371]ARC
+     * [372]ARJ
+     * [373]B1
+     * [374]Cabinet
+     * [375]cfs
+     * [376]cpt
+     * [377]dar
+     * DGCA
+     * [378].dmg
+     * [379].egg
+     * [380]kgb
+     * [381]LHA
+     * [382]lrzip
+     * [383]LZX
+     * [384]MPQ
+     * [385]PEA
+     * [386]RAR
+     * [387]rzip
+     * [388]sit
+          + [389]sitx
+     * SQX
+     * [390]UDA
+     * [391]Xar
+     * [392]zoo
+     * [393]ZIP
+     * [394]ZPAQ
+
+   [395]Software packaging and distribution
+
+     * [396]apk
+     * [397]App
+     * [398]APPX
+     * deb
+     * [399]HAP
+     * [400]ipa
+     * [401]JAR
+          + [402]WAR
+          + [403]Java RAR
+          + [404]EAR
+     * [405]MSI
+     * [406]MSIX
+     * [407]Package (macOS)
+     * [408]RPM
+     * [409]XAP
+     * [410]XBAP
+
+   Document packaging and distribution
+
+     * [411]OEB Package Format
+     * [412]OEBPS Container Format
+     * [413]Open Packaging Conventions
+     * [414]PAQ
+
+     * [415]Comparison
+     * [416]List
+     * [417]Category
+
+     * [418]v
+     * [419]t
+     * [420]e
+
+   [421]Package managers ([422]format)
+
+   [423]Compiled
+   [424]Embedded OS
+     * [425]ipkg
+     * [426]opkg
+
+   [427]Gaming console
+     * [428]DSi Shop
+     * [429]Nintendo eShop
+     * [430]PlayStation Store
+     * [431]Wii Shop Channel
+     * [432]Xbox Games Store
+
+   [433]Linux
+   [434]Unix-like
+   [435]dpkg
+     * [436]APT
+     * [437]aptitude
+     * [438]dselect
+     * [439]Synaptic
+     * [440]Ubuntu Software Center
+
+   [441]Purely functional
+     * [442]Nix
+     * [443]Guix
+
+   [444]RPM
+     * [445]YUM
+     * [446]DNF
+     * [447]APT-RPM
+     * [448]up2date
+     * [449]urpmi
+     * [450]ZYpp
+
+   [451]tarball
+     * [452]slapt-get
+     * [453]slackpkg
+     * [454]netpkg
+     * [455]swaret
+
+   Other
+     * [456]AppImage
+     * [457]Autopackage
+     * [458]Flatpak
+     * [459]Homebrew
+     * [460]Horizon Store
+     * [461]PackageKit
+     * [462]pacman
+     * [463]PBI
+     * [464]PETget
+     * [465]PISI
+     * [466]Portage
+     * [467]Snap
+     * [468]Upkg
+     * [469]pkgsrc
+     * [470]Helm
+
+   [471]macOS
+     * [472]Mac App Store
+     * [473]Homebrew
+     * [474]pkgsrc
+     * [475]Munki
+
+   [476]z/OS
+     * [477]SMP/E
+
+   [478]Mobile OS
+     * [479]Amazon Appstore
+     * [480]App Store
+     * [481]Aptoide
+     * [482]Cafe Bazaar
+     * [483]Cydia
+     * [484]F-Droid
+     * [485]GetJar
+     * [486]Google Play
+     * [487]Huawei AppGallery
+     * [488]Microsoft Store
+     * [489]RPM
+     * [490]SlideME
+     * [491]Windows Phone Store
+
+   [492]Multi-platform
+     * [493]OpenPKG
+     * [494]pkgsrc
+
+   [495]Solaris • [496]illumos
+     * [497]IPS
+     * [498]OpenCSW
+     * [499]pkgsrc
+
+   [500]Web browsers
+     * [501]Chrome Web Store
+     * [502]Mozilla Add-ons
+
+   [503]Windows
+     * [504]Allmyapps
+     * [505]Cygwin
+     * [506]Microsoft Store
+     * [507]Npackd
+     * [508]NSIS
+     * [509]NuGet
+     * [510]Chocolatey
+     * [511]ProGet
+     * [512]Scoop
+     * [513]Windows Package Manager
+     * [514]wpkg
+
+   [515]Uncompiled
+   [516]BSD
+     * [517]ports collection
+     * [518]FreeBSD Ports
+     * [519]pkgsrc
+
+      [520]C++
+     * [521]Gradle
+     * [522]vcpkg
+
+   [523]Java
+     * [524]Maven
+     * [525]Ivy
+     * [526]Gradle
+
+   [527]JavaScript
+     * [528]npm
+
+   [529]Kubernetes
+     * [530]Helm
+
+   [531]Linux
+     * [532]ABS
+     * [533]apt-build
+     * [534]Compile
+     * [535]Portage
+     * [536]Sorcery
+     * [537]BitBake
+     * [538]pkgsrc
+
+   [539]macOS
+     * [540]Fink
+     * [541]MacPorts
+     * [542]pkgsrc
+
+      [543].NET
+     * [544]NuGet
+
+      [545]Perl
+     * [546]CPAN
+
+      [547]PHP
+     * [548]PEAR
+     * [549]Composer
+
+   [550]Python
+     * [551]PyPI
+     * [552]pip
+     * PyPM
+     * [553]Anaconda
+     * [554]Enthought Canopy
+
+      [555]Ruby
+     * [556]RubyGems
+
+      [557]Rust
+     * [558]Cargo
+
+     [559]Scala
+     * [560]sbt
+
+     * [561]List
+     * [562]Category
+     * [563]Commons
+
+   Retrieved from
+   "[564]https://en.wikipedia.org/w/index.php?title=Deb_(file_format)&oldi
+   d=1244161499"
+
+   [565]Categories:
+     * [566]Archive formats
+     * [567]Debian
+     * [568]Dpkg
+     * [569]Filename extensions
+     * [570]Ubuntu
+
+   Hidden categories:
+     * [571]CS1 maint: bot: original URL status unknown
+     * [572]Articles with short description
+     * [573]Short description matches Wikidata
+
+     * This page was last edited on 5 September 2024, at 12:08 (UTC).
+     * Text is available under the [574]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [575]Terms of Use and
+       [576]Privacy Policy. Wikipedia® is a registered trademark of the
+       [577]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [578]Privacy policy
+     * [579]About Wikipedia
+     * [580]Disclaimers
+     * [581]Contact Wikipedia
+     * [582]Code of Conduct
+     * [583]Developers
+     * [584]Statistics
+     * [585]Cookie statement
+     * [586]Mobile view
+
+     * [587]Wikimedia Foundation
+     * [588]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/Deb_(file_format)
+   2. file:///w/index.php?title=Deb_(file_format)&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Deb+(file+format)
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Deb+(file+format)
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Deb+(file+format)
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Deb+(file+format)
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html
+  29. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#Design
+  30. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#Implementation
+  31. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#Control_archive
+  32. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#Signed_packages
+  33. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#Adoption
+  34. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#See_also
+  35. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#References
+  36. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#External_links
+  37. https://ar.wikipedia.org/wiki/ديب
+  38. https://bn.wikipedia.org/wiki/ডেব_(ফাইল_ফরম্যাট)
+  39. https://ca.wikipedia.org/wiki/DEB
+  40. https://cs.wikipedia.org/wiki/Deb_(souborový_formát)
+  41. https://de.wikipedia.org/wiki/Debian-Paket
+  42. https://es.wikipedia.org/wiki/Deb
+  43. https://fa.wikipedia.org/wiki/Deb_(قالب_پرونده)
+  44. https://fr.wikipedia.org/wiki/Deb
+  45. https://ko.wikipedia.org/wiki/Deb_(파일_형식)
+  46. https://id.wikipedia.org/wiki/Deb_(format_berkas)
+  47. https://it.wikipedia.org/wiki/Deb
+  48. https://he.wikipedia.org/wiki/Deb
+  49. https://lmo.wikipedia.org/wiki/Deb
+  50. https://ms.wikipedia.org/wiki/Deb_(format_fail)
+  51. https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)
+  52. https://pl.wikipedia.org/wiki/Deb
+  53. https://pt.wikipedia.org/wiki/.deb
+  54. https://ro.wikipedia.org/wiki/Deb_(format_de_fișiere)
+  55. https://ru.wikipedia.org/wiki/Deb_(формат_файлов)
+  56. https://simple.wikipedia.org/wiki/Deb_(file_format)
+  57. https://sk.wikipedia.org/wiki/Deb
+  58. https://sv.wikipedia.org/wiki/Deb
+  59. https://tr.wikipedia.org/wiki/Deb
+  60. https://uk.wikipedia.org/wiki/Формат_.deb
+  61. https://vi.wikipedia.org/wiki/Deb
+  62. https://zh.wikipedia.org/wiki/Deb
+  63. https://www.wikidata.org/wiki/Special:EntityPage/Q305976#sitelinks-wikipedia
+  64. file:///wiki/Deb_(file_format)
+  65. file:///wiki/Talk:Deb_(file_format)
+  66. file:///wiki/Deb_(file_format)
+  67. file:///w/index.php?title=Deb_(file_format)&action=edit
+  68. file:///w/index.php?title=Deb_(file_format)&action=history
+  69. file:///wiki/Deb_(file_format)
+  70. file:///w/index.php?title=Deb_(file_format)&action=edit
+  71. file:///w/index.php?title=Deb_(file_format)&action=history
+  72. file:///wiki/Special:WhatLinksHere/Deb_(file_format)
+  73. file:///wiki/Special:RecentChangesLinked/Deb_(file_format)
+  74. file:///wiki/Wikipedia:File_Upload_Wizard
+  75. file:///wiki/Special:SpecialPages
+  76. file:///w/index.php?title=Deb_(file_format)&oldid=1244161499
+  77. file:///w/index.php?title=Deb_(file_format)&action=info
+  78. file:///w/index.php?title=Special:CiteThisPage&page=Deb_(file_format)&id=1244161499&wpFormIdentifier=titleform
+  79. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/Deb_(file_format)
+  80. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/Deb_(file_format)
+  81. file:///w/index.php?title=Special:DownloadAsPdf&page=Deb_(file_format)&action=show-download-screen
+  82. file:///w/index.php?title=Deb_(file_format)&printable=yes
+  83. https://www.wikidata.org/wiki/Special:EntityPage/Q305976
+  84. file:///w/index.php?title=.deb&redirect=no
+  85. file:///wiki/File:Application-x-deb.svg
+  86. file:///wiki/GNOME
+  87. file:///wiki/Debian
+  88. file:///wiki/Filename_extension
+  89. file:///wiki/Media_type
+  90. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-1
+  91. file:///wiki/Debian
+  92. file:///wiki/Package_management_system
+  93. file:///wiki/Container_format
+  94. file:///wiki/Software_package_(installation)
+  95. file:///wiki/Ar_(Unix)
+  96. file:///wiki/Tar_(file_format)
+  97. https://manpages.debian.org/unstable/deb.5
+  98. file:///wiki/Filename_extension
+  99. file:///wiki/Package_manager
+ 100. file:///wiki/Debian
+ 101. file:///wiki/Linux_distribution
+ 102. file:///wiki/List_of_Linux_distributions#Debian-based
+ 103. file:///w/index.php?title=Deb_(file_format)&action=edit&section=1
+ 104. file:///wiki/File:Gdebi.png
+ 105. file:///wiki/Unix
+ 106. file:///wiki/Ar_(Unix)
+ 107. file:///wiki/Tar_(computing)
+ 108. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-rh20100917-2
+ 109. file:///wiki/Dpkg
+ 110. file:///wiki/Dpkg
+ 111. file:///wiki/APT_(Package_Manager)
+ 112. file:///wiki/APT_(Package_Manager)#Front-ends
+ 113. file:///wiki/Aptitude_(software)
+ 114. file:///wiki/NCurses
+ 115. file:///wiki/Synaptic_(software)
+ 116. file:///wiki/GTK
+ 117. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-3
+ 118. file:///wiki/Alien_(file_converter)
+ 119. file:///wiki/Checkinstall
+ 120. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-4
+ 121. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-5
+ 122. file:///wiki/Debian-Installer
+ 123. file:///w/index.php?title=Deb_(file_format)&action=edit&section=2
+ 124. file:///wiki/File:Deb_File_Structure.svg
+ 125. file:///wiki/File:Frhed_hex_editor_displaying_deb_package.png
+ 126. file:///w/index.php?title=Frhed&action=edit&redlink=1
+ 127. file:///wiki/Gzip
+ 128. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-6
+ 129. file:///wiki/Ar_(Unix)
+ 130. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-7
+ 131. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-manpagedeb5-8
+ 132. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-tldp001-9
+ 133. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-tldp001-9
+ 134. file:///wiki/Gzip
+ 135. file:///wiki/XZ_Utils
+ 136. file:///wiki/Zstd
+ 137. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-tldp001-9
+ 138. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-rh20100917-2
+ 139. file:///wiki/Gzip
+ 140. file:///wiki/Bzip2
+ 141. file:///wiki/Lzma
+ 142. file:///wiki/XZ_Utils
+ 143. file:///wiki/Zstd
+ 144. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-tldp001-9
+ 145. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-rh20100917-2
+ 146. file:///w/index.php?title=Deb_(file_format)&action=edit&section=3
+ 147. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-10
+ 148. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-11
+ 149. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-12
+ 150. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-13
+ 151. file:///wiki/MD5
+ 152. file:///wiki/Checksum
+ 153. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-14
+ 154. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-debian-faq-7-15
+ 155. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-debian-faq-7-15
+ 156. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-16
+ 157. file:///wiki/Debconf_(software_package)
+ 158. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-17
+ 159. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-18
+ 160. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-19
+ 161. file:///w/index.php?title=Deb_(file_format)&action=edit&section=4
+ 162. file:///wiki/OpenPGP
+ 163. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-packagecloud20141028-20
+ 164. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-21
+ 165. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-22
+ 166. file:///wiki/Dpkg
+ 167. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-packagecloud20141028-20
+ 168. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-23
+ 169. file:///wiki/Dpkg
+ 170. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-packagecloud20141028-20
+ 171. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-24
+ 172. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-25
+ 173. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-26
+ 174. file:///wiki/Ar_(Unix)
+ 175. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-packagecloud20141028-20
+ 176. file:///wiki/Man_page
+ 177. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-27
+ 178. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-manpagedeb5-8
+ 179. file:///w/index.php?title=Deb_(file_format)&action=edit&section=5
+ 180. file:///wiki/List_of_Linux_distributions#Debian-based
+ 181. file:///wiki/Linux_Mint
+ 182. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-28
+ 183. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-29
+ 184. file:///wiki/KDE_neon
+ 185. file:///wiki/Ubuntu_(operating_system)
+ 186. file:///wiki/List_of_Linux_distributions#Debian-based
+ 187. file:///wiki/Fink_(software)
+ 188. file:///wiki/Dpkg
+ 189. file:///wiki/Advanced_Packaging_Tool
+ 190. file:///wiki/MacOS
+ 191. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-30
+ 192. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-31
+ 193. file:///wiki/Nexenta_OS
+ 194. file:///wiki/OpenSolaris
+ 195. file:///wiki/Debian_GNU/kFreeBSD
+ 196. file:///wiki/User_space
+ 197. file:///wiki/Debian_GNU/Hurd
+ 198. file:///wiki/IOS_jailbreaking
+ 199. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-32
+ 200. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_note-33
+ 201. file:///wiki/Ipkg
+ 202. file:///wiki/Opkg
+ 203. file:///wiki/Debian
+ 204. file:///wiki/Dpkg
+ 205. file:///wiki/Termux
+ 206. file:///wiki/GNU
+ 207. file:///wiki/Android_(operating_system)
+ 208. file:///w/index.php?title=Deb_(file_format)&action=edit&section=6
+ 209. file:///wiki/List_of_archive_formats
+ 210. file:///wiki/Dpkg
+ 211. file:///wiki/Wpkg
+ 212. file:///wiki/CheckInstall
+ 213. file:///wiki/List_of_software_package_management_systems
+ 214. file:///w/index.php?title=Deb_(file_format)&action=edit&section=7
+ 215. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-1
+ 216. https://www.iana.org/assignments/media-types/application/vnd.debian.binary-package
+ 217. file:///wiki/Internet_Assigned_Numbers_Authority
+ 218. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-rh20100917_2-0
+ 219. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-rh20100917_2-1
+ 220. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-rh20100917_2-2
+ 221. https://raphaelhertzog.com/2010/09/17/how-to-create-debian-packages-with-alternative-compression-methods/
+ 222. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-3
+ 223. https://wiki.debian.org/Courses/MaintainingPackages/Packages/Management
+ 224. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-4
+ 225. https://www.debian.org/doc/manuals/developers-reference/apa.en.html#alien
+ 226. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-5
+ 227. https://web.archive.org/web/20111203083145/http://d-i.alioth.debian.org/doc/internals/ch03.html
+ 228. http://d-i.alioth.debian.org/doc/internals/ch03.html
+ 229. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-6
+ 230. https://manpages.debian.org/unstable/deb-old.5
+ 231. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-7
+ 232. https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.en.pdf#page=7
+ 233. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-manpagedeb5_8-0
+ 234. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-manpagedeb5_8-1
+ 235. https://manpages.debian.org/unstable/deb.5
+ 236. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-tldp001_9-0
+ 237. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-tldp001_9-1
+ 238. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-tldp001_9-2
+ 239. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-tldp001_9-3
+ 240. https://www.tldp.org/HOWTO/Debian-Binary-Package-Building-HOWTO/x60.html
+ 241. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-10
+ 242. https://manpages.debian.org/unstable/deb-control.5
+ 243. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-11
+ 244. https://www.debian.org/doc/debian-policy/ch-controlfields.html#s-binarycontrolfiles
+ 245. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-12
+ 246. https://www.debian.org/doc/manuals/maint-guide/dreq.en.html#control
+ 247. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-13
+ 248. https://www.debian.org/doc/debian-policy/ch-relationships.html#s-binarydeps
+ 249. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-14
+ 250. https://debian-handbook.info/browse/stable/sect.package-meta-information.html
+ 251. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-debian-faq-7_15-0
+ 252. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-debian-faq-7_15-1
+ 253. https://www.debian.org/doc/manuals/debian-faq/pkg-basics.en.html
+ 254. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-16
+ 255. https://wiki.debian.org/MaintainerScripts
+ 256. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-17
+ 257. https://www.fifi.org/doc/debconf-doc/tutorial.html#AEN113
+ 258. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-18
+ 259. https://manpages.debian.org/unstable/dpkg-shlibdeps.1
+ 260. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-19
+ 261. https://www.debian.org/doc/debian-policy/ch-sharedlibs.html#s-sharedlibs-depends
+ 262. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-packagecloud20141028_20-0
+ 263. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-packagecloud20141028_20-1
+ 264. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-packagecloud20141028_20-2
+ 265. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-packagecloud20141028_20-3
+ 266. https://blog.packagecloud.io/eng/2014/10/28/howto-gpg-sign-verify-deb-packages-apt-repositories/
+ 267. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-21
+ 268. https://blog.packagecloud.io/eng/2015/08/04/apt-repository-internals/
+ 269. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-22
+ 270. https://wiki.debian.org/SecureApt
+ 271. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-23
+ 272. https://manpages.debian.org/unstable/debsig-verify.1
+ 273. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-24
+ 274. https://manpages.debian.org/unstable/debsigs.1
+ 275. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-25
+ 276. https://web.archive.org/web/20060222013602/http://dpkg-sig.turmzimmer.net/
+ 277. file:///wiki/Template:Cite_web
+ 278. file:///wiki/Category:CS1_maint:_bot:_original_URL_status_unknown
+ 279. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-26
+ 280. https://web.archive.org/web/20060714233154/http://dpkg-sig.turmzimmer.net/policy.html
+ 281. file:///wiki/Template:Cite_web
+ 282. file:///wiki/Category:CS1_maint:_bot:_original_URL_status_unknown
+ 283. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-27
+ 284. https://www.debian.org/doc/manuals/debian-handbook/packaging-system.en.html
+ 285. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-28
+ 286. https://fossbytes.com/linux-mint-20-ulyana-review/
+ 287. https://archive.today/20240515203221/https://fossbytes.com/linux-mint-20-ulyana-review/
+ 288. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-29
+ 289. https://www.ubuntumint.com/install-deb-files-ubuntu-mint-debian/
+ 290. https://archive.today/20240515203108/https://www.ubuntumint.com/install-deb-files-ubuntu-mint-debian/
+ 291. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-30
+ 292. https://www.finkproject.org/faq/general.php
+ 293. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-31
+ 294. https://www.finkproject.org/faq/usage-fink.php
+ 295. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-32
+ 296. https://www.saurik.com/id/1
+ 297. file:///tmp/lynxXXXXwpoDfR/L56154-9595TMP.html#cite_ref-33
+ 298. https://www.engadget.com/2008/02/28/debian-style-installation-arrives-on-iphone/
+ 299. file:///w/index.php?title=Deb_(file_format)&action=edit&section=8
+ 300. https://www.debian.org/doc/manuals/debian-faq/pkg-basics.en.html
+ 301. https://antumdeluge.github.io/debreate-web/
+ 302. https://wiki.debian.org/Teams/Dpkg/DebSupport
+ 303. https://web.archive.org/web/20160307164024/https://lists.debian.org/debian-user/2001/07/msg00645.html
+ 304. https://www.youtube.com/watch?v=lFzPrzY2KFM&v3
+ 305. file:///wiki/Template:Debian
+ 306. file:///wiki/Template_talk:Debian
+ 307. file:///wiki/Special:EditPage/Template:Debian
+ 308. file:///wiki/Debian
+ 309. file:///wiki/Software_in_the_Public_Interest
+ 310. file:///wiki/Debian_Conference
+ 311. file:///wiki/Debian_Free_Software_Guidelines
+ 312. file:///wiki/Debian_Social_Contract
+ 313. file:///wiki/List_of_Debian_project_leaders
+ 314. file:///wiki/Debian_version_history
+ 315. file:///wiki/File:Openlogo-debianV2.svg
+ 316. file:///wiki/Bdale_Garbee
+ 317. file:///wiki/Benjamin_Mako_Hill
+ 318. file:///wiki/Sam_Hocevar
+ 319. file:///wiki/Ian_Jackson
+ 320. file:///wiki/Martin_Michlmayr
+ 321. file:///wiki/Ian_Murdock
+ 322. file:///wiki/Jonathan_Oxer
+ 323. file:///wiki/Bruce_Perens
+ 324. file:///wiki/Scott_James_Remnant
+ 325. file:///wiki/Stefano_Zacchiroli
+ 326. file:///wiki/Debian_GNU/Hurd
+ 327. file:///wiki/Debian_GNU/kFreeBSD
+ 328. file:///wiki/Debian_Pure_Blend
+ 329. file:///wiki/Devuan
+ 330. file:///wiki/Linux_Mint
+ 331. file:///wiki/Ubuntu
+ 332. file:///wiki/APT_(software)
+ 333. file:///wiki/Aptitude_(software)
+ 334. file:///wiki/Debbugs
+ 335. file:///wiki/Debian_configuration_system
+ 336. file:///wiki/Debian-Installer
+ 337. file:///wiki/Dpkg
+ 338. file:///wiki/Win32-loader
+ 339. file:///wiki/Debian–Mozilla_trademark_dispute
+ 340. file:///wiki/File:NewTux.svg
+ 341. file:///wiki/Portal:Linux
+ 342. file:///wiki/Portal:Free_and_open-source_software
+ 343. file:///wiki/Category:Debian
+ 344. https://commons.wikimedia.org/wiki/Debian
+ 345. https://en.wikiversity.org/wiki/Debian
+ 346. file:///wiki/Template:Archive_formats
+ 347. file:///wiki/Template_talk:Archive_formats
+ 348. file:///wiki/Special:EditPage/Template:Archive_formats
+ 349. file:///wiki/Archive_format
+ 350. file:///wiki/Ar_(Unix)
+ 351. file:///wiki/Cpio
+ 352. file:///wiki/Shar_(file_format)
+ 353. file:///wiki/Tar_(computing)
+ 354. file:///wiki/LBR_(file_format)
+ 355. file:///wiki/Doom_modding
+ 356. file:///wiki/WARC_(file_format)
+ 357. file:///wiki/Brotli
+ 358. file:///wiki/Bzip2
+ 359. file:///wiki/Compress_(software)
+ 360. file:///wiki/Gzip
+ 361. file:///wiki/Zopfli
+ 362. file:///wiki/Lempel–Ziv–Markov_chain_algorithm
+ 363. file:///wiki/LZ4_(compression_algorithm)
+ 364. file:///wiki/Lzip
+ 365. file:///wiki/Lzop
+ 366. file:///wiki/SQ_(program)
+ 367. file:///wiki/XZ_Utils
+ 368. file:///wiki/Zstd
+ 369. file:///wiki/7z
+ 370. file:///wiki/ACE_(compressed_file_format)
+ 371. file:///wiki/ARC_(file_format)
+ 372. file:///wiki/ARJ
+ 373. file:///wiki/B1_(file_format)
+ 374. file:///wiki/Cabinet_(file_format)
+ 375. file:///wiki/CFS_(file_format)
+ 376. file:///wiki/Compact_Pro
+ 377. file:///wiki/Dar_(disk_archiver)
+ 378. file:///wiki/Apple_Disk_Image
+ 379. file:///wiki/ALZip
+ 380. file:///wiki/KGB_Archiver
+ 381. file:///wiki/LHA_(file_format)
+ 382. file:///wiki/Lrzip
+ 383. file:///wiki/LZX
+ 384. file:///wiki/MPQ_(file_format)
+ 385. file:///wiki/PeaZip#Native_archive_format
+ 386. file:///wiki/RAR_(file_format)
+ 387. file:///wiki/Rzip
+ 388. file:///wiki/StuffIt
+ 389. file:///wiki/StuffIt
+ 390. file:///wiki/PAQ
+ 391. file:///wiki/Xar_(archiver)
+ 392. file:///wiki/Zoo_(file_format)
+ 393. file:///wiki/ZIP_(file_format)
+ 394. file:///wiki/ZPAQ
+ 395. file:///wiki/Package_format
+ 396. file:///wiki/Apk_(file_format)
+ 397. file:///wiki/App_(file_format)
+ 398. file:///wiki/APPX
+ 399. file:///wiki/App_(file_format)
+ 400. file:///wiki/.ipa
+ 401. file:///wiki/JAR_(file_format)
+ 402. file:///wiki/WAR_(file_format)
+ 403. file:///wiki/Java_EE_Connector_Architecture
+ 404. file:///wiki/EAR_(file_format)
+ 405. file:///wiki/Windows_Installer
+ 406. file:///wiki/App_Installer
+ 407. file:///wiki/Package_(macOS)
+ 408. file:///wiki/RPM_Package_Manager
+ 409. file:///wiki/XAP_(file_format)
+ 410. file:///wiki/XAML_Browser_Applications
+ 411. file:///wiki/Open_eBook
+ 412. file:///wiki/EPUB
+ 413. file:///wiki/Open_Packaging_Conventions
+ 414. file:///wiki/PAQ
+ 415. file:///wiki/Comparison_of_archive_formats
+ 416. file:///wiki/List_of_archive_formats
+ 417. file:///wiki/Category:Archive_formats
+ 418. file:///wiki/Template:Package_management_systems
+ 419. file:///wiki/Template_talk:Package_management_systems
+ 420. file:///wiki/Special:EditPage/Template:Package_management_systems
+ 421. file:///wiki/Package_manager
+ 422. file:///wiki/Package_format
+ 423. file:///wiki/Executable
+ 424. file:///wiki/Embedded_operating_system
+ 425. file:///wiki/Ipkg
+ 426. file:///wiki/Opkg
+ 427. file:///wiki/Video_game_console
+ 428. file:///wiki/DSi_Shop
+ 429. file:///wiki/Nintendo_eShop
+ 430. file:///wiki/PlayStation_Store
+ 431. file:///wiki/Wii_Shop_Channel
+ 432. file:///wiki/Xbox_Games_Store
+ 433. file:///wiki/Linux
+ 434. file:///wiki/Unix-like
+ 435. file:///wiki/Dpkg
+ 436. file:///wiki/APT_(software)
+ 437. file:///wiki/Aptitude_(software)
+ 438. file:///wiki/Dselect
+ 439. file:///wiki/Synaptic_(software)
+ 440. file:///wiki/Ubuntu_Software_Center
+ 441. file:///wiki/Purely_functional_programming
+ 442. file:///wiki/Nix_package_manager
+ 443. file:///wiki/GNU_Guix
+ 444. file:///wiki/RPM_Package_Manager
+ 445. file:///wiki/Yum_(software)
+ 446. file:///wiki/DNF_(software)
+ 447. file:///wiki/APT-RPM
+ 448. file:///wiki/Up2date
+ 449. file:///wiki/Urpmi
+ 450. file:///wiki/ZYpp
+ 451. file:///wiki/Tar_(computing)
+ 452. file:///wiki/Slapt-get
+ 453. file:///wiki/Slackpkg
+ 454. file:///wiki/Netpkg
+ 455. file:///wiki/Swaret
+ 456. file:///wiki/AppImage
+ 457. file:///wiki/Autopackage
+ 458. file:///wiki/Flatpak
+ 459. file:///wiki/Homebrew_(package_manager)
+ 460. file:///wiki/Meta_Horizon_Store
+ 461. file:///wiki/PackageKit
+ 462. file:///wiki/Arch_Linux#pacman
+ 463. file:///wiki/TrueOS#Package_management
+ 464. file:///wiki/PETget
+ 465. file:///wiki/PISI
+ 466. file:///wiki/Portage_(software)
+ 467. file:///wiki/Snap_(package_manager)
+ 468. file:///wiki/Upkg
+ 469. file:///wiki/Pkgsrc
+ 470. file:///wiki/Helm_(package_manager)
+ 471. file:///wiki/MacOS
+ 472. file:///wiki/Mac_App_Store
+ 473. file:///wiki/Homebrew_(package_manager)
+ 474. file:///wiki/Pkgsrc
+ 475. file:///wiki/Munki_(software)
+ 476. file:///wiki/Z/OS
+ 477. file:///wiki/SMP/E
+ 478. file:///wiki/Mobile_operating_system
+ 479. file:///wiki/Amazon_Appstore
+ 480. file:///wiki/App_Store_(iOS)
+ 481. file:///wiki/Aptoide
+ 482. file:///wiki/Cafe_Bazaar
+ 483. file:///wiki/Cydia
+ 484. file:///wiki/F-Droid
+ 485. file:///wiki/GetJar
+ 486. file:///wiki/Google_Play
+ 487. file:///wiki/Huawei_AppGallery
+ 488. file:///wiki/Microsoft_Store_(digital)
+ 489. file:///wiki/RPM_Package_Manager
+ 490. file:///wiki/SlideME
+ 491. file:///wiki/Windows_Phone_Store
+ 492. file:///wiki/Cross-platform_software
+ 493. file:///wiki/OpenPKG
+ 494. file:///wiki/Pkgsrc
+ 495. file:///wiki/Solaris_(operating_system)
+ 496. file:///wiki/Illumos
+ 497. file:///wiki/Image_Packaging_System
+ 498. file:///wiki/OpenCSW
+ 499. file:///wiki/Pkgsrc
+ 500. file:///wiki/Web_browser
+ 501. file:///wiki/Chrome_Web_Store
+ 502. file:///wiki/Add-on_(Mozilla)#Website
+ 503. file:///wiki/Microsoft_Windows
+ 504. file:///wiki/Allmyapps
+ 505. file:///wiki/Cygwin
+ 506. file:///wiki/Microsoft_Store
+ 507. file:///wiki/Npackd
+ 508. file:///wiki/Nullsoft_Scriptable_Install_System
+ 509. file:///wiki/NuGet
+ 510. file:///wiki/Chocolatey
+ 511. file:///wiki/ProGet
+ 512. file:///wiki/Scoop_Package_Manager
+ 513. file:///wiki/Windows_Package_Manager
+ 514. file:///wiki/Wpkg
+ 515. file:///wiki/Source_code
+ 516. file:///wiki/Berkeley_Software_Distribution
+ 517. file:///wiki/Ports_collection
+ 518. file:///wiki/FreeBSD_Ports
+ 519. file:///wiki/Pkgsrc
+ 520. file:///wiki/C++
+ 521. file:///wiki/Gradle
+ 522. file:///wiki/Vcpkg
+ 523. file:///wiki/Java_(programming_language)
+ 524. file:///wiki/Apache_Maven
+ 525. file:///wiki/Apache_Ivy
+ 526. file:///wiki/Gradle
+ 527. file:///wiki/JavaScript
+ 528. file:///wiki/Npm_(software)
+ 529. file:///wiki/Kubernetes
+ 530. file:///wiki/Helm_(software)
+ 531. file:///wiki/Linux
+ 532. file:///wiki/Arch_Build_System
+ 533. file:///wiki/Apt-build
+ 534. file:///wiki/GoboLinux#"Compile"_program
+ 535. file:///wiki/Portage_(software)
+ 536. file:///wiki/Source_Mage#Sorcery
+ 537. file:///wiki/BitBake
+ 538. file:///wiki/Pkgsrc
+ 539. file:///wiki/MacOS
+ 540. file:///wiki/Fink_(software)
+ 541. file:///wiki/MacPorts
+ 542. file:///wiki/Pkgsrc
+ 543. file:///wiki/.NET_Framework
+ 544. file:///wiki/NuGet
+ 545. file:///wiki/Perl
+ 546. file:///wiki/CPAN
+ 547. file:///wiki/PHP
+ 548. file:///wiki/PEAR
+ 549. file:///wiki/Composer_(software)
+ 550. file:///wiki/Python_(programming_language)
+ 551. file:///wiki/Python_Package_Index
+ 552. file:///wiki/Pip_(package_manager)
+ 553. file:///wiki/Anaconda_(Python_distribution)
+ 554. file:///wiki/Enthought
+ 555. file:///wiki/Ruby_(programming_language)
+ 556. file:///wiki/RubyGems
+ 557. file:///wiki/Rust_(programming_language)
+ 558. file:///wiki/Cargo_(software)
+ 559. file:///wiki/Scala_(programming_language)
+ 560. file:///wiki/Sbt_(software)
+ 561. file:///wiki/List_of_software_package_management_systems
+ 562. file:///wiki/Category:Package_management_systems
+ 563. https://commons.wikimedia.org/wiki/category:Package_management_systems
+ 564. https://en.wikipedia.org/w/index.php?title=Deb_(file_format)&oldid=1244161499
+ 565. file:///wiki/Help:Category
+ 566. file:///wiki/Category:Archive_formats
+ 567. file:///wiki/Category:Debian
+ 568. file:///wiki/Category:Dpkg
+ 569. file:///wiki/Category:Filename_extensions
+ 570. file:///wiki/Category:Ubuntu
+ 571. file:///wiki/Category:CS1_maint:_bot:_original_URL_status_unknown
+ 572. file:///wiki/Category:Articles_with_short_description
+ 573. file:///wiki/Category:Short_description_matches_Wikidata
+ 574. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 575. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 576. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 577. https://wikimediafoundation.org/
+ 578. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 579. file:///wiki/Wikipedia:About
+ 580. file:///wiki/Wikipedia:General_disclaimer
+ 581. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 582. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 583. https://developer.wikimedia.org/
+ 584. https://stats.wikimedia.org/#/en.wikipedia.org
+ 585. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 586. file://en.m.wikipedia.org/w/index.php?title=Deb_(file_format)&mobileaction=toggle_view_mobile
+ 587. https://wikimediafoundation.org/
+ 588. https://www.mediawiki.org/
+
+   Hidden links:
+ 590. file://localhost/wiki/File:Wikiversity_logo_2017.svg
+ 591. file://localhost/wiki/File:Symbol_na_class.svg

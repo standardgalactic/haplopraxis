@@ -1,0 +1,1294 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 4 dimensions
+     * [30]2 Higher dimensions
+     * [31]3 Generalized orthoplex
+     * [32]4 Related polytope families
+     * [33]5 See also
+     * [34]6 Citations
+     * [35]7 References
+     * [36]8 External links
+
+   [ ] Toggle the table of contents
+
+Cross-polytope
+
+   [ ] 13 languages
+     * [37]Deutsch
+     * [38]Ελληνικά
+     * [39]Español
+     * [40]Esperanto
+     * [41]فارسی
+     * [42]Français
+     * [43]한국어
+     * [44]日本語
+     * [45]Polski
+     * [46]Română
+     * [47]Русский
+     * [48]Українська
+     * [49]中文
+
+   [50]Edit links
+
+     * [51]Article
+     * [52]Talk
+
+   [ ] English
+
+     * [53]Read
+     * [54]Edit
+     * [55]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [56]Read
+     * [57]Edit
+     * [58]View history
+
+   General
+     * [59]What links here
+     * [60]Related changes
+     * [61]Upload file
+     * [62]Special pages
+     * [63]Permanent link
+     * [64]Page information
+     * [65]Cite this page
+     * [66]Get shortened URL
+     * [67]Download QR code
+
+   Print/export
+     * [68]Download as PDF
+     * [69]Printable version
+
+   In other projects
+     * [70]Wikimedia Commons
+     * [71]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [72]11-orthoplex)
+   Regular polytope dual to the hypercube in any number of dimensions
+
+                              CAPTION: Cross-polytopes of dimension 2 to 5
+
+     [73]A 2-dimensional cross-polytope [74]A 3-dimensional cross-polytope
+                                                              2 dimensions
+                                                   [75]square 3 dimensions
+                                                            [76]octahedron
+     [77]A 4-dimensional cross-polytope [78]A 5-dimensional cross-polytope
+                                                              4 dimensions
+                                                  [79]16-cell 5 dimensions
+                                                           [80]5-orthoplex
+
+   In [81]geometry, a cross-polytope,^[82][1] hyperoctahedron,
+   orthoplex,^[83][2] staurotope,^[84][3] or cocube is a [85]regular,
+   [86]convex polytope that exists in n-[87]dimensional Euclidean space. A
+   2-dimensional cross-polytope is a square, a 3-dimensional
+   cross-polytope is a regular [88]octahedron, and a 4-dimensional
+   cross-polytope is a [89]16-cell. Its facets are [90]simplexes of the
+   previous dimension, while the cross-polytope's [91]vertex figure is
+   another cross-polytope from the previous dimension.
+
+   The vertices of a cross-polytope can be chosen as the unit vectors
+   pointing along each co-ordinate axis – i.e. all the permutations of
+   (±1, 0, 0, ..., 0). The cross-polytope is the [92]convex hull of its
+   vertices. The n-dimensional cross-polytope can also be defined as the
+   closed [93]unit ball (or, according to some authors, its boundary) in
+   the [94]ℓ[1]-norm on R^n:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo fence="false"
+          stretchy="false">{</mo> <mi>x</mi> <mo>∈</mo> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msup> <mo>:</mo> <mo fence="false" stretchy="false">‖</mo>
+          <mi>x</mi> <msub> <mo fence="false" stretchy="false">‖</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+          <mo>≤</mo> <mn>1</mn> <mo fence="false" stretchy="false">}</mo>
+          <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \{x\in \mathbb {R}
+          ^{n}:\|x\|_{1}\leq 1\}.}</annotation> </semantics> :MATH]
+          {\displaystyle \{x\in \mathbb {R} ^{n}:\|x\|_{1}\leq 1\}.}
+
+   In 1 dimension the cross-polytope is simply the [95]line segment [−1,
+   +1], in 2 dimensions it is a [96]square (or diamond) with vertices
+   {(±1, 0), (0, ±1)}. In 3 dimensions it is an [97]octahedron—one of the
+   five convex regular [98]polyhedra known as the [99]Platonic solids.
+   This can be generalised to higher dimensions with an n-orthoplex being
+   constructed as a [100]bipyramid with an (n−1)-orthoplex base.
+
+   The cross-polytope is the [101]dual polytope of the [102]hypercube. The
+   1-[103]skeleton of an n-dimensional cross-polytope is the [104]Turán
+   graph T(2n, n) (also known as a cocktail party graph ^[105][4]).
+
+4 dimensions
+
+   [[106]edit]
+
+   The 4-dimensional cross-polytope also goes by the name hexadecachoron
+   or [107]16-cell. It is one of the six [108]convex regular 4-polytopes.
+   These [109]4-polytopes were first described by the Swiss mathematician
+   [110]Ludwig Schläfli in the mid-19th century.
+
+Higher dimensions
+
+   [[111]edit]
+
+   The cross-polytope family is one of three [112]regular polytope
+   families, labeled by [113]Coxeter as β[n], the other two being the
+   [114]hypercube family, labeled as γ[n], and the [115]simplex family,
+   labeled as α[n]. A fourth family, the [116]infinite tessellations of
+   hypercubes, he labeled as δ[n].^[117][5]
+
+   The n-dimensional cross-polytope has 2n vertices, and 2^n facets
+   ((n − 1)-dimensional components) all of which are
+   (n − 1)-[118]simplices. The [119]vertex figures are all
+   (n − 1)-cross-polytopes. The [120]Schläfli symbol of the cross-polytope
+   is {3,3,...,3,4}.
+
+   The [121]dihedral angle of the n-dimensional cross-polytope is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+   <mi>arccos</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mo>−</mo>
+   <mi>n</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \delta _{n}=\arccos
+   \left({\frac {2-n}{n}}\right)}</annotation> </semantics> :MATH]
+   {\displaystyle \delta _{n}=\arccos \left({\frac {2-n}{n}}\right)} .
+   This gives: δ[2] = arccos(0/2) = 90°, δ[3] = arccos(−1/3) = 109.47°,
+   δ[4] = arccos(−2/4) = 120°, δ[5] = arccos(−3/5) = 126.87°, ... δ[∞] =
+   arccos(−1) = 180°.
+
+   The hypervolume of the n-dimensional cross-polytope is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mn>2</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mrow>
+          <mi>n</mi> <mo>!</mo> </mrow> </mfrac> </mrow> <mo>.</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac
+          {2^{n}}{n!}}.}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {2^{n}}{n!}}.}
+
+   For each pair of non-opposite vertices, there is an edge joining them.
+   More generally, each set of k + 1 orthogonal vertices corresponds to a
+   distinct k-dimensional component which contains them. The number of
+   k-dimensional components (vertices, edges, faces, ..., facets) in an
+   n-dimensional cross-polytope is thus given by (see [122]binomial
+   coefficient):
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mn>2</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>+</mo> <mn>1</mn>
+          </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mrow
+          class="MJX-TeXAtom-OPEN"> <mo maxsize="2.047em"
+          minsize="2.047em">(</mo> </mrow> <mfrac linethickness="0">
+          <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>+</mo>
+          <mn>1</mn> </mrow> </mfrac> <mrow class="MJX-TeXAtom-CLOSE"> <mo
+          maxsize="2.047em" minsize="2.047em">)</mo> </mrow> </mrow>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 2^{k+1}{n \choose
+          {k+1}}}</annotation> </semantics> :MATH]
+          {\displaystyle 2^{k+1}{n \choose {k+1}}} ^[123][6]
+
+   The extended [124]f-vector for an n-orthoplex can be computed by
+   (1,2)^n, like the coefficients of [125]polynomial products. For example
+   a 16-cell is (1,2)^4 = (1,4,4)^2 = (1,8,24,32,16).
+
+   There are many possible [126]orthographic projections that can show the
+   cross-polytopes as 2-dimensional graphs. [127]Petrie polygon
+   projections map the points into a regular 2n-gon or lower order regular
+   polygons. A second projection takes the 2(n−1)-gon petrie polygon of
+   the lower dimension, seen as a [128]bipyramid, projected down the axis,
+   with 2 vertices mapped into the center.
+
+   CAPTION: Cross-polytope elements
+
+   [129]n β[n]
+   k[11] Name(s)
+   [130]Graph Graph
+   2n-gon [131]Schläfli [132]Coxeter-Dynkin
+   diagrams [133]Vertices [134]Edges [135]Faces [136]Cells 4-faces 5-faces
+   6-faces 7-faces 8-faces 9-faces 10-faces
+   [137]0 β[0] [138]Point
+   0-orthoplex . ( ) [CDel_node.png]
+   1
+   [139]1 β[1] [140]Line segment
+   1-orthoplex [141][50px-Cross_graph_1.svg.png] { } [CDel_node_1.png]
+   [CDel_node_f1.png] 2 1
+   [142]2 β[2]
+   −1[11] [143]Square
+   2-orthoplex
+   Bicross [144][50px-Cross_graph_2.png] {4}
+   2{ } = { }+{ } [CDel_node_1.png] [CDel_4.png] [CDel_node.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] 4 4 1
+
+   [145]3 β[3]
+   0[11] [146]Octahedron
+   3-orthoplex
+   Tricross [147][50px-3-orthoplex.svg.png] {3,4}
+   {3^1,1}
+   3{ } [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+   [CDel_node.png]
+   [CDel_node_1.png] [CDel_split1.png] [CDel_nodes.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] 6 12 8 1
+   [148]4 β[4]
+   1[11] [149]16-cell
+   4-orthoplex
+   Tetracross [150][50px-4-orthoplex.svg.png] {3,3,4}
+   {3,3^1,1}
+   4{ } [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_4.png] [CDel_node.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_split1.png]
+   [CDel_nodes.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] 8 24 32 16 1
+
+   [151]5 β[5]
+   2[11] [152]5-orthoplex
+   Pentacross [153][50px-5-orthoplex.svg.png] {3^3,4}
+   {3,3,3^1,1}
+   5{ } [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+   [CDel_node.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_split1.png] [CDel_nodes.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] 10 40 80 80 32 1
+   [154]6 β[6]
+   3[11] [155]6-orthoplex
+   Hexacross [156][50px-6-orthoplex.svg.png] {3^4,4}
+   {3^3,3^1,1}
+   6{ } [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_4.png] [CDel_node.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_split1.png]
+   [CDel_nodes.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] 12 60 160 240 192 64
+   1
+   [157]7 β[7]
+   4[11] [158]7-orthoplex
+   Heptacross [159][50px-7-orthoplex.svg.png] {3^5,4}
+   {3^4,3^1,1}
+   7{ } [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+   [CDel_node.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_split1.png] [CDel_nodes.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] 14 84 280 560 672 448 128 1
+   [160]8 β[8]
+   5[11] [161]8-orthoplex
+   Octacross [162][50px-8-orthoplex.svg.png] {3^6,4}
+   {3^5,3^1,1}
+   8{ } [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_4.png] [CDel_node.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_split1.png]
+   [CDel_nodes.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] 16 112 448 1120 1792
+   1792 1024 256 1
+   [163]9 β[9]
+   6[11] [164]9-orthoplex
+   Enneacross [165][50px-9-orthoplex.svg.png] {3^7,4}
+   {3^6,3^1,1}
+   9{ } [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+   [CDel_node.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_split1.png] [CDel_nodes.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] 18 144 672 2016 4032 5376 4608 2304 512 1
+   [166]10 β[10]
+   7[11] [167]10-orthoplex
+   Decacross [168][50px-10-orthoplex.svg.png] {3^8,4}
+   {3^7,3^1,1}
+   10{ } [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_4.png] [CDel_node.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_split1.png]
+   [CDel_nodes.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] 20 180 960 3360 8064
+   13440 15360 11520 5120 1024 1
+   ...
+   n β[n]
+   k[11] n-orthoplex
+   n-cross {3^n − 2,4}
+   {3^n − 3,3^1,1}
+   n{} [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] ... [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_4.png] [CDel_node.png]
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png] ...
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_split1.png]
+   [CDel_nodes.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png]
+   [CDel_node_f1.png] [CDel_2.png] [CDel_node_f1.png] [CDel_2.png] ...
+   [CDel_2.png] [CDel_node_f1.png] 2n 0-faces, ...
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mn>2</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </msup> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mrow
+   class="MJX-TeXAtom-OPEN"> <mo maxsize="2.047em"
+   minsize="2.047em">(</mo> </mrow> <mfrac linethickness="0"> <mi>n</mi>
+   <mrow> <mi>k</mi> <mo>+</mo> <mn>1</mn> </mrow> </mfrac> <mrow
+   class="MJX-TeXAtom-CLOSE"> <mo maxsize="2.047em"
+   minsize="2.047em">)</mo> </mrow> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle 2^{k+1}{n
+   \choose k+1}}</annotation> </semantics> :MATH]
+   {\displaystyle 2^{k+1}{n \choose k+1}} k-faces ..., 2^n (n−1)-faces
+
+   The vertices of an axis-aligned cross polytope are all at equal
+   distance from each other in the [169]Manhattan distance ([170]L^1
+   norm). [171]Kusner's conjecture states that this set of 2d points is
+   the largest possible [172]equidistant set for this distance.^[173][7]
+
+Generalized orthoplex
+
+   [[174]edit]
+
+   Regular [175]complex polytopes can be defined in [176]complex
+   [177]Hilbert space called generalized orthoplexes (or cross polytopes),
+   β^p
+   [n] = [2]{3}[2]{3}...[2]{4}[p], or [CDel_node_1.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] .. [CDel_3.png] [CDel_node.png]
+   [CDel_4.png] [CDel_pnode.png] . Real solutions exist with p = 2, i.e.
+   β^2
+   [n] = β[n] = [2]{3}[2]{3}...[2]{4}[2] = {3,3,..,4}. For p > 2, they
+   exist in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">C</mi> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbb
+   {\mathbb {C} } ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {\mathbb {C} } ^{n}} . A p-generalized
+   n-orthoplex has pn vertices. Generalized orthoplexes have regular
+   [178]simplexes (real) as [179]facets.^[180][8] Generalized orthoplexes
+   make [181]complete multipartite graphs, β^p
+   [2] make K[p,p] for [182]complete bipartite graph, β^p
+   [3] make K[p,p,p] for complete tripartite graphs. β^p
+   [n] creates K[p^n]. An [183]orthogonal projection can be defined that
+   maps all the vertices equally-spaced on a circle, with all pairs of
+   vertices connected, except multiples of n. The [184]regular polygon
+   perimeter in these orthogonal projections is called a [185]petrie
+   polygon.
+
+   CAPTION: Generalized orthoplexes
+
+   p = 2 p = 3 p = 4 p = 5 p = 6 p = 7 p = 8
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+     <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \mathbb
+                 {R} ^{2}}</annotation> </semantics> :MATH]
+                      {\displaystyle \mathbb {R} ^{2}}
+             [186][100px-Complex_bipartite_graph_square.svg.png]
+    [2]{4}[2] = [187]{4} = [CDel_node_1.png] [CDel_4.png] [CDel_node.png]
+                                   K[2,2]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+         class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="double-struck">C</mi> </mrow> </mrow> <mrow
+    class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \mathbb
+            {\mathbb {C} } ^{2}}</annotation> </semantics> :MATH]
+                 {\displaystyle \mathbb {\mathbb {C} } ^{2}}
+           [188][100px-Complex_polygon_2-4-3-bipartite_graph.png]
+      [189][2]{4}[3] = [CDel_node_1.png] [CDel_4.png] [CDel_3node.png]
+        K[3,3] [190][100px-Complex_polygon_2-4-4_bipartite_graph.png]
+      [191][2]{4}[4] = [CDel_node_1.png] [CDel_4.png] [CDel_4node.png]
+        K[4,4] [192][100px-Complex_polygon_2-4-5-bipartite_graph.png]
+      [193][2]{4}[5] = [CDel_node_1.png] [CDel_4.png] [CDel_5node.png]
+            K[5,5] [194][100px-6-generalized-2-orthoplex.svg.png]
+      [195][2]{4}[6] = [CDel_node_1.png] [CDel_4.png] [CDel_6node.png]
+            K[6,6] [196][100px-7-generalized-2-orthoplex.svg.png]
+         [2]{4}[7] = [CDel_node_1.png] [CDel_4.png] [CDel_7node.png]
+            K[7,7] [197][100px-8-generalized-2-orthoplex.svg.png]
+      [198][2]{4}[8] = [CDel_node_1.png] [CDel_4.png] [CDel_8node.png]
+                                   K[8,8]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+     <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \mathbb
+                 {R} ^{3}}</annotation> </semantics> :MATH]
+                      {\displaystyle \mathbb {R} ^{3}}
+          [199][100px-Complex_tripartite_graph_octahedron.svg.png]
+        [2]{3}[2]{4}[2] = [200]{3,4} = [CDel_node_1.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_node.png]
+                                  K[2,2,2]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+         class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="double-struck">C</mi> </mrow> </mrow> <mrow
+    class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \mathbb
+            {\mathbb {C} } ^{3}}</annotation> </semantics> :MATH]
+                 {\displaystyle \mathbb {\mathbb {C} } ^{3}}
+          [201][100px-3-generalized-3-orthoplex-tripartite.svg.png]
+      [2]{3}[2]{4}[3] = [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+                        [CDel_4.png] [CDel_3node.png]
+           K[3,3,3] [202][100px-4-generalized-3-orthoplex.svg.png]
+      [2]{3}[2]{4}[4] = [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+                        [CDel_4.png] [CDel_4node.png]
+           K[4,4,4] [203][100px-5-generalized-3-orthoplex.svg.png]
+      [2]{3}[2]{4}[5] = [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+                        [CDel_4.png] [CDel_5node.png]
+           K[5,5,5] [204][100px-6-generalized-3-orthoplex.svg.png]
+      [2]{3}[2]{4}[6] = [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+                        [CDel_4.png] [CDel_6node.png]
+           K[6,6,6] [205][100px-7-generalized-3-orthoplex.svg.png]
+      [2]{3}[2]{4}[7] = [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+                        [CDel_4.png] [CDel_7node.png]
+           K[7,7,7] [206][100px-8-generalized-3-orthoplex.svg.png]
+      [2]{3}[2]{4}[8] = [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+                        [CDel_4.png] [CDel_8node.png]
+                                  K[8,8,8]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+     <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \mathbb
+                 {R} ^{4}}</annotation> </semantics> :MATH]
+                      {\displaystyle \mathbb {R} ^{4}}
+           [207][100px-Complex_multipartite_graph_16-cell.svg.png]
+                               [2]{3}[2]{3}[2]
+        [208]{3,3,4} = [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+          [CDel_3.png] [CDel_node.png] [CDel_4.png] [CDel_node.png]
+                                 K[2,2,2,2]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+         class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="double-struck">C</mi> </mrow> </mrow> <mrow
+    class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \mathbb
+            {\mathbb {C} } ^{4}}</annotation> </semantics> :MATH]
+                 {\displaystyle \mathbb {\mathbb {C} } ^{4}}
+               [209][100px-3-generalized-4-orthoplex.svg.png]
+                            [2]{3}[2]{3}[2]{4}[3]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_3node.png]
+          K[3,3,3,3] [210][100px-4-generalized-4-orthoplex.svg.png]
+                            [2]{3}[2]{3}[2]{4}[4]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_4node.png]
+          K[4,4,4,4] [211][100px-5-generalized-4-orthoplex.svg.png]
+                            [2]{3}[2]{3}[2]{4}[5]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_5node.png]
+          K[5,5,5,5] [212][100px-6-generalized-4-orthoplex.svg.png]
+                            [2]{3}[2]{3}[2]{4}[6]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_6node.png]
+          K[6,6,6,6] [213][100px-7-generalized-4-orthoplex.svg.png]
+                            [2]{3}[2]{3}[2]{4}[7]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_7node.png]
+          K[7,7,7,7] [214][100px-8-generalized-4-orthoplex.svg.png]
+                            [2]{3}[2]{3}[2]{4}[8]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_8node.png]
+                                 K[8,8,8,8]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+     <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msup> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \mathbb
+                 {R} ^{5}}</annotation> </semantics> :MATH]
+                      {\displaystyle \mathbb {R} ^{5}}
+               [215][100px-2-generalized-5-orthoplex.svg.png]
+                         [2]{3}[2]{3}[2]{3}[2]{4}[2]
+       [216]{3,3,3,4} = [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+                               [CDel_node.png]
+                                K[2,2,2,2,2]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+         class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="double-struck">C</mi> </mrow> </mrow> <mrow
+    class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msup> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \mathbb
+            {\mathbb {C} } ^{5}}</annotation> </semantics> :MATH]
+                 {\displaystyle \mathbb {\mathbb {C} } ^{5}}
+               [217][100px-3-generalized-5-orthoplex.svg.png]
+                         [2]{3}[2]{3}[2]{3}[2]{4}[3]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+                              [CDel_3node.png]
+         K[3,3,3,3,3] [218][100px-4-generalized-5-orthoplex.svg.png]
+                         [2]{3}[2]{3}[2]{3}[2]{4}[4]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+                              [CDel_4node.png]
+         K[4,4,4,4,4] [219][100px-5-generalized-5-orthoplex.svg.png]
+                         [2]{3}[2]{3}[2]{3}[2]{4}[5]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+                              [CDel_5node.png]
+         K[5,5,5,5,5] [220][100px-6-generalized-5-orthoplex.svg.png]
+                         [2]{3}[2]{3}[2]{3}[2]{4}[6]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+                              [CDel_6node.png]
+         K[6,6,6,6,6] [221][100px-7-generalized-5-orthoplex.svg.png]
+                         [2]{3}[2]{3}[2]{3}[2]{4}[7]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+                              [CDel_7node.png]
+         K[7,7,7,7,7] [222][100px-8-generalized-5-orthoplex.svg.png]
+                         [2]{3}[2]{3}[2]{3}[2]{4}[8]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_4.png]
+                              [CDel_8node.png]
+                                K[8,8,8,8,8]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+     <mrow class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> </msup> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \mathbb
+                 {R} ^{6}}</annotation> </semantics> :MATH]
+                      {\displaystyle \mathbb {R} ^{6}}
+               [223][100px-2-generalized-6-orthoplex.svg.png]
+                      [2]{3}[2]{3}[2]{3}[2]{3}[2]{4}[2]
+      [224]{3,3,3,3,4} = [CDel_node_1.png] [CDel_3.png] [CDel_node.png]
+   [CDel_3.png] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_node.png]
+                               K[2,2,2,2,2,2]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+              displaystyle="true" scriptlevel="0"> <msup> <mrow
+         class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="double-struck">C</mi> </mrow> </mrow> <mrow
+    class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> </msup> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \mathbb
+            {\mathbb {C} } ^{6}}</annotation> </semantics> :MATH]
+                 {\displaystyle \mathbb {\mathbb {C} } ^{6}}
+               [225][100px-3-generalized-6-orthoplex.svg.png]
+                      [2]{3}[2]{3}[2]{3}[2]{3}[2]{4}[3]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_3node.png]
+        K[3,3,3,3,3,3] [226][100px-4-generalized-6-orthoplex.svg.png]
+                      [2]{3}[2]{3}[2]{3}[2]{3}[2]{4}[4]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_4node.png]
+        K[4,4,4,4,4,4] [227][100px-5-generalized-6-orthoplex.svg.png]
+                      [2]{3}[2]{3}[2]{3}[2]{3}[2]{4}[5]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_5node.png]
+        K[5,5,5,5,5,5] [228][100px-6-generalized-6-orthoplex.svg.png]
+                      [2]{3}[2]{3}[2]{3}[2]{3}[2]{4}[6]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_6node.png]
+        K[6,6,6,6,6,6] [229][100px-7-generalized-6-orthoplex.svg.png]
+                      [2]{3}[2]{3}[2]{3}[2]{3}[2]{4}[7]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_7node.png]
+        K[7,7,7,7,7,7] [230][100px-8-generalized-6-orthoplex.svg.png]
+                      [2]{3}[2]{3}[2]{3}[2]{3}[2]{4}[8]
+         [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+          [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                [CDel_node.png] [CDel_4.png] [CDel_8node.png]
+                               K[8,8,8,8,8,8]
+
+Related polytope families
+
+   [[231]edit]
+
+   Cross-polytopes can be combined with their dual cubes to form compound
+   polytopes:
+     * In two dimensions, we obtain the [232]octagrammic star figure
+       {⁠8/2⁠},
+     * In three dimensions we obtain the [233]compound of cube and
+       octahedron,
+     * In four dimensions we obtain the compound of tesseract and 16-cell.
+
+See also
+
+   [[234]edit]
+     * [235]List of regular polytopes
+     * [236]Hyperoctahedral group, the symmetry group of the
+       cross-polytope
+
+Citations
+
+   [[237]edit]
+    1. [238]^ [239]Coxeter 1973, pp. 121–122, §7.21. illustration Fig
+       7-2B.
+    2. [240]^ Conway, J. H.; Sloane, N. J. A. (1991). "The Cell Structures
+       of Certain Lattices". In Hilton, P.; Hirzebruch, F.; Remmert, R.
+       (eds.). Miscellanea Mathematica. Berlin: Springer. pp. 89–90.
+       [241]doi:[242]10.1007/978-3-642-76709-8_5.
+       [243]ISBN [244]978-3-642-76711-1.
+    3. [245]^ [246]McMullen, Peter (2020). Geometric Regular Polytopes.
+       Cambridge University Press. p. 92.
+       [247]ISBN [248]978-1-108-48958-4.
+    4. [249]^ [250]Weisstein, Eric W. [251]"Cocktail Party Graph".
+       [252]MathWorld.
+    5. [253]^ [254]Coxeter 1973, pp. 120–124, §7.2.
+    6. [255]^ [256]Coxeter 1973, p. 121, §7.2.2..
+    7. [257]^ Guy, Richard K. (1983), "An olla-podrida of open problems,
+       often oddly posed", American Mathematical Monthly, 90 (3): 196–200,
+       [258]doi:[259]10.2307/2975549, [260]JSTOR [261]2975549.
+    8. [262]^ Coxeter, Regular Complex Polytopes, p. 108
+
+References
+
+   [[263]edit]
+     *
+
+   [264]Coxeter, H.S.M. (1973). [265]Regular Polytopes (3rd ed.). New
+   York: Dover.
+     * pp. 121-122, §7.21. see illustration Fig 7.2B
+     * p. 296, Table I (iii): Regular Polytopes, three regular polytopes
+       in n-dimensions (n≥5)
+
+External links
+
+   [[266]edit]
+   Wikimedia Commons has media related to [267]Cross-polytope graphs.
+     * [268]Weisstein, Eric W. [269]"Cross polytope". [270]MathWorld.
+
+     * [271]v
+     * [272]t
+     * [273]e
+
+   [274]Dimension
+   Dimensional spaces
+     * [275]Vector space
+     * [276]Euclidean space
+     * [277]Affine space
+     * [278]Projective space
+     * [279]Free module
+     * [280]Manifold
+     * [281]Algebraic variety
+     * [282]Spacetime
+
+   [283]Animated tesseract
+   Other dimensions
+     * [284]Krull
+     * [285]Lebesgue covering
+     * [286]Inductive
+     * [287]Hausdorff
+     * [288]Minkowski
+     * [289]Fractal
+     * [290]Degrees of freedom
+
+   [291]Polytopes and [292]shapes
+
+     * [293]Hyperplane
+     * [294]Hypersurface
+     * [295]Hypercube
+     * [296]Hyperrectangle
+     * [297]Demihypercube
+     * [298]Hypersphere
+     * Cross-polytope
+     * [299]Simplex
+     * [300]Hyperpyramid
+
+   Number systems
+
+     * [301]Hypercomplex numbers
+     * [302]Cayley–Dickson construction
+
+   Dimensions by number
+
+     * [303]Zero
+     * [304]One
+     * [305]Two
+     * [306]Three
+     * [307]Four
+     * [308]Five
+     * [309]Six
+     * [310]Seven
+     * [311]Eight
+     * [312]n-dimensions
+
+   See also
+
+     * [313]Hyperspace
+     * [314]Codimension
+
+   [315]Category
+
+     * [316]v
+     * [317]t
+     * [318]e
+
+   Fundamental convex [319]regular and [320]uniform polytopes in
+   dimensions 2–10
+
+   [321]Family [322]A[n] [323]B[n] I[2](p) / [324]D[n] [325]E[6] /
+   [326]E[7] / [327]E[8] / [328]F[4] / [329]G[2] [330]H[n]
+   [331]Regular polygon [332]Triangle [333]Square [334]p-gon [335]Hexagon
+   [336]Pentagon
+   [337]Uniform polyhedron [338]Tetrahedron [339]Octahedron • [340]Cube
+   [341]Demicube [342]Dodecahedron • [343]Icosahedron
+   [344]Uniform polychoron [345]Pentachoron [346]16-cell • [347]Tesseract
+   [348]Demitesseract [349]24-cell [350]120-cell • [351]600-cell
+   [352]Uniform 5-polytope [353]5-simplex [354]5-orthoplex • [355]5-cube
+   [356]5-demicube
+   [357]Uniform 6-polytope [358]6-simplex [359]6-orthoplex • [360]6-cube
+   [361]6-demicube [362]1[22] • [363]2[21]
+   [364]Uniform 7-polytope [365]7-simplex [366]7-orthoplex • [367]7-cube
+   [368]7-demicube [369]1[32] • [370]2[31] • [371]3[21]
+   [372]Uniform 8-polytope [373]8-simplex [374]8-orthoplex • [375]8-cube
+   [376]8-demicube [377]1[42] • [378]2[41] • [379]4[21]
+   [380]Uniform 9-polytope [381]9-simplex [382]9-orthoplex • [383]9-cube
+   [384]9-demicube
+   [385]Uniform 10-polytope [386]10-simplex [387]10-orthoplex •
+   [388]10-cube [389]10-demicube
+   Uniform n-[390]polytope n-[391]simplex n-orthoplex • n-[392]cube
+   n-[393]demicube [394]1[k2] • [395]2[k1] • [396]k[21] n-[397]pentagonal
+   polytope
+   Topics: [398]Polytope families • [399]Regular polytope • [400]List of
+   regular polytopes and compounds
+
+   Retrieved from
+   "[401]https://en.wikipedia.org/w/index.php?title=Cross-polytope&oldid=1
+   252313331"
+
+   [402]Categories:
+     * [403]Regular polytopes
+     * [404]Multi-dimensional geometry
+
+   Hidden categories:
+     * [405]Articles with short description
+     * [406]Short description matches Wikidata
+     * [407]Commons category link is on Wikidata
+
+     * This page was last edited on 20 October 2024, at 20:08 (UTC).
+     * Text is available under the [408]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [409]Terms of Use and
+       [410]Privacy Policy. Wikipedia® is a registered trademark of the
+       [411]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [412]Privacy policy
+     * [413]About Wikipedia
+     * [414]Disclaimers
+     * [415]Contact Wikipedia
+     * [416]Code of Conduct
+     * [417]Developers
+     * [418]Statistics
+     * [419]Cookie statement
+     * [420]Mobile view
+
+     * [421]Wikimedia Foundation
+     * [422]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/Cross-polytope
+   2. file:///w/index.php?title=Cross-polytope&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Cross-polytope
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Cross-polytope
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Cross-polytope
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Cross-polytope
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html
+  29. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#4_dimensions
+  30. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#Higher_dimensions
+  31. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#Generalized_orthoplex
+  32. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#Related_polytope_families
+  33. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#See_also
+  34. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#Citations
+  35. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#References
+  36. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#External_links
+  37. https://de.wikipedia.org/wiki/Kreuzpolytop
+  38. https://el.wikipedia.org/wiki/Υπεροκτάεδρο
+  39. https://es.wikipedia.org/wiki/Politopo_de_cruce
+  40. https://eo.wikipedia.org/wiki/Kruco-hiperpluredro
+  41. https://fa.wikipedia.org/wiki/ارتوپلکس
+  42. https://fr.wikipedia.org/wiki/Hyperoctaèdre
+  43. https://ko.wikipedia.org/wiki/정축체
+  44. https://ja.wikipedia.org/wiki/正軸体
+  45. https://pl.wikipedia.org/wiki/Hiperośmiościan
+  46. https://ro.wikipedia.org/wiki/Ortoplex
+  47. https://ru.wikipedia.org/wiki/Гипероктаэдр
+  48. https://uk.wikipedia.org/wiki/Гіпероктаедр
+  49. https://zh.wikipedia.org/wiki/正轴形
+  50. https://www.wikidata.org/wiki/Special:EntityPage/Q1187914#sitelinks-wikipedia
+  51. file:///wiki/Cross-polytope
+  52. file:///wiki/Talk:Cross-polytope
+  53. file:///wiki/Cross-polytope
+  54. file:///w/index.php?title=Cross-polytope&action=edit
+  55. file:///w/index.php?title=Cross-polytope&action=history
+  56. file:///wiki/Cross-polytope
+  57. file:///w/index.php?title=Cross-polytope&action=edit
+  58. file:///w/index.php?title=Cross-polytope&action=history
+  59. file:///wiki/Special:WhatLinksHere/Cross-polytope
+  60. file:///wiki/Special:RecentChangesLinked/Cross-polytope
+  61. file:///wiki/Wikipedia:File_Upload_Wizard
+  62. file:///wiki/Special:SpecialPages
+  63. file:///w/index.php?title=Cross-polytope&oldid=1252313331
+  64. file:///w/index.php?title=Cross-polytope&action=info
+  65. file:///w/index.php?title=Special:CiteThisPage&page=Cross-polytope&id=1252313331&wpFormIdentifier=titleform
+  66. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/Cross-polytope
+  67. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/Cross-polytope
+  68. file:///w/index.php?title=Special:DownloadAsPdf&page=Cross-polytope&action=show-download-screen
+  69. file:///w/index.php?title=Cross-polytope&printable=yes
+  70. https://commons.wikimedia.org/wiki/Category:Cross-polytope_graphs
+  71. https://www.wikidata.org/wiki/Special:EntityPage/Q1187914
+  72. file:///w/index.php?title=11-orthoplex&redirect=no
+  73. file:///wiki/File:2-orthoplex.svg
+  74. file:///wiki/File:Octahedron.png
+  75. file:///wiki/Square_(geometry)
+  76. file:///wiki/Octahedron
+  77. file:///wiki/File:Schlegel_wireframe_16-cell.png
+  78. file:///wiki/File:5-cube_t4.svg
+  79. file:///wiki/16-cell
+  80. file:///wiki/5-orthoplex
+  81. file:///wiki/Geometry
+  82. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_note-FOOTNOTECoxeter1973121–122§7.21._illustration_Fig_7-2<small>B</small>-1
+  83. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_note-2
+  84. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_note-3
+  85. file:///wiki/Regular_polytope
+  86. file:///wiki/Convex_polytope
+  87. file:///wiki/Dimensions
+  88. file:///wiki/Octahedron
+  89. file:///wiki/16-cell
+  90. file:///wiki/Simplex
+  91. file:///wiki/Vertex_figure
+  92. file:///wiki/Convex_hull
+  93. file:///wiki/Unit_ball
+  94. file:///wiki/L1-norm
+  95. file:///wiki/Line_segment
+  96. file:///wiki/Square_(geometry)
+  97. file:///wiki/Octahedron
+  98. file:///wiki/Polyhedron
+  99. file:///wiki/Platonic_solid
+ 100. file:///wiki/Bipyramid#Other_dimensions
+ 101. file:///wiki/Dual_polytope
+ 102. file:///wiki/Hypercube
+ 103. file:///wiki/Skeleton_(topology)
+ 104. file:///wiki/Turán_graph
+ 105. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_note-4
+ 106. file:///w/index.php?title=Cross-polytope&action=edit&section=1
+ 107. file:///wiki/16-cell
+ 108. file:///wiki/Convex_regular_4-polytope
+ 109. file:///wiki/4-polytope
+ 110. file:///wiki/Ludwig_Schläfli
+ 111. file:///w/index.php?title=Cross-polytope&action=edit&section=2
+ 112. file:///wiki/Regular_polytope
+ 113. file:///wiki/Coxeter
+ 114. file:///wiki/Hypercube
+ 115. file:///wiki/Simplex
+ 116. file:///wiki/Hypercubic_honeycomb
+ 117. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_note-FOOTNOTECoxeter1973120–124§7.2-5
+ 118. file:///wiki/Simplex
+ 119. file:///wiki/Vertex_figure
+ 120. file:///wiki/Schläfli_symbol
+ 121. file:///wiki/Dihedral_angle#Dihedral_angles_in_polyhedra
+ 122. file:///wiki/Binomial_coefficient
+ 123. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_note-FOOTNOTECoxeter1973121§7.2.2.-6
+ 124. file:///wiki/F-vector
+ 125. file:///wiki/Polynomial#Multiplication
+ 126. file:///wiki/Orthographic_projection
+ 127. file:///wiki/Petrie_polygon
+ 128. file:///wiki/Bipyramid
+ 129. file:///wiki/Polytope
+ 130. file:///wiki/Graph_(discrete_mathematics)
+ 131. file:///wiki/Schläfli_symbol
+ 132. file:///wiki/Coxeter-Dynkin_diagram
+ 133. file:///wiki/Vertex_(geometry)
+ 134. file:///wiki/Edge_(geometry)
+ 135. file:///wiki/Face_(geometry)
+ 136. file:///wiki/Cell_(geometry)
+ 137. file:///wiki/0-polytope
+ 138. file:///wiki/Vertex_(geometry)
+ 139. file:///wiki/1-polytope
+ 140. file:///wiki/Edge_(geometry)
+ 141. file:///wiki/File:Cross_graph_1.svg
+ 142. file:///wiki/2-polytope
+ 143. file:///wiki/Square_(geometry)
+ 144. file:///wiki/File:Cross_graph_2.png
+ 145. file:///wiki/3-polytope
+ 146. file:///wiki/Octahedron
+ 147. file:///wiki/File:3-orthoplex.svg
+ 148. file:///wiki/4-polytope
+ 149. file:///wiki/16-cell
+ 150. file:///wiki/File:4-orthoplex.svg
+ 151. file:///wiki/5-polytope
+ 152. file:///wiki/5-orthoplex
+ 153. file:///wiki/File:5-orthoplex.svg
+ 154. file:///wiki/6-polytope
+ 155. file:///wiki/6-orthoplex
+ 156. file:///wiki/File:6-orthoplex.svg
+ 157. file:///wiki/7-polytope
+ 158. file:///wiki/7-orthoplex
+ 159. file:///wiki/File:7-orthoplex.svg
+ 160. file:///wiki/8-polytope
+ 161. file:///wiki/8-orthoplex
+ 162. file:///wiki/File:8-orthoplex.svg
+ 163. file:///wiki/9-polytope
+ 164. file:///wiki/9-orthoplex
+ 165. file:///wiki/File:9-orthoplex.svg
+ 166. file:///wiki/10-polytope
+ 167. file:///wiki/10-orthoplex
+ 168. file:///wiki/File:10-orthoplex.svg
+ 169. file:///wiki/Taxicab_geometry
+ 170. file:///wiki/Lp_space
+ 171. file:///wiki/Kusner's_conjecture
+ 172. file:///wiki/Equidistant_set
+ 173. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_note-7
+ 174. file:///w/index.php?title=Cross-polytope&action=edit&section=3
+ 175. file:///wiki/Complex_polytope#Regular_complex_polytopes
+ 176. file:///wiki/Complex_number
+ 177. file:///wiki/Hilbert_space
+ 178. file:///wiki/Simplex
+ 179. file:///wiki/Facet_(geometry)
+ 180. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_note-8
+ 181. file:///wiki/Complete_multipartite_graph
+ 182. file:///wiki/Complete_bipartite_graph
+ 183. file:///wiki/Orthogonal_projection
+ 184. file:///wiki/Regular_polygon
+ 185. file:///wiki/Petrie_polygon
+ 186. file:///wiki/File:Complex_bipartite_graph_square.svg
+ 187. file:///wiki/Square
+ 188. file:///wiki/File:Complex_polygon_2-4-3-bipartite_graph.png
+ 189. file:///wiki/3-3_duoprism#Related_complex_polygon
+ 190. file:///wiki/File:Complex_polygon_2-4-4_bipartite_graph.png
+ 191. file:///wiki/16-cell#Related_complex_polygons
+ 192. file:///wiki/File:Complex_polygon_2-4-5-bipartite_graph.png
+ 193. file:///wiki/5-5_duoprism#Related_complex_polygon
+ 194. file:///wiki/File:6-generalized-2-orthoplex.svg
+ 195. file:///wiki/6-6_duoprism#Related_complex_polygon
+ 196. file:///wiki/File:7-generalized-2-orthoplex.svg
+ 197. file:///wiki/File:8-generalized-2-orthoplex.svg
+ 198. file:///wiki/8-8_duoprism#Related_complex_polygon
+ 199. file:///wiki/File:Complex_tripartite_graph_octahedron.svg
+ 200. file:///wiki/Octahedron
+ 201. file:///wiki/File:3-generalized-3-orthoplex-tripartite.svg
+ 202. file:///wiki/File:4-generalized-3-orthoplex.svg
+ 203. file:///wiki/File:5-generalized-3-orthoplex.svg
+ 204. file:///wiki/File:6-generalized-3-orthoplex.svg
+ 205. file:///wiki/File:7-generalized-3-orthoplex.svg
+ 206. file:///wiki/File:8-generalized-3-orthoplex.svg
+ 207. file:///wiki/File:Complex_multipartite_graph_16-cell.svg
+ 208. file:///wiki/16-cell
+ 209. file:///wiki/File:3-generalized-4-orthoplex.svg
+ 210. file:///wiki/File:4-generalized-4-orthoplex.svg
+ 211. file:///wiki/File:5-generalized-4-orthoplex.svg
+ 212. file:///wiki/File:6-generalized-4-orthoplex.svg
+ 213. file:///wiki/File:7-generalized-4-orthoplex.svg
+ 214. file:///wiki/File:8-generalized-4-orthoplex.svg
+ 215. file:///wiki/File:2-generalized-5-orthoplex.svg
+ 216. file:///wiki/5-orthoplex
+ 217. file:///wiki/File:3-generalized-5-orthoplex.svg
+ 218. file:///wiki/File:4-generalized-5-orthoplex.svg
+ 219. file:///wiki/File:5-generalized-5-orthoplex.svg
+ 220. file:///wiki/File:6-generalized-5-orthoplex.svg
+ 221. file:///wiki/File:7-generalized-5-orthoplex.svg
+ 222. file:///wiki/File:8-generalized-5-orthoplex.svg
+ 223. file:///wiki/File:2-generalized-6-orthoplex.svg
+ 224. file:///wiki/6-orthoplex
+ 225. file:///wiki/File:3-generalized-6-orthoplex.svg
+ 226. file:///wiki/File:4-generalized-6-orthoplex.svg
+ 227. file:///wiki/File:5-generalized-6-orthoplex.svg
+ 228. file:///wiki/File:6-generalized-6-orthoplex.svg
+ 229. file:///wiki/File:7-generalized-6-orthoplex.svg
+ 230. file:///wiki/File:8-generalized-6-orthoplex.svg
+ 231. file:///w/index.php?title=Cross-polytope&action=edit&section=4
+ 232. file:///wiki/Octagram
+ 233. file:///wiki/Compound_of_cube_and_octahedron
+ 234. file:///w/index.php?title=Cross-polytope&action=edit&section=5
+ 235. file:///wiki/List_of_regular_polytopes
+ 236. file:///wiki/Hyperoctahedral_group
+ 237. file:///w/index.php?title=Cross-polytope&action=edit&section=6
+ 238. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_ref-FOOTNOTECoxeter1973121–122§7.21._illustration_Fig_7-2<small>B</small>_1-0
+ 239. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#CITEREFCoxeter1973
+ 240. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_ref-2
+ 241. file:///wiki/Doi_(identifier)
+ 242. https://doi.org/10.1007/978-3-642-76709-8_5
+ 243. file:///wiki/ISBN_(identifier)
+ 244. file:///wiki/Special:BookSources/978-3-642-76711-1
+ 245. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_ref-3
+ 246. file:///wiki/Peter_McMullen
+ 247. file:///wiki/ISBN_(identifier)
+ 248. file:///wiki/Special:BookSources/978-1-108-48958-4
+ 249. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_ref-4
+ 250. file:///wiki/Eric_W._Weisstein
+ 251. https://mathworld.wolfram.com/CocktailPartyGraph.html
+ 252. file:///wiki/MathWorld
+ 253. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_ref-FOOTNOTECoxeter1973120–124§7.2_5-0
+ 254. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#CITEREFCoxeter1973
+ 255. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_ref-FOOTNOTECoxeter1973121§7.2.2._6-0
+ 256. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#CITEREFCoxeter1973
+ 257. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_ref-7
+ 258. file:///wiki/Doi_(identifier)
+ 259. https://doi.org/10.2307/2975549
+ 260. file:///wiki/JSTOR_(identifier)
+ 261. https://www.jstor.org/stable/2975549
+ 262. file:///tmp/lynxXXXXlsHImW/L64815-5486TMP.html#cite_ref-8
+ 263. file:///w/index.php?title=Cross-polytope&action=edit&section=7
+ 264. file:///wiki/Harold_Scott_MacDonald_Coxeter
+ 265. file:///wiki/Regular_Polytopes_(book)
+ 266. file:///w/index.php?title=Cross-polytope&action=edit&section=8
+ 267. https://commons.wikimedia.org/wiki/Category:Cross-polytope_graphs
+ 268. file:///wiki/Eric_W._Weisstein
+ 269. https://mathworld.wolfram.com/CrossPolytope.html
+ 270. file:///wiki/MathWorld
+ 271. file:///wiki/Template:Dimension_topics
+ 272. file:///wiki/Template_talk:Dimension_topics
+ 273. file:///wiki/Special:EditPage/Template:Dimension_topics
+ 274. file:///wiki/Dimension
+ 275. file:///wiki/Dimension_(vector_space)
+ 276. file:///wiki/Euclidean_space
+ 277. file:///wiki/Affine_space
+ 278. file:///wiki/Projective_space
+ 279. file:///wiki/Free_module
+ 280. file:///wiki/Manifold
+ 281. file:///wiki/Dimension_of_an_algebraic_variety
+ 282. file:///wiki/Spacetime
+ 283. file:///wiki/File:Tesseract.gif
+ 284. file:///wiki/Krull_dimension
+ 285. file:///wiki/Lebesgue_covering_dimension
+ 286. file:///wiki/Inductive_dimension
+ 287. file:///wiki/Hausdorff_dimension
+ 288. file:///wiki/Minkowski–Bouligand_dimension
+ 289. file:///wiki/Fractal_dimension
+ 290. file:///wiki/Degrees_of_freedom
+ 291. file:///wiki/Polytope
+ 292. file:///wiki/Shape
+ 293. file:///wiki/Hyperplane
+ 294. file:///wiki/Hypersurface
+ 295. file:///wiki/Hypercube
+ 296. file:///wiki/Hyperrectangle
+ 297. file:///wiki/Demihypercube
+ 298. file:///wiki/N-sphere
+ 299. file:///wiki/Simplex
+ 300. file:///wiki/Hyperpyramid
+ 301. file:///wiki/Hypercomplex_number
+ 302. file:///wiki/Cayley–Dickson_construction
+ 303. file:///wiki/Zero-dimensional_space
+ 304. file:///wiki/One-dimensional_space
+ 305. file:///wiki/Two-dimensional_space
+ 306. file:///wiki/Three-dimensional_space
+ 307. file:///wiki/Four-dimensional_space
+ 308. file:///wiki/Five-dimensional_space
+ 309. file:///wiki/Six-dimensional_space
+ 310. file:///wiki/Seven-dimensional_space
+ 311. file:///wiki/Eight-dimensional_space
+ 312. file:///wiki/Dimension
+ 313. file:///wiki/Hyperspace
+ 314. file:///wiki/Codimension
+ 315. file:///wiki/Category:Dimension
+ 316. file:///wiki/Template:Polytopes
+ 317. file:///wiki/Template_talk:Polytopes
+ 318. file:///wiki/Special:EditPage/Template:Polytopes
+ 319. file:///wiki/Regular_polytope
+ 320. file:///wiki/Uniform_polytope
+ 321. file:///wiki/Coxeter_group#Finite_Coxeter_groups
+ 322. file:///wiki/Simple_Lie_group#A_series
+ 323. file:///wiki/Simple_Lie_group#B_series
+ 324. file:///wiki/Simple_Lie_group#D_series
+ 325. file:///wiki/E6_(mathematics)
+ 326. file:///wiki/E7_(mathematics)
+ 327. file:///wiki/E8_(mathematics)
+ 328. file:///wiki/F4_(mathematics)
+ 329. file:///wiki/G2_(mathematics)
+ 330. file:///wiki/H4_(mathematics)
+ 331. file:///wiki/Regular_polygon
+ 332. file:///wiki/Equilateral_triangle
+ 333. file:///wiki/Square
+ 334. file:///wiki/Regular_polygon
+ 335. file:///wiki/Hexagon
+ 336. file:///wiki/Pentagon
+ 337. file:///wiki/Uniform_polyhedron
+ 338. file:///wiki/Tetrahedron
+ 339. file:///wiki/Octahedron
+ 340. file:///wiki/Cube
+ 341. file:///wiki/Tetrahedron
+ 342. file:///wiki/Regular_dodecahedron
+ 343. file:///wiki/Regular_icosahedron
+ 344. file:///wiki/Uniform_polychoron
+ 345. file:///wiki/5-cell
+ 346. file:///wiki/16-cell
+ 347. file:///wiki/Tesseract
+ 348. file:///wiki/16-cell
+ 349. file:///wiki/24-cell
+ 350. file:///wiki/120-cell
+ 351. file:///wiki/600-cell
+ 352. file:///wiki/Uniform_5-polytope
+ 353. file:///wiki/5-simplex
+ 354. file:///wiki/5-orthoplex
+ 355. file:///wiki/5-cube
+ 356. file:///wiki/5-demicube
+ 357. file:///wiki/Uniform_6-polytope
+ 358. file:///wiki/6-simplex
+ 359. file:///wiki/6-orthoplex
+ 360. file:///wiki/6-cube
+ 361. file:///wiki/6-demicube
+ 362. file:///wiki/1_22_polytope
+ 363. file:///wiki/2_21_polytope
+ 364. file:///wiki/Uniform_7-polytope
+ 365. file:///wiki/7-simplex
+ 366. file:///wiki/7-orthoplex
+ 367. file:///wiki/7-cube
+ 368. file:///wiki/7-demicube
+ 369. file:///wiki/1_32_polytope
+ 370. file:///wiki/2_31_polytope
+ 371. file:///wiki/3_21_polytope
+ 372. file:///wiki/Uniform_8-polytope
+ 373. file:///wiki/8-simplex
+ 374. file:///wiki/8-orthoplex
+ 375. file:///wiki/8-cube
+ 376. file:///wiki/8-demicube
+ 377. file:///wiki/1_42_polytope
+ 378. file:///wiki/2_41_polytope
+ 379. file:///wiki/4_21_polytope
+ 380. file:///wiki/Uniform_9-polytope
+ 381. file:///wiki/9-simplex
+ 382. file:///wiki/9-orthoplex
+ 383. file:///wiki/9-cube
+ 384. file:///wiki/9-demicube
+ 385. file:///wiki/Uniform_10-polytope
+ 386. file:///wiki/10-simplex
+ 387. file:///wiki/10-orthoplex
+ 388. file:///wiki/10-cube
+ 389. file:///wiki/10-demicube
+ 390. file:///wiki/Polytope
+ 391. file:///wiki/Simplex
+ 392. file:///wiki/Hypercube
+ 393. file:///wiki/Demihypercube
+ 394. file:///wiki/Uniform_1_k2_polytope
+ 395. file:///wiki/Uniform_2_k1_polytope
+ 396. file:///wiki/Uniform_k_21_polytope
+ 397. file:///wiki/Pentagonal_polytope
+ 398. file:///wiki/Polytope_families
+ 399. file:///wiki/Regular_polytope
+ 400. file:///wiki/List_of_regular_polytopes_and_compounds
+ 401. https://en.wikipedia.org/w/index.php?title=Cross-polytope&oldid=1252313331
+ 402. file:///wiki/Help:Category
+ 403. file:///wiki/Category:Regular_polytopes
+ 404. file:///wiki/Category:Multi-dimensional_geometry
+ 405. file:///wiki/Category:Articles_with_short_description
+ 406. file:///wiki/Category:Short_description_matches_Wikidata
+ 407. file:///wiki/Category:Commons_category_link_is_on_Wikidata
+ 408. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 409. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 410. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 411. https://wikimediafoundation.org/
+ 412. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 413. file:///wiki/Wikipedia:About
+ 414. file:///wiki/Wikipedia:General_disclaimer
+ 415. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 416. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 417. https://developer.wikimedia.org/
+ 418. https://stats.wikimedia.org/#/en.wikipedia.org
+ 419. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 420. file://en.m.wikipedia.org/w/index.php?title=Cross-polytope&mobileaction=toggle_view_mobile
+ 421. https://wikimediafoundation.org/
+ 422. https://www.mediawiki.org/
+
+   Hidden links:
+ 424. file://localhost/wiki/File:Commons-logo.svg

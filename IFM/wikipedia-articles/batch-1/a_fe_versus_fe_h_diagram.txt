@@ -1,0 +1,578 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 History
+     * [30]2 Notation
+     * [31]3 References
+
+   [ ] Toggle the table of contents
+
+(α/Fe) versus (Fe/H) diagram
+
+   [ ] Add languages
+
+   [32]Add links
+
+     * [33]Article
+     * [34]Talk
+
+   [ ] English
+
+     * [35]Read
+     * [36]Edit
+     * [37]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [38]Read
+     * [39]Edit
+     * [40]View history
+
+   General
+     * [41]What links here
+     * [42]Related changes
+     * [43]Upload file
+     * [44]Special pages
+     * [45]Permanent link
+     * [46]Page information
+     * [47]Cite this page
+     * [48]Get shortened URL
+     * [49]Download QR code
+
+   Print/export
+     * [50]Download as PDF
+     * [51]Printable version
+
+   In other projects
+     * [52]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [53](a/Fe) versus (Fe/H) diagram)
+   Graph used in astrophysics
+   The correct title of this article is [α/Fe] versus [Fe/H] diagram. The
+   substitution of any [54]brackets is due to [55]technical restrictions.
+   [56]The diagram shows the iron abundance on the x-axis and the
+   abundance of alpha process elements on the y-axis. The diagram shows
+   the iron abundance, [Fe/H], on the x-axis and the abundance of alpha
+   process elements, [α/Fe], on the y-axis. The data from [57]Wallerstein
+   (1962) is shown as red circles on top of the 2020 public data from the
+   large scale stellar spectroscopic surveys [58]APOGEE (DR16) and
+   [59]GALAH (DR3).
+
+   The [α/Fe] versus [Fe/H] diagram is a type of graph commonly used in
+   stellar and galactic astrophysics. It shows the [60]logarithmic ratio
+   number densities of diagnostic elements in [61]stellar atmospheres
+   compared to the [62]solar value. The x-axis represents the abundance of
+   iron (Fe) vs. hydrogen (H), that is, [Fe/H]. The y-axis represents the
+   combination of one or several of the [63]alpha process elements ([64]O,
+   [65]Ne, [66]Mg, [67]Si, [68]S, [69]Ar, [70]Ca, and [71]Ti) compared to
+   iron (Fe), denoted as [α/Fe].
+
+   These diagrams enable the assessment of [72]nucleosynthesis channels
+   and [73]galactic evolution in samples of stars as a first-order
+   approximation. They are among the most commonly used tools for Galactic
+   population analysis of the Milky Way. The diagrams use abundance ratios
+   normalised to the Sun, (placing the Sun at (0,0) in the diagram). This
+   normalisation allows for the easy identification of stars in the
+   Galactic stellar high-alpha disk (historically known as the Galactic
+   stellar [74]thick disk), typically enhanced in [α/Fe], and stars in the
+   Galactic stellar low-alpha disk (historically known as the Galactic
+   stellar [75]thin disk), with [α/Fe] values as low as the Sun.
+   Furthermore, the diagrams facilitate the identification of stars that
+   are likely born in times or environments significantly different from
+   the stellar disk. This includes metal-poor stars (with low [Fe/H] <
+   -1), which likely belong to the [76]stellar halo or [77]accreted
+   features.^[78][1]
+
+History
+
+   [[79]edit]
+
+   [80]George Wallerstein and [81]Beatrice Tinsley were early users of the
+   [α/Fe] vs. [Fe/H] diagrams. In 1962, [82]George Wallerstein noted,
+   based on the analysis of a sample of 34 Galactic field stars, that "the
+   [α/Fe] distribution seems to consist of a normal distribution about
+   zero, plus seven stars with [α/Fe] > 0.20. These may be called
+   [α/Fe]-rich stars."^[83][2]
+
+   In 1979, [84]Beatrice Tinsley used the interpretation of these
+   observations with the theory throughout her work on Stellar lifetimes
+   and abundance ratios in chemical evolution. While discussing oxygen as
+   one of the alpha-process elements, she wrote, 'As anticipated, the
+   observed [O/Fe] excess in metal-poor stars can be explained
+   qualitatively if much of the iron comes from SN I. [...] The essential
+   ingredient in accounting for the [O/Fe] excess is that a significant
+   fraction of oxygen must come from stars with shorter lives than those
+   that make much of the iron.'^[85][3] In 1980, in Evolution of the Stars
+   and Gas in Galaxies, she said, 'Relative abundances of elements heavier
+   than helium provide information on both nucleosynthesis and galactic
+   evolution [...].'^[86][4]
+
+   These relative abundances and the diagrams depicting different relative
+   abundances are now among the most commonly used diagnostic tools of
+   Galactic Archaeology. Bensby et al. (2014) used them to explore the
+   Milky Way disk in the solar neighbourhood.^[87][5] Hayden et al. (2015)
+   used them for their work on the chemical cartography of our Milky Way
+   disk.^[88][6] It has been suggested that the diagram be named for
+   Tinsley and Wallerstein.^[89][7]
+
+Notation
+
+   [[90]edit]
+
+   The diagram depicts two astrophysical quantities of stars, their iron
+   abundance relative to hydrogen [Fe/H] - a tracer of [91]stellar
+   metallicity - and the enrichment of [92]alpha process elements relative
+   to iron, [α/Fe].
+
+   The iron abundance is noted as the logarithm of the ratio of a star's
+   iron abundance compared to that of the Sun:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>Fe</mtext> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>H</mtext> </mrow> <mo
+   stretchy="false">]</mo> <mo>=</mo> <msub> <mi>log</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>10</mn> </mrow> </msub> <mo>⁡</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msub> <mrow> <mo>(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <msub> <mi>N</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>Fe</mtext> </mrow> </msub> <msub>
+   <mi>N</mi> <mrow class="MJX-TeXAtom-ORD"> <mtext>H</mtext> </mrow>
+   </msub> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>star</mtext> </mrow> </msub> </mrow>
+   <mo>−</mo> <msub> <mi>log</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>10</mn> </mrow> </msub> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD">
+   <msub> <mrow> <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msub>
+   <mi>N</mi> <mrow class="MJX-TeXAtom-ORD"> <mtext>Fe</mtext> </mrow>
+   </msub> <msub> <mi>N</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>H</mtext> </mrow> </msub> </mfrac> </mrow> <mo>)</mo> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>sun</mtext> </mrow> </msub>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   [{\text{Fe}}/{\text{H}}]=\log _{10}{\left({\frac
+   {N_{\text{Fe}}}{N_{\text{H}}}}\right)_{\text{star}}}-\log
+   _{10}{\left({\frac
+   {N_{\text{Fe}}}{N_{\text{H}}}}\right)_{\text{sun}}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle [{\text{Fe}}/{\text{H}}]=\log _{10}{\left({\frac
+   {N_{\text{Fe}}}{N_{\text{H}}}}\right)_{\text{star}}}-\log
+   _{10}{\left({\frac {N_{\text{Fe}}}{N_{\text{H}}}}\right)_{\text{sun}}}}
+   ,
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>N</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>Fe</mtext> </mrow> </msub> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   N_{\text{Fe}}}</annotation> </semantics> :MATH]
+   {\displaystyle N_{\text{Fe}}} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>N</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>H</mtext> </mrow> </msub> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   N_{\text{H}}}</annotation> </semantics> :MATH]
+   {\displaystyle N_{\text{H}}} are the number of iron and hydrogen atoms
+   per unit of volume respectively.
+
+   It is a tracing the contributions of galactic chemical evolution to the
+   nucleosynthesis of iron. These differ for the birth environments of
+   stars, based on their star formation history and star burst strengths.
+   Major syntheses channels of iron are [93]supernovae Ia and II.^[94][8]
+
+   The ratio of alpha process elements to iron, also known as the
+   alpha-enhancement, is written as the logarithm of the alpha process
+   elements O, Ne, Mg, Si, S, Ar, Ca, and Ti to Fe compared to that of the
+   Sun:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+   <mi>α</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>Fe</mtext> </mrow> <mo
+   stretchy="false">]</mo> <mo>=</mo> <mo fence="false"
+   stretchy="false">⟨</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>[X/Fe]</mtext> </mrow> <mo fence="false" stretchy="false">⟩</mo>
+   <mo>=</mo> <mo fence="false" stretchy="false">⟨</mo> <msub>
+   <mi>log</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>10</mn> </mrow> </msub>
+   <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <msub> <mrow> <mo>(</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msub> <mi>N</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>X</mtext> </mrow> </msub> <msub>
+   <mi>N</mi> <mrow class="MJX-TeXAtom-ORD"> <mtext>Fe</mtext> </mrow>
+   </msub> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>star</mtext> </mrow> </msub> </mrow>
+   <mo>−</mo> <msub> <mi>log</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>10</mn> </mrow> </msub> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD">
+   <msub> <mrow> <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msub>
+   <mi>N</mi> <mrow class="MJX-TeXAtom-ORD"> <mtext>X</mtext> </mrow>
+   </msub> <msub> <mi>N</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>Fe</mtext> </mrow> </msub> </mfrac> </mrow> <mo>)</mo> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>sun</mtext> </mrow> </msub>
+   </mrow> <mo fence="false" stretchy="false">⟩</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>, where X</mtext> </mrow> <mo>∈</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>[O, Ne, Mg, Si, S, Ar, Ca,
+   Ti]</mtext> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle [\alpha
+   /{\text{Fe}}]=\langle {\text{[X/Fe]}}\rangle =\langle \log
+   _{10}{\left({\frac
+   {N_{\text{X}}}{N_{\text{Fe}}}}\right)_{\text{star}}}-\log
+   _{10}{\left({\frac
+   {N_{\text{X}}}{N_{\text{Fe}}}}\right)_{\text{sun}}}\rangle {\text{,
+   where X}}\in {\text{[O, Ne, Mg, Si, S, Ar, Ca, Ti]}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle [\alpha /{\text{Fe}}]=\langle {\text{[X/Fe]}}\rangle
+   =\langle \log _{10}{\left({\frac
+   {N_{\text{X}}}{N_{\text{Fe}}}}\right)_{\text{star}}}-\log
+   _{10}{\left({\frac
+   {N_{\text{X}}}{N_{\text{Fe}}}}\right)_{\text{sun}}}\rangle {\text{,
+   where X}}\in {\text{[O, Ne, Mg, Si, S, Ar, Ca, Ti]}}} and
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>N</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>X</mtext> </mrow> </msub> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   N_{\text{X}}}</annotation> </semantics> :MATH]
+   {\displaystyle N_{\text{X}}} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>N</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>Fe</mtext> </mrow> </msub> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   N_{\text{Fe}}}</annotation> </semantics> :MATH]
+   {\displaystyle N_{\text{Fe}}} are the number of the alpha process
+   elements
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>X</mtext> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\text{X}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\text{X}}} and iron atoms per unit of volume
+   respectively.
+
+   In practise, not all of these elements can be measured in stellar
+   spectra and the alpha-enhancement is therefore commonly reported as a
+   simple or error-weighted average of the individual alpha process
+   element abundances.^[[95]citation needed]
+
+References
+
+   [[96]edit]
+    1. [97]^ Hawkins, K.; Jofré, P.; Masseron, T.; Gilmore, G. (2015).
+       [98]"Using chemical tagging to redefine the interface of the
+       Galactic disc and halo". Monthly Notices of the Royal Astronomical
+       Society. 453 (1): 758–774. [99]arXiv:[100]1507.03604.
+       [101]Bibcode:[102]2015MNRAS.453..758H.
+       [103]doi:[104]10.1093/mnras/stv1586. [105]ISSN [106]0035-8711.
+    2. [107]^ Wallerstein, George (1962). "Abundances in G Dwarfs. VI. A
+       Survey of Field Stars". The Astrophysical Journal Supplement
+       Series. 6: 407. [108]Bibcode:[109]1962ApJS....6..407W.
+       [110]doi:[111]10.1086/190067. [112]ISSN [113]0067-0049.
+    3. [114]^ Tinsley, B. M. (1979). "Stellar lifetimes and abundance
+       ratios in chemical evolution". The Astrophysical Journal. 229:
+       1046–1056. [115]Bibcode:[116]1979ApJ...229.1046T.
+       [117]doi:[118]10.1086/157039. [119]ISSN [120]0004-637X.
+    4. [121]^ Tinsley, B. M. (1980). "Evolution of the Stars and Gas in
+       Galaxies". Fundamentals of Cosmic Physics. 5: 287–388.
+       [122]arXiv:[123]2203.02041. [124]Bibcode:[125]1980FCPh....5..287T.
+    5. [126]^ Bensby, T.; Feltzing, S.; Oey, M. S. (2014). "Exploring the
+       Milky Way stellar disk. A detailed elemental abundance study of 714
+       F and G dwarf stars in the solar neighbourhood". Astronomy and
+       Astrophysics. 562: A71. [127]arXiv:[128]1309.2631.
+       [129]Bibcode:[130]2014A&A...562A..71B.
+       [131]doi:[132]10.1051/0004-6361/201322631.
+       [133]ISSN [134]0004-6361. [135]S2CID [136]118786105.
+    6. [137]^ Hayden, Michael R.; Bovy, Jo; Holtzman, Jon A.; Nidever,
+       David L.; Bird, Jonathan C.; Weinberg, David H.; Andrews, Brett H.;
+       Majewski, Steven R.; Allende Prieto, Carlos; Anders, Friedrich;
+       Beers, Timothy C. (2015). "Chemical Cartography with APOGEE:
+       Metallicity Distribution Functions and the Chemical Structure of
+       the Milky Way Disk". The Astrophysical Journal. 808 (2): 132.
+       [138]arXiv:[139]1503.02110. [140]Bibcode:[141]2015ApJ...808..132H.
+       [142]doi:[143]10.1088/0004-637X/808/2/132.
+       [144]ISSN [145]0004-637X. [146]S2CID [147]116981222.
+    7. [148]^ Buder, Sven; Sharma, Sanjib; Kos, Janez; Amarsi, Anish M.;
+       Nordlander, Thomas; [149]Lind, Karin; Martell, Sarah L.; Asplund,
+       Martin; Bland-Hawthorn, Joss; Casey, Andrew R.; De Silva, Gayandhi
+       M. (2021). [150]"The GALAH+ Survey: Third Data Release". Monthly
+       Notices of the Royal Astronomical Society. 506: 150–201.
+       [151]arXiv:[152]2011.02505. [153]doi:[154]10.1093/mnras/stab1242.
+       [155]ISSN [156]0035-8711.
+    8. [157]^ Burbidge, E. Margaret; Burbidge, G. R.; Fowler, William A.;
+       Hoyle, F. (1957). [158]"Synthesis of the Elements in Stars".
+       Reviews of Modern Physics. 29 (4): 547–650.
+       [159]Bibcode:[160]1957RvMP...29..547B.
+       [161]doi:[162]10.1103/RevModPhys.29.547. [163]ISSN [164]0034-6861.
+
+   Retrieved from
+   "[165]https://en.wikipedia.org/w/index.php?title=(α/Fe)_versus_(Fe/H)_d
+   iagram&oldid=1243596732"
+   [166]Categories:
+     * [167]Diagrams
+     * [168]Comparisons
+     * [169]Stellar astronomy
+
+   Hidden categories:
+     * [170]Articles with short description
+     * [171]Short description matches Wikidata
+     * [172]Restricted titles (brackets)
+     * [173]All articles with unsourced statements
+     * [174]Articles with unsourced statements from May 2021
+
+     * This page was last edited on 2 September 2024, at 10:45 (UTC).
+     * Text is available under the [175]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [176]Terms of Use and
+       [177]Privacy Policy. Wikipedia® is a registered trademark of the
+       [178]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [179]Privacy policy
+     * [180]About Wikipedia
+     * [181]Disclaimers
+     * [182]Contact Wikipedia
+     * [183]Code of Conduct
+     * [184]Developers
+     * [185]Statistics
+     * [186]Cookie statement
+     * [187]Mobile view
+
+     * [188]Wikimedia Foundation
+     * [189]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/(α/Fe)_versus_(Fe/H)_diagram
+   2. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=(α/Fe)+versus+(Fe/H)+diagram
+  21. file:///w/index.php?title=Special:UserLogin&returnto=(α/Fe)+versus+(Fe/H)+diagram
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=(α/Fe)+versus+(Fe/H)+diagram
+  24. file:///w/index.php?title=Special:UserLogin&returnto=(α/Fe)+versus+(Fe/H)+diagram
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html
+  29. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#History
+  30. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#Notation
+  31. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#References
+  32. https://www.wikidata.org/wiki/Special:EntityPage/Q107088090#sitelinks-wikipedia
+  33. file:///wiki/(α/Fe)_versus_(Fe/H)_diagram
+  34. file:///wiki/Talk:(α/Fe)_versus_(Fe/H)_diagram
+  35. file:///wiki/(α/Fe)_versus_(Fe/H)_diagram
+  36. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&action=edit
+  37. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&action=history
+  38. file:///wiki/(α/Fe)_versus_(Fe/H)_diagram
+  39. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&action=edit
+  40. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&action=history
+  41. file:///wiki/Special:WhatLinksHere/(α/Fe)_versus_(Fe/H)_diagram
+  42. file:///wiki/Special:RecentChangesLinked/(α/Fe)_versus_(Fe/H)_diagram
+  43. file:///wiki/Wikipedia:File_Upload_Wizard
+  44. file:///wiki/Special:SpecialPages
+  45. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&oldid=1243596732
+  46. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&action=info
+  47. file:///w/index.php?title=Special:CiteThisPage&page=(α/Fe)_versus_(Fe/H)_diagram&id=1243596732&wpFormIdentifier=titleform
+  48. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/(%CE%B1/Fe)_versus_(Fe/H)_diagram
+  49. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/(%CE%B1/Fe)_versus_(Fe/H)_diagram
+  50. file:///w/index.php?title=Special:DownloadAsPdf&page=(α/Fe)_versus_(Fe/H)_diagram&action=show-download-screen
+  51. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&printable=yes
+  52. https://www.wikidata.org/wiki/Special:EntityPage/Q107088090
+  53. file:///w/index.php?title=(a/Fe)_versus_(Fe/H)_diagram&redirect=no
+  54. file:///wiki/Bracket
+  55. file:///wiki/Wikipedia:Naming_conventions_(technical_restrictions)#Clashes_with_wiki_markup/HTML_syntax
+  56. file:///wiki/File:Tinsley_Wallerstein_Diagram.png
+  57. https://ui.adsabs.harvard.edu/abs/1962ApJS....6..407W/abstract
+  58. https://ui.adsabs.harvard.edu/abs/2020AJ....160..120J/abstract
+  59. https://ui.adsabs.harvard.edu/abs/2021MNRAS.506..150B/abstract
+  60. file:///wiki/Logarithmic_ratio_quantity
+  61. file:///wiki/Stellar_atmosphere
+  62. file:///wiki/Sun
+  63. file:///wiki/Alpha_process
+  64. file:///wiki/Oxygen
+  65. file:///wiki/Neon
+  66. file:///wiki/Magnesium
+  67. file:///wiki/Silicon
+  68. file:///wiki/Sulfur
+  69. file:///wiki/Argon
+  70. file:///wiki/Calcium
+  71. file:///wiki/Titanium
+  72. file:///wiki/Nucleosynthesis
+  73. file:///wiki/Galactic_evolution
+  74. file:///wiki/Thick_disk
+  75. file:///wiki/Thin_disk
+  76. file:///wiki/Stellar_halo
+  77. file:///wiki/Accretion_(astrophysics)
+  78. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_note-1
+  79. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&action=edit&section=1
+  80. file:///wiki/George_Wallerstein
+  81. file:///wiki/Beatrice_Tinsley
+  82. file:///wiki/George_Wallerstein
+  83. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_note-2
+  84. file:///wiki/Beatrice_Tinsley
+  85. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_note-:0-3
+  86. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_note-4
+  87. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_note-5
+  88. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_note-6
+  89. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_note-7
+  90. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&action=edit&section=2
+  91. file:///wiki/Metallicity
+  92. file:///wiki/Alpha_process
+  93. file:///wiki/Supernova
+  94. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_note-8
+  95. file:///wiki/Wikipedia:Citation_needed
+  96. file:///w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&action=edit&section=3
+  97. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_ref-1
+  98. https://doi.org/10.1093/mnras/stv1586
+  99. file:///wiki/ArXiv_(identifier)
+ 100. https://arxiv.org/abs/1507.03604
+ 101. file:///wiki/Bibcode_(identifier)
+ 102. https://ui.adsabs.harvard.edu/abs/2015MNRAS.453..758H
+ 103. file:///wiki/Doi_(identifier)
+ 104. https://doi.org/10.1093/mnras/stv1586
+ 105. file:///wiki/ISSN_(identifier)
+ 106. https://search.worldcat.org/issn/0035-8711
+ 107. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_ref-2
+ 108. file:///wiki/Bibcode_(identifier)
+ 109. https://ui.adsabs.harvard.edu/abs/1962ApJS....6..407W
+ 110. file:///wiki/Doi_(identifier)
+ 111. https://doi.org/10.1086/190067
+ 112. file:///wiki/ISSN_(identifier)
+ 113. https://search.worldcat.org/issn/0067-0049
+ 114. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_ref-:0_3-0
+ 115. file:///wiki/Bibcode_(identifier)
+ 116. https://ui.adsabs.harvard.edu/abs/1979ApJ...229.1046T
+ 117. file:///wiki/Doi_(identifier)
+ 118. https://doi.org/10.1086/157039
+ 119. file:///wiki/ISSN_(identifier)
+ 120. https://search.worldcat.org/issn/0004-637X
+ 121. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_ref-4
+ 122. file:///wiki/ArXiv_(identifier)
+ 123. https://arxiv.org/abs/2203.02041
+ 124. file:///wiki/Bibcode_(identifier)
+ 125. https://ui.adsabs.harvard.edu/abs/1980FCPh....5..287T
+ 126. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_ref-5
+ 127. file:///wiki/ArXiv_(identifier)
+ 128. https://arxiv.org/abs/1309.2631
+ 129. file:///wiki/Bibcode_(identifier)
+ 130. https://ui.adsabs.harvard.edu/abs/2014A&A...562A..71B
+ 131. file:///wiki/Doi_(identifier)
+ 132. https://doi.org/10.1051/0004-6361/201322631
+ 133. file:///wiki/ISSN_(identifier)
+ 134. https://search.worldcat.org/issn/0004-6361
+ 135. file:///wiki/S2CID_(identifier)
+ 136. https://api.semanticscholar.org/CorpusID:118786105
+ 137. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_ref-6
+ 138. file:///wiki/ArXiv_(identifier)
+ 139. https://arxiv.org/abs/1503.02110
+ 140. file:///wiki/Bibcode_(identifier)
+ 141. https://ui.adsabs.harvard.edu/abs/2015ApJ...808..132H
+ 142. file:///wiki/Doi_(identifier)
+ 143. https://doi.org/10.1088/0004-637X/808/2/132
+ 144. file:///wiki/ISSN_(identifier)
+ 145. https://search.worldcat.org/issn/0004-637X
+ 146. file:///wiki/S2CID_(identifier)
+ 147. https://api.semanticscholar.org/CorpusID:116981222
+ 148. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_ref-7
+ 149. file:///wiki/Karin_Lind
+ 150. https://doi.org/10.1093/mnras/stab1242
+ 151. file:///wiki/ArXiv_(identifier)
+ 152. https://arxiv.org/abs/2011.02505
+ 153. file:///wiki/Doi_(identifier)
+ 154. https://doi.org/10.1093/mnras/stab1242
+ 155. file:///wiki/ISSN_(identifier)
+ 156. https://search.worldcat.org/issn/0035-8711
+ 157. file:///tmp/lynxXXXX3IIfGS/L42238-6506TMP.html#cite_ref-8
+ 158. https://doi.org/10.1103/RevModPhys.29.547
+ 159. file:///wiki/Bibcode_(identifier)
+ 160. https://ui.adsabs.harvard.edu/abs/1957RvMP...29..547B
+ 161. file:///wiki/Doi_(identifier)
+ 162. https://doi.org/10.1103/RevModPhys.29.547
+ 163. file:///wiki/ISSN_(identifier)
+ 164. https://search.worldcat.org/issn/0034-6861
+ 165. https://en.wikipedia.org/w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&oldid=1243596732
+ 166. file:///wiki/Help:Category
+ 167. file:///wiki/Category:Diagrams
+ 168. file:///wiki/Category:Comparisons
+ 169. file:///wiki/Category:Stellar_astronomy
+ 170. file:///wiki/Category:Articles_with_short_description
+ 171. file:///wiki/Category:Short_description_matches_Wikidata
+ 172. file:///wiki/Category:Restricted_titles_(brackets)
+ 173. file:///wiki/Category:All_articles_with_unsourced_statements
+ 174. file:///wiki/Category:Articles_with_unsourced_statements_from_May_2021
+ 175. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 176. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 177. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 178. https://wikimediafoundation.org/
+ 179. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 180. file:///wiki/Wikipedia:About
+ 181. file:///wiki/Wikipedia:General_disclaimer
+ 182. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 183. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 184. https://developer.wikimedia.org/
+ 185. https://stats.wikimedia.org/#/en.wikipedia.org
+ 186. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 187. file://en.m.wikipedia.org/w/index.php?title=(α/Fe)_versus_(Fe/H)_diagram&mobileaction=toggle_view_mobile
+ 188. https://wikimediafoundation.org/
+ 189. https://www.mediawiki.org/

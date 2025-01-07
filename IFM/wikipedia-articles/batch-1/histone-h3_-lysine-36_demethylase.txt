@@ -1,0 +1,559 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 References
+     * [30]2 External links
+
+   [ ] Toggle the table of contents
+
+(Histone-H3)-lysine-36 demethylase
+
+   [ ] 3 languages
+     * [31]日本語
+     * [32]Српски / srpski
+     * [33]Srpskohrvatski / српскохрватски
+
+   [34]Edit links
+
+     * [35]Article
+     * [36]Talk
+
+   [ ] English
+
+     * [37]Read
+     * [38]Edit
+     * [39]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [40]Read
+     * [41]Edit
+     * [42]View history
+
+   General
+     * [43]What links here
+     * [44]Related changes
+     * [45]Upload file
+     * [46]Special pages
+     * [47]Permanent link
+     * [48]Page information
+     * [49]Cite this page
+     * [50]Get shortened URL
+     * [51]Download QR code
+
+   Print/export
+     * [52]Download as PDF
+     * [53]Printable version
+
+   In other projects
+     * [54]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Class of enzymes
+           (Histone-H3)-lysine-36 demethylase
+                      Identifiers
+       [55]EC no.     [56]1.14.11.27
+                       Databases
+       [57]IntEnz     [58]IntEnz view
+       [59]BRENDA     [60]BRENDA entry
+       [61]ExPASy     [62]NiceZyme view
+        [63]KEGG      [64]KEGG entry
+      [65]MetaCyc     [66]metabolic pathway
+       [67]PRIAM      [68]profile
+   [69]PDB structures [70]RCSB PDB [71]PDBe [72]PDBsum
+           Search
+    [73]PMC   [74]articles
+   [75]PubMed [76]articles
+    [77]NCBI  [78]proteins
+
+   (Histone-H3)-lysine-36 demethylase ([79]EC [80]1.14.11.27, JHDM1A, JmjC
+   domain-containing histone demethylase 1A, H3-K36-specific demethylase,
+   histone-lysine (H3-K36) demethylase, histone demethylase,
+   protein-6-N,6-N-dimethyl-L-lysine,2-oxoglutarate:oxygen oxidoreductase)
+   is an [81]enzyme with [82]systematic name
+   protein-N6,N6-dimethyl-L-lysine,2-oxoglutarate:oxygen
+   oxidoreductase.^[83][1] This enzyme [84]catalyses the following
+   [85]chemical reaction
+
+          protein N6,N6-dimethyl-L-lysine + 2 2-oxoglutarate + 2 O[2]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo class="MJX-variant"
+          stretchy="false">⇌</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \rightleftharpoons
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \rightleftharpoons } protein L-lysine + 2
+          [86]succinate + 2 [87]formaldehyde + 2 CO[2] (overall reaction)
+          (1a) protein N6,N6-dimethyl-L-lysine + 2-oxoglutarate + O[2]
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo class="MJX-variant"
+          stretchy="false">⇌</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \rightleftharpoons
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \rightleftharpoons } protein N6-methyl-L-lysine +
+          succinate + formaldehyde + CO[2]
+          (1b) protein N6-methyl-L-lysine + 2-oxoglutarate + O2
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo class="MJX-variant"
+          stretchy="false">⇌</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \rightleftharpoons
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \rightleftharpoons } protein L-lysine + succinate
+          + formaldehyde + CO[2]
+
+   (Histone-H3)-lysine-36 demethylase contains [88]iron(II).
+
+References
+
+   [[89]edit]
+    1. [90]^ Tsukada Y, Fang J, Erdjument-Bromage H, Warren ME, Borchers
+       CH, Tempst P, Zhang Y (February 2006). "Histone demethylation by a
+       family of JmjC domain-containing proteins". Nature. 439 (7078):
+       811–6. [91]Bibcode:[92]2006Natur.439..811T.
+       [93]doi:[94]10.1038/nature04433. [95]PMID [96]16362057.
+
+External links
+
+   [[97]edit]
+     * [98](histone-H3)-lysine-36+demethylase at the U.S. National Library
+       of Medicine [99]Medical Subject Headings (MeSH)
+
+     * [100]v
+     * [101]t
+     * [102]e
+
+   [103]Oxidoreductases: [104]dioxygenases, including [105]steroid
+   hydroxylases ([106]EC 1.14)
+   [107]1.14.11: [108]2-oxoglutarate
+     * [109]Prolyl hydroxylase
+          + [110]HIF prolyl-hydroxylase
+               o [111]EGLN1
+               o [112]EGLN2
+               o [113]EGLN3
+          + [114]P4HTM
+     * [115]Lysyl hydroxylase
+     * [116]AlkB
+          + [117]ALKBH1
+          + [118]FTO
+
+   [119]1.14.13: [120]NADH or [121]NADPH
+     * [122]Flavin-containing monooxygenase
+          + [123]FMO1
+          + [124]FMO2
+          + [125]FMO3
+          + [126]FMO4
+          + [127]FMO5
+     * [128]Nitric oxide synthase
+          + [129]NOS1
+          + [130]NOS2
+          + [131]NOS3
+     * [132]Cholesterol 7 alpha-hydroxylase
+     * [133]Methane monooxygenase
+     * [134]3A4
+     * [135]14α-demethylase
+     * [136]24-hydroxycholesterol 7α-hydroxylase
+
+   [137]1.14.14: reduced [138]flavin or [139]flavoprotein
+
+     * [140]19A1
+     * [141]2D6
+     * [142]2E1
+
+   [143]1.14.15: reduced [144]iron–sulfur protein
+
+     * [145]11B1
+     * [146]11B2
+     * [147]11A1
+
+   [148]1.14.16: reduced [149]pteridine ([150]BH4 dependent)
+
+     * [151]Phenylalanine hydroxylase
+     * [152]Tyrosine hydroxylase
+     * [153]Tryptophan hydroxylase
+
+   [154]1.14.17: reduced [155]ascorbate
+
+     * [156]Dopamine beta-hydroxylase
+
+   [157]1.14.18-[158]19: other
+
+     * [159]Tyrosinase
+     * [160]Stearoyl-CoA desaturase-1
+
+   [161]1.14.99 - miscellaneous
+
+     * [162]Cyclooxygenase
+     * [163]Heme oxygenase ([164]HMOX1)
+     * [165]Squalene monooxygenase
+     * [166]17A1
+     * [167]21A2
+     * [168]Ecdysone 20-monooxygenase
+     * [169]Deoxyhypusine monooxygenase
+
+     * [170]v
+     * [171]t
+     * [172]e
+
+   [173]Enzymes
+
+   Activity
+
+     * [174]Active site
+     * [175]Binding site
+     * [176]Catalytic triad
+     * [177]Oxyanion hole
+     * [178]Enzyme promiscuity
+     * [179]Diffusion-limited enzyme
+     * [180]Cofactor
+     * [181]Enzyme catalysis
+
+   Regulation
+
+     * [182]Allosteric regulation
+     * [183]Cooperativity
+     * [184]Enzyme inhibitor
+     * [185]Enzyme activator
+
+   Classification
+
+     * [186]EC number
+     * [187]Enzyme superfamily
+     * [188]Enzyme family
+     * [189]List of enzymes
+
+   Kinetics
+
+     * [190]Enzyme kinetics
+     * [191]Eadie–Hofstee diagram
+     * [192]Hanes–Woolf plot
+     * [193]Lineweaver–Burk plot
+     * [194]Michaelis–Menten kinetics
+
+   Types
+
+     * EC1 [195]Oxidoreductases ([196]list)
+     * EC2 [197]Transferases ([198]list)
+     * EC3 [199]Hydrolases ([200]list)
+     * EC4 [201]Lyases ([202]list)
+     * EC5 [203]Isomerases ([204]list)
+     * EC6 [205]Ligases ([206]list)
+     * EC7 [207]Translocases ([208]list)
+
+   [209]Portal:
+     * [210]icon [211]Biology
+
+   Retrieved from
+   "[212]https://en.wikipedia.org/w/index.php?title=(Histone-H3)-lysine-36
+   _demethylase&oldid=1172333725"
+
+   [213]Categories:
+     * [214]EC 1.14.11
+     * [215]Epigenetics
+     * [216]Post-translational modification
+
+   Hidden categories:
+     * [217]Articles with short description
+     * [218]Short description matches Wikidata
+
+     * This page was last edited on 26 August 2023, at 12:18 (UTC).
+     * Text is available under the [219]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [220]Terms of Use and
+       [221]Privacy Policy. Wikipedia® is a registered trademark of the
+       [222]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [223]Privacy policy
+     * [224]About Wikipedia
+     * [225]Disclaimers
+     * [226]Contact Wikipedia
+     * [227]Code of Conduct
+     * [228]Developers
+     * [229]Statistics
+     * [230]Cookie statement
+     * [231]Mobile view
+
+     * [232]Wikimedia Foundation
+     * [233]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/(Histone-H3)-lysine-36_demethylase
+   2. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXCzetSm/L41800-7995TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=(Histone-H3)-lysine-36+demethylase
+  21. file:///w/index.php?title=Special:UserLogin&returnto=(Histone-H3)-lysine-36+demethylase
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=(Histone-H3)-lysine-36+demethylase
+  24. file:///w/index.php?title=Special:UserLogin&returnto=(Histone-H3)-lysine-36+demethylase
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXCzetSm/L41800-7995TMP.html
+  29. file:///tmp/lynxXXXXCzetSm/L41800-7995TMP.html#References
+  30. file:///tmp/lynxXXXXCzetSm/L41800-7995TMP.html#External_links
+  31. https://ja.wikipedia.org/wiki/(ヒストンH3)-リシン-36-デメチラーゼ
+  32. https://sr.wikipedia.org/wiki/(Histon-H3)-lizin-36_demetilaza
+  33. https://sh.wikipedia.org/wiki/(Histon-H3)-lizin-36_demetilaza
+  34. https://www.wikidata.org/wiki/Special:EntityPage/Q3877834#sitelinks-wikipedia
+  35. file:///wiki/(Histone-H3)-lysine-36_demethylase
+  36. file:///wiki/Talk:(Histone-H3)-lysine-36_demethylase
+  37. file:///wiki/(Histone-H3)-lysine-36_demethylase
+  38. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&action=edit
+  39. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&action=history
+  40. file:///wiki/(Histone-H3)-lysine-36_demethylase
+  41. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&action=edit
+  42. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&action=history
+  43. file:///wiki/Special:WhatLinksHere/(Histone-H3)-lysine-36_demethylase
+  44. file:///wiki/Special:RecentChangesLinked/(Histone-H3)-lysine-36_demethylase
+  45. file:///wiki/Wikipedia:File_Upload_Wizard
+  46. file:///wiki/Special:SpecialPages
+  47. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&oldid=1172333725
+  48. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&action=info
+  49. file:///w/index.php?title=Special:CiteThisPage&page=(Histone-H3)-lysine-36_demethylase&id=1172333725&wpFormIdentifier=titleform
+  50. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/(Histone-H3)-lysine-36_demethylase
+  51. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/(Histone-H3)-lysine-36_demethylase
+  52. file:///w/index.php?title=Special:DownloadAsPdf&page=(Histone-H3)-lysine-36_demethylase&action=show-download-screen
+  53. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&printable=yes
+  54. https://www.wikidata.org/wiki/Special:EntityPage/Q3877834
+  55. file:///wiki/Enzyme_Commission_number
+  56. https://www.enzyme-database.org/query.php?ec=1.14.11.27
+  57. file:///wiki/IntEnz
+  58. https://www.ebi.ac.uk/intenz/query?cmd=SearchEC&ec=1.14.11.27
+  59. file:///wiki/BRENDA
+  60. http://www.brenda-enzymes.org/enzyme.php?ecno=1.14.11.27
+  61. file:///wiki/ExPASy
+  62. https://enzyme.expasy.org/EC/1.14.11.27
+  63. file:///wiki/KEGG
+  64. https://www.genome.jp/dbget-bin/www_bget?enzyme+1.14.11.27
+  65. file:///wiki/MetaCyc
+  66. https://biocyc.org/META/substring-search?type=NIL&object=1.14.11.27
+  67. file:///wiki/PRIAM_enzyme-specific_profiles
+  68. http://priam.prabi.fr/cgi-bin/PRIAM_profiles_CurrentRelease.pl?EC=1.14.11.27
+  69. file:///wiki/Protein_Data_Bank
+  70. https://www.rcsb.org/search?q=rcsb_polymer_entity.rcsb_ec_lineage.id:1.14.11.27
+  71. https://www.ebi.ac.uk/pdbe/entry/search/index?ec_number:1.14.11.27
+  72. https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/enzymes/GetPage.pl?ec_number=1.14.11.27
+  73. file:///wiki/PubMed_Central
+  74. https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&term=1.14.11.27[EC/RN Number] AND pubmed pmc local[sb]
+  75. file:///wiki/PubMed
+  76. https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&term=1.14.11.27[EC/RN Number]
+  77. file:///wiki/National_Center_for_Biotechnology_Information
+  78. https://www.ncbi.nlm.nih.gov/protein?term=1.14.11.27[EC/RN Number]
+  79. file:///wiki/Enzyme_Commission_number
+  80. https://enzyme.expasy.org/EC/1.14.11.27
+  81. file:///wiki/Enzyme
+  82. file:///wiki/List_of_enzymes
+  83. file:///tmp/lynxXXXXCzetSm/L41800-7995TMP.html#cite_note-1
+  84. file:///wiki/Catalysis
+  85. file:///wiki/Chemical_reaction
+  86. file:///wiki/Succinate
+  87. file:///wiki/Formaldehyde
+  88. file:///wiki/Iron
+  89. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&action=edit&section=1
+  90. file:///tmp/lynxXXXXCzetSm/L41800-7995TMP.html#cite_ref-1
+  91. file:///wiki/Bibcode_(identifier)
+  92. https://ui.adsabs.harvard.edu/abs/2006Natur.439..811T
+  93. file:///wiki/Doi_(identifier)
+  94. https://doi.org/10.1038/nature04433
+  95. file:///wiki/PMID_(identifier)
+  96. https://pubmed.ncbi.nlm.nih.gov/16362057
+  97. file:///w/index.php?title=(Histone-H3)-lysine-36_demethylase&action=edit&section=2
+  98. https://meshb.nlm.nih.gov/record/ui?name=(histone-H3)-lysine-36+demethylase
+  99. file:///wiki/Medical_Subject_Headings
+ 100. file:///wiki/Template:Dioxygenases
+ 101. file:///wiki/Template_talk:Dioxygenases
+ 102. file:///wiki/Special:EditPage/Template:Dioxygenases
+ 103. file:///wiki/Oxidoreductase
+ 104. file:///wiki/Oxygenase
+ 105. file:///wiki/Steroid_hydroxylases
+ 106. file:///wiki/Enzyme_Commission_number
+ 107. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.14.11_With_2-oxoglutarate_as_one_donor.2C_and_incorporation_of_one_atom_each_of_oxygen_into_both_donors
+ 108. file:///wiki/Alpha-Ketoglutaric_acid
+ 109. file:///wiki/Prolyl_hydroxylase
+ 110. file:///wiki/HIF_prolyl-hydroxylase
+ 111. file:///wiki/EGLN1
+ 112. file:///wiki/EGLN2
+ 113. file:///wiki/EGLN3
+ 114. file:///wiki/P4HTM
+ 115. file:///wiki/Lysyl_hydroxylase
+ 116. file:///wiki/AlkB
+ 117. file:///wiki/Alkb_homolog_1,_histone_h2a_dioxygenase
+ 118. file:///wiki/FTO_gene
+ 119. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.14.13_With_NADH_or_NADPH_as_one_donor.2C_and_incorporation_of_one_atom_of_oxygen
+ 120. file:///wiki/NADH
+ 121. file:///wiki/NADPH
+ 122. file:///wiki/Flavin-containing_monooxygenase
+ 123. file:///wiki/FMO1
+ 124. file:///wiki/FMO2
+ 125. file:///wiki/Flavin-containing_monooxygenase_3
+ 126. file:///wiki/FMO4
+ 127. file:///wiki/FMO5
+ 128. file:///wiki/Nitric_oxide_synthase
+ 129. file:///wiki/NOS1
+ 130. file:///wiki/Nitric_oxide_synthase_2_(inducible)
+ 131. file:///wiki/Endothelial_NOS
+ 132. file:///wiki/Cholesterol_7_alpha-hydroxylase
+ 133. file:///wiki/Methane_monooxygenase
+ 134. file:///wiki/CYP3A4
+ 135. file:///wiki/14α-demethylase
+ 136. file:///wiki/24-hydroxycholesterol_7alpha-hydroxylase
+ 137. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.14.14_With_reduced_flavin_or_flavoprotein_as_one_donor.2C_and_incorporation_of_one_atom_of_oxygen
+ 138. file:///wiki/Flavin_group
+ 139. file:///wiki/Flavoprotein
+ 140. file:///wiki/Aromatase
+ 141. file:///wiki/CYP2D6
+ 142. file:///wiki/CYP2E1
+ 143. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.14.15_With_reduced_iron–sulfur_protein_as_one_donor.2C_and_incorporation_of_one_atom_of_oxygen
+ 144. file:///wiki/Iron–sulfur_protein
+ 145. file:///wiki/Steroid_11-beta-hydroxylase
+ 146. file:///wiki/Aldosterone_synthase
+ 147. file:///wiki/Cholesterol_side-chain_cleavage_enzyme
+ 148. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.14.16_With_reduced_pteridine_as_one_donor.2C_and_incorporation_of_one_atom_of_oxygen
+ 149. file:///wiki/Pteridine
+ 150. file:///wiki/Tetrahydrobiopterin
+ 151. file:///wiki/Phenylalanine_hydroxylase
+ 152. file:///wiki/Tyrosine_hydroxylase
+ 153. file:///wiki/Tryptophan_hydroxylase
+ 154. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.14.17_With_reduced_ascorbate_as_one_donor.2C_and_incorporation_of_one_atom_of_oxygen
+ 155. file:///wiki/Ascorbate
+ 156. file:///wiki/Dopamine_beta-hydroxylase
+ 157. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.14.18_With_another_compound_as_one_donor.2C_and_incorporation_of_one_atom_of_oxygen
+ 158. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.14.19_With_oxidation_of_a_pair_of_donors_resulting_in_the_reduction_of_molecular_oxygen_to_two_molecules_of_water
+ 159. file:///wiki/Tyrosinase
+ 160. file:///wiki/Stearoyl-CoA_desaturase-1
+ 161. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.14.99_Miscellaneous
+ 162. file:///wiki/Cyclooxygenase
+ 163. file:///wiki/Heme_oxygenase
+ 164. file:///wiki/HMOX1
+ 165. file:///wiki/Squalene_monooxygenase
+ 166. file:///wiki/CYP17A1
+ 167. file:///wiki/21-Hydroxylase
+ 168. file:///wiki/Ecdysone_20-monooxygenase
+ 169. file:///wiki/Deoxyhypusine_monooxygenase
+ 170. file:///wiki/Template:Enzymes
+ 171. file:///wiki/Template_talk:Enzymes
+ 172. file:///wiki/Special:EditPage/Template:Enzymes
+ 173. file:///wiki/Enzyme
+ 174. file:///wiki/Active_site
+ 175. file:///wiki/Binding_site
+ 176. file:///wiki/Catalytic_triad
+ 177. file:///wiki/Oxyanion_hole
+ 178. file:///wiki/Enzyme_promiscuity
+ 179. file:///wiki/Diffusion-limited_enzyme
+ 180. file:///wiki/Cofactor_(biochemistry)
+ 181. file:///wiki/Enzyme_catalysis
+ 182. file:///wiki/Allosteric_regulation
+ 183. file:///wiki/Cooperativity
+ 184. file:///wiki/Enzyme_inhibitor
+ 185. file:///wiki/Enzyme_activator
+ 186. file:///wiki/Enzyme_Commission_number
+ 187. file:///wiki/Protein_superfamily
+ 188. file:///wiki/Protein_family
+ 189. file:///wiki/List_of_enzymes
+ 190. file:///wiki/Enzyme_kinetics
+ 191. file:///wiki/Eadie–Hofstee_diagram
+ 192. file:///wiki/Hanes–Woolf_plot
+ 193. file:///wiki/Lineweaver–Burk_plot
+ 194. file:///wiki/Michaelis–Menten_kinetics
+ 195. file:///wiki/Oxidoreductase
+ 196. file:///wiki/List_of_EC_numbers_(EC_1)
+ 197. file:///wiki/Transferase
+ 198. file:///wiki/List_of_EC_numbers_(EC_2)
+ 199. file:///wiki/Hydrolase
+ 200. file:///wiki/List_of_EC_numbers_(EC_3)
+ 201. file:///wiki/Lyase
+ 202. file:///wiki/List_of_EC_numbers_(EC_4)
+ 203. file:///wiki/Isomerase
+ 204. file:///wiki/List_of_EC_numbers_(EC_5)
+ 205. file:///wiki/Ligase
+ 206. file:///wiki/List_of_EC_numbers_(EC_6)
+ 207. file:///wiki/Translocase
+ 208. file:///wiki/List_of_EC_numbers_(EC_7)
+ 209. file:///wiki/Wikipedia:Contents/Portals
+ 210. file:///wiki/File:Issoria_lathonia.jpg
+ 211. file:///wiki/Portal:Biology
+ 212. https://en.wikipedia.org/w/index.php?title=(Histone-H3)-lysine-36_demethylase&oldid=1172333725
+ 213. file:///wiki/Help:Category
+ 214. file:///wiki/Category:EC_1.14.11
+ 215. file:///wiki/Category:Epigenetics
+ 216. file:///wiki/Category:Post-translational_modification
+ 217. file:///wiki/Category:Articles_with_short_description
+ 218. file:///wiki/Category:Short_description_matches_Wikidata
+ 219. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 220. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 221. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 222. https://wikimediafoundation.org/
+ 223. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 224. file:///wiki/Wikipedia:About
+ 225. file:///wiki/Wikipedia:General_disclaimer
+ 226. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 227. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 228. https://developer.wikimedia.org/
+ 229. https://stats.wikimedia.org/#/en.wikipedia.org
+ 230. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 231. file://en.m.wikipedia.org/w/index.php?title=(Histone-H3)-lysine-36_demethylase&mobileaction=toggle_view_mobile
+ 232. https://wikimediafoundation.org/
+ 233. https://www.mediawiki.org/

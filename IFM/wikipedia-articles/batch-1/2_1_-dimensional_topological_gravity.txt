@@ -1,0 +1,665 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 References
+
+   [ ] Toggle the table of contents
+
+(2+1)-dimensional topological gravity
+
+   [ ] 1 language
+     * [30]日本語
+
+   [31]Edit links
+
+     * [32]Article
+     * [33]Talk
+
+   [ ] English
+
+     * [34]Read
+     * [35]Edit
+     * [36]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [37]Read
+     * [38]Edit
+     * [39]View history
+
+   General
+     * [40]What links here
+     * [41]Related changes
+     * [42]Upload file
+     * [43]Special pages
+     * [44]Permanent link
+     * [45]Page information
+     * [46]Cite this page
+     * [47]Get shortened URL
+     * [48]Download QR code
+
+   Print/export
+     * [49]Download as PDF
+     * [50]Printable version
+
+   In other projects
+     * [51]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   General relativity in 2+1 dimensions
+
+   In two spatial and one time dimensions, [52]general relativity has no
+   propagating gravitational degrees of freedom. In fact, in a vacuum,
+   spacetime will always be locally flat (or [53]de Sitter or [54]anti-de
+   Sitter depending upon the [55]cosmological constant). This makes
+   (2+1)-dimensional topological gravity (2+1D topological gravity) a
+   [56]topological theory with no gravitational local degrees of freedom.
+
+   Physicists became interested in the relation between Chern–Simons
+   theory and gravity during the 1980s.^[57][1] During this period,
+   [58]Edward Witten^[59][2] argued that 2+1D topological gravity is
+   equivalent to a [60]Chern–Simons theory with the [61]gauge group
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>S</mi> <mi>O</mi> <mo
+   stretchy="false">(</mo> <mn>2</mn> <mo>,</mo> <mn>2</mn> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle SO(2,2)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle SO(2,2)} for a negative cosmological constant, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>S</mi> <mi>O</mi> <mo
+   stretchy="false">(</mo> <mn>3</mn> <mo>,</mo> <mn>1</mn> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle SO(3,1)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle SO(3,1)} for a positive one. This theory can be exactly
+   [62]solved, making it a [63]toy model for [64]quantum gravity. The
+   [65]Killing form involves the [66]Hodge dual.
+
+   Witten later changed his mind,^[67][3] and argued that
+   nonperturbatively 2+1D topological gravity differs from Chern–Simons
+   because the [68]functional measure is only over nonsingular
+   [69]vielbeins. He suggested the [70]CFT dual is a [71]monster conformal
+   field theory, and computed the entropy of [72]BTZ black holes.
+
+References
+
+   [[73]edit]
+    1. [74]^ Achúcarro, A.; Townsend, P. (1986). "A Chern-Simons Action
+       for Three-Dimensional anti-De Sitter Supergravity Theories". Phys.
+       Lett. B180 (1–2): 89. [75]Bibcode:[76]1986PhLB..180...89A.
+       [77]doi:[78]10.1016/0370-2693(86)90140-1.
+    2. [79]^ [80]Witten, Edward (19 Dec 1988). "(2+1)-Dimensional Gravity
+       as an Exactly Soluble System". [81]Nuclear Physics B. 311 (1):
+       46–78. [82]Bibcode:[83]1988NuPhB.311...46W.
+       [84]doi:[85]10.1016/0550-3213(88)90143-5.
+       [86]hdl:[87]10338.dmlcz/143077.url=[88]http://srv2.fis.puc.cl/~mban
+       ados/Cursos/TopicosRelatividadAvanzada/Witten2.pdf
+    3. [89]^ [90]Witten, Edward (22 June 2007). "Three-Dimensional Gravity
+       Revisited". [91]arXiv:[92]0706.3359 [[93]hep-th].
+
+     * [94]v
+     * [95]t
+     * [96]e
+
+   [97]Quantum gravity
+   Central concepts
+     * [98]AdS/CFT correspondence
+     * [99]Batalin–Vilkovisky formalism
+     * [100]CA-duality
+     * [101]Causal patch
+     * [102]Faddeev–Popov ghost
+     * [103]Gravitational anomaly
+     * [104]Graviton
+     * [105]Holographic principle
+     * [106]IR/UV mixing
+     * [107]Planck units
+     * [108]Quantum foam
+     * [109]Ryu–Takayanagi conjecture
+     * [110]Trans-Planckian problem
+     * [111]Weinberg–Witten theorem
+
+   [112]Toy models
+     * 2+1D topological gravity
+     * [113]CGHS model
+     * [114]Jackiw–Teitelboim gravity
+     * [115]Liouville gravity
+     * [116]RST model
+     * [117]Topological quantum field theory
+
+   [118]Quantum field theory
+   in curved spacetime
+     * [119]Bunch–Davies vacuum
+     * [120]Hawking radiation
+     * [121]Semiclassical gravity
+     * [122]Unruh effect
+
+   [123]Black holes
+     * [124]Black hole complementarity
+     * [125]Black hole information paradox
+     * [126]Black-hole thermodynamics
+     * [127]Bekenstein bound
+     * [128]Bousso's holographic bound
+     * [129]Cosmic censorship hypothesis
+     * [130]ER = EPR
+     * [131]Firewall (physics)
+     * [132]Gravitational singularity
+
+   Approaches
+   [133]String theory
+     * [134]Bosonic string theory
+     * [135]M-theory
+     * [136]Supergravity
+     * [137]Superstring theory
+
+   [138]Canonical quantum gravity
+     * [139]Loop quantum gravity
+     * [140]Wheeler–DeWitt equation
+
+   [141]Euclidean quantum gravity
+     * [142]Hartle–Hawking state
+
+   Others
+     * [143]Causal dynamical triangulation
+     * [144]Causal sets
+     * [145]Dual graviton
+     * [146]Group field theory
+     * [147]Noncommutative geometry
+     * [148]Spin foam
+     * [149]Superfluid vacuum theory
+     * [150]Twistor theory
+
+   Applications
+
+     * [151]Quantum cosmology
+          + [152]Eternal inflation
+          + [153]FRW/CFT duality
+          + [154]Multiverse
+
+   See also: [155]Template:Quantum mechanics topics
+
+     * [156]v
+     * [157]t
+     * [158]e
+
+   [159]Theories of gravitation
+
+   Standard
+
+   Newtonian gravity (NG)
+     * [160]Newton's law of universal gravitation
+     * [161]Gauss's law for gravity
+     * [162]Poisson's equation for gravity
+     * [163]History of gravitational theory
+
+   [164]General relativity (GR)
+     * [165]Introduction
+     * [166]History
+     * [167]Mathematics
+     * [168]Exact solutions
+     * [169]Resources
+     * [170]Tests
+     * [171]Post-Newtonian formalism
+     * [172]Linearized gravity
+     * [173]ADM formalism
+     * [174]Gibbons–Hawking–York boundary term
+
+   [175]Alternatives to
+   general relativity
+
+   Paradigms
+     * [176]Classical theories of gravitation
+     * [177]Quantum gravity
+     * [178]Theory of everything
+
+   Classical
+     * [179]Poincaré gauge theory
+          + [180]Einstein–Cartan
+          + [181]Teleparallelism
+     * [182]Bimetric theories
+     * [183]Gauge theory gravity
+     * [184]Composite gravity
+     * [185]f(R) gravity
+     * [186]Infinite derivative gravity
+     * [187]Massive gravity
+     * [188]Modified Newtonian dynamics, MOND
+          + [189]AQUAL
+          + [190]Tensor–vector–scalar
+     * [191]Nonsymmetric gravitation
+     * [192]Scalar–tensor theories
+          + [193]Brans–Dicke
+     * [194]Scalar–tensor–vector
+     * [195]Conformal gravity
+     * [196]Scalar theories
+          + [197]Nordström
+     * [198]Whitehead
+     * [199]Geometrodynamics
+     * [200]Induced gravity
+     * [201]Degenerate Higher-Order Scalar-Tensor theories
+
+   Quantum-mechanical
+     * [202]Euclidean quantum gravity
+     * [203]Canonical quantum gravity
+          + [204]Wheeler–DeWitt equation
+          + [205]Loop quantum gravity
+          + [206]Spin foam
+     * [207]Causal dynamical triangulation
+     * [208]Asymptotic safety in quantum gravity
+     * [209]Causal sets
+     * [210]DGP model
+     * [211]Rainbow gravity theory
+
+                        Unified-field-theoric
+     * [212]Kaluza–Klein theory
+     * [213]Supergravity
+
+   Unified-field-theoric and
+   quantum-mechanical
+     * [214]Noncommutative geometry
+     * [215]Semiclassical gravity
+     * [216]Superfluid vacuum theory
+          + [217]Logarithmic BEC vacuum
+     * [218]String theory
+          + [219]M-theory
+          + [220]F-theory
+          + [221]Heterotic string theory
+          + [222]Type I string theory
+          + [223]Type 0 string theory
+          + [224]Bosonic string theory
+          + [225]Type II string theory
+          + [226]Little string theory
+     * [227]Twistor theory
+          + [228]Twistor string theory
+
+   Generalisations /
+   extensions of GR
+     * [229]Liouville gravity
+     * [230]Lovelock theory
+     * (2+1)-dimensional topological gravity
+     * [231]Gauss–Bonnet gravity
+     * [232]Jackiw–Teitelboim gravity
+
+   Pre-Newtonian
+   theories and
+   [233]toy models
+
+     * [234]Aristotelian physics
+     * [235]CGHS model
+     * [236]RST model
+     * [237]Mechanical explanations
+          + [238]Fatio–Le Sage
+          + [239]Entropic gravity
+     * [240]Gravitational interaction of antimatter
+     * [241]Physics in the medieval Islamic world
+     * [242]Theory of impetus
+
+   Related topics
+
+     * [243]Gravitational wave
+     * [244]Graviton
+
+   [245]Stub icon
+
+   This [246]relativity-related article is a [247]stub. You can help
+   Wikipedia by [248]expanding it.
+
+     * [249]v
+     * [250]t
+     * [251]e
+
+   Retrieved from
+   "[252]https://en.wikipedia.org/w/index.php?title=(2%2B1)-dimensional_to
+   pological_gravity&oldid=1224793615"
+
+   [253]Categories:
+     * [254]Quantum gravity
+     * [255]Relativity stubs
+
+   Hidden categories:
+     * [256]Articles with short description
+     * [257]Short description matches Wikidata
+     * [258]All stub articles
+
+     * This page was last edited on 20 May 2024, at 14:02 (UTC).
+     * Text is available under the [259]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [260]Terms of Use and
+       [261]Privacy Policy. Wikipedia® is a registered trademark of the
+       [262]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [263]Privacy policy
+     * [264]About Wikipedia
+     * [265]Disclaimers
+     * [266]Contact Wikipedia
+     * [267]Code of Conduct
+     * [268]Developers
+     * [269]Statistics
+     * [270]Cookie statement
+     * [271]Mobile view
+
+     * [272]Wikimedia Foundation
+     * [273]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/(2+1)-dimensional_topological_gravity
+   2. file:///w/index.php?title=(2+1)-dimensional_topological_gravity&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXjXyAHf/L40664-4655TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=(2+1)-dimensional+topological+gravity
+  21. file:///w/index.php?title=Special:UserLogin&returnto=(2+1)-dimensional+topological+gravity
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=(2+1)-dimensional+topological+gravity
+  24. file:///w/index.php?title=Special:UserLogin&returnto=(2+1)-dimensional+topological+gravity
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXjXyAHf/L40664-4655TMP.html
+  29. file:///tmp/lynxXXXXjXyAHf/L40664-4655TMP.html#References
+  30. https://ja.wikipedia.org/wiki/(2+1)-次元位相重力理論
+  31. https://www.wikidata.org/wiki/Special:EntityPage/Q8176122#sitelinks-wikipedia
+  32. file:///wiki/(2+1)-dimensional_topological_gravity
+  33. file:///wiki/Talk:(2+1)-dimensional_topological_gravity
+  34. file:///wiki/(2+1)-dimensional_topological_gravity
+  35. file:///w/index.php?title=(2+1)-dimensional_topological_gravity&action=edit
+  36. file:///w/index.php?title=(2+1)-dimensional_topological_gravity&action=history
+  37. file:///wiki/(2+1)-dimensional_topological_gravity
+  38. file:///w/index.php?title=(2+1)-dimensional_topological_gravity&action=edit
+  39. file:///w/index.php?title=(2+1)-dimensional_topological_gravity&action=history
+  40. file:///wiki/Special:WhatLinksHere/(2+1)-dimensional_topological_gravity
+  41. file:///wiki/Special:RecentChangesLinked/(2+1)-dimensional_topological_gravity
+  42. file:///wiki/Wikipedia:File_Upload_Wizard
+  43. file:///wiki/Special:SpecialPages
+  44. file:///w/index.php?title=(2+1)-dimensional_topological_gravity&oldid=1224793615
+  45. file:///w/index.php?title=(2+1)-dimensional_topological_gravity&action=info
+  46. file:///w/index.php?title=Special:CiteThisPage&page=(2+1)-dimensional_topological_gravity&id=1224793615&wpFormIdentifier=titleform
+  47. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/(2%2B1)-dimensional_topological_gravity
+  48. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/(2%2B1)-dimensional_topological_gravity
+  49. file:///w/index.php?title=Special:DownloadAsPdf&page=(2+1)-dimensional_topological_gravity&action=show-download-screen
+  50. file:///w/index.php?title=(2+1)-dimensional_topological_gravity&printable=yes
+  51. https://www.wikidata.org/wiki/Special:EntityPage/Q8176122
+  52. file:///wiki/General_relativity
+  53. file:///wiki/De_Sitter_space
+  54. file:///wiki/Anti-de_Sitter_space
+  55. file:///wiki/Cosmological_constant
+  56. file:///wiki/Topological_quantum_field_theory
+  57. file:///tmp/lynxXXXXjXyAHf/L40664-4655TMP.html#cite_note-1
+  58. file:///wiki/Edward_Witten
+  59. file:///tmp/lynxXXXXjXyAHf/L40664-4655TMP.html#cite_note-2
+  60. file:///wiki/Chern–Simons_theory
+  61. file:///wiki/Gauge_group
+  62. file:///wiki/Solvable_group
+  63. file:///wiki/Toy_model
+  64. file:///wiki/Quantum_gravity
+  65. file:///wiki/Killing_form
+  66. file:///wiki/Hodge_dual
+  67. file:///tmp/lynxXXXXjXyAHf/L40664-4655TMP.html#cite_note-3
+  68. file:///wiki/Functional_integration
+  69. file:///wiki/Vielbein
+  70. file:///wiki/AdS/CFT_correspondence
+  71. file:///wiki/Monster_group
+  72. file:///wiki/BTZ_black_hole
+  73. file:///w/index.php?title=(2+1)-dimensional_topological_gravity&action=edit&section=1
+  74. file:///tmp/lynxXXXXjXyAHf/L40664-4655TMP.html#cite_ref-1
+  75. file:///wiki/Bibcode_(identifier)
+  76. https://ui.adsabs.harvard.edu/abs/1986PhLB..180...89A
+  77. file:///wiki/Doi_(identifier)
+  78. https://doi.org/10.1016/0370-2693(86)90140-1
+  79. file:///tmp/lynxXXXXjXyAHf/L40664-4655TMP.html#cite_ref-2
+  80. file:///wiki/Edward_Witten
+  81. file:///wiki/Nuclear_Physics_B
+  82. file:///wiki/Bibcode_(identifier)
+  83. https://ui.adsabs.harvard.edu/abs/1988NuPhB.311...46W
+  84. file:///wiki/Doi_(identifier)
+  85. https://doi.org/10.1016/0550-3213(88)90143-5
+  86. file:///wiki/Hdl_(identifier)
+  87. https://hdl.handle.net/10338.dmlcz/143077
+  88. http://srv2.fis.puc.cl/~mbanados/Cursos/TopicosRelatividadAvanzada/Witten2.pdf
+  89. file:///tmp/lynxXXXXjXyAHf/L40664-4655TMP.html#cite_ref-3
+  90. file:///wiki/Edward_Witten
+  91. file:///wiki/ArXiv_(identifier)
+  92. https://arxiv.org/abs/0706.3359
+  93. https://arxiv.org/archive/hep-th
+  94. file:///wiki/Template:Quantum_gravity
+  95. file:///wiki/Template_talk:Quantum_gravity
+  96. file:///wiki/Special:EditPage/Template:Quantum_gravity
+  97. file:///wiki/Quantum_gravity
+  98. file:///wiki/AdS/CFT_correspondence
+  99. file:///wiki/Batalin–Vilkovisky_formalism
+ 100. file:///wiki/CA-duality
+ 101. file:///wiki/Causal_patch
+ 102. file:///wiki/Faddeev–Popov_ghost
+ 103. file:///wiki/Gravitational_anomaly
+ 104. file:///wiki/Graviton
+ 105. file:///wiki/Holographic_principle
+ 106. file:///wiki/IR/UV_mixing
+ 107. file:///wiki/Planck_units
+ 108. file:///wiki/Quantum_foam
+ 109. file:///wiki/Ryu–Takayanagi_conjecture
+ 110. file:///wiki/Trans-Planckian_problem
+ 111. file:///wiki/Weinberg–Witten_theorem
+ 112. file:///wiki/Toy_model
+ 113. file:///wiki/CGHS_model
+ 114. file:///wiki/Jackiw–Teitelboim_gravity
+ 115. file:///wiki/Liouville_gravity
+ 116. file:///wiki/RST_model
+ 117. file:///wiki/Topological_quantum_field_theory
+ 118. file:///wiki/Quantum_field_theory_in_curved_spacetime
+ 119. file:///wiki/Bunch–Davies_vacuum
+ 120. file:///wiki/Hawking_radiation
+ 121. file:///wiki/Semiclassical_gravity
+ 122. file:///wiki/Unruh_effect
+ 123. file:///wiki/Black_hole
+ 124. file:///wiki/Black_hole_complementarity
+ 125. file:///wiki/Black_hole_information_paradox
+ 126. file:///wiki/Black_hole_thermodynamics
+ 127. file:///wiki/Bekenstein_bound
+ 128. file:///wiki/Bousso's_holographic_bound
+ 129. file:///wiki/Cosmic_censorship_hypothesis
+ 130. file:///wiki/ER_=_EPR
+ 131. file:///wiki/Firewall_(physics)
+ 132. file:///wiki/Gravitational_singularity
+ 133. file:///wiki/String_theory
+ 134. file:///wiki/Bosonic_string_theory
+ 135. file:///wiki/M-theory
+ 136. file:///wiki/Supergravity
+ 137. file:///wiki/Superstring_theory
+ 138. file:///wiki/Canonical_quantum_gravity
+ 139. file:///wiki/Loop_quantum_gravity
+ 140. file:///wiki/Wheeler–DeWitt_equation
+ 141. file:///wiki/Euclidean_quantum_gravity
+ 142. file:///wiki/Hartle–Hawking_state
+ 143. file:///wiki/Causal_dynamical_triangulation
+ 144. file:///wiki/Causal_sets
+ 145. file:///wiki/Dual_graviton
+ 146. file:///wiki/Group_field_theory
+ 147. file:///wiki/Noncommutative_geometry
+ 148. file:///wiki/Spin_foam
+ 149. file:///wiki/Superfluid_vacuum_theory
+ 150. file:///wiki/Twistor_theory
+ 151. file:///wiki/Quantum_cosmology
+ 152. file:///wiki/Eternal_inflation
+ 153. file:///wiki/FRW/CFT_duality
+ 154. file:///wiki/Multiverse
+ 155. file:///wiki/Template:Quantum_mechanics_topics
+ 156. file:///wiki/Template:Theories_of_gravitation
+ 157. file:///wiki/Template_talk:Theories_of_gravitation
+ 158. file:///wiki/Special:EditPage/Template:Theories_of_gravitation
+ 159. file:///wiki/Gravity
+ 160. file:///wiki/Newton's_law_of_universal_gravitation
+ 161. file:///wiki/Gauss's_law_for_gravity
+ 162. file:///wiki/Poisson's_equation#Newtonian_gravity
+ 163. file:///wiki/History_of_gravitational_theory
+ 164. file:///wiki/General_relativity
+ 165. file:///wiki/Introduction_to_general_relativity
+ 166. file:///wiki/History_of_general_relativity
+ 167. file:///wiki/Mathematics_of_general_relativity
+ 168. file:///wiki/Exact_solutions_in_general_relativity
+ 169. file:///wiki/General_relativity#Further_reading
+ 170. file:///wiki/Tests_of_general_relativity
+ 171. file:///wiki/Parameterized_post-Newtonian_formalism
+ 172. file:///wiki/Linearized_gravity
+ 173. file:///wiki/ADM_formalism
+ 174. file:///wiki/Gibbons–Hawking–York_boundary_term
+ 175. file:///wiki/Alternatives_to_general_relativity
+ 176. file:///wiki/Alternatives_to_general_relativity
+ 177. file:///wiki/Quantum_gravity
+ 178. file:///wiki/Theory_of_everything
+ 179. file:///w/index.php?title=Poincaré_gauge_theory&action=edit&redlink=1
+ 180. file:///wiki/Einstein–Cartan_theory
+ 181. file:///wiki/Teleparallelism
+ 182. file:///wiki/Bimetric_gravity
+ 183. file:///wiki/Gauge_theory_gravity
+ 184. file:///wiki/Composite_gravity
+ 185. file:///wiki/F(R)_gravity
+ 186. file:///wiki/Infinite_derivative_gravity
+ 187. file:///wiki/Massive_gravity
+ 188. file:///wiki/Modified_Newtonian_dynamics
+ 189. file:///wiki/AQUAL
+ 190. file:///wiki/Tensor–vector–scalar_gravity
+ 191. file:///wiki/Nonsymmetric_gravitational_theory
+ 192. file:///wiki/Scalar–tensor_theory
+ 193. file:///wiki/Brans–Dicke_theory
+ 194. file:///wiki/Scalar–tensor–vector_gravity
+ 195. file:///wiki/Conformal_gravity
+ 196. file:///wiki/Scalar_theories_of_gravitation
+ 197. file:///wiki/Nordström's_theory_of_gravitation
+ 198. file:///wiki/Whitehead's_theory_of_gravitation
+ 199. file:///wiki/Geometrodynamics
+ 200. file:///wiki/Induced_gravity
+ 201. file:///wiki/Degenerate_Higher-Order_Scalar-Tensor_theories
+ 202. file:///wiki/Euclidean_quantum_gravity
+ 203. file:///wiki/Canonical_quantum_gravity
+ 204. file:///wiki/Wheeler–DeWitt_equation
+ 205. file:///wiki/Loop_quantum_gravity
+ 206. file:///wiki/Spin_foam
+ 207. file:///wiki/Causal_dynamical_triangulation
+ 208. file:///wiki/Asymptotic_safety_in_quantum_gravity
+ 209. file:///wiki/Causal_sets
+ 210. file:///wiki/DGP_model
+ 211. file:///wiki/Rainbow_gravity_theory
+ 212. file:///wiki/Kaluza–Klein_theory
+ 213. file:///wiki/Supergravity
+ 214. file:///wiki/Noncommutative_quantum_field_theory
+ 215. file:///wiki/Semiclassical_gravity
+ 216. file:///wiki/Superfluid_vacuum_theory
+ 217. file:///wiki/Superfluid_vacuum_theory#Logarithmic_BEC_vacuum_theory
+ 218. file:///wiki/String_theory
+ 219. file:///wiki/M-theory
+ 220. file:///wiki/F-theory
+ 221. file:///wiki/Heterotic_string_theory
+ 222. file:///wiki/Type_I_string_theory
+ 223. file:///wiki/Type_0_string_theory
+ 224. file:///wiki/Bosonic_string_theory
+ 225. file:///wiki/Type_II_string_theory
+ 226. file:///wiki/Little_string_theory
+ 227. file:///wiki/Twistor_theory
+ 228. file:///wiki/Twistor_string_theory
+ 229. file:///wiki/Liouville_gravity
+ 230. file:///wiki/Lovelock_theory_of_gravity
+ 231. file:///wiki/Gauss–Bonnet_gravity
+ 232. file:///wiki/Jackiw–Teitelboim_gravity
+ 233. file:///wiki/Toy_model
+ 234. file:///wiki/Aristotelian_physics
+ 235. file:///wiki/CGHS_model
+ 236. file:///wiki/RST_model
+ 237. file:///wiki/Mechanical_explanations_of_gravitation
+ 238. file:///wiki/Le_Sage's_theory_of_gravitation
+ 239. file:///wiki/Entropic_gravity
+ 240. file:///wiki/Gravitational_interaction_of_antimatter
+ 241. file:///wiki/Physics_in_the_medieval_Islamic_world
+ 242. file:///wiki/Theory_of_impetus
+ 243. file:///wiki/Gravitational_wave
+ 244. file:///wiki/Graviton
+ 245. file:///wiki/File:Energia_template.svg
+ 246. file:///wiki/Theory_of_relativity
+ 247. file:///wiki/Wikipedia:Stub
+ 248. https://en.wikipedia.org/w/index.php?title=(2+1)-dimensional_topological_gravity&action=edit
+ 249. file:///wiki/Template:Relativity-stub
+ 250. file:///wiki/Template_talk:Relativity-stub
+ 251. file:///wiki/Special:EditPage/Template:Relativity-stub
+ 252. https://en.wikipedia.org/w/index.php?title=(2+1)-dimensional_topological_gravity&oldid=1224793615
+ 253. file:///wiki/Help:Category
+ 254. file:///wiki/Category:Quantum_gravity
+ 255. file:///wiki/Category:Relativity_stubs
+ 256. file:///wiki/Category:Articles_with_short_description
+ 257. file:///wiki/Category:Short_description_matches_Wikidata
+ 258. file:///wiki/Category:All_stub_articles
+ 259. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 260. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 261. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 262. https://wikimediafoundation.org/
+ 263. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 264. file:///wiki/Wikipedia:About
+ 265. file:///wiki/Wikipedia:General_disclaimer
+ 266. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 267. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 268. https://developer.wikimedia.org/
+ 269. https://stats.wikimedia.org/#/en.wikipedia.org
+ 270. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 271. file://en.m.wikipedia.org/w/index.php?title=(2+1)-dimensional_topological_gravity&mobileaction=toggle_view_mobile
+ 272. https://wikimediafoundation.org/
+ 273. https://www.mediawiki.org/

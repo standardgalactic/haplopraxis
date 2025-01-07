@@ -1,0 +1,732 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Definition
+     * [30]2 Matrix Form
+     * [31]3 Properties
+     * [32]4 See also
+     * [33]5 References
+
+   [ ] Toggle the table of contents
+
+'t Hooft symbol
+
+   [ ] 1 language
+     * [34]Deutsch
+
+   [35]Edit links
+
+     * [36]Article
+     * [37]Talk
+
+   [ ] English
+
+     * [38]Read
+     * [39]Edit
+     * [40]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [41]Read
+     * [42]Edit
+     * [43]View history
+
+   General
+     * [44]What links here
+     * [45]Related changes
+     * [46]Upload file
+     * [47]Special pages
+     * [48]Permanent link
+     * [49]Page information
+     * [50]Cite this page
+     * [51]Get shortened URL
+     * [52]Download QR code
+
+   Print/export
+     * [53]Download as PDF
+     * [54]Printable version
+
+   In other projects
+     * [55]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Mathematical symbol used in algebras
+
+   The 't Hooft symbol is a collection of numbers which allows one to
+   express the [56]generators of the [57]SU(2) Lie algebra in terms of the
+   [58]generators of Lorentz algebra. The symbol is a blend between the
+   [59]Kronecker delta and the [60]Levi-Civita symbol. It was introduced
+   by [61]Gerard 't Hooft. It is used in the construction of the [62]BPST
+   instanton.
+
+Definition
+
+   [[63]edit]
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msubsup> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ν</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msubsup> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \eta
+   _{\mu \nu }^{a}}</annotation> </semantics> :MATH]
+   {\displaystyle \eta _{\mu \nu }^{a}} is the 't Hooft symbol:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msubsup> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ν</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msubsup> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo> <mtable columnalign="left
+   left" rowspacing=".2em" columnspacing="1em" displaystyle="false"> <mtr>
+   <mtd> <msup> <mi>ϵ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+   <mi>μ</mi> <mi>ν</mi> </mrow> </msup> </mtd> <mtd> <mi>μ</mi>
+   <mo>,</mo> <mi>ν</mi> <mo>=</mo> <mn>1</mn> <mo>,</mo> <mn>2</mn>
+   <mo>,</mo> <mn>3</mn> </mtd> </mtr> <mtr> <mtd> <mo>−</mo> <msup>
+   <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>ν</mi> </mrow>
+   </msup> </mtd> <mtd> <mi>μ</mi> <mo>=</mo> <mn>4</mn> </mtd> </mtr>
+   <mtr> <mtd> <msup> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+   <mi>μ</mi> </mrow> </msup> </mtd> <mtd> <mi>ν</mi> <mo>=</mo>
+   <mn>4</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mi>μ</mi>
+   <mo>=</mo> <mi>ν</mi> <mo>=</mo> <mn>4</mn> </mtd> </mtr> </mtable> <mo
+   fence="true" stretchy="true" symmetric="true"></mo> </mrow> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \eta _{\mu \nu
+   }^{a}={\begin{cases}\epsilon ^{a\mu \nu }&\mu ,\nu =1,2,3\\-\delta
+   ^{a\nu }&\mu =4\\\delta ^{a\mu }&\nu =4\\0&\mu =\nu
+   =4\end{cases}}}</annotation> </semantics> :MATH]
+   {\displaystyle \eta _{\mu \nu }^{a}={\begin{cases}\epsilon ^{a\mu \nu
+   }&\mu ,\nu =1,2,3\\-\delta ^{a\nu }&\mu =4\\\delta ^{a\mu }&\nu
+   =4\\0&\mu =\nu =4\end{cases}}} Where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>ν</mi> </mrow> </msup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \delta ^{a\nu
+   }}</annotation> </semantics> :MATH]
+   {\displaystyle \delta ^{a\nu }} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> </mrow> </msup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \delta ^{a\mu
+   }}</annotation> </semantics> :MATH]
+   {\displaystyle \delta ^{a\mu }} are instances of the Kronecker delta,
+   and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \epsilon ^{a\mu \nu
+   }}</annotation> </semantics> :MATH]
+   {\displaystyle \epsilon ^{a\mu \nu }} is the Levi–Civita symbol.
+
+   In other words, they are defined by
+
+   (
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>=</mo> <mn>1</mn>
+   <mo>,</mo> <mn>2</mn> <mo>,</mo> <mn>3</mn> <mo>;</mo> <mtext> </mtext>
+   <mi>μ</mi> <mo>,</mo> <mi>ν</mi> <mo>=</mo> <mn>1</mn> <mo>,</mo>
+   <mn>2</mn> <mo>,</mo> <mn>3</mn> <mo>,</mo> <mn>4</mn> <mo>;</mo>
+   <mtext> </mtext> <msub> <mi>ϵ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>1234</mn> </mrow> </msub> <mo>=</mo> <mo>+</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle a=1,2,3;~\mu ,\nu
+   =1,2,3,4;~\epsilon _{1234}=+1}</annotation> </semantics> :MATH]
+   {\displaystyle a=1,2,3;~\mu ,\nu =1,2,3,4;~\epsilon _{1234}=+1} )
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mtable columnalign="right left right left right left right left right
+   left right left" rowspacing="0.73em 0.3em" columnspacing="0em 2em 0em
+   2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"> <mtr> <mtd>
+   <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi>
+   <mi>ν</mi> </mrow> </msub> </mtd> <mtd> <mi></mi> <mo>=</mo> <msub>
+   <mi>ϵ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi>
+   <mi>ν</mi> <mn>4</mn> </mrow> </msub> <mo>+</mo> <msub> <mi>δ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> </mrow> </msub>
+   <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>ν</mi> <mn>4</mn>
+   </mrow> </msub> <mo>−</mo> <msub> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>ν</mi> </mrow> </msub> <msub>
+   <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mn>4</mn> </mrow>
+   </msub> </mtd> </mtr> <mtr> <mtd> <msub> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>η</mi> <mo
+   stretchy="false">¯</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> </mtd> <mtd> <mi></mi> <mo>=</mo> <msub> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> <mn>4</mn>
+   </mrow> </msub> <mo>−</mo> <msub> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> </mrow> </msub> <msub>
+   <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>ν</mi> <mn>4</mn> </mrow>
+   </msub> <mo>+</mo> <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>a</mi> <mi>ν</mi> </mrow> </msub> <msub> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mn>4</mn> </mrow> </msub> </mtd>
+   </mtr> </mtable> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\begin{aligned}\eta _{a\mu
+   \nu }&=\epsilon _{a\mu \nu 4}+\delta _{a\mu }\delta _{\nu 4}-\delta
+   _{a\nu }\delta _{\mu 4}\\[1ex]{\bar {\eta }}_{a\mu \nu }&=\epsilon
+   _{a\mu \nu 4}-\delta _{a\mu }\delta _{\nu 4}+\delta _{a\nu }\delta
+   _{\mu 4}\end{aligned}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\begin{aligned}\eta _{a\mu \nu }&=\epsilon _{a\mu \nu
+   4}+\delta _{a\mu }\delta _{\nu 4}-\delta _{a\nu }\delta _{\mu
+   4}\\[1ex]{\bar {\eta }}_{a\mu \nu }&=\epsilon _{a\mu \nu 4}-\delta
+   _{a\mu }\delta _{\nu 4}+\delta _{a\nu }\delta _{\mu 4}\end{aligned}}}
+   where the latter are the anti-self-dual 't Hooft symbols.
+
+Matrix Form
+
+   [[64]edit]
+
+   In matrix form, the 't Hooft symbols are
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo>
+   <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>1</mn>
+   </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd>
+   <mtd> <mn>1</mn> </mtd> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd>
+   <mn>0</mn> </mtd> <mtd> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mo>−</mo> <mn>1</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn>
+   </mtd> </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mo>,</mo> <mspace
+   width="1em" /> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>2</mn> <mi>μ</mi> <mi>ν</mi> </mrow> </msub> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable rowspacing="4pt"
+   columnspacing="1em"> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mn>0</mn> </mtd>
+   </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd>
+   <mn>0</mn> </mtd> <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>1</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn>
+   </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mo>−</mo> <mn>1</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> </mtr> </mtable>
+   <mo>]</mo> </mrow> </mrow> <mo>,</mo> <mspace width="1em" /> <msub>
+   <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> <mi>μ</mi>
+   <mi>ν</mi> </mrow> </msub> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mrow> <mo>[</mo> <mtable rowspacing="4pt" columnspacing="1em"> <mtr>
+   <mtd> <mn>0</mn> </mtd> <mtd> <mn>1</mn> </mtd> <mtd> <mn>0</mn> </mtd>
+   <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mo>−</mo> <mn>1</mn> </mtd>
+   <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd>
+   </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd>
+   <mn>0</mn> </mtd> <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mo>−</mo> <mn>1</mn> </mtd> <mtd>
+   <mn>0</mn> </mtd> </mtr> </mtable> <mo>]</mo> </mrow> </mrow>
+   <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \eta _{1\mu \nu
+   }={\begin{bmatrix}0&0&0&1\\0&0&1&0\\0&-1&0&0\\-1&0&0&0\end{bmatrix}},\q
+   uad \eta _{2\mu \nu
+   }={\begin{bmatrix}0&0&-1&0\\0&0&0&1\\1&0&0&0\\0&-1&0&0\end{bmatrix}},\q
+   uad \eta _{3\mu \nu
+   }={\begin{bmatrix}0&1&0&0\\-1&0&0&0\\0&0&0&1\\0&0&-1&0\end{bmatrix}},}<
+   /annotation> </semantics> :MATH]
+   {\displaystyle \eta _{1\mu \nu
+   }={\begin{bmatrix}0&0&0&1\\0&0&1&0\\0&-1&0&0\\-1&0&0&0\end{bmatrix}},\q
+   uad \eta _{2\mu \nu
+   }={\begin{bmatrix}0&0&-1&0\\0&0&0&1\\1&0&0&0\\0&-1&0&0\end{bmatrix}},\q
+   uad \eta _{3\mu \nu
+   }={\begin{bmatrix}0&1&0&0\\-1&0&0&0\\0&0&0&1\\0&0&-1&0\end{bmatrix}},}
+   and their anti-self-duals are the following:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>η</mi> <mo stretchy="false">¯</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo>
+   <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mo>−</mo>
+   <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>1</mn> </mtd> <mtd> <mn>0</mn> </mtd> </mtr> <mtr>
+   <mtd> <mn>0</mn> </mtd> <mtd> <mo>−</mo> <mn>1</mn> </mtd> <mtd>
+   <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>1</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn>
+   </mtd> </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mo>,</mo> <mspace
+   width="1em" /> <msub> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mi>η</mi> <mo stretchy="false">¯</mo>
+   </mover> </mrow> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   <mi>μ</mi> <mi>ν</mi> </mrow> </msub> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable rowspacing="4pt"
+   columnspacing="1em"> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mn>0</mn> </mtd>
+   </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd>
+   <mn>0</mn> </mtd> <mtd> <mo>−</mo> <mn>1</mn> </mtd> </mtr> <mtr> <mtd>
+   <mn>1</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd>
+   <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mn>1</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> </mtr> </mtable>
+   <mo>]</mo> </mrow> </mrow> <mo>,</mo> <mspace width="1em" /> <msub>
+   <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>η</mi> <mo stretchy="false">¯</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo>
+   <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>1</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn>
+   </mtd> </mtr> <mtr> <mtd> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mn>0</mn>
+   </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> </mtr> <mtr>
+   <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd>
+   <mtd> <mo>−</mo> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd>
+   <mtd> <mn>0</mn> </mtd> <mtd> <mn>1</mn> </mtd> <mtd> <mn>0</mn> </mtd>
+   </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\bar
+   {\eta }}_{1\mu \nu
+   }={\begin{bmatrix}0&0&0&-1\\0&0&1&0\\0&-1&0&0\\1&0&0&0\end{bmatrix}},\q
+   uad {\bar {\eta }}_{2\mu \nu
+   }={\begin{bmatrix}0&0&-1&0\\0&0&0&-1\\1&0&0&0\\0&1&0&0\end{bmatrix}},\q
+   uad {\bar {\eta }}_{3\mu \nu
+   }={\begin{bmatrix}0&1&0&0\\-1&0&0&0\\0&0&0&-1\\0&0&1&0\end{bmatrix}}.}<
+   /annotation> </semantics> :MATH]
+   {\displaystyle {\bar {\eta }}_{1\mu \nu
+   }={\begin{bmatrix}0&0&0&-1\\0&0&1&0\\0&-1&0&0\\1&0&0&0\end{bmatrix}},\q
+   uad {\bar {\eta }}_{2\mu \nu
+   }={\begin{bmatrix}0&0&-1&0\\0&0&0&-1\\1&0&0&0\\0&1&0&0\end{bmatrix}},\q
+   uad {\bar {\eta }}_{3\mu \nu
+   }={\begin{bmatrix}0&1&0&0\\-1&0&0&0\\0&0&0&-1\\0&0&1&0\end{bmatrix}}.}
+
+Properties
+
+   [[65]edit]
+
+   They satisfy the self-duality and the anti-self-duality properties:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mfrac> <mn>1</mn> <mn>2</mn>
+   </mfrac> </mstyle> </mrow> <msub> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ν</mi> <mi>ρ</mi> <mi>σ</mi>
+   </mrow> </msub> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>a</mi> <mi>ρ</mi> <mi>σ</mi> </mrow> </msub> <mtext> </mtext>
+   <mo>,</mo> <mspace width="2em" /> <msub> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>η</mi> <mo
+   stretchy="false">¯</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <mo>=</mo> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mfrac> <mn>1</mn> <mn>2</mn>
+   </mfrac> </mstyle> </mrow> <msub> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ν</mi> <mi>ρ</mi> <mi>σ</mi>
+   </mrow> </msub> <msub> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mi>η</mi> <mo stretchy="false">¯</mo>
+   </mover> </mrow> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+   <mi>ρ</mi> <mi>σ</mi> </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \eta _{a\mu \nu }={\tfrac
+   {1}{2}}\epsilon _{\mu \nu \rho \sigma }\eta _{a\rho \sigma }\ ,\qquad
+   {\bar {\eta }}_{a\mu \nu }=-{\tfrac {1}{2}}\epsilon _{\mu \nu \rho
+   \sigma }{\bar {\eta }}_{a\rho \sigma }}</annotation> </semantics>
+   :MATH]
+   {\displaystyle \eta _{a\mu \nu }={\tfrac {1}{2}}\epsilon _{\mu \nu \rho
+   \sigma }\eta _{a\rho \sigma }\ ,\qquad {\bar {\eta }}_{a\mu \nu
+   }=-{\tfrac {1}{2}}\epsilon _{\mu \nu \rho \sigma }{\bar {\eta }}_{a\rho
+   \sigma }}
+
+   Some other properties are
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <mo>=</mo> <mo>−</mo> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>ν</mi> <mi>μ</mi> </mrow>
+   </msub> <mtext> </mtext> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \eta _{a\mu \nu }=-\eta
+   _{a\nu \mu }\ ,}</annotation> </semantics> :MATH]
+   {\displaystyle \eta _{a\mu \nu }=-\eta _{a\nu \mu }\ ,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>b</mi> <mi>c</mi> </mrow>
+   </msub> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi>
+   <mi>μ</mi> <mi>ν</mi> </mrow> </msub> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>c</mi> <mi>ρ</mi> <mi>σ</mi> </mrow>
+   </msub> <mo>=</mo> <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>μ</mi> <mi>ρ</mi> </mrow> </msub> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>ν</mi> <mi>σ</mi> </mrow>
+   </msub> <mo>+</mo> <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>ν</mi> <mi>σ</mi> </mrow> </msub> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ρ</mi> </mrow>
+   </msub> <mo>−</mo> <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>μ</mi> <mi>σ</mi> </mrow> </msub> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>ν</mi> <mi>ρ</mi> </mrow>
+   </msub> <mo>−</mo> <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>ν</mi> <mi>ρ</mi> </mrow> </msub> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>σ</mi> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \epsilon _{abc}\eta _{b\mu
+   \nu }\eta _{c\rho \sigma }=\delta _{\mu \rho }\eta _{a\nu \sigma
+   }+\delta _{\nu \sigma }\eta _{a\mu \rho }-\delta _{\mu \sigma }\eta
+   _{a\nu \rho }-\delta _{\nu \rho }\eta _{a\mu \sigma }}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \epsilon _{abc}\eta _{b\mu \nu }\eta _{c\rho \sigma
+   }=\delta _{\mu \rho }\eta _{a\nu \sigma }+\delta _{\nu \sigma }\eta
+   _{a\mu \rho }-\delta _{\mu \sigma }\eta _{a\nu \rho }-\delta _{\nu \rho
+   }\eta _{a\mu \sigma }}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+   <mi>ρ</mi> <mi>σ</mi> </mrow> </msub> <mo>=</mo> <msub> <mi>δ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ρ</mi> </mrow> </msub>
+   <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>ν</mi> <mi>σ</mi>
+   </mrow> </msub> <mo>−</mo> <msub> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>σ</mi> </mrow> </msub> <msub>
+   <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>ν</mi> <mi>ρ</mi> </mrow>
+   </msub> <mo>+</mo> <msub> <mi>ϵ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>μ</mi> <mi>ν</mi> <mi>ρ</mi> <mi>σ</mi> </mrow> </msub>
+   <mtext> </mtext> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \eta _{a\mu \nu }\eta
+   _{a\rho \sigma }=\delta _{\mu \rho }\delta _{\nu \sigma }-\delta _{\mu
+   \sigma }\delta _{\nu \rho }+\epsilon _{\mu \nu \rho \sigma }\
+   ,}</annotation> </semantics> :MATH]
+   {\displaystyle \eta _{a\mu \nu }\eta _{a\rho \sigma }=\delta _{\mu \rho
+   }\delta _{\nu \sigma }-\delta _{\mu \sigma }\delta _{\nu \rho
+   }+\epsilon _{\mu \nu \rho \sigma }\ ,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ρ</mi> </mrow>
+   </msub> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi>
+   <mi>μ</mi> <mi>σ</mi> </mrow> </msub> <mo>=</mo> <msub> <mi>δ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>b</mi> </mrow> </msub>
+   <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>ρ</mi> <mi>σ</mi>
+   </mrow> </msub> <mo>+</mo> <msub> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>b</mi> <mi>c</mi> </mrow>
+   </msub> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>c</mi>
+   <mi>ρ</mi> <mi>σ</mi> </mrow> </msub> <mtext> </mtext> <mo>,</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \eta _{a\mu \rho }\eta
+   _{b\mu \sigma }=\delta _{ab}\delta _{\rho \sigma }+\epsilon _{abc}\eta
+   _{c\rho \sigma }\ ,}</annotation> </semantics> :MATH]
+   {\displaystyle \eta _{a\mu \rho }\eta _{b\mu \sigma }=\delta
+   _{ab}\delta _{\rho \sigma }+\epsilon _{abc}\eta _{c\rho \sigma }\ ,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ν</mi> <mi>ρ</mi> <mi>θ</mi>
+   </mrow> </msub> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>a</mi> <mi>σ</mi> <mi>θ</mi> </mrow> </msub> <mo>=</mo> <msub>
+   <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mi>μ</mi> </mrow>
+   </msub> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+   <mi>ν</mi> <mi>ρ</mi> </mrow> </msub> <mo>+</mo> <msub> <mi>δ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mi>ρ</mi> </mrow> </msub>
+   <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi>
+   <mi>ν</mi> </mrow> </msub> <mo>−</mo> <msub> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mi>ν</mi> </mrow> </msub> <msub>
+   <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi>
+   <mi>ρ</mi> </mrow> </msub> <mtext> </mtext> <mo>,</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   \epsilon _{\mu \nu \rho \theta }\eta _{a\sigma \theta }=\delta _{\sigma
+   \mu }\eta _{a\nu \rho }+\delta _{\sigma \rho }\eta _{a\mu \nu }-\delta
+   _{\sigma \nu }\eta _{a\mu \rho }\ ,}</annotation> </semantics> :MATH]
+   {\displaystyle \epsilon _{\mu \nu \rho \theta }\eta _{a\sigma \theta
+   }=\delta _{\sigma \mu }\eta _{a\nu \rho }+\delta _{\sigma \rho }\eta
+   _{a\mu \nu }-\delta _{\sigma \nu }\eta _{a\mu \rho }\ ,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+   <mi>μ</mi> <mi>ν</mi> </mrow> </msub> <mo>=</mo> <mn>12</mn>
+   <mtext> </mtext> <mo>,</mo> <mspace width="1em" /> <msub> <mi>η</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <msub> <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi>
+   <mi>μ</mi> <mi>ν</mi> </mrow> </msub> <mo>=</mo> <mn>4</mn> <msub>
+   <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>b</mi> </mrow>
+   </msub> <mtext> </mtext> <mo>,</mo> <mspace width="1em" /> <msub>
+   <mi>η</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi>
+   <mi>ρ</mi> </mrow> </msub> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>σ</mi> </mrow>
+   </msub> <mo>=</mo> <mn>3</mn> <msub> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>ρ</mi> <mi>σ</mi> </mrow> </msub>
+   <mtext> </mtext> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \eta _{a\mu \nu }\eta
+   _{a\mu \nu }=12\ ,\quad \eta _{a\mu \nu }\eta _{b\mu \nu }=4\delta
+   _{ab}\ ,\quad \eta _{a\mu \rho }\eta _{a\mu \sigma }=3\delta _{\rho
+   \sigma }\ .}</annotation> </semantics> :MATH]
+   {\displaystyle \eta _{a\mu \nu }\eta _{a\mu \nu }=12\ ,\quad \eta
+   _{a\mu \nu }\eta _{b\mu \nu }=4\delta _{ab}\ ,\quad \eta _{a\mu \rho
+   }\eta _{a\mu \sigma }=3\delta _{\rho \sigma }\ .}
+
+   The same holds for
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>η</mi> <mo
+   stretchy="false">¯</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\bar {\eta
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle {\bar {\eta }}} except for
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>η</mi> <mo stretchy="false">¯</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <msub> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mi>η</mi> <mo stretchy="false">¯</mo>
+   </mover> </mrow> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+   <mi>ρ</mi> <mi>σ</mi> </mrow> </msub> <mo>=</mo> <msub> <mi>δ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ρ</mi> </mrow> </msub>
+   <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>ν</mi> <mi>σ</mi>
+   </mrow> </msub> <mo>−</mo> <msub> <mi>δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>σ</mi> </mrow> </msub> <msub>
+   <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>ν</mi> <mi>ρ</mi> </mrow>
+   </msub> <mo>−</mo> <msub> <mi>ϵ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>μ</mi> <mi>ν</mi> <mi>ρ</mi> <mi>σ</mi> </mrow> </msub>
+   <mtext> </mtext> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\bar {\eta }}_{a\mu \nu
+   }{\bar {\eta }}_{a\rho \sigma }=\delta _{\mu \rho }\delta _{\nu \sigma
+   }-\delta _{\mu \sigma }\delta _{\nu \rho }-\epsilon _{\mu \nu \rho
+   \sigma }\ .}</annotation> </semantics> :MATH]
+   {\displaystyle {\bar {\eta }}_{a\mu \nu }{\bar {\eta }}_{a\rho \sigma
+   }=\delta _{\mu \rho }\delta _{\nu \sigma }-\delta _{\mu \sigma }\delta
+   _{\nu \rho }-\epsilon _{\mu \nu \rho \sigma }\ .}
+
+   and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ν</mi> <mi>ρ</mi> <mi>θ</mi>
+   </mrow> </msub> <msub> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mi>η</mi> <mo stretchy="false">¯</mo>
+   </mover> </mrow> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+   <mi>σ</mi> <mi>θ</mi> </mrow> </msub> <mo>=</mo> <mo>−</mo> <msub>
+   <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mi>μ</mi> </mrow>
+   </msub> <msub> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mi>η</mi> <mo stretchy="false">¯</mo>
+   </mover> </mrow> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi>
+   <mi>ν</mi> <mi>ρ</mi> </mrow> </msub> <mo>−</mo> <msub> <mi>δ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mi>ρ</mi> </mrow> </msub>
+   <msub> <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+   <mover> <mi>η</mi> <mo stretchy="false">¯</mo> </mover> </mrow> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <mo>+</mo> <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>σ</mi> <mi>ν</mi> </mrow> </msub> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>η</mi> <mo stretchy="false">¯</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ρ</mi> </mrow>
+   </msub> <mtext> </mtext> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \epsilon _{\mu \nu \rho
+   \theta }{\bar {\eta }}_{a\sigma \theta }=-\delta _{\sigma \mu }{\bar
+   {\eta }}_{a\nu \rho }-\delta _{\sigma \rho }{\bar {\eta }}_{a\mu \nu
+   }+\delta _{\sigma \nu }{\bar {\eta }}_{a\mu \rho }\ ,}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \epsilon _{\mu \nu \rho \theta }{\bar {\eta }}_{a\sigma
+   \theta }=-\delta _{\sigma \mu }{\bar {\eta }}_{a\nu \rho }-\delta
+   _{\sigma \rho }{\bar {\eta }}_{a\mu \nu }+\delta _{\sigma \nu }{\bar
+   {\eta }}_{a\mu \rho }\ ,}
+
+   Obviously
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>η</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> <msub> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mi>η</mi> <mo stretchy="false">¯</mo>
+   </mover> </mrow> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi>
+   <mi>μ</mi> <mi>ν</mi> </mrow> </msub> <mo>=</mo> <mn>0</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \eta
+   _{a\mu \nu }{\bar {\eta }}_{b\mu \nu }=0}</annotation> </semantics>
+   :MATH]
+   {\displaystyle \eta _{a\mu \nu }{\bar {\eta }}_{b\mu \nu }=0} due to
+   different duality properties.
+
+   Many properties of these are tabulated in the appendix of 't Hooft's
+   paper^[66][1] and also in the article by Belitsky et al.^[67][2]
+
+See also
+
+   [[68]edit]
+     * [69]Instanton
+     * [70]'t Hooft anomaly
+     * [71]'t Hooft–Polyakov monopole
+     * [72]'t Hooft loop
+
+References
+
+   [[73]edit]
+    1. [74]^ 't Hooft, G. (1976). "Computation of the quantum effects due
+       to a four-dimensional pseudoparticle". Physical Review D. 14 (12):
+       3432–3450. [75]Bibcode:[76]1976PhRvD..14.3432T.
+       [77]doi:[78]10.1103/PhysRevD.14.3432.
+    2. [79]^ Belitsky, A. V.; Vandoren, S.; Nieuwenhuizen, P. V. (2000).
+       "Yang-Mills and D-instantons". Classical and Quantum Gravity. 17
+       (17): 3521–3570. [80]arXiv:[81]hep-th/0004186.
+       [82]Bibcode:[83]2000CQGra..17.3521B.
+       [84]doi:[85]10.1088/0264-9381/17/17/305. [86]S2CID [87]16107344.
+
+   Retrieved from
+   "[88]https://en.wikipedia.org/w/index.php?title=%27t_Hooft_symbol&oldid
+   =1263424175"
+   [89]Categories:
+     * [90]Gauge theories
+     * [91]Mathematical symbols
+
+   Hidden categories:
+     * [92]Articles with short description
+     * [93]Short description is different from Wikidata
+
+     * This page was last edited on 16 December 2024, at 15:58 (UTC).
+     * Text is available under the [94]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [95]Terms of Use and [96]Privacy
+       Policy. Wikipedia® is a registered trademark of the [97]Wikimedia
+       Foundation, Inc., a non-profit organization.
+
+     * [98]Privacy policy
+     * [99]About Wikipedia
+     * [100]Disclaimers
+     * [101]Contact Wikipedia
+     * [102]Code of Conduct
+     * [103]Developers
+     * [104]Statistics
+     * [105]Cookie statement
+     * [106]Mobile view
+
+     * [107]Wikimedia Foundation
+     * [108]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/'t_Hooft_symbol
+   2. file:///w/index.php?title='t_Hooft_symbol&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto='t+Hooft+symbol
+  21. file:///w/index.php?title=Special:UserLogin&returnto='t+Hooft+symbol
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto='t+Hooft+symbol
+  24. file:///w/index.php?title=Special:UserLogin&returnto='t+Hooft+symbol
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html
+  29. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#Definition
+  30. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#Matrix_Form
+  31. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#Properties
+  32. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#See_also
+  33. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#References
+  34. https://de.wikipedia.org/wiki/’t_Hooft-Symbol
+  35. https://www.wikidata.org/wiki/Special:EntityPage/Q4540600#sitelinks-wikipedia
+  36. file:///wiki/'t_Hooft_symbol
+  37. file:///wiki/Talk:'t_Hooft_symbol
+  38. file:///wiki/'t_Hooft_symbol
+  39. file:///w/index.php?title='t_Hooft_symbol&action=edit
+  40. file:///w/index.php?title='t_Hooft_symbol&action=history
+  41. file:///wiki/'t_Hooft_symbol
+  42. file:///w/index.php?title='t_Hooft_symbol&action=edit
+  43. file:///w/index.php?title='t_Hooft_symbol&action=history
+  44. file:///wiki/Special:WhatLinksHere/'t_Hooft_symbol
+  45. file:///wiki/Special:RecentChangesLinked/'t_Hooft_symbol
+  46. file:///wiki/Wikipedia:File_Upload_Wizard
+  47. file:///wiki/Special:SpecialPages
+  48. file:///w/index.php?title='t_Hooft_symbol&oldid=1263424175
+  49. file:///w/index.php?title='t_Hooft_symbol&action=info
+  50. file:///w/index.php?title=Special:CiteThisPage&page='t_Hooft_symbol&id=1263424175&wpFormIdentifier=titleform
+  51. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/%27t_Hooft_symbol
+  52. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/%27t_Hooft_symbol
+  53. file:///w/index.php?title=Special:DownloadAsPdf&page='t_Hooft_symbol&action=show-download-screen
+  54. file:///w/index.php?title='t_Hooft_symbol&printable=yes
+  55. https://www.wikidata.org/wiki/Special:EntityPage/Q4540600
+  56. file:///wiki/Generating_set_of_a_group
+  57. file:///wiki/SU(2)
+  58. file:///wiki/Generating_set_of_a_group
+  59. file:///wiki/Kronecker_delta
+  60. file:///wiki/Levi-Civita_symbol
+  61. file:///wiki/Gerard_'t_Hooft
+  62. file:///wiki/BPST_instanton
+  63. file:///w/index.php?title='t_Hooft_symbol&action=edit&section=1
+  64. file:///w/index.php?title='t_Hooft_symbol&action=edit&section=2
+  65. file:///w/index.php?title='t_Hooft_symbol&action=edit&section=3
+  66. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#cite_note-1
+  67. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#cite_note-2
+  68. file:///w/index.php?title='t_Hooft_symbol&action=edit&section=4
+  69. file:///wiki/Instanton
+  70. file:///wiki/'t_Hooft_anomaly
+  71. file:///wiki/'t_Hooft–Polyakov_monopole
+  72. file:///wiki/'t_Hooft_loop
+  73. file:///w/index.php?title='t_Hooft_symbol&action=edit&section=5
+  74. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#cite_ref-1
+  75. file:///wiki/Bibcode_(identifier)
+  76. https://ui.adsabs.harvard.edu/abs/1976PhRvD..14.3432T
+  77. file:///wiki/Doi_(identifier)
+  78. https://doi.org/10.1103/PhysRevD.14.3432
+  79. file:///tmp/lynxXXXXWHo5in/L39732-9801TMP.html#cite_ref-2
+  80. file:///wiki/ArXiv_(identifier)
+  81. https://arxiv.org/abs/hep-th/0004186
+  82. file:///wiki/Bibcode_(identifier)
+  83. https://ui.adsabs.harvard.edu/abs/2000CQGra..17.3521B
+  84. file:///wiki/Doi_(identifier)
+  85. https://doi.org/10.1088/0264-9381/17/17/305
+  86. file:///wiki/S2CID_(identifier)
+  87. https://api.semanticscholar.org/CorpusID:16107344
+  88. https://en.wikipedia.org/w/index.php?title='t_Hooft_symbol&oldid=1263424175
+  89. file:///wiki/Help:Category
+  90. file:///wiki/Category:Gauge_theories
+  91. file:///wiki/Category:Mathematical_symbols
+  92. file:///wiki/Category:Articles_with_short_description
+  93. file:///wiki/Category:Short_description_is_different_from_Wikidata
+  94. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+  95. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+  96. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+  97. https://wikimediafoundation.org/
+  98. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+  99. file:///wiki/Wikipedia:About
+ 100. file:///wiki/Wikipedia:General_disclaimer
+ 101. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 102. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 103. https://developer.wikimedia.org/
+ 104. https://stats.wikimedia.org/#/en.wikipedia.org
+ 105. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 106. file://en.m.wikipedia.org/w/index.php?title='t_Hooft_symbol&mobileaction=toggle_view_mobile
+ 107. https://wikimediafoundation.org/
+ 108. https://www.mediawiki.org/

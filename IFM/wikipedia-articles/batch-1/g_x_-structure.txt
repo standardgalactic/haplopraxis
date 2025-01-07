@@ -1,0 +1,1019 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Definition and examples
+       (BUTTON) Toggle Definition and examples subsection
+          + [30]1.1 Formal definition
+          + [31]1.2 Riemannian examples
+          + [32]1.3 Pseudo-Riemannian examples
+          + [33]1.4 Other examples
+     * [34]2 Developing map and completeness
+       (BUTTON) Toggle Developing map and completeness subsection
+          + [35]2.1 Developing map
+          + [36]2.2 Monodromy
+          + [37]2.3 Complete (G,X)-structures
+          + [38]2.4 Examples
+               o [39]2.4.1 Riemannian (G,X)-structures
+               o [40]2.4.2 Other cases
+     * [41]3 (G,X)-structures as connections
+     * [42]4 Notes
+     * [43]5 References
+
+   [ ] Toggle the table of contents
+
+(G,X)-manifold
+
+   [ ] Add languages
+
+   [44]Add links
+
+     * [45]Article
+     * [46]Talk
+
+   [ ] English
+
+     * [47]Read
+     * [48]Edit
+     * [49]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [50]Read
+     * [51]Edit
+     * [52]View history
+
+   General
+     * [53]What links here
+     * [54]Related changes
+     * [55]Upload file
+     * [56]Special pages
+     * [57]Permanent link
+     * [58]Page information
+     * [59]Cite this page
+     * [60]Get shortened URL
+     * [61]Download QR code
+
+   Print/export
+     * [62]Download as PDF
+     * [63]Printable version
+
+   In other projects
+     * [64]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [65](G,X)-structure)
+
+   In [66]geometry, if X is a manifold with an action of a [67]topological
+   group G by analytical diffeomorphisms, the notion of a (G, X)-structure
+   on a [68]topological space is a way to formalise it being locally
+   isomorphic to X with its G-invariant structure; spaces with a (G,
+   X)-structure are always [69]manifolds and are called (G, X)-manifolds.
+   This notion is often used with G being a [70]Lie group and X a
+   [71]homogeneous space for G. Foundational examples are [72]hyperbolic
+   manifolds and [73]affine manifolds.
+
+Definition and examples
+
+   [[74]edit]
+
+Formal definition
+
+   [[75]edit]
+
+   Let
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} be a [76]connected [77]differential manifold and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} be a subgroup of the group of [78]diffeomorphisms of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} which act analytically in the following sense:
+
+          if
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>g</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <msub> <mi>g</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msub> <mo>∈</mo> <mi>G</mi> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          g_{1},g_{2}\in G}</annotation> </semantics> :MATH]
+          {\displaystyle g_{1},g_{2}\in G} and there is a nonempty open
+          subset
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>U</mi> <mo>⊂</mo>
+          <mi>X</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle U\subset
+          X}</annotation> </semantics> :MATH]
+          {\displaystyle U\subset X} such that
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>g</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <msub> <mi>g</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          g_{1},g_{2}}</annotation> </semantics> :MATH]
+          {\displaystyle g_{1},g_{2}} are equal when restricted to
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>U</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          U}</annotation> </semantics> :MATH]
+          {\displaystyle U} then
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>g</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>=</mo>
+          <msub> <mi>g</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          g_{1}=g_{2}}</annotation> </semantics> :MATH]
+          {\displaystyle g_{1}=g_{2}}
+
+   (this definition is inspired by the analytic continuation property of
+   analytic diffeomorphisms on an [79]analytic manifold).
+
+   A
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} -structure on a topological space
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>M</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle M}</annotation>
+   </semantics> :MATH]
+   {\displaystyle M} is a [80]manifold structure on
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>M</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle M}</annotation>
+   </semantics> :MATH]
+   {\displaystyle M} whose [81]atlas' charts has values in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} and [82]transition maps belong to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} . This means that there exists:
+     * a covering of
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>M</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       M}</annotation> </semantics> :MATH]
+       {\displaystyle M} by open sets
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>U</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>,</mo>
+       <mi>i</mi> <mo>∈</mo> <mi>I</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle U_{i},i\in
+       I}</annotation> </semantics> :MATH]
+       {\displaystyle U_{i},i\in I} (i.e.
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>M</mi> <mo>=</mo> <munder>
+       <mo>⋃</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>∈</mo>
+       <mi>I</mi> </mrow> </munder> <msub> <mi>U</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       M=\bigcup _{i\in I}U_{i}}</annotation> </semantics> :MATH]
+       {\displaystyle M=\bigcup _{i\in I}U_{i}} );
+     * open [83]embeddings
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>φ</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>:</mo>
+       <msub> <mi>U</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow>
+       </msub> <mo stretchy="false">→</mo> <mi>X</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \varphi
+       _{i}:U_{i}\to X}</annotation> </semantics> :MATH]
+       {\displaystyle \varphi _{i}:U_{i}\to X} called charts;
+
+   such that every transition map
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>φ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>∘</mo>
+   <msubsup> <mi>φ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msubsup>
+   <mo>:</mo> <msub> <mi>φ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi>
+   </mrow> </msub> <mo stretchy="false">(</mo> <msub> <mi>U</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>∩</mo> <msub>
+   <mi>U</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub>
+   <mo stretchy="false">)</mo> <mo stretchy="false">→</mo> <msub>
+   <mi>φ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+   <mo stretchy="false">(</mo> <msub> <mi>U</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>∩</mo> <msub>
+   <mi>U</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub>
+   <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \varphi _{i}\circ \varphi
+   _{j}^{-1}:\varphi _{j}(U_{i}\cap U_{j})\to \varphi _{i}(U_{i}\cap
+   U_{j})}</annotation> </semantics> :MATH]
+   {\displaystyle \varphi _{i}\circ \varphi _{j}^{-1}:\varphi
+   _{j}(U_{i}\cap U_{j})\to \varphi _{i}(U_{i}\cap U_{j})} is the
+   restriction of a diffeomorphism in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} .
+
+   Two such structures
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo> <msub>
+   <mi>U</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+   <mo>,</mo> <msub> <mi>φ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+   </mrow> </msub> <mo stretchy="false">)</mo> <mo>,</mo> <mo
+   stretchy="false">(</mo> <msub> <mi>V</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub> <mo>,</mo> <msub>
+   <mi>ψ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub>
+   <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle (U_{i},\varphi
+   _{i}),(V_{j},\psi _{j})}</annotation> </semantics> :MATH]
+   {\displaystyle (U_{i},\varphi _{i}),(V_{j},\psi _{j})} are equivalent
+   when they are contained in a maximal one, equivalently when their union
+   is also a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} structure (i.e. the maps
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>φ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>∘</mo>
+   <msubsup> <mi>ψ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msubsup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \varphi _{i}\circ \psi
+   _{j}^{-1}}</annotation> </semantics> :MATH]
+   {\displaystyle \varphi _{i}\circ \psi _{j}^{-1}} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>ψ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub> <mo>∘</mo>
+   <msubsup> <mi>φ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msubsup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \psi _{j}\circ \varphi
+   _{i}^{-1}}</annotation> </semantics> :MATH]
+   {\displaystyle \psi _{j}\circ \varphi _{i}^{-1}} are restrictions of
+   diffeomorphisms in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} ).
+
+Riemannian examples
+
+   [[84]edit]
+
+   If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} is a [85]Lie group and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} a [86]Riemannian manifold with a [87]faithful action
+   of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} by [88]isometries then the action is analytic.
+   Usually one takes
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} to be the full isometry group of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} . Then the category of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} manifolds is equivalent to the category of
+   Riemannian manifolds which are locally isometric to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} (i.e. every point has a neighbourhood isometric to an
+   open subset of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} ).
+
+   Often the examples of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} are [89]homogeneous under
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} , for example one can take
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> <mo>=</mo> <mi>G</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle X=G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X=G} with a left-invariant metric. A particularly simple
+   example is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> <mo>=</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   X=\mathbb {R} ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle X=\mathbb {R} ^{n}} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} the group of [90]euclidean isometries. Then a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} manifold is simply a [91]flat manifold.
+
+   A particularly interesting example is when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is a Riemannian [92]symmetric space, for example
+   [93]hyperbolic space. The simplest such example is the [94]hyperbolic
+   plane, whose isometry group is isomorphic to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> <mo>=</mo> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">P</mi> <mi
+   mathvariant="normal">G</mi> <mi mathvariant="normal">L</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+   stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">R</mi> </mrow> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle G=\mathrm {PGL}
+   _{2}(\mathbb {R} )}</annotation> </semantics> :MATH]
+   {\displaystyle G=\mathrm {PGL} _{2}(\mathbb {R} )} .
+
+Pseudo-Riemannian examples
+
+   [[95]edit]
+
+   When
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is [96]Minkowski space and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} the [97]Lorentz group the notion of a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} -structure is the same as that of a flat
+   [98]Lorentzian manifold.
+
+Other examples
+
+   [[99]edit]
+
+   When
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is the affine space and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} the group of affine transformations then one gets the
+   notion of an [100]affine manifold.
+
+   When
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> <mo>=</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">P</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo
+   stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">R</mi> </mrow> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle X=\mathbb {P} ^{n}(\mathbb
+   {R} )}</annotation> </semantics> :MATH]
+   {\displaystyle X=\mathbb {P} ^{n}(\mathbb {R} )} is the n-dimensional
+   real [101]projective space and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> <mo>=</mo> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">P</mi> <mi
+   mathvariant="normal">G</mi> <mi mathvariant="normal">L</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </msub> <mo stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">R</mi> </mrow> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle G=\mathrm {PGL}
+   _{n+1}(\mathbb {R} )}</annotation> </semantics> :MATH]
+   {\displaystyle G=\mathrm {PGL} _{n+1}(\mathbb {R} )} one gets the
+   notion of a projective structure.^[102][1]
+
+Developing map and completeness
+
+   [[103]edit]
+
+Developing map
+
+   [[104]edit]
+
+   Let
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>M</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle M}</annotation>
+   </semantics> :MATH]
+   {\displaystyle M} be a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} -manifold which is connected (as a topological
+   space). The developing map is a map from the [105]universal cover
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>M</mi> <mo
+   stretchy="false">~</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\tilde
+   {M}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {M}}} to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} which is only well-defined up to composition by an
+   element of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} .
+
+   A developing map is defined as follows:^[106][2] fix
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo>∈</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>M</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle p\in {\tilde
+   {M}}}</annotation> </semantics> :MATH]
+   {\displaystyle p\in {\tilde {M}}} and let
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>q</mi> <mo>∈</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>M</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle q\in {\tilde
+   {M}}}</annotation> </semantics> :MATH]
+   {\displaystyle q\in {\tilde {M}}} be any other point,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } a path from
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+   </semantics> :MATH]
+   {\displaystyle p} to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>q</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle q}</annotation>
+   </semantics> :MATH]
+   {\displaystyle q} , and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>φ</mi> <mo>:</mo> <mi>U</mi>
+   <mo stretchy="false">→</mo> <mi>X</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \varphi :U\to
+   X}</annotation> </semantics> :MATH]
+   {\displaystyle \varphi :U\to X} (where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>U</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle U}</annotation>
+   </semantics> :MATH]
+   {\displaystyle U} is a small enough neighbourhood of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+   </semantics> :MATH]
+   {\displaystyle p} ) a map obtained by composing a chart of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>M</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle M}</annotation>
+   </semantics> :MATH]
+   {\displaystyle M} with the projection
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>M</mi> <mo
+   stretchy="false">~</mo> </mover> </mrow> </mrow> <mo
+   stretchy="false">→</mo> <mi>M</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\tilde {M}}\to
+   M}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {M}}\to M} . We may use analytic continuation
+   along
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } to extend
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>φ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \varphi
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \varphi } so that its domain includes
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>q</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle q}</annotation>
+   </semantics> :MATH]
+   {\displaystyle q} . Since
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>M</mi> <mo
+   stretchy="false">~</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\tilde
+   {M}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {M}}} is [107]simply connected the value of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>φ</mi> <mo
+   stretchy="false">(</mo> <mi>q</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \varphi (q)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \varphi (q)} thus obtained does not depend on the
+   original choice of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>γ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \gamma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \gamma } , and we call the (well-defined) map
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>φ</mi> <mo>:</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>M</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow> <mo
+   stretchy="false">→</mo> <mi>X</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \varphi :{\tilde {M}}\to
+   X}</annotation> </semantics> :MATH]
+   {\displaystyle \varphi :{\tilde {M}}\to X} a developing map for the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} -structure. It depends on the choice of base
+   point and chart, but only up to composition by an element of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} .
+
+Monodromy
+
+   [[108]edit]
+
+   Given a developing map
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>φ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \varphi
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \varphi } , the monodromy or holonomy^[109][3] of a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} -structure is the unique morphism
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>h</mi> <mo>:</mo> <msub>
+   <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo stretchy="false">(</mo> <mi>M</mi> <mo stretchy="false">)</mo> <mo
+   stretchy="false">→</mo> <mi>G</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle h:\pi _{1}(M)\to
+   G}</annotation> </semantics> :MATH]
+   {\displaystyle h:\pi _{1}(M)\to G} which satisfies
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∀</mi> <mi>γ</mi> <mo>∈</mo> <msub>
+          <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mo stretchy="false">(</mo> <mi>M</mi> <mo
+          stretchy="false">)</mo> <mo>,</mo> <mi>p</mi> <mo>∈</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+          <mi>M</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow>
+          <mo>:</mo> <mi>φ</mi> <mo stretchy="false">(</mo> <mi>γ</mi>
+          <mo>⋅</mo> <mi>p</mi> <mo stretchy="false">)</mo> <mo>=</mo>
+          <mi>h</mi> <mo stretchy="false">(</mo> <mi>γ</mi> <mo
+          stretchy="false">)</mo> <mo>⋅</mo> <mi>φ</mi> <mo
+          stretchy="false">(</mo> <mi>p</mi> <mo stretchy="false">)</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \forall \gamma \in
+          \pi _{1}(M),p\in {\tilde {M}}:\varphi (\gamma \cdot p)=h(\gamma
+          )\cdot \varphi (p)}</annotation> </semantics> :MATH]
+          {\displaystyle \forall \gamma \in \pi _{1}(M),p\in {\tilde
+          {M}}:\varphi (\gamma \cdot p)=h(\gamma )\cdot \varphi (p)} .
+
+   It depends on the choice of a developing map but only up to an
+   [110]inner automorphism of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} .
+
+Complete (G,X)-structures
+
+   [[111]edit]
+
+   A
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} structure is said to be complete if it has a
+   developing map which is also a [112]covering map (this does not depend
+   on the choice of developing map since they differ by a diffeomorphism).
+   For example, if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is simply connected the structure is complete if and
+   only if the developing map is a diffeomorphism.
+
+Examples
+
+   [[113]edit]
+
+Riemannian (G,X)-structures
+
+   [[114]edit]
+
+   If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is a Riemannian manifold and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} its full group of isometry, then a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} -structure is complete if and only if the
+   underlying Riemannian manifold is [115]geodesically complete
+   (equivalently metrically complete). In particular, in this case if the
+   underlying space of a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} -manifold is compact then the latter is
+   automatically complete.
+
+   In the case where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} is the hyperbolic plane the developing map is the
+   same map as given by the [116]Uniformisation Theorem.
+
+Other cases
+
+   [[117]edit]
+
+   In general compactness of the space does not imply completeness of a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} -structure. For example, an affine structure on
+   the torus is complete if and only if the monodromy map has its image
+   inside the [118]translations. But there are many affine tori which do
+   not satisfy this condition, for example any quadrilateral with its
+   opposite sides glued by an affine map yields an affine structure on the
+   torus, which is complete if and only if the quadrilateral is a
+   parallelogram.
+
+   Interesting examples of complete, noncompact affine manifolds are given
+   by the Margulis spacetimes.
+
+(G,X)-structures as connections
+
+   [[119]edit]
+   Main article: [120]Ehresmann connection
+
+   In the work of [121]Charles Ehresmann
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>G</mi> <mo>,</mo> <mi>X</mi> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (G,X)}</annotation> </semantics> :MATH]
+   {\displaystyle (G,X)} -structures on a manifold
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>M</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle M}</annotation>
+   </semantics> :MATH]
+   {\displaystyle M} are viewed as flat [122]Ehresmann connections on
+   [123]fiber bundles with fiber
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>X</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+   </semantics> :MATH]
+   {\displaystyle X} over
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>M</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle M}</annotation>
+   </semantics> :MATH]
+   {\displaystyle M} , whose [124]monodromy maps lie in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+   </semantics> :MATH]
+   {\displaystyle G} .
+
+Notes
+
+   [[125]edit]
+    1. [126]^ Dumas, Emily (2009). "Complex projective structures". In
+       Papadopoulos, Athanase (ed.). Handbook of Teichmüller theory,
+       Volume II. European MAth. soc.
+    2. [127]^ [128]Thurston 1997, Chapter 3.4.
+    3. [129]^ [130]Thurston 1997, p. 141.
+
+References
+
+   [[131]edit]
+     *
+
+   Thurston, William (1997). Three-dimensional geometry and topology. Vol.
+   1. Princeton University Press.
+   Retrieved from
+   "[132]https://en.wikipedia.org/w/index.php?title=(G,X)-manifold&oldid=1
+   261290392"
+   [133]Categories:
+     * [134]Differential geometry
+     * [135]Structures on manifolds
+
+     * This page was last edited on 5 December 2024, at 08:25 (UTC).
+     * Text is available under the [136]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [137]Terms of Use and
+       [138]Privacy Policy. Wikipedia® is a registered trademark of the
+       [139]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [140]Privacy policy
+     * [141]About Wikipedia
+     * [142]Disclaimers
+     * [143]Contact Wikipedia
+     * [144]Code of Conduct
+     * [145]Developers
+     * [146]Statistics
+     * [147]Cookie statement
+     * [148]Mobile view
+
+     * [149]Wikimedia Foundation
+     * [150]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/(G,X)-manifold
+   2. file:///w/index.php?title=(G,X)-manifold&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=(G,X)-manifold
+  21. file:///w/index.php?title=Special:UserLogin&returnto=(G,X)-manifold
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=(G,X)-manifold
+  24. file:///w/index.php?title=Special:UserLogin&returnto=(G,X)-manifold
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html
+  29. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Definition_and_examples
+  30. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Formal_definition
+  31. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Riemannian_examples
+  32. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Pseudo-Riemannian_examples
+  33. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Other_examples
+  34. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Developing_map_and_completeness
+  35. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Developing_map
+  36. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Monodromy
+  37. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Complete_(G,X)-structures
+  38. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Examples
+  39. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Riemannian_(G,X)-structures
+  40. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Other_cases
+  41. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#(G,X)-structures_as_connections
+  42. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#Notes
+  43. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#References
+  44. https://www.wikidata.org/wiki/Special:EntityPage/Q13422953#sitelinks-wikipedia
+  45. file:///wiki/(G,X)-manifold
+  46. file:///wiki/Talk:(G,X)-manifold
+  47. file:///wiki/(G,X)-manifold
+  48. file:///w/index.php?title=(G,X)-manifold&action=edit
+  49. file:///w/index.php?title=(G,X)-manifold&action=history
+  50. file:///wiki/(G,X)-manifold
+  51. file:///w/index.php?title=(G,X)-manifold&action=edit
+  52. file:///w/index.php?title=(G,X)-manifold&action=history
+  53. file:///wiki/Special:WhatLinksHere/(G,X)-manifold
+  54. file:///wiki/Special:RecentChangesLinked/(G,X)-manifold
+  55. file:///wiki/Wikipedia:File_Upload_Wizard
+  56. file:///wiki/Special:SpecialPages
+  57. file:///w/index.php?title=(G,X)-manifold&oldid=1261290392
+  58. file:///w/index.php?title=(G,X)-manifold&action=info
+  59. file:///w/index.php?title=Special:CiteThisPage&page=(G,X)-manifold&id=1261290392&wpFormIdentifier=titleform
+  60. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/(G,X)-manifold
+  61. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/(G,X)-manifold
+  62. file:///w/index.php?title=Special:DownloadAsPdf&page=(G,X)-manifold&action=show-download-screen
+  63. file:///w/index.php?title=(G,X)-manifold&printable=yes
+  64. https://www.wikidata.org/wiki/Special:EntityPage/Q13422953
+  65. file:///w/index.php?title=(G,X)-structure&redirect=no
+  66. file:///wiki/Geometry
+  67. file:///wiki/Topological_group
+  68. file:///wiki/Topological_space
+  69. file:///wiki/Manifold
+  70. file:///wiki/Lie_group
+  71. file:///wiki/Homogeneous_space
+  72. file:///wiki/Hyperbolic_manifold
+  73. file:///wiki/Affine_manifold
+  74. file:///w/index.php?title=(G,X)-manifold&action=edit&section=1
+  75. file:///w/index.php?title=(G,X)-manifold&action=edit&section=2
+  76. file:///wiki/Connectedness_(topology)
+  77. file:///wiki/Differential_manifold
+  78. file:///wiki/Diffeomorphism
+  79. file:///wiki/Analytic_manifold
+  80. file:///wiki/Manifold
+  81. file:///wiki/Atlas_(topology)
+  82. file:///wiki/Atlas_(topology)#Transition_maps
+  83. file:///wiki/Embedding
+  84. file:///w/index.php?title=(G,X)-manifold&action=edit&section=3
+  85. file:///wiki/Lie_group
+  86. file:///wiki/Riemannian_manifold
+  87. file:///wiki/Faithful_action
+  88. file:///wiki/Isometry_(Riemannian_geometry)
+  89. file:///wiki/Homogeneous_space
+  90. file:///wiki/Euclidean_isometry
+  91. file:///wiki/Flat_manifold
+  92. file:///wiki/Symmetric_space
+  93. file:///wiki/Hyperbolic_space
+  94. file:///wiki/Hyperbolic_plane
+  95. file:///w/index.php?title=(G,X)-manifold&action=edit&section=4
+  96. file:///wiki/Minkowski_space
+  97. file:///wiki/Lorentz_group
+  98. file:///wiki/Lorentzian_manifold
+  99. file:///w/index.php?title=(G,X)-manifold&action=edit&section=5
+ 100. file:///wiki/Affine_manifold
+ 101. file:///wiki/Projective_space
+ 102. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#cite_note-1
+ 103. file:///w/index.php?title=(G,X)-manifold&action=edit&section=6
+ 104. file:///w/index.php?title=(G,X)-manifold&action=edit&section=7
+ 105. file:///wiki/Universal_cover
+ 106. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#cite_note-FOOTNOTEThurston1997Chapter_3.4-2
+ 107. file:///wiki/Simply_connected_space
+ 108. file:///w/index.php?title=(G,X)-manifold&action=edit&section=8
+ 109. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#cite_note-FOOTNOTEThurston1997141-3
+ 110. file:///wiki/Inner_automorphism
+ 111. file:///w/index.php?title=(G,X)-manifold&action=edit&section=9
+ 112. file:///wiki/Covering_map
+ 113. file:///w/index.php?title=(G,X)-manifold&action=edit&section=10
+ 114. file:///w/index.php?title=(G,X)-manifold&action=edit&section=11
+ 115. file:///wiki/Riemannian_manifold#Geodesic_completeness
+ 116. file:///wiki/Uniformisation_Theorem
+ 117. file:///w/index.php?title=(G,X)-manifold&action=edit&section=12
+ 118. file:///wiki/Translation_(geometry)
+ 119. file:///w/index.php?title=(G,X)-manifold&action=edit&section=13
+ 120. file:///wiki/Ehresmann_connection
+ 121. file:///wiki/Charles_Ehresmann
+ 122. file:///wiki/Ehresmann_connection
+ 123. file:///wiki/Fiber_bundle
+ 124. file:///wiki/Monodromy
+ 125. file:///w/index.php?title=(G,X)-manifold&action=edit&section=14
+ 126. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#cite_ref-1
+ 127. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#cite_ref-FOOTNOTEThurston1997Chapter_3.4_2-0
+ 128. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#CITEREFThurston1997
+ 129. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#cite_ref-FOOTNOTEThurston1997141_3-0
+ 130. file:///tmp/lynxXXXXX6JTap/L41721-7983TMP.html#CITEREFThurston1997
+ 131. file:///w/index.php?title=(G,X)-manifold&action=edit&section=15
+ 132. https://en.wikipedia.org/w/index.php?title=(G,X)-manifold&oldid=1261290392
+ 133. file:///wiki/Help:Category
+ 134. file:///wiki/Category:Differential_geometry
+ 135. file:///wiki/Category:Structures_on_manifolds
+ 136. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 137. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 138. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 139. https://wikimediafoundation.org/
+ 140. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 141. file:///wiki/Wikipedia:About
+ 142. file:///wiki/Wikipedia:General_disclaimer
+ 143. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 144. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 145. https://developer.wikimedia.org/
+ 146. https://stats.wikimedia.org/#/en.wikipedia.org
+ 147. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 148. file://en.m.wikipedia.org/w/index.php?title=(G,X)-manifold&mobileaction=toggle_view_mobile
+ 149. https://wikimediafoundation.org/
+ 150. https://www.mediawiki.org/

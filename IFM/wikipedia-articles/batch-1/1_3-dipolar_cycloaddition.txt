@@ -1,0 +1,3410 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Mechanistic overview
+       (BUTTON) Toggle Mechanistic overview subsection
+          + [30]1.1 Pericyclic mechanism
+          + [31]1.2 1,3-Dipole
+          + [32]1.3 Dipolarophile
+          + [33]1.4 Solvent effects
+     * [34]2 Frontier molecular orbital theory
+       (BUTTON) Toggle Frontier molecular orbital theory subsection
+          + [35]2.1 Type I
+          + [36]2.2 Type II
+          + [37]2.3 Type III
+          + [38]2.4 Reactivity
+     * [39]3 Stereospecificity
+       (BUTTON) Toggle Stereospecificity subsection
+          + [40]3.1 With respect to dipolarophile
+          + [41]3.2 With respect to dipole
+     * [42]4 Diastereoselectivity
+       (BUTTON) Toggle Diastereoselectivity subsection
+          + [43]4.1 Directed 1,3-dipolar cycloaddition
+     * [44]5 Regioselectivity
+       (BUTTON) Toggle Regioselectivity subsection
+          + [45]5.1 Electronic/stereoelectronic effect
+          + [46]5.2 Steric effect
+     * [47]6 Synthetic applications
+       (BUTTON) Toggle Synthetic applications subsection
+          + [48]6.1 Nitrile oxides
+          + [49]6.2 Carbonyl ylides
+               o [50]6.2.1 Preparation of carbonyl ylides for 1,3-dipolar
+                 cycloaddition reactions
+                    # [51]6.2.1.1 Synthesis of carbonyl ylides from
+                      diazomethane derivatives by photocatalysis
+                    # [52]6.2.1.2 Synthesis of carbonyl ylides from
+                      hydroxypyrones by proton transfer
+                    # [53]6.2.1.3 Synthesis of α-halocarbonyl ylides from
+                      dihalocarbenes
+                    # [54]6.2.1.4 Synthesis of carbonyl ylides from
+                      diazomethane derivatives by metal catalysis
+               o [55]6.2.2 Mechanism of the 1,3-dipolar cycloaddition
+                 reaction mediated by metal catalysis of diazocarbonyl
+                 compounds
+                    # [56]6.2.2.1 Regioselectivity of the 1,3-dipolar
+                      cycloaddition reaction mediated by metal catalysis
+                      of diazocarbonyl compounds
+                    # [57]6.2.2.2 Stereoselectivity and asymmetric
+                      induction of the 1,3-dipolar cycloaddition reaction
+                      mediated by metal catalysis of diazocarbonyl
+                      compounds
+          + [58]6.3 Azomethine ylides
+          + [59]6.4 Ozone
+     * [60]7 Biological applications
+       (BUTTON) Toggle Biological applications subsection
+          + [61]7.1 Copper catalysis
+          + [62]7.2 Strain-promoted cycloaddition
+     * [63]8 References
+
+   [ ] Toggle the table of contents
+
+1,3-Dipolar cycloaddition
+
+   [ ] 10 languages
+     * [64]العربية
+     * [65]Čeština
+     * [66]Deutsch
+     * [67]Español
+     * [68]فارسی
+     * [69]Français
+     * [70]Italiano
+     * [71]Nederlands
+     * [72]Suomi
+     * [73]中文
+
+   [74]Edit links
+
+     * [75]Article
+     * [76]Talk
+
+   [ ] English
+
+     * [77]Read
+     * [78]Edit
+     * [79]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [80]Read
+     * [81]Edit
+     * [82]View history
+
+   General
+     * [83]What links here
+     * [84]Related changes
+     * [85]Upload file
+     * [86]Special pages
+     * [87]Permanent link
+     * [88]Page information
+     * [89]Cite this page
+     * [90]Get shortened URL
+     * [91]Download QR code
+
+   Print/export
+     * [92]Download as PDF
+     * [93]Printable version
+
+   In other projects
+     * [94]Wikimedia Commons
+     * [95]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   A type of pericyclic chemical reaction
+
+   [96][50px-Question_book-new.svg.png]
+   This article relies excessively on [97]references to [98]primary
+   sources. Please improve this article by adding [99]secondary or
+   tertiary sources.
+   Find sources: [100]"1,3-Dipolar cycloaddition" – [101]news ·
+   [102]newspapers · [103]books · [104]scholar · [105]JSTOR (January 2018)
+   ([106]Learn how and when to remove this message)
+                 Huisgen 1,3-dipolar cycloaddition
+   Named after              [107]Rolf Huisgen
+   Reaction type            [108]Ring forming reaction
+                            Identifiers
+   Organic Chemistry Portal [109]huisgen-1,3-dipolar-cycloaddition
+   [110]RSC ontology ID     [111]RXNO:0000018
+
+   The 1,3-dipolar cycloaddition is a [112]chemical reaction between a
+   [113]1,3-dipole and a dipolarophile to form a five-membered ring. The
+   earliest 1,3-dipolar cycloadditions were described in the late 19th
+   century to the early 20th century, following the discovery of
+   1,3-dipoles. [114]Mechanistic investigation and [115]synthetic
+   application were established in the 1960s, primarily through the work
+   of [116]Rolf Huisgen.^[117][1]^[118][2] Hence, the reaction is
+   sometimes referred to as the Huisgen cycloaddition (this term is often
+   used to specifically describe the [119]1,3-dipolar cycloaddition
+   between an organic [120]azide and an [121]alkyne to generate
+   [122]1,2,3-triazole). 1,3-dipolar cycloaddition is an important route
+   to the [123]regio- and [124]stereoselective synthesis of five-membered
+   [125]heterocycles and their ring-opened acyclic derivatives. The
+   dipolarophile is typically an alkene or alkyne, but can be other pi
+   systems. When the dipolarophile is an alkyne, aromatic rings are
+   generally produced.
+   [126][lossy-page1-517px-Example_of_1%2C3-dipolar_cycloaddition.tif.jpg]
+
+Mechanistic overview
+
+   [[127]edit]
+
+   Originally two proposed mechanisms describe the 1,3-dipolar
+   cycloaddition: first, the concerted [128]pericyclic [129]cycloaddition
+   mechanism, proposed by Rolf Huisgen;^[130][3] and second, the stepwise
+   mechanism involving a [131]diradical [132]intermediate, proposed by
+   Firestone.^[133][4] After much debate, the former proposal is now
+   generally accepted^[134][5]—the 1,3-dipole reacts with the
+   dipolarophile in a [135]concerted, often asynchronous, and
+   [136]symmetry-allowed [π]4[s] + [π]2[s] fashion through a thermal
+   six-electron [137]Huckel aromatic transition state. However, a few
+   examples exist of a stepwise mechanism for the catalyst-free
+   1,3-dipolar cycloaddition reactions of thiocarbonyl ylides,^[138][6]
+   and nitrile oxides^[139][7]
+   [140]The generic mechanism of a 1,3-dipolar cycloaddition between a
+   dipole and a dipolarophile to give a five-membered heterocycle, through
+   a six-electron transition state. Note that the red curly arrows are
+   conventionally used to denote the reaction process but do not
+   necessarily represent the actual flow of electrons. The generic
+   mechanism of a 1,3-dipolar cycloaddition between a dipole and a
+   dipolarophile to give a five-membered heterocycle, through a
+   six-electron transition state. Note that the red curly arrows are
+   conventionally used to denote the reaction process but do not
+   necessarily represent the actual flow of electrons.
+
+Pericyclic mechanism
+
+   [[141]edit]
+
+   Huisgen investigated a series of cycloadditions between the 1,3-dipolar
+   [142]diazo compounds and various dipolarophilic [143]alkenes.^[144][3]
+   The following observations support the concerted pericyclic mechanism,
+   and refute the stepwise diradical or the stepwise polar pathway.
+     * [145]Substituent effects: Different substituents on the dipole do
+       not exhibit a large effect on the cycloaddition rate, suggesting
+       that the reaction does not involve a charge-separated intermediate.
+     * [146]Solvent effects: Solvent polarity has little effect on the
+       cycloaddition rate, in line with the pericyclic mechanism where
+       polarity does not change much in going from the reactants to the
+       transition state.
+     * [147]Stereochemistry: 1,3-dipolar cycloadditions are always
+       [148]stereospecific with respect to the dipolarophile (i.e.,
+       [149]cis-alkenes giving syn-products), supporting the concerted
+       pericyclic mechanism in which two [150]sigma bonds are formed
+       simultaneously.
+     * [151]Thermodynamic parameters: 1,3-dipolar cycloadditions have an
+       unusually large negative [152]entropy of activation similar to that
+       of the [153]Diels-Alder reaction, suggesting that the
+       [154]transition state is highly ordered, which is a signature of
+       concerted pericyclic reactions.
+
+1,3-Dipole
+
+   [[155]edit]
+   [156][lossy-page1-220px-18_species_of_second-row_1%2C3-dipoles.tif.jpg]
+   Structure and nomenclature of all second-row 1,3-dipoles consisting of
+   carbon, nitrogen and oxygen centers. The dipoles are categorized as
+   allyl-type or propargyl/allenyl-type based on the geometry of the
+   central atom.
+
+   A 1,3-dipole is an organic molecule that can be represented as either
+   an [157]allyl-type or a [158]propargyl/[159]allenyl-type
+   [160]zwitterionic octet/sextet structures. Both types of 1,3-dipoles
+   share four electrons in the π-system over three atoms. The allyl-type
+   is bent whereas the propargyl/allenyl-type is linear in
+   [161]geometry.^[162][8] 1,3-Dipoles containing higher-row elements such
+   as [163]sulfur or [164]phosphorus are also known, but are utilized less
+   routinely.
+
+   [165]Resonance structures can be drawn to [166]delocalize both negative
+   and positive charges onto any terminus of a 1,3-dipole (see the scheme
+   below). A more accurate method to describe the electronic distribution
+   on a 1,3-dipole is to assign the major resonance contributor based on
+   experimental or theoretical data, such as [167]dipole moment
+   measurements^[168][9] or computations.^[169][10] For example,
+   [170]diazomethane bears the largest negative character at the terminal
+   nitrogen atom, while [171]hydrazoic acid bears the largest negative
+   character at the internal nitrogen atom.
+   [172]Calculated major resonance structures of diazomethane and
+   hydrazoic acid (doi = 10.1021/ja00475a007) Calculated major resonance
+   structures of diazomethane and hydrazoic acid (doi =
+   10.1021/ja00475a007)
+
+   Consequently, this ambivalence means that the ends of a 1,3-dipole can
+   be treated as both [173]nucleophilic and [174]electrophilic at the same
+   time. The extent of nucleophilicity and electrophilicity at each end
+   can be evaluated using the [175]frontier molecular orbitals, which can
+   be obtained computationally. In general, the atom that carries the
+   largest orbital coefficient in the [176]HOMO acts as the nucleophile,
+   whereas that in the LUMO acts as the electrophile. The most
+   nucleophilic atom is usually, but not always, the most electron-rich
+   atom.^[177][11]^[178][12]^[179][13] In 1,3-dipolar cycloadditions,
+   identity of the dipole-dipolarophile pair determines whether the HOMO
+   or the LUMO character of the 1,3-dipole will dominate (see discussion
+   on frontier molecular orbitals below).
+
+Dipolarophile
+
+   [[180]edit]
+
+   The most commonly used dipolarophiles are alkenes and alkynes.
+   [181]Heteroatom-containing dipolarophiles such as [182]carbonyls and
+   [183]imines can also undergo 1,3-dipolar cycloaddition. Other examples
+   of dipolarophiles include [184]fullerenes and [185]nanotubes, which can
+   undergo 1,3-dipolar cycloaddition with [186]azomethine ylide in the
+   [187]Prato reaction.
+
+Solvent effects
+
+   [[188]edit]
+
+   1,3-Dipolar cycloadditions experience very little solvent effect
+   because both the reactants and the transition states are generally
+   non-polar. For example, the rate of reaction between phenyl
+   diazomethane and [189]ethyl acrylate or [190]norbornene (see scheme
+   below) changes only slightly upon varying solvents from cyclohexane to
+   methanol.^[191][14]
+   [192]Effect of solvent polarity on 1,3-dipolar cycloaddition
+   reactions(doi:10.3987/S(N)-1978-01-0109.) Effect of solvent polarity on
+   1,3-dipolar cycloaddition reactions(doi:10.3987/S(N)-1978-01-0109.)
+
+   Lack of solvent effects in 1,3-dipolar cycloaddition is clearly
+   demonstrated in the reaction between enamines and dimethyl
+   diazomalonate (see scheme below).^[193][15] The polar reaction,
+   N-cyclopentenyl [194]pyrrolidine nucleophilic addition to the diazo
+   compound, proceeds 1,500 times faster in polar [195]DMSO than in
+   non-polar [196]decalin. On the other hand, a close analog of this
+   reaction, N-cyclohexenyl pyrrolidine 1,3-dipolar cycloaddition to
+   dimethyl diazomalonate, is sped up only 41-fold in DMSO relative to
+   decalin.
+   [197]Rate of polar nucleophilic addition reaction versus 1,3-dipolar
+   cycloaddition in decalin and in DMSO
+   (doi:10.1016/S0040-4039(00)70991-9) Rate of polar nucleophilic addition
+   reaction versus 1,3-dipolar cycloaddition in decalin and in DMSO
+   (doi:10.1016/S0040-4039(00)70991-9)
+
+Frontier molecular orbital theory
+
+   [[198]edit]
+   [199]Orbital overlaps in types I, II and III 1,3-dipolar cycloaddition.
+   Orbital overlaps in types I, II and III 1,3-dipolar cycloaddition.
+
+   1,3-Dipolar cycloadditions are pericyclic reactions, which obey the
+   [200]Dewar-Zimmerman rules and the [201]Woodward–Hoffmann rules. In the
+   Dewar-Zimmerman treatment, the reaction proceeds through a 5-center,
+   zero-node, 6-electron Huckel transition state for this particular
+   molecular orbital diagram. However, each orbital can be randomly
+   assigned a sign to arrive at the same result. In the Woodward–Hoffmann
+   treatment, frontier molecular orbitals (FMO) of the 1,3-dipole and the
+   dipolarophile overlap in the symmetry-allowed [π]4[s] + [π]2[s] manner.
+   Such orbital overlap can be achieved in three ways: type I, II and
+   III.^[202][16] The dominant pathway is the one which possesses the
+   smallest HOMO-LUMO energy gap.
+
+Type I
+
+   [[203]edit]
+
+   The dipole has a high-lying [204]HOMO which overlaps with LUMO of the
+   dipolarophile. A dipole of this class is referred to as a
+   HOMO-controlled dipole or a nucleophilic dipole, which includes
+   [205]azomethine ylide, [206]carbonyl ylide, [207]nitrile ylide,
+   [208]azomethine imine, [209]carbonyl imine and [210]diazoalkane. These
+   dipoles add to electrophilic alkenes readily. Electron-withdrawing
+   groups (EWG) on the dipolarophile would accelerate the reaction by
+   lowering the LUMO, while electron-donating groups (EDG) would
+   decelerate the reaction by raising the HOMO. For example, the
+   reactivity scale of diazomethane against a series of dipolarophiles is
+   shown in the scheme below. Diazomethane reacts with the electron-poor
+   ethyl acrylate more than a million times faster than the electron rich
+   butyl vinyl ether.^[211][17]
+
+   This type resembles the normal-electron-demand Diels-Alder reaction, in
+   which the diene HOMO combines with the dienophile LUMO.
+   [212]doi:10.1016/S0040-4039(01)92781-9
+   doi:10.1016/S0040-4039(01)92781-9
+
+Type II
+
+   [[213]edit]
+
+   HOMO of the dipole can pair with LUMO of the dipolarophile;
+   alternatively, HOMO of the dipolarophile can pair with LUMO of the
+   dipole. This two-way interaction arises because the energy gap in
+   either direction is similar. A dipole of this class is referred to as a
+   HOMO-LUMO-controlled dipole or an ambiphilic dipole, which includes
+   [214]nitrile imide, [215]nitrone, [216]carbonyl oxide, [217]nitrile
+   oxide, and [218]azide. Any substituent on the dipolarophile would
+   accelerate the reaction by lowering the energy gap between the two
+   interacting orbitals; i.e., an EWG would lower the LUMO while an EDG
+   would raise the HOMO. For example, azides react with various
+   electron-rich and electron-poor dipolarophile with similar reactivities
+   (see reactivity scale below).^[219][18]
+   [220]doi:10.1021/ja01016a011 doi:10.1021/ja01016a011
+
+Type III
+
+   [[221]edit]
+
+   The dipole has a low-lying LUMO which overlaps with HOMO of the
+   dipolarophile (indicated by red dashed lines in the diagram). A dipole
+   of this class is referred to as a LUMO-controlled dipole or an
+   electrophilic dipole, which includes [222]nitrous oxide and [223]ozone.
+   EWGs on the dipolarophile decelerate the reaction, while EDGs
+   accelerate the reaction. For example, ozone reacts with the
+   electron-rich 2-methylpropene about 100,000 times faster than the
+   electron-poor tetrachloroethene (see reactivity scale below).^[224][19]
+
+   This type resembles the [225]inverse electron-demand Diels-Alder
+   reaction, in which the diene LUMO combines with the dienophile HOMO.
+   [226]doi:10.1021/ja01016a011 doi:10.1021/ja01016a011
+
+Reactivity
+
+   [[227]edit]
+
+   Concerted processes such as the 1,3-cycloaddition require a highly
+   ordered transition state (high negative entropy of activation) and only
+   moderate enthalpy requirements. Using competition reaction experiments,
+   relative rates of addition for different cycloaddition reactions have
+   been found to offer general findings on factors in reactivity.
+     * Conjugation, especially with aromatic groups, increases the rate of
+       reaction by stabilization of the transition state. During the
+       transition, the two sigma bonds are being formed at different
+       rates, which may generate partial charges in the transition state
+       that can be stabilized by charge distribution into conjugated
+       substituents.
+     * More polarizable dipolarophiles are more reactive because diffuse
+       electron clouds are better suited to initiate the flow of
+       electrons.
+     * Dipolarophiles with high angular strain are more reactive due to
+       increased energy of the ground state.
+     * Increased steric hindrance in the transition state as a result of
+       unhindered reactants dramatically lowers the reaction rate.
+     * Hetero-dipolarophiles add more slowly, if at all, compared to
+       C,C-diapolarophiles due to a lower gain in sigma bond energy to
+       offset the loss of a pi bond during the transition state.
+     * Isomerism of the dipolarophile affects reaction rate due to
+       sterics. trans-isomers are more reactive (trans-stilbene will add
+       diphenyl(nitrile imide) 27 times faster than cis-stilbene) because
+       during the reaction, the 120° bond angle shrinks to 109°, bringing
+       eclipsing cis-substituents towards each other for increased steric
+       clash.
+
+          [228]See Huisgen reference doi:10.1002/anie.196306331. See
+          Huisgen reference [229]doi:[230]10.1002/anie.196306331.
+
+Stereospecificity
+
+   [[231]edit]
+
+   1,3-dipolar cycloadditions usually result in [232]retention of
+   configuration with respect to both the 1,3-dipole and the
+   dipolarophile. Such high degree of stereospecificity is a strong
+   support for the concerted over the stepwise reaction mechanisms. As
+   mentioned before, many examples show that the reactions were stepwise,
+   thus, presenting partial or no stereospecificity.
+
+With respect to dipolarophile
+
+   [[233]edit]
+
+   cis-Substituents on the dipolarophilic alkene end up cis, and
+   trans-substituents end up trans in the resulting five-membered cyclic
+   compound (see scheme below).^[234][20]
+   [235]doi:10.3987/S-1978-01-0147 doi:10.3987/S-1978-01-0147
+
+With respect to dipole
+
+   [[236]edit]
+
+   Generally, the stereochemistry of the dipole is not of major concern
+   because only few dipoles could form [237]stereogenic centers, and
+   resonance structures allow bond rotation which scrambles the
+   stereochemistry. However, the study of azomethine ylides has verified
+   that cycloaddition is also stereospecific with respect to the dipole
+   component. [238]Diastereopure azomethine ylides are generated by
+   [239]electrocyclic ring opening of [240]aziridines, and then rapidly
+   trapped with strong dipolarophiles before bond rotation can take place
+   (see scheme below).^[241][21]^[242][22] If weaker dipolarophiles are
+   used, bonds in the dipole have the chance to rotate, resulting in
+   impaired cycloaddition stereospecificity.
+
+   These results altogether confirm that 1,3-dipolar cycloaddition is
+   stereospecific, giving retention of both the 1,3-dipole and the
+   dipolarophile.
+   [243]doi:10.1021/ja00983a052 doi:10.1021/ja00983a052
+
+Diastereoselectivity
+
+   [[244]edit]
+
+   When two or more [245]stereocenters are generated during the reaction,
+   diastereomeric transition states and products can be obtained. In the
+   Diels-Alder cycloaddition, the [246]endo [247]diastereoselectivity due
+   to [248]secondary orbital interactions is usually observed. In
+   1,3-dipolar cycloadditions, however, two forces influence the
+   diastereoselectivity: the attractive [249]π-interaction (resembling
+   secondary orbital interactions in the Diels-Alder cycloaddition) and
+   the repulsive [250]steric interaction. Unfortunately, these two forces
+   often cancel each other, causing poor diastereoselection in 1,3-dipolar
+   cycloaddition.
+
+   Examples of substrate-controlled diastereoselective 1,3-dipolar
+   cycloadditions are shown below. First is the reaction between
+   benzonitrile N-benzylide and [251]methyl acrylate. In the transition
+   state, the phenyl and the methyl ester groups stack to give the
+   cis-substitution as the exclusive final [252]pyrroline product. This
+   favorable π-interaction offsets the steric repulsion between the phenyl
+   and the methyl ester groups.^[253][23] Second is the reaction between
+   nitrone and [254]dihydrofuran. The exo-selectivity is achieved to
+   minimize steric repulsion.^[255][24] Last is the intramolecular
+   azomethine ylide reaction with alkene. The diastereoselectivity is
+   controlled by the formation of a less strained cis-[256]fused ring
+   system.^[257][25]
+   [258]doi:10.1021/ja00731a056 doi:10.1021/ja00731a056
+
+Directed 1,3-dipolar cycloaddition
+
+   [[259]edit]
+
+   Trajectory of the cycloaddition can be controlled to achieve a
+   diastereoselective reaction. For example, metals can [260]chelate to
+   the dipolarophile and the incoming dipole and direct the cycloaddition
+   selectively on one face. The example below shows addition of nitrile
+   oxide to an [261]enantiomerically pure [262]allyl alcohol in the
+   presence of a magnesium ion. The most stable [263]conformation of the
+   alkene places the [264]hydroxyl group above the plane of the alkene.
+   The magnesium then chelates to the hydroxyl group and the oxygen atom
+   of nitrile oxide. The cycloaddition thus comes from the top face
+   selectively.^[265][26]
+   [266][lossy-page1-450px-Directed_dipolar_cycloaddition.tif.jpg]
+
+   Such diastereodirection has been applied in the synthesis of
+   [267]epothilones.^[268][27]
+   [269][lossy-page1-600px-Use_of_directed_cycloaddition_in_Epothilones_sy
+   nthesis.tif.jpg]
+
+Regioselectivity
+
+   [[270]edit]
+
+   For asymmetric dipole-dipolarophile pairs, two [271]regioisomeric
+   products are possible. Both [272]electronic/stereoelectronic and steric
+   factors contribute to the regioselectivity of 1,3-dipolar
+   cycloadditions.^[273][28]
+
+Electronic/stereoelectronic effect
+
+   [[274]edit]
+
+   The dominant electronic interaction is the combination between the
+   largest HOMO and the largest LUMO. Therefore, regioselectivity is
+   governed by the atoms that bear the largest orbital HOMO and LUMO
+   coefficients.^[275][29]^[276][30]
+
+   For example, consider the cycloaddition of diazomethane to three
+   dipolarophiles: [277]methyl acrylate, [278]styrene or [279]methyl
+   cinnamate. The carbon of diazomethane bears the largest HOMO, while the
+   end olefinic carbons of methyl acrylate and styrene bear the largest
+   LUMO. Hence, cycloaddition gives the substitution at the C-3 position
+   regioselectively. For methyl cinnamate, the two substituents (Ph v.s.
+   COOMe) compete at withdrawing electrons from the alkene. The carboxyl
+   is the better electron-withdrawing group, causing the β-carbon to be
+   most electrophilic. Thus, cycloaddition yields the [280]carboxyl group
+   on C-3 and the [281]phenyl group on C-4 regioselectively.
+   [282]doi:10.1021/ja00444a013 and doi:10.1021/ja00436a062
+   doi:10.1021/ja00444a013 and doi:10.1021/ja00436a062
+
+Steric effect
+
+   [[283]edit]
+
+   Steric effects can either cooperate or compete with the aforementioned
+   electronic effects. Sometimes steric effects completely outweighs the
+   electronic preference, giving the opposite regioisomer
+   exclusively.^[284][31]
+
+   For example, diazomethane generally adds to methyl acrylate to give
+   3-carboxyl [285]pyrazoline. However, by putting more steric demands
+   into the system, we start to observe the isomeric 4-carboxyl
+   pyrazolines. The ratio of these two regioisomers depends on the steric
+   demands. At the extreme, increasing the size from [286]hydrogen to
+   [287]t-butyl shifts the regioselectivity from 100% 3-carboxyl to 100%
+   4-carboxyl substitution.^[288][32]^[289][33]
+   [290]ISBN 0-471-08364-X. and Koszinowski, J. (1980) (PhD Thesis)
+   [291]ISBN [292]0-471-08364-X. and Koszinowski, J. (1980) (PhD Thesis)
+
+Synthetic applications
+
+   [[293]edit]
+
+   1,3-dipolar cycloadditions are important ways toward the synthesis of
+   many important 5-membered heterocycles such as [294]triazoles,
+   [295]furans, [296]isoxazoles, [297]pyrrolidines, and others.
+   Additionally, some cycloadducts can be cleaved to reveal the linear
+   skeleton, providing another route toward the synthesis of
+   [298]aliphatic compounds. These reactions are tremendously useful also
+   because they are stereospecific, diastereoselective and regioselective.
+   Several examples are provided below.
+
+Nitrile oxides
+
+   [[299]edit]
+
+   1,3-dipolar cycloaddition with nitrile oxides is a widely used
+   masked-[300]aldol reaction. Cycloaddition between a nitrile oxide and
+   an alkene yields the cyclic isoxazoline product, whereas the reaction
+   with an alkyne yields the isoxazole. Both isoxazolines and isoxazoles
+   can be cleaved by [301]hydrogenation to reveal aldol-type
+   β-hydroxycarbonyl or [302]Claisen-type β-dicarbonyl products,
+   respectively.
+
+   Nitrile oxide-alkyne cycloaddition followed by hydrogenation was
+   utilized in the synthesis of Miyakolide as illustrated in the figure
+   below.^[303][34]
+   [304][lossy-page1-900px-Application_of_nitrile_oxide_in_the_synthesis_o
+   f_miyakolide.tif.jpg]
+
+Carbonyl ylides
+
+   [[305]edit]
+
+   1,3-dipolar cycloaddition reactions have emerged as powerful tools in
+   the synthesis of complex cyclic scaffolds and molecules for medicinal,
+   biological, and mechanistic studies. Among them, [3+2]
+   [306]cycloaddition reactions involving carbonyl ylides have extensively
+   been employed to generate oxygen-containing five-membered cyclic
+   molecules.^[307][35]
+
+Preparation of carbonyl ylides for 1,3-dipolar cycloaddition reactions
+
+   [[308]edit]
+
+   [309]Ylides are regarded as positively charged [310]heteroatoms
+   connected to negatively charged carbon atoms, which include ylides of
+   [311]sulfonium, [312]thiocarbonyl, [313]oxonium, [314]nitrogen, and
+   [315]carbonyl.^[316][36] Several methods exist for generating carbonyl
+   ylides, which are necessary intermediates for generating
+   oxygen-containing five-membered ring structures, for [3+2]
+   cycloaddition reactions.
+
+Synthesis of carbonyl ylides from diazomethane derivatives by photocatalysis
+
+   [[317]edit]
+
+   One of the earliest examples of carbonyl ylide [318]synthesis involves
+   [319]photocatalysis.^[320][37] [321]Photolysis of
+   diazotetrakis(trifluoromethyl)cyclopentadiene* (DTTC) in the presence
+   of [322]tetramethylurea can generate the carbonyl ylide by an
+   [323]intermolecular [324]nucleophilic attack and subsequent
+   [325]aromatization of the DTTC moiety.^[326][37] This was isolated and
+   characterized by [327]X-ray crystallography due to the stability
+   imparted by aromaticity, [328]electron withdrawing trifluoromethyl
+   groups, and the [329]electron donating dimethylamine groups. Stable
+   carbonyl ylide [330]dipoles can then be used in [3+2] cycloaddition
+   reactions with dipolarophiles.
+   [331]Scheme 1. Photolysis of DTTC in the presence of tetramethylurea.
+   Modified from Janulis, E. P.; Arduengo, A. J. J. Am. Chem. Soc. 1983,
+   105, 5929. Scheme 1. Photolysis of DTTC in the presence of
+   tetramethylurea. Modified from Janulis, E. P.; Arduengo, A. J. J. Am.
+   Chem. Soc. 1983, 105, 5929.
+
+   Another early example of carbonyl ylide synthesis by photocatalysis was
+   reported by Olah et al.^[332][38] Dideuteriodiazomethane was photolysed
+   in the presence of [333]formaldehyde to generate the
+   dideuterioformaldehyde carbonyl ylide.
+   [334]Scheme 2. Photolysis of dideuteriodiazomethane with formaldehyde.
+   Modified from Prakash, G. K. S.; Ellis, R. W.; Felberg, J. D.; Olah, G.
+   A. J Am Chem Soc 1986, 108, 1341. Scheme 2. Photolysis of
+   dideuteriodiazomethane with formaldehyde. Modified from Prakash, G. K.
+   S.; Ellis, R. W.; Felberg, J. D.; Olah, G. A. J Am Chem Soc 1986, 108,
+   1341.
+
+Synthesis of carbonyl ylides from hydroxypyrones by proton transfer
+
+   [[335]edit]
+
+   Carbonyl ylides can be synthesized by [336]acid catalysis of
+   hydroxy-3-pyrones in the absence of a metal [337]catalyst.^[338][39] An
+   initial [339]tautomerization occurs, followed by [340]elimination of
+   the [341]leaving group to aromatize the [342]pyrone ring and to
+   generate the carbonyl ylide. A cycloaddition reaction with a
+   dipolarophile lastly forms the oxacycle. This approach is less widely
+   employed due to its limited utility and requirement for pyrone
+   skeletons.
+   [343]Scheme 3. Acid-catalyzed synthesis of carbonyl ylides from
+   hydroxy-3-pyrones. Modified from Sammes, P. G.; Street, L. J. J. Chem.
+   Soc., Chem. Commun. 1982, 1056. Scheme 3. Acid-catalyzed synthesis of
+   carbonyl ylides from hydroxy-3-pyrones. Modified from Sammes, P. G.;
+   Street, L. J. J. Chem. Soc., Chem. Commun. 1982, 1056.
+
+   5-hydroxy-4-pyrones can also be used to synthesize carbonyl ylides by
+   an [344]intramolecular [345]hydrogen transfer.^[346][40] After hydrogen
+   transfer, the carbonyl ylide can then react with dipolarophiles to form
+   oxygen-containing rings.
+   [347]Scheme 4. Intramolecular hydrogen transfer-mediated synthesis of
+   carbonyl ylides from 5-hydroxy-4-pyrones. Modified from Garst, M. E.;
+   McBride, B. J.; Douglass III, J. G. Tetrahedron Lett. 1983, 24, 1675.
+   Scheme 4. Intramolecular hydrogen transfer-mediated synthesis of
+   carbonyl ylides from 5-hydroxy-4-pyrones. Modified from Garst, M. E.;
+   McBride, B. J.; Douglass III, J. G. Tetrahedron Lett. 1983, 24, 1675.
+
+Synthesis of α-halocarbonyl ylides from dihalocarbenes
+
+   [[348]edit]
+
+   Dihalocarbenes have also been employed to generate carbonyl ylides,
+   exploiting the electron withdrawing nature of
+   dihalocarbenes.^[349][41]^[350][42]^[351][43] Both
+   [352]phenyl(trichloromethyl)mercury and phenyl(tribromomethyl)mercury
+   are sources [353]dichlorocarbenes and [354]dibromocarbenes,
+   respectively. The carbonyl ylide can be generated upon reaction of the
+   dihalocarbenes with [355]ketones or [356]aldehydes. However, the
+   synthesis of α-halocarbonyl ylides can also undesirably lead to the
+   loss of [357]carbon monoxide and the generation of the deoxygenation
+   product.
+   [358]Scheme 5. α-Halocarbonyl ylide synthesis through dihalocarbene
+   intermediates. Modified from Padwa, A.; Hornbuckle, S. F. Chem Rev
+   1991, 91, 263. Scheme 5. α-Halocarbonyl ylide synthesis through
+   dihalocarbene intermediates. Modified from Padwa, A.; Hornbuckle, S. F.
+   Chem Rev 1991, 91, 263.
+
+Synthesis of carbonyl ylides from diazomethane derivatives by metal catalysis
+
+   [[359]edit]
+
+   A universal approach for generating carbonyl ylides involves [360]metal
+   catalysis of α-diazocarbonyl compounds, generally in the presence of
+   dicopper or dirhodium catalysts.^[361][44] After release of
+   [362]nitrogen gas and conversion to the [363]metallocarbene, an
+   intermolecular reaction with a carbonyl group can generate the carbonyl
+   ylide. Subsequent cycloaddition reaction with an [364]alkene or
+   [365]alkyne dipolarophile can afford oxygen-containing five-membered
+   rings. Popular catalysts that give modest yields towards synthesizing
+   oxacycles include Rh[2](OAc)[4] and Cu(acac)[2].^[366][45]^[367][46]
+   [368]Scheme 6. Metal-catalyzed synthesis of carbonyl ylides. Reproduced
+   from Hodgson, D. M.; Bruckl, T.; Glen, R.; Labande, A. H.; Selden, D.
+   A.; Dossetter, A. G.; Redgrave, A. J. Proc. Natl. Acad. Sci. U.S.A.
+   2004, 101, 5450. Scheme 6. Metal-catalyzed synthesis of carbonyl
+   ylides. Reproduced from Hodgson, D. M.; Bruckl, T.; Glen, R.; Labande,
+   A. H.; Selden, D. A.; Dossetter, A. G.; Redgrave, A. J. Proc. Natl.
+   Acad. Sci. U.S.A. 2004, 101, 5450.
+
+Mechanism of the 1,3-dipolar cycloaddition reaction mediated by metal
+catalysis of diazocarbonyl compounds
+
+   [[369]edit]
+
+   The universality and extensive use of 1,3-dipolar cycloaddition
+   reactions mediated by metal catalysis of diazocarbonyl molecules, for
+   synthesizing oxygen-containing five-membered rings, has spurred
+   significant interest into its mechanism. Several groups have
+   investigated the [370]mechanism to expand the scope of synthetic
+   molecules with respect to [371]regio- and [372]stereo-selectivity.
+   However, due to the high turn over frequencies of these reactions, the
+   intermediates and mechanism remains elusive. The generally accepted
+   mechanism, developed by characterization of stable ruthenium-carbenoid
+   complexes^[373][47] and rhodium metallocarbenes,^[374][48] involves an
+   initial formation of a metal-carbenoid complex from the [375]diazo
+   compound. Elimination of nitrogen gas then affords a metallocarbene. An
+   intramolecular nucleophilic attack by the carbonyl oxygen regenerates
+   the metal catalyst and forms the carbonyl ylide. The carbonyl ylide can
+   then react with an alkene or alkyne, such as dimethyl
+   acetylenedicarboxylate (DMAD) to generate the oxacycle.
+   [376]Scheme 7. Accepted mechanism of the 1,3-dipolar cycloaddition
+   reaction mediated by metal catalysis (example dirhodium catalyst) of
+   diazocarbonyl compounds. Modified from M. Hodgson, D.; H. Labande, A.;
+   Muthusamy, S. In Organic Reactions; John Wiley & Sons, Inc.: 2004.
+   Scheme 7. Accepted mechanism of the 1,3-dipolar cycloaddition reaction
+   mediated by metal catalysis (example dirhodium catalyst) of
+   diazocarbonyl compounds. Modified from M. Hodgson, D.; H. Labande, A.;
+   Muthusamy, S. In Organic Reactions; John Wiley & Sons, Inc.: 2004.
+
+   However, it is uncertain whether the metallocarbene intermediate
+   generates the carbonyl ylide. In some cases, metallocarbenes can also
+   react directly with dipolarophiles.^[377][49] In these cases, the
+   metallocarbene, such as the dirhodium(II)tetracarboxylate carbene, is
+   stabilized through [378]hyperconjugative metal [379]enolate-type
+   interactions.^[380][50]^[381][51]^[382][52]^[383][53] Subsequent
+   1,3-dipolar cycloaddition reaction occurs through a transient
+   metal-complexed carbonyl ylide. Therefore, a persistent metallocarbene
+   can influence the stereoselectivity and regioselectivity of the
+   1,3-dipolar cycloaddition reaction based on the stereochemistry and
+   size of the metal [384]ligands.
+   [385]The dirhodium(II)tetracarboxylate metallocarbene stabilized by
+   πC-Rh→πC=O hyperconjugation. Modified from M. Hodgson, D.; H. Labande,
+   A.; Muthusamy, S. In Organic Reactions; John Wiley & Sons, Inc.: 2004.
+   The dirhodium(II)tetracarboxylate metallocarbene stabilized by
+   πC-Rh→πC=O hyperconjugation. Modified from M. Hodgson, D.; H. Labande,
+   A.; Muthusamy, S. In Organic Reactions; John Wiley & Sons, Inc.: 2004.
+
+   The mechanism of the 1,3-dipolar cycloaddition reaction between the
+   carbonyl ylide dipole and [386]alkynyl or [387]alkenyl dipolarophiles
+   has been extensively investigated with respect to regioselectivity and
+   stereoselectivity. As [388]symmetric dipolarophiles have one
+   orientation for cycloaddition, only one [389]regioisomer, but multiple
+   [390]stereoisomers can be obtained.^[391][53] On the contrary,
+   [392]unsymmetric dipolarophiles can have multiple regioisomers and
+   stereoisomers. These regioisomers and stereoisomers may be predicted
+   based on [393]frontier molecular orbital (FMO) theory, [394]steric
+   interactions, and [395]stereoelectronic
+   interactions.^[396][54]^[397][55]
+   [398]Scheme 9. Products of the 1,3-dipolar cycloaddition reaction
+   between carbonyl ylide dipoles and alkenyl or alkynyl dipolarophiles.
+   Modified from M. Hodgson, D.; H. Labande, A.; Muthusamy, S. In Organic
+   Reactions; John Wiley & Sons, Inc.: 2004. Scheme 9. Products of the
+   1,3-dipolar cycloaddition reaction between carbonyl ylide dipoles and
+   alkenyl or alkynyl dipolarophiles. Modified from M. Hodgson, D.; H.
+   Labande, A.; Muthusamy, S. In Organic Reactions; John Wiley & Sons,
+   Inc.: 2004.
+
+Regioselectivity of the 1,3-dipolar cycloaddition reaction mediated by metal
+catalysis of diazocarbonyl compounds
+
+   [[399]edit]
+
+   Regioselectivity of 1,3-dipolar cycloaddition reactions between
+   carbonyl ylide dipoles and alkynyl or alkenyl dipolarophiles is
+   essential for generating molecules with defined regiochemistry. FMO
+   theory and analysis of the [400]HOMO-LUMO energy gaps between the
+   dipole and dipolarophile can rationalize and predict the
+   regioselectivity of experimental outcomes.^[401][56]^[402][57] The
+   HOMOs and LUMOs can belong to either the dipole or dipolarophile, for
+   which HOMO[dipole]-LUMO[dipolarophile] or
+   HOMO[dipolarophile]-LUMO[dipole] interactions can exist. Overlap of the
+   [403]orbitals with the largest coefficients can ultimately rationalize
+   and predict results.
+   [404]Scheme 10. diagram of the molecular orbital interactions of
+   HOMOdipole-LUMOdipolarophile or HOMOdipolarophile-LUMOdipole between a
+   carbonyl ylide dipole and alkenyl dipolarophile. Scheme 10. diagram of
+   the molecular orbital interactions of HOMOdipole-LUMOdipolarophile or
+   HOMOdipolarophile-LUMOdipole between a carbonyl ylide dipole and
+   alkenyl dipolarophile.
+
+   The archetypal regioselectivity of the 1,3-dipolar cycloaddition
+   reaction mediated by carbonyl ylide dipoles has been examined by Padwa
+   and coworkers.^[405][55]^[406][58] Using a Rh[2](OAc)[4] catalyst in
+   benzene, diazodione underwent a 1,3-dipolar cycloaddition reaction with
+   [407]methyl propiolate and methyl [408]propargyl [409]ether. The
+   reaction with [410]methyl propiolate affords two regioisomers with the
+   major resulting from the HOMO[dipole]-LUMO[dipolarophile] interaction,
+   which has the largest coefficients on the carbon proximal to the
+   carbonyl group of the carbonyl ylide and on the methyl propiolate
+   terminal alkyne carbon. The reaction with methyl propargyl ether
+   affords one regioisomer resulting from the
+   HOMO[dipolarophile]-LUMO[dipole] interaction, which has largest
+   coefficients on the carbon distal to the carbonyl group of the carbonyl
+   ylide and on the methyl propargyl ether terminal alkyne carbon.
+   [411]Scheme 11. Regioselectivity and molecular orbital interactions of
+   the 1,3-dipolar cycloaddition reaction between a diazodione and methyl
+   propiolate or methyl propargyl ether. Modified from Padwa, A.;
+   Weingarten, M. D. Chem Rev 1996, 96, 223. Scheme 11. Regioselectivity
+   and molecular orbital interactions of the 1,3-dipolar cycloaddition
+   reaction between a diazodione and methyl propiolate or methyl propargyl
+   ether. Modified from Padwa, A.; Weingarten, M. D. Chem Rev 1996, 96,
+   223.
+
+   Regioselectivities of 1,3-dipolar cycloaddition reactions mediated by
+   metal catalysis of diazocarbonyl compounds may also be influenced by
+   the metal through formation of stable
+   metallocarbenes.^[412][49]^[413][59] Stabilization of the
+   metallocarbene, via metal enolate-type interactions, will prevent the
+   formation of carbonyl ylides, resulting in a direct reaction between
+   the metallocarbene dipole and an alkynyl or alkenyl dipolarophile (see
+   image of The dirhodium(II)tetracarboxylate metallocarbene stabilized by
+   π[C-Rh]→π[C=O] hyperconjugation.). In this situation, the metal ligands
+   will influence the regioselectivity and stereoselectivity of the
+   1,3-dipolar cycloaddition reaction.
+
+Stereoselectivity and asymmetric induction of the 1,3-dipolar cycloaddition
+reaction mediated by metal catalysis of diazocarbonyl compounds
+
+   [[414]edit]
+
+   The [415]stereoselectivity of 1,3-dipolar cycloaddition reactions
+   between carbonyl ylide dipoles and alkenyl dipolarophiles has also been
+   closely examined. For alkynyl dipolarophiles, stereoselectivity is not
+   an issue as relatively planar sp^2 carbons are formed, while
+   regioselectivity must be considered (see image of the Products of the
+   1,3-Dipolar Cycloaddition Reaction Between Carbonyl Ylide Dipoles and
+   Alkenyl or Alkynyl Dipolarophiles). However, for alkenyl
+   dipolarophiles, both regioselectivity and stereoselectivity must be
+   considered as sp^3 carbons are generated in the product species.
+
+   1,3-dipolar cycloaddition reactions between carbonyl ylide dipoles and
+   alkenyl dipolarophiles can generate [416]diastereomeric
+   products.^[417][53] The [418]exo product is characterized with
+   dipolarophile substituents being [419]cis to the ether bridge of the
+   oxacycle. The [420]endo product is characterized with the dipolarophile
+   substituents being [421]trans to the ether bridge of the oxacycle. Both
+   products can be generated through [422]pericyclic transitions states
+   involving [423]concerted synchronous or concerted asynchronous
+   processes.
+
+   One early example conferred stereoselectivity in terms of endo and exo
+   products with metal catalysts and Lewis acids.^[424][60] Reactions with
+   just the metal catalyst Rh[2](OAc)[4] prefer the exo product while
+   reactions with the additional Lewis acid Yb(OTf)[3] prefer the endo
+   product. The endo selectivity observed for Lewis acid cycloaddition
+   reactions is attributed to the optimized orbital overlap of the
+   carbonyl π systems between the dipolarophile coordinated by Yb(Otf)[3]
+   (LUMO) and the dipole (HOMO). After many investigations, two primary
+   approaches for influencing the stereoselectivity of carbonyl ylide
+   cycloadditions have been developed that exploit the chirality of metal
+   catalysts and Lewis acids.^[425][53]
+   [426]Facial Selectivity of the 1,3-Dipolar Cycloaddition Reaction using
+   a Metal Catalyst and Lewis Acid Facial Selectivity of the 1,3-Dipolar
+   Cycloaddition Reaction using a Metal Catalyst and Lewis
+   Acid[427]Rationale for the Endo Selectivity of the 1,3-Dipolar
+   Cycloaddition Reaction with a Lewis Acid Rationale for the Endo
+   Selectivity of the 1,3-Dipolar Cycloaddition Reaction with a Lewis Acid
+
+   The first approach employs chiral metal catalysts to modulate the endo
+   and exo stereoselectivity. The chiral catalysts, in particular
+   Rh[2][(S)-DOSP][4] and Rh[2][(S)-BPTV][4] can induce modest asymmetric
+   induction and was used to synthesize the [428]antifungal agent
+   pseudolaric acid A.^[429][61] This is a result of the [430]chiral metal
+   catalyst remaining associated with the carbonyl ylide during the
+   cycloaddition, which confers facial selectivity. However, the exact
+   mechanisms are not yet fully understood.
+   [431]Asymmetric induction of the 1,3-dipolar cycloaddition reaction
+   with chiral metal catalysts Asymmetric induction of the 1,3-dipolar
+   cycloaddition reaction with chiral metal catalysts
+
+   The second approach employs a chiral Lewis acid catalyst to induce
+   facial stereoselectivity after the generation of the carbonyl ylide
+   using an achiral metal catalyst.^[432][62] The chiral Lewis acid
+   catalyst is believed to coordinate to the dipolarophile, which lowers
+   the LUMO of the dipolarophile while also leading to
+   [433]enantioselectivity.
+   [434]Asymmetric induction of the 1,3-dipolar cycloaddition reaction
+   with chiral Lewis acid catalysts Asymmetric induction of the
+   1,3-dipolar cycloaddition reaction with chiral Lewis acid catalysts
+
+Azomethine ylides
+
+   [[435]edit]
+   See also: [436]Azomethine ylide
+
+   1,3-Dipolar cycloaddition between an azomethine ylide and an alkene
+   furnishes an azacyclic structure, such as [437]pyrrolidine. This
+   strategy has been applied to the synthesis of spirotryprostatin
+   A.^[438][63]
+   [439][lossy-page1-900px-Application_of_azomethine_ylide_in_the_synthesi
+   s_of_spirotryprostatin.tif.jpg]
+
+Ozone
+
+   [[440]edit]
+
+   [441]Ozonolysis is a very important organic reaction. Alkenes and
+   alkynes can be cleaved by ozonolysis to give [442]aldehyde, [443]ketone
+   or [444]carboxylic acid products.
+
+Biological applications
+
+   [[445]edit]
+
+   The 1,3-dipolar cycloaddition between organic azides and terminal
+   alkynes (i.e., the [446]Huisgen cycloaddition) has been widely utilized
+   for [447]bioconjugation.
+
+Copper catalysis
+
+   [[448]edit]
+
+   The Huisgen reaction generally does not proceed readily under mild
+   conditions. Meldal et al. and Sharpless et al. independently developed
+   a [449]copper(I)-catalyzed version of the Huisgen reaction, CuAAC (for
+   Copper-catalyzed Azide-Alkyne Cycloaddition), which proceeds very
+   readily in mild, including [450]physiological, conditions (neutral
+   [451]pH, room [452]temperature and [453]water
+   solution).^[454][64]^[455][65] This reaction is also
+   [456]bioorthogonal: azides and alkynes are both generally absent from
+   biological systems and therefore these functionalities can be
+   [457]chemoselectively reacted even in the [458]cellular context. They
+   also do not react with other functional groups found in nature, so they
+   do not perturb biological systems. The reaction is so versatile that it
+   is termed the [459]"Click" chemistry. Although copper(I) is [460]toxic,
+   many protective [461]ligands have been developed to both reduce
+   cytotoxicity and improve rate of CuAAC, allowing it to be used in
+   [462]in vivo studies.^[463][66]
+   [464][lossy-page1-350px-Copper_catalyzed_AAC.tif.jpg]
+
+   For example, Bertozzi et al. reported the [465]metabolic incorporation
+   of azide-functionalized [466]saccharides into the [467]glycan of the
+   [468]cell membrane, and subsequent labeling with
+   [469]fluorophore-alkyne conjugate. The result is that the cell membrane
+   is [470]fluorescently labeled, and can therefore be [471]imaged using a
+   [472]fluorescence microscope.^[473][67]
+   [474][lossy-page1-800px-Metabolic_labeling_with_GlcNAz_and_click_chemis
+   try.tif.jpg]
+
+Strain-promoted cycloaddition
+
+   [[475]edit]
+
+   To avoid toxicity of copper(I), Bertozzi et al. developed the
+   strain-promoted azide-alkyne cycloaddition (SPAAC) between organic
+   azide and strained [476]cyclooctyne. The angle distortion of the
+   cyclooctyne helps to speed up the reaction by both reducing the
+   activation strain and enhancing the interactions, thereby enabling it
+   to be used in physiological conditions without the need for the
+   catalyst.^[477][68]
+   [478][lossy-page1-350px-Strained_promoted_AAC.tif.jpg]
+
+   For instance, Ting et al. introduced an azido functionality onto
+   specific [479]proteins on the [480]cell surface using a [481]ligase
+   enzyme. The azide-tagged protein is then labeled with
+   cyclooctyne-fluorophore conjugate to yield a fluorescently labeled
+   protein.^[482][69]
+   [483][lossy-page1-650px-Enzyme-mediated_labeling_with_azidooctanoic_aci
+   d_and_SPAAC.tif.jpg]
+
+References
+
+   [[484]edit]
+    1. [485]^ Bertrand, Guy; Wentrup, Curt (17 March 1994). "Nitrile
+       Imines: From Matrix Characterization to Stable Compounds".
+       Angewandte Chemie International Edition in English. 33 (5):
+       527–545. [486]doi:[487]10.1002/anie.199405271.
+    2. [488]^ Huisgen, Rolf (October 1963). "1,3-Dipolar Cycloadditions.
+       Past and Future". Angewandte Chemie International Edition in
+       English. 2 (10): 565–598. [489]doi:[490]10.1002/anie.196305651.
+    3. ^ [491]^a [492]^b Huisgen, Rolf (November 1963). "Kinetics and
+       Mechanism of 1,3-Dipolar Cycloadditions". [493]Angewandte Chemie
+       International Edition. 2 (11): 633–645.
+       [494]doi:[495]10.1002/anie.196306331.
+    4. [496]^ Firestone, R (1968). "Mechanism of 1,3-dipolar
+       cycloadditions". [497]Journal of Organic Chemistry. 33 (6):
+       2285–2290. [498]doi:[499]10.1021/jo01270a023.
+    5. [500]^ Huisgen, Rolf (1976). "1,3-Dipolar cycloadditions. 76.
+       Concerted nature of 1,3-dipolar cycloadditions and the question of
+       diradical intermediates". [501]Journal of Organic Chemistry. 41
+       (3): 403–419. [502]doi:[503]10.1021/jo00865a001.
+    6. [504]^ Mloston, G.; Langhals, E.; Huisgen, Rolf (1986). "First
+       Two-Step 1,2-Dipolar Cycloadditons: Nonstereospecificity". [505]J.
+       Am. Chem. Soc. 108 (20): 6401–66402.
+       [506]doi:[507]10.1021/ja00280a053.
+    7. [508]^ Seyyed Amir, Siadati (2015). "An example of a stepwise
+       mechanism for the catalyst-free 1,3-dipolar cycloaddition between a
+       nitrile oxide and an electron rich alkene". [509]Tetrahedron
+       Letters. 56 (34): 4857–4863.
+       [510]doi:[511]10.1016/j.tetlet.2015.06.048.
+    8. [512]^ Huisgen, Rolf (1963). "1,3-Dipolar Cycloadditions. Past and
+       Future". [513]Angewandte Chemie International Edition. 2 (10):
+       565–598. [514]doi:[515]10.1002/anie.196305651.
+    9. [516]^ Cox, A; Thomas, L; Sheridan, J (1958). "Microwave Spectra of
+       Diazomethane and its Deutero Derivatives". [517]Nature. 181 (4614):
+       1000–1001. [518]Bibcode:[519]1958Natur.181.1000C.
+       [520]doi:[521]10.1038/1811000a0. [522]S2CID [523]4245746.
+   10. [524]^ Hilberty, P; Leforestier, C (1978). "Expansion of molecular
+       orbital wave functions into valence bond wave functions. A
+       simplified procedure". [525]Journal of the American Chemical
+       Society. 100 (7): 2012–2017. [526]doi:[527]10.1021/ja00475a007.
+   11. [528]^ McGarrity, J.F.; Patai, Saul (1978). "Basicity, acidity and
+       hydrogen bonding". Diazonium and Diazo Groups. Vol. 1. pp. 179–230.
+       [529]doi:[530]10.1002/9780470771549.ch6.
+       [531]ISBN [532]9780470771549.
+   12. [533]^ Berner, Daniel; McGarrity, John (1979). "Direct observation
+       of the methyldiazonium ion in fluorosulfuric acid". [534]Journal of
+       the American Chemical Society. 101 (11): 3135–3136.
+       [535]doi:[536]10.1021/ja00505a059.
+   13. [537]^ Muller, Eugen; Rundel, Wolfgans (1956). "Untersuchungen an
+       Diazomethanen, VI. Mitteil.: Umsetzung von Diazoäthan mit
+       Methyllithium". [538]Chemische Berichte. 89 (4): 1065–1071.
+       [539]doi:[540]10.1002/cber.19560890436.
+   14. [541]^ Geittner, Jochen; Huisgen, Rolph; Reissig, Hans-Ulrich
+       (1978). [542]"Solvent Dependence of Cycloaddition Rates of
+       Phenyldiazomethane and Activation Parameters". Heterocycles. 11:
+       109–120. [543]doi:[544]10.3987/S(N)-1978-01-0109.
+   15. [545]^ Huisgen, Rolph; Reissig, Hans-Ulrich; Huber, Helmut; Voss,
+       Sabine (1979). "α-Diazocarbonyl compounds and enamines - a
+       dichotomy of reaction paths". Tetrahedron Letters. 20 (32):
+       2987–2990. [546]doi:[547]10.1016/S0040-4039(00)70991-9.
+   16. [548]^ Sustmann, R (1974). [549]"Orbital energy control of
+       cycloaddition reactivity". [550]Pure and Applied Chemistry. 40 (4):
+       569–593. [551]doi:[552]10.1351/pac197440040569.
+   17. [553]^ Geittner, Jochen; Huisgen, Rolf (1977). "Kinetics of
+       1,3-dipolar cycloaddition reactions of diazomethane; A correlation
+       with homo-lumo energies". Tetrahedron Letters. 18 (10): 881–884.
+       [554]doi:[555]10.1016/S0040-4039(01)92781-9.
+   18. [556]^ Huisgen, Rolf; Szeimies, Gunter; Mobius, Leander (1967).
+       "K1.3-Dipolare Cycloadditionen, XXXII. Kinetik der Additionen
+       organischer Azide an CC-Mehrfachbindungen". Chemische Berichte. 100
+       (8): 2494–2507. [557]doi:[558]10.1002/cber.19671000806.
+   19. [559]^ Williamson, D. G.; Cvetanovic, R. J. (1968). "Rates of
+       ozone-olefin reactions in carbon tetrachloride solutions". Journal
+       of the American Chemical Society. 90 (14): 3668–3672.
+       [560]doi:[561]10.1021/ja01016a011.
+   20. [562]^ Bihlmaier, Werner; Geittner, Jochen; Huisgen, Rolf;
+       ReissigP, Hans-Ulrich (1978). [563]"The Stereospecificity of
+       Diazomethane Cycloadditions". [564]Heterocycles. 10: 147–152.
+       [565]doi:[566]10.3987/S-1978-01-0147.
+   21. [567]^ Huisgen, Rolf; Scheer, Wolfgang; Huber, Helmut (1967).
+       "Stereospecific Conversion of cis-trans Isomeric Aziridines to
+       Open-Chain Azomethine Ylides". [568]Journal of the American
+       Chemical Society. 89 (7): 1753–1755.
+       [569]doi:[570]10.1021/ja00983a052.
+   22. [571]^ Dahmen, Alexander; Hamberger, Helmut; Huisgen, Rolf;
+       Markowski, Volker (1971). "Conrotatory ring opening of
+       cyanostilbene oxides to carbonyl ylides". Journal of the Chemical
+       Society D: Chemical Communications (19): 1192–1194.
+       [572]doi:[573]10.1039/C29710001192.
+   23. [574]^ Padwa, Albert; Smolanoff, Joel (1971). "Photocycloaddition
+       of arylazirenes with electron-deficient olefins". Journal of the
+       American Chemical Society. 93 (2): 548–550.
+       [575]doi:[576]10.1021/ja00731a056.
+   24. [577]^ Iwashita, Takashi; Kusumi, Takenori; Kakisawa, Hiroshi
+       (1979). [578]"A Synthesis of dl-isoretronecanol". Chemistry
+       Letters. 8 (11): 1337–1340. [579]doi:[580]10.1246/cl.1979.1337.
+   25. [581]^ Wang, Chia-Lin; Ripka, William; Confalone, Pat (1984). "A
+       short and stereospecific synthesis of (±)-α-lycorane". Tetrahedron
+       Letters. 25 (41): 4613–4616.
+       [582]doi:[583]10.1016/S0040-4039(01)91213-4.
+   26. [584]^ Kanemasa, Shuji (2002). "Metal-Assisted Stereocontrol of
+       1,3-Dipolar Cycloaddition Reactions". Synlett. 2002 (9): 1371–1387.
+       [585]doi:[586]10.1055/s-2002-33506.
+   27. [587]^ Bode, Jeffrey; Carreira, Erick (2011). "Stereoselective
+       Syntheses of Epothilones A and B via Directed Nitrile Oxide
+       Cycloaddition". Journal of the American Chemical Society. 123 (15):
+       3611–3612. [588]doi:[589]10.1021/ja0155635.
+       [590]PMID [591]11472140.
+   28. [592]^ Vsevolod V. Rostovtsev; Luke G. Green; Valery V. Fokin; K.
+       Barry Sharpless (2002). "A Stepwise Huisgen Cycloaddition Process:
+       Copper(I)-Catalyzed Regioselective Ligation of Azides and Terminal
+       Alkynes". [593]Angewandte Chemie International Edition. 41 (14):
+       2596–22599.
+       [594]doi:[595]10.1002/1521-3773(20020715)41:14<2596::AID-ANIE2596>3
+       .0.CO;2-4. [596]PMID [597]12203546.
+   29. [598]^ Caramella, Pierluigi; Houk, K.N. (1976). "Geometries of
+       nitrilium betaines. The clarification of apparently anomalous
+       reactions of 1,3-dipoles". Journal of the American Chemical
+       Society. 98 (20): 6397–6399. [599]doi:[600]10.1021/ja00436a062.
+   30. [601]^ Caramella, Pierluigi; Gandour, Ruth W.; Hall, Janet A.;
+       Deville, Cynthia G.; Houk, K. N. (1977). "A derivation of the
+       shapes and energies of the molecular orbitals of 1,3-dipoles.
+       Geometry optimizations of these species by MINDO/2 and MINDO/3".
+       Journal of the American Chemical Society. 99 (2): 385–392.
+       [602]doi:[603]10.1021/ja00444a013.
+   31. [604]^ Huisgen, Rolf (November 1963). "Kinetics and Mechanism of
+       1,3-Dipolar Cycloadditions". [605]Angewandte Chemie International
+       Edition. 2 (11): 633–645. [606]doi:[607]10.1002/anie.196306331.
+   32. [608]^ Padwa, Albert (1983). 1,3-Dipolar Cycloaddition Chemistry.
+       General Heterocyclic Chemistry Series. Vol. 1. United States of
+       America: Wiley-Interscience. pp. 141–145.
+       [609]ISBN [610]978-0-471-08364-1.
+   33. [611]^ Koszinowski, J. (1980). thesis (PhD Thesis).
+   34. [612]^ Evans, David; Ripin, David; Halstead, David; Campos, Kevin
+       (1999). "Synthesis and Absolute Stereochemical Assignment of
+       (+)-Miyakolide". [613]Journal of the American Chemical Society. 121
+       (29): 6816–6826. [614]doi:[615]10.1021/ja990789h.
+   35. [616]^ Synthetic Reactions of M=C and M=N Bonds: Ylide Formation,
+       Rearrangement, and 1,3-Dipolar Cycloaddition; Hiyama, T. W., J.,
+       Ed.; Elsevier, 2007; Vol. 11.
+   36. [617]^ Padwa, Albert.; Hornbuckle, Susan F. (1991). "Ylide
+       formation from the reaction of carbenes and carbenoids with
+       heteroatom lone pairs". Chemical Reviews. 91 (3): 263–309.
+       [618]doi:[619]10.1021/cr00003a001.
+   37. ^ [620]^a [621]^b Janulis, Eugene P.; Arduengo, Anthony J. (1983).
+       "Structure of an electronically stabilized carbonyl ylide". Journal
+       of the American Chemical Society. 105 (18): 5929–5930.
+       [622]doi:[623]10.1021/ja00356a044.
+   38. [624]^ Prakash, G. K. S.; Ellis, R. W.; Felberg, J. D.; Olah, G. A.
+       [625]Formaldehyde 0-Methylide, [CH2=O+-CH2: The Parent Carbonyl
+       Ylide] J Am Chem Soc 1986, 108, 1341.
+   39. [626]^ Sammes, P. G.; Street, L. J. [627]Intra molecular Cyclo
+       additions with Oxido pyrylium Ylides J. Chem. Soc., Chem. Commun.
+       1982, 1056.
+   40. [628]^ Garst, M. E.; McBride, B. J.; Douglass III, J. G.
+       [629]Intramolecular cycloadditions with
+       2-(ω-alkenyl)-5-hydroxy-4-pyrones Tetrahedron Lett. 1983, 24, 1675.
+   41. [630]^ Gisch, John F.; Landgrebe, John A. (1985).
+       [631]"Dichlorocarbene from flash vacuum pyrolysis of
+       trimethyl(trichloromethyl)silane. Possible observation of
+       1,1-dichloro-3-phenylcarbonyl ylide". The Journal of Organic
+       Chemistry. 50 (12): 2050–2054. [632]doi:[633]10.1021/jo00212a009.
+   42. [634]^ Huan, Zhenwei; Landgrebe, John A.; Peterson, Kimberly
+       (1983). "Dibromocarbonyl ylides. Deoxygenation of aldehydes and
+       ketones by dibromocarbene". The Journal of Organic Chemistry. 48
+       (24): 4519–4523. [635]doi:[636]10.1021/jo00172a015.
+   43. [637]^ Martin, Charles W.; Lund, Paul R.; Rapp, Erich; Landgrebe,
+       John A. (1978). "Halogenated carbonyl ylides in the reactions of
+       mercurial dihalocarbene precursors with substituted benzaldehydes".
+       The Journal of Organic Chemistry. 43 (6): 1071–1076.
+       [638]doi:[639]10.1021/jo00400a009.
+   44. [640]^ Hodgson, D. M.; Bruckl, T.; Glen, R.; Labande, A. H.;
+       Selden, D. A.; Dossetter, A. G.; Redgrave, A. J. [641]Catalytic
+       enantioselective intermolecular cycloadditions of
+       2-diazo-3,6-diketoester-derived carbonyl ylides with alkene
+       dipolarophiles Proceedings of the National Academy of Sciences of
+       the United States of America 2004, 101, 5450.
+   45. [642]^ Padwa, Albert; Hertzog, Donald L.; Nadler, William R.
+       (1994). "Intramolecular Cycloaddition of Isomunchnone Dipoles to
+       Heteroaromatic .pi.-Systems". The Journal of Organic Chemistry. 59
+       (23): 7072–7084. [643]doi:[644]10.1021/jo00102a037.
+   46. [645]^ Hamaguchi, M.; Ibata, T. [646]New Type of Mesoionic System.
+       1,3-Dipolar Cycloaddition of Isomunchnon With Ethylenic Compounds
+       Chem Lett 1975, 499.
+   47. [647]^ Park, Soon-Bong; Sakata, Naoya; Nishiyama, Hisao (1996).
+       "Aryloxycarbonylcarbene Complexes of
+       Bis(oxazolinyl)pyridineruthenium as Active Intermediates in
+       Asymmetric Catalytic Cyclopropanations". Chemistry - A European
+       Journal. 2 (3): 303–306. [648]doi:[649]10.1002/chem.19960020311.
+   48. [650]^ Snyder, James P.; Padwa, Albert; Stengel, Thomas; Arduengo,
+       Anthony J.; Jockisch, Alexander; Kim, Hyo-Joong (2001). "A Stable
+       Dirhodium Tetracarboxylate Carbenoid: Crystal Structure, Bonding
+       Analysis, and Catalysis". Journal of the American Chemical Society.
+       123 (45): 11318–11319. [651]doi:[652]10.1021/ja016928o.
+       [653]PMID [654]11697986.
+   49. ^ [655]^a [656]^b Hodgson, D. M.; Pierard, F. Y. T. M.; Stupple, P.
+       A. [657]Catalytic enantioselective rearrangements and
+       cycloadditions involving ylides from diazo compounds Chem Soc Rev
+       2001, 30, 50.
+   50. [658]^ Yoshikai, Naohiko; Nakamura, Eiichi (2003). "Theoretical
+       Studies on Diastereo- and Enantioselective Rhodium-Catalyzed
+       Cyclization of Diazo Compoundvia Intramolecular C—H Bond
+       Insertion". Advanced Synthesis & Catalysis. 345 (910): 1159–1171.
+       [659]doi:[660]10.1002/adsc.200303092.
+   51. [661]^ Nakamura, Eiichi; Yoshikai, Naohiko; Yamanaka, Masahiro
+       (2002). "Mechanism of C−H Bond Activation/C−C Bond Formation
+       Reaction between Diazo Compound and Alkane Catalyzed by Dirhodium
+       Tetracarboxylate". Journal of the American Chemical Society. 124
+       (24): 7181–7192. [662]doi:[663]10.1021/ja017823o.
+       [664]PMID [665]12059244.
+   52. [666]^ Costantino, G.; Rovito, R.; Macchiarulo, A.; Pellicciari, R.
+       [667]Structure of metal–carbenoid intermediates derived from the
+       dirhodium(II)tetracarboxylate mediated decomposition of
+       α-diazocarbonyl compounds: a DFT study J Mol Struc-Theochem 2002,
+       581, 111.
+   53. ^ [668]^a [669]^b [670]^c [671]^d M. Hodgson, D.; H. Labande, A.;
+       Muthusamy, S. In Organic Reactions; John Wiley & Sons, Inc.: 2004.
+   54. [672]^ Suga, Hiroyuki; Ebiura, Yasutaka; Fukushima, Kazuaki;
+       Kakehi, Akikazu; Baba, Toshihide (2005). "Efficient Catalytic
+       Effects of Lewis Acids in the 1,3-Dipolar Cycloaddition Reactions
+       of Carbonyl Ylides with Imines". The Journal of Organic Chemistry.
+       70 (26): 10782–10791. [673]doi:[674]10.1021/jo051743b.
+       [675]PMID [676]16356001.
+   55. ^ [677]^a [678]^b Padwa, Albert; Fryxell, Glen E.; Zhi, Lin (1990).
+       "Tandem cyclization-cycloaddition reaction of rhodium carbenoids.
+       Scope and mechanistic details of the process". Journal of the
+       American Chemical Society. 112 (8): 3100–3109.
+       [679]doi:[680]10.1021/ja00164a034.
+   56. [681]^ Houk, K. N.; Sims, Joyner.; Duke, R. E.; Strozier, R. W.;
+       George, John K. (1973). "Frontier molecular orbitals of 1,3 dipoles
+       and dipolarophiles". Journal of the American Chemical Society. 95
+       (22): 7287–7301. [682]doi:[683]10.1021/ja00803a017.
+   57. [684]^ Houk, K. N.; Rondan, Nelson G.; Santiago, Cielo; Gallo,
+       Catherine J.; Gandour, Ruth Wells; Griffin, Gary W. (1980).
+       "Theoretical studies of the structures and reactions of substituted
+       carbonyl ylides". Journal of the American Chemical Society. 102
+       (5): 1504–1512. [685]doi:[686]10.1021/ja00525a006.
+   58. [687]^ Padwa, Albert; Weingarten, M. David (1996). "Cascade
+       Processes of Metallo Carbenoids". Chemical Reviews. 96 (1):
+       223–270. [688]doi:[689]10.1021/cr950022h. [690]PMID [691]11848752.
+   59. [692]^ Padwa, Albert; Austin, David J. (1996). "Ligand-Induced
+       Selectivity in the Rhodium(II)-Catalyzed Reactions of α-Diazo
+       Carbonyl Compounds†". The Journal of Organic Chemistry. 61: 63–72.
+       [693]doi:[694]10.1021/jo951576n.
+   60. [695]^ Suga, H.; Kakehi, A.; Ito, S.; Inoue, K.; Ishida, H.; Ibata,
+       T. [696]Stereocontrol in a Ytterbium Triflate-Catalyzed 1,3-Dipolar
+       Cycloaddition Reaction of Carbonyl Ylide with N-Substituted
+       Maleimides and Dimethyl Fumarate B Chem Soc Jpn 2001, 74, 1115.
+   61. [697]^ Geng, Zhe; Chen, Bin; Chiu, Pauline (2006). "Total Synthesis
+       of Pseudolaric Acid A". Angewandte Chemie International Edition. 45
+       (37): 6197–6201. [698]doi:[699]10.1002/anie.200602056.
+       [700]PMID [701]16906616.
+   62. [702]^ Suga, Hiroyuki; Inoue, Kei; Inoue, Shuichi; Kakehi, Akikazu;
+       Shiro, Motoo (2005). "Chiral 2,6-Bis(oxazolinyl)pyridine−Rare Earth
+       Metal Complexes as Catalysts for Highly Enantioselective
+       1,3-Dipolar Cycloaddition Reactions of 2-Benzopyrylium-4-olates".
+       The Journal of Organic Chemistry. 70 (1): 47–56.
+       [703]doi:[704]10.1021/jo049007f. [705]PMID [706]15624905.
+   63. [707]^ Onishi, Tomoyuki; Sebahar, Paul; Williams, Robert (2003).
+       "Concise, Asymmetric Total Synthesis of Spirotryprostatin A".
+       Organic Letters. 5 (17): 3135–3137.
+       [708]doi:[709]10.1021/ol0351910. [710]PMID [711]12917000.
+   64. [712]^ Tornoe, Christian; Christensen, Caspar; Meldal, Morten
+       (2002). "Peptidotriazoles on Solid Phase: [1,2,3]-Triazoles by
+       Regiospecific Copper(I)-Catalyzed 1,3-Dipolar Cycloadditions of
+       Terminal Alkynes to Azides". Journal of Organic Chemistry. 67 (9):
+       3057–3064. [713]doi:[714]10.1021/jo011148j.
+       [715]PMID [716]11975567. [717]S2CID [718]11957672.
+   65. [719]^ Rostovtsev, Vsevolod; Green, Luke; Fokin, Valery; Sharpless,
+       Barry K. (2002). "A Stepwise Huisgen Cycloaddition Process:
+       Copper(I)-Catalyzed Regioselective Ligation of Azides and Terminal
+       Alkynes". Angewandte Chemie International Edition. 41 (14):
+       2596–2599.
+       [720]doi:[721]10.1002/1521-3773(20020715)41:14<2596::AID-ANIE2596>3
+       .0.CO;2-4. [722]PMID [723]12203546.
+   66. [724]^ Besanceney-Webler, Christen; Jiang, Hao; Zheng, Tianqing;
+       Feng, Lei; Soriano del Amo, David; Wang, Wei; Klivansky, Liana M.;
+       Marlow, Florence L.; Liu, Yi; Wu, Peng (2011). [725]"Increasing the
+       Efficacy of Bioorthogonal Click Reactions for Bioconjugation: A
+       Comparative Study". Angewandte Chemie International Edition. 50
+       (35): 8051–8056. [726]doi:[727]10.1002/anie.201101817.
+       [728]PMC [729]3465470. [730]PMID [731]21761519.
+   67. [732]^ Breidenbach, Mark; Gallagher, Jennifer; King, David; Smart,
+       Brian; Wu, Peng; Bertozzi, Carolyn (2010). [733]"Targeted metabolic
+       labeling of yeast N-glycans with unnatural sugars". Proceedings of
+       the National Academy of Sciences of the United States of America.
+       107 (9): 3988–3993. [734]Bibcode:[735]2010PNAS..107.3988B.
+       [736]doi:[737]10.1073/pnas.0911247107. [738]PMC [739]2840165.
+       [740]PMID [741]20142501.
+   68. [742]^ Agard, Nicholas; Prescher, Jennifer; Bertozzi, Carolyn
+       (2004). "A Strain-Promoted [3 + 2] Azide−Alkyne Cycloaddition for
+       Covalent Modification of Biomolecules in Living Systems". Journal
+       of the American Chemical Society. 126 (46): 15046–15047.
+       [743]doi:[744]10.1021/ja044996f. [745]PMID [746]15547999.
+   69. [747]^ Fernandez-Suarez, Marta; Baruah, Hemanta;
+       Martinez-Hernandez, Laura; Xie, Kathleen; Baskin, Jeremy; Bertozzi,
+       Carolyn; Ting, Alice (2007). [748]"Redirecting lipoic acid ligase
+       for cell surface protein labeling with small-molecule probes".
+       Nature Biotechnology. 25 (12): 1483–1487.
+       [749]doi:[750]10.1038/nbt1355. [751]PMC [752]2654346.
+       [753]PMID [754]18059260.
+
+     * [755]v
+     * [756]t
+     * [757]e
+
+   Topics in [758]organic reactions
+     * [759]Addition reaction
+     * [760]Elimination reaction
+     * [761]Polymerization
+     * [762]Reagents
+     * [763]Rearrangement reaction
+     * [764]Redox reaction
+     * [765]Regioselectivity
+     * [766]Stereoselectivity
+     * [767]Stereospecificity
+     * [768]Substitution reaction
+
+     * [769]A value
+     * [770]Alpha effect
+     * [771]Annulene
+     * [772]Anomeric effect
+     * [773]Antiaromaticity
+     * [774]Aromatic ring current
+     * [775]Aromaticity
+     * [776]Baird's rule
+     * [777]Baker–Nathan effect
+     * [778]Baldwin's rules
+     * [779]Bema Hapothle
+     * [780]Beta-silicon effect
+     * [781]Bicycloaromaticity
+     * [782]Bredt's rule
+     * [783]Bürgi–Dunitz angle
+     * [784]Catalytic resonance theory
+     * [785]Charge remote fragmentation
+     * [786]Charge-transfer complex
+     * [787]Clar's rule
+     * [788]Conformational isomerism
+     * [789]Conjugated system
+     * [790]Conrotatory and disrotatory
+     * [791]Curtin–Hammett principle
+     * [792]Dynamic binding (chemistry)
+     * [793]Edwards equation
+     * [794]Effective molarity
+     * [795]Electromeric effect
+     * [796]Electron-rich
+     * [797]Electron-withdrawing group
+     * [798]Electronic effect
+     * [799]Electrophile
+     * [800]Evelyn effect
+     * [801]Flippin–Lodge angle
+     * [802]Free-energy relationship
+     * [803]Grunwald–Winstein equation
+     * [804]Hammett acidity function
+     * [805]Hammett equation
+     * [806]George S. Hammond
+     * [807]Hammond's postulate
+     * [808]Homoaromaticity
+     * [809]Hückel's rule
+     * [810]Hyperconjugation
+     * [811]Inductive effect
+     * [812]Kinetic isotope effect
+     * [813]LFER solvent coefficients (data page)
+     * [814]Marcus theory
+     * [815]Markovnikov's rule
+     * [816]Möbius aromaticity
+     * [817]Möbius–Hückel concept
+     * [818]More O'Ferrall–Jencks plot
+     * [819]Negative hyperconjugation
+     * [820]Neighbouring group participation
+     * [821]2-Norbornyl cation
+     * [822]Nucleophile
+     * [823]Kennedy J. P. Orton
+     * [824]Passive binding
+     * [825]Phosphaethynolate
+     * [826]Polar effect
+     * [827]Polyfluorene
+     * [828]Ring strain
+     * [829]Σ-aromaticity
+     * [830]Spherical aromaticity
+     * [831]Spiroaromaticity
+     * [832]Steric effects
+     * [833]Superaromaticity
+     * [834]Swain–Lupton equation
+     * [835]Taft equation
+     * [836]Thorpe–Ingold effect
+     * [837]Vinylogy
+     * [838]Walsh diagram
+     * [839]Woodward–Hoffmann rules
+     * [840]Woodward's rules
+     * [841]Y-aromaticity
+     * [842]Yukawa–Tsuno equation
+     * [843]Zaitsev's rule
+     * [844]Σ-bishomoaromaticity
+
+   [845]List of organic reactions
+   Carbon-carbon
+   bond forming
+   reactions
+     * [846]Acetoacetic ester synthesis
+     * [847]Acyloin condensation
+     * [848]Aldol condensation
+     * [849]Aldol reaction
+     * [850]Alkane metathesis
+     * [851]Alkyne metathesis
+     * [852]Alkyne trimerisation
+     * [853]Alkynylation
+     * [854]Allan–Robinson reaction
+     * [855]Arndt–Eistert reaction
+     * [856]Auwers synthesis
+     * [857]Aza-Baylis–Hillman reaction
+     * [858]Barbier reaction
+     * [859]Barton–Kellogg reaction
+     * [860]Baylis–Hillman reaction
+     * [861]Benary reaction
+     * [862]Bergman cyclization
+     * [863]Biginelli reaction
+     * [864]Bingel reaction
+     * [865]Blaise ketone synthesis
+     * [866]Blaise reaction
+     * [867]Blanc chloromethylation
+     * [868]Bodroux–Chichibabin aldehyde synthesis
+     * [869]Bouveault aldehyde synthesis
+     * [870]Bucherer–Bergs reaction
+     * [871]Buchner ring expansion
+     * [872]Cadiot–Chodkiewicz coupling
+     * [873]Carbonyl allylation
+     * [874]Carbonyl olefin metathesis
+     * [875]Castro–Stephens coupling
+     * [876]Chan rearrangement
+     * [877]Chan–Lam coupling
+     * [878]Claisen condensation
+     * [879]Claisen rearrangement
+     * [880]Claisen-Schmidt condensation
+     * [881]Combes quinoline synthesis
+     * [882]Corey–Fuchs reaction
+     * [883]Corey–House synthesis
+     * [884]Coupling reaction
+     * [885]Cross-coupling reaction
+     * [886]Cross dehydrogenative coupling
+     * [887]Cross-coupling partner
+     * [888]Dakin–West reaction
+     * [889]Darzens reaction
+     * [890]Diels–Alder reaction
+     * [891]Doebner reaction
+     * [892]Wulff–Dötz reaction
+     * [893]Ene reaction
+     * [894]Enyne metathesis
+     * [895]Ethenolysis
+     * [896]Favorskii reaction
+     * [897]Ferrier carbocyclization
+     * [898]Friedel–Crafts reaction
+     * [899]Fujimoto–Belleau reaction
+     * [900]Fujiwara–Moritani reaction
+     * [901]Fukuyama coupling
+     * [902]Gabriel–Colman rearrangement
+     * [903]Gattermann reaction
+     * [904]Glaser coupling
+     * [905]Grignard reaction
+     * [906]Grignard reagent
+     * [907]Hammick reaction
+     * [908]Heck reaction
+     * [909]Henry reaction
+     * [910]Heterogeneous metal catalyzed cross-coupling
+     * [911]High dilution principle
+     * [912]Hiyama coupling
+     * [913]Homologation reaction
+     * [914]Horner–Wadsworth–Emmons reaction
+     * [915]Hydrocyanation
+     * [916]Hydrovinylation
+     * [917]Hydroxymethylation
+     * [918]Ivanov reaction
+     * [919]Johnson–Corey–Chaykovsky reaction
+     * [920]Julia olefination
+     * [921]Julia–Kocienski olefination
+     * [922]Kauffmann olefination
+     * [923]Knoevenagel condensation
+     * [924]Knorr pyrrole synthesis
+     * [925]Kolbe–Schmitt reaction
+     * [926]Kowalski ester homologation
+     * [927]Kulinkovich reaction
+     * [928]Kumada coupling
+     * [929]Liebeskind–Srogl coupling
+     * [930]Malonic ester synthesis
+     * [931]Mannich reaction
+     * [932]McMurry reaction
+     * [933]Meerwein arylation
+     * [934]Methylenation
+     * [935]Michael reaction
+     * [936]Minisci reaction
+     * [937]Mizoroki-Heck vs. Reductive Heck
+     * [938]Nef isocyanide reaction
+     * [939]Nef synthesis
+     * [940]Negishi coupling
+     * [941]Nierenstein reaction
+     * [942]Nitro-Mannich reaction
+     * [943]Nozaki–Hiyama–Kishi reaction
+     * [944]Olefin conversion technology
+     * [945]Olefin metathesis
+     * [946]Palladium–NHC complex
+     * [947]Passerini reaction
+     * [948]Peterson olefination
+     * [949]Pfitzinger reaction
+     * [950]Piancatelli rearrangement
+     * [951]Pinacol coupling reaction
+     * [952]Prins reaction
+     * [953]Quelet reaction
+     * [954]Ramberg–Bäcklund reaction
+     * [955]Rauhut–Currier reaction
+     * [956]Reformatsky reaction
+     * [957]Reimer–Tiemann reaction
+     * [958]Rieche formylation
+     * [959]Ring-closing metathesis
+     * [960]Robinson annulation
+     * [961]Sakurai reaction
+     * [962]Seyferth–Gilbert homologation
+     * [963]Shapiro reaction
+     * [964]Sonogashira coupling
+     * [965]Stetter reaction
+     * [966]Stille reaction
+     * [967]Stollé synthesis
+     * [968]Stork enamine alkylation
+     * [969]Suzuki reaction
+     * [970]Takai olefination
+     * [971]Thermal rearrangement of aromatic hydrocarbons
+     * [972]Thorpe reaction
+     * [973]Ugi reaction
+     * [974]Ullmann reaction
+     * [975]Wagner-Jauregg reaction
+     * [976]Weinreb ketone synthesis
+     * [977]Wittig reaction
+     * [978]Wurtz reaction
+     * [979]Wurtz–Fittig reaction
+     * [980]Zincke–Suhl reaction
+
+   [981]Homologation reactions
+     * [982]Arndt–Eistert reaction
+     * [983]Hooker reaction
+     * [984]Kiliani–Fischer synthesis
+     * [985]Kowalski ester homologation
+     * [986]Methoxymethylenetriphenylphosphorane
+     * [987]Seyferth–Gilbert homologation
+     * [988]Wittig reaction
+
+   Olefination reactions
+     * [989]Bamford–Stevens reaction
+     * [990]Barton–Kellogg reaction
+     * [991]Boord olefin synthesis
+     * [992]Chugaev elimination
+     * [993]Cope reaction
+     * [994]Corey–Winter olefin synthesis
+     * [995]Dehydrohalogenation
+     * [996]Elimination reaction
+     * [997]Grieco elimination
+     * [998]Hofmann elimination
+     * [999]Horner–Wadsworth–Emmons reaction
+     * [1000]Hydrazone iodination
+     * [1001]Julia olefination
+     * [1002]Julia–Kocienski olefination
+     * [1003]Kauffmann olefination
+     * [1004]McMurry reaction
+     * [1005]Peterson olefination
+     * [1006]Ramberg–Bäcklund reaction
+     * [1007]Shapiro reaction
+     * [1008]Takai olefination
+     * [1009]Wittig reaction
+
+   Carbon-heteroatom
+   bond forming
+   reactions
+     * [1010]Azo coupling
+     * [1011]Bartoli indole synthesis
+     * [1012]Boudouard reaction
+     * [1013]Cadogan–Sundberg indole synthesis
+     * [1014]Diazonium compound
+     * [1015]Esterification
+     * [1016]Grignard reagent
+     * [1017]Haloform reaction
+     * [1018]Hegedus indole synthesis
+     * [1019]Hurd–Mori 1,2,3-thiadiazole synthesis
+     * [1020]Kharasch–Sosnovsky reaction
+     * [1021]Knorr pyrrole synthesis
+     * [1022]Leimgruber–Batcho indole synthesis
+     * [1023]Mukaiyama hydration
+     * [1024]Nenitzescu indole synthesis
+     * [1025]Oxymercuration reaction
+     * [1026]Reed reaction
+     * [1027]Schotten–Baumann reaction
+     * [1028]Ullmann condensation
+     * [1029]Williamson ether synthesis
+     * [1030]Yamaguchi esterification
+
+   Degradation
+   reactions
+     * [1031]Barbier–Wieland degradation
+     * [1032]Bergmann degradation
+     * [1033]Edman degradation
+     * [1034]Emde degradation
+     * [1035]Gallagher–Hollander degradation
+     * [1036]Hofmann rearrangement
+     * [1037]Hooker reaction
+     * [1038]Isosaccharinic acid
+     * [1039]Marker degradation
+     * [1040]Ruff degradation
+     * [1041]Strecker degradation
+     * [1042]Von Braun amide degradation
+     * [1043]Weerman degradation
+     * [1044]Wohl degradation
+
+   [1045]Organic redox
+   reactions
+     * [1046]Acyloin condensation
+     * [1047]Adkins–Peterson reaction
+     * [1048]Akabori amino-acid reaction
+     * [1049]Alcohol oxidation
+     * [1050]Algar–Flynn–Oyamada reaction
+     * [1051]Amide reduction
+     * [1052]Andrussow process
+     * [1053]Angeli–Rimini reaction
+     * [1054]Aromatization
+     * [1055]Autoxidation
+     * [1056]Baeyer–Villiger oxidation
+     * [1057]Barton–McCombie deoxygenation
+     * [1058]Bechamp reduction
+     * [1059]Benkeser reaction
+     * [1060]Bergmann degradation
+     * [1061]Birch reduction
+     * [1062]Bohn–Schmidt reaction
+     * [1063]Bosch reaction
+     * [1064]Bouveault–Blanc reduction
+     * [1065]Boyland–Sims oxidation
+     * [1066]Cannizzaro reaction
+     * [1067]Carbonyl reduction
+     * [1068]Clemmensen reduction
+     * [1069]Collins oxidation
+     * [1070]Corey–Itsuno reduction
+     * [1071]Corey–Kim oxidation
+     * [1072]Corey–Winter olefin synthesis
+     * [1073]Criegee oxidation
+     * [1074]Dakin oxidation
+     * [1075]Davis oxidation
+     * [1076]Deoxygenation
+     * [1077]Dess–Martin oxidation
+     * [1078]DNA oxidation
+     * [1079]Elbs persulfate oxidation
+     * [1080]Emde degradation
+     * [1081]Eschweiler–Clarke reaction
+     * [1082]Étard reaction
+     * [1083]Fischer–Tropsch process
+     * [1084]Fleming–Tamao oxidation
+     * [1085]Fukuyama reduction
+     * [1086]Ganem oxidation
+     * [1087]Glycol cleavage
+     * [1088]Griesbaum coozonolysis
+     * [1089]Grundmann aldehyde synthesis
+     * [1090]Haloform reaction
+     * [1091]Hydrogenation
+     * [1092]Hydrogenolysis
+     * [1093]Hydroxylation
+     * [1094]Jones oxidation
+     * [1095]Kiliani–Fischer synthesis
+     * [1096]Kolbe electrolysis
+     * [1097]Kornblum oxidation
+     * [1098]Kornblum–DeLaMare rearrangement
+     * [1099]Leuckart reaction
+     * [1100]Ley oxidation
+     * [1101]Lindgren oxidation
+     * [1102]Lipid peroxidation
+     * [1103]Lombardo methylenation
+     * [1104]Luche reduction
+     * [1105]Markó–Lam deoxygenation
+     * [1106]McFadyen–Stevens reaction
+     * [1107]Meerwein–Ponndorf–Verley reduction
+     * [1108]Methionine sulfoxide
+     * [1109]Miyaura borylation
+     * [1110]Mozingo reduction
+     * [1111]Noyori asymmetric hydrogenation
+     * [1112]Omega oxidation
+     * [1113]Oppenauer oxidation
+     * [1114]Oxygen rebound mechanism
+     * [1115]Ozonolysis
+     * [1116]Parikh–Doering oxidation
+     * [1117]Pinnick oxidation
+     * [1118]Prévost reaction
+     * [1119]Reduction of nitro compounds
+     * [1120]Reductive amination
+     * [1121]Riley oxidation
+     * [1122]Rosenmund reduction
+     * [1123]Rubottom oxidation
+     * [1124]Sabatier reaction
+     * [1125]Sarett oxidation
+     * [1126]Selenoxide elimination
+     * [1127]Shapiro reaction
+     * [1128]Sharpless asymmetric dihydroxylation
+     * [1129]Epoxidation of allylic alcohols
+     * [1130]Sharpless epoxidation
+     * [1131]Sharpless oxyamination
+     * [1132]Stahl oxidation
+     * [1133]Staudinger reaction
+     * [1134]Stephen aldehyde synthesis
+     * [1135]Swern oxidation
+     * [1136]Transfer hydrogenation
+     * [1137]Wacker process
+     * [1138]Wharton reaction
+     * [1139]Whiting reaction
+     * [1140]Wohl–Aue reaction
+     * [1141]Wolff–Kishner reduction
+     * [1142]Wolffenstein–Böters reaction
+     * [1143]Zinin reaction
+
+   [1144]Rearrangement
+   reactions
+     * [1145]1,2-rearrangement
+     * [1146]1,2-Wittig rearrangement
+     * [1147]2,3-sigmatropic rearrangement
+     * [1148]2,3-Wittig rearrangement
+     * [1149]Achmatowicz reaction
+     * [1150]Alkyne zipper reaction
+     * [1151]Allen–Millar–Trippett rearrangement
+     * [1152]Allylic rearrangement
+     * [1153]Alpha-ketol rearrangement
+     * [1154]Amadori rearrangement
+     * [1155]Arndt–Eistert reaction
+     * [1156]Aza-Cope rearrangement
+     * [1157]Baker–Venkataraman rearrangement
+     * [1158]Bamberger rearrangement
+     * [1159]Banert cascade
+     * [1160]Beckmann rearrangement
+     * [1161]Benzilic acid rearrangement
+     * [1162]Bergman cyclization
+     * [1163]Bergmann degradation
+     * [1164]Boekelheide reaction
+     * [1165]Brook rearrangement
+     * [1166]Buchner ring expansion
+     * [1167]Carroll rearrangement
+     * [1168]Chan rearrangement
+     * [1169]Claisen rearrangement
+     * [1170]Cope rearrangement
+     * [1171]Corey–Fuchs reaction
+     * [1172]Cornforth rearrangement
+     * [1173]Criegee rearrangement
+     * [1174]Curtius rearrangement
+     * [1175]Demjanov rearrangement
+     * [1176]Di-π-methane rearrangement
+     * [1177]Dimroth rearrangement
+     * [1178]Divinylcyclopropane-cycloheptadiene rearrangement
+     * [1179]Dowd–Beckwith ring-expansion reaction
+     * [1180]Electrocyclic reaction
+     * [1181]Ene reaction
+     * [1182]Enyne metathesis
+     * [1183]Favorskii reaction
+     * [1184]Favorskii rearrangement
+     * [1185]Ferrier carbocyclization
+     * [1186]Ferrier rearrangement
+     * [1187]Fischer–Hepp rearrangement
+     * [1188]Fries rearrangement
+     * [1189]Fritsch–Buttenberg–Wiechell rearrangement
+     * [1190]Gabriel–Colman rearrangement
+     * [1191]Group transfer reaction
+     * [1192]Halogen dance rearrangement
+     * [1193]Hayashi rearrangement
+     * [1194]Hofmann rearrangement
+     * [1195]Hofmann–Martius rearrangement
+     * [1196]Ireland–Claisen rearrangement
+     * [1197]Jacobsen rearrangement
+     * [1198]Kornblum–DeLaMare rearrangement
+     * [1199]Kowalski ester homologation
+     * [1200]Lobry de Bruyn–Van Ekenstein transformation
+     * [1201]Lossen rearrangement
+     * [1202]McFadyen–Stevens reaction
+     * [1203]McLafferty rearrangement
+     * [1204]Meyer–Schuster rearrangement
+     * [1205]Mislow–Evans rearrangement
+     * [1206]Mumm rearrangement
+     * [1207]Myers allene synthesis
+     * [1208]Nazarov cyclization reaction
+     * [1209]Neber rearrangement
+     * [1210]Newman–Kwart rearrangement
+     * [1211]Overman rearrangement
+     * [1212]Oxy-Cope rearrangement
+     * [1213]Pericyclic reaction
+     * [1214]Piancatelli rearrangement
+     * [1215]Pinacol rearrangement
+     * [1216]Pummerer rearrangement
+     * [1217]Ramberg–Bäcklund reaction
+     * [1218]Ring expansion and contraction
+     * [1219]Ring-closing metathesis
+     * [1220]Rupe reaction
+     * [1221]Schmidt reaction
+     * [1222]Semipinacol rearrangement
+     * [1223]Seyferth–Gilbert homologation
+     * [1224]Sigmatropic reaction
+     * [1225]Skattebøl rearrangement
+     * [1226]Smiles rearrangement
+     * [1227]Sommelet–Hauser rearrangement
+     * [1228]Stevens rearrangement
+     * [1229]Stieglitz rearrangement
+     * [1230]Thermal rearrangement of aromatic hydrocarbons
+     * [1231]Tiffeneau–Demjanov rearrangement
+     * [1232]Vinylcyclopropane rearrangement
+     * [1233]Wagner–Meerwein rearrangement
+     * [1234]Wallach rearrangement
+     * [1235]Weerman degradation
+     * [1236]Westphalen–Lettré rearrangement
+     * [1237]Willgerodt rearrangement
+     * [1238]Wolff rearrangement
+
+   [1239]Ring forming
+   reactions
+     * 1,3-Dipolar cycloaddition
+     * [1240]Annulation
+     * [1241]Azide-alkyne Huisgen cycloaddition
+     * [1242]Baeyer–Emmerling indole synthesis
+     * [1243]Bartoli indole synthesis
+     * [1244]Bergman cyclization
+     * [1245]Biginelli reaction
+     * [1246]Bischler–Möhlau indole synthesis
+     * [1247]Bischler–Napieralski reaction
+     * [1248]Blum–Ittah aziridine synthesis
+     * [1249]Bobbitt reaction
+     * [1250]Bohlmann–Rahtz pyridine synthesis
+     * [1251]Borsche–Drechsel cyclization
+     * [1252]Bucherer carbazole synthesis
+     * [1253]Bucherer–Bergs reaction
+     * [1254]Cadogan–Sundberg indole synthesis
+     * [1255]Camps quinoline synthesis
+     * [1256]Chichibabin pyridine synthesis
+     * [1257]Cook–Heilbron thiazole synthesis
+     * [1258]Cycloaddition
+     * [1259]Darzens reaction
+     * [1260]Davis–Beirut reaction
+     * [1261]De Kimpe aziridine synthesis
+     * [1262]Debus–Radziszewski imidazole synthesis
+     * [1263]Dieckmann condensation
+     * [1264]Diels–Alder reaction
+     * [1265]Feist–Benary synthesis
+     * [1266]Ferrario–Ackermann reaction
+     * [1267]Fiesselmann thiophene synthesis
+     * [1268]Fischer indole synthesis
+     * [1269]Fischer oxazole synthesis
+     * [1270]Friedländer synthesis
+     * [1271]Gewald reaction
+     * [1272]Graham reaction
+     * [1273]Hantzsch pyridine synthesis
+     * [1274]Hegedus indole synthesis
+     * [1275]Hemetsberger indole synthesis
+     * [1276]Hofmann–Löffler reaction
+     * [1277]Hurd–Mori 1,2,3-thiadiazole synthesis
+     * [1278]Iodolactonization
+     * [1279]Isay reaction
+     * [1280]Jacobsen epoxidation
+     * [1281]Johnson–Corey–Chaykovsky reaction
+     * [1282]Knorr pyrrole synthesis
+     * [1283]Knorr quinoline synthesis
+     * [1284]Kröhnke pyridine synthesis
+     * [1285]Kulinkovich reaction
+     * [1286]Larock indole synthesis
+     * [1287]Madelung synthesis
+     * [1288]Nazarov cyclization reaction
+     * [1289]Nenitzescu indole synthesis
+     * [1290]Niementowski quinazoline synthesis
+     * [1291]Niementowski quinoline synthesis
+     * [1292]Paal–Knorr synthesis
+     * [1293]Paternò–Büchi reaction
+     * [1294]Pechmann condensation
+     * [1295]Petrenko-Kritschenko piperidone synthesis
+     * [1296]Pictet–Spengler reaction
+     * [1297]Pomeranz–Fritsch reaction
+     * [1298]Prilezhaev reaction
+     * [1299]Pschorr cyclization
+     * [1300]Reissert indole synthesis
+     * [1301]Ring-closing metathesis
+     * [1302]Robinson annulation
+     * [1303]Sharpless epoxidation
+     * [1304]Simmons–Smith reaction
+     * [1305]Skraup reaction
+     * [1306]Urech hydantoin synthesis
+     * [1307]Van Leusen reaction
+     * [1308]Wenker synthesis
+
+   [1309]Cycloaddition
+     * 1,3-Dipolar cycloaddition
+     * [1310]4+4 Photocycloaddition
+     * [1311](4+3) cycloaddition
+     * [1312]6+4 Cycloaddition
+     * [1313]Alkyne trimerisation
+     * [1314]Aza-Diels–Alder reaction
+     * [1315]Azide-alkyne Huisgen cycloaddition
+     * [1316]Bradsher cycloaddition
+     * [1317]Cheletropic reaction
+     * [1318]Conia-ene reaction
+     * [1319]Cyclopropanation
+     * [1320]Diazoalkane 1,3-dipolar cycloaddition
+     * [1321]Diels–Alder reaction
+     * [1322]Enone–alkene cycloadditions
+     * [1323]Hexadehydro Diels–Alder reaction
+     * [1324]Intramolecular Diels–Alder cycloaddition
+     * [1325]Inverse electron-demand Diels–Alder reaction
+     * [1326]Ketene cycloaddition
+     * [1327]McCormack reaction
+     * [1328]Metal-centered cycloaddition reactions
+     * [1329]Nitrone-olefin (3+2) cycloaddition
+     * [1330]Oxo-Diels–Alder reaction
+     * [1331]Ozonolysis
+     * [1332]Pauson–Khand reaction
+     * [1333]Povarov reaction
+     * [1334]Prato reaction
+     * [1335]Retro-Diels–Alder reaction
+     * [1336]Staudinger synthesis
+     * [1337]Trimethylenemethane cycloaddition
+     * [1338]Vinylcyclopropane (5+2) cycloaddition
+     * [1339]Wagner-Jauregg reaction
+
+   Heterocycle forming reactions
+     * [1340]Algar–Flynn–Oyamada reaction
+     * [1341]Allan–Robinson reaction
+     * [1342]Auwers synthesis
+     * [1343]Bamberger triazine synthesis
+     * [1344]Banert cascade
+     * [1345]Barton–Zard reaction
+     * [1346]Bernthsen acridine synthesis
+     * [1347]Bischler–Napieralski reaction
+     * [1348]Bobbitt reaction
+     * [1349]Boger pyridine synthesis
+     * [1350]Borsche–Drechsel cyclization
+     * [1351]Bucherer carbazole synthesis
+     * [1352]Bucherer–Bergs reaction
+     * [1353]Chichibabin pyridine synthesis
+     * [1354]Cook–Heilbron thiazole synthesis
+     * [1355]Diazoalkane 1,3-dipolar cycloaddition
+     * [1356]Einhorn–Brunner reaction
+     * [1357]Erlenmeyer–Plöchl azlactone and amino-acid synthesis
+     * [1358]Feist–Benary synthesis
+     * [1359]Fischer oxazole synthesis
+     * [1360]Gabriel–Colman rearrangement
+     * [1361]Gewald reaction
+     * [1362]Hantzsch ester
+     * [1363]Hantzsch pyridine synthesis
+     * [1364]Herz reaction
+     * [1365]Knorr pyrrole synthesis
+     * [1366]Kröhnke pyridine synthesis
+     * [1367]Lectka enantioselective beta-lactam synthesis
+     * [1368]Lehmstedt–Tanasescu reaction
+     * [1369]Niementowski quinazoline synthesis
+     * [1370]Nitrone-olefin (3+2) cycloaddition
+     * [1371]Paal–Knorr synthesis
+     * [1372]Pellizzari reaction
+     * [1373]Pictet–Spengler reaction
+     * [1374]Pomeranz–Fritsch reaction
+     * [1375]Prilezhaev reaction
+     * [1376]Robinson–Gabriel synthesis
+     * [1377]Stollé synthesis
+     * [1378]Urech hydantoin synthesis
+     * [1379]Wenker synthesis
+     * [1380]Wohl–Aue reaction
+
+   Retrieved from
+   "[1381]https://en.wikipedia.org/w/index.php?title=1,3-Dipolar_cycloaddi
+   tion&oldid=1238048603"
+
+   [1382]Categories:
+     * [1383]Ring forming reactions
+     * [1384]Nitrogen heterocycle forming reactions
+     * [1385]Cycloadditions
+
+   Hidden categories:
+     * [1386]Articles with short description
+     * [1387]Short description is different from Wikidata
+     * [1388]Use dmy dates from January 2020
+     * [1389]Articles lacking reliable references from January 2018
+     * [1390]All articles lacking reliable references
+
+     * This page was last edited on 1 August 2024, at 21:04 (UTC).
+     * Text is available under the [1391]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [1392]Terms of Use and
+       [1393]Privacy Policy. Wikipedia® is a registered trademark of the
+       [1394]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [1395]Privacy policy
+     * [1396]About Wikipedia
+     * [1397]Disclaimers
+     * [1398]Contact Wikipedia
+     * [1399]Code of Conduct
+     * [1400]Developers
+     * [1401]Statistics
+     * [1402]Cookie statement
+     * [1403]Mobile view
+
+     * [1404]Wikimedia Foundation
+     * [1405]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/1,3-Dipolar_cycloaddition
+   2. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=1,3-Dipolar+cycloaddition
+  21. file:///w/index.php?title=Special:UserLogin&returnto=1,3-Dipolar+cycloaddition
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=1,3-Dipolar+cycloaddition
+  24. file:///w/index.php?title=Special:UserLogin&returnto=1,3-Dipolar+cycloaddition
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html
+  29. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Mechanistic_overview
+  30. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Pericyclic_mechanism
+  31. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#1,3-Dipole
+  32. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Dipolarophile
+  33. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Solvent_effects
+  34. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Frontier_molecular_orbital_theory
+  35. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Type_I
+  36. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Type_II
+  37. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Type_III
+  38. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Reactivity
+  39. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Stereospecificity
+  40. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#With_respect_to_dipolarophile
+  41. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#With_respect_to_dipole
+  42. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Diastereoselectivity
+  43. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Directed_1,3-dipolar_cycloaddition
+  44. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Regioselectivity
+  45. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Electronic/stereoelectronic_effect
+  46. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Steric_effect
+  47. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Synthetic_applications
+  48. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Nitrile_oxides
+  49. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Carbonyl_ylides
+  50. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Preparation_of_carbonyl_ylides_for_1,3-dipolar_cycloaddition_reactions
+  51. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Synthesis_of_carbonyl_ylides_from_diazomethane_derivatives_by_photocatalysis
+  52. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Synthesis_of_carbonyl_ylides_from_hydroxypyrones_by_proton_transfer
+  53. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Synthesis_of_α-halocarbonyl_ylides_from_dihalocarbenes
+  54. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Synthesis_of_carbonyl_ylides_from_diazomethane_derivatives_by_metal_catalysis
+  55. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Mechanism_of_the_1,3-dipolar_cycloaddition_reaction_mediated_by_metal_catalysis_of_diazocarbonyl_compounds
+  56. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Regioselectivity_of_the_1,3-dipolar_cycloaddition_reaction_mediated_by_metal_catalysis_of_diazocarbonyl_compounds
+  57. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Stereoselectivity_and_asymmetric_induction_of_the_1,3-dipolar_cycloaddition_reaction_mediated_by_metal_catalysis_of_diazocarbonyl_compounds
+  58. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Azomethine_ylides
+  59. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Ozone
+  60. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Biological_applications
+  61. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Copper_catalysis
+  62. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#Strain-promoted_cycloaddition
+  63. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#References
+  64. https://ar.wikipedia.org/wiki/إضافة_حلقية_3،1-ثنائية_القطبية
+  65. https://cs.wikipedia.org/wiki/1,3-dipolární_cykloadice
+  66. https://de.wikipedia.org/wiki/1,3-Dipolare_Cycloaddition
+  67. https://es.wikipedia.org/wiki/Cicloadición_1,3-dipolar
+  68. https://fa.wikipedia.org/wiki/حلقه‌زایی_دو_قطبی_۱_و_۳
+  69. https://fr.wikipedia.org/wiki/Cycloaddition_1,3-dipolaire
+  70. https://it.wikipedia.org/wiki/Cicloaddizione_1,3-dipolare
+  71. https://nl.wikipedia.org/wiki/1,3-dipolaire_cycloadditie
+  72. https://fi.wikipedia.org/wiki/1,3-dipolaarinen_sykloadditio
+  73. https://zh.wikipedia.org/wiki/1,3-偶极环加成反应
+  74. https://www.wikidata.org/wiki/Special:EntityPage/Q902907#sitelinks-wikipedia
+  75. file:///wiki/1,3-Dipolar_cycloaddition
+  76. file:///wiki/Talk:1,3-Dipolar_cycloaddition
+  77. file:///wiki/1,3-Dipolar_cycloaddition
+  78. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit
+  79. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=history
+  80. file:///wiki/1,3-Dipolar_cycloaddition
+  81. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit
+  82. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=history
+  83. file:///wiki/Special:WhatLinksHere/1,3-Dipolar_cycloaddition
+  84. file:///wiki/Special:RecentChangesLinked/1,3-Dipolar_cycloaddition
+  85. file:///wiki/Wikipedia:File_Upload_Wizard
+  86. file:///wiki/Special:SpecialPages
+  87. file:///w/index.php?title=1,3-Dipolar_cycloaddition&oldid=1238048603
+  88. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=info
+  89. file:///w/index.php?title=Special:CiteThisPage&page=1,3-Dipolar_cycloaddition&id=1238048603&wpFormIdentifier=titleform
+  90. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/1,3-Dipolar_cycloaddition
+  91. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/1,3-Dipolar_cycloaddition
+  92. file:///w/index.php?title=Special:DownloadAsPdf&page=1,3-Dipolar_cycloaddition&action=show-download-screen
+  93. file:///w/index.php?title=1,3-Dipolar_cycloaddition&printable=yes
+  94. https://commons.wikimedia.org/wiki/Category:Huisgen_cycloaddition
+  95. https://www.wikidata.org/wiki/Special:EntityPage/Q902907
+  96. file:///wiki/File:Question_book-new.svg
+  97. file:///wiki/Wikipedia:Verifiability
+  98. file:///wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources
+  99. file:///wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources
+ 100. https://www.google.com/search?as_eq=wikipedia&q="1,3-Dipolar+cycloaddition"
+ 101. https://www.google.com/search?tbm=nws&q="1,3-Dipolar+cycloaddition"+-wikipedia&tbs=ar:1
+ 102. https://www.google.com/search?&q="1,3-Dipolar+cycloaddition"&tbs=bkt:s&tbm=bks
+ 103. https://www.google.com/search?tbs=bks:1&q="1,3-Dipolar+cycloaddition"+-wikipedia
+ 104. https://scholar.google.com/scholar?q="1,3-Dipolar+cycloaddition"
+ 105. https://www.jstor.org/action/doBasicSearch?Query="1,3-Dipolar+cycloaddition"&acc=on&wc=on
+ 106. file:///wiki/Help:Maintenance_template_removal
+ 107. file:///wiki/Rolf_Huisgen
+ 108. file:///wiki/Ring_forming_reaction
+ 109. https://www.organic-chemistry.org/namedreactions/huisgen-1,3-dipolar-cycloaddition.shtm
+ 110. file:///wiki/Royal_Society_of_Chemistry
+ 111. https://www.ebi.ac.uk/ols/ontologies/rxno/terms?iri=http://purl.obolibrary.org/obo/RXNO_0000018
+ 112. file:///wiki/Chemical_reaction
+ 113. file:///wiki/1,3-dipole
+ 114. file:///wiki/Reaction_mechanism
+ 115. file:///wiki/Organic_synthesis
+ 116. file:///wiki/Rolf_Huisgen
+ 117. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-1
+ 118. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-2
+ 119. file:///wiki/Azide-alkyne_Huisgen_cycloaddition
+ 120. file:///wiki/Azide
+ 121. file:///wiki/Alkyne
+ 122. file:///wiki/1,2,3-triazole
+ 123. file:///wiki/Regioselectivity
+ 124. file:///wiki/Stereoselectivity
+ 125. file:///wiki/Heterocyclic_compound
+ 126. file:///wiki/File:Example_of_1,3-dipolar_cycloaddition.tif
+ 127. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=1
+ 128. file:///wiki/Pericyclic
+ 129. file:///wiki/Cycloaddition
+ 130. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-kin-3
+ 131. file:///wiki/Radical_(chemistry)
+ 132. file:///wiki/Reaction_intermediate
+ 133. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-4
+ 134. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-5
+ 135. file:///wiki/Concerted_reaction
+ 136. file:///wiki/Molecular_symmetry
+ 137. file:///wiki/Transition_state_theory
+ 138. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-6
+ 139. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-7
+ 140. file:///wiki/File:General_mechanism_of_1,3-dipolar_cycloaddition.png
+ 141. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=2
+ 142. file:///wiki/Diazo
+ 143. file:///wiki/Alkenes
+ 144. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-kin-3
+ 145. file:///wiki/Substituent
+ 146. file:///wiki/Solvent_effects
+ 147. file:///wiki/Stereochemistry
+ 148. file:///wiki/Stereospecificity
+ 149. file:///wiki/Cis–trans_isomerism
+ 150. file:///wiki/Sigma_bond
+ 151. file:///wiki/Thermodynamic_parameters
+ 152. file:///wiki/Entropy_of_activation
+ 153. file:///wiki/Diels-Alder_reaction
+ 154. file:///wiki/Transition_state
+ 155. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=3
+ 156. file:///wiki/File:18_species_of_second-row_1,3-dipoles.tif
+ 157. file:///wiki/Allyl
+ 158. file:///wiki/Propargyl
+ 159. file:///wiki/Allene
+ 160. file:///wiki/Zwitterion
+ 161. file:///wiki/Molecular_geometry
+ 162. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-8
+ 163. file:///wiki/Sulfur
+ 164. file:///wiki/Phosphorus
+ 165. file:///wiki/Resonance_structures
+ 166. file:///wiki/Delocalized_electron
+ 167. file:///wiki/Bond_dipole_moment
+ 168. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-9
+ 169. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-10
+ 170. file:///wiki/Diazomethane
+ 171. file:///wiki/Hydrogen_azide
+ 172. file:///wiki/File:Major_resonance_structures_of_diazomethane_and_hydrazoic_acid.tif
+ 173. file:///wiki/Nucleophile
+ 174. file:///wiki/Electrophile
+ 175. file:///wiki/Frontier_molecular_orbital_theory
+ 176. file:///wiki/HOMO/LUMO
+ 177. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-11
+ 178. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-12
+ 179. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-13
+ 180. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=4
+ 181. file:///wiki/Heteroatom
+ 182. file:///wiki/Carbonyls
+ 183. file:///wiki/Imines
+ 184. file:///wiki/Fullerene
+ 185. file:///wiki/Carbon_nanotube
+ 186. file:///wiki/Azomethine_ylide
+ 187. file:///wiki/Prato_reaction
+ 188. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=5
+ 189. file:///wiki/Ethyl_acrylate
+ 190. file:///wiki/Norbornene
+ 191. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-14
+ 192. file:///wiki/File:Solvent_effect.tif
+ 193. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-15
+ 194. file:///wiki/Pyrrolidine
+ 195. file:///wiki/Dimethyl_sulfoxide
+ 196. file:///wiki/Decalin
+ 197. file:///wiki/File:The_solvent_effect_on_the_reaction_between_enamines_and_diazomalonate.tif
+ 198. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=6
+ 199. file:///wiki/File:Frontier_molecular_orbitals_overlap_in_1,3-dipolar_cycloadditions.tif
+ 200. file:///w/index.php?title=Dewar-Zimmerman_rules&action=edit&redlink=1
+ 201. file:///wiki/Woodward–Hoffmann_rules
+ 202. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-16
+ 203. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=7
+ 204. file:///wiki/HOMO/LUMO
+ 205. file:///wiki/Azomethine_ylide
+ 206. file:///w/index.php?title=Carbonyl_ylide&action=edit&redlink=1
+ 207. file:///wiki/Nitrile_ylide
+ 208. file:///w/index.php?title=Azomethine_imine&action=edit&redlink=1
+ 209. file:///w/index.php?title=Carbonyl_imine&action=edit&redlink=1
+ 210. file:///wiki/Diazoalkane
+ 211. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-17
+ 212. file:///wiki/File:The_reactivity_of_Type_I_1,3-dipole_against_dipolarophiles.tif
+ 213. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=8
+ 214. file:///w/index.php?title=Nitrile_imide&action=edit&redlink=1
+ 215. file:///wiki/Nitrone
+ 216. file:///w/index.php?title=Carbonyl_oxide&action=edit&redlink=1
+ 217. file:///wiki/Nitrile_oxide
+ 218. file:///wiki/Azide
+ 219. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-18
+ 220. file:///wiki/File:The_reactivity_of_Type_II_1,3-dipole_against_dipolarophiles.tif
+ 221. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=9
+ 222. file:///wiki/Nitrous_oxide
+ 223. file:///wiki/Ozone
+ 224. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-19
+ 225. file:///wiki/Inverse_electron-demand_Diels–Alder_reaction
+ 226. file:///wiki/File:The_reactivity_of_Type_III_1,3-dipole_against_dipolarophiles.tif
+ 227. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=10
+ 228. file:///wiki/File:Steric_clash_of_dipolarophile_substituents_during_1,3-cycloaddition.png
+ 229. file:///wiki/Doi_(identifier)
+ 230. https://doi.org/10.1002/anie.196306331
+ 231. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=11
+ 232. file:///wiki/Retention_of_configuration
+ 233. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=12
+ 234. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-20
+ 235. file:///wiki/File:General_scheme_describing_the_stereospecificity_of_1,3-dipolar_cycloaddition_and_of_the_dipolarophile.tif
+ 236. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=13
+ 237. file:///wiki/Stereogenic_center
+ 238. file:///wiki/Diastereomer
+ 239. file:///wiki/Electrocyclic_reaction
+ 240. file:///wiki/Aziridines
+ 241. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-21
+ 242. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-22
+ 243. file:///wiki/File:Stereospecificity_of_the_two_termini_of_the_dipole_in_1,3-dipolar_cycloaddition.tif
+ 244. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=14
+ 245. file:///wiki/Stereocenter
+ 246. file:///wiki/Diels–Alder_reaction
+ 247. file:///wiki/Diastereoselectivity
+ 248. file:///w/index.php?title=Secondary_orbital_interactions&action=edit&redlink=1
+ 249. file:///wiki/Pi_interaction
+ 250. file:///wiki/Steric_effects
+ 251. file:///wiki/Methyl_acrylate
+ 252. file:///wiki/Pyrroline
+ 253. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-23
+ 254. file:///wiki/Dihydrofuran
+ 255. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-24
+ 256. file:///wiki/Bicyclic_molecule
+ 257. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-25
+ 258. file:///wiki/File:Substrate-controlled_diastereoselectivity_of_1,3-dipolar_cycloaddition.tif
+ 259. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=15
+ 260. file:///wiki/Chelation
+ 261. file:///wiki/Enantiomer
+ 262. file:///wiki/Allyl_alcohol
+ 263. file:///wiki/Conformational_isomerism
+ 264. file:///wiki/Hydroxyl
+ 265. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-26
+ 266. file:///wiki/File:Directed_dipolar_cycloaddition.tif
+ 267. file:///wiki/Epothilone
+ 268. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-27
+ 269. file:///wiki/File:Use_of_directed_cycloaddition_in_Epothilones_synthesis.tif
+ 270. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=16
+ 271. file:///wiki/Regioisomer
+ 272. file:///wiki/Electronic_effect
+ 273. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-28
+ 274. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=17
+ 275. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-29
+ 276. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-30
+ 277. file:///wiki/Methyl_acrylate
+ 278. file:///wiki/Styrene
+ 279. file:///wiki/Methyl_cinnamate
+ 280. file:///wiki/Carboxylic_acid
+ 281. file:///wiki/Phenyl_group
+ 282. file:///wiki/File:Electronic_effects_on_the_regioselectivity_of_1,3-dipolar_cycloaddition.tif
+ 283. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=18
+ 284. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-31
+ 285. file:///wiki/Pyrazoline
+ 286. file:///wiki/Hydrogen
+ 287. file:///wiki/Butyl
+ 288. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-32
+ 289. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-33
+ 290. file:///wiki/File:Steric_effects_on_the_regioselectivity_of_1,3-dipolar_cycloaddition.tif
+ 291. file:///wiki/ISBN_(identifier)
+ 292. file:///wiki/Special:BookSources/0-471-08364-X
+ 293. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=19
+ 294. file:///wiki/Triazoles
+ 295. file:///wiki/Furans
+ 296. file:///wiki/Isoxazoles
+ 297. file:///wiki/Pyrrolidines
+ 298. file:///wiki/Aliphatic_compound
+ 299. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=20
+ 300. file:///wiki/Aldol_reaction
+ 301. file:///wiki/Hydrogenation
+ 302. file:///wiki/Claisen_condensation
+ 303. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-34
+ 304. file:///wiki/File:Application_of_nitrile_oxide_in_the_synthesis_of_miyakolide.tif
+ 305. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=21
+ 306. file:///wiki/Cycloaddition
+ 307. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-35
+ 308. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=22
+ 309. file:///wiki/Ylides
+ 310. file:///wiki/Heteroatoms
+ 311. file:///wiki/Sulfonium
+ 312. file:///wiki/Thiocarbonyl
+ 313. file:///wiki/Oxonium_ion
+ 314. file:///wiki/Nitrogen
+ 315. file:///wiki/Carbonyl
+ 316. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-36
+ 317. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=23
+ 318. file:///wiki/Chemical_synthesis
+ 319. file:///wiki/Photocatalysis
+ 320. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-Janulis,_E._P._1983-37
+ 321. file:///wiki/Photolysis
+ 322. file:///wiki/Tetramethylurea
+ 323. file:///wiki/Intermolecular
+ 324. file:///wiki/Nucleophilic
+ 325. file:///wiki/Aromatization
+ 326. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-Janulis,_E._P._1983-37
+ 327. file:///wiki/X-ray_crystallography
+ 328. file:///wiki/Deactivating_groups
+ 329. file:///wiki/Activating_group
+ 330. file:///wiki/1,3-dipole
+ 331. file:///wiki/File:Photolysis_of_DTTC_in_the_presence_of_tetramethylurea._Modified_from_Janulis,_E._P.;_Arduengo,_A._J._J._Am._Chem._Soc._1983,_105,_5929..png
+ 332. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-38
+ 333. file:///wiki/Formaldehyde
+ 334. file:///wiki/File:Photolysis_of_Dideuteriodiazomethane_with_formaldehyde._Modified_from_Prakash,_G._K._S.;_Ellis,_R._W.;_Felberg,_J._D.;_Olah,_G._A._J_Am_Chem_Soc_1986,_108,_1341..png
+ 335. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=24
+ 336. file:///wiki/Acid_catalysis
+ 337. file:///wiki/Catalyst
+ 338. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-39
+ 339. file:///wiki/Tautomerization
+ 340. file:///wiki/Elimination_reaction
+ 341. file:///wiki/Leaving_group
+ 342. file:///wiki/Pyrone
+ 343. file:///wiki/File:Acid-Catalyzed_Synthesis_of_Carbonyl_Ylides_from_Hydroxy-3-Pyrones._Modified_from_Sammes,_P._G.;_Street,_L._J._J._Chem._Soc.,_Chem._Commun._1982,_1056..png
+ 344. file:///wiki/Intramolecular_reaction
+ 345. file:///w/index.php?title=Hydrogen_transfer&action=edit&redlink=1
+ 346. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-40
+ 347. file:///wiki/File:Intramolecular_Hydrogen_Transfer-Mediated_Synthesis_of_Carbonyl_Ylides_from_5-Hydroxy-4-Pyrones._Modified_from_Garst,_M._E.;_McBride,_B._J.;_Douglass_III,_J._G._Tetrahedron_Lett._1983,_24,_1675..png
+ 348. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=25
+ 349. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-41
+ 350. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-42
+ 351. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-43
+ 352. file:///wiki/Phenyl(trichloromethyl)mercury
+ 353. file:///w/index.php?title=Dichlorocarbenes&action=edit&redlink=1
+ 354. file:///w/index.php?title=Dibromocarbenes&action=edit&redlink=1
+ 355. file:///wiki/Ketones
+ 356. file:///wiki/Aldehydes
+ 357. file:///wiki/Carbon_monoxide
+ 358. file:///wiki/File:Α-Halocarbonyl_Ylide_Synthesis_via_Dihalocarbene_Intermediates._Modified_from_Padwa,_A.;_Hornbuckle,_S._F._Chem_Rev_1991,_91,_263..png
+ 359. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=26
+ 360. file:///w/index.php?title=Metal_catalysis&action=edit&redlink=1
+ 361. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-44
+ 362. file:///wiki/Nitrogen_gas
+ 363. file:///wiki/Metallocarbene
+ 364. file:///wiki/Alkene
+ 365. file:///wiki/Alkyne
+ 366. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-45
+ 367. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-46
+ 368. file:///wiki/File:Metal-Catalyzed_Synthesis_of_Carbonyl_Ylides._Reproduced_from_Hodgson,_D._M.;_Bruckl,_T.;_Glen,_R.;_Labande,_A._H.;_Selden,_D._A.;_Dossetter,_A._G.;_Redgrave,_A._J._Proc._Natl._Acad._Sci._U.S.A._2004,_101,_5450..png
+ 369. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=27
+ 370. file:///wiki/Reaction_mechanism
+ 371. file:///wiki/Regioselectivity
+ 372. file:///wiki/Stereoselectivity
+ 373. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-47
+ 374. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-48
+ 375. file:///wiki/Diazo
+ 376. file:///wiki/File:Accepted_Mechanism_of_the_1,3-Dipolar_Cycloaddition_Reaction_Mediated_by_Metal_Catalysis_of_Diazocarbonyl_Compounds._Modified_from_M._Hodgson,_D._et_al._In_Organic_Reactions;_John_Wiley_&_Sons,_Inc.png
+ 377. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-Hodgson,_D._M._2001-49
+ 378. file:///wiki/Hyperconjugation
+ 379. file:///wiki/Enolate
+ 380. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-50
+ 381. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-51
+ 382. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-52
+ 383. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-M._Hodgson,_D._2004-53
+ 384. file:///wiki/Ligands
+ 385. file:///wiki/File:The_dirhodium(II)tetracarboxylate_metallocarbene_stabilized_by_πC-Rh→πC=O_hyperconjugation..png
+ 386. file:///wiki/Alkynyl
+ 387. file:///wiki/Alkenyl
+ 388. file:///wiki/Symmetric
+ 389. file:///wiki/Regioisomer
+ 390. file:///wiki/Stereoisomers
+ 391. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-M._Hodgson,_D._2004-53
+ 392. file:///wiki/Chiral_ligand
+ 393. file:///wiki/Frontier_molecular_orbital_theory
+ 394. file:///wiki/Steric_effects
+ 395. file:///wiki/Electronic_effect
+ 396. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-54
+ 397. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-Padwa,_A._1990-55
+ 398. file:///wiki/File:Products_of_the_1,3-Dipolar_Cycloaddition_Reaction_Between_Carbonyl_Ylide_Dipoles_and_Alkenyl_or_Alkynyl_Dipolarophiles._Modified_from_M._Hodgson,_D.;_H._Labande,_A.;_Muthusamy,_S._In_Organic_Reactions;_John_Wiley_&_Sons,_Inc._2004..png
+ 399. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=28
+ 400. file:///wiki/HOMO-LUMO
+ 401. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-56
+ 402. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-57
+ 403. file:///wiki/Atomic_orbital
+ 404. file:///wiki/File:Diagram_of_the_Molecular_Orbital_Interactions_of_HOMOdipole-LUMOdipolarophile_or_HOMOdipolarophile-LUMOdipole_Between_a_Carbonyl_Ylide_Dipole_and_Alkenyl_Dipolarophile..png
+ 405. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-Padwa,_A._1990-55
+ 406. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-58
+ 407. file:///wiki/Methyl_group
+ 408. file:///wiki/Propargyl
+ 409. file:///wiki/Ether
+ 410. file:///wiki/Methyl_propiolate
+ 411. file:///wiki/File:Regioselectivity_and_Molecular_Orbital_Interactions_of_the_1,3-Dipolar_Cycloaddition_Reaction_Between_a_Diazodione_and_Methyl_Propiolate_or_Methyl_Propargyl_Ether._Modified_from_Padwa,_A.;_Weingarten,_M._D._Chem_Rev_1996,_96,_223..png
+ 412. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-Hodgson,_D._M._2001-49
+ 413. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-59
+ 414. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=29
+ 415. file:///wiki/Stereoselectivity
+ 416. file:///wiki/Diastereomeric
+ 417. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-M._Hodgson,_D._2004-53
+ 418. file:///wiki/Endo-exo_isomerism
+ 419. file:///wiki/Cis-trans_isomerism
+ 420. file:///wiki/Endo-exo_isomerism
+ 421. file:///wiki/Cis-trans_isomerism
+ 422. file:///wiki/Pericyclic_reaction
+ 423. file:///wiki/Concerted
+ 424. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-60
+ 425. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-M._Hodgson,_D._2004-53
+ 426. file:///wiki/File:Facial_Selectivity_of_the_1,3-Dipolar_Cycloaddition_Reaction_using_a_Metal_Catalyst_and_Lewis_Acid.png
+ 427. file:///wiki/File:Rationale_for_the_Endo_Selectivity_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_a_Lewis_Acid.png
+ 428. file:///wiki/Antifungal_protein
+ 429. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-61
+ 430. file:///wiki/Chiral
+ 431. file:///wiki/File:Asymmetric_Induction_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_Chiral_Metal_Catalysts.png
+ 432. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-62
+ 433. file:///wiki/Enantioselective_synthesis
+ 434. file:///wiki/File:Asymmetric_Induction_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_Chiral_Lewis_Acid_Catalysts.png
+ 435. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=30
+ 436. file:///wiki/Azomethine_ylide
+ 437. file:///wiki/Pyrrolidine
+ 438. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-63
+ 439. file:///wiki/File:Application_of_azomethine_ylide_in_the_synthesis_of_spirotryprostatin.tif
+ 440. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=31
+ 441. file:///wiki/Ozonolysis
+ 442. file:///wiki/Aldehyde
+ 443. file:///wiki/Ketone
+ 444. file:///wiki/Carboxylic_acid
+ 445. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=32
+ 446. file:///wiki/Azide-alkyne_Huisgen_cycloaddition
+ 447. file:///wiki/Bioconjugation
+ 448. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=33
+ 449. file:///wiki/Copper
+ 450. file:///wiki/Physiological
+ 451. file:///wiki/PH
+ 452. file:///wiki/Temperature
+ 453. file:///wiki/Aqueous_solution
+ 454. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-64
+ 455. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-65
+ 456. file:///wiki/Bioorthogonal_chemistry
+ 457. file:///wiki/Chemoselectivity
+ 458. file:///wiki/Cell_(biology)
+ 459. file:///wiki/Click_chemistry
+ 460. file:///wiki/Cytotoxicity
+ 461. file:///wiki/Ligand
+ 462. file:///wiki/In_vivo
+ 463. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-66
+ 464. file:///wiki/File:Copper_catalyzed_AAC.tif
+ 465. file:///wiki/Metabolic
+ 466. file:///wiki/Saccharide
+ 467. file:///wiki/Glycan
+ 468. file:///wiki/Cell_membrane
+ 469. file:///wiki/Fluorophore
+ 470. file:///wiki/Fluorescent_label
+ 471. file:///wiki/Fluorescence_imaging
+ 472. file:///wiki/Fluorescence_microscope
+ 473. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-67
+ 474. file:///wiki/File:Metabolic_labeling_with_GlcNAz_and_click_chemistry.tif
+ 475. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=34
+ 476. file:///wiki/Cyclooctyne
+ 477. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-68
+ 478. file:///wiki/File:Strained_promoted_AAC.tif
+ 479. file:///wiki/Proteins
+ 480. file:///wiki/Cell_membrane
+ 481. file:///wiki/Ligase
+ 482. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_note-69
+ 483. file:///wiki/File:Enzyme-mediated_labeling_with_azidooctanoic_acid_and_SPAAC.tif
+ 484. file:///w/index.php?title=1,3-Dipolar_cycloaddition&action=edit&section=35
+ 485. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-1
+ 486. file:///wiki/Doi_(identifier)
+ 487. https://doi.org/10.1002/anie.199405271
+ 488. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-2
+ 489. file:///wiki/Doi_(identifier)
+ 490. https://doi.org/10.1002/anie.196305651
+ 491. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-kin_3-0
+ 492. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-kin_3-1
+ 493. file:///wiki/Angewandte_Chemie_International_Edition
+ 494. file:///wiki/Doi_(identifier)
+ 495. https://doi.org/10.1002/anie.196306331
+ 496. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-4
+ 497. file:///wiki/Journal_of_Organic_Chemistry
+ 498. file:///wiki/Doi_(identifier)
+ 499. https://doi.org/10.1021/jo01270a023
+ 500. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-5
+ 501. file:///wiki/Journal_of_Organic_Chemistry
+ 502. file:///wiki/Doi_(identifier)
+ 503. https://doi.org/10.1021/jo00865a001
+ 504. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-6
+ 505. file:///wiki/J._Am._Chem._Soc.
+ 506. file:///wiki/Doi_(identifier)
+ 507. https://doi.org/10.1021/ja00280a053
+ 508. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-7
+ 509. file:///wiki/Tetrahedron_Letters
+ 510. file:///wiki/Doi_(identifier)
+ 511. https://doi.org/10.1016/j.tetlet.2015.06.048
+ 512. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-8
+ 513. file:///wiki/Angewandte_Chemie_International_Edition
+ 514. file:///wiki/Doi_(identifier)
+ 515. https://doi.org/10.1002/anie.196305651
+ 516. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-9
+ 517. file:///wiki/Nature_(journal)
+ 518. file:///wiki/Bibcode_(identifier)
+ 519. https://ui.adsabs.harvard.edu/abs/1958Natur.181.1000C
+ 520. file:///wiki/Doi_(identifier)
+ 521. https://doi.org/10.1038/1811000a0
+ 522. file:///wiki/S2CID_(identifier)
+ 523. https://api.semanticscholar.org/CorpusID:4245746
+ 524. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-10
+ 525. file:///wiki/Journal_of_the_American_Chemical_Society
+ 526. file:///wiki/Doi_(identifier)
+ 527. https://doi.org/10.1021/ja00475a007
+ 528. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-11
+ 529. file:///wiki/Doi_(identifier)
+ 530. https://doi.org/10.1002/9780470771549.ch6
+ 531. file:///wiki/ISBN_(identifier)
+ 532. file:///wiki/Special:BookSources/9780470771549
+ 533. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-12
+ 534. file:///wiki/Journal_of_the_American_Chemical_Society
+ 535. file:///wiki/Doi_(identifier)
+ 536. https://doi.org/10.1021/ja00505a059
+ 537. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-13
+ 538. file:///wiki/Chemische_Berichte
+ 539. file:///wiki/Doi_(identifier)
+ 540. https://doi.org/10.1002/cber.19560890436
+ 541. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-14
+ 542. https://doi.org/10.3987/S(N)-1978-01-0109
+ 543. file:///wiki/Doi_(identifier)
+ 544. https://doi.org/10.3987/S(N)-1978-01-0109
+ 545. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-15
+ 546. file:///wiki/Doi_(identifier)
+ 547. https://doi.org/10.1016/S0040-4039(00)70991-9
+ 548. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-16
+ 549. https://doi.org/10.1351/pac197440040569
+ 550. file:///wiki/Pure_and_Applied_Chemistry
+ 551. file:///wiki/Doi_(identifier)
+ 552. https://doi.org/10.1351/pac197440040569
+ 553. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-17
+ 554. file:///wiki/Doi_(identifier)
+ 555. https://doi.org/10.1016/S0040-4039(01)92781-9
+ 556. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-18
+ 557. file:///wiki/Doi_(identifier)
+ 558. https://doi.org/10.1002/cber.19671000806
+ 559. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-19
+ 560. file:///wiki/Doi_(identifier)
+ 561. https://doi.org/10.1021/ja01016a011
+ 562. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-20
+ 563. http://www.heterocycles.jp/newlibrary/libraries/journal/10/1
+ 564. file:///wiki/Heterocycles_(journal)
+ 565. file:///wiki/Doi_(identifier)
+ 566. https://doi.org/10.3987/S-1978-01-0147
+ 567. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-21
+ 568. file:///wiki/Journal_of_the_American_Chemical_Society
+ 569. file:///wiki/Doi_(identifier)
+ 570. https://doi.org/10.1021/ja00983a052
+ 571. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-22
+ 572. file:///wiki/Doi_(identifier)
+ 573. https://doi.org/10.1039/C29710001192
+ 574. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-23
+ 575. file:///wiki/Doi_(identifier)
+ 576. https://doi.org/10.1021/ja00731a056
+ 577. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-24
+ 578. https://www.jstage.jst.go.jp/article/cl1972/8/11/8_11_1337/_article
+ 579. file:///wiki/Doi_(identifier)
+ 580. https://doi.org/10.1246/cl.1979.1337
+ 581. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-25
+ 582. file:///wiki/Doi_(identifier)
+ 583. https://doi.org/10.1016/S0040-4039(01)91213-4
+ 584. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-26
+ 585. file:///wiki/Doi_(identifier)
+ 586. https://doi.org/10.1055/s-2002-33506
+ 587. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-27
+ 588. file:///wiki/Doi_(identifier)
+ 589. https://doi.org/10.1021/ja0155635
+ 590. file:///wiki/PMID_(identifier)
+ 591. https://pubmed.ncbi.nlm.nih.gov/11472140
+ 592. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-28
+ 593. file:///wiki/Angewandte_Chemie_International_Edition
+ 594. file:///wiki/Doi_(identifier)
+ 595. https://doi.org/10.1002/1521-3773(20020715)41:14<2596::AID-ANIE2596>3.0.CO;2-4
+ 596. file:///wiki/PMID_(identifier)
+ 597. https://pubmed.ncbi.nlm.nih.gov/12203546
+ 598. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-29
+ 599. file:///wiki/Doi_(identifier)
+ 600. https://doi.org/10.1021/ja00436a062
+ 601. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-30
+ 602. file:///wiki/Doi_(identifier)
+ 603. https://doi.org/10.1021/ja00444a013
+ 604. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-31
+ 605. file:///wiki/Angewandte_Chemie_International_Edition
+ 606. file:///wiki/Doi_(identifier)
+ 607. https://doi.org/10.1002/anie.196306331
+ 608. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-32
+ 609. file:///wiki/ISBN_(identifier)
+ 610. file:///wiki/Special:BookSources/978-0-471-08364-1
+ 611. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-33
+ 612. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-34
+ 613. file:///wiki/Journal_of_the_American_Chemical_Society
+ 614. file:///wiki/Doi_(identifier)
+ 615. https://doi.org/10.1021/ja990789h
+ 616. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-35
+ 617. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-36
+ 618. file:///wiki/Doi_(identifier)
+ 619. https://doi.org/10.1021/cr00003a001
+ 620. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-Janulis,_E._P._1983_37-0
+ 621. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-Janulis,_E._P._1983_37-1
+ 622. file:///wiki/Doi_(identifier)
+ 623. https://doi.org/10.1021/ja00356a044
+ 624. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-38
+ 625. http://pubs.acs.org/doi/pdf/10.1021/ja00266a059
+ 626. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-39
+ 627. http://pubs.rsc.org/en/content/articlepdf/1982/c3/c39820001056
+ 628. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-40
+ 629. http://www.sciencedirect.com/science/article/pii/S0040403900817426
+ 630. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-41
+ 631. http://pubs.acs.org/doi/pdf/10.1021/jo00212a009
+ 632. file:///wiki/Doi_(identifier)
+ 633. https://doi.org/10.1021/jo00212a009
+ 634. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-42
+ 635. file:///wiki/Doi_(identifier)
+ 636. https://doi.org/10.1021/jo00172a015
+ 637. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-43
+ 638. file:///wiki/Doi_(identifier)
+ 639. https://doi.org/10.1021/jo00400a009
+ 640. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-44
+ 641. http://www.pnas.org/content/101/15/5450.full?sid=bbcd462e-8ce5-4a6a-82ab-2948b6e4855e
+ 642. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-45
+ 643. file:///wiki/Doi_(identifier)
+ 644. https://doi.org/10.1021/jo00102a037
+ 645. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-46
+ 646. https://www.jstage.jst.go.jp/article/cl1972/4/5/4_5_499/_pdf
+ 647. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-47
+ 648. file:///wiki/Doi_(identifier)
+ 649. https://doi.org/10.1002/chem.19960020311
+ 650. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-48
+ 651. file:///wiki/Doi_(identifier)
+ 652. https://doi.org/10.1021/ja016928o
+ 653. file:///wiki/PMID_(identifier)
+ 654. https://pubmed.ncbi.nlm.nih.gov/11697986
+ 655. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-Hodgson,_D._M._2001_49-0
+ 656. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-Hodgson,_D._M._2001_49-1
+ 657. http://pubs.rsc.org/en/content/articlepdf/2001/cs/b000708k?page=search
+ 658. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-50
+ 659. file:///wiki/Doi_(identifier)
+ 660. https://doi.org/10.1002/adsc.200303092
+ 661. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-51
+ 662. file:///wiki/Doi_(identifier)
+ 663. https://doi.org/10.1021/ja017823o
+ 664. file:///wiki/PMID_(identifier)
+ 665. https://pubmed.ncbi.nlm.nih.gov/12059244
+ 666. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-52
+ 667. http://www.sciencedirect.com/science/article/pii/S0166128001007473
+ 668. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-M._Hodgson,_D._2004_53-0
+ 669. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-M._Hodgson,_D._2004_53-1
+ 670. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-M._Hodgson,_D._2004_53-2
+ 671. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-M._Hodgson,_D._2004_53-3
+ 672. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-54
+ 673. file:///wiki/Doi_(identifier)
+ 674. https://doi.org/10.1021/jo051743b
+ 675. file:///wiki/PMID_(identifier)
+ 676. https://pubmed.ncbi.nlm.nih.gov/16356001
+ 677. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-Padwa,_A._1990_55-0
+ 678. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-Padwa,_A._1990_55-1
+ 679. file:///wiki/Doi_(identifier)
+ 680. https://doi.org/10.1021/ja00164a034
+ 681. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-56
+ 682. file:///wiki/Doi_(identifier)
+ 683. https://doi.org/10.1021/ja00803a017
+ 684. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-57
+ 685. file:///wiki/Doi_(identifier)
+ 686. https://doi.org/10.1021/ja00525a006
+ 687. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-58
+ 688. file:///wiki/Doi_(identifier)
+ 689. https://doi.org/10.1021/cr950022h
+ 690. file:///wiki/PMID_(identifier)
+ 691. https://pubmed.ncbi.nlm.nih.gov/11848752
+ 692. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-59
+ 693. file:///wiki/Doi_(identifier)
+ 694. https://doi.org/10.1021/jo951576n
+ 695. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-60
+ 696. https://www.jstage.jst.go.jp/article/bcsj/74/6/74_6_1115/_pdf
+ 697. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-61
+ 698. file:///wiki/Doi_(identifier)
+ 699. https://doi.org/10.1002/anie.200602056
+ 700. file:///wiki/PMID_(identifier)
+ 701. https://pubmed.ncbi.nlm.nih.gov/16906616
+ 702. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-62
+ 703. file:///wiki/Doi_(identifier)
+ 704. https://doi.org/10.1021/jo049007f
+ 705. file:///wiki/PMID_(identifier)
+ 706. https://pubmed.ncbi.nlm.nih.gov/15624905
+ 707. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-63
+ 708. file:///wiki/Doi_(identifier)
+ 709. https://doi.org/10.1021/ol0351910
+ 710. file:///wiki/PMID_(identifier)
+ 711. https://pubmed.ncbi.nlm.nih.gov/12917000
+ 712. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-64
+ 713. file:///wiki/Doi_(identifier)
+ 714. https://doi.org/10.1021/jo011148j
+ 715. file:///wiki/PMID_(identifier)
+ 716. https://pubmed.ncbi.nlm.nih.gov/11975567
+ 717. file:///wiki/S2CID_(identifier)
+ 718. https://api.semanticscholar.org/CorpusID:11957672
+ 719. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-65
+ 720. file:///wiki/Doi_(identifier)
+ 721. https://doi.org/10.1002/1521-3773(20020715)41:14<2596::AID-ANIE2596>3.0.CO;2-4
+ 722. file:///wiki/PMID_(identifier)
+ 723. https://pubmed.ncbi.nlm.nih.gov/12203546
+ 724. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-66
+ 725. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465470
+ 726. file:///wiki/Doi_(identifier)
+ 727. https://doi.org/10.1002/anie.201101817
+ 728. file:///wiki/PMC_(identifier)
+ 729. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465470
+ 730. file:///wiki/PMID_(identifier)
+ 731. https://pubmed.ncbi.nlm.nih.gov/21761519
+ 732. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-67
+ 733. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840165
+ 734. file:///wiki/Bibcode_(identifier)
+ 735. https://ui.adsabs.harvard.edu/abs/2010PNAS..107.3988B
+ 736. file:///wiki/Doi_(identifier)
+ 737. https://doi.org/10.1073/pnas.0911247107
+ 738. file:///wiki/PMC_(identifier)
+ 739. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840165
+ 740. file:///wiki/PMID_(identifier)
+ 741. https://pubmed.ncbi.nlm.nih.gov/20142501
+ 742. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-68
+ 743. file:///wiki/Doi_(identifier)
+ 744. https://doi.org/10.1021/ja044996f
+ 745. file:///wiki/PMID_(identifier)
+ 746. https://pubmed.ncbi.nlm.nih.gov/15547999
+ 747. file:///tmp/lynxXXXXe7fnmI/L58000-7446TMP.html#cite_ref-69
+ 748. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2654346
+ 749. file:///wiki/Doi_(identifier)
+ 750. https://doi.org/10.1038/nbt1355
+ 751. file:///wiki/PMC_(identifier)
+ 752. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2654346
+ 753. file:///wiki/PMID_(identifier)
+ 754. https://pubmed.ncbi.nlm.nih.gov/18059260
+ 755. file:///wiki/Template:Organic_reactions
+ 756. file:///wiki/Template_talk:Organic_reactions
+ 757. file:///wiki/Special:EditPage/Template:Organic_reactions
+ 758. file:///wiki/Organic_reaction
+ 759. file:///wiki/Addition_reaction
+ 760. file:///wiki/Elimination_reaction
+ 761. file:///wiki/Polymerization
+ 762. file:///wiki/Category:Reagents_for_organic_chemistry
+ 763. file:///wiki/Rearrangement_reaction
+ 764. file:///wiki/Organic_redox_reaction
+ 765. file:///wiki/Regioselectivity
+ 766. file:///wiki/Stereoselectivity
+ 767. file:///wiki/Stereospecificity
+ 768. file:///wiki/Substitution_reaction
+ 769. file:///wiki/A_value
+ 770. file:///wiki/Alpha_effect
+ 771. file:///wiki/Annulene
+ 772. file:///wiki/Anomeric_effect
+ 773. file:///wiki/Antiaromaticity
+ 774. file:///wiki/Aromatic_ring_current
+ 775. file:///wiki/Aromaticity
+ 776. file:///wiki/Baird's_rule
+ 777. file:///wiki/Baker–Nathan_effect
+ 778. file:///wiki/Baldwin's_rules
+ 779. file:///wiki/Bema_Hapothle
+ 780. file:///wiki/Beta-silicon_effect
+ 781. file:///wiki/Bicycloaromaticity
+ 782. file:///wiki/Bredt's_rule
+ 783. file:///wiki/Bürgi–Dunitz_angle
+ 784. file:///wiki/Catalytic_resonance_theory
+ 785. file:///wiki/Charge_remote_fragmentation
+ 786. file:///wiki/Charge-transfer_complex
+ 787. file:///wiki/Clar's_rule
+ 788. file:///wiki/Conformational_isomerism
+ 789. file:///wiki/Conjugated_system
+ 790. file:///wiki/Conrotatory_and_disrotatory
+ 791. file:///wiki/Curtin–Hammett_principle
+ 792. file:///wiki/Dynamic_binding_(chemistry)
+ 793. file:///wiki/Edwards_equation
+ 794. file:///wiki/Effective_molarity
+ 795. file:///wiki/Electromeric_effect
+ 796. file:///wiki/Electron-rich
+ 797. file:///wiki/Electron-withdrawing_group
+ 798. file:///wiki/Electronic_effect
+ 799. file:///wiki/Electrophile
+ 800. file:///wiki/Evelyn_effect
+ 801. file:///wiki/Flippin–Lodge_angle
+ 802. file:///wiki/Free-energy_relationship
+ 803. file:///wiki/Grunwald–Winstein_equation
+ 804. file:///wiki/Hammett_acidity_function
+ 805. file:///wiki/Hammett_equation
+ 806. file:///wiki/George_S._Hammond
+ 807. file:///wiki/Hammond's_postulate
+ 808. file:///wiki/Homoaromaticity
+ 809. file:///wiki/Hückel's_rule
+ 810. file:///wiki/Hyperconjugation
+ 811. file:///wiki/Inductive_effect
+ 812. file:///wiki/Kinetic_isotope_effect
+ 813. file:///wiki/LFER_solvent_coefficients_(data_page)
+ 814. file:///wiki/Marcus_theory
+ 815. file:///wiki/Markovnikov's_rule
+ 816. file:///wiki/Möbius_aromaticity
+ 817. file:///wiki/Möbius–Hückel_concept
+ 818. file:///wiki/More_O'Ferrall–Jencks_plot
+ 819. file:///wiki/Negative_hyperconjugation
+ 820. file:///wiki/Neighbouring_group_participation
+ 821. file:///wiki/2-Norbornyl_cation
+ 822. file:///wiki/Nucleophile
+ 823. file:///wiki/Kennedy_J._P._Orton
+ 824. file:///wiki/Passive_binding
+ 825. file:///wiki/Phosphaethynolate
+ 826. file:///wiki/Polar_effect
+ 827. file:///wiki/Polyfluorene
+ 828. file:///wiki/Ring_strain
+ 829. file:///wiki/Σ-aromaticity
+ 830. file:///wiki/Spherical_aromaticity
+ 831. file:///wiki/Spiroaromaticity
+ 832. file:///wiki/Steric_effects
+ 833. file:///wiki/Superaromaticity
+ 834. file:///wiki/Swain–Lupton_equation
+ 835. file:///wiki/Taft_equation
+ 836. file:///wiki/Thorpe–Ingold_effect
+ 837. file:///wiki/Vinylogy
+ 838. file:///wiki/Walsh_diagram
+ 839. file:///wiki/Woodward–Hoffmann_rules
+ 840. file:///wiki/Woodward's_rules
+ 841. file:///wiki/Y-aromaticity
+ 842. file:///wiki/Yukawa–Tsuno_equation
+ 843. file:///wiki/Zaitsev's_rule
+ 844. file:///wiki/Σ-bishomoaromaticity
+ 845. file:///wiki/List_of_organic_reactions
+ 846. file:///wiki/Acetoacetic_ester_synthesis
+ 847. file:///wiki/Acyloin_condensation
+ 848. file:///wiki/Aldol_condensation
+ 849. file:///wiki/Aldol_reaction
+ 850. file:///wiki/Alkane_metathesis
+ 851. file:///wiki/Alkyne_metathesis
+ 852. file:///wiki/Alkyne_trimerisation
+ 853. file:///wiki/Alkynylation
+ 854. file:///wiki/Allan–Robinson_reaction
+ 855. file:///wiki/Arndt–Eistert_reaction
+ 856. file:///wiki/Auwers_synthesis
+ 857. file:///wiki/Aza-Baylis–Hillman_reaction
+ 858. file:///wiki/Barbier_reaction
+ 859. file:///wiki/Barton–Kellogg_reaction
+ 860. file:///wiki/Baylis–Hillman_reaction
+ 861. file:///wiki/Benary_reaction
+ 862. file:///wiki/Bergman_cyclization
+ 863. file:///wiki/Biginelli_reaction
+ 864. file:///wiki/Bingel_reaction
+ 865. file:///wiki/Blaise_ketone_synthesis
+ 866. file:///wiki/Blaise_reaction
+ 867. file:///wiki/Blanc_chloromethylation
+ 868. file:///wiki/Bodroux–Chichibabin_aldehyde_synthesis
+ 869. file:///wiki/Bouveault_aldehyde_synthesis
+ 870. file:///wiki/Bucherer–Bergs_reaction
+ 871. file:///wiki/Buchner_ring_expansion
+ 872. file:///wiki/Cadiot–Chodkiewicz_coupling
+ 873. file:///wiki/Carbonyl_allylation
+ 874. file:///wiki/Carbonyl_olefin_metathesis
+ 875. file:///wiki/Castro–Stephens_coupling
+ 876. file:///wiki/Chan_rearrangement
+ 877. file:///wiki/Chan–Lam_coupling
+ 878. file:///wiki/Claisen_condensation
+ 879. file:///wiki/Claisen_rearrangement
+ 880. file:///wiki/Claisen-Schmidt_condensation
+ 881. file:///wiki/Combes_quinoline_synthesis
+ 882. file:///wiki/Corey–Fuchs_reaction
+ 883. file:///wiki/Corey–House_synthesis
+ 884. file:///wiki/Coupling_reaction
+ 885. file:///wiki/Cross-coupling_reaction
+ 886. file:///wiki/Cross_dehydrogenative_coupling
+ 887. file:///wiki/Cross-coupling_partner
+ 888. file:///wiki/Dakin–West_reaction
+ 889. file:///wiki/Darzens_reaction
+ 890. file:///wiki/Diels–Alder_reaction
+ 891. file:///wiki/Doebner_reaction
+ 892. file:///wiki/Wulff–Dötz_reaction
+ 893. file:///wiki/Ene_reaction
+ 894. file:///wiki/Enyne_metathesis
+ 895. file:///wiki/Ethenolysis
+ 896. file:///wiki/Favorskii_reaction
+ 897. file:///wiki/Ferrier_carbocyclization
+ 898. file:///wiki/Friedel–Crafts_reaction
+ 899. file:///wiki/Fujimoto–Belleau_reaction
+ 900. file:///wiki/Fujiwara–Moritani_reaction
+ 901. file:///wiki/Fukuyama_coupling
+ 902. file:///wiki/Gabriel–Colman_rearrangement
+ 903. file:///wiki/Gattermann_reaction
+ 904. file:///wiki/Glaser_coupling
+ 905. file:///wiki/Grignard_reaction
+ 906. file:///wiki/Grignard_reagent
+ 907. file:///wiki/Hammick_reaction
+ 908. file:///wiki/Heck_reaction
+ 909. file:///wiki/Henry_reaction
+ 910. file:///wiki/Heterogeneous_metal_catalyzed_cross-coupling
+ 911. file:///wiki/High_dilution_principle
+ 912. file:///wiki/Hiyama_coupling
+ 913. file:///wiki/Homologation_reaction
+ 914. file:///wiki/Horner–Wadsworth–Emmons_reaction
+ 915. file:///wiki/Hydrocyanation
+ 916. file:///wiki/Hydrovinylation
+ 917. file:///wiki/Hydroxymethylation
+ 918. file:///wiki/Ivanov_reaction
+ 919. file:///wiki/Johnson–Corey–Chaykovsky_reaction
+ 920. file:///wiki/Julia_olefination
+ 921. file:///wiki/Julia–Kocienski_olefination
+ 922. file:///wiki/Kauffmann_olefination
+ 923. file:///wiki/Knoevenagel_condensation
+ 924. file:///wiki/Knorr_pyrrole_synthesis
+ 925. file:///wiki/Kolbe–Schmitt_reaction
+ 926. file:///wiki/Kowalski_ester_homologation
+ 927. file:///wiki/Kulinkovich_reaction
+ 928. file:///wiki/Kumada_coupling
+ 929. file:///wiki/Liebeskind–Srogl_coupling
+ 930. file:///wiki/Malonic_ester_synthesis
+ 931. file:///wiki/Mannich_reaction
+ 932. file:///wiki/McMurry_reaction
+ 933. file:///wiki/Meerwein_arylation
+ 934. file:///wiki/Methylenation
+ 935. file:///wiki/Michael_reaction
+ 936. file:///wiki/Minisci_reaction
+ 937. file:///w/index.php?title=Mizoroki-Heck_vs._Reductive_Heck&action=edit&redlink=1
+ 938. file:///wiki/Nef_isocyanide_reaction
+ 939. file:///wiki/Nef_synthesis
+ 940. file:///wiki/Negishi_coupling
+ 941. file:///wiki/Nierenstein_reaction
+ 942. file:///wiki/Nitro-Mannich_reaction
+ 943. file:///wiki/Nozaki–Hiyama–Kishi_reaction
+ 944. file:///wiki/Olefin_conversion_technology
+ 945. file:///wiki/Olefin_metathesis
+ 946. file:///wiki/Palladium–NHC_complex
+ 947. file:///wiki/Passerini_reaction
+ 948. file:///wiki/Peterson_olefination
+ 949. file:///wiki/Pfitzinger_reaction
+ 950. file:///wiki/Piancatelli_rearrangement
+ 951. file:///wiki/Pinacol_coupling_reaction
+ 952. file:///wiki/Prins_reaction
+ 953. file:///wiki/Quelet_reaction
+ 954. file:///wiki/Ramberg–Bäcklund_reaction
+ 955. file:///wiki/Rauhut–Currier_reaction
+ 956. file:///wiki/Reformatsky_reaction
+ 957. file:///wiki/Reimer–Tiemann_reaction
+ 958. file:///wiki/Rieche_formylation
+ 959. file:///wiki/Ring-closing_metathesis
+ 960. file:///wiki/Robinson_annulation
+ 961. file:///wiki/Sakurai_reaction
+ 962. file:///wiki/Seyferth–Gilbert_homologation
+ 963. file:///wiki/Shapiro_reaction
+ 964. file:///wiki/Sonogashira_coupling
+ 965. file:///wiki/Stetter_reaction
+ 966. file:///wiki/Stille_reaction
+ 967. file:///wiki/Stollé_synthesis
+ 968. file:///wiki/Stork_enamine_alkylation
+ 969. file:///wiki/Suzuki_reaction
+ 970. file:///wiki/Takai_olefination
+ 971. file:///wiki/Thermal_rearrangement_of_aromatic_hydrocarbons
+ 972. file:///wiki/Thorpe_reaction
+ 973. file:///wiki/Ugi_reaction
+ 974. file:///wiki/Ullmann_reaction
+ 975. file:///wiki/Wagner-Jauregg_reaction
+ 976. file:///wiki/Weinreb_ketone_synthesis
+ 977. file:///wiki/Wittig_reaction
+ 978. file:///wiki/Wurtz_reaction
+ 979. file:///wiki/Wurtz–Fittig_reaction
+ 980. file:///wiki/Zincke–Suhl_reaction
+ 981. file:///wiki/Homologation_reactions
+ 982. file:///wiki/Arndt–Eistert_reaction
+ 983. file:///wiki/Hooker_reaction
+ 984. file:///wiki/Kiliani–Fischer_synthesis
+ 985. file:///wiki/Kowalski_ester_homologation
+ 986. file:///wiki/Methoxymethylenetriphenylphosphorane
+ 987. file:///wiki/Seyferth–Gilbert_homologation
+ 988. file:///wiki/Wittig_reaction
+ 989. file:///wiki/Bamford–Stevens_reaction
+ 990. file:///wiki/Barton–Kellogg_reaction
+ 991. file:///wiki/Boord_olefin_synthesis
+ 992. file:///wiki/Chugaev_elimination
+ 993. file:///wiki/Cope_reaction
+ 994. file:///wiki/Corey–Winter_olefin_synthesis
+ 995. file:///wiki/Dehydrohalogenation
+ 996. file:///wiki/Elimination_reaction
+ 997. file:///wiki/Grieco_elimination
+ 998. file:///wiki/Hofmann_elimination
+ 999. file:///wiki/Horner–Wadsworth–Emmons_reaction
+1000. file:///wiki/Hydrazone_iodination
+1001. file:///wiki/Julia_olefination
+1002. file:///wiki/Julia–Kocienski_olefination
+1003. file:///wiki/Kauffmann_olefination
+1004. file:///wiki/McMurry_reaction
+1005. file:///wiki/Peterson_olefination
+1006. file:///wiki/Ramberg–Bäcklund_reaction
+1007. file:///wiki/Shapiro_reaction
+1008. file:///wiki/Takai_olefination
+1009. file:///wiki/Wittig_reaction
+1010. file:///wiki/Azo_coupling
+1011. file:///wiki/Bartoli_indole_synthesis
+1012. file:///wiki/Boudouard_reaction
+1013. file:///wiki/Cadogan–Sundberg_indole_synthesis
+1014. file:///wiki/Diazonium_compound
+1015. file:///wiki/Esterification
+1016. file:///wiki/Grignard_reagent
+1017. file:///wiki/Haloform_reaction
+1018. file:///wiki/Hegedus_indole_synthesis
+1019. file:///wiki/Hurd–Mori_1,2,3-thiadiazole_synthesis
+1020. file:///wiki/Kharasch–Sosnovsky_reaction
+1021. file:///wiki/Knorr_pyrrole_synthesis
+1022. file:///wiki/Leimgruber–Batcho_indole_synthesis
+1023. file:///wiki/Mukaiyama_hydration
+1024. file:///wiki/Nenitzescu_indole_synthesis
+1025. file:///wiki/Oxymercuration_reaction
+1026. file:///wiki/Reed_reaction
+1027. file:///wiki/Schotten–Baumann_reaction
+1028. file:///wiki/Ullmann_condensation
+1029. file:///wiki/Williamson_ether_synthesis
+1030. file:///wiki/Yamaguchi_esterification
+1031. file:///wiki/Barbier–Wieland_degradation
+1032. file:///wiki/Bergmann_degradation
+1033. file:///wiki/Edman_degradation
+1034. file:///wiki/Emde_degradation
+1035. file:///wiki/Gallagher–Hollander_degradation
+1036. file:///wiki/Hofmann_rearrangement
+1037. file:///wiki/Hooker_reaction
+1038. file:///wiki/Isosaccharinic_acid
+1039. file:///wiki/Marker_degradation
+1040. file:///wiki/Ruff_degradation
+1041. file:///wiki/Strecker_degradation
+1042. file:///wiki/Von_Braun_amide_degradation
+1043. file:///wiki/Weerman_degradation
+1044. file:///wiki/Wohl_degradation
+1045. file:///wiki/Organic_redox_reaction
+1046. file:///wiki/Acyloin_condensation
+1047. file:///wiki/Adkins–Peterson_reaction
+1048. file:///wiki/Akabori_amino-acid_reaction
+1049. file:///wiki/Alcohol_oxidation
+1050. file:///wiki/Algar–Flynn–Oyamada_reaction
+1051. file:///wiki/Amide_reduction
+1052. file:///wiki/Andrussow_process
+1053. file:///wiki/Angeli–Rimini_reaction
+1054. file:///wiki/Aromatization
+1055. file:///wiki/Autoxidation
+1056. file:///wiki/Baeyer–Villiger_oxidation
+1057. file:///wiki/Barton–McCombie_deoxygenation
+1058. file:///wiki/Bechamp_reduction
+1059. file:///wiki/Benkeser_reaction
+1060. file:///wiki/Bergmann_degradation
+1061. file:///wiki/Birch_reduction
+1062. file:///wiki/Bohn–Schmidt_reaction
+1063. file:///wiki/Bosch_reaction
+1064. file:///wiki/Bouveault–Blanc_reduction
+1065. file:///wiki/Boyland–Sims_oxidation
+1066. file:///wiki/Cannizzaro_reaction
+1067. file:///wiki/Carbonyl_reduction
+1068. file:///wiki/Clemmensen_reduction
+1069. file:///wiki/Collins_oxidation
+1070. file:///wiki/Corey–Itsuno_reduction
+1071. file:///wiki/Corey–Kim_oxidation
+1072. file:///wiki/Corey–Winter_olefin_synthesis
+1073. file:///wiki/Criegee_oxidation
+1074. file:///wiki/Dakin_oxidation
+1075. file:///wiki/Davis_oxidation
+1076. file:///wiki/Deoxygenation
+1077. file:///wiki/Dess–Martin_oxidation
+1078. file:///wiki/DNA_oxidation
+1079. file:///wiki/Elbs_persulfate_oxidation
+1080. file:///wiki/Emde_degradation
+1081. file:///wiki/Eschweiler–Clarke_reaction
+1082. file:///wiki/Étard_reaction
+1083. file:///wiki/Fischer–Tropsch_process
+1084. file:///wiki/Fleming–Tamao_oxidation
+1085. file:///wiki/Fukuyama_reduction
+1086. file:///wiki/Ganem_oxidation
+1087. file:///wiki/Glycol_cleavage
+1088. file:///wiki/Griesbaum_coozonolysis
+1089. file:///wiki/Grundmann_aldehyde_synthesis
+1090. file:///wiki/Haloform_reaction
+1091. file:///wiki/Hydrogenation
+1092. file:///wiki/Hydrogenolysis
+1093. file:///wiki/Hydroxylation
+1094. file:///wiki/Jones_oxidation
+1095. file:///wiki/Kiliani–Fischer_synthesis
+1096. file:///wiki/Kolbe_electrolysis
+1097. file:///wiki/Kornblum_oxidation
+1098. file:///wiki/Kornblum–DeLaMare_rearrangement
+1099. file:///wiki/Leuckart_reaction
+1100. file:///wiki/Ley_oxidation
+1101. file:///wiki/Lindgren_oxidation
+1102. file:///wiki/Lipid_peroxidation
+1103. file:///wiki/Lombardo_methylenation
+1104. file:///wiki/Luche_reduction
+1105. file:///wiki/Markó–Lam_deoxygenation
+1106. file:///wiki/McFadyen–Stevens_reaction
+1107. file:///wiki/Meerwein–Ponndorf–Verley_reduction
+1108. file:///wiki/Methionine_sulfoxide
+1109. file:///wiki/Miyaura_borylation
+1110. file:///wiki/Mozingo_reduction
+1111. file:///wiki/Noyori_asymmetric_hydrogenation
+1112. file:///wiki/Omega_oxidation
+1113. file:///wiki/Oppenauer_oxidation
+1114. file:///wiki/Oxygen_rebound_mechanism
+1115. file:///wiki/Ozonolysis
+1116. file:///wiki/Parikh–Doering_oxidation
+1117. file:///wiki/Pinnick_oxidation
+1118. file:///wiki/Prévost_reaction
+1119. file:///wiki/Reduction_of_nitro_compounds
+1120. file:///wiki/Reductive_amination
+1121. file:///wiki/Riley_oxidation
+1122. file:///wiki/Rosenmund_reduction
+1123. file:///wiki/Rubottom_oxidation
+1124. file:///wiki/Sabatier_reaction
+1125. file:///wiki/Sarett_oxidation
+1126. file:///wiki/Selenoxide_elimination
+1127. file:///wiki/Shapiro_reaction
+1128. file:///wiki/Sharpless_asymmetric_dihydroxylation
+1129. file:///wiki/Epoxidation_of_allylic_alcohols
+1130. file:///wiki/Sharpless_epoxidation
+1131. file:///wiki/Sharpless_oxyamination
+1132. file:///wiki/Stahl_oxidation
+1133. file:///wiki/Staudinger_reaction
+1134. file:///wiki/Stephen_aldehyde_synthesis
+1135. file:///wiki/Swern_oxidation
+1136. file:///wiki/Transfer_hydrogenation
+1137. file:///wiki/Wacker_process
+1138. file:///wiki/Wharton_reaction
+1139. file:///wiki/Whiting_reaction
+1140. file:///wiki/Wohl–Aue_reaction
+1141. file:///wiki/Wolff–Kishner_reduction
+1142. file:///wiki/Wolffenstein–Böters_reaction
+1143. file:///wiki/Zinin_reaction
+1144. file:///wiki/Rearrangement_reaction
+1145. file:///wiki/1,2-rearrangement
+1146. file:///wiki/1,2-Wittig_rearrangement
+1147. file:///wiki/2,3-sigmatropic_rearrangement
+1148. file:///wiki/2,3-Wittig_rearrangement
+1149. file:///wiki/Achmatowicz_reaction
+1150. file:///wiki/Alkyne_zipper_reaction
+1151. file:///wiki/Allen–Millar–Trippett_rearrangement
+1152. file:///wiki/Allylic_rearrangement
+1153. file:///wiki/Alpha-ketol_rearrangement
+1154. file:///wiki/Amadori_rearrangement
+1155. file:///wiki/Arndt–Eistert_reaction
+1156. file:///wiki/Aza-Cope_rearrangement
+1157. file:///wiki/Baker–Venkataraman_rearrangement
+1158. file:///wiki/Bamberger_rearrangement
+1159. file:///wiki/Banert_cascade
+1160. file:///wiki/Beckmann_rearrangement
+1161. file:///wiki/Benzilic_acid_rearrangement
+1162. file:///wiki/Bergman_cyclization
+1163. file:///wiki/Bergmann_degradation
+1164. file:///wiki/Boekelheide_reaction
+1165. file:///wiki/Brook_rearrangement
+1166. file:///wiki/Buchner_ring_expansion
+1167. file:///wiki/Carroll_rearrangement
+1168. file:///wiki/Chan_rearrangement
+1169. file:///wiki/Claisen_rearrangement
+1170. file:///wiki/Cope_rearrangement
+1171. file:///wiki/Corey–Fuchs_reaction
+1172. file:///wiki/Cornforth_rearrangement
+1173. file:///wiki/Criegee_rearrangement
+1174. file:///wiki/Curtius_rearrangement
+1175. file:///wiki/Demjanov_rearrangement
+1176. file:///wiki/Di-π-methane_rearrangement
+1177. file:///wiki/Dimroth_rearrangement
+1178. file:///wiki/Divinylcyclopropane-cycloheptadiene_rearrangement
+1179. file:///wiki/Dowd–Beckwith_ring-expansion_reaction
+1180. file:///wiki/Electrocyclic_reaction
+1181. file:///wiki/Ene_reaction
+1182. file:///wiki/Enyne_metathesis
+1183. file:///wiki/Favorskii_reaction
+1184. file:///wiki/Favorskii_rearrangement
+1185. file:///wiki/Ferrier_carbocyclization
+1186. file:///wiki/Ferrier_rearrangement
+1187. file:///wiki/Fischer–Hepp_rearrangement
+1188. file:///wiki/Fries_rearrangement
+1189. file:///wiki/Fritsch–Buttenberg–Wiechell_rearrangement
+1190. file:///wiki/Gabriel–Colman_rearrangement
+1191. file:///wiki/Group_transfer_reaction
+1192. file:///wiki/Halogen_dance_rearrangement
+1193. file:///wiki/Hayashi_rearrangement
+1194. file:///wiki/Hofmann_rearrangement
+1195. file:///wiki/Hofmann–Martius_rearrangement
+1196. file:///wiki/Ireland–Claisen_rearrangement
+1197. file:///wiki/Jacobsen_rearrangement
+1198. file:///wiki/Kornblum–DeLaMare_rearrangement
+1199. file:///wiki/Kowalski_ester_homologation
+1200. file:///wiki/Lobry_de_Bruyn–Van_Ekenstein_transformation
+1201. file:///wiki/Lossen_rearrangement
+1202. file:///wiki/McFadyen–Stevens_reaction
+1203. file:///wiki/McLafferty_rearrangement
+1204. file:///wiki/Meyer–Schuster_rearrangement
+1205. file:///wiki/Mislow–Evans_rearrangement
+1206. file:///wiki/Mumm_rearrangement
+1207. file:///wiki/Myers_allene_synthesis
+1208. file:///wiki/Nazarov_cyclization_reaction
+1209. file:///wiki/Neber_rearrangement
+1210. file:///wiki/Newman–Kwart_rearrangement
+1211. file:///wiki/Overman_rearrangement
+1212. file:///wiki/Oxy-Cope_rearrangement
+1213. file:///wiki/Pericyclic_reaction
+1214. file:///wiki/Piancatelli_rearrangement
+1215. file:///wiki/Pinacol_rearrangement
+1216. file:///wiki/Pummerer_rearrangement
+1217. file:///wiki/Ramberg–Bäcklund_reaction
+1218. file:///wiki/Ring_expansion_and_contraction
+1219. file:///wiki/Ring-closing_metathesis
+1220. file:///wiki/Rupe_reaction
+1221. file:///wiki/Schmidt_reaction
+1222. file:///wiki/Semipinacol_rearrangement
+1223. file:///wiki/Seyferth–Gilbert_homologation
+1224. file:///wiki/Sigmatropic_reaction
+1225. file:///wiki/Skattebøl_rearrangement
+1226. file:///wiki/Smiles_rearrangement
+1227. file:///wiki/Sommelet–Hauser_rearrangement
+1228. file:///wiki/Stevens_rearrangement
+1229. file:///wiki/Stieglitz_rearrangement
+1230. file:///wiki/Thermal_rearrangement_of_aromatic_hydrocarbons
+1231. file:///wiki/Tiffeneau–Demjanov_rearrangement
+1232. file:///wiki/Vinylcyclopropane_rearrangement
+1233. file:///wiki/Wagner–Meerwein_rearrangement
+1234. file:///wiki/Wallach_rearrangement
+1235. file:///wiki/Weerman_degradation
+1236. file:///wiki/Westphalen–Lettré_rearrangement
+1237. file:///wiki/Willgerodt_rearrangement
+1238. file:///wiki/Wolff_rearrangement
+1239. file:///wiki/Ring_forming_reaction
+1240. file:///wiki/Annulation
+1241. file:///wiki/Azide-alkyne_Huisgen_cycloaddition
+1242. file:///wiki/Baeyer–Emmerling_indole_synthesis
+1243. file:///wiki/Bartoli_indole_synthesis
+1244. file:///wiki/Bergman_cyclization
+1245. file:///wiki/Biginelli_reaction
+1246. file:///wiki/Bischler–Möhlau_indole_synthesis
+1247. file:///wiki/Bischler–Napieralski_reaction
+1248. file:///wiki/Blum–Ittah_aziridine_synthesis
+1249. file:///wiki/Bobbitt_reaction
+1250. file:///wiki/Bohlmann–Rahtz_pyridine_synthesis
+1251. file:///wiki/Borsche–Drechsel_cyclization
+1252. file:///wiki/Bucherer_carbazole_synthesis
+1253. file:///wiki/Bucherer–Bergs_reaction
+1254. file:///wiki/Cadogan–Sundberg_indole_synthesis
+1255. file:///wiki/Camps_quinoline_synthesis
+1256. file:///wiki/Chichibabin_pyridine_synthesis
+1257. file:///wiki/Cook–Heilbron_thiazole_synthesis
+1258. file:///wiki/Cycloaddition
+1259. file:///wiki/Darzens_reaction
+1260. file:///wiki/Davis–Beirut_reaction
+1261. file:///wiki/De_Kimpe_aziridine_synthesis
+1262. file:///wiki/Debus–Radziszewski_imidazole_synthesis
+1263. file:///wiki/Dieckmann_condensation
+1264. file:///wiki/Diels–Alder_reaction
+1265. file:///wiki/Feist–Benary_synthesis
+1266. file:///wiki/Ferrario–Ackermann_reaction
+1267. file:///wiki/Fiesselmann_thiophene_synthesis
+1268. file:///wiki/Fischer_indole_synthesis
+1269. file:///wiki/Fischer_oxazole_synthesis
+1270. file:///wiki/Friedländer_synthesis
+1271. file:///wiki/Gewald_reaction
+1272. file:///wiki/Graham_reaction
+1273. file:///wiki/Hantzsch_pyridine_synthesis
+1274. file:///wiki/Hegedus_indole_synthesis
+1275. file:///wiki/Hemetsberger_indole_synthesis
+1276. file:///wiki/Hofmann–Löffler_reaction
+1277. file:///wiki/Hurd–Mori_1,2,3-thiadiazole_synthesis
+1278. file:///wiki/Iodolactonization
+1279. file:///wiki/Isay_reaction
+1280. file:///wiki/Jacobsen_epoxidation
+1281. file:///wiki/Johnson–Corey–Chaykovsky_reaction
+1282. file:///wiki/Knorr_pyrrole_synthesis
+1283. file:///wiki/Knorr_quinoline_synthesis
+1284. file:///wiki/Kröhnke_pyridine_synthesis
+1285. file:///wiki/Kulinkovich_reaction
+1286. file:///wiki/Larock_indole_synthesis
+1287. file:///wiki/Madelung_synthesis
+1288. file:///wiki/Nazarov_cyclization_reaction
+1289. file:///wiki/Nenitzescu_indole_synthesis
+1290. file:///wiki/Niementowski_quinazoline_synthesis
+1291. file:///wiki/Niementowski_quinoline_synthesis
+1292. file:///wiki/Paal–Knorr_synthesis
+1293. file:///wiki/Paternò–Büchi_reaction
+1294. file:///wiki/Pechmann_condensation
+1295. file:///wiki/Petrenko-Kritschenko_piperidone_synthesis
+1296. file:///wiki/Pictet–Spengler_reaction
+1297. file:///wiki/Pomeranz–Fritsch_reaction
+1298. file:///wiki/Prilezhaev_reaction
+1299. file:///wiki/Pschorr_cyclization
+1300. file:///wiki/Reissert_indole_synthesis
+1301. file:///wiki/Ring-closing_metathesis
+1302. file:///wiki/Robinson_annulation
+1303. file:///wiki/Sharpless_epoxidation
+1304. file:///wiki/Simmons–Smith_reaction
+1305. file:///wiki/Skraup_reaction
+1306. file:///wiki/Urech_hydantoin_synthesis
+1307. file:///wiki/Van_Leusen_reaction
+1308. file:///wiki/Wenker_synthesis
+1309. file:///wiki/Cycloaddition
+1310. file:///wiki/4+4_Photocycloaddition
+1311. file:///wiki/(4+3)_cycloaddition
+1312. file:///wiki/6+4_Cycloaddition
+1313. file:///wiki/Alkyne_trimerisation
+1314. file:///wiki/Aza-Diels–Alder_reaction
+1315. file:///wiki/Azide-alkyne_Huisgen_cycloaddition
+1316. file:///wiki/Bradsher_cycloaddition
+1317. file:///wiki/Cheletropic_reaction
+1318. file:///wiki/Conia-ene_reaction
+1319. file:///wiki/Cyclopropanation
+1320. file:///wiki/Diazoalkane_1,3-dipolar_cycloaddition
+1321. file:///wiki/Diels–Alder_reaction
+1322. file:///wiki/Enone–alkene_cycloadditions
+1323. file:///wiki/Hexadehydro_Diels–Alder_reaction
+1324. file:///wiki/Intramolecular_Diels–Alder_cycloaddition
+1325. file:///wiki/Inverse_electron-demand_Diels–Alder_reaction
+1326. file:///wiki/Ketene_cycloaddition
+1327. file:///wiki/McCormack_reaction
+1328. file:///wiki/Metal-centered_cycloaddition_reactions
+1329. file:///wiki/Nitrone-olefin_(3+2)_cycloaddition
+1330. file:///wiki/Oxo-Diels–Alder_reaction
+1331. file:///wiki/Ozonolysis
+1332. file:///wiki/Pauson–Khand_reaction
+1333. file:///wiki/Povarov_reaction
+1334. file:///wiki/Prato_reaction
+1335. file:///wiki/Retro-Diels–Alder_reaction
+1336. file:///wiki/Staudinger_synthesis
+1337. file:///wiki/Trimethylenemethane_cycloaddition
+1338. file:///wiki/Vinylcyclopropane_(5+2)_cycloaddition
+1339. file:///wiki/Wagner-Jauregg_reaction
+1340. file:///wiki/Algar–Flynn–Oyamada_reaction
+1341. file:///wiki/Allan–Robinson_reaction
+1342. file:///wiki/Auwers_synthesis
+1343. file:///wiki/Bamberger_triazine_synthesis
+1344. file:///wiki/Banert_cascade
+1345. file:///wiki/Barton–Zard_reaction
+1346. file:///wiki/Bernthsen_acridine_synthesis
+1347. file:///wiki/Bischler–Napieralski_reaction
+1348. file:///wiki/Bobbitt_reaction
+1349. file:///wiki/Boger_pyridine_synthesis
+1350. file:///wiki/Borsche–Drechsel_cyclization
+1351. file:///wiki/Bucherer_carbazole_synthesis
+1352. file:///wiki/Bucherer–Bergs_reaction
+1353. file:///wiki/Chichibabin_pyridine_synthesis
+1354. file:///wiki/Cook–Heilbron_thiazole_synthesis
+1355. file:///wiki/Diazoalkane_1,3-dipolar_cycloaddition
+1356. file:///wiki/Einhorn–Brunner_reaction
+1357. file:///wiki/Erlenmeyer–Plöchl_azlactone_and_amino-acid_synthesis
+1358. file:///wiki/Feist–Benary_synthesis
+1359. file:///wiki/Fischer_oxazole_synthesis
+1360. file:///wiki/Gabriel–Colman_rearrangement
+1361. file:///wiki/Gewald_reaction
+1362. file:///wiki/Hantzsch_ester
+1363. file:///wiki/Hantzsch_pyridine_synthesis
+1364. file:///wiki/Herz_reaction
+1365. file:///wiki/Knorr_pyrrole_synthesis
+1366. file:///wiki/Kröhnke_pyridine_synthesis
+1367. file:///w/index.php?title=Lectka_enantioselective_beta-lactam_synthesis&action=edit&redlink=1
+1368. file:///wiki/Lehmstedt–Tanasescu_reaction
+1369. file:///wiki/Niementowski_quinazoline_synthesis
+1370. file:///wiki/Nitrone-olefin_(3+2)_cycloaddition
+1371. file:///wiki/Paal–Knorr_synthesis
+1372. file:///wiki/Pellizzari_reaction
+1373. file:///wiki/Pictet–Spengler_reaction
+1374. file:///wiki/Pomeranz–Fritsch_reaction
+1375. file:///wiki/Prilezhaev_reaction
+1376. file:///wiki/Robinson–Gabriel_synthesis
+1377. file:///wiki/Stollé_synthesis
+1378. file:///wiki/Urech_hydantoin_synthesis
+1379. file:///wiki/Wenker_synthesis
+1380. file:///wiki/Wohl–Aue_reaction
+1381. https://en.wikipedia.org/w/index.php?title=1,3-Dipolar_cycloaddition&oldid=1238048603
+1382. file:///wiki/Help:Category
+1383. file:///wiki/Category:Ring_forming_reactions
+1384. file:///wiki/Category:Nitrogen_heterocycle_forming_reactions
+1385. file:///wiki/Category:Cycloadditions
+1386. file:///wiki/Category:Articles_with_short_description
+1387. file:///wiki/Category:Short_description_is_different_from_Wikidata
+1388. file:///wiki/Category:Use_dmy_dates_from_January_2020
+1389. file:///wiki/Category:Articles_lacking_reliable_references_from_January_2018
+1390. file:///wiki/Category:All_articles_lacking_reliable_references
+1391. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+1392. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+1393. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+1394. https://wikimediafoundation.org/
+1395. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+1396. file:///wiki/Wikipedia:About
+1397. file:///wiki/Wikipedia:General_disclaimer
+1398. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+1399. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+1400. https://developer.wikimedia.org/
+1401. https://stats.wikimedia.org/#/en.wikipedia.org
+1402. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+1403. file://en.m.wikipedia.org/w/index.php?title=1,3-Dipolar_cycloaddition&mobileaction=toggle_view_mobile
+1404. https://wikimediafoundation.org/
+1405. https://www.mediawiki.org/

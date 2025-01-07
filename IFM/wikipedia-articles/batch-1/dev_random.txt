@@ -1,0 +1,903 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Linux
+       (BUTTON) Toggle Linux subsection
+          + [30]1.1 Original implementation
+          + [31]1.2 Entropy injection
+          + [32]1.3 Critique of entropy injection
+     * [33]2 BSD systems
+     * [34]3 macOS, iOS and other Apple OSes
+     * [35]4 Other operating systems
+     * [36]5 See also
+     * [37]6 References
+     * [38]7 External links
+
+   [ ] Toggle the table of contents
+
+/dev/random
+
+   [ ] 16 languages
+     * [39]العربية
+     * [40]Čeština
+     * [41]Deutsch
+     * [42]Español
+     * [43]Français
+     * [44]한국어
+     * [45]Italiano
+     * [46]日本語
+     * [47]Polski
+     * [48]Português
+     * [49]Русский
+     * [50]Српски / srpski
+     * [51]Suomi
+     * [52]Türkçe
+     * [53]Українська
+     * [54]中文
+
+   [55]Edit links
+
+     * [56]Article
+     * [57]Talk
+
+   [ ] English
+
+     * [58]Read
+     * [59]Edit
+     * [60]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [61]Read
+     * [62]Edit
+     * [63]View history
+
+   General
+     * [64]What links here
+     * [65]Related changes
+     * [66]Upload file
+     * [67]Special pages
+     * [68]Permanent link
+     * [69]Page information
+     * [70]Cite this page
+     * [71]Get shortened URL
+     * [72]Download QR code
+
+   Print/export
+     * [73]Download as PDF
+     * [74]Printable version
+
+   In other projects
+     * [75]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   [76][330px-Hexdump_of_dev_urandom.png] 256 byte hex dump of
+   /dev/urandom
+   Pseudorandom number generator file in Unix-like operating systems
+
+   In [77]Unix-like [78]operating systems, /dev/random
+   and /dev/urandom are [79]special files that serve as
+   [80]cryptographically secure pseudorandom number generators (CSPRNGs).
+   They allow access to a [81]CSPRNG that is seeded with [82]entropy (a
+   value that provides [83]randomness) from environmental noise, collected
+   from [84]device drivers and other sources.^[85][1]
+   /dev/random typically [86]blocked if there was less [87]entropy
+   available than requested; more recently (see below for the differences
+   between operating systems) it usually blocks at startup until
+   sufficient entropy has been gathered, then unblocks permanently. The
+   /dev/urandom device typically was never a blocking device, even if the
+   pseudorandom number generator seed was not fully initialized with
+   entropy since boot. Not all operating systems implement the same
+   methods for
+   /dev/random and /dev/urandom.
+
+   This special file originated in Linux in 1994. It was quickly adopted
+   by other Unix-like operating systems.^[88][2]
+
+Linux
+
+   [[89]edit]
+   [90][330px-Rngtest_FIPS-140-2_screenshot.png] Rngtest testing
+   /dev/random pool
+
+   The Linux kernel provides the separate device files
+   /dev/random and
+
+   /dev/urandom. Since kernel version 5.6 of 2020, /dev/random only blocks
+   when the CSPRNG hasn't initialized. Once initialized, /dev/random and
+   /dev/urandom behave the same.^[91][3]
+
+   In October 2016, with the release of [92]Linux kernel version 4.8, the
+   kernel's
+   /dev/urandom was switched over to a [93]ChaCha20-based
+   [94]cryptographic pseudorandom number generator (CPRNG)
+   implementation^[95][4] by [96]Theodore Ts'o, based on [97]Bernstein's
+   well-regarded [98]stream cipher [99]ChaCha20.
+
+   Since version 5.17 of the Linux kernel, the random number generator
+   switched from using the [100]SHA-1 [101]cryptographic hash function in
+   the entropy collector to [102]BLAKE2s, a newer, faster and more secure
+   hash function.^[103][5]
+
+Original implementation
+
+   [[104]edit]
+
+   Random number generation in [105]kernel space was implemented for the
+   first time for [106]Linux^[107][2] in 1994 by [108]Theodore
+   Ts'o.^[109][6] The implementation used [110]secure hashes rather than
+   [111]ciphers,^[[112]clarification needed] to avoid [113]cryptography
+   export restrictions that were in place when the generator was
+   originally designed. The implementation was also designed with the
+   assumption that any given hash or cipher might eventually be found to
+   be weak, and so the design is durable in the face of any such
+   weaknesses. Fast recovery from [114]pool compromise is not considered a
+   requirement, because the requirements for pool compromise are
+   sufficient for much easier and more direct attacks on unrelated parts
+   of the operating system.
+
+   In Ts'o's implementation, the generator keeps an estimate of the number
+   of [115]bits of noise in the [116]entropy pool. From this entropy pool
+   random numbers are created. When read, the
+   /dev/random device will only return random bytes within the estimated
+   number of bits of noise in the entropy pool. When the entropy pool is
+   empty, reads from /dev/random will [117]block until additional
+   environmental noise is gathered.^[118][7] The intent is to serve as a
+   [119]cryptographically secure pseudorandom number generator, delivering
+   output with entropy as large as possible. This is suggested by the
+   authors for use in generating cryptographic keys for high-value or
+   long-term protection.^[120][7]
+
+   A counterpart to
+   /dev/random is /dev/urandom ("unlimited"^[121][8]/non-blocking random
+   source^[122][7]) which reuses the internal pool to produce more
+   pseudo-random bits. This means that the call will not block, but the
+   output may contain less entropy than the corresponding read from
+   /dev/random. While /dev/urandom is still intended as a pseudorandom
+   number generator suitable for most cryptographic purposes, the authors
+   of the corresponding [123]man page note that, theoretically, there may
+   exist an as-yet-unpublished attack on the algorithm used by
+   /dev/urandom, and that users concerned about such an attack should use
+   /dev/random instead.^[124][7] However such an attack is unlikely to
+   come into existence, because once the entropy pool is unpredictable it
+   doesn't leak security by a reduced number of bits.^[125][9]
+
+   It is also possible to write to
+   /dev/random. This allows any user to mix random data into the pool.
+   Non-random data is harmless, because only a privileged user can issue
+   the [126]ioctl needed to increase the entropy estimate.^[[127]dubious –
+   [128]discuss] The current amount of entropy and the size of the Linux
+   kernel entropy pool, both measured in bits, are available in
+   /proc/sys/kernel/random/ and can be displayed by the command cat
+   /proc/sys/kernel/random/entropy_avail and cat
+   /proc/sys/kernel/random/poolsize respectively.
+
+Entropy injection
+
+   [[129]edit]
+
+   Gutterman, Pinkas, & Reinman in March 2006 published a detailed
+   cryptographic analysis of the Linux random number generator^[130][10]
+   in which they describe several weaknesses. Perhaps the most severe
+   issue they report is with [131]embedded or [132]Live CD systems, such
+   as routers and [133]diskless clients, for which the bootup state is
+   predictable and the available supply of entropy from the environment
+   may be limited. For a system with non-volatile memory, they recommend
+   saving some state from the RNG at shutdown so that it can be included
+   in the RNG state on the next reboot. In the case of a router for which
+   network traffic represents the primary available source of entropy,
+   they note that saving state across reboots "would require potential
+   attackers to either eavesdrop on all network traffic" from when the
+   router is first put into service, or obtain direct access to the
+   router's internal state. This issue, they note, is particularly
+   critical in the case of a wireless router whose network traffic can be
+   captured from a distance, and which may be using the RNG to generate
+   keys for data encryption.
+
+   The Linux kernel provides support for several [134]hardware random
+   number generators, should they be installed. The raw output of such a
+   device may be obtained from
+   /dev/hwrng.^[135][11]
+
+   With Linux kernel 3.16 and newer,^[136][12] the kernel itself mixes
+   data from [137]hardware random number generators into
+   /dev/random on a sliding scale based on the definable entropy
+   estimation quality of the HWRNG. This means that no userspace daemon,
+   such as rngd from rng-tools, is needed to do that job. With Linux
+   kernel 3.17+, the VirtIO RNG was modified to have a default quality
+   defined above 0,^[138][13] and as such, is currently the only HWRNG
+   mixed into /dev/random by default.
+
+   The entropy pool can be improved by programs like
+   timer_entropyd, haveged, randomsound etc. With rng-tools, [139]hardware
+   random number generators like Entropy Key, etc. can write to
+   /dev/random. The [140]diehard tests programs diehard, dieharder and ent
+   can test these random number
+   generators.^[141][14]^[142][15]^[143][16]^[144][17]
+
+Critique of entropy injection
+
+   [[145]edit]
+
+   In January 2014, [146]Daniel J. Bernstein published a
+   critique^[147][18] of how Linux mixes different sources of entropy. He
+   outlines an attack in which one source of entropy capable of monitoring
+   the other sources of entropy could modify its output to nullify the
+   randomness of the other sources of entropy. Consider the function ⁠
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>H</mi> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>y</mi> <mo>,</mo>
+   <mi>z</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle H(x,y,z)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle H(x,y,z)} ⁠ where H is a hash function and x, y, and z
+   are sources of entropy with z being the output of a CPU-based malicious
+   HRNG Z:
+    1. Z generates a random value of r.
+    2. Z computes ⁠
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>H</mi> <mo
+       stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>y</mi> <mo>,</mo>
+       <mi>r</mi> <mo stretchy="false">)</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       H(x,y,r)}</annotation> </semantics> :MATH]
+       {\displaystyle H(x,y,r)} ⁠.
+    3. If the output of ⁠
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>H</mi> <mo
+       stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>y</mi> <mo>,</mo>
+       <mi>r</mi> <mo stretchy="false">)</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       H(x,y,r)}</annotation> </semantics> :MATH]
+       {\displaystyle H(x,y,r)} ⁠ is equal to the desired value, output r
+       as z.
+    4. Else, repeat starting at 1.
+
+   Bernstein estimated that an attacker would need to repeat ⁠
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>H</mi> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>y</mi> <mo>,</mo>
+   <mi>r</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle H(x,y,r)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle H(x,y,r)} ⁠ 16 times to compromise DSA and ECDSA, by
+   causing the first four bits of the RNG output to be 0. This is possible
+   because Linux reseeds H on an ongoing basis instead of using a single
+   high quality seed.^[148][18]
+
+   Bernstein also argues that entropy injection is pointless once the
+   CSPRNG has been initialized.^[149][18]
+
+   In kernel 5.17 (backported to kernel 5.10.119), Jason A. Donenfeld
+   offered a new design of the Linux entropy pool infrastructure.
+   Donenfeld reported that the old pool, consisting of a single 4096-bit
+   [150]LFSR is vulnerable to two attacks: (1) an attacker can undo the
+   effect of a known input; (2) if the whole pool's state is leaked, an
+   attacker can set all bits in the pool to zero. His new design, which is
+   faster and safer, uses the blake2s hash function for mixing a 256-bit
+   pool.^[151][19]
+
+BSD systems
+
+   [[152]edit]
+
+   The [153]FreeBSD operating system provides a
+   /dev/urandom link to /dev/random. Both block only until properly
+   seeded. FreeBSD's PRNG ([154]Fortuna) reseeds regularly, and does not
+   attempt to estimate entropy. On a system with small amount of network
+   and disk activity, reseeding is done after a fraction of a
+   second.^[155][20]
+
+   [156]DragonFly BSD inherited FreeBSD's random device files when it was
+   forked.^[157][21]^[[158]non-primary source needed]^[159][22]
+
+   Since [160]OpenBSD 5.1 (May 1, 2012)
+   /dev/random and /dev/arandom uses [161]arc4random, a CSPRNG function
+   based on [162]RC4. The function was changed to use the stronger
+   [163]ChaCha20 with OpenBSD 5.5 (May 1, 2014). The system automatically
+   uses hardware random number generators (such as those provided on some
+   Intel PCI hubs) if they are available, through the [164]OpenBSD
+   Cryptographic Framework.^[165][23]^[166][24] /dev/arandom was removed
+   in OpenBSD 6.3 (April 15, 2018).^[167][25]
+
+   [168]NetBSD's implementation of the legacy arc4random() API has been
+   switched over to ChaCha20 as well.^[169][26]
+
+macOS, iOS and other Apple OSes
+
+   [[170]edit]
+
+   All Apple OSes have moved to Fortuna since at least December 2019,
+   possibly earlier.^[171][27] It is based on [172]SHA-256. Multiple
+   entropy sources such as the secure enclave RNG, boot phase timing
+   jitter, hardware interrupt (timing assumed) are used. RDSEED/RDRAND is
+   used on Intel-based Macs that support it. Seed (entropy) data is also
+   stored for subsequent reboots.
+
+   Prior to the change, [173]macOS and [174]iOS used 160-bit [175]Yarrow
+   based on [176]SHA-1.^[177][28]
+
+   There is no difference between
+   /dev/random and /dev/urandom; both behave
+   identically.^[178][29]^[179][30]
+
+Other operating systems
+
+   [[180]edit]
+
+   /dev/random and /dev/urandom are also available on Solaris,^[181][31]
+   NetBSD,^[182][32] Tru64 UNIX 5.1B,^[183][33] AIX 5.2^[184][34] and
+   HP-UX 11i v2.^[185][35] As with FreeBSD, AIX implements its own
+   Yarrow-based design, however AIX uses considerably fewer entropy
+   sources than the standard /dev/random implementation and stops
+   refilling the pool when it thinks it contains enough entropy.^[186][36]
+
+   In [187]Windows NT, similar functionality is delivered by
+   ksecdd.sys, but reading the special file \Device\KsecDD does not work
+   as in UNIX. The documented methods to generate cryptographically random
+   bytes are [188]CryptGenRandom and [189]RtlGenRandom. Windows
+   [190]PowerShell provides access to a cryptographically secure
+   pseudorandom number generator via the Get-SecureRandom
+   cmdlet.^[191][37]
+
+   [192]Cygwin on Windows provides implementations of both
+   /dev/random and /dev/urandom, which can be used in scripts and
+   programs.^[193][38]
+
+See also
+
+   [[194]edit]
+
+     * [195]CryptGenRandom – The Microsoft Windows API's CSPRNG
+     *
+
+   [196]/dev
+
+     [197]Entropy-supplying system calls
+
+     [198]Fortuna algorithm
+
+     [199]Hardware random number generator
+
+     [200]Standard streams
+
+References
+
+   [[201]edit]
+
+    1. [202]^ [203]"random(7) - Linux manual page". 2023-02-10. Retrieved
+       2023-11-24.
+    2. ^ [204]^a [205]^b Lloyd, Jack (2008-12-09). [206]"On Syllable's
+       /dev/random". Retrieved 2019-08-21.
+    3. [207]^ [208]"/dev/random Is More Like /dev/urandom With Linux 5.6 -
+       Phoronix". www.phoronix.com.
+    4. [209]^ [210]"kernel/git/torvalds/linux.git - Linux kernel source
+       tree". kernel.org. 2016-07-27. Retrieved 2016-11-23.
+    5. [211]^ [212]"Linux 5.17 Random Number Generator Seeing Speed-Ups,
+       Switching From SHA1 To BLAKE2s - Phoronix". www.phoronix.com.
+    6. [213]^ [214]"/dev/random". [215]Everything2. 2003-06-08.
+       [216]Archived from the original on 2009-11-17. Retrieved
+       2013-07-03.
+    7. ^ [217]^a [218]^b [219]^c [220]^d [221]random(4) – [222]Linux
+       Programmer's [223]Manual – Special Files
+    8. [224]^ [225]"/dev/random and /dev/urandom implementation in Linux
+       1.3.39, function random_read_unlimited". 1995-11-04. Retrieved
+       2013-11-21.
+    9. [226]^ Filippo Valsorda (2015-12-29). [227]The plain simple reality
+       of entropy.
+   10. [228]^ Gutterman, Zvi; Pinkas, Benny; Reinman, Tzachy (2006-03-06).
+       [229]"Analysis of the Linux Random Number Generator" (PDF).
+       [230]Archived (PDF) from the original on 2008-10-03. Retrieved
+       2013-07-03.
+   11. [231]^ [232]"Cryptography Users Guide". [233]Texas Instruments.
+       2013-06-04. Archived from [234]the original on 2018-04-16.
+       Retrieved 2013-07-03.
+   12. [235]^ [236]"kernel/git/torvalds/linux.git - Linux kernel source
+       tree @ be4000bc4644d027c519b6361f5ae3bbfc52c347 "hwrng: create
+       filler thread"". Git.kernel.org. Retrieved 18 October 2016.
+   13. [237]^ [238]"kernel/git/torvalds/linux.git - Linux kernel source
+       tree @ 34679ec7a0c45da8161507e1f2e1f72749dfd85c "virtio: rng: add
+       derating factor for use by hwrng core"". Git.kernel.org. Retrieved
+       18 October 2016.
+   14. [239]^ [240]"??". Vanheusden.com. Archived from [241]the original
+       on 2013-09-21. Retrieved 2016-10-23.
+   15. [242]^ [243]"Google Code Archive for dieharder". Code.google.com.
+       Retrieved 18 October 2016.
+   16. [244]^ [245]"The Marsaglia Random Number CDROM including the
+       Diehard Battery of Tests of Randomness". Stat.fsu.edu. Archived
+       from [246]the original on 2016-01-25. Retrieved 2016-10-23.
+   17. [247]^ [248]"rng-tools". Gnu.org. Retrieved 2016-10-23.
+   18. ^ [249]^a [250]^b [251]^c [252]Daniel J. Bernstein (2014-02-05).
+       [253]"cr.yp.to: 2014.02.05: Entropy Attacks!". "Is there any
+       serious argument that adding new entropy all the time is a good
+       thing? The Linux /dev/urandom manual page claims that without new
+       entropy the user is "theoretically vulnerable to a cryptographic
+       attack", but (as I've mentioned in various venues) this is a
+       ludicrous argument"
+   19. [254]^ [255]"[PATCH 5.15 038/145] random: use computational hash
+       for entropy extraction". lore.kernel.org.
+   20. [256]^ [257]random(4) – [258]FreeBSD Kernel Interfaces [259]Manual
+   21. [260]^ [261]"random(4)". DragonFly On-Line Manual Pages. Retrieved
+       2024-06-15.
+   22. [262]^ [263]"A comparison of /dev/random speed on Linux and BSD".
+       ianix.com. Retrieved 2024-06-15.
+   23. [264]^ [265]random(4) – [266]OpenBSD Kernel Interfaces [267]Manual
+   24. [268]^ [269]deraadt, ed. (2014-07-21).
+       [270]"libc/crypt/arc4random.c". BSD Cross Reference, OpenBSD
+       src/lib/. Retrieved 2015-01-13. "ChaCha based random number
+       generator for OpenBSD."
+   25. [271]^ naddy, ed. (2017-11-14). [272]"src/etc/MAKEDEV.common".
+       GitHub OpenBSD source code mirror src/etc/. Retrieved 2017-11-14.
+       "/dev/arandom removed from OpenBSD."
+   26. [273]^ riastradh, ed. (2014-11-16). [274]"libc/gen/arc4random.c".
+       BSD Cross Reference, NetBSD src/lib/. Retrieved 2015-01-13. "Legacy
+       arc4random(3) API from OpenBSD reimplemented using the ChaCha20
+       PRF, with per-thread state."
+   27. [275]^ [276]"Apple Platform Security". [277]Apple Inc.
+   28. [278]^ [279]"xnu-1456.1.26/bsd/dev/random". [280]Apple Inc.
+       Retrieved 18 October 2016.
+   29. [281]^ [282]random(4) – [283]Darwin and [284]macOS Kernel
+       Interfaces [285]Manual
+   30. [286]^ [287]"iOS Security" (PDF). [288]Apple Inc. October 2012.
+       Archived from [289]the original (PDF) on April 5, 2014. Retrieved
+       May 27, 2015.
+   31. [290]^ Moffat, Darren (2013-09-12). [291]"Solaris Random Number
+       Generation". Oracle Solaris Blog. Retrieved 2022-04-30.
+   32. [292]^ [293]rnd(4) – [294]NetBSD Kernel Interfaces [295]Manual
+   33. [296]^ [297]"random(4)". 1999-09-19. Retrieved 2013-07-03.
+   34. [298]^ [299]"random and urandom Devices". pSeries and AIX
+       Information Center. 2010-03-15. Archived from [300]the original on
+       2021-03-03. Retrieved 2013-07-03.
+   35. [301]^ [302]"HP-UX Strong Random Number Generator". 2004-07-23.
+       Retrieved 2013-07-03.
+   36. [303]^ Roberts, Iain (2003-04-25). [304]"AIX 5.2 /dev/random and
+       /dev/urandom devices". Lists.gnupg.org. [305]Archived from the
+       original on 2012-02-22. Retrieved 2013-07-03.
+   37. [306]^ [307]"Get-SecureRandom (Microsoft.PowerShell.Utility) -
+       PowerShell". learn.microsoft.com. Retrieved 2024-06-16.
+   38. [308]^ [309]"How does Cygwin's /dev/random and urandom work?".
+       www.linuxquestions.org. Retrieved 2018-03-09.
+
+External links
+
+   [[310]edit]
+
+     *
+
+   Biege, Thomas (2006-11-06). [311]"Analysis of a strong Pseudo Random
+   Number Generator by anatomizing Linux' Random Number Device" (PDF).
+   [312]GitHub.
+
+     Hühn, Thomas (2014). [313]"Myths about /dev/urandom". – describes the
+   Linux 4.8 /dev/random infrastructure and the futility of counting
+   "spent" entropy. Includes quotes from cryptographers. (Counting of
+   "spent" entropy is removed in kernel 5.17.)
+
+   Retrieved from
+   "[314]https://en.wikipedia.org/w/index.php?title=/dev/random&oldid=1237
+   071131"
+
+   [315]Categories:
+     * [316]Unix file system technology
+     * [317]Device file
+     * [318]Random number generation
+
+   Hidden categories:
+     * [319]Articles with short description
+     * [320]Short description is different from Wikidata
+     * [321]Wikipedia articles needing clarification from February 2017
+     * [322]All accuracy disputes
+     * [323]Articles with disputed statements from December 2020
+     * [324]All pages needing factual verification
+     * [325]Wikipedia articles needing factual verification from June 2024
+
+     * This page was last edited on 28 July 2024, at 01:03 (UTC).
+     * Text is available under the [326]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [327]Terms of Use and
+       [328]Privacy Policy. Wikipedia® is a registered trademark of the
+       [329]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [330]Privacy policy
+     * [331]About Wikipedia
+     * [332]Disclaimers
+     * [333]Contact Wikipedia
+     * [334]Code of Conduct
+     * [335]Developers
+     * [336]Statistics
+     * [337]Cookie statement
+     * [338]Mobile view
+
+     * [339]Wikimedia Foundation
+     * [340]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki//dev/random
+   2. file:///w/index.php?title=/dev/random&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=/dev/random
+  21. file:///w/index.php?title=Special:UserLogin&returnto=/dev/random
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=/dev/random
+  24. file:///w/index.php?title=Special:UserLogin&returnto=/dev/random
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html
+  29. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#Linux
+  30. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#Original_implementation
+  31. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#Entropy_injection
+  32. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#Critique_of_entropy_injection
+  33. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#BSD_systems
+  34. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#macOS,_iOS_and_other_Apple_OSes
+  35. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#Other_operating_systems
+  36. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#See_also
+  37. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#References
+  38. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#External_links
+  39. https://ar.wikipedia.org/wiki//dev/random
+  40. https://cs.wikipedia.org/wiki//dev/random
+  41. https://de.wikipedia.org/wiki//dev/random
+  42. https://es.wikipedia.org/wiki//dev/random
+  43. https://fr.wikipedia.org/wiki//dev/random
+  44. https://ko.wikipedia.org/wiki//dev/random
+  45. https://it.wikipedia.org/wiki//dev/random
+  46. https://ja.wikipedia.org/wiki//dev/random
+  47. https://pl.wikipedia.org/wiki//dev/random
+  48. https://pt.wikipedia.org/wiki//dev/random
+  49. https://ru.wikipedia.org/wiki//dev/random_и_/dev/urandom
+  50. https://sr.wikipedia.org/wiki//dev/random
+  51. https://fi.wikipedia.org/wiki/Random
+  52. https://tr.wikipedia.org/wiki//dev/random
+  53. https://uk.wikipedia.org/wiki//dev/random
+  54. https://zh.wikipedia.org/wiki//dev/random
+  55. https://www.wikidata.org/wiki/Special:EntityPage/Q720081#sitelinks-wikipedia
+  56. file:///wiki//dev/random
+  57. file:///wiki/Talk:/dev/random
+  58. file:///wiki//dev/random
+  59. file:///w/index.php?title=/dev/random&action=edit
+  60. file:///w/index.php?title=/dev/random&action=history
+  61. file:///wiki//dev/random
+  62. file:///w/index.php?title=/dev/random&action=edit
+  63. file:///w/index.php?title=/dev/random&action=history
+  64. file:///wiki/Special:WhatLinksHere//dev/random
+  65. file:///wiki/Special:RecentChangesLinked//dev/random
+  66. file:///wiki/Wikipedia:File_Upload_Wizard
+  67. file:///wiki/Special:SpecialPages
+  68. file:///w/index.php?title=/dev/random&oldid=1237071131
+  69. file:///w/index.php?title=/dev/random&action=info
+  70. file:///w/index.php?title=Special:CiteThisPage&page=/dev/random&id=1237071131&wpFormIdentifier=titleform
+  71. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki//dev/random
+  72. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki//dev/random
+  73. file:///w/index.php?title=Special:DownloadAsPdf&page=/dev/random&action=show-download-screen
+  74. file:///w/index.php?title=/dev/random&printable=yes
+  75. https://www.wikidata.org/wiki/Special:EntityPage/Q720081
+  76. file:///wiki/File:Hexdump_of_dev_urandom.png
+  77. file:///wiki/Unix-like
+  78. file:///wiki/Operating_system
+  79. file:///wiki/Special_file
+  80. file:///wiki/Cryptographically_secure_pseudorandom_number_generator
+  81. file:///wiki/Cryptographically_secure_pseudorandom_number_generator
+  82. file:///wiki/Entropy_(computing)
+  83. file:///wiki/Randomness
+  84. file:///wiki/Device_driver
+  85. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-1
+  86. file:///wiki/Blocking_(computing)
+  87. file:///wiki/Entropy_(computing)
+  88. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-:0-2
+  89. file:///w/index.php?title=/dev/random&action=edit&section=1
+  90. file:///wiki/File:Rngtest_FIPS-140-2_screenshot.png
+  91. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-3
+  92. file:///wiki/Linux_kernel
+  93. file:///wiki/ChaCha20
+  94. file:///wiki/Cryptographic_pseudorandom_number_generator
+  95. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-4
+  96. file:///wiki/Theodore_Ts'o
+  97. file:///wiki/Daniel_J._Bernstein
+  98. file:///wiki/Stream_cipher
+  99. file:///wiki/ChaCha20
+ 100. file:///wiki/SHA-1
+ 101. file:///wiki/Cryptographic_hash_function
+ 102. file:///wiki/BLAKE2s
+ 103. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-5
+ 104. file:///w/index.php?title=/dev/random&action=edit&section=2
+ 105. file:///wiki/Kernel_(operating_system)
+ 106. file:///wiki/Linux
+ 107. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-:0-2
+ 108. file:///wiki/Theodore_Ts'o
+ 109. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-6
+ 110. file:///wiki/Cryptographic_hash_function
+ 111. file:///wiki/Cipher
+ 112. file:///wiki/Wikipedia:Please_clarify
+ 113. file:///wiki/Export_of_cryptography
+ 114. file:///wiki/Entropy_pool
+ 115. file:///wiki/Bit
+ 116. file:///wiki/Entropy_pool
+ 117. file:///wiki/Asynchronous_I/O
+ 118. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-linux-man-page-7
+ 119. file:///wiki/Cryptographically_secure_pseudorandom_number_generator
+ 120. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-linux-man-page-7
+ 121. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-8
+ 122. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-linux-man-page-7
+ 123. file:///wiki/Man_page
+ 124. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-linux-man-page-7
+ 125. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-9
+ 126. file:///wiki/Ioctl
+ 127. file:///wiki/Wikipedia:Accuracy_dispute#Disputed_statement
+ 128. file:///wiki/Talk:/dev/random#Dubious
+ 129. file:///w/index.php?title=/dev/random&action=edit&section=3
+ 130. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-10
+ 131. file:///wiki/Embedded_system
+ 132. file:///wiki/Live_CD
+ 133. file:///wiki/Diskless_node
+ 134. file:///wiki/Hardware_random_number_generator
+ 135. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-11
+ 136. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-12
+ 137. file:///wiki/Hardware_random_number_generator
+ 138. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-13
+ 139. file:///wiki/Hardware_random_number_generator
+ 140. file:///wiki/Diehard_tests
+ 141. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-14
+ 142. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-15
+ 143. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-16
+ 144. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-17
+ 145. file:///w/index.php?title=/dev/random&action=edit&section=4
+ 146. file:///wiki/Daniel_J._Bernstein
+ 147. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-:1-18
+ 148. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-:1-18
+ 149. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-:1-18
+ 150. file:///wiki/Linear-feedback_shift_register
+ 151. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-19
+ 152. file:///w/index.php?title=/dev/random&action=edit&section=5
+ 153. file:///wiki/FreeBSD
+ 154. file:///wiki/Fortuna_(PRNG)
+ 155. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-20
+ 156. file:///wiki/DragonFly_BSD
+ 157. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-21
+ 158. file:///wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources
+ 159. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-22
+ 160. file:///wiki/OpenBSD
+ 161. file:///wiki/Arc4random
+ 162. file:///wiki/RC4
+ 163. file:///wiki/ChaCha20
+ 164. file:///wiki/OpenBSD_Cryptographic_Framework
+ 165. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-23
+ 166. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-24
+ 167. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-25
+ 168. file:///wiki/NetBSD
+ 169. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-26
+ 170. file:///w/index.php?title=/dev/random&action=edit&section=6
+ 171. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-27
+ 172. file:///wiki/SHA-256
+ 173. file:///wiki/MacOS
+ 174. file:///wiki/IOS
+ 175. file:///wiki/Yarrow_algorithm
+ 176. file:///wiki/SHA-1
+ 177. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-28
+ 178. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-29
+ 179. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-30
+ 180. file:///w/index.php?title=/dev/random&action=edit&section=7
+ 181. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-31
+ 182. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-32
+ 183. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-33
+ 184. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-34
+ 185. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-35
+ 186. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-36
+ 187. file:///wiki/Windows_NT
+ 188. file:///wiki/CryptGenRandom
+ 189. file:///wiki/RtlGenRandom
+ 190. file:///wiki/PowerShell
+ 191. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-37
+ 192. file:///wiki/Cygwin
+ 193. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_note-38
+ 194. file:///w/index.php?title=/dev/random&action=edit&section=8
+ 195. file:///wiki/CryptGenRandom
+ 196. file:///wiki//dev
+ 197. file:///wiki/Entropy-supplying_system_calls
+ 198. file:///wiki/Fortuna_(PRNG)
+ 199. file:///wiki/Hardware_random_number_generator
+ 200. file:///wiki/Standard_streams
+ 201. file:///w/index.php?title=/dev/random&action=edit&section=9
+ 202. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-1
+ 203. https://man7.org/linux/man-pages/man7/random.7.html
+ 204. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-:0_2-0
+ 205. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-:0_2-1
+ 206. https://randombit.net/bitbashing/posts/syllable_dev_random.html
+ 207. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-3
+ 208. https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.6-Random-Rework
+ 209. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-4
+ 210. https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=818e607b57c94ade9824dad63a96c2ea6b21baf3
+ 211. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-5
+ 212. https://www.phoronix.com/news/Linux-5.17-RNG
+ 213. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-6
+ 214. http://everything2.com/title/%2Fdev%2Frandom
+ 215. file:///wiki/Everything2
+ 216. https://web.archive.org/web/20091117215406/http://everything2.com/title/%2Fdev%2Frandom
+ 217. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-linux-man-page_7-0
+ 218. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-linux-man-page_7-1
+ 219. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-linux-man-page_7-2
+ 220. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-linux-man-page_7-3
+ 221. https://manned.org/random.4
+ 222. file:///wiki/Linux
+ 223. file:///wiki/Man_page
+ 224. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-8
+ 225. http://repo.or.cz/w/davej-history.git/blob/d0562c8dc:/drivers/char/random.c#l682
+ 226. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-9
+ 227. https://media.ccc.de/v/32c3-7441-the_plain_simple_reality_of_entropy#video&t=1262
+ 228. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-10
+ 229. http://www.pinkas.net/PAPERS/gpr06.pdf
+ 230. https://web.archive.org/web/20081003041432/http://www.pinkas.net/PAPERS/gpr06.pdf
+ 231. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-11
+ 232. https://web.archive.org/web/20180416073524/http://processors.wiki.ti.com/index.php/Cryptography_Users_Guide
+ 233. file:///wiki/Texas_Instruments
+ 234. http://processors.wiki.ti.com/index.php/Cryptography_Users_Guide
+ 235. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-12
+ 236. https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=be4000bc4644d027c519b6361f5ae3bbfc52c347
+ 237. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-13
+ 238. https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=34679ec7a0c45da8161507e1f2e1f72749dfd85c
+ 239. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-14
+ 240. https://web.archive.org/web/20130921054659/http://www.vanheusden.com/te/timer_entropyd-0.1.tgz
+ 241. http://www.vanheusden.com/te/timer_entropyd-0.1.tgz
+ 242. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-15
+ 243. https://code.google.com/p/dieharder/
+ 244. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-16
+ 245. https://web.archive.org/web/20160125103112/http://stat.fsu.edu/pub/diehard/
+ 246. http://stat.fsu.edu/pub/diehard/
+ 247. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-17
+ 248. https://www.gnu.org/software/hurd/user/tlecarrour/rng-tools.html
+ 249. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-:1_18-0
+ 250. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-:1_18-1
+ 251. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-:1_18-2
+ 252. file:///wiki/Daniel_J._Bernstein
+ 253. http://blog.cr.yp.to/20140205-entropy.html
+ 254. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-19
+ 255. https://lore.kernel.org/lkml/20220527084855.501642285@linuxfoundation.org/
+ 256. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-20
+ 257. https://www.freebsd.org/cgi/man.cgi?query=random&sektion=4
+ 258. file:///wiki/FreeBSD
+ 259. file:///wiki/Man_page
+ 260. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-21
+ 261. https://man.dragonflybsd.org/?command=random&section=4
+ 262. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-22
+ 263. https://ianix.com/pub/comparing-dev-random-speed-linux-bsd.html
+ 264. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-23
+ 265. https://man.openbsd.org/random.4
+ 266. file:///wiki/OpenBSD
+ 267. file:///wiki/Man_page
+ 268. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-24
+ 269. file:///wiki/Theo_de_Raadt
+ 270. http://bxr.su/OpenBSD/lib/libc/crypt/arc4random.c
+ 271. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-25
+ 272. https://github.com/openbsd/src/commit/0d60993c06101c0a9e6fb6c3a3302133f1b65f98
+ 273. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-26
+ 274. http://bxr.su/NetBSD/lib/libc/gen/arc4random.c
+ 275. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-27
+ 276. https://support.apple.com/en-ie/guide/security/seca0c73a75b/web
+ 277. file:///wiki/Apple_Inc.
+ 278. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-28
+ 279. https://opensource.apple.com/source/xnu/xnu-1456.1.26/bsd/dev/random/
+ 280. file:///wiki/Apple_Inc.
+ 281. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-29
+ 282. https://keith.github.io/xcode-man-pages/random.4.html
+ 283. file:///wiki/Darwin_(operating_system)
+ 284. file:///wiki/MacOS
+ 285. file:///wiki/Man_page
+ 286. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-30
+ 287. https://web.archive.org/web/20140405001141/https://www.apple.com/ipad/business/docs/iOS_Security_Oct12.pdf
+ 288. file:///wiki/Apple_Inc.
+ 289. https://www.apple.com/ipad/business/docs/iOS_Security_Oct12.pdf
+ 290. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-31
+ 291. https://blogs.oracle.com/solaris/post/solaris-random-number-generation
+ 292. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-32
+ 293. https://man.netbsd.org/rnd.4
+ 294. file:///wiki/NetBSD
+ 295. file:///wiki/Man_page
+ 296. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-33
+ 297. http://h30097.www3.hp.com/docs/base_doc/DOCUMENTATION/V51B_HTML/MAN/MAN4/0199____.HTM
+ 298. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-34
+ 299. https://web.archive.org/web/20210303075907/http://publib.boulder.ibm.com/infocenter/pseries/v5r3/index.jsp?topic=/com.ibm.aix.files/doc/aixfiles/random.htm
+ 300. http://publib.boulder.ibm.com/infocenter/pseries/v5r3/index.jsp?topic=/com.ibm.aix.files/doc/aixfiles/random.htm
+ 301. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-35
+ 302. http://software.hp.com/portal/swdepot/displayProductInfo.do?productNumber=KRNG11I
+ 303. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-36
+ 304. http://lists.gnupg.org/pipermail/gnupg-devel/2003-April/019954.html
+ 305. https://web.archive.org/web/20120222144110/http://lists.gnupg.org/pipermail/gnupg-devel/2003-April/019954.html
+ 306. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-37
+ 307. https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-securerandom?view=powershell-7.4
+ 308. file:///tmp/lynxXXXX10XeJc/L55986-8072TMP.html#cite_ref-38
+ 309. https://www.linuxquestions.org/questions/general-10/how-does-cygwin's-dev-random-and-urandom-work-903054/#post4493834
+ 310. file:///w/index.php?title=/dev/random&action=edit&section=10
+ 311. https://github.com/thomasbiege/papers/raw/master/random-device-analysis.pdf
+ 312. file:///wiki/GitHub
+ 313. http://www.2uo.de/myths-about-urandom/
+ 314. https://en.wikipedia.org/w/index.php?title=/dev/random&oldid=1237071131
+ 315. file:///wiki/Help:Category
+ 316. file:///wiki/Category:Unix_file_system_technology
+ 317. file:///wiki/Category:Device_file
+ 318. file:///wiki/Category:Random_number_generation
+ 319. file:///wiki/Category:Articles_with_short_description
+ 320. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 321. file:///wiki/Category:Wikipedia_articles_needing_clarification_from_February_2017
+ 322. file:///wiki/Category:All_accuracy_disputes
+ 323. file:///wiki/Category:Articles_with_disputed_statements_from_December_2020
+ 324. file:///wiki/Category:All_pages_needing_factual_verification
+ 325. file:///wiki/Category:Wikipedia_articles_needing_factual_verification_from_June_2024
+ 326. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 327. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 328. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 329. https://wikimediafoundation.org/
+ 330. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 331. file:///wiki/Wikipedia:About
+ 332. file:///wiki/Wikipedia:General_disclaimer
+ 333. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 334. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 335. https://developer.wikimedia.org/
+ 336. https://stats.wikimedia.org/#/en.wikipedia.org
+ 337. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 338. file://en.m.wikipedia.org/w/index.php?title=/dev/random&mobileaction=toggle_view_mobile
+ 339. https://wikimediafoundation.org/
+ 340. https://www.mediawiki.org/

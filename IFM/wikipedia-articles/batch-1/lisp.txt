@@ -1,0 +1,883 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 History
+       (BUTTON) Toggle History subsection
+          + [30]1.1 Prelude
+          + [31]1.2 Development
+     * [32]2 Implementation
+     * [33]3 References
+
+   [ ] Toggle the table of contents
+
+*Lisp
+
+   [ ] Add languages
+
+   [34]Add links
+
+     * [35]Article
+     * [36]Talk
+
+   [ ] English
+
+     * [37]Read
+     * [38]Edit
+     * [39]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [40]Read
+     * [41]Edit
+     * [42]View history
+
+   General
+     * [43]What links here
+     * [44]Related changes
+     * [45]Upload file
+     * [46]Special pages
+     * [47]Permanent link
+     * [48]Page information
+     * [49]Cite this page
+     * [50]Get shortened URL
+     * [51]Download QR code
+
+   Print/export
+     * [52]Download as PDF
+     * [53]Printable version
+
+   In other projects
+     * [54]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Programming language
+   This article needs additional citations for [55]verification. Please
+   help [56]improve this article by [57]adding citations to reliable
+   sources. Unsourced material may be challenged and removed.
+   Find sources: [58]"*Lisp" – [59]news · [60]newspapers · [61]books ·
+   [62]scholar · [63]JSTOR (February 2008) ([64]Learn how and when to
+   remove this message)
+
+   CAPTION: *Lisp (StarLisp)
+
+   [65]Paradigms [66]Multi-paradigm: [67]functional, [68]procedural,
+   [69]reflective, [70]meta, [71]parallel
+   Family [72]Lisp
+   [73]Designed by Cliff Lasser, [74]Steve Omohundro
+   [75]Developer [76]Thinking Machines Corporation
+   First appeared 1986; 39 years ago (1986)
+   [77]Typing discipline [78]Dynamic, [79]strong
+   [80]Scope [81]Static, lexical
+   Implementation language [82]Common Lisp
+   [83]Platform [84]Connection Machine
+   [85]OS Connection Machine
+   Influenced by
+   [86]Lisp, [87]Common Lisp
+   Influenced
+   [88]C*
+
+   *Lisp (or StarLisp) is a [89]programming language, a [90]dialect of the
+   language [91]Lisp.^[92][1] It was conceived of in 1985 by two employees
+   of the [93]Thinking Machines Corporation, Cliff Lasser and [94]Steve
+   Omohundro, as a way to provide an efficient yet high-level language for
+   programming the nascent [95]Connection Machine (CM).
+
+History
+
+   [[96]edit]
+
+Prelude
+
+   [[97]edit]
+
+   At the time the Connection Machine was being designed and built, the
+   only language being actively developed for it was an [98]assembly-level
+   language named PARIS (Parallel Instruction Set). It became evident that
+   a better way to program the machine was needed, and quickly. Waiting
+   for the completion of Connection Machine Lisp (CM Lisp), an
+   implementation of the [99]very high-level programming language
+   [100]Lisp with [101]parallel computing extensions) was not an option.
+   CM Lisp had been proposed by [102]Danny Hillis, and development was
+   expected to continue for several more years.
+
+Development
+
+   [[103]edit]
+
+   A *Lisp [104]interpreter was initially developed. It became apparent
+   quickly that a *Lisp [105]compiler, translating *Lisp into [106]Lisp
+   and PARIS, would be needed to attain the giga[107]FLOPS speed that was
+   attainable in theory by a Connection Machine. The *Lisp compiler was
+   written by Jeff Mincy and was first released in 1986. An application
+   achieving more than two gigaFLOPS, a helicopter wake simulator, was
+   developed by Alan Egolf, then an employee of [108]United Technologies,
+   and J. P. Massar, a Thinking Machines employee, in 1987.^[109][2]
+
+   A *Lisp Simulator, an [110]emulator meant to run *Lisp code on
+   standard, non-parallel machines, was developed at the same time by J.
+   P. Massar. This simulator still exists,^[111][3] and was ported to
+   [112]American National Standards Institute (ANSI) [113]Common Lisp (CL)
+   in 2001. An older version written in the original CL, exists in the
+   [114]Carnegie Mellon University (CMU) [115]artificial intelligence (AI)
+   repository.^[116][4]
+
+   Later versions of *Lisp, involving significant upgrades to its
+   functions and performance, were worked on by Cliff Lasser, Jeff Mincy,
+   and J. P. Massar through 1989. *Lisp was implemented on the Thinking
+   Machines CM5 circa 1990–1991 by J. P. Massar and Mario Bourgoin.
+
+   CAPTION:
+
+   Timeline of Lisp dialects
+     * [117]v
+     * [118]t
+     * [119]e
+
+   1958 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+    LISP 1, 1.5, [120]LISP 2^(abandoned)
+    [121]Maclisp
+    [122]Interlisp
+    [123]MDL
+    [124]Lisp Machine Lisp
+    [125]Scheme  R5RS  R6RS  R7RS small
+    [126]NIL
+    [127]ZIL (Zork Implementation Language)
+    [128]Franz Lisp
+    [129]Common Lisp  ANSI standard
+    [130]Le Lisp
+    [131]MIT Scheme
+    [132]XLISP
+    [133]T
+    [134]Chez Scheme
+    [135]Emacs Lisp
+    [136]AutoLISP
+    [137]PicoLisp
+    [138]Gambit
+    [139]EuLisp
+    [140]ISLISP
+    [141]OpenLisp
+    [142]PLT Scheme  [143]Racket
+    [144]newLISP
+    [145]GNU Guile
+    [146]Visual LISP
+    [147]Clojure
+    [148]Arc
+    [149]LFE
+    [150]Hy
+
+Implementation
+
+   [[151]edit]
+
+   StarLisp was written on [152]Common Lisp (CL), and thus had the full
+   power of CL behind it. To use a Connection Machine, one needed a host
+   or front-end. To use *Lisp, that front-end had to run CL.
+   [153]Symbolics' machines using [154]Genera and [155]Sun Microsystems
+   workstations running [156]Lucid Inc.'s Lucid Common Lisp were both used
+   to operate *Lisp.
+
+   StarLisp operated on Parallel Variables (PVARS). These represented
+   Connection Machine memory, and were essentially [157]vectors: one
+   element per CM processor (or virtual processor).
+
+   StarLisp consisted of standard operations on PVARS, like vector
+   addition and multiplication, along with communication primitives that
+   essentially reordered the elements of a PVAR using the CM's
+   communication hardware to optimally route the data.
+
+References
+
+   [[158]edit]
+    1. [159]^ McJones, Paul (2015-04-19). [160]"Parallel Lisps: Connection
+       Machine *Lisp (StarLisp)". Computer History Museum. Retrieved
+       2018-12-29.
+    2. [161]^ Helicopter Free Wake Implementation On Advanced Computer
+       Architectures, International Conference on Basic Rotorcraft
+       Research, 1988.
+    3. [162]^ [163]"Franz Inc". Franz Inc. Archived from [164]the original
+       on 2005-03-06. Retrieved 2005-06-26.
+    4. [165]^ Massar, J. P. (13 February 1995). [166]"STARSIM: Thinking
+       Machines' *Lisp Simulator". Carnegie Mellon University (CMU)
+       Artificial Intelligence Repository. Retrieved 2018-12-29.
+
+     * [167]v
+     * [168]t
+     * [169]e
+
+   [170]Lisp programming
+   Features
+     * [171]Automatic storage management
+     * [172]Conditionals
+     * [173]Dynamic typing
+     * [174]Higher-order functions
+     * [175]Linked lists
+     * [176]Macros
+     * [177]M-expressions (deprecated)
+     * [178]Read–eval–print loop
+     * [179]Recursion
+     * [180]S-expressions
+     * [181]Self-hosting [182]compiler
+     * [183]Tree data structures
+
+   [184]Object systems
+     * [185]Common Lisp Object System (CLOS)
+     * [186]CommonLoops
+     * [187]Flavors
+
+   [188]Implementations
+   [189]Standardized
+   [190]Common
+   Lisp
+     * [191]Allegro Common Lisp
+     * [192]Armed Bear Common Lisp (ABCL)
+     * [193]CLISP
+     * [194]Clozure CL
+     * [195]CMU Common Lisp (CMUCL)
+     * [196]Corman Common Lisp
+     * [197]Embeddable Common Lisp (ECL)
+     * [198]GNU Common Lisp (GCL)
+     * [199]LispWorks
+     * [200]Macintosh Common Lisp
+     * [201]Mocl
+     * Movitz
+     * [202]Poplog
+     * [203]Steel Bank Common Lisp (SBCL)
+     * [204]Symbolics Common Lisp
+
+   [205]Scheme
+     * [206]History
+     * [207]Bigloo
+     * [208]Chez Scheme
+     * [209]Chicken
+     * [210]Gambit
+     * [211]Game Oriented Assembly Lisp (GOAL)
+     * [212]GNU Guile
+     * [213]Ikarus
+     * [214]JScheme
+     * [215]Kawa
+     * [216]MIT/GNU Scheme
+     * [217]MultiLisp
+     * [218]Pico
+     * Pocket Scheme
+     * [219]Racket ([220]features)
+     * [221]Scheme 48
+     * [222]SCM
+     * [223]SIOD
+     * [224]T
+     * [225]TinyScheme
+
+        [226]ISLISP
+     * [227]OpenLisp
+
+   Unstandardized
+   [228]Logo
+     * [229]MSWLogo
+     * [230]NetLogo
+     * [231]StarLogo
+     * [232]UCBLogo
+
+   [233]POP
+     * [234]COWSEL (POP-1)
+     * [235]POP-2
+     * [236]POP-11
+
+     * [237]Arc
+     * [238]AutoLISP
+     * [239]BBN LISP
+     * [240]Clojure
+     * [241]Dylan ([242]Apple, [243]history)
+     * [244]Emacs Lisp
+     * [245]EuLisp
+     * [246]Franz Lisp, [247]PC-LISP
+     * [248]Hy
+     * [249]Interlisp
+     * [250]Knowledge Engineering Environment
+     * *Lisp
+     * [251]LeLisp
+     * [252]LFE
+     * [253]Lisp Machine Lisp
+     * [254]Lispkit Lisp
+     * [255]Maclisp
+     * [256]MDL
+     * [257]MLisp
+     * [258]newLISP
+     * [259]NIL
+     * [260]PC-LISP
+     * [261]Picolisp
+     * [262]Portable Standard Lisp
+     * [263]RPL
+     * [264]S-1 Lisp
+     * [265]SKILL
+     * [266]Spice Lisp
+     * [267]Zetalisp
+
+   [268]Operating system
+
+     [269]List
+
+     [270]Common Lisp Interface Manager, [271]McCLIM
+
+     [272]Genera
+
+     [273]Scsh
+
+   [274]Hardware
+
+     * [275]Lisp machine
+          + [276]TI Explorer
+     * [277]Space-cadet keyboard
+
+   [278]Community
+   of practice
+
+   Technical standards
+     * [279]Scheme Requests for Implementation
+     * [280]Common Lisp HyperSpec
+     * [281]X3J13
+
+   Education
+   Books
+     * [282]Common Lisp the Language
+     * [283]How to Design Programs (HTDP)
+     * [284]On Lisp
+     * [285]Practical Common Lisp
+     * [286]Structure and Interpretation of Computer Programs (SICP)
+
+   Curriculum
+     * [287]ProgramByDesign
+
+   Organizations
+   Business
+     * [288]Apple Computer
+     * [289]Bolt, Beranek and Newman
+     * [290]Harlequin
+     * [291]Lucid Inc.
+     * [292]Symbolics
+     * [293]Xanalys
+
+   Education
+     * [294]Massachusetts Institute of Technology (MIT)
+     * [295]MIT Computer Science and Artificial Intelligence Laboratory
+       (CSAIL)
+     * [296]Stanford Artificial Intelligence Laboratory
+     * [297]University of California, Berkeley
+
+   People
+     * [298]Edmund Berkeley
+     * [299]Daniel G. Bobrow
+     * [300]William Clinger
+     * [301]R. Kent Dybvig
+     * [302]Matthias Felleisen
+     * [303]Robert Bruce Findler
+     * [304]Matthew Flatt
+     * [305]Phyllis Fox
+     * [306]Paul Graham
+     * [307]Richard Greenblatt
+     * Timothy P. Hart
+     * [308]Louis Hodes
+     * Mike Levin
+     * [309]David Luckham
+     * [310]John McCarthy
+     * [311]Robert Tappan Morris
+     * [312]Joel Moses
+     * [313]David Park
+     * [314]Steve Russell
+     * [315]Richard Stallman
+
+   [316]Common Lisp
+     * [317]Scott Fahlman
+     * [318]Richard P. Gabriel
+     * [319]Philip Greenspun ([320]10th rule)
+     * [321]David A. Moon
+     * [322]Kent Pitman
+     * [323]Guy L. Steele Jr.
+     * [324]Daniel Weinreb
+
+   [325]Scheme
+     * [326]Matthias Felleisen
+     * [327]Shriram Krishnamurthi
+     * [328]Guy L. Steele Jr.
+     * [329]Gerald Jay Sussman
+     * [330]Julie Sussman
+
+   [331]Logo
+     * [332]Hal Abelson
+     * [333]Denison Bollay
+     * [334]Wally Feurzeig
+     * [335]Brian Harvey
+     * [336]Seymour Papert
+     * [337]Mitchel Resnick
+     * [338]Cynthia Solomon
+
+       [339]POP
+     * [340]Rod Burstall
+     * [341]Robin Popplestone
+
+   [342]List [343]Books [344]Commons [345]Category [346]Category
+
+   Retrieved from
+   "[347]https://en.wikipedia.org/w/index.php?title=*Lisp&oldid=1190476138
+   "
+
+   [348]Categories:
+     * [349]Concurrent programming languages
+     * [350]Dynamically typed programming languages
+     * [351]Functional languages
+     * [352]Lisp programming language family
+     * [353]Common Lisp (programming language) software
+     * [354]Multi-paradigm programming languages
+
+   Hidden categories:
+     * [355]Articles with short description
+     * [356]Short description matches Wikidata
+     * [357]Articles needing additional references from February 2008
+     * [358]All articles needing additional references
+
+     * This page was last edited on 18 December 2023, at 03:08 (UTC).
+     * Text is available under the [359]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [360]Terms of Use and
+       [361]Privacy Policy. Wikipedia® is a registered trademark of the
+       [362]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [363]Privacy policy
+     * [364]About Wikipedia
+     * [365]Disclaimers
+     * [366]Contact Wikipedia
+     * [367]Code of Conduct
+     * [368]Developers
+     * [369]Statistics
+     * [370]Cookie statement
+     * [371]Mobile view
+
+     * [372]Wikimedia Foundation
+     * [373]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/*Lisp
+   2. file:///w/index.php?title=*Lisp&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=*Lisp
+  21. file:///w/index.php?title=Special:UserLogin&returnto=*Lisp
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=*Lisp
+  24. file:///w/index.php?title=Special:UserLogin&returnto=*Lisp
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html
+  29. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#History
+  30. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#Prelude
+  31. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#Development
+  32. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#Implementation
+  33. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#References
+  34. https://www.wikidata.org/wiki/Special:EntityPage/Q4544975#sitelinks-wikipedia
+  35. file:///wiki/*Lisp
+  36. file:///wiki/Talk:*Lisp
+  37. file:///wiki/*Lisp
+  38. file:///w/index.php?title=*Lisp&action=edit
+  39. file:///w/index.php?title=*Lisp&action=history
+  40. file:///wiki/*Lisp
+  41. file:///w/index.php?title=*Lisp&action=edit
+  42. file:///w/index.php?title=*Lisp&action=history
+  43. file:///wiki/Special:WhatLinksHere/*Lisp
+  44. file:///wiki/Special:RecentChangesLinked/*Lisp
+  45. file:///wiki/Wikipedia:File_Upload_Wizard
+  46. file:///wiki/Special:SpecialPages
+  47. file:///w/index.php?title=*Lisp&oldid=1190476138
+  48. file:///w/index.php?title=*Lisp&action=info
+  49. file:///w/index.php?title=Special:CiteThisPage&page=*Lisp&id=1190476138&wpFormIdentifier=titleform
+  50. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/*Lisp
+  51. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/*Lisp
+  52. file:///w/index.php?title=Special:DownloadAsPdf&page=*Lisp&action=show-download-screen
+  53. file:///w/index.php?title=*Lisp&printable=yes
+  54. https://www.wikidata.org/wiki/Special:EntityPage/Q4544975
+  55. file:///wiki/Wikipedia:Verifiability
+  56. file:///wiki/Special:EditPage/*Lisp
+  57. file:///wiki/Help:Referencing_for_beginners
+  58. https://www.google.com/search?as_eq=wikipedia&q="*Lisp"
+  59. https://www.google.com/search?tbm=nws&q="*Lisp"+-wikipedia&tbs=ar:1
+  60. https://www.google.com/search?&q="*Lisp"&tbs=bkt:s&tbm=bks
+  61. https://www.google.com/search?tbs=bks:1&q="*Lisp"+-wikipedia
+  62. https://scholar.google.com/scholar?q="*Lisp"
+  63. https://www.jstor.org/action/doBasicSearch?Query="*Lisp"&acc=on&wc=on
+  64. file:///wiki/Help:Maintenance_template_removal
+  65. file:///wiki/Programming_paradigm
+  66. file:///wiki/Multi-paradigm_programming_language
+  67. file:///wiki/Functional_programming
+  68. file:///wiki/Procedural_programming
+  69. file:///wiki/Reflection_(computer_programming)
+  70. file:///wiki/Metaprogramming
+  71. file:///wiki/Parallel_computing
+  72. file:///wiki/Lisp_(programming_language)
+  73. file:///wiki/Software_design
+  74. file:///wiki/Steve_Omohundro
+  75. file:///wiki/Software_developer
+  76. file:///wiki/Thinking_Machines_Corporation
+  77. file:///wiki/Type_system
+  78. file:///wiki/Dynamic_typing
+  79. file:///wiki/Strong_and_weak_typing
+  80. file:///wiki/Scope_(computer_science)
+  81. file:///wiki/Scope_(programming)
+  82. file:///wiki/Common_Lisp
+  83. file:///wiki/Computing_platform
+  84. file:///wiki/Connection_Machine
+  85. file:///wiki/Operating_system
+  86. file:///wiki/Lisp_(programming_language)
+  87. file:///wiki/Common_Lisp
+  88. file:///wiki/C*
+  89. file:///wiki/Programming_language
+  90. file:///wiki/Dialect_(computing)
+  91. file:///wiki/Lisp_(programming_language)
+  92. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#cite_note-1
+  93. file:///wiki/Thinking_Machines_Corporation
+  94. file:///wiki/Steve_Omohundro
+  95. file:///wiki/Connection_Machine
+  96. file:///w/index.php?title=*Lisp&action=edit&section=1
+  97. file:///w/index.php?title=*Lisp&action=edit&section=2
+  98. file:///wiki/Assembly_language
+  99. file:///wiki/Very_high-level_programming_language
+ 100. file:///wiki/Lisp_(programming_language)
+ 101. file:///wiki/Parallel_computing
+ 102. file:///wiki/Danny_Hillis
+ 103. file:///w/index.php?title=*Lisp&action=edit&section=3
+ 104. file:///wiki/Interpreter_(computing)
+ 105. file:///wiki/Compiler
+ 106. file:///wiki/Lisp_(programming_language)
+ 107. file:///wiki/FLOPS
+ 108. file:///wiki/United_Technologies_Corporation
+ 109. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#cite_note-2
+ 110. file:///wiki/Emulator
+ 111. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#cite_note-3
+ 112. file:///wiki/American_National_Standards_Institute
+ 113. file:///wiki/Common_Lisp
+ 114. file:///wiki/Carnegie_Mellon_University
+ 115. file:///wiki/Artificial_intelligence
+ 116. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#cite_note-4
+ 117. file:///wiki/Template:Lisp
+ 118. file:///wiki/Template_talk:Lisp
+ 119. file:///wiki/Special:EditPage/Template:Lisp
+ 120. file:///wiki/LISP_2
+ 121. file:///wiki/Maclisp
+ 122. file:///wiki/Interlisp
+ 123. file:///wiki/MDL_(programming_language)
+ 124. file:///wiki/Lisp_Machine_Lisp
+ 125. file:///wiki/Scheme_(programming_language)
+ 126. file:///wiki/NIL_(programming_language)
+ 127. file:///wiki/Z-machine#ZIL_(Zork_Implementation_Language)
+ 128. file:///wiki/Franz_Lisp
+ 129. file:///wiki/Common_Lisp
+ 130. file:///wiki/Le_Lisp
+ 131. file:///wiki/MIT_Scheme
+ 132. file:///wiki/XLISP
+ 133. file:///wiki/T_(programming_language)
+ 134. file:///wiki/Chez_Scheme
+ 135. file:///wiki/Emacs_Lisp
+ 136. file:///wiki/AutoLISP
+ 137. file:///wiki/PicoLisp
+ 138. file:///wiki/Gambit_(Scheme_implementation)
+ 139. file:///wiki/EuLisp
+ 140. file:///wiki/ISLISP
+ 141. file:///wiki/OpenLisp
+ 142. file:///wiki/PLT_Scheme
+ 143. file:///wiki/Racket_(programming_language)
+ 144. file:///wiki/NewLISP
+ 145. file:///wiki/GNU_Guile
+ 146. file:///wiki/AutoLISP
+ 147. file:///wiki/Clojure
+ 148. file:///wiki/Arc_(programming_language)
+ 149. file:///wiki/LFE_(programming_language)
+ 150. file:///wiki/Hy_(programming_language)
+ 151. file:///w/index.php?title=*Lisp&action=edit&section=4
+ 152. file:///wiki/Common_Lisp
+ 153. file:///wiki/Symbolics
+ 154. file:///wiki/Genera_(operating_system)
+ 155. file:///wiki/Sun_Microsystems
+ 156. file:///wiki/Lucid_Inc.
+ 157. file:///wiki/Dynamic_array
+ 158. file:///w/index.php?title=*Lisp&action=edit&section=5
+ 159. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#cite_ref-1
+ 160. http://www.softwarepreservation.org/projects/LISP/parallel#Connection_Machine_*Lisp_(StarLisp)
+ 161. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#cite_ref-2
+ 162. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#cite_ref-3
+ 163. https://web.archive.org/web/20050306174631/http://examples.franz.com/
+ 164. http://examples.franz.com/
+ 165. file:///tmp/lynxXXXXymNx3T/L50976-350TMP.html#cite_ref-4
+ 166. http://www-2.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/impl/starlisp/0.html
+ 167. file:///wiki/Template:Lisp_programming_language
+ 168. file:///wiki/Template_talk:Lisp_programming_language
+ 169. file:///wiki/Special:EditPage/Template:Lisp_programming_language
+ 170. file:///wiki/Lisp_(programming_language)
+ 171. file:///wiki/Garbage_collection_(computer_science)
+ 172. file:///wiki/Conditional_(computer_programming)
+ 173. file:///wiki/Dynamic_typing
+ 174. file:///wiki/Higher-order_function
+ 175. file:///wiki/Linked_list
+ 176. file:///wiki/Macro_(computer_science)
+ 177. file:///wiki/M-expression
+ 178. file:///wiki/Read–eval–print_loop
+ 179. file:///wiki/Recursion_(computer_science)
+ 180. file:///wiki/S-expression
+ 181. file:///wiki/Self-hosting_(compilers)
+ 182. file:///wiki/Compiler
+ 183. file:///wiki/Tree_data_structure
+ 184. file:///wiki/Object-oriented_programming
+ 185. file:///wiki/Common_Lisp_Object_System
+ 186. file:///wiki/CommonLoops
+ 187. file:///wiki/Flavors_(programming_language)
+ 188. file:///wiki/Programming_language_implementation
+ 189. file:///wiki/Technical_standard
+ 190. file:///wiki/Common_Lisp
+ 191. file:///wiki/Allegro_Common_Lisp
+ 192. file:///wiki/Armed_Bear_Common_Lisp
+ 193. file:///wiki/CLISP
+ 194. file:///wiki/Clozure_CL
+ 195. file:///wiki/CMU_Common_Lisp
+ 196. file:///wiki/Corman_Common_Lisp
+ 197. file:///wiki/Embeddable_Common_Lisp
+ 198. file:///wiki/GNU_Common_Lisp
+ 199. file:///wiki/LispWorks
+ 200. file:///wiki/Macintosh_Common_Lisp
+ 201. file:///wiki/Mocl
+ 202. file:///wiki/Poplog
+ 203. file:///wiki/Steel_Bank_Common_Lisp
+ 204. file:///wiki/Genera_(operating_system)
+ 205. file:///wiki/Scheme_(programming_language)
+ 206. file:///wiki/History_of_the_Scheme_programming_language
+ 207. file:///wiki/Bigloo
+ 208. file:///wiki/Chez_Scheme
+ 209. file:///wiki/Chicken_(Scheme_implementation)
+ 210. file:///wiki/Gambit_(scheme_implementation)
+ 211. file:///wiki/Game_Oriented_Assembly_Lisp
+ 212. file:///wiki/GNU_Guile
+ 213. file:///wiki/Ikarus_(Scheme_implementation)
+ 214. file:///wiki/JScheme
+ 215. file:///wiki/Kawa_(Scheme_implementation)
+ 216. file:///wiki/MIT/GNU_Scheme
+ 217. file:///wiki/MultiLisp
+ 218. file:///wiki/Pico_(programming_language)
+ 219. file:///wiki/Racket_(programming_language)
+ 220. file:///wiki/Racket_features
+ 221. file:///wiki/Scheme_48
+ 222. file:///wiki/SCM_(Scheme_implementation)
+ 223. file:///wiki/SIOD
+ 224. file:///wiki/T_(programming_language)
+ 225. file:///wiki/TinyScheme
+ 226. file:///wiki/ISLISP
+ 227. file:///wiki/OpenLisp
+ 228. file:///wiki/Logo_(programming_language)
+ 229. file:///wiki/MSWLogo
+ 230. file:///wiki/NetLogo
+ 231. file:///wiki/StarLogo
+ 232. file:///wiki/UCBLogo
+ 233. file:///wiki/POP-11
+ 234. file:///wiki/COWSEL
+ 235. file:///wiki/POP-2
+ 236. file:///wiki/POP-11
+ 237. file:///wiki/Arc_(programming_language)
+ 238. file:///wiki/AutoLISP
+ 239. file:///wiki/BBN_LISP
+ 240. file:///wiki/Clojure
+ 241. file:///wiki/Dylan_(programming_language)
+ 242. file:///wiki/Apple_Dylan
+ 243. file:///wiki/History_of_the_Dylan_programming_language
+ 244. file:///wiki/Emacs_Lisp
+ 245. file:///wiki/EuLisp
+ 246. file:///wiki/Franz_Lisp
+ 247. file:///wiki/PC-LISP
+ 248. file:///wiki/Hy_(programming_language)
+ 249. file:///wiki/Interlisp
+ 250. file:///wiki/Knowledge_Engineering_Environment
+ 251. file:///wiki/LeLisp
+ 252. file:///wiki/LFE_(programming_language)
+ 253. file:///wiki/Lisp_Machine_Lisp
+ 254. file:///wiki/Lispkit_Lisp
+ 255. file:///wiki/Maclisp
+ 256. file:///wiki/MDL_(programming_language)
+ 257. file:///wiki/MLisp
+ 258. file:///wiki/NewLISP
+ 259. file:///wiki/NIL_(programming_language)
+ 260. file:///wiki/PC-LISP
+ 261. file:///wiki/Picolisp
+ 262. file:///wiki/Portable_Standard_Lisp
+ 263. file:///wiki/RPL_(programming_language)
+ 264. file:///wiki/S-1_Lisp
+ 265. file:///wiki/Cadence_SKILL
+ 266. file:///wiki/Spice_Lisp
+ 267. file:///wiki/Zetalisp
+ 268. file:///wiki/Operating_system
+ 269. file:///wiki/Lisp_(programming_language)#Operating_systems
+ 270. file:///wiki/Common_Lisp_Interface_Manager
+ 271. file:///wiki/McCLIM
+ 272. file:///wiki/Genera_(operating_system)
+ 273. file:///wiki/Scsh
+ 274. file:///wiki/Computer_hardware
+ 275. file:///wiki/Lisp_machine
+ 276. file:///wiki/TI_Explorer
+ 277. file:///wiki/Space-cadet_keyboard
+ 278. file:///wiki/Community_of_practice
+ 279. file:///wiki/Scheme_Requests_for_Implementation
+ 280. file:///wiki/Common_Lisp_HyperSpec
+ 281. file:///wiki/X3J13
+ 282. file:///wiki/Common_Lisp_the_Language
+ 283. file:///wiki/How_to_Design_Programs
+ 284. file:///wiki/On_Lisp
+ 285. file:///wiki/Practical_Common_Lisp
+ 286. file:///wiki/Structure_and_Interpretation_of_Computer_Programs
+ 287. file:///wiki/ProgramByDesign
+ 288. file:///wiki/Apple_Inc.
+ 289. file:///wiki/BBN_Technologies
+ 290. file:///wiki/Harlequin_(software_company)
+ 291. file:///wiki/Lucid_Inc.
+ 292. file:///wiki/Symbolics
+ 293. file:///wiki/Xanalys
+ 294. file:///wiki/Massachusetts_Institute_of_Technology
+ 295. file:///wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory
+ 296. file:///wiki/Stanford_University_centers_and_institutes#Stanford_Artificial_Intelligence_Laboratory
+ 297. file:///wiki/University_of_California,_Berkeley
+ 298. file:///wiki/Edmund_Berkeley
+ 299. file:///wiki/Daniel_G._Bobrow
+ 300. file:///wiki/William_Clinger_(computer_scientist)
+ 301. file:///wiki/R._Kent_Dybvig
+ 302. file:///wiki/Matthias_Felleisen
+ 303. file:///wiki/Robert_Bruce_Findler
+ 304. file:///wiki/Matthew_Flatt
+ 305. file:///wiki/Phyllis_Fox
+ 306. file:///wiki/Paul_Graham_(programmer)
+ 307. file:///wiki/Richard_Greenblatt_(programmer)
+ 308. file:///wiki/Louis_Hodes
+ 309. file:///wiki/David_Luckham
+ 310. file:///wiki/John_McCarthy_(computer_scientist)
+ 311. file:///wiki/Robert_Tappan_Morris
+ 312. file:///wiki/Joel_Moses
+ 313. file:///wiki/David_Park_(computer_scientist)
+ 314. file:///wiki/Steve_Russell_(computer_scientist)
+ 315. file:///wiki/Richard_Stallman
+ 316. file:///wiki/Common_Lisp
+ 317. file:///wiki/Scott_Fahlman
+ 318. file:///wiki/Richard_P._Gabriel
+ 319. file:///wiki/Philip_Greenspun
+ 320. file:///wiki/Greenspun's_tenth_rule
+ 321. file:///wiki/David_A._Moon
+ 322. file:///wiki/Kent_Pitman
+ 323. file:///wiki/Guy_L._Steele_Jr.
+ 324. file:///wiki/Daniel_Weinreb
+ 325. file:///wiki/Scheme_(programming_language)
+ 326. file:///wiki/Matthias_Felleisen
+ 327. file:///wiki/Shriram_Krishnamurthi
+ 328. file:///wiki/Guy_L._Steele_Jr.
+ 329. file:///wiki/Gerald_Jay_Sussman
+ 330. file:///wiki/Julie_Sussman
+ 331. file:///wiki/Logo_(programming_language)
+ 332. file:///wiki/Hal_Abelson
+ 333. file:///wiki/Denison_Bollay
+ 334. file:///wiki/Wally_Feurzeig
+ 335. file:///wiki/Brian_Harvey_(lecturer)
+ 336. file:///wiki/Seymour_Papert
+ 337. file:///wiki/Mitchel_Resnick
+ 338. file:///wiki/Cynthia_Solomon
+ 339. file:///wiki/POP-11
+ 340. file:///wiki/Rod_Burstall
+ 341. file:///wiki/Robin_Popplestone
+ 342. file:///wiki/List_of_Lisp-family_programming_languages
+ 343. https://en.wikibooks.org/wiki/Subject:Lisp_programming_language
+ 344. https://commons.wikimedia.org/wiki/Category:Lisp_(programming_language)
+ 345. file:///wiki/Category:Lisp_(programming_language)
+ 346. file:///wiki/Category:Lisp_programming_language_family
+ 347. https://en.wikipedia.org/w/index.php?title=*Lisp&oldid=1190476138
+ 348. file:///wiki/Help:Category
+ 349. file:///wiki/Category:Concurrent_programming_languages
+ 350. file:///wiki/Category:Dynamically_typed_programming_languages
+ 351. file:///wiki/Category:Functional_languages
+ 352. file:///wiki/Category:Lisp_programming_language_family
+ 353. file:///wiki/Category:Common_Lisp_(programming_language)_software
+ 354. file:///wiki/Category:Multi-paradigm_programming_languages
+ 355. file:///wiki/Category:Articles_with_short_description
+ 356. file:///wiki/Category:Short_description_matches_Wikidata
+ 357. file:///wiki/Category:Articles_needing_additional_references_from_February_2008
+ 358. file:///wiki/Category:All_articles_needing_additional_references
+ 359. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 360. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 361. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 362. https://wikimediafoundation.org/
+ 363. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 364. file:///wiki/Wikipedia:About
+ 365. file:///wiki/Wikipedia:General_disclaimer
+ 366. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 367. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 368. https://developer.wikimedia.org/
+ 369. https://stats.wikimedia.org/#/en.wikipedia.org
+ 370. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 371. file://en.m.wikipedia.org/w/index.php?title=*Lisp&mobileaction=toggle_view_mobile
+ 372. https://wikimediafoundation.org/
+ 373. https://www.mediawiki.org/
+
+   Hidden links:
+ 375. file://localhost/wiki/File:Question_book-new.svg
+ 376. file://localhost/wiki/File:Symbol_book_class2.svg

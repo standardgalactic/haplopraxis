@@ -1,0 +1,3115 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 History
+     * [30]2 Uses
+     * [31]3 Standard form
+       (BUTTON) Toggle Standard form subsection
+          + [32]3.1 Example
+     * [33]4 Augmented form (slack form)
+       (BUTTON) Toggle Augmented form (slack form) subsection
+          + [34]4.1 Example
+     * [35]5 Duality
+     * [36]6 Variations
+       (BUTTON) Toggle Variations subsection
+          + [37]6.1 Covering/packing dualities
+               o [38]6.1.1 Examples
+     * [39]7 Complementary slackness
+     * [40]8 Theory
+       (BUTTON) Toggle Theory subsection
+          + [41]8.1 Existence of optimal solutions
+          + [42]8.2 Optimal vertices (and rays) of polyhedra
+     * [43]9 Algorithms
+       (BUTTON) Toggle Algorithms subsection
+          + [44]9.1 Basis exchange algorithms
+               o [45]9.1.1 Simplex algorithm of Dantzig
+               o [46]9.1.2 Criss-cross algorithm
+          + [47]9.2 Interior point
+               o [48]9.2.1 Ellipsoid algorithm, following Khachiyan
+               o [49]9.2.2 Projective algorithm of Karmarkar
+               o [50]9.2.3 Vaidya's 87 algorithm
+               o [51]9.2.4 Vaidya's 89 algorithm
+               o [52]9.2.5 Input sparsity time algorithms
+               o [53]9.2.6 Current matrix multiplication time algorithm
+          + [54]9.3 Comparison of interior-point methods and simplex
+            algorithms
+     * [55]10 Open problems and recent work
+     * [56]11 Integer unknowns
+     * [57]12 Integral linear programs
+     * [58]13 Solvers and scripting (programming) languages
+     * [59]14 See also
+     * [60]15 Notes
+     * [61]16 References
+     * [62]17 Further reading
+     * [63]18 External links
+
+   [ ] Toggle the table of contents
+
+Linear programming
+
+   [ ] 50 languages
+     * [64]Afrikaans
+     * [65]العربية
+     * [66]Asturianu
+     * [67]Azərbaycanca
+     * [68]বাংলা
+     * [69]Беларуская
+     * [70]Bosanski
+     * [71]Català
+     * [72]Чӑвашла
+     * [73]Čeština
+     * [74]Deutsch
+     * [75]Eesti
+     * [76]Ελληνικά
+     * [77]Español
+     * [78]Euskara
+     * [79]فارسی
+     * [80]Français
+     * [81]Galego
+     * [82]한국어
+     * [83]Հայերեն
+     * [84]हिन्दी
+     * [85]Bahasa Indonesia
+     * [86]Italiano
+     * [87]עברית
+     * [88]Қазақша
+     * [89]Magyar
+     * [90]മലയാളം
+     * [91]Nederlands
+     * [92]日本語
+     * [93]Norsk bokmål
+     * [94]Norsk nynorsk
+     * [95]Polski
+     * [96]Português
+     * [97]Română
+     * [98]Русский
+     * [99]Shqip
+     * [100]Sicilianu
+     * [101]Simple English
+     * [102]Slovenščina
+     * [103]کوردی
+     * [104]Српски / srpski
+     * [105]Srpskohrvatski / српскохрватски
+     * [106]Svenska
+     * [107]ไทย
+     * [108]Türkçe
+     * [109]Українська
+     * [110]اردو
+     * [111]Tiếng Việt
+     * [112]粵語
+     * [113]中文
+
+   [114]Edit links
+
+     * [115]Article
+     * [116]Talk
+
+   [ ] English
+
+     * [117]Read
+     * [118]Edit
+     * [119]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [120]Read
+     * [121]Edit
+     * [122]View history
+
+   General
+     * [123]What links here
+     * [124]Related changes
+     * [125]Upload file
+     * [126]Special pages
+     * [127]Permanent link
+     * [128]Page information
+     * [129]Cite this page
+     * [130]Get shortened URL
+     * [131]Download QR code
+
+   Print/export
+     * [132]Download as PDF
+     * [133]Printable version
+
+   In other projects
+     * [134]Wikimedia Commons
+     * [135]Wikiquote
+     * [136]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [137]0-1 integer programming)
+   Method to solve optimization problems
+   For the retronym referring to television broadcasting, see
+   [138]Broadcast programming.
+   [139][220px-Linear_optimization_in_a_2-dimensional_polytope.svg.png] A
+   pictorial representation of a simple linear program with two variables
+   and six inequalities. The set of feasible solutions is depicted in
+   yellow and forms a [140]polygon, a 2-dimensional [141]polytope. The
+   optimum of the linear cost function is where the red line intersects
+   the polygon. The red line is a [142]level set of the cost function, and
+   the arrow indicates the direction in which we are
+   optimizing.[143][220px-3dpoly.svg.png] A closed feasible region of a
+   problem with three variables is a convex [144]polyhedron. The surfaces
+   giving a fixed value of the objective function are [145]planes (not
+   shown). The linear programming problem is to find a point on the
+   polyhedron that is on the plane with the highest possible value.
+
+   Linear programming (LP), also called linear optimization, is a method
+   to achieve the best outcome (such as maximum profit or lowest cost) in
+   a [146]mathematical model whose requirements and objective are
+   represented by [147]linear relationships. Linear programming is a
+   special case of mathematical programming (also known as
+   [148]mathematical optimization).
+
+   More formally, linear programming is a technique for the
+   [149]optimization of a [150]linear [151]objective function, subject to
+   [152]linear equality and [153]linear inequality [154]constraints. Its
+   [155]feasible region is a [156]convex polytope, which is a set defined
+   as the [157]intersection of finitely many [158]half spaces, each of
+   which is defined by a linear inequality. Its objective function is a
+   [159]real-valued [160]affine (linear) function defined on this
+   polytope. A linear programming [161]algorithm finds a point in the
+   [162]polytope where this function has the largest (or smallest) value
+   if such a point exists.
+
+   Linear programs are problems that can be expressed in [163]standard
+   form as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mtable columnalign="right left right
+          left right left right left right left right left"
+          rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em
+          0em 2em 0em" displaystyle="true"> <mtr> <mtd /> <mtd> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext>Find a vector</mtext> </mrow>
+          </mtd> <mtd /> <mtd> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">x</mi> </mrow> </mtd> </mtr> <mtr> <mtd />
+          <mtd> <mrow class="MJX-TeXAtom-ORD"> <mtext>that
+          maximizes</mtext> </mrow> </mtd> <mtd /> <mtd> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">c</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="sans-serif">T</mi> </mrow> </mrow> </msup>
+          <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi>
+          </mrow> </mtd> </mtr> <mtr> <mtd /> <mtd> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext>subject to</mtext> </mrow>
+          </mtd> <mtd /> <mtd> <mi>A</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">x</mi> </mrow> <mo>≤</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">b</mi> </mrow>
+          </mtd> </mtr> <mtr> <mtd /> <mtd> <mrow class="MJX-TeXAtom-ORD">
+          <mtext>and</mtext> </mrow> </mtd> <mtd /> <mtd> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi> </mrow>
+          <mo>≥</mo> <mrow class="MJX-TeXAtom-ORD"> <mn
+          mathvariant="bold">0</mn> </mrow> <mo>.</mo> </mtd> </mtr>
+          </mtable> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{aligned}&{\text{Find a vector}}&&\mathbf {x}
+          \\&{\text{that maximizes}}&&\mathbf {c} ^{\mathsf {T}}\mathbf
+          {x} \\&{\text{subject to}}&&A\mathbf {x} \leq \mathbf {b}
+          \\&{\text{and}}&&\mathbf {x} \geq \mathbf {0}
+          .\end{aligned}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\begin{aligned}&{\text{Find a vector}}&&\mathbf
+          {x} \\&{\text{that maximizes}}&&\mathbf {c} ^{\mathsf
+          {T}}\mathbf {x} \\&{\text{subject to}}&&A\mathbf {x} \leq
+          \mathbf {b} \\&{\text{and}}&&\mathbf {x} \geq \mathbf {0}
+          .\end{aligned}}}
+
+   Here the components of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">x</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {x} }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \mathbf {x} } are the variables to be determined,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">c</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {c} }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \mathbf {c} } and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">b</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {b} }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \mathbf {b} } are given [164]vectors, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} is a given [165]matrix. The function whose value is
+   to be maximized (
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">x</mi> </mrow> <mo stretchy="false">↦</mo> <msup>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">c</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="sans-serif">T</mi> </mrow> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {x} \mapsto \mathbf
+   {c} ^{\mathsf {T}}\mathbf {x} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {x} \mapsto \mathbf {c} ^{\mathsf {T}}\mathbf
+   {x} } in this case) is called the [166]objective function. The
+   constraints
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi> </mrow>
+   <mo>≤</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">b</mi>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle A\mathbf {x} \leq \mathbf
+   {b} }</annotation> </semantics> :MATH]
+   {\displaystyle A\mathbf {x} \leq \mathbf {b} } and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">x</mi> </mrow> <mo>≥</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mn mathvariant="bold">0</mn> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {x} \geq \mathbf
+   {0} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {x} \geq \mathbf {0} } specify a [167]convex
+   polytope over which the objective function is to be optimized.
+
+   Linear programming can be applied to various fields of study. It is
+   widely used in mathematics and, to a lesser extent, in business,
+   [168]economics, and some engineering problems. There is a close
+   connection between linear programs, eigenequations, [169]John von
+   Neumann's general equilibrium model, and structural equilibrium models
+   (see [170]dual linear program for details).^[171][1] ^[172][2]
+   ^[173][3] Industries that use linear programming models include
+   transportation, energy, telecommunications, and manufacturing. It has
+   proven useful in modeling diverse types of problems in [174]planning,
+   [175]routing, [176]scheduling, [177]assignment, and design.
+
+History
+
+   [[178]edit]
+   [179][220px-Leonid_Kantorovich_1975.jpg] [180]Leonid
+   Kantorovich[181][220px-JohnvonNeumann-LosAlamos.gif] [182]John von
+   Neumann
+
+   The problem of solving a system of linear inequalities dates back at
+   least as far as [183]Fourier, who in 1827 published a method for
+   solving them,^[184][4] and after whom the method of
+   [185]Fourier–Motzkin elimination is named.
+
+   In the late 1930s, Soviet mathematician [186]Leonid Kantorovich and
+   American economist [187]Wassily Leontief independently delved into the
+   practical applications of linear programming. Kantorovich focused on
+   manufacturing schedules, while Leontief explored economic applications.
+   Their groundbreaking work was largely overlooked for decades.
+
+   The turning point came during World War II when linear programming
+   emerged as a vital tool. It found extensive use in addressing complex
+   wartime challenges, including transportation logistics, scheduling, and
+   resource allocation. Linear programming proved invaluable in optimizing
+   these processes while considering critical constraints such as costs
+   and resource availability.
+
+   Despite its initial obscurity, the wartime successes propelled linear
+   programming into the spotlight. Post-WWII, the method gained widespread
+   recognition and became a cornerstone in various fields, from operations
+   research to economics. The overlooked contributions of Kantorovich and
+   Leontief in the late 1930s eventually became foundational to the
+   broader acceptance and utilization of linear programming in optimizing
+   decision-making processes.^[188][5]
+
+   Kantorovich's work was initially neglected in the [189]USSR.^[190][6]
+   About the same time as Kantorovich, the Dutch-American economist
+   [191]T. C. Koopmans formulated classical economic problems as linear
+   programs. Kantorovich and Koopmans later shared the 1975 [192]Nobel
+   Memorial Prize in Economic Sciences.^[193][4] In 1941, [194]Frank
+   Lauren Hitchcock also formulated transportation problems as linear
+   programs and gave a solution very similar to the later [195]simplex
+   method.^[196][7] Hitchcock had died in 1957, and the Nobel Memorial
+   Prize is not awarded posthumously.
+
+   From 1946 to 1947 [197]George B. Dantzig independently developed
+   general linear programming formulation to use for planning problems in
+   the US Air Force.^[198][8] In 1947, Dantzig also invented the
+   [199]simplex method that, for the first time efficiently, tackled the
+   linear programming problem in most cases.^[200][8] When Dantzig
+   arranged a meeting with [201]John von Neumann to discuss his simplex
+   method, von Neumann immediately conjectured the theory of [202]duality
+   by realizing that the problem he had been working in [203]game theory
+   was equivalent.^[204][8] Dantzig provided formal proof in an
+   unpublished report "A Theorem on Linear Inequalities" on January 5,
+   1948.^[205][6] Dantzig's work was made available to public in 1951. In
+   the post-war years, many industries applied it in their daily planning.
+
+   Dantzig's original example was to find the best assignment of 70 people
+   to 70 jobs. The computing power required to test all the permutations
+   to select the best assignment is vast; the number of possible
+   configurations exceeds the [206]number of particles in the
+   [207]observable universe. However, it takes only a moment to find the
+   optimum solution by posing the problem as a linear program and applying
+   the [208]simplex algorithm. The theory behind linear programming
+   drastically reduces the number of possible solutions that must be
+   checked.
+
+   The linear programming problem was first shown to be solvable in
+   polynomial time by [209]Leonid Khachiyan in 1979,^[210][9] but a larger
+   theoretical and practical breakthrough in the field came in 1984 when
+   [211]Narendra Karmarkar introduced a new [212]interior-point method for
+   solving linear-programming problems.^[213][10]
+
+Uses
+
+   [[214]edit]
+
+   Linear programming is a widely used field of optimization for several
+   reasons. Many practical problems in [215]operations research can be
+   expressed as linear programming problems.^[216][6] Certain special
+   cases of linear programming, such as [217]network flow problems and
+   [218]multicommodity flow problems, are considered important enough to
+   have much research on specialized algorithms. A number of algorithms
+   for other types of optimization problems work by solving linear
+   programming problems as sub-problems. Historically, ideas from linear
+   programming have inspired many of the central concepts of optimization
+   theory, such as duality, decomposition, and the importance of convexity
+   and its generalizations. Likewise, linear programming was heavily used
+   in the early formation of [219]microeconomics, and it is currently
+   utilized in company management, such as planning, production,
+   transportation, and technology. Although the modern management issues
+   are ever-changing, most companies would like to [220]maximize profits
+   and minimize costs with limited resources. Google also uses linear
+   programming to stabilize YouTube videos.^[221][11]
+
+Standard form
+
+   [[222]edit]
+
+   Standard form is the usual and most intuitive form of describing a
+   linear programming problem. It consists of the following three parts:
+     * A linear (or affine) function to be maximized
+
+          e.g.
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+          stretchy="false">(</mo> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msub> <mo stretchy="false">)</mo> <mo>=</mo> <msub>
+          <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn> </mrow> </msub> <mo>+</mo> <msub> <mi>c</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+          </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          f(x_{1},x_{2})=c_{1}x_{1}+c_{2}x_{2}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle f(x_{1},x_{2})=c_{1}x_{1}+c_{2}x_{2}}
+
+     * Problem constraints of the following form
+
+          e.g.
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mrow
+                class="MJX-TeXAtom-ORD"> <mtable rowspacing="4pt"
+                columnspacing="1em"> <mtr> <mtd> <msub> <mi>a</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>11</mn> </mrow> </msub>
+                <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mn>1</mn> </mrow> </msub> <mo>+</mo> <msub> <mi>a</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>12</mn> </mrow> </msub>
+                <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn> </mrow> </msub> </mtd> <mtd> <mo>≤</mo> <msub>
+                <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+                </mrow> </msub> </mtd> </mtr> <mtr> <mtd> <msub>
+                <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>21</mn>
+                </mrow> </msub> <msub> <mi>x</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>+</mo> <msub> <mi>a</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>22</mn> </mrow> </msub>
+                <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn> </mrow> </msub> </mtd> <mtd> <mo>≤</mo> <msub>
+                <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+                </mrow> </msub> </mtd> </mtr> <mtr> <mtd> <msub>
+                <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>31</mn>
+                </mrow> </msub> <msub> <mi>x</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>+</mo> <msub> <mi>a</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>32</mn> </mrow> </msub>
+                <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn> </mrow> </msub> </mtd> <mtd> <mo>≤</mo> <msub>
+                <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+                </mrow> </msub> </mtd> </mtr> </mtable> </mrow> </mstyle>
+                </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle
+                {\begin{matrix}a_{11}x_{1}+a_{12}x_{2}&\leq
+                b_{1}\\a_{21}x_{1}+a_{22}x_{2}&\leq
+                b_{2}\\a_{31}x_{1}+a_{32}x_{2}&\leq
+                b_{3}\\\end{matrix}}}</annotation> </semantics> :MATH]
+                {\displaystyle {\begin{matrix}a_{11}x_{1}+a_{12}x_{2}&\leq
+                b_{1}\\a_{21}x_{1}+a_{22}x_{2}&\leq
+                b_{2}\\a_{31}x_{1}+a_{32}x_{2}&\leq b_{3}\\\end{matrix}}}
+
+     * Non-negative variables
+
+          e.g.
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mrow
+                class="MJX-TeXAtom-ORD"> <mtable rowspacing="4pt"
+                columnspacing="1em"> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>≥</mo> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <msub>
+                <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+                </mrow> </msub> <mo>≥</mo> <mn>0</mn> </mtd> </mtr>
+                </mtable> </mrow> </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle
+                {\begin{matrix}x_{1}\geq 0\\x_{2}\geq
+                0\end{matrix}}}</annotation> </semantics> :MATH]
+                {\displaystyle {\begin{matrix}x_{1}\geq 0\\x_{2}\geq
+                0\end{matrix}}}
+
+   The problem is usually expressed in [223]matrix form, and then becomes:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo movablelimits="true"
+          form="prefix">max</mo> <mo fence="false" stretchy="false">{</mo>
+          <mspace width="thinmathspace" /> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">c</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="sans-serif">T</mi> </mrow> </mrow> </msup>
+          <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi>
+          </mrow> <mo>∣</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">x</mi> </mrow> <mo>∈</mo> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msup> <mo>∧</mo> <mi>A</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">x</mi> </mrow> <mo>≤</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">b</mi> </mrow>
+          <mo>∧</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">x</mi> </mrow> <mo>≥</mo> <mn>0</mn> <mspace
+          width="thinmathspace" /> <mo fence="false"
+          stretchy="false">}</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \max\{\,\mathbf {c}
+          ^{\mathsf {T}}\mathbf {x} \mid \mathbf {x} \in \mathbb {R}
+          ^{n}\land A\mathbf {x} \leq \mathbf {b} \land \mathbf {x} \geq
+          0\,\}}</annotation> </semantics> :MATH]
+          {\displaystyle \max\{\,\mathbf {c} ^{\mathsf {T}}\mathbf {x}
+          \mid \mathbf {x} \in \mathbb {R} ^{n}\land A\mathbf {x} \leq
+          \mathbf {b} \land \mathbf {x} \geq 0\,\}}
+
+   Other forms, such as minimization problems, problems with constraints
+   on alternative forms, and problems involving negative [224]variables
+   can always be rewritten into an equivalent problem in standard form.
+
+Example
+
+   [[225]edit]
+   [226][220px-Linear_programming_feasible_region_farmer_example.svg.png]
+   Graphical solution to the farmer example – after shading regions
+   violating the conditions, the vertex of the unshaded region with the
+   dashed line farthest from the origin gives the optimal combination (its
+   lying on the land and pesticide lines implies that revenue is limited
+   by land and pesticide, not fertilizer)
+
+   Suppose that a farmer has a piece of farm land, say L [227]hectares, to
+   be planted with either wheat or barley or some combination of the two.
+   The farmer has F kilograms of fertilizer and P kilograms of pesticide.
+   Every hectare of wheat requires F[1] kilograms of fertilizer and P[1]
+   kilograms of pesticide, while every hectare of barley requires F[2]
+   kilograms of fertilizer and P[2] kilograms of pesticide. Let S[1] be
+   the selling price of wheat and S[2] be the selling price of barley, per
+   hectare. If we denote the area of land planted with wheat and barley by
+   x[1] and x[2] respectively, then profit can be maximized by choosing
+   optimal values for x[1] and x[2]. This problem can be expressed with
+   the following linear programming problem in the standard form:
+   Maximize:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>S</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>⋅</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo>+</mo> <msub> <mi>S</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msub> <mo>⋅</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle S_{1}\cdot
+   x_{1}+S_{2}\cdot x_{2}}</annotation> </semantics> :MATH]
+   {\displaystyle S_{1}\cdot x_{1}+S_{2}\cdot x_{2}} (maximize the revenue
+   (the total wheat sales plus the total barley sales) – revenue is the
+   "objective function")
+   Subject to:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>+</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+   <mo>≤</mo> <mi>L</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x_{1}+x_{2}\leq
+   L}</annotation> </semantics> :MATH]
+   {\displaystyle x_{1}+x_{2}\leq L} (limit on total area)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>F</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>⋅</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo>+</mo> <msub> <mi>F</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msub> <mo>⋅</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>≤</mo>
+   <mi>F</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle F_{1}\cdot x_{1}+F_{2}\cdot
+   x_{2}\leq F}</annotation> </semantics> :MATH]
+   {\displaystyle F_{1}\cdot x_{1}+F_{2}\cdot x_{2}\leq F} (limit on
+   fertilizer)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>P</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>⋅</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo>+</mo> <msub> <mi>P</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msub> <mo>⋅</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>≤</mo>
+   <mi>P</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle P_{1}\cdot x_{1}+P_{2}\cdot
+   x_{2}\leq P}</annotation> </semantics> :MATH]
+   {\displaystyle P_{1}\cdot x_{1}+P_{2}\cdot x_{2}\leq P} (limit on
+   pesticide)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>≥</mo>
+   <mn>0</mn> <mo>,</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>2</mn> </mrow> </msub> <mo>≥</mo> <mn>0</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x_{1}\geq
+   0,x_{2}\geq 0}</annotation> </semantics> :MATH]
+   {\displaystyle x_{1}\geq 0,x_{2}\geq 0} (cannot plant a negative area).
+
+   In matrix form this becomes:
+
+          maximize
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <msub>
+          <mi>S</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> </mtd> <mtd> <msub> <mi>S</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd>
+          </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> </mtd> </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd>
+          </mtr> </mtable> <mo>]</mo> </mrow> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          {\begin{bmatrix}S_{1}&S_{2}\end{bmatrix}}{\begin{bmatrix}x_{1}\\
+          x_{2}\end{bmatrix}}}</annotation> </semantics> :MATH]
+          {\displaystyle
+          {\begin{bmatrix}S_{1}&S_{2}\end{bmatrix}}{\begin{bmatrix}x_{1}\\
+          x_{2}\end{bmatrix}}}
+          subject to
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>1</mn>
+          </mtd> <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <msub>
+          <mi>F</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> </mtd> <mtd> <msub> <mi>F</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd>
+          </mtr> <mtr> <mtd> <msub> <mi>P</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> </mtd> <mtd>
+          <msub> <mi>P</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msub> </mtd> </mtr> </mtable> <mo>]</mo> </mrow>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> </mtd> </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd>
+          </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mo>≤</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mi>L</mi>
+          </mtd> </mtr> <mtr> <mtd> <mi>F</mi> </mtd> </mtr> <mtr> <mtd>
+          <mi>P</mi> </mtd> </mtr> </mtable> <mo>]</mo> </mrow> </mrow>
+          <mo>,</mo> <mspace width="thinmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> </mtd> </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd>
+          </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mo>≥</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn>
+          </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> </mtr> </mtable>
+          <mo>]</mo> </mrow> </mrow> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          {\begin{bmatrix}1&1\\F_{1}&F_{2}\\P_{1}&P_{2}\end{bmatrix}}{\beg
+          in{bmatrix}x_{1}\\x_{2}\end{bmatrix}}\leq
+          {\begin{bmatrix}L\\F\\P\end{bmatrix}},\,{\begin{bmatrix}x_{1}\\x
+          _{2}\end{bmatrix}}\geq
+          {\begin{bmatrix}0\\0\end{bmatrix}}.}</annotation> </semantics>
+          :MATH]
+          {\displaystyle
+          {\begin{bmatrix}1&1\\F_{1}&F_{2}\\P_{1}&P_{2}\end{bmatrix}}{\beg
+          in{bmatrix}x_{1}\\x_{2}\end{bmatrix}}\leq
+          {\begin{bmatrix}L\\F\\P\end{bmatrix}},\,{\begin{bmatrix}x_{1}\\x
+          _{2}\end{bmatrix}}\geq {\begin{bmatrix}0\\0\end{bmatrix}}.}
+
+Augmented form (slack form)
+
+   [[228]edit]
+
+   Linear programming problems can be converted into an augmented form in
+   order to apply the common form of the [229]simplex algorithm. This form
+   introduces non-negative [230]slack variables to replace inequalities
+   with equalities in the constraints. The problems can then be written in
+   the following [231]block matrix form:
+
+          Maximize
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>z</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          z}</annotation> </semantics> :MATH]
+          {\displaystyle z} :
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>1</mn>
+          </mtd> <mtd> <mo>−</mo> <msup> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">c</mi> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="sans-serif">T</mi> </mrow> </mrow> </msup> </mtd>
+          <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd>
+          <mtd> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">A</mi> </mrow> </mtd> <mtd> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">I</mi> </mrow>
+          </mtd> </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mi>z</mi>
+          </mtd> </mtr> <mtr> <mtd> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">x</mi> </mrow> </mtd> </mtr> <mtr> <mtd>
+          <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">s</mi>
+          </mrow> </mtd> </mtr> </mtable> <mo>]</mo> </mrow> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo>
+          <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd>
+          <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">b</mi> </mrow>
+          </mtd> </mtr> </mtable> <mo>]</mo> </mrow> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\begin{bmatrix}1&-\mathbf {c} ^{\mathsf {T}}&0\\0&\mathbf {A}
+          &\mathbf {I} \end{bmatrix}}{\begin{bmatrix}z\\\mathbf {x}
+          \\\mathbf {s} \end{bmatrix}}={\begin{bmatrix}0\\\mathbf {b}
+          \end{bmatrix}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\begin{bmatrix}1&-\mathbf {c} ^{\mathsf
+          {T}}&0\\0&\mathbf {A} &\mathbf {I}
+          \end{bmatrix}}{\begin{bmatrix}z\\\mathbf {x} \\\mathbf {s}
+          \end{bmatrix}}={\begin{bmatrix}0\\\mathbf {b} \end{bmatrix}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi> </mrow>
+          <mo>≥</mo> <mn>0</mn> <mo>,</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">s</mi> </mrow> <mo>≥</mo> <mn>0</mn>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \mathbf {x} \geq
+          0,\mathbf {s} \geq 0}</annotation> </semantics> :MATH]
+          {\displaystyle \mathbf {x} \geq 0,\mathbf {s} \geq 0}
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">s</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {s} }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \mathbf {s} } are the newly introduced slack variables,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">x</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {x} }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \mathbf {x} } are the decision variables, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>z</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle z}</annotation>
+   </semantics> :MATH]
+   {\displaystyle z} is the variable to be maximized.
+
+Example
+
+   [[232]edit]
+
+   The example above is converted into the following augmented form:
+
+   Maximize:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>S</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>⋅</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo>+</mo> <msub> <mi>S</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msub> <mo>⋅</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle S_{1}\cdot
+   x_{1}+S_{2}\cdot x_{2}}</annotation> </semantics> :MATH]
+   {\displaystyle S_{1}\cdot x_{1}+S_{2}\cdot x_{2}} (objective function)
+   subject to:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>+</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+   <mo>+</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+   </mrow> </msub> <mo>=</mo> <mi>L</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   x_{1}+x_{2}+x_{3}=L}</annotation> </semantics> :MATH]
+   {\displaystyle x_{1}+x_{2}+x_{3}=L} (augmented constraint)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>F</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>⋅</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo>+</mo> <msub> <mi>F</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msub> <mo>⋅</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>+</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msub>
+   <mo>=</mo> <mi>F</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle F_{1}\cdot x_{1}+F_{2}\cdot
+   x_{2}+x_{4}=F}</annotation> </semantics> :MATH]
+   {\displaystyle F_{1}\cdot x_{1}+F_{2}\cdot x_{2}+x_{4}=F} (augmented
+   constraint)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>P</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>⋅</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo>+</mo> <msub> <mi>P</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msub> <mo>⋅</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>+</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msub>
+   <mo>=</mo> <mi>P</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle P_{1}\cdot x_{1}+P_{2}\cdot
+   x_{2}+x_{5}=P}</annotation> </semantics> :MATH]
+   {\displaystyle P_{1}\cdot x_{1}+P_{2}\cdot x_{2}+x_{5}=P} (augmented
+   constraint)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+   <mo>,</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+   </mrow> </msub> <mo>,</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msub> <mo>,</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msub>
+   <mo>≥</mo> <mn>0.</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   x_{1},x_{2},x_{3},x_{4},x_{5}\geq 0.}</annotation> </semantics> :MATH]
+   {\displaystyle x_{1},x_{2},x_{3},x_{4},x_{5}\geq 0.}
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msub> <mo>,</mo> <msub>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msub>
+   <mo>,</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn>
+   </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   x_{3},x_{4},x_{5}}</annotation> </semantics> :MATH]
+   {\displaystyle x_{3},x_{4},x_{5}} are (non-negative) slack variables,
+   representing in this example the unused area, the amount of unused
+   fertilizer, and the amount of unused pesticide.
+
+   In matrix form this becomes:
+
+          Maximize
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>z</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          z}</annotation> </semantics> :MATH]
+          {\displaystyle z} :
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>1</mn>
+          </mtd> <mtd> <mo>−</mo> <msub> <mi>S</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> </mtd> <mtd>
+          <mo>−</mo> <msub> <mi>S</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msub> </mtd> <mtd> <mn>0</mn> </mtd> <mtd>
+          <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd>
+          <mn>0</mn> </mtd> <mtd> <mn>1</mn> </mtd> <mtd> <mn>1</mn>
+          </mtd> <mtd> <mn>1</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd>
+          <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd>
+          <msub> <mi>F</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> </mtd> <mtd> <msub> <mi>F</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd> <mtd>
+          <mn>0</mn> </mtd> <mtd> <mn>1</mn> </mtd> <mtd> <mn>0</mn>
+          </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <msub>
+          <mi>P</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> </mtd> <mtd> <msub> <mi>P</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd> <mtd>
+          <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mn>1</mn>
+          </mtd> </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mi>z</mi>
+          </mtd> </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> </mtd>
+          </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd>
+          </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msub> </mtd>
+          </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msub> </mtd>
+          </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msub> </mtd>
+          </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn>
+          </mtd> </mtr> <mtr> <mtd> <mi>L</mi> </mtd> </mtr> <mtr> <mtd>
+          <mi>F</mi> </mtd> </mtr> <mtr> <mtd> <mi>P</mi> </mtd> </mtr>
+          </mtable> <mo>]</mo> </mrow> </mrow> <mo>,</mo> <mspace
+          width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD"> <mrow>
+          <mo>[</mo> <mtable rowspacing="4pt" columnspacing="1em"> <mtr>
+          <mtd> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn> </mrow> </msub> </mtd> </mtr> <mtr> <mtd> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+          </msub> </mtd> </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msub> </mtd>
+          </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msub> </mtd>
+          </mtr> <mtr> <mtd> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msub> </mtd>
+          </mtr> </mtable> <mo>]</mo> </mrow> </mrow> <mo>≥</mo>
+          <mn>0.</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{bmatrix}1&-S_{1}&-S_{2}&0&0&0\\0&1&1&1&0&0\\0&F_{1}&F_{2
+          }&0&1&0\\0&P_{1}&P_{2}&0&0&1\\\end{bmatrix}}{\begin{bmatrix}z\\x
+          _{1}\\x_{2}\\x_{3}\\x_{4}\\x_{5}\end{bmatrix}}={\begin{bmatrix}0
+          \\L\\F\\P\end{bmatrix}},\,{\begin{bmatrix}x_{1}\\x_{2}\\x_{3}\\x
+          _{4}\\x_{5}\end{bmatrix}}\geq 0.}</annotation> </semantics>
+          :MATH]
+          {\displaystyle
+          {\begin{bmatrix}1&-S_{1}&-S_{2}&0&0&0\\0&1&1&1&0&0\\0&F_{1}&F_{2
+          }&0&1&0\\0&P_{1}&P_{2}&0&0&1\\\end{bmatrix}}{\begin{bmatrix}z\\x
+          _{1}\\x_{2}\\x_{3}\\x_{4}\\x_{5}\end{bmatrix}}={\begin{bmatrix}0
+          \\L\\F\\P\end{bmatrix}},\,{\begin{bmatrix}x_{1}\\x_{2}\\x_{3}\\x
+          _{4}\\x_{5}\end{bmatrix}}\geq 0.}
+
+Duality
+
+   [[233]edit]
+   Main article: [234]Dual linear program
+
+   Every linear programming problem, referred to as a primal problem, can
+   be converted into a [235]dual problem, which provides an upper bound to
+   the optimal value of the primal problem. In matrix form, we can express
+   the primal problem as:
+
+          Maximize c^Tx subject to Ax ≤ b, x ≥ 0;
+
+                with the corresponding symmetric dual problem,
+
+          Minimize b^Ty subject to A^Ty ≥ c, y ≥ 0.
+
+   An alternative primal formulation is:
+
+          Maximize c^Tx subject to Ax ≤ b;
+
+                with the corresponding asymmetric dual problem,
+
+          Minimize b^Ty subject to A^Ty = c, y ≥ 0.
+
+   There are two ideas fundamental to duality theory. One is the fact that
+   (for the symmetric dual) the dual of a dual linear program is the
+   original primal linear program. Additionally, every feasible solution
+   for a linear program gives a bound on the optimal value of the
+   objective function of its dual. The [236]weak duality theorem states
+   that the objective function value of the dual at any feasible solution
+   is always greater than or equal to the objective function value of the
+   primal at any feasible solution. The [237]strong duality theorem states
+   that if the primal has an optimal solution, x^*, then the dual also has
+   an optimal solution, y^*, and c^Tx^*=b^Ty^*.
+
+   A linear program can also be unbounded or infeasible. Duality theory
+   tells us that if the primal is unbounded then the dual is infeasible by
+   the weak duality theorem. Likewise, if the dual is unbounded, then the
+   primal must be infeasible. However, it is possible for both the dual
+   and the primal to be infeasible. See [238]dual linear program for
+   details and several more examples.
+
+Variations
+
+   [[239]edit]
+
+Covering/packing dualities
+
+   [[240]edit]
+   [241]Covering/packing-problem pairs
+   [242]Covering problems    [243]Packing problems
+   [244]Minimum set cover    [245]Maximum set packing
+   [246]Minimum edge cover   [247]Maximum matching
+   [248]Minimum vertex cover [249]Maximum independent set
+   [250]Bin covering         [251]Bin packing
+   [252]Polygon covering     [253]Rectangle packing
+     * [254]v
+     * [255]t
+     * [256]e
+
+   A [257]covering LP is a linear program of the form:
+
+          Minimize: b^Ty,
+          subject to: A^Ty ≥ c, y ≥ 0,
+
+   such that the matrix A and the vectors b and c are non-negative.
+
+   The dual of a covering LP is a [258]packing LP, a linear program of the
+   form:
+
+          Maximize: c^Tx,
+          subject to: Ax ≤ b, x ≥ 0,
+
+   such that the matrix A and the vectors b and c are non-negative.
+
+Examples
+
+   [[259]edit]
+
+   Covering and packing LPs commonly arise as a [260]linear programming
+   relaxation of a combinatorial problem and are important in the study of
+   [261]approximation algorithms.^[262][12] For example, the LP
+   relaxations of the [263]set packing problem, the [264]independent set
+   problem, and the [265]matching problem are packing LPs. The LP
+   relaxations of the [266]set cover problem, the [267]vertex cover
+   problem, and the [268]dominating set problem are also covering LPs.
+
+   Finding a [269]fractional coloring of a [270]graph is another example
+   of a covering LP. In this case, there is one constraint for each vertex
+   of the graph and one variable for each [271]independent set of the
+   graph.
+
+Complementary slackness
+
+   [[272]edit]
+
+   It is possible to obtain an optimal solution to the dual when only an
+   optimal solution to the primal is known using the complementary
+   slackness theorem. The theorem states:
+
+   Suppose that x = (x[1], x[2], ... , x[n]) is primal feasible and that
+   y = (y[1], y[2], ... , y[m]) is dual feasible. Let
+   (w[1], w[2], ..., w[m]) denote the corresponding primal slack
+   variables, and let (z[1], z[2], ... , z[n]) denote the corresponding
+   dual slack variables. Then x and y are optimal for their respective
+   problems if and only if
+     * x[j] z[j] = 0, for j = 1, 2, ... , n, and
+     * w[i] y[i] = 0, for i = 1, 2, ... , m.
+
+   So if the i-th slack variable of the primal is not zero, then the i-th
+   variable of the dual is equal to zero. Likewise, if the j-th slack
+   variable of the dual is not zero, then the j-th variable of the primal
+   is equal to zero.
+
+   This necessary condition for optimality conveys a fairly simple
+   economic principle. In standard form (when maximizing), if there is
+   slack in a constrained primal resource (i.e., there are "leftovers"),
+   then additional quantities of that resource must have no value.
+   Likewise, if there is slack in the dual (shadow) price non-negativity
+   constraint requirement, i.e., the price is not zero, then there must be
+   scarce supplies (no "leftovers").
+
+Theory
+
+   [[273]edit]
+
+Existence of optimal solutions
+
+   [[274]edit]
+
+   Geometrically, the linear constraints define the [275]feasible region,
+   which is a [276]convex polytope. A [277]linear function is a
+   [278]convex function, which implies that every [279]local minimum is a
+   [280]global minimum; similarly, a linear function is a [281]concave
+   function, which implies that every [282]local maximum is a [283]global
+   maximum.
+
+   An optimal solution need not exist, for two reasons. First, if the
+   constraints are inconsistent, then no feasible solution exists: For
+   instance, the constraints x ≥ 2 and x ≤ 1 cannot be satisfied jointly;
+   in this case, we say that the LP is infeasible. Second, when the
+   [284]polytope is unbounded in the direction of the gradient of the
+   objective function (where the gradient of the objective function is the
+   vector of the coefficients of the objective function), then no optimal
+   value is attained because it is always possible to do better than any
+   finite value of the objective function.
+
+Optimal vertices (and rays) of polyhedra
+
+   [[285]edit]
+
+   Otherwise, if a feasible solution exists and if the constraint set is
+   bounded, then the optimum value is always attained on the boundary of
+   the constraint set, by the [286]maximum principle for [287]convex
+   functions (alternatively, by the minimum principle for [288]concave
+   functions) since linear functions are both convex and concave. However,
+   some problems have distinct optimal solutions; for example, the problem
+   of finding a feasible solution to a system of linear inequalities is a
+   linear programming problem in which the objective function is the zero
+   function (i.e., the constant function taking the value zero
+   everywhere). For this feasibility problem with the zero-function for
+   its objective-function, if there are two distinct solutions, then every
+   convex combination of the solutions is a solution.
+
+   The vertices of the polytope are also called basic feasible solutions.
+   The reason for this choice of name is as follows. Let d denote the
+   number of variables. Then the fundamental theorem of linear
+   inequalities implies (for feasible problems) that for every vertex x^*
+   of the LP feasible region, there exists a set of d (or fewer)
+   inequality constraints from the LP such that, when we treat those d
+   constraints as equalities, the unique solution is x^*. Thereby we can
+   study these vertices by means of looking at certain subsets of the set
+   of all constraints (a discrete set), rather than the continuum of LP
+   solutions. This principle underlies the [289]simplex algorithm for
+   solving linear programs.
+
+Algorithms
+
+   [[290]edit]
+   See also: [291]List of numerical analysis topics § Linear programming
+   [292][250px-Linear_Programming_Feasible_Region.svg.png] In a linear
+   programming problem, a series of linear constraints produces a
+   [293]convex [294]feasible region of possible values for those
+   variables. In the two-variable case this region is in the shape of a
+   convex [295]simple polygon.
+
+Basis exchange algorithms
+
+   [[296]edit]
+
+Simplex algorithm of Dantzig
+
+   [[297]edit]
+
+   The [298]simplex algorithm, developed by [299]George Dantzig in 1947,
+   solves LP problems by constructing a feasible solution at a vertex of
+   the [300]polytope and then walking along a path on the edges of the
+   polytope to vertices with non-decreasing values of the objective
+   function until an optimum is reached for sure. In many practical
+   problems, "[301]stalling" occurs: many pivots are made with no increase
+   in the objective function.^[302][13]^[303][14] In rare practical
+   problems, the usual versions of the simplex algorithm may actually
+   "cycle".^[304][14] To avoid cycles, researchers developed new pivoting
+   rules.^[305][15]
+
+   In practice, the simplex [306]algorithm is quite efficient and can be
+   guaranteed to find the global optimum if certain precautions against
+   cycling are taken. The simplex algorithm has been proved to solve
+   "random" problems efficiently, i.e. in a cubic number of
+   steps,^[307][16] which is similar to its behavior on practical
+   problems.^[308][13]^[309][17]
+
+   However, the simplex algorithm has poor worst-case behavior: Klee and
+   Minty constructed a family of linear programming problems for which the
+   simplex method takes a number of steps exponential in the problem
+   size.^[310][13]^[311][18]^[312][19] In fact, for some time it was not
+   known whether the linear programming problem was solvable in
+   [313]polynomial time, i.e. of [314]complexity class P.
+
+Criss-cross algorithm
+
+   [[315]edit]
+
+   Like the simplex algorithm of Dantzig, the [316]criss-cross algorithm
+   is a basis-exchange algorithm that pivots between bases. However, the
+   criss-cross algorithm need not maintain feasibility, but can pivot
+   rather from a feasible basis to an infeasible basis. The criss-cross
+   algorithm does not have [317]polynomial time-complexity for linear
+   programming. Both algorithms visit all 2^D corners of a (perturbed)
+   [318]cube in dimension D, the [319]Klee–Minty cube, in the [320]worst
+   case.^[321][15]^[322][20]
+
+Interior point
+
+   [[323]edit]
+
+   In contrast to the simplex algorithm, which finds an optimal solution
+   by traversing the edges between vertices on a polyhedral set,
+   interior-point methods move through the interior of the feasible
+   region.
+
+Ellipsoid algorithm, following Khachiyan
+
+   [[324]edit]
+
+   This is the first [325]worst-case [326]polynomial-time algorithm ever
+   found for linear programming. To solve a problem which has n variables
+   and can be encoded in L input bits, this algorithm runs in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>O</mi> <mo
+   stretchy="false">(</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> </msup> <mi>L</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle O(n^{6}L)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle O(n^{6}L)} time.^[327][9] [328]Leonid Khachiyan solved
+   this long-standing complexity issue in 1979 with the introduction of
+   the [329]ellipsoid method. The convergence analysis has (real-number)
+   predecessors, notably the [330]iterative methods developed by [331]Naum
+   Z. Shor and the [332]approximation algorithms by Arkadi Nemirovski and
+   D. Yudin.
+
+Projective algorithm of Karmarkar
+
+   [[333]edit]
+
+   Main article: [334]Karmarkar's algorithm
+
+   Khachiyan's algorithm was of landmark importance for establishing the
+   polynomial-time solvability of linear programs. The algorithm was not a
+   computational break-through, as the simplex method is more efficient
+   for all but specially constructed families of linear programs.
+
+   However, Khachiyan's algorithm inspired new lines of research in linear
+   programming. In 1984, [335]N. Karmarkar proposed a [336]projective
+   method for linear programming. Karmarkar's algorithm^[337][10] improved
+   on Khachiyan's^[338][9] worst-case polynomial bound (giving
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>O</mi> <mo
+   stretchy="false">(</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3.5</mn> </mrow> </msup> <mi>L</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle O(n^{3.5}L)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle O(n^{3.5}L)} ). Karmarkar claimed that his algorithm was
+   much faster in practical LP than the simplex method, a claim that
+   created great interest in interior-point methods.^[339][21] Since
+   Karmarkar's discovery, many interior-point methods have been proposed
+   and analyzed.
+
+Vaidya's 87 algorithm
+
+   [[340]edit]
+
+   In 1987, Vaidya proposed an algorithm that runs in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>O</mi> <mo
+   stretchy="false">(</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle O(n^{3})}</annotation>
+   </semantics> :MATH]
+   {\displaystyle O(n^{3})} time.^[341][22]
+
+Vaidya's 89 algorithm
+
+   [[342]edit]
+
+   In 1989, Vaidya developed an algorithm that runs in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>O</mi> <mo
+   stretchy="false">(</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2.5</mn> </mrow> </msup> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle O(n^{2.5})}</annotation>
+   </semantics> :MATH]
+   {\displaystyle O(n^{2.5})} time.^[343][23] Formally speaking, the
+   algorithm takes
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>O</mi> <mo
+   stretchy="false">(</mo> <mo stretchy="false">(</mo> <mi>n</mi>
+   <mo>+</mo> <mi>d</mi> <msup> <mo stretchy="false">)</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1.5</mn> </mrow> </msup> <mi>n</mi>
+   <mi>L</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   O((n+d)^{1.5}nL)}</annotation> </semantics> :MATH]
+   {\displaystyle O((n+d)^{1.5}nL)} arithmetic operations in the worst
+   case, where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} is the number of constraints,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} is the number of variables, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>L</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle L}</annotation>
+   </semantics> :MATH]
+   {\displaystyle L} is the number of bits.
+
+Input sparsity time algorithms
+
+   [[344]edit]
+
+   In 2015, Lee and Sidford showed that linear programming can be solved
+   in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>O</mi> <mo
+   stretchy="false">~</mo> </mover> </mrow> </mrow> <mo
+   stretchy="false">(</mo> <mo stretchy="false">(</mo> <mi>n</mi>
+   <mi>n</mi> <mi>z</mi> <mo stretchy="false">(</mo> <mi>A</mi> <mo
+   stretchy="false">)</mo> <mo>+</mo> <msup> <mi>d</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+   stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+   <mi>d</mi> </msqrt> </mrow> <mi>L</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\tilde
+   {O}}((nnz(A)+d^{2}){\sqrt {d}}L)}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {O}}((nnz(A)+d^{2}){\sqrt {d}}L)}
+   time,^[345][24] where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>O</mi> <mo
+   stretchy="false">~</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\tilde
+   {O}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {O}}} denotes the [346]soft O notation, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <mi>n</mi> <mi>z</mi>
+   <mo stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle nnz(A)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle nnz(A)} represents the number of non-zero elements, and
+   it remains taking
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>O</mi> <mo
+   stretchy="false">(</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2.5</mn> </mrow> </msup> <mi>L</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle O(n^{2.5}L)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle O(n^{2.5}L)} in the worst case.
+
+Current matrix multiplication time algorithm
+
+   [[347]edit]
+
+   In 2019, Cohen, Lee and Song improved the running time to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>O</mi> <mo
+   stretchy="false">~</mo> </mover> </mrow> </mrow> <mo
+   stretchy="false">(</mo> <mo stretchy="false">(</mo> <msup> <mi>n</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>ω</mi> </mrow> </msup> <mo>+</mo>
+   <msup> <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2.5</mn>
+   <mo>−</mo> <mi>α</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mn>2</mn> </mrow> </msup> <mo>+</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> <mo>+</mo> <mn>1</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn> </mrow> </msup>
+   <mo stretchy="false">)</mo> <mi>L</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\tilde {O}}((n^{\omega
+   }+n^{2.5-\alpha /2}+n^{2+1/6})L)}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {O}}((n^{\omega }+n^{2.5-\alpha
+   /2}+n^{2+1/6})L)} time,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ω</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \omega
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \omega } is the exponent of [348]matrix multiplication
+   and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>α</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \alpha
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \alpha } is the dual exponent of [349]matrix
+   multiplication.^[350][25]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>α</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \alpha
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \alpha } is (roughly) defined to be the largest number
+   such that one can multiply an
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>×</mo> <mi>n</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle n\times n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n\times n} matrix by a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>×</mo> <msup>
+   <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>α</mi> </mrow> </msup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle n\times n^{\alpha
+   }}</annotation> </semantics> :MATH]
+   {\displaystyle n\times n^{\alpha }} matrix in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>O</mi> <mo
+   stretchy="false">(</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle O(n^{2})}</annotation>
+   </semantics> :MATH]
+   {\displaystyle O(n^{2})} time. In a followup work by Lee, Song and
+   Zhang, they reproduce the same result via a different method.^[351][26]
+   These two algorithms remain
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>O</mi> <mo
+   stretchy="false">~</mo> </mover> </mrow> </mrow> <mo
+   stretchy="false">(</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> <mo>+</mo> <mn>1</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn> </mrow> </msup>
+   <mi>L</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\tilde
+   {O}}(n^{2+1/6}L)}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {O}}(n^{2+1/6}L)} when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ω</mi> <mo>=</mo> <mn>2</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \omega =2}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \omega =2} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>α</mi> <mo>=</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \alpha =1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \alpha =1} . The result due to Jiang, Song, Weinstein
+   and Zhang improved
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>O</mi> <mo
+   stretchy="false">~</mo> </mover> </mrow> </mrow> <mo
+   stretchy="false">(</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> <mo>+</mo> <mn>1</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>6</mn> </mrow> </msup>
+   <mi>L</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\tilde
+   {O}}(n^{2+1/6}L)}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {O}}(n^{2+1/6}L)} to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>O</mi> <mo
+   stretchy="false">~</mo> </mover> </mrow> </mrow> <mo
+   stretchy="false">(</mo> <msup> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> <mo>+</mo> <mn>1</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>18</mn> </mrow> </msup>
+   <mi>L</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\tilde
+   {O}}(n^{2+1/18}L)}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {O}}(n^{2+1/18}L)} .^[352][27]
+
+Comparison of interior-point methods and simplex algorithms
+
+   [[353]edit]
+
+   The current opinion is that the efficiencies of good implementations of
+   simplex-based methods and interior point methods are similar for
+   routine applications of linear programming. However, for specific types
+   of LP problems, it may be that one type of solver is better than
+   another (sometimes much better), and that the structure of the
+   solutions generated by interior point methods versus simplex-based
+   methods are significantly different with the support set of active
+   variables being typically smaller for the latter one.^[354][28]
+
+Open problems and recent work
+
+   [[355]edit]
+
+   Unsolved problem in computer science:
+   Does linear programming admit a strongly polynomial-time algorithm?
+   [356](more unsolved problems in computer science)
+
+   There are several open problems in the theory of linear programming,
+   the solution of which would represent fundamental breakthroughs in
+   mathematics and potentially major advances in our ability to solve
+   large-scale linear programs.
+     * Does LP admit a [357]strongly polynomial-time algorithm?
+     * Does LP admit a strongly polynomial-time algorithm to find a
+       strictly complementary solution?
+     * Does LP admit a polynomial-time algorithm in the real number (unit
+       cost) model of computation?
+
+   This closely related set of problems has been cited by [358]Stephen
+   Smale as among the [359]18 greatest unsolved problems of the 21st
+   century. In Smale's words, the third version of the problem "is the
+   main unsolved problem of linear programming theory." While algorithms
+   exist to solve linear programming in [360]weakly polynomial time, such
+   as the [361]ellipsoid methods and [362]interior-point techniques, no
+   algorithms have yet been found that allow strongly polynomial-time
+   performance in the number of constraints and the number of variables.
+   The development of such algorithms would be of great theoretical
+   interest, and perhaps allow practical gains in solving large LPs as
+   well.
+
+   Although the [363]Hirsch conjecture was recently disproved for higher
+   dimensions, it still leaves the following questions open.
+     * Are there pivot rules which lead to polynomial-time simplex
+       variants?
+     * Do all polytopal graphs have polynomially bounded diameter?
+
+   These questions relate to the performance analysis and development of
+   simplex-like methods. The immense efficiency of the simplex algorithm
+   in practice despite its exponential-time theoretical performance hints
+   that there may be variations of simplex that run in polynomial or even
+   strongly polynomial time. It would be of great practical and
+   theoretical significance to know whether any such variants exist,
+   particularly as an approach to deciding if LP can be solved in strongly
+   polynomial time.
+
+   The simplex algorithm and its variants fall in the family of
+   edge-following algorithms, so named because they solve linear
+   programming problems by moving from vertex to vertex along edges of a
+   polytope. This means that their theoretical performance is limited by
+   the maximum number of edges between any two vertices on the LP
+   polytope. As a result, we are interested in knowing the maximum
+   [364]graph-theoretical diameter of polytopal [365]graphs. It has been
+   proved that all polytopes have subexponential diameter. The recent
+   disproof of the Hirsch conjecture is the first step to prove whether
+   any polytope has superpolynomial diameter. If any such polytopes exist,
+   then no edge-following variant can run in polynomial time. Questions
+   about polytope diameter are of independent mathematical interest.
+
+   Simplex pivot methods preserve primal (or dual) feasibility. On the
+   other hand, criss-cross pivot methods do not preserve (primal or dual)
+   feasibility – they may visit primal feasible, dual feasible or
+   primal-and-dual infeasible bases in any order. Pivot methods of this
+   type have been studied since the 1970s.^[366][29] Essentially, these
+   methods attempt to find the shortest pivot path on the arrangement
+   polytope under the linear programming problem. In contrast to polytopal
+   graphs, graphs of arrangement polytopes are known to have small
+   diameter, allowing the possibility of strongly polynomial-time
+   criss-cross pivot algorithm without resolving questions about the
+   diameter of general polytopes.^[367][15]
+
+Integer unknowns
+
+   [[368]edit]
+
+   If all of the unknown variables are required to be integers, then the
+   problem is called an [369]integer programming (IP) or integer linear
+   programming (ILP) problem. In contrast to linear programming, which can
+   be solved efficiently in the worst case, integer programming problems
+   are in many practical situations (those with bounded variables)
+   [370]NP-hard. 0–1 integer programming or binary integer programming
+   (BIP) is the special case of integer programming where variables are
+   required to be 0 or 1 (rather than arbitrary integers). This problem is
+   also classified as NP-hard, and in fact the decision version was one of
+   [371]Karp's 21 NP-complete problems.
+
+   If only some of the unknown variables are required to be integers, then
+   the problem is called a mixed integer (linear) programming (MIP or
+   MILP) problem. These are generally also NP-hard because they are even
+   more general than ILP programs.
+
+   There are however some important subclasses of IP and MIP problems that
+   are efficiently solvable, most notably problems where the constraint
+   matrix is [372]totally unimodular and the right-hand sides of the
+   constraints are integers or – more general – where the system has the
+   [373]total dual integrality (TDI) property.
+
+   Advanced algorithms for solving integer linear programs include:
+     * [374]cutting-plane method
+     * [375]Branch and bound
+     * [376]Branch and cut
+     * [377]Branch and price
+     * if the problem has some extra structure, it may be possible to
+       apply [378]delayed column generation.
+
+   Such integer-programming algorithms are discussed by [379]Padberg and
+   in Beasley.
+
+Integral linear programs
+
+   [[380]edit]
+
+   Further information: [381]Integral polytope
+
+   A linear program in real variables is said to be integral if it has at
+   least one optimal solution which is integral, i.e., made of only
+   integer values. Likewise, a polyhedron
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> <mo>=</mo> <mo
+   fence="false" stretchy="false">{</mo> <mi>x</mi> <mo>∣</mo> <mi>A</mi>
+   <mi>x</mi> <mo>≥</mo> <mn>0</mn> <mo fence="false"
+   stretchy="false">}</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle P=\{x\mid Ax\geq
+   0\}}</annotation> </semantics> :MATH]
+   {\displaystyle P=\{x\mid Ax\geq 0\}} is said to be integral if for all
+   bounded feasible objective functions c, the linear program
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">{</mo> <mo movablelimits="true" form="prefix">max</mo>
+   <mi>c</mi> <mi>x</mi> <mo>∣</mo> <mi>x</mi> <mo>∈</mo> <mi>P</mi> <mo
+   fence="false" stretchy="false">}</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \{\max cx\mid x\in
+   P\}}</annotation> </semantics> :MATH]
+   {\displaystyle \{\max cx\mid x\in P\}} has an optimum
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   x^{*}}</annotation> </semantics> :MATH]
+   {\displaystyle x^{*}} with integer coordinates. As observed by Edmonds
+   and Giles in 1977, one can equivalently say that the polyhedron
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+   </semantics> :MATH]
+   {\displaystyle P} is integral if for every bounded feasible integral
+   objective function c, the optimal value of the linear program
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">{</mo> <mo movablelimits="true" form="prefix">max</mo>
+   <mi>c</mi> <mi>x</mi> <mo>∣</mo> <mi>x</mi> <mo>∈</mo> <mi>P</mi> <mo
+   fence="false" stretchy="false">}</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \{\max cx\mid x\in
+   P\}}</annotation> </semantics> :MATH]
+   {\displaystyle \{\max cx\mid x\in P\}} is an integer.
+
+   Integral linear programs are of central importance in the polyhedral
+   aspect of [382]combinatorial optimization since they provide an
+   alternate characterization of a problem. Specifically, for any problem,
+   the convex hull of the solutions is an integral polyhedron; if this
+   polyhedron has a nice/compact description, then we can efficiently find
+   the optimal feasible solution under any linear objective. Conversely,
+   if we can prove that a [383]linear programming relaxation is integral,
+   then it is the desired description of the convex hull of feasible
+   (integral) solutions.
+
+   Terminology is not consistent throughout the literature, so one should
+   be careful to distinguish the following two concepts,
+     * in an integer linear program, described in the previous section,
+       variables are forcibly constrained to be integers, and this problem
+       is NP-hard in general,
+     * in an integral linear program, described in this section, variables
+       are not constrained to be integers but rather one has proven
+       somehow that the continuous problem always has an integral optimal
+       value (assuming c is integral), and this optimal value may be found
+       efficiently since all polynomial-size linear programs can be solved
+       in polynomial time.
+
+   One common way of proving that a polyhedron is integral is to show that
+   it is [384]totally unimodular. There are other general methods
+   including the integer decomposition property and [385]total dual
+   integrality. Other specific well-known integral LPs include the
+   matching polytope, lattice polyhedra, [386]submodular flow polyhedra,
+   and the intersection of two generalized polymatroids/g-polymatroids –
+   e.g. see Schrijver 2003.
+
+Solvers and scripting (programming) languages
+
+   [[387]edit]
+
+   [388]Permissive licenses:
+
+   Name License Brief info
+   [389]Gekko [390]MIT License Open-source library for solving large-scale
+   LP, [391]QP, [392]QCQP, [393]NLP, and [394]MIP optimization
+   [395]GLOP [396]Apache v2 Google's open-source linear programming solver
+   [397]JuMP [398]MPL License Open-source modeling language with solvers
+   for large-scale LP, [399]QP, [400]QCQP, [401]SDP, [402]SOCP, [403]NLP,
+   and [404]MIP optimization
+   [405]Pyomo [406]BSD An open-source modeling language for large-scale
+   linear, mixed integer and nonlinear optimization
+   [407]SCIP [408]Apache v2 A general-purpose constraint integer
+   programming solver with an emphasis on MIP. Compatible with Zimpl
+   modelling language.
+   [409]SuanShu [410]Apache v2 An open-source suite of optimization
+   algorithms to solve LP, [411]QP, [412]SOCP, [413]SDP, [414]SQP in Java
+
+   [415]Copyleft (reciprocal) licenses:
+
+   Name License Brief info
+   [416]ALGLIB GPL 2+ An LP solver from ALGLIB project (C++, C#, Python)
+   [417]Cassowary constraint solver LGPL An incremental constraint solving
+   toolkit that efficiently solves systems of linear equalities and
+   inequalities
+   [418]CLP CPL An LP solver from COIN-OR
+   [419]glpk GPL GNU Linear Programming Kit, an LP/MILP solver with a
+   native C [420]API and numerous (15) third-party wrappers for other
+   languages. Specialist support for [421]flow networks. Bundles the
+   [422]AMPL-like [423]GNU MathProg modelling language and translator.
+   [424]lp solve LGPL v2.1 An LP and [425]MIP solver featuring support for
+   the [426]MPS format and its own "lp" format, as well as custom formats
+   through its "eXternal Language Interface" (XLI).^[427][30]^[428][31]
+   Translating between model formats is also possible.^[429][32]
+   [430]Qoca GPL A library for incrementally solving systems of linear
+   equations with various goal functions
+   [431]R-Project GPL A programming language and software environment for
+   statistical computing and graphics
+
+   [432]MINTO (Mixed Integer Optimizer, an [433]integer programming solver
+   which uses branch and bound algorithm) has publicly available source
+   code^[434][33] but is not open source.
+
+   [435]Proprietary licenses:
+
+   Name Brief info
+   [436]AIMMS A modeling language that allows to model linear, mixed
+   integer, and nonlinear optimization models. It also offers a tool for
+   constraint programming. Algorithm, in the forms of heuristics or exact
+   methods, such as Branch-and-Cut or Column Generation, can also be
+   implemented. The tool calls an appropriate solver such as CPLEX or
+   similar, to solve the optimization problem at hand. Academic licenses
+   are free of charge.
+   [437]ALGLIB A commercial edition of the copyleft licensed library. C++,
+   C#, Python.
+   [438]AMPL A popular modeling language for large-scale linear, mixed
+   integer and nonlinear optimisation with a free student limited version
+   available (500 variables and 500 constraints).
+   [439]Analytica A general modeling language and interactive development
+   environment. Its influence diagrams enable users to formulate problems
+   as graphs with nodes for decision variables, objectives, and
+   constraints. Analytica Optimizer Edition includes linear, mixed
+   integer, and nonlinear solvers and selects the solver to match the
+   problem. It also accepts other engines as plug-ins, including
+   [440]XPRESS, Gurobi, [441]Artelys Knitro, and [442]MOSEK.
+   [443]APMonitor API to MATLAB and Python. Solve example Linear
+   Programming (LP) problems through MATLAB, Python, or a web-interface.
+   [444]CPLEX Popular solver with an API for several programming
+   languages, and also has a modelling language and works with AIMMS,
+   AMPL, [445]GAMS, MPL, OpenOpt, OPL Development Studio, and [446]TOMLAB.
+   Free for academic use.
+   [447]Excel Solver Function A nonlinear solver adjusted to spreadsheets
+   in which function evaluations are based on the recalculating cells.
+   Basic version available as a standard add-on for Excel.
+   [448]FortMP
+   [449]GAMS
+   [450]Gurobi Optimizer
+   [451]IMSL Numerical Libraries Collections of math and statistical
+   algorithms available in C/C++, Fortran, Java and C#/.NET. Optimization
+   routines in the IMSL Libraries include unconstrained, linearly and
+   nonlinearly constrained minimizations, and linear programming
+   algorithms.
+   [452]LINDO Solver with an API for large scale optimization of linear,
+   integer, quadratic, conic and general nonlinear programs with
+   stochastic programming extensions. It offers a global optimization
+   procedure for finding guaranteed globally optimal solution to general
+   nonlinear programs with continuous and discrete variables. It also has
+   a statistical sampling API to integrate Monte-Carlo simulations into an
+   optimization framework. It has an algebraic modeling language
+   ([453]LINGO) and allows modeling within a spreadsheet
+   ([454]What'sBest).
+   [455]Maple A general-purpose programming-language for symbolic and
+   numerical computing.
+   [456]MATLAB A general-purpose and matrix-oriented programming-language
+   for numerical computing. Linear programming in MATLAB requires the
+   [457]Optimization Toolbox in addition to the base MATLAB product;
+   available routines include INTLINPROG and LINPROG
+   [458]Mathcad A WYSIWYG math editor. It has functions for solving both
+   linear and nonlinear optimization problems.
+   [459]Mathematica A general-purpose programming-language for
+   mathematics, including symbolic and numerical capabilities.
+   [460]MOSEK A solver for large scale optimization with API for several
+   languages (C++, java, .net, Matlab and python).
+   [461]NAG Numerical Library A collection of mathematical and statistical
+   routines developed by the [462]Numerical Algorithms Group for multiple
+   programming languages (C, C++, Fortran, Visual Basic, Java and C#) and
+   packages (MATLAB, Excel, R, LabVIEW). The Optimization chapter of the
+   NAG Library includes routines for linear programming problems with both
+   sparse and non-sparse linear constraint matrices, together with
+   routines for the optimization of quadratic, nonlinear, sums of squares
+   of linear or nonlinear functions with nonlinear, bounded or no
+   constraints. The NAG Library has routines for both local and global
+   optimization, and for continuous or integer problems.
+   [463]OptimJ A Java-based modeling language for optimization with a free
+   version available.^[464][34]^[465][35]
+   [466]SAS/OR A suite of solvers for Linear, Integer, Nonlinear,
+   Derivative-Free, Network, Combinatorial and Constraint Optimization;
+   the [467]Algebraic modeling language OPTMODEL; and a variety of
+   vertical solutions aimed at specific problems/markets, all of which are
+   fully integrated with the [468]SAS System.
+   [469]XPRESS Solver for large-scale linear programs, quadratic programs,
+   general nonlinear and mixed-integer programs. Has API for several
+   programming languages, also has a modelling language Mosel and works
+   with AMPL, [470]GAMS. Free for academic use.
+   [471]VisSim A visual [472]block diagram language for simulation of
+   [473]dynamical systems.
+
+See also
+
+   [[474]edit]
+
+     * [475]Convex programming
+     * [476]Dynamic programming
+     * [477]Expected shortfall § Optimization of expected shortfall
+     * [478]Input–output model
+     * [479]Job shop scheduling
+     * [480]Least absolute deviations
+     * [481]Least-squares spectral analysis
+     * [482]Linear algebra
+     * [483]Linear production game
+     * [484]Linear-fractional programming (LFP)
+     * [485]LP-type problem
+     * [486]Mathematical programming
+     * [487]Nonlinear programming
+     * [488]Odds algorithm used to solve optimal stopping problems
+     * [489]Oriented matroid
+     * [490]Quadratic programming, a superset of linear programming
+     * [491]Semidefinite programming
+     * [492]Shadow price
+     * [493]Simplex algorithm, used to solve LP problems
+
+Notes
+
+   [[494]edit]
+
+    1. [495]^ von Neumann, J. (1945). "A Model of General Economic
+       Equilibrium". The Review of Economic Studies. 13 (1): 1–9.
+       [496]doi:[497]10.2307/2296111. [498]JSTOR [499]2296111.
+    2. [500]^ Kemeny, J. G.; Morgenstern, O.; Thompson, G. L. (1956). "A
+       Generalization of the von Neumann Model of an Expanding Economy".
+       Econometrica. 24 (2): 115–135. [501]doi:[502]10.2307/1905746.
+       [503]JSTOR [504]1905746.
+    3. [505]^ Li, Wu (2019). General Equilibrium and Structural Dynamics:
+       Perspectives of New Structural Economics (in Chinese). Beijing:
+       Economic Science Press. pp. 122–125.
+       [506]ISBN [507]978-7-5218-0422-5.
+    4. ^ [508]^a [509]^b Gerard Sierksma; Yori Zwols (2015). Linear and
+       Integer Optimization: Theory and Practice (3rd ed.). CRC Press.
+       p. 1. [510]ISBN [511]978-1498710169.
+    5. [512]^ [513]"Linear programming | Definition & Facts | Britannica".
+       www.britannica.com. Retrieved 2023-11-20.
+    6. ^ [514]^a [515]^b [516]^c George B. Dantzig (April 1982).
+       [517]"Reminiscences about the origins of linear programming" (PDF).
+       Operations Research Letters. 1 (2): 43–48.
+       [518]doi:[519]10.1016/0167-6377(82)90043-8. [520]Archived from the
+       original on May 20, 2015.
+    7. [521]^ Alexander Schrijver (1998). Theory of Linear and Integer
+       Programming. John Wiley & Sons. pp. 221–222.
+       [522]ISBN [523]978-0-471-98232-6.
+    8. ^ [524]^a [525]^b [526]^c Dantzig, George B.; Thapa, Mukund Narain
+       (1997). Linear programming. New York: Springer. p. xxvii.
+       [527]ISBN [528]0387948333. [529]OCLC [530]35318475.
+    9. ^ [531]^a [532]^b [533]^c Leonid Khachiyan (1979). "A Polynomial
+       Algorithm for Linear Programming". Doklady Akademii Nauk SSSR. 224
+       (5): 1093–1096.
+   10. ^ [534]^a [535]^b Narendra Karmarkar (1984). "A New Polynomial-Time
+       Algorithm for Linear Programming". Combinatorica. 4 (4): 373–395.
+       [536]doi:[537]10.1007/BF02579150. [538]S2CID [539]7257867.
+   11. [540]^ M. Grundmann; V. Kwatra; I. Essa (2011). "Auto-directed
+       video stabilization with robust L1 optimal camera paths". [541]CVPR
+       2011 (PDF). pp. 225–232. [542]doi:[543]10.1109/CVPR.2011.5995525.
+       [544]ISBN [545]978-1-4577-0394-2. [546]S2CID [547]17707171.
+   12. [548]^ [549]Vazirani (2001, p. 112)
+   13. ^ [550]^a [551]^b [552]^c [553]Dantzig & Thapa (2003)
+   14. ^ [554]^a [555]^b [556]Padberg (1999)
+   15. ^ [557]^a [558]^b [559]^c [560]Fukuda, Komei; [561]Terlaky, Tamás
+       (1997). Thomas M. Liebling; Dominique de Werra (eds.). "Criss-cross
+       methods: A fresh view on pivot algorithms". Mathematical
+       Programming, Series B. 79 (1–3): 369–395.
+       [562]CiteSeerX [563]10.1.1.36.9373.
+       [564]doi:[565]10.1007/BF02614325. [566]MR [567]1464775.
+       [568]S2CID [569]2794181.
+   16. [570]^ [571]Borgwardt (1987)
+   17. [572]^ [573]Todd (2002)
+   18. [574]^ [575]Murty (1983)
+   19. [576]^ [577]Papadimitriou & Steiglitz
+   20. [578]^ Roos, C. (1990). "An exponential example for Terlaky's
+       pivoting rule for the criss-cross simplex method". Mathematical
+       Programming. Series A. 46 (1): 79–84.
+       [579]doi:[580]10.1007/BF01585729. [581]MR [582]1045573.
+       [583]S2CID [584]33463483.
+   21. [585]^ [586]Strang, Gilbert (1 June 1987). "Karmarkar's algorithm
+       and its place in applied mathematics". [587]The Mathematical
+       Intelligencer. 9 (2): 4–10. [588]doi:[589]10.1007/BF03025891.
+       [590]ISSN [591]0343-6993. [592]MR [593]0883185.
+       [594]S2CID [595]123541868.
+   22. [596]^ Vaidya, Pravin M. (1987). An algorithm for linear
+       programming which requires
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi>O</mi> </mrow> <mo stretchy="false">(</mo> <mo
+       stretchy="false">(</mo> <mo stretchy="false">(</mo> <mi>m</mi>
+       <mo>+</mo> <mi>n</mi> <mo stretchy="false">)</mo> <msup> <mi>n</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+       <mo>+</mo> <mo stretchy="false">(</mo> <mi>m</mi> <mo>+</mo>
+       <mi>n</mi> <msup> <mo stretchy="false">)</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>1.5</mn> </mrow> </msup> <mi>n</mi>
+       <mo stretchy="false">)</mo> <mi>L</mi> <mo stretchy="false">)</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle
+       {O}(((m+n)n^{2}+(m+n)^{1.5}n)L)}</annotation> </semantics> :MATH]
+       {\displaystyle {O}(((m+n)n^{2}+(m+n)^{1.5}n)L)} arithmetic
+       operations. 28th Annual IEEE Symposium on Foundations of Computer
+       Science. FOCS.
+   23. [597]^ Vaidya, Pravin M. (1989). "Speeding-up linear programming
+       using fast matrix multiplication". 30th Annual Symposium on
+       Foundations of Computer Science. 30th Annual Symposium on
+       Foundations of Computer Science. FOCS. pp. 332–337.
+       [598]doi:[599]10.1109/SFCS.1989.63499.
+       [600]ISBN [601]0-8186-1982-1.
+   24. [602]^ Lee, Yin-Tat; Sidford, Aaron (2015). Efficient inverse
+       maintenance and faster algorithms for linear programming. FOCS '15
+       Foundations of Computer Science. [603]arXiv:[604]1503.01752.
+   25. [605]^ Cohen, Michael B.; Lee, Yin-Tat; Song, Zhao (2018). Solving
+       Linear Programs in the Current Matrix Multiplication Time. 51st
+       Annual ACM Symposium on the Theory of Computing. STOC'19.
+       [606]arXiv:[607]1810.07896.
+   26. [608]^ Lee, Yin-Tat; Song, Zhao; Zhang, Qiuyi (2019). Solving
+       Empirical Risk Minimization in the Current Matrix Multiplication
+       Time. Conference on Learning Theory. COLT'19.
+       [609]arXiv:[610]1905.04447.
+   27. [611]^ Jiang, Shunhua; Song, Zhao; Weinstein, Omri; Zhang, Hengjie
+       (2020). Faster Dynamic Matrix Inverse for Faster LPs.
+       [612]arXiv:[613]2004.07470.
+   28. [614]^ Illés, Tibor; Terlaky, Tamás (2002). [615]"Pivot versus
+       interior point methods: Pros and cons". European Journal of
+       Operational Research. 140 (2): 170.
+       [616]CiteSeerX [617]10.1.1.646.3539.
+       [618]doi:[619]10.1016/S0377-2217(02)00061-9.
+   29. [620]^ Anstreicher, Kurt M.; Terlaky, Tamás (1994). [621]"A
+       Monotonic Build-Up Simplex Algorithm for Linear Programming".
+       Operations Research. 42 (3): 556–561.
+       [622]doi:[623]10.1287/opre.42.3.556. [624]ISSN [625]0030-364X.
+       [626]JSTOR [627]171894.
+   30. [628]^ [629]"lp_solve reference guide (5.5.2.5)". mit.edu.
+       Retrieved 2023-08-10.
+   31. [630]^ [631]"External Language Interfaces". Retrieved 3 December
+       2021.
+   32. [632]^ [633]"lp_solve command". Retrieved 3 December 2021.
+   33. [634]^ [635]"COR@L – Computational Optimization Research At
+       Lehigh". lehigh.edu.
+   34. [636]^
+       [637]http://www.in-ter-trans.eu/resources/Zesch_Hellingrath_2010_In
+       tegrated+Production-Distribution+Planning.pdf OptimJ used in an
+       optimization model for mixed-model assembly lines, University of
+       Münster
+   35. [638]^
+       [639]http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1
+       769/2076 [640]Archived 2011-06-29 at the [641]Wayback Machine
+       OptimJ used in an Approximate Subgame-Perfect Equilibrium
+       Computation Technique for Repeated Games
+
+References
+
+   [[642]edit]
+
+     *
+
+   Kantorovich, L. V. (1940). "Об одном эффективном методе решения
+   некоторых классов экстремальных проблем" [A new method of solving some
+   classes of extremal problems]. [643]Doklady Akad Sci SSSR. 28: 211–214.
+
+     F. L. Hitchcock: [644]The distribution of a product from several
+   sources to numerous localities, Journal of Mathematics and Physics, 20,
+   1941, 224–230.
+
+     G.B Dantzig: [645]Maximization of a linear function of variables
+   subject to linear inequalities, 1947. Published pp. 339–347 in T.C.
+   Koopmans (ed.):Activity Analysis of Production and Allocation, New
+   York-London 1951 (Wiley & Chapman-Hall)
+
+     J. E. Beasley, editor. Advances in Linear and Integer Programming.
+   Oxford Science, 1996. (Collection of surveys)
+
+     Bland, Robert G. (1977). "New Finite Pivoting Rules for the Simplex
+   Method". Mathematics of Operations Research. 2 (2): 103–107.
+   [646]doi:[647]10.1287/moor.2.2.103. [648]JSTOR [649]3689647.
+
+     Borgwardt, Karl-Heinz (1987). The Simplex Algorithm: A Probabilistic
+   Analysis. Algorithms and Combinatorics. Vol. 1. Springer-Verlag.
+   (Average behavior on random problems)
+
+     Richard W. Cottle, ed. The Basic George B. Dantzig. Stanford Business
+   Books, Stanford University Press, Stanford, California, 2003. (Selected
+   papers by [650]George B. Dantzig)
+
+     George B. Dantzig and Mukund N. Thapa. 1997. Linear programming 1:
+   Introduction. Springer-Verlag.
+
+     Dantzig, George B.; Thapa, Mukund N. (2003). Linear Programming 2:
+   Theory and Extensions. Springer-Verlag. (Comprehensive, covering e.g.
+   [651]pivoting and interior-point algorithms, large-scale problems,
+   [652]decomposition following Dantzig–Wolfe and [653]Benders, and
+   introducing [654]stochastic programming.)
+
+     Edmonds, Jack; Giles, Rick (1977). "A Min-Max Relation for Submodular
+   Functions on Graphs". Studies in Integer Programming. Annals of
+   Discrete Mathematics. Vol. 1. pp. 185–204.
+   [655]doi:[656]10.1016/S0167-5060(08)70734-9.
+   [657]ISBN [658]978-0-7204-0765-5.
+
+     Fukuda, Komei; Terlaky, Tamás (1997). Thomas M. Liebling; Dominique
+   de Werra (eds.). "Criss-cross methods: A fresh view on pivot
+   algorithms". Mathematical Programming, Series B. 79 (1–3): 369–395.
+   [659]CiteSeerX [660]10.1.1.36.9373. [661]doi:[662]10.1007/BF02614325.
+   [663]MR [664]1464775. [665]S2CID [666]2794181.
+
+     Gondzio, Jacek; Terlaky, Tamás (1996). [667]"3 A computational view
+   of interior point methods". In J. E. Beasley (ed.). Advances in linear
+   and integer programming. Oxford Lecture Series in Mathematics and its
+   Applications. Vol. 4. New York: Oxford University Press. pp. 103–144.
+   [668]MR [669]1438311. [670]Postscript file at website of Gondzio and
+   [671]at McMaster University website of Terlaky.
+
+     [672]Murty, Katta G. (1983). Linear programming. New York: John Wiley
+   & Sons, Inc. pp. xix+482. [673]ISBN [674]978-0-471-09725-9.
+   [675]MR [676]0720547. (comprehensive reference to classical
+   approaches).
+
+     Evar D. Nering and [677]Albert W. Tucker, 1993, Linear Programs and
+   Related Problems, Academic Press. (elementary)
+
+     Padberg, M. (1999). Linear Optimization and Extensions, Second
+   Edition. Springer-Verlag. (carefully written account of primal and dual
+   simplex algorithms and projective algorithms, with an introduction to
+   integer linear programming – featuring the [678]traveling salesman
+   problem for [679]Odysseus.)
+
+     [680]Papadimitriou, Christos H.; Steiglitz, Kenneth. Combinatorial
+   Optimization: Algorithms and Complexity (Corrected republication with a
+   new preface ed.). Dover. (computer science)
+
+     Todd, Michael J. (February 2002). "The many facets of linear
+   programming". Mathematical Programming. 91 (3): 417–436.
+   [681]doi:[682]10.1007/s101070100261. [683]S2CID [684]6464735. (Invited
+   survey, from the International Symposium on Mathematical Programming.)
+
+     Vanderbei, Robert J. (2001). Linear Programming: Foundations and
+   Extensions. Springer Verlag.
+
+     [685]Vazirani, Vijay V. (2001). Approximation Algorithms.
+   Springer-Verlag. [686]ISBN [687]978-3-540-65367-7. (Computer science)
+
+Further reading
+
+   [[688]edit]
+
+   [689]Library resources about
+   Linear programming
+     __________________________________________________________________
+
+     * [690]Resources in your library
+
+     * Dmitris Alevras and Manfred W. Padberg, [691]Linear Optimization
+       and Extensions: Problems and Solutions, Universitext,
+       Springer-Verlag, 2001. (Problems from Padberg with solutions.)
+     *
+
+   de Berg, Mark; van Kreveld, Marc; [692]Overmars, Mark; Schwarzkopf,
+   Otfried (2000). [693]Computational Geometry (2nd revised ed.).
+   [694]Springer-Verlag. [695]ISBN [696]978-3-540-65620-3. Chapter 4:
+   Linear Programming: pp. 63–94. Describes a randomized half-plane
+   intersection algorithm for linear programming.
+
+     [697]Michael R. Garey and [698]David S. Johnson (1979).
+   [699]Computers and Intractability: A Guide to the Theory of
+   NP-Completeness. W.H. Freeman. [700]ISBN [701]978-0-7167-1045-5. A6:
+   MP1: INTEGER PROGRAMMING, pg.245. (computer science, complexity theory)
+
+     Gärtner, Bernd; [702]Matoušek, Jiří (2006). Understanding and Using
+   Linear Programming. Berlin: Springer. [703]ISBN [704]3-540-30697-8.
+   (elementary introduction for mathematicians and computer scientists)
+
+     Cornelis Roos, Tamás Terlaky, Jean-Philippe Vial, Interior Point
+   Methods for Linear Optimization, Second Edition, Springer-Verlag, 2006.
+   (Graduate level)
+
+     Alexander Schrijver (2003). Combinatorial optimization: polyhedra and
+   efficiency. Springer.
+
+     Alexander Schrijver, Theory of Linear and Integer Programming. John
+   Wiley & sons, 1998, [705]ISBN [706]0-471-98232-6 (mathematical)
+
+     Gerard Sierksma; Yori Zwols (2015). Linear and Integer Optimization:
+   Theory and Practice. CRC Press. [707]ISBN [708]978-1-498-71016-9.; with
+   online solver: [709]https://online-optimizer.appspot.com/
+
+     Gerard Sierksma; Diptesh Ghosh (2010). Networks in Action; Text and
+   Computer Exercises in Network Optimization. Springer.
+   [710]ISBN [711]978-1-4419-5512-8. (linear optimization modeling)
+
+     H. P. Williams, [712]Model Building in Mathematical Programming,
+   Fifth Edition, 2013. (Modeling)
+
+     Stephen J. Wright, 1997, [713]Primal-Dual Interior-Point Methods,
+   SIAM. (Graduate level)
+
+     [714]Yinyu Ye, 1997, Interior Point Algorithms: Theory and Analysis,
+   Wiley. (Advanced graduate-level)
+
+     [715]Ziegler, Günter M., Chapters 1–3 and 6–7 in Lectures on
+   Polytopes, Springer-Verlag, New York, 1994. (Geometry)
+
+External links
+
+   [[716]edit]
+
+   Wikimedia Commons has media related to [717]Linear programming.
+
+     * [718]Guidance On Formulating LP Problems
+     * [719]Mathematical Programming Glossary
+     * [720]The Linear Programming FAQ
+     * [721]Benchmarks For Optimisation Software
+
+     * [722]v
+     * [723]t
+     * [724]e
+
+   [725]Optimization: [726]Algorithms, [727]methods, and [728]heuristics
+
+   [729]Unconstrained nonlinear
+   [730]Functions
+     * [731]Golden-section search
+     * [732]Powell's method
+     * [733]Line search
+     * [734]Nelder–Mead method
+     * [735]Successive parabolic interpolation
+
+   [736]Gradients
+    [737]Convergence
+     * [738]Trust region
+     * [739]Wolfe conditions
+
+   [740]Quasi–Newton
+     * [741]Berndt–Hall–Hall–Hausman
+     * [742]Broyden–Fletcher–Goldfarb–Shanno and [743]L-BFGS
+     * [744]Davidon–Fletcher–Powell
+     * [745]Symmetric rank-one (SR1)
+
+   [746]Other methods
+     * [747]Collinear gradients method
+     * [748]Conjugate gradient
+     * [749]Gauss–Newton
+     * [750]Gradient
+     * [751]Mirror
+     * [752]Levenberg–Marquardt
+     * [753]Powell's dog leg method
+     * [754]Truncated Newton
+
+   [755]Hessians
+     * [756]Newton's method
+
+   [757]Graph of a strictly concave quadratic function with unique
+   maximum. Optimization computes maxima and minima.
+
+   [758]Constrained nonlinear
+      General
+     * [759]Barrier methods
+     * [760]Penalty methods
+
+   Differentiable
+     * [761]Augmented Lagrangian methods
+     * [762]Sequential quadratic programming
+     * [763]Successive linear programming
+
+   [764]Convex optimization
+   [765]Convex
+   minimization
+     * [766]Cutting-plane method
+     * [767]Reduced gradient (Frank–Wolfe)
+     * [768]Subgradient method
+
+   Linear and
+   [769]quadratic
+   [770]Interior point
+     * [771]Affine scaling
+     * [772]Ellipsoid algorithm of Khachiyan
+     * [773]Projective algorithm of Karmarkar
+
+   [774]Basis-[775]exchange
+     * [776]Simplex algorithm of Dantzig
+     * [777]Revised simplex algorithm
+     * [778]Criss-cross algorithm
+     * [779]Principal pivoting algorithm of Lemke
+     * [780]Active-set method
+
+   [781]Combinatorial
+   Paradigms
+     * [782]Approximation algorithm
+     * [783]Dynamic programming
+     * [784]Greedy algorithm
+     * [785]Integer programming
+          + [786]Branch and bound/[787]cut
+
+   [788]Graph
+   algorithms
+   [789]Minimum
+   spanning tree
+     * [790]Borůvka
+     * [791]Prim
+     * [792]Kruskal
+
+   [793]Shortest path
+     * [794]Bellman–Ford
+          + [795]SPFA
+     * [796]Dijkstra
+     * [797]Floyd–Warshall
+
+   [798]Network flows
+     * [799]Dinic
+     * [800]Edmonds–Karp
+     * [801]Ford–Fulkerson
+     * [802]Push–relabel maximum flow
+
+        [803]Metaheuristics
+     * [804]Evolutionary algorithm
+     * [805]Hill climbing
+     * [806]Local search
+     * [807]Parallel metaheuristics
+     * [808]Simulated annealing
+     * [809]Spiral optimization algorithm
+     * [810]Tabu search
+
+     * [811]Software
+
+     * [812]v
+     * [813]t
+     * [814]e
+
+   [815]Complementarity problems and algorithms
+
+   Complementarity Problems
+
+     * Linear programming (LP)
+     * [816]Quadratic programming (QP)
+     * [817]Linear complementarity problem (LCP)
+     * [818]Mixed linear (MLCP)
+     * [819]Mixed (MCP)
+     * [820]Nonlinear (NCP)
+
+   [821]Basis-[822]exchange algorithms
+
+     * [823]Simplex ([824]Dantzig)
+     * [825]Revised simplex
+     * [826]Criss-cross
+     * [827]Lemke
+
+   [828]Authority control databases: National [829]Edit this at Wikidata
+     * [830]Germany
+     * [831]United States
+     * [832]France
+     * [833]BnF data
+     * [834]Japan
+     * [835]Czech Republic
+     * [836]Israel
+
+   Retrieved from
+   "[837]https://en.wikipedia.org/w/index.php?title=Linear_programming&old
+   id=1267520384#Integer_unknowns"
+
+   [838]Categories:
+     * [839]Linear programming
+     * [840]Convex optimization
+     * [841]Geometric algorithms
+     * [842]P-complete problems
+
+   Hidden categories:
+     * [843]CS1 Chinese-language sources (zh)
+     * [844]Webarchive template wayback links
+     * [845]Articles with short description
+     * [846]Short description is different from Wikidata
+     * [847]Commons category link from Wikidata
+
+     * This page was last edited on 5 January 2025, at 13:43 (UTC).
+     * Text is available under the [848]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [849]Terms of Use and
+       [850]Privacy Policy. Wikipedia® is a registered trademark of the
+       [851]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [852]Privacy policy
+     * [853]About Wikipedia
+     * [854]Disclaimers
+     * [855]Contact Wikipedia
+     * [856]Code of Conduct
+     * [857]Developers
+     * [858]Statistics
+     * [859]Cookie statement
+     * [860]Mobile view
+
+     * [861]Wikimedia Foundation
+     * [862]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/Linear_programming#Integer_unknowns
+   2. file:///w/index.php?title=Linear_programming&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Linear+programming
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Linear+programming
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Linear+programming
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Linear+programming
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html
+  29. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#History
+  30. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Uses
+  31. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Standard_form
+  32. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Example
+  33. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Augmented_form_(slack_form)
+  34. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Example_2
+  35. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Duality
+  36. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Variations
+  37. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Covering/packing_dualities
+  38. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Examples
+  39. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Complementary_slackness
+  40. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Theory
+  41. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Existence_of_optimal_solutions
+  42. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Optimal_vertices_(and_rays)_of_polyhedra
+  43. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Algorithms
+  44. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Basis_exchange_algorithms
+  45. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Simplex_algorithm_of_Dantzig
+  46. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Criss-cross_algorithm
+  47. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Interior_point
+  48. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Ellipsoid_algorithm,_following_Khachiyan
+  49. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Projective_algorithm_of_Karmarkar
+  50. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Vaidya's_87_algorithm
+  51. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Vaidya's_89_algorithm
+  52. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Input_sparsity_time_algorithms
+  53. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Current_matrix_multiplication_time_algorithm
+  54. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Comparison_of_interior-point_methods_and_simplex_algorithms
+  55. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Open_problems_and_recent_work
+  56. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Integer_unknowns
+  57. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Integral_linear_programs
+  58. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Solvers_and_scripting_(programming)_languages
+  59. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#See_also
+  60. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Notes
+  61. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#References
+  62. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Further_reading
+  63. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#External_links
+  64. https://af.wikipedia.org/wiki/Lineêre_programmering
+  65. https://ar.wikipedia.org/wiki/برمجة_خطية
+  66. https://ast.wikipedia.org/wiki/Programación_llinial
+  67. https://az.wikipedia.org/wiki/Xətti_proqramlaşdırma
+  68. https://bn.wikipedia.org/wiki/রৈখিক_কাম্যতমকরণ
+  69. https://be.wikipedia.org/wiki/Лінейнае_праграмаванне
+  70. https://bs.wikipedia.org/wiki/Linearno_programiranje
+  71. https://ca.wikipedia.org/wiki/Programació_lineal
+  72. https://cv.wikipedia.org/wiki/Линилле_программăласси
+  73. https://cs.wikipedia.org/wiki/Lineární_programování
+  74. https://de.wikipedia.org/wiki/Lineare_Optimierung
+  75. https://et.wikipedia.org/wiki/Lineaarprogrammeerimine
+  76. https://el.wikipedia.org/wiki/Γραμμικός_προγραμματισμός
+  77. https://es.wikipedia.org/wiki/Programación_lineal
+  78. https://eu.wikipedia.org/wiki/Programazio_lineal
+  79. https://fa.wikipedia.org/wiki/برنامه‌ریزی_خطی
+  80. https://fr.wikipedia.org/wiki/Optimisation_linéaire
+  81. https://gl.wikipedia.org/wiki/Programación_linear
+  82. https://ko.wikipedia.org/wiki/선형_계획법
+  83. https://hy.wikipedia.org/wiki/Գծային_ծրագրավորում
+  84. https://hi.wikipedia.org/wiki/रैखिक_क्रमादेशन
+  85. https://id.wikipedia.org/wiki/Program_linear
+  86. https://it.wikipedia.org/wiki/Programmazione_lineare
+  87. https://he.wikipedia.org/wiki/תכנון_ליניארי
+  88. https://kk.wikipedia.org/wiki/Сызықтық_бағдарламалау
+  89. https://hu.wikipedia.org/wiki/Lineáris_optimalizálás
+  90. https://ml.wikipedia.org/wiki/രേഖീയ_ഉത്തമീകരണം
+  91. https://nl.wikipedia.org/wiki/Lineair_programmeren
+  92. https://ja.wikipedia.org/wiki/線型計画法
+  93. https://no.wikipedia.org/wiki/Lineær_programmering
+  94. https://nn.wikipedia.org/wiki/Lineær_programmering
+  95. https://pl.wikipedia.org/wiki/Programowanie_liniowe
+  96. https://pt.wikipedia.org/wiki/Programação_linear
+  97. https://ro.wikipedia.org/wiki/Programare_liniară
+  98. https://ru.wikipedia.org/wiki/Линейное_программирование
+  99. https://sq.wikipedia.org/wiki/Programimi_linear
+ 100. https://scn.wikipedia.org/wiki/Prugrammazzioni_liniàri
+ 101. https://simple.wikipedia.org/wiki/Linear_programming
+ 102. https://sl.wikipedia.org/wiki/Linearno_programiranje
+ 103. https://ckb.wikipedia.org/wiki/پڕۆگرامی_ھێڵی
+ 104. https://sr.wikipedia.org/wiki/Линеарно_програмирање
+ 105. https://sh.wikipedia.org/wiki/Linearno_programiranje
+ 106. https://sv.wikipedia.org/wiki/Linjärprogrammering
+ 107. https://th.wikipedia.org/wiki/กำหนดการเชิงเส้น
+ 108. https://tr.wikipedia.org/wiki/Doğrusal_programlama
+ 109. https://uk.wikipedia.org/wiki/Лінійне_програмування
+ 110. https://ur.wikipedia.org/wiki/لکیری_برمجہ
+ 111. https://vi.wikipedia.org/wiki/Quy_hoạch_tuyến_tính
+ 112. https://zh-yue.wikipedia.org/wiki/線性規劃
+ 113. https://zh.wikipedia.org/wiki/线性规划
+ 114. https://www.wikidata.org/wiki/Special:EntityPage/Q202843#sitelinks-wikipedia
+ 115. file:///wiki/Linear_programming
+ 116. file:///wiki/Talk:Linear_programming
+ 117. file:///wiki/Linear_programming
+ 118. file:///w/index.php?title=Linear_programming&action=edit
+ 119. file:///w/index.php?title=Linear_programming&action=history
+ 120. file:///wiki/Linear_programming
+ 121. file:///w/index.php?title=Linear_programming&action=edit
+ 122. file:///w/index.php?title=Linear_programming&action=history
+ 123. file:///wiki/Special:WhatLinksHere/Linear_programming
+ 124. file:///wiki/Special:RecentChangesLinked/Linear_programming
+ 125. file:///wiki/Wikipedia:File_Upload_Wizard
+ 126. file:///wiki/Special:SpecialPages
+ 127. file:///w/index.php?title=Linear_programming&oldid=1267520384
+ 128. file:///w/index.php?title=Linear_programming&action=info
+ 129. file:///w/index.php?title=Special:CiteThisPage&page=Linear_programming&id=1267520384&wpFormIdentifier=titleform
+ 130. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/Linear_programming#Integer_unknowns
+ 131. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/Linear_programming#Integer_unknowns
+ 132. file:///w/index.php?title=Special:DownloadAsPdf&page=Linear_programming&action=show-download-screen
+ 133. file:///w/index.php?title=Linear_programming&printable=yes
+ 134. https://commons.wikimedia.org/wiki/Category:Linear_programming
+ 135. https://en.wikiquote.org/wiki/Linear_programming
+ 136. https://www.wikidata.org/wiki/Special:EntityPage/Q202843
+ 137. file:///w/index.php?title=0-1_integer_programming&redirect=no
+ 138. file:///wiki/Broadcast_programming
+ 139. file:///wiki/File:Linear_optimization_in_a_2-dimensional_polytope.svg
+ 140. file:///wiki/Polygon
+ 141. file:///wiki/Polytope
+ 142. file:///wiki/Level_set
+ 143. file:///wiki/File:3dpoly.svg
+ 144. file:///wiki/Polyhedron
+ 145. file:///wiki/Plane_(geometry)
+ 146. file:///wiki/Mathematical_model
+ 147. file:///wiki/Linear_function#As_a_polynomial_function
+ 148. file:///wiki/Mathematical_optimization
+ 149. file:///wiki/Mathematical_optimization
+ 150. file:///wiki/Linear
+ 151. file:///wiki/Objective_function
+ 152. file:///wiki/Linear_equality
+ 153. file:///wiki/Linear_inequality
+ 154. file:///wiki/Constraint_(mathematics)
+ 155. file:///wiki/Feasible_region
+ 156. file:///wiki/Convex_polytope
+ 157. file:///wiki/Intersection_(mathematics)
+ 158. file:///wiki/Half-space_(geometry)
+ 159. file:///wiki/Real_number
+ 160. file:///wiki/Affine_function
+ 161. file:///wiki/Algorithm
+ 162. file:///wiki/Polytope
+ 163. file:///wiki/Canonical_form
+ 164. file:///wiki/Vector_space
+ 165. file:///wiki/Matrix_(mathematics)
+ 166. file:///wiki/Objective_function
+ 167. file:///wiki/Convex_polytope
+ 168. file:///wiki/Economics
+ 169. file:///wiki/John_von_Neumann
+ 170. file:///wiki/Dual_linear_program
+ 171. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-1
+ 172. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-2
+ 173. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-3
+ 174. file:///wiki/Automated_planning_and_scheduling
+ 175. file:///wiki/Routing
+ 176. file:///wiki/Scheduling_(production_processes)
+ 177. file:///wiki/Assignment_problem
+ 178. file:///w/index.php?title=Linear_programming&action=edit&section=1
+ 179. file:///wiki/File:Leonid_Kantorovich_1975.jpg
+ 180. file:///wiki/Leonid_Kantorovich
+ 181. file:///wiki/File:JohnvonNeumann-LosAlamos.gif
+ 182. file:///wiki/John_von_Neumann
+ 183. file:///wiki/Joseph_Fourier
+ 184. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-SierksmaZwols2015-4
+ 185. file:///wiki/Fourier–Motzkin_elimination
+ 186. file:///wiki/Leonid_Kantorovich
+ 187. file:///wiki/Wassily_Leontief
+ 188. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-5
+ 189. file:///wiki/USSR
+ 190. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-dantzig1982-6
+ 191. file:///wiki/Tjalling_Koopmans
+ 192. file:///wiki/Nobel_Memorial_Prize_in_Economic_Sciences
+ 193. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-SierksmaZwols2015-4
+ 194. file:///wiki/Frank_Lauren_Hitchcock
+ 195. file:///wiki/Simplex_method
+ 196. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-Schrijver1998-7
+ 197. file:///wiki/George_Dantzig
+ 198. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-:0-8
+ 199. file:///wiki/Simplex_algorithm
+ 200. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-:0-8
+ 201. file:///wiki/John_von_Neumann
+ 202. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Duality
+ 203. file:///wiki/Game_theory
+ 204. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-:0-8
+ 205. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-dantzig1982-6
+ 206. file:///wiki/Abundance_of_the_chemical_elements
+ 207. file:///wiki/Observable_universe
+ 208. file:///wiki/Simplex_algorithm
+ 209. file:///wiki/Leonid_Khachiyan
+ 210. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-khachiyan79-9
+ 211. file:///wiki/Narendra_Karmarkar
+ 212. file:///wiki/Interior-point_method
+ 213. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-karmarkar84-10
+ 214. file:///w/index.php?title=Linear_programming&action=edit&section=2
+ 215. file:///wiki/Operations_research
+ 216. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-dantzig1982-6
+ 217. file:///wiki/Network_flow_problem
+ 218. file:///wiki/Multi-commodity_flow_problem
+ 219. file:///wiki/Microeconomics
+ 220. file:///wiki/Profit_maximization
+ 221. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-11
+ 222. file:///w/index.php?title=Linear_programming&action=edit&section=3
+ 223. file:///wiki/Matrix_(mathematics)
+ 224. file:///wiki/Variable_(programming)
+ 225. file:///w/index.php?title=Linear_programming&action=edit&section=4
+ 226. file:///wiki/File:Linear_programming_feasible_region_farmer_example.svg
+ 227. file:///wiki/Hectare
+ 228. file:///w/index.php?title=Linear_programming&action=edit&section=5
+ 229. file:///wiki/Simplex_algorithm
+ 230. file:///wiki/Slack_variable
+ 231. file:///wiki/Block_matrix
+ 232. file:///w/index.php?title=Linear_programming&action=edit&section=6
+ 233. file:///w/index.php?title=Linear_programming&action=edit&section=7
+ 234. file:///wiki/Dual_linear_program
+ 235. file:///wiki/Dual_problem
+ 236. file:///wiki/Weak_duality
+ 237. file:///wiki/Strong_duality
+ 238. file:///wiki/Dual_linear_program
+ 239. file:///w/index.php?title=Linear_programming&action=edit&section=8
+ 240. file:///w/index.php?title=Linear_programming&action=edit&section=9
+ 241. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Covering/packing_dualities
+ 242. file:///wiki/Covering_problems
+ 243. file:///wiki/Packing_problems
+ 244. file:///wiki/Set_cover_problem
+ 245. file:///wiki/Set_packing
+ 246. file:///wiki/Edge_cover
+ 247. file:///wiki/Matching_(graph_theory)
+ 248. file:///wiki/Vertex_cover
+ 249. file:///wiki/Independent_set_(graph_theory)
+ 250. file:///wiki/Bin_covering_problem
+ 251. file:///wiki/Bin_packing_problem
+ 252. file:///wiki/Polygon_covering
+ 253. file:///wiki/Rectangle_packing
+ 254. file:///wiki/Template:Covering/packing-problem_pairs
+ 255. file:///wiki/Template_talk:Covering/packing-problem_pairs
+ 256. file:///wiki/Special:EditPage/Template:Covering/packing-problem_pairs
+ 257. file:///wiki/Covering_problem
+ 258. file:///wiki/Packing_problem
+ 259. file:///w/index.php?title=Linear_programming&action=edit&section=10
+ 260. file:///wiki/Linear_programming_relaxation
+ 261. file:///wiki/Approximation_algorithms
+ 262. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-12
+ 263. file:///wiki/Set_packing
+ 264. file:///wiki/Independent_set_problem
+ 265. file:///wiki/Matching_(graph_theory)
+ 266. file:///wiki/Set_cover_problem
+ 267. file:///wiki/Vertex_cover_problem
+ 268. file:///wiki/Dominating_set_problem
+ 269. file:///wiki/Fractional_coloring
+ 270. file:///wiki/Graph_(discrete_mathematics)
+ 271. file:///wiki/Independent_set_(graph_theory)
+ 272. file:///w/index.php?title=Linear_programming&action=edit&section=11
+ 273. file:///w/index.php?title=Linear_programming&action=edit&section=12
+ 274. file:///w/index.php?title=Linear_programming&action=edit&section=13
+ 275. file:///wiki/Feasible_region
+ 276. file:///wiki/Convex_polytope
+ 277. file:///wiki/Linear_functional
+ 278. file:///wiki/Convex_function
+ 279. file:///wiki/Local_minimum
+ 280. file:///wiki/Global_minimum
+ 281. file:///wiki/Concave_function
+ 282. file:///wiki/Local_maximum
+ 283. file:///wiki/Global_maximum
+ 284. file:///wiki/Polytope
+ 285. file:///w/index.php?title=Linear_programming&action=edit&section=14
+ 286. file:///wiki/Maximum_principle
+ 287. file:///wiki/Convex_function
+ 288. file:///wiki/Concave_function
+ 289. file:///wiki/Simplex_algorithm
+ 290. file:///w/index.php?title=Linear_programming&action=edit&section=15
+ 291. file:///wiki/List_of_numerical_analysis_topics#Linear_programming
+ 292. file:///wiki/File:Linear_Programming_Feasible_Region.svg
+ 293. file:///wiki/Convex_set
+ 294. file:///wiki/Feasible_region
+ 295. file:///wiki/Simple_polygon
+ 296. file:///w/index.php?title=Linear_programming&action=edit&section=16
+ 297. file:///w/index.php?title=Linear_programming&action=edit&section=17
+ 298. file:///wiki/Simplex_algorithm
+ 299. file:///wiki/George_Dantzig
+ 300. file:///wiki/Polytope
+ 301. file:///wiki/Simplex_algorithm#Degeneracy:_stalling_and_cycling
+ 302. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-DT03-13
+ 303. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-Padberg-14
+ 304. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-Padberg-14
+ 305. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-FukudaTerlaky-15
+ 306. file:///wiki/Algorithm
+ 307. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-16
+ 308. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-DT03-13
+ 309. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-Todd-17
+ 310. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-DT03-13
+ 311. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-Murty-18
+ 312. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-PS-19
+ 313. file:///wiki/Polynomial_time
+ 314. file:///wiki/P_(complexity)
+ 315. file:///w/index.php?title=Linear_programming&action=edit&section=18
+ 316. file:///wiki/Criss-cross_algorithm
+ 317. file:///wiki/Time_complexity
+ 318. file:///wiki/Unit_cube
+ 319. file:///wiki/Klee–Minty_cube
+ 320. file:///wiki/Worst-case_complexity
+ 321. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-FukudaTerlaky-15
+ 322. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-Roos-20
+ 323. file:///w/index.php?title=Linear_programming&action=edit&section=19
+ 324. file:///w/index.php?title=Linear_programming&action=edit&section=20
+ 325. file:///wiki/Worst-case_complexity
+ 326. file:///wiki/Polynomial-time
+ 327. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-khachiyan79-9
+ 328. file:///wiki/Leonid_Khachiyan
+ 329. file:///wiki/Ellipsoid_method
+ 330. file:///wiki/Iterative_method
+ 331. file:///wiki/Naum_Z._Shor
+ 332. file:///wiki/Approximation_algorithm
+ 333. file:///w/index.php?title=Linear_programming&action=edit&section=21
+ 334. file:///wiki/Karmarkar's_algorithm
+ 335. file:///wiki/Narendra_Karmarkar
+ 336. file:///wiki/Projective_method
+ 337. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-karmarkar84-10
+ 338. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-khachiyan79-9
+ 339. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-Strang-21
+ 340. file:///w/index.php?title=Linear_programming&action=edit&section=22
+ 341. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-22
+ 342. file:///w/index.php?title=Linear_programming&action=edit&section=23
+ 343. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-23
+ 344. file:///w/index.php?title=Linear_programming&action=edit&section=24
+ 345. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-24
+ 346. file:///wiki/Soft_O_notation
+ 347. file:///w/index.php?title=Linear_programming&action=edit&section=25
+ 348. file:///wiki/Matrix_multiplication
+ 349. file:///wiki/Matrix_multiplication
+ 350. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-25
+ 351. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-26
+ 352. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-27
+ 353. file:///w/index.php?title=Linear_programming&action=edit&section=26
+ 354. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-28
+ 355. file:///w/index.php?title=Linear_programming&action=edit&section=27
+ 356. file:///wiki/List_of_unsolved_problems_in_computer_science
+ 357. file:///wiki/Strongly-polynomial_time
+ 358. file:///wiki/Stephen_Smale
+ 359. file:///wiki/Smale's_problems
+ 360. file:///wiki/Strongly-polynomial_time
+ 361. file:///wiki/Ellipsoid_method
+ 362. file:///wiki/Interior_point_method
+ 363. file:///wiki/Hirsch_conjecture
+ 364. file:///wiki/Graph_diameter
+ 365. file:///wiki/Graph_(discrete_mathematics)
+ 366. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-29
+ 367. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-FukudaTerlaky-15
+ 368. file:///w/index.php?title=Linear_programming&action=edit&section=28
+ 369. file:///wiki/Integer_programming
+ 370. file:///wiki/NP-hard
+ 371. file:///wiki/Karp's_21_NP-complete_problems
+ 372. file:///wiki/Totally_unimodular
+ 373. file:///wiki/Total_dual_integrality
+ 374. file:///wiki/Cutting-plane_method
+ 375. file:///wiki/Branch_and_bound
+ 376. file:///wiki/Branch_and_cut
+ 377. file:///wiki/Branch_and_price
+ 378. file:///wiki/Delayed_column_generation
+ 379. file:///wiki/Manfred_W._Padberg
+ 380. file:///w/index.php?title=Linear_programming&action=edit&section=29
+ 381. file:///wiki/Integral_polytope
+ 382. file:///wiki/Combinatorial_optimization
+ 383. file:///wiki/Linear_programming_relaxation
+ 384. file:///wiki/Totally_unimodular_matrix
+ 385. file:///wiki/Total_dual_integrality
+ 386. file:///wiki/Submodular_flow
+ 387. file:///w/index.php?title=Linear_programming&action=edit&section=30
+ 388. file:///wiki/Permissive_free_software_licence
+ 389. file:///wiki/Gekko_(optimization_software)
+ 390. file:///wiki/MIT_License
+ 391. file:///wiki/Quadratic_programming
+ 392. file:///wiki/Quadratically_constrained_quadratic_program
+ 393. file:///wiki/Nonlinear_programming
+ 394. file:///wiki/Mixed_integer_programming
+ 395. file:///wiki/GLOP
+ 396. file:///wiki/Apache_License
+ 397. file:///wiki/JuMP
+ 398. file:///wiki/MPL_License
+ 399. file:///wiki/Quadratic_programming
+ 400. file:///wiki/Quadratically_constrained_quadratic_program
+ 401. file:///wiki/Semidefinite_programming
+ 402. file:///wiki/Second-order_cone_programming
+ 403. file:///wiki/Nonlinear_programming
+ 404. file:///wiki/Mixed_integer_programming
+ 405. file:///wiki/Pyomo
+ 406. file:///wiki/BSD_licenses
+ 407. file:///wiki/SCIP_(optimization_software)
+ 408. file:///wiki/Apache_License
+ 409. file:///wiki/SuanShu_numerical_library
+ 410. file:///wiki/Apache_License
+ 411. file:///wiki/Quadratic_programming
+ 412. file:///wiki/SOCP
+ 413. file:///wiki/Semidefinite_programming
+ 414. file:///wiki/Sequential_quadratic_programming
+ 415. file:///wiki/Copyleft
+ 416. file:///wiki/ALGLIB
+ 417. file:///wiki/Cassowary_constraint_solver
+ 418. file:///wiki/COIN-OR_CLP
+ 419. file:///wiki/GNU_Linear_Programming_Kit
+ 420. file:///wiki/API
+ 421. file:///wiki/Flow_network
+ 422. file:///wiki/AMPL
+ 423. file:///wiki/GNU_MathProg
+ 424. file:///wiki/Lp_solve
+ 425. file:///wiki/Mixed-integer_programming
+ 426. file:///wiki/MPS_(format)
+ 427. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-30
+ 428. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-31
+ 429. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-32
+ 430. file:///wiki/Qoca
+ 431. file:///wiki/R-Project
+ 432. file:///wiki/MINTO
+ 433. file:///wiki/Integer_programming
+ 434. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-33
+ 435. file:///wiki/Proprietary_software
+ 436. file:///wiki/AIMMS
+ 437. file:///wiki/ALGLIB
+ 438. file:///wiki/AMPL
+ 439. file:///wiki/Analytica_(software)
+ 440. file:///wiki/XPRESS
+ 441. file:///wiki/Artelys_Knitro
+ 442. file:///wiki/MOSEK
+ 443. file:///wiki/APMonitor
+ 444. file:///wiki/CPLEX
+ 445. file:///wiki/General_Algebraic_Modeling_System
+ 446. file:///wiki/TOMLAB
+ 447. file:///wiki/Microsoft_Excel
+ 448. file:///wiki/FortMP
+ 449. file:///wiki/General_Algebraic_Modeling_System
+ 450. file:///wiki/Gurobi_Optimizer
+ 451. file:///wiki/IMSL_Numerical_Libraries
+ 452. file:///wiki/LINDO
+ 453. file:///wiki/Lingo_(programming_language)
+ 454. file:///w/index.php?title=What'sBest&action=edit&redlink=1
+ 455. file:///wiki/Maple_(software)
+ 456. file:///wiki/MATLAB
+ 457. file:///wiki/Optimization_Toolbox
+ 458. file:///wiki/Mathcad
+ 459. file:///wiki/Mathematica
+ 460. file:///wiki/MOSEK
+ 461. file:///wiki/NAG_Numerical_Library
+ 462. file:///wiki/Numerical_Algorithms_Group
+ 463. file:///wiki/OptimJ
+ 464. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-34
+ 465. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_note-35
+ 466. file:///wiki/SAS_System
+ 467. file:///wiki/Algebraic_modeling_language
+ 468. file:///wiki/SAS_System
+ 469. file:///wiki/FICO_Xpress
+ 470. file:///wiki/General_Algebraic_Modeling_System
+ 471. file:///wiki/VisSim
+ 472. file:///wiki/Block_diagram
+ 473. file:///wiki/Dynamical_system
+ 474. file:///w/index.php?title=Linear_programming&action=edit&section=31
+ 475. file:///wiki/Convex_programming
+ 476. file:///wiki/Dynamic_programming
+ 477. file:///wiki/Expected_shortfall#Optimization_of_expected_shortfall
+ 478. file:///wiki/Input–output_model
+ 479. file:///wiki/Job_shop_scheduling
+ 480. file:///wiki/Least_absolute_deviations
+ 481. file:///wiki/Least-squares_spectral_analysis
+ 482. file:///wiki/Linear_algebra
+ 483. file:///wiki/Linear_production_game
+ 484. file:///wiki/Linear-fractional_programming_(LFP)
+ 485. file:///wiki/LP-type_problem
+ 486. file:///wiki/Mathematical_programming
+ 487. file:///wiki/Nonlinear_programming
+ 488. file:///wiki/Odds_algorithm
+ 489. file:///wiki/Oriented_matroid
+ 490. file:///wiki/Quadratic_programming
+ 491. file:///wiki/Semidefinite_programming
+ 492. file:///wiki/Shadow_price
+ 493. file:///wiki/Simplex_algorithm
+ 494. file:///w/index.php?title=Linear_programming&action=edit&section=32
+ 495. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-1
+ 496. file:///wiki/Doi_(identifier)
+ 497. https://doi.org/10.2307/2296111
+ 498. file:///wiki/JSTOR_(identifier)
+ 499. https://www.jstor.org/stable/2296111
+ 500. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-2
+ 501. file:///wiki/Doi_(identifier)
+ 502. https://doi.org/10.2307/1905746
+ 503. file:///wiki/JSTOR_(identifier)
+ 504. https://www.jstor.org/stable/1905746
+ 505. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-3
+ 506. file:///wiki/ISBN_(identifier)
+ 507. file:///wiki/Special:BookSources/978-7-5218-0422-5
+ 508. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-SierksmaZwols2015_4-0
+ 509. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-SierksmaZwols2015_4-1
+ 510. file:///wiki/ISBN_(identifier)
+ 511. file:///wiki/Special:BookSources/978-1498710169
+ 512. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-5
+ 513. https://www.britannica.com/science/linear-programming-mathematics
+ 514. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-dantzig1982_6-0
+ 515. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-dantzig1982_6-1
+ 516. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-dantzig1982_6-2
+ 517. https://apps.dtic.mil/sti/pdfs/ADA112060.pdf
+ 518. file:///wiki/Doi_(identifier)
+ 519. https://doi.org/10.1016/0167-6377(82)90043-8
+ 520. https://web.archive.org/web/20150520183722/http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA112060
+ 521. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-Schrijver1998_7-0
+ 522. file:///wiki/ISBN_(identifier)
+ 523. file:///wiki/Special:BookSources/978-0-471-98232-6
+ 524. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-:0_8-0
+ 525. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-:0_8-1
+ 526. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-:0_8-2
+ 527. file:///wiki/ISBN_(identifier)
+ 528. file:///wiki/Special:BookSources/0387948333
+ 529. file:///wiki/OCLC_(identifier)
+ 530. https://search.worldcat.org/oclc/35318475
+ 531. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-khachiyan79_9-0
+ 532. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-khachiyan79_9-1
+ 533. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-khachiyan79_9-2
+ 534. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-karmarkar84_10-0
+ 535. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-karmarkar84_10-1
+ 536. file:///wiki/Doi_(identifier)
+ 537. https://doi.org/10.1007/BF02579150
+ 538. file:///wiki/S2CID_(identifier)
+ 539. https://api.semanticscholar.org/CorpusID:7257867
+ 540. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-11
+ 541. https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37041.pdf
+ 542. file:///wiki/Doi_(identifier)
+ 543. https://doi.org/10.1109/CVPR.2011.5995525
+ 544. file:///wiki/ISBN_(identifier)
+ 545. file:///wiki/Special:BookSources/978-1-4577-0394-2
+ 546. file:///wiki/S2CID_(identifier)
+ 547. https://api.semanticscholar.org/CorpusID:17707171
+ 548. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-12
+ 549. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#CITEREFVazirani2001
+ 550. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-DT03_13-0
+ 551. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-DT03_13-1
+ 552. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-DT03_13-2
+ 553. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#CITEREFDantzigThapa2003
+ 554. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-Padberg_14-0
+ 555. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-Padberg_14-1
+ 556. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#CITEREFPadberg1999
+ 557. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-FukudaTerlaky_15-0
+ 558. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-FukudaTerlaky_15-1
+ 559. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-FukudaTerlaky_15-2
+ 560. file:///wiki/Komei_Fukuda
+ 561. file:///wiki/Tamás_Terlaky
+ 562. file:///wiki/CiteSeerX_(identifier)
+ 563. https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.9373
+ 564. file:///wiki/Doi_(identifier)
+ 565. https://doi.org/10.1007/BF02614325
+ 566. file:///wiki/MR_(identifier)
+ 567. https://mathscinet.ams.org/mathscinet-getitem?mr=1464775
+ 568. file:///wiki/S2CID_(identifier)
+ 569. https://api.semanticscholar.org/CorpusID:2794181
+ 570. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-16
+ 571. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#CITEREFBorgwardt1987
+ 572. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-Todd_17-0
+ 573. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#CITEREFTodd2002
+ 574. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-Murty_18-0
+ 575. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#CITEREFMurty1983
+ 576. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-PS_19-0
+ 577. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#CITEREFPapadimitriouSteiglitz
+ 578. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-Roos_20-0
+ 579. file:///wiki/Doi_(identifier)
+ 580. https://doi.org/10.1007/BF01585729
+ 581. file:///wiki/MR_(identifier)
+ 582. https://mathscinet.ams.org/mathscinet-getitem?mr=1045573
+ 583. file:///wiki/S2CID_(identifier)
+ 584. https://api.semanticscholar.org/CorpusID:33463483
+ 585. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-Strang_21-0
+ 586. file:///wiki/Gilbert_Strang
+ 587. file:///wiki/The_Mathematical_Intelligencer
+ 588. file:///wiki/Doi_(identifier)
+ 589. https://doi.org/10.1007/BF03025891
+ 590. file:///wiki/ISSN_(identifier)
+ 591. https://search.worldcat.org/issn/0343-6993
+ 592. file:///wiki/MR_(identifier)
+ 593. https://mathscinet.ams.org/mathscinet-getitem?mr=0883185
+ 594. file:///wiki/S2CID_(identifier)
+ 595. https://api.semanticscholar.org/CorpusID:123541868
+ 596. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-22
+ 597. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-23
+ 598. file:///wiki/Doi_(identifier)
+ 599. https://doi.org/10.1109/SFCS.1989.63499
+ 600. file:///wiki/ISBN_(identifier)
+ 601. file:///wiki/Special:BookSources/0-8186-1982-1
+ 602. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-24
+ 603. file:///wiki/ArXiv_(identifier)
+ 604. https://arxiv.org/abs/1503.01752
+ 605. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-25
+ 606. file:///wiki/ArXiv_(identifier)
+ 607. https://arxiv.org/abs/1810.07896
+ 608. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-26
+ 609. file:///wiki/ArXiv_(identifier)
+ 610. https://arxiv.org/abs/1905.04447
+ 611. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-27
+ 612. file:///wiki/ArXiv_(identifier)
+ 613. https://arxiv.org/abs/2004.07470
+ 614. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-28
+ 615. https://strathprints.strath.ac.uk/9200/
+ 616. file:///wiki/CiteSeerX_(identifier)
+ 617. https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.646.3539
+ 618. file:///wiki/Doi_(identifier)
+ 619. https://doi.org/10.1016/S0377-2217(02)00061-9
+ 620. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-29
+ 621. https://doi.org/10.1287/opre.42.3.556
+ 622. file:///wiki/Doi_(identifier)
+ 623. https://doi.org/10.1287/opre.42.3.556
+ 624. file:///wiki/ISSN_(identifier)
+ 625. https://search.worldcat.org/issn/0030-364X
+ 626. file:///wiki/JSTOR_(identifier)
+ 627. https://www.jstor.org/stable/171894
+ 628. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-30
+ 629. https://web.mit.edu/lpsolve/doc/index.htm
+ 630. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-31
+ 631. http://lpsolve.sourceforge.net/5.5/XLI.htm
+ 632. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-32
+ 633. http://lpsolve.sourceforge.net/5.5/lp_solve.htm
+ 634. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-33
+ 635. http://coral.ie.lehigh.edu/~minto/download.html
+ 636. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-34
+ 637. http://www.in-ter-trans.eu/resources/Zesch_Hellingrath_2010_Integrated+Production-Distribution+Planning.pdf
+ 638. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#cite_ref-35
+ 639. http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1769/2076
+ 640. https://web.archive.org/web/20110629022829/http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1769/2076
+ 641. file:///wiki/Wayback_Machine
+ 642. file:///w/index.php?title=Linear_programming&action=edit&section=33
+ 643. file:///wiki/Proceedings_of_the_USSR_Academy_of_Sciences
+ 644. https://onlinelibrary.wiley.com/doi/abs/10.1002/sapm1941201224
+ 645. https://books.google.com/books?id=ZpYca36h464C&dq="Maximization+of+a+linear+function+of+variables+subject+to+linear+inequalities"&pg=PA24
+ 646. file:///wiki/Doi_(identifier)
+ 647. https://doi.org/10.1287/moor.2.2.103
+ 648. file:///wiki/JSTOR_(identifier)
+ 649. https://www.jstor.org/stable/3689647
+ 650. file:///wiki/George_B._Dantzig
+ 651. file:///wiki/Simplex_algorithm
+ 652. file:///wiki/Dantzig–Wolfe_decomposition
+ 653. file:///wiki/Benders'_decomposition
+ 654. file:///wiki/Stochastic_programming
+ 655. file:///wiki/Doi_(identifier)
+ 656. https://doi.org/10.1016/S0167-5060(08)70734-9
+ 657. file:///wiki/ISBN_(identifier)
+ 658. file:///wiki/Special:BookSources/978-0-7204-0765-5
+ 659. file:///wiki/CiteSeerX_(identifier)
+ 660. https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.9373
+ 661. file:///wiki/Doi_(identifier)
+ 662. https://doi.org/10.1007/BF02614325
+ 663. file:///wiki/MR_(identifier)
+ 664. https://mathscinet.ams.org/mathscinet-getitem?mr=1464775
+ 665. file:///wiki/S2CID_(identifier)
+ 666. https://api.semanticscholar.org/CorpusID:2794181
+ 667. http://www.maths.ed.ac.uk/~gondzio/CV/oxford.ps
+ 668. file:///wiki/MR_(identifier)
+ 669. https://mathscinet.ams.org/mathscinet-getitem?mr=1438311
+ 670. http://www.maths.ed.ac.uk/~gondzio/CV/oxford.ps
+ 671. http://www.cas.mcmaster.ca/~terlaky/files/dut-twi-94-73.ps.gz
+ 672. file:///w/index.php?title=Katta_G._Murty&action=edit&redlink=1
+ 673. file:///wiki/ISBN_(identifier)
+ 674. file:///wiki/Special:BookSources/978-0-471-09725-9
+ 675. file:///wiki/MR_(identifier)
+ 676. https://mathscinet.ams.org/mathscinet-getitem?mr=0720547
+ 677. file:///wiki/Albert_W._Tucker
+ 678. file:///wiki/Traveling_salesman_problem
+ 679. file:///wiki/Odysseus
+ 680. file:///wiki/Christos_H._Papadimitriou
+ 681. file:///wiki/Doi_(identifier)
+ 682. https://doi.org/10.1007/s101070100261
+ 683. file:///wiki/S2CID_(identifier)
+ 684. https://api.semanticscholar.org/CorpusID:6464735
+ 685. file:///wiki/Vijay_Vazirani
+ 686. file:///wiki/ISBN_(identifier)
+ 687. file:///wiki/Special:BookSources/978-3-540-65367-7
+ 688. file:///w/index.php?title=Linear_programming&action=edit&section=34
+ 689. file:///wiki/Wikipedia:The_Wikipedia_Library
+ 690. https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Linear+programming
+ 691. https://books.google.com/books?id=RAUyB8NDHJwC
+ 692. file:///wiki/Mark_Overmars
+ 693. https://archive.org/details/computationalgeo00berg
+ 694. file:///wiki/Springer-Verlag
+ 695. file:///wiki/ISBN_(identifier)
+ 696. file:///wiki/Special:BookSources/978-3-540-65620-3
+ 697. file:///wiki/Michael_R._Garey
+ 698. file:///wiki/David_S._Johnson
+ 699. file:///wiki/Computers_and_Intractability:_A_Guide_to_the_Theory_of_NP-Completeness
+ 700. file:///wiki/ISBN_(identifier)
+ 701. file:///wiki/Special:BookSources/978-0-7167-1045-5
+ 702. file:///wiki/Jiří_Matoušek_(mathematician)
+ 703. file:///wiki/ISBN_(identifier)
+ 704. file:///wiki/Special:BookSources/3-540-30697-8
+ 705. file:///wiki/ISBN_(identifier)
+ 706. file:///wiki/Special:BookSources/0-471-98232-6
+ 707. file:///wiki/ISBN_(identifier)
+ 708. file:///wiki/Special:BookSources/978-1-498-71016-9
+ 709. https://online-optimizer.appspot.com/
+ 710. file:///wiki/ISBN_(identifier)
+ 711. file:///wiki/Special:BookSources/978-1-4419-5512-8
+ 712. https://books.google.com/books?id=YJRh0tOes7UC
+ 713. https://books.google.com/books?id=oQdBzXhZeUkC
+ 714. file:///wiki/Yinyu_Ye
+ 715. file:///wiki/Günter_M._Ziegler
+ 716. file:///w/index.php?title=Linear_programming&action=edit&section=35
+ 717. https://commons.wikimedia.org/wiki/Category:Linear_programming
+ 718. http://people.brunel.ac.uk/~mastjjb/jeb/or/lp.html
+ 719. http://glossary.computing.society.informs.org/
+ 720. http://lpsolve.sourceforge.net/4.0/LinearProgrammingFAQ.htm
+ 721. http://plato.asu.edu/bench.html
+ 722. file:///wiki/Template:Optimization_algorithms
+ 723. file:///wiki/Template_talk:Optimization_algorithms
+ 724. file:///wiki/Special:EditPage/Template:Optimization_algorithms
+ 725. file:///wiki/Mathematical_optimization
+ 726. file:///wiki/Optimization_algorithm
+ 727. file:///wiki/Iterative_method
+ 728. file:///wiki/Heuristic_algorithm
+ 729. file:///wiki/Nonlinear_programming
+ 730. file:///wiki/Function_(mathematics)
+ 731. file:///wiki/Golden-section_search
+ 732. file:///wiki/Powell's_method
+ 733. file:///wiki/Line_search
+ 734. file:///wiki/Nelder–Mead_method
+ 735. file:///wiki/Successive_parabolic_interpolation
+ 736. file:///wiki/Gradient
+ 737. file:///wiki/Local_convergence
+ 738. file:///wiki/Trust_region
+ 739. file:///wiki/Wolfe_conditions
+ 740. file:///wiki/Quasi-Newton_method
+ 741. file:///wiki/Berndt–Hall–Hall–Hausman_algorithm
+ 742. file:///wiki/Broyden–Fletcher–Goldfarb–Shanno_algorithm
+ 743. file:///wiki/Limited-memory_BFGS
+ 744. file:///wiki/Davidon–Fletcher–Powell_formula
+ 745. file:///wiki/Symmetric_rank-one
+ 746. file:///wiki/Iterative_method
+ 747. file:///wiki/Collinear_gradients_method
+ 748. file:///wiki/Nonlinear_conjugate_gradient_method
+ 749. file:///wiki/Gauss–Newton_algorithm
+ 750. file:///wiki/Gradient_descent
+ 751. file:///wiki/Mirror_descent
+ 752. file:///wiki/Levenberg–Marquardt_algorithm
+ 753. file:///wiki/Powell's_dog_leg_method
+ 754. file:///wiki/Truncated_Newton_method
+ 755. file:///wiki/Hessian_matrix
+ 756. file:///wiki/Newton's_method_in_optimization
+ 757. file:///wiki/File:Max_paraboloid.svg
+ 758. file:///wiki/Nonlinear_programming
+ 759. file:///wiki/Barrier_function
+ 760. file:///wiki/Penalty_method
+ 761. file:///wiki/Augmented_Lagrangian_method
+ 762. file:///wiki/Sequential_quadratic_programming
+ 763. file:///wiki/Successive_linear_programming
+ 764. file:///wiki/Convex_optimization
+ 765. file:///wiki/Convex_minimization
+ 766. file:///wiki/Cutting-plane_method
+ 767. file:///wiki/Frank–Wolfe_algorithm
+ 768. file:///wiki/Subgradient_method
+ 769. file:///wiki/Quadratic_programming
+ 770. file:///tmp/lynxXXXX3H3qb5/L56264-2952TMP.html#Interior_point
+ 771. file:///wiki/Affine_scaling
+ 772. file:///wiki/Ellipsoid_method
+ 773. file:///wiki/Karmarkar's_algorithm
+ 774. file:///wiki/Matroid
+ 775. file:///wiki/Exchange_algorithm
+ 776. file:///wiki/Simplex_algorithm
+ 777. file:///wiki/Revised_simplex_method
+ 778. file:///wiki/Criss-cross_algorithm
+ 779. file:///wiki/Lemke's_algorithm
+ 780. file:///wiki/Active-set_method
+ 781. file:///wiki/Combinatorial_optimization
+ 782. file:///wiki/Approximation_algorithm
+ 783. file:///wiki/Dynamic_programming
+ 784. file:///wiki/Greedy_algorithm
+ 785. file:///wiki/Integer_programming
+ 786. file:///wiki/Branch_and_bound
+ 787. file:///wiki/Branch_and_cut
+ 788. file:///wiki/Graph_algorithm
+ 789. file:///wiki/Minimum_spanning_tree
+ 790. file:///wiki/Borůvka's_algorithm
+ 791. file:///wiki/Prim's_algorithm
+ 792. file:///wiki/Kruskal's_algorithm
+ 793. file:///wiki/Shortest_path_problem
+ 794. file:///wiki/Bellman–Ford_algorithm
+ 795. file:///wiki/Shortest_Path_Faster_Algorithm
+ 796. file:///wiki/Dijkstra's_algorithm
+ 797. file:///wiki/Floyd–Warshall_algorithm
+ 798. file:///wiki/Flow_network
+ 799. file:///wiki/Dinic's_algorithm
+ 800. file:///wiki/Edmonds–Karp_algorithm
+ 801. file:///wiki/Ford–Fulkerson_algorithm
+ 802. file:///wiki/Push–relabel_maximum_flow_algorithm
+ 803. file:///wiki/Metaheuristic
+ 804. file:///wiki/Evolutionary_algorithm
+ 805. file:///wiki/Hill_climbing
+ 806. file:///wiki/Local_search_(optimization)
+ 807. file:///wiki/Parallel_metaheuristic
+ 808. file:///wiki/Simulated_annealing
+ 809. file:///wiki/Spiral_optimization_algorithm
+ 810. file:///wiki/Tabu_search
+ 811. file:///wiki/Comparison_of_optimization_software
+ 812. file:///wiki/Template:Mathematical_programming
+ 813. file:///wiki/Template_talk:Mathematical_programming
+ 814. file:///wiki/Special:EditPage/Template:Mathematical_programming
+ 815. file:///wiki/Optimization_(mathematics)
+ 816. file:///wiki/Quadratic_programming
+ 817. file:///wiki/Linear_complementarity_problem
+ 818. file:///wiki/Mixed_linear_complementarity_problem
+ 819. file:///wiki/Mixed_complementarity_problem
+ 820. file:///wiki/Nonlinear_complementarity_problem
+ 821. file:///wiki/Matroid
+ 822. file:///wiki/Exchange_algorithm
+ 823. file:///wiki/Simplex_algorithm
+ 824. file:///wiki/George_Dantzig
+ 825. file:///wiki/Revised_simplex_algorithm
+ 826. file:///wiki/Criss-cross_algorithm
+ 827. file:///wiki/Lemke's_algorithm
+ 828. file:///wiki/Help:Authority_control
+ 829. https://www.wikidata.org/wiki/Q202843#identifiers
+ 830. https://d-nb.info/gnd/4035816-1
+ 831. https://id.loc.gov/authorities/sh85082127
+ 832. https://catalogue.bnf.fr/ark:/12148/cb119415380
+ 833. https://data.bnf.fr/ark:/12148/cb119415380
+ 834. https://id.ndl.go.jp/auth/ndlna/00570683
+ 835. https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph122356&CON_LNG=ENG
+ 836. https://www.nli.org.il/en/authorities/987007555765405171
+ 837. https://en.wikipedia.org/w/index.php?title=Linear_programming&oldid=1267520384#Integer_unknowns
+ 838. file:///wiki/Help:Category
+ 839. file:///wiki/Category:Linear_programming
+ 840. file:///wiki/Category:Convex_optimization
+ 841. file:///wiki/Category:Geometric_algorithms
+ 842. file:///wiki/Category:P-complete_problems
+ 843. file:///wiki/Category:CS1_Chinese-language_sources_(zh)
+ 844. file:///wiki/Category:Webarchive_template_wayback_links
+ 845. file:///wiki/Category:Articles_with_short_description
+ 846. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 847. file:///wiki/Category:Commons_category_link_from_Wikidata
+ 848. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 849. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 850. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 851. https://wikimediafoundation.org/
+ 852. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 853. file:///wiki/Wikipedia:About
+ 854. file:///wiki/Wikipedia:General_disclaimer
+ 855. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 856. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 857. https://developer.wikimedia.org/
+ 858. https://stats.wikimedia.org/#/en.wikipedia.org
+ 859. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 860. file://en.m.wikipedia.org/w/index.php?title=Linear_programming&mobileaction=toggle_view_mobile#Integer_unknowns
+ 861. https://wikimediafoundation.org/
+ 862. https://www.mediawiki.org/
+
+   Hidden links:
+ 864. file://localhost/wiki/File:Commons-logo.svg

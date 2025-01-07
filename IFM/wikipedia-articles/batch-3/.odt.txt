@@ -1,0 +1,3463 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Specifications
+     * [30]2 History
+       (BUTTON) Toggle History subsection
+          + [31]2.1 Conception
+          + [32]2.2 Further standardization
+     * [33]3 Application support
+       (BUTTON) Toggle Application support subsection
+          + [34]3.1 Software
+          + [35]3.2 Accessibility
+     * [36]4 Licensing
+       (BUTTON) Toggle Licensing subsection
+          + [37]4.1 Public access to the standard
+          + [38]4.2 Additional royalty-free licensing
+     * [39]5 Response
+       (BUTTON) Toggle Response subsection
+          + [40]5.1 Support for OpenDocument
+     * [41]6 Adoption
+     * [42]7 See also
+     * [43]8 Notes
+     * [44]9 References
+     * [45]10 External links
+
+   [ ] Toggle the table of contents
+
+OpenDocument
+
+   [ ] 45 languages
+     * [46]العربية
+     * [47]Български
+     * [48]Bosanski
+     * [49]Català
+     * [50]Čeština
+     * [51]Dansk
+     * [52]Deutsch
+     * [53]Eesti
+     * [54]Español
+     * [55]Euskara
+     * [56]فارسی
+     * [57]Français
+     * [58]Galego
+     * [59]한국어
+     * [60]Hrvatski
+     * [61]Bahasa Indonesia
+     * [62]Italiano
+     * [63]עברית
+     * [64]Lietuvių
+     * [65]Magyar
+     * [66]Македонски
+     * [67]မြန်မာဘာသာ
+     * [68]Nederlands
+     * [69]日本語
+     * [70]Norsk bokmål
+     * [71]Norsk nynorsk
+     * [72]Polski
+     * [73]Português
+     * [74]Română
+     * [75]Русский
+     * [76]Shqip
+     * [77]Simple English
+     * [78]Slovenčina
+     * [79]Slovenščina
+     * [80]Српски / srpski
+     * [81]Suomi
+     * [82]Svenska
+     * [83]தமிழ்
+     * [84]ไทย
+     * [85]Türkçe
+     * [86]Українська
+     * [87]Tiếng Việt
+     * [88]吴语
+     * [89]Yorùbá
+     * [90]中文
+
+   [91]Edit links
+
+     * [92]Article
+     * [93]Talk
+
+   [ ] English
+
+     * [94]Read
+     * [95]Edit
+     * [96]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [97]Read
+     * [98]Edit
+     * [99]View history
+
+   General
+     * [100]What links here
+     * [101]Related changes
+     * [102]Upload file
+     * [103]Special pages
+     * [104]Permanent link
+     * [105]Page information
+     * [106]Cite this page
+     * [107]Get shortened URL
+     * [108]Download QR code
+
+   Print/export
+     * [109]Download as PDF
+     * [110]Printable version
+
+   In other projects
+     * [111]Wikimedia Commons
+     * [112]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [113].odt)
+   XML-based open file format for office applications
+   Not to be confused with [114]Open Document Architecture, [115]OpenDoc,
+   or [116]Office Open XML.
+   "ODF" redirects here. For other uses, see [117]ODF (disambiguation).
+
+     OpenDocument Format
+     * [118]Standardization
+     * [119]Technical specification
+     * [120]OpenFormula
+     * [121]Adoption
+     * [122]Software
+     * [123]Software comparison
+
+     * [124]v
+     * [125]t
+     * [126]e
+
+   CAPTION: OpenDocument Text
+
+   [127]OpenDocument Text icon
+   [128]Filename extensions
+   .odt  .fodt
+   [129]Internet media type
+   application/vnd.oasis.
+   opendocument.text
+   [130]Uniform Type Identifier (UTI)
+   org.oasis-open.opendocument.text^[131][1]
+   UTI conformation
+   org.oasis-open.opendocument
+   public.composite-content
+   Developed by [132]OASIS
+   Initial release 1 May 2005; 19 years ago (2005-05-01)
+   [133]Latest release
+   1.4
+   Type of format [134]Document
+   Extended from [135]XML
+   [136]Standard ISO/IEC 26300^[137][2]^[138][3]^[139][4]^[140][5]
+   (OASIS OpenDocument Format)
+   [141]Open format? [142]Yes
+   Website [143]OASIS, [144]ISO/IEC
+
+   CAPTION: OpenDocument Presentation
+
+   [145]OpenDocument Presentation icon
+   Filename extensions
+   .odp  .fodp
+   Internet media type
+   application/vnd.oasis.
+   opendocument.presentation
+   Uniform Type Identifier (UTI)
+   org.oasis-open.opendocument.presentation^[146][1]
+   UTI conformation
+   org.oasis-open.opendocument
+   public.composite-content
+   Developed by OASIS
+   Initial release 1 May 2005; 19 years ago (2005-05-01)
+   Latest release
+   1.3
+   (27 April 2021; 3 years ago (2021-04-27))
+   Type of format [147]Presentation
+   Extended from XML
+   Standard ISO/IEC 26300^[148][2]^[149][3]^[150][4]^[151][5]
+   (OASIS OpenDocument Format)
+   Open format? Yes
+
+   CAPTION: OpenDocument Spreadsheet
+
+   [152]OpenDocument Spreadsheet icon
+   Filename extensions
+   .ods  .fods
+   Internet media type
+   application/vnd.oasis.
+   opendocument.spreadsheet
+   Uniform Type Identifier (UTI)
+   org.oasis-open.opendocument.spreadsheet^[153][1]
+   UTI conformation
+   org.oasis-open.opendocument
+   public.composite-content
+   Developed by OASIS
+   Initial release 1 May 2005; 19 years ago (2005-05-01)
+   Latest release
+   1.3
+   (27 April 2021; 3 years ago (2021-04-27))
+   Type of format [154]Spreadsheet
+   Extended from XML
+   Standard ISO/IEC 26300^[155][2]^[156][3]^[157][4]^[158][5]
+   (OASIS OpenDocument Format)
+   Open format? Yes
+
+   CAPTION: OpenDocument Graphics
+
+   [159]OpenDocument Drawing icon
+   Filename extensions
+   .odg  .fodg
+   Internet media type
+   application/vnd.oasis.
+   opendocument.graphics
+   Uniform Type Identifier (UTI)
+   org.oasis-open.opendocument.graphics^[160][1]
+   UTI conformation
+   org.oasis-open.opendocument
+   public.composite-content
+   Developed by OASIS
+   Initial release 1 May 2005; 19 years ago (2005-05-01)
+   Latest release
+   1.3
+   (27 April 2021; 3 years ago (2021-04-27))
+   Type of format [161]Graphics
+   Extended from XML
+   Standard ISO/IEC 26300^[162][2]^[163][3]^[164][4]^[165][5]
+   (OASIS OpenDocument Format)
+   Open format? Yes
+
+   The Open Document Format for Office Applications (ODF), also known as
+   OpenDocument, standardized as ISO 26300, is an [166]open file format
+   for [167]word processing documents, [168]spreadsheets,
+   [169]presentations and graphics and using [170]ZIP-compressed^[171][6]
+   [172]XML files. It was developed with the aim of providing an open,
+   XML-based file format specification for office applications.^[173][7]
+
+   The standard is developed and maintained by a technical committee in
+   the [174]Organization for the Advancement of Structured Information
+   Standards (OASIS) consortium.^[175][8] It was based on the [176]Sun
+   Microsystems specification for [177]OpenOffice.org XML, the default
+   format for [178]OpenOffice.org and [179]LibreOffice. It was originally
+   developed for [180]StarOffice "to provide an open standard for office
+   documents."^[181][9]
+
+   In addition to being an OASIS standard, it is published as an
+   [182]ISO/[183]IEC international standard ISO/IEC 26300 – Open Document
+   Format for Office Applications
+   (OpenDocument).^[184][2]^[185][3]^[186][4]^[187][5]^[188][10]^[189][11]
+   From March 2024, the current version is 1.4.^[190][12]
+
+Specifications
+
+   [[191]edit]
+
+   Main article: [192]OpenDocument technical specification
+
+   The most common [193]filename extensions used for OpenDocument
+   documents are:^[194][13]^[195][14]
+     * .odt and .fodt for [196]word processing (text) documents
+     * .ods and .fods for [197]spreadsheets
+     * .odp and .fodp for [198]presentations
+     * .odg and .fodg for [199]graphics
+     * .odf for [200]formula, mathematical equations
+
+   The original OpenDocument format consists of an [201]XML document that
+   has <document> as its [202]root element. OpenDocument files can also
+   take the format of a [203]ZIP compressed archive containing a number of
+   files and directories; these can contain binary content and benefit
+   from ZIP's [204]lossless compression to reduce file size. OpenDocument
+   benefits from [205]separation of concerns by separating the content,
+   styles, metadata, and application settings into four separate XML
+   files.
+
+   There is a comprehensive set of example documents in OpenDocument
+   format available.^[206][15] The whole test suite is available under the
+   [207]Creative Commons Attribution 2.5 license.
+
+History
+
+   [[208]edit]
+
+   Main article: [209]OpenDocument standardization
+
+Conception
+
+   [[210]edit]
+
+   The OpenDocument standard was developed by a Technical Committee (TC)
+   under the [211]Organization for the Advancement of Structured
+   Information Standards (OASIS) industry consortium. The ODF-TC has
+   members from a diverse set of companies and individuals. Active TC
+   members have voting rights. Members associated with Sun and IBM have
+   sometimes had a large voting influence.^[212][16] The standardization
+   process involved the developers of many office suites or related
+   document systems.
+
+   The first official ODF-TC meeting to discuss the standard was 16
+   December 2002. OASIS approved OpenDocument as an OASIS standard on 1
+   May 2005. OASIS submitted the ODF specification to [213]ISO/IEC Joint
+   Technical Committee 1 (JTC 1) on 16 November 2005, under Publicly
+   Available Specification (PAS) rules. ISO/IEC standardization for an
+   open document standard including text, spreadsheet and presentation was
+   proposed for the first time in [214]DKUUG 28 August 2001.^[215][17]
+
+   After a six-month review period, on 3 May 2006, OpenDocument
+   unanimously passed its six-month DIS (Draft International Standard)
+   ballot in [216]JTC 1 ([217]ISO/IEC JTC 1/SC 34), with broad
+   participation,^[218][18] after which the OpenDocument specification was
+   "approved for release as an ISO and IEC International Standard" under
+   the name ISO/IEC 26300:2006.^[219][19]
+
+   After responding to all written ballot comments, and a 30-day default
+   ballot, the OpenDocument [220]international standard went to
+   publication in ISO, officially published 30 November 2006.
+
+   In 2006,^[221][20] Garry Edwards, a member of OASIS TC since
+   2002,^[222][21] along with Sam Hiser, and Paul "Marbux" E.
+   Merrell^[223][22] founded the OpenDocument Foundation. The aim of this
+   project was to be open-source representative of the format in
+   OASIS.^[224][20]^[225][22] The immediate aim of this project was to
+   develop software that would convert legacy [226]Microsoft Office
+   documents to ODF. By October 2007 the project was a failure: Conversion
+   of Microsoft Office documents could not be achieved.^[227][20] By this
+   time, The foundation was convinced that ODF was not moving in a
+   direction that they supported.^[228][23] As a result, it announced the
+   decision to abandon its namesake format in favor of [229]W3C's
+   [230]Compound Document Format (CDF), which was in early stages of its
+   development.^[231][23]^[232][20] The foundation, however, never acted
+   on this decision and was soon dissolved. The CDF was never designed for
+   this purpose either.^[233][24]
+
+Further standardization
+
+   [[234]edit]
+
+   Main article: [235]OpenDocument standardization
+
+   Further standardization work with OpenDocument includes:
+     * The [236]OASIS Committee Specification [237]OpenDocument 1.0
+       (second edition) corresponds to the published ISO/IEC 26300:2006
+       standard. The content of ISO/IEC 26300 and OASIS OpenDocument v1.0
+       2nd ed. is identical.^[238][5] It includes the editorial changes
+       made to address JTC1 ballot comments. It is available in ODF, HTML
+       and PDF formats.
+     * [239]OpenDocument 1.1 includes additional features to address
+       accessibility concerns.^[240][25] It was approved as an OASIS
+       Standard on 2007-02-01 following a call for vote issued on
+       2007-01-16.^[241][26] The public announcement was made on
+       2007-02-13.^[242][27] This version was not initially submitted to
+       ISO/IEC, because it is considered to be a minor update to ODF 1.0
+       only, and OASIS were working already on ODF 1.2 at the time ODF 1.1
+       was approved.^[243][28] However it was later submitted to ISO/IEC
+       and published in March 2012 as "ISO/IEC 26300:2006/Amd 1:2012 –
+       Open Document Format for Office Applications (OpenDocument)
+       v1.1".^[244][10]^[245][11]
+     * [246]OpenDocument 1.2 includes additional accessibility features,
+       [247]RDF-based metadata,^[248][29] a spreadsheet formula
+       specification based on [249]OpenFormula,^[250][29] support for
+       [251]digital signatures and some features suggested by the public.
+       It consists of three parts: Part 1: OpenDocument Schema, Part 2:
+       Recalculated Formula (OpenFormula) Format and Part 3: Packages.
+       Version 1.2 of the specification was approved as an OASIS Standard
+       on 29 September 2011.^[252][30] It was submitted to the relevant
+       ISO committee under the Publicly Available Specification (PAS)
+       procedure in March 2014.^[253][31] In October 2014, it was
+       unanimously approved as a Draft International Standard. Some
+       comments were raised in the process that needed to be addressed
+       before OpenDocument 1.2 could proceed to become an International
+       Standard.^[254][32] OpenDocument 1.2 was published as ISO/IEC
+       standard on 17 June 2015.^[255][2]^[256][3]^[257][4]
+     * [258]OpenDocument 1.3 includes additional features for digital
+       signatures, encryption, change-tracking and inter-operability.
+       Version 1.3 of the OpenDocument specification was approved as an
+       OASIS Standard April 2021. The specification was completed as the
+       result of the COSM crowdfunding project seeded by [259]The Document
+       Foundation.^[260][33]
+
+Application support
+
+   [[261]edit]
+
+Software
+
+   [[262]edit]
+
+   Main article: [263]OpenDocument software
+
+   The OpenDocument format is used in [264]free software and in
+   [265]proprietary software. This includes [266]office suites (both
+   stand-alone and web-based) and individual applications such as
+   word-processors, spreadsheets, presentation, and data management
+   applications. Prominent text editors, word processors and office suites
+   supporting OpenDocument fully or partially include:
+
+     * [267]AbiWord^[268][34]^[269][35]
+     * [270]Adobe Buzzword^[271][36]
+     * [272]Apache OpenOffice
+     * [273]Bean (software)
+     * [274]Calibre [275]ebook viewer, converter, editor, and manager
+     * [276]Calligra Suite^[277][37]
+     * [278]Collabora Office and [279]Collabora Online^[280][38]
+     * [281]Corel [282]WordPerfect Office X6^[283][39]
+     * [284]Dropbox
+     * [285]Evince
+     * [286]Gnumeric^[287][40]
+     * [288]Google Docs
+     * [289]IBM Lotus Symphony^[290][29]^[291][41]^[292][42]
+     * [293]Inkscape exports .odg
+     * [294]KOffice^[295][43]
+     * [296]LibreOffice
+     * [297]Microsoft Office 2003 and [298]Office XP (with the Open Source
+       OpenXML/ODF Translator Add-in for Office)^[299][44]
+     * [300]Microsoft Office 2007 (with Service Pack 2 or 3) supports ODF
+       1.1^[301][45] (Windows only)
+     * [302]Microsoft Office 2010 supports ODF 1.1 (Windows only)
+     * [303]Microsoft Office 2013 supports ODF 1.2 (Windows only)
+     * [304]Microsoft Office 2016 and [305]2019 support ODF 1.2 (Windows:
+       read/write; OS X: read-only after online conversion^[306][46])
+     * [307]Microsoft Office 2021 supports ODF 1.3^[308][47] (Windows and
+       MacOS)
+     * [309]Microsoft OneDrive / [310]Office Web Apps^[311][48]
+     * [312]NeoOffice
+     * [313]Okular
+     * [314]ONLYOFFICE
+     * [315]OpenOffice.org
+     * [316]Quarto and R Markdown can export to .odt^[317][49]
+     * [318]Scribus imports .odt and .odg
+     * [319]SoftMaker Office
+     * [320]Sun Microsystems [321]StarOffice
+     * [322]TextEdit
+     * [323]WordPad (Windows 7 and later, Windows Server 2008 R2 and
+       later)^[324][50] supports ODF 1.1^[325][51]
+     * [326]Zoho Office Suite^[327][29]
+
+   Various organizations have announced development of conversion software
+   (including plugins and filters) to support OpenDocument on
+   [328]Microsoft's products.^[329][52]^[330][53] As of July
+   2007^[331][update], there are nine packages of conversion software.
+   Microsoft first released support for the OpenDocument Format in Office
+   2007 SP2.^[332][54] However, the implementation faced [333]substantial
+   criticism and the [334]ODF Alliance and others claimed that the third
+   party plugins provided better support.^[335][55] Microsoft Office 2010
+   can open and save OpenDocument Format documents natively, although not
+   all features are supported.^[336][56] In July 2024, Microsoft announced
+   support for ODF 1.4 (prior to it being released) in Microsoft 365 apps,
+   starting with version 2404 on Windows and 16.84 on macOS.^[337][57]
+
+   Starting with [338]Mac OS X 10.5, the [339]TextEdit application and
+   [340]Quick Look preview feature support the OpenDocument Text format.
+
+Accessibility
+
+   [[341]edit]
+
+   Further information: [342]OpenDocument software § Accessibility
+
+Licensing
+
+   [[343]edit]
+
+Public access to the standard
+
+   [[344]edit]
+
+   Versions of the OpenDocument Format approved by [345]OASIS are
+   available for free download and use.^[346][58] The [347]ITTF has added
+   ISO/IEC 26300 to its "list of freely available standards"; anyone may
+   download and use this standard free-of-charge under the terms of a
+   click-through license.^[348][59]
+
+Additional royalty-free licensing
+
+   [[349]edit]
+
+   Obligated members^[350][60] of the OASIS ODF TC have agreed to make
+   deliverables available to implementors under the OASIS Royalty Free
+   with Limited Terms [351]policy.
+
+   Key contributor [352]Sun Microsystems made an irrevocable intellectual
+   property covenant, providing all implementers with the guarantee that
+   Sun will not seek to enforce any of its enforceable U.S. or foreign
+   patents against any implementation of the OpenDocument specification in
+   which development Sun participates to the point of incurring an
+   obligation.^[353][61]
+
+   A second contributor to ODF development, [354]IBM – which, for
+   instance, has contributed Lotus spreadsheet documentation^[355][62] –
+   has made their patent rights available through their Interoperability
+   Specifications Pledge in which "IBM irrevocably covenants to you that
+   it will not assert any Necessary Claims against you for your making,
+   using, importing, selling, or offering for sale Covered
+   Implementations."^[356][63]
+
+   The [357]Software Freedom Law Center has [358]examined whether there
+   are any legal barriers to the use of the OpenDocument Format (ODF) in
+   free and open source software arising from the standardization process.
+   In their opinion ODF is free of legal encumbrances that would prevent
+   its use in free and open source software, as distributed under licenses
+   authored by Apache and the FSF.^[[359]citation needed]
+
+Response
+
+   [[360]edit]
+
+Support for OpenDocument
+
+   [[361]edit]
+
+   Several governments, companies, organizations and software products
+   support the OpenDocument format. For example:
+     * The OpenDoc Society runs frequent [362]ODF
+       Plugfests^[[363]definition needed] in association with industry
+       groups and Public Sector organisations. The 10th Plugfest^[364][64]
+       was hosted by the UK [365]Government Digital Service in conjunction
+       with industry associations including the [366]OpenForum Europe and
+       [367]OpenUK (formerly Open Source Consortium).
+          + An output of the 10th Plugfest was an ODF toolkit^[368][65]
+            which includes "Open Document Format principles for Government
+            Technology" that has the purpose of simply explaining the case
+            for ODF directed at the "average civil servant" and includes
+            an extract from the UK Government policy relating to Open
+            Document Format.
+          + The toolkit also includes a single page graphical
+            image^[369][66] designed to articulate the consequences of not
+            choosing Open Document Format. The illustration has now been
+            translated into more than 10 languages.
+     * Information technology companies like [370]Apple Inc., [371]Adobe
+       Systems, [372]Google, [373]IBM, [374]Intel, [375]Microsoft,
+       [376]Nokia, [377]Novell, [378]Red Hat, [379]Oracle as well as other
+       companies who may or may not be working inside the OASIS
+       OpenDocument Adoption Technical Committee.
+     * Over 600 companies and organizations promote OpenDocument format
+       through The [380]OpenDocument Format Alliance.^[381][67]
+     * [382]NATO with its 26 members uses ODF as a mandatory standard for
+       all members.^[383][68]
+     * The TAC (Telematics between Administrations Committee), composed of
+       e-government policy-makers from the 25 [384]European Union Member
+       States, endorsed a set of recommendations for promoting the use of
+       open document formats in the public sector.^[385][69]
+     * The free office suites [386]Apache OpenOffice, [387]Calligra,
+       [388]KOffice, [389]NeoOffice and [390]LibreOffice all use
+       OpenDocument as their default file format.
+     * Several organisations, such as the [391]OpenDocument Fellowship and
+       [392]OpenDoc Society [393]Archived 19 November 2021 at the
+       [394]Wayback Machine were founded to support and promote
+       OpenDocument.
+     * The UK government has adopted ODF as the standard for all documents
+       in the UK civil service^[395][70]
+     * The Russian government has recommended adopting ODF as the standard
+       in the public sector as by GOST R ISO/MEK 26300-2010
+     * The [396]Wikimedia Foundation supports ODF export from
+       [397]MediaWiki, which powers [398]Wikipedia and a number of other
+       Internet [399]wiki-based sites.^[400][71]
+     * The default text processing applications in Windows 10
+       ([401]WordPad) and Mac OS 10.9 ([402]TextEdit) support OpenDocument
+       Text.
+
+   On 4 November 2005, IBM and Sun Microsystems convened the "OpenDocument
+   (ODF) Summit" in [403]Armonk, New York, to discuss how to boost
+   OpenDocument adoption. The ODF Summit brought together representatives
+   from several industry groups and technology companies, including
+   Oracle, Google, Adobe, Novell, Red Hat, Computer Associates, Corel,
+   Nokia, Intel, and Linux e-mail company Scalix (LaMonica, 10 November
+   2005). The providers committed resources to technically improve
+   OpenDocument through existing standards bodies and to promote its usage
+   in the marketplace, possibly through a stand-alone
+   foundation.^[404][72] Scholars have suggested that the "OpenDocument
+   standard is the wedge that can hold open the door for competition,
+   particularly with regard to the specific concerns of the public
+   sector."^[405][73] Indeed, adoption by the public sector has risen
+   considerably since the promulgation of the OpenDocument format
+   initiated the 2005/2006 time period.^[406][73]
+     * Different applications using ODF as a standard document format have
+       different methods of providing macro/scripting capabilities. There
+       is no [407]macro language specified in ODF. Users and developers
+       differ on whether inclusion of a standard scripting language would
+       be desirable.^[408][74]
+     * The ODF specification for tracked changes is limited and does not
+       fully specify all cases, resulting in implementation-specific
+       behaviors.^[409][75] In addition, OpenDocument does not support
+       change tracking in elements like tables or [410]MathML.^[411][76]
+     * It is not permitted to use generic ODF formatting style elements
+       (like font information) for the MathML elements.^[412][76]
+
+Adoption
+
+   [[413]edit]
+
+   Main article: [414]OpenDocument adoption
+
+   One objective of open formats like OpenDocument is to guarantee
+   long-term access to data without legal or technical barriers, and some
+   governments have come to view open formats as a public policy issue.
+   Several governments around the world have introduced policies of
+   partial or complete adoption.^[415][73] What this means varies from
+   case to case; in some cases, it means that the ODF standard has a
+   national standard identifier; in some cases, it means that the ODF
+   standard is permitted to be used where national regulation says that
+   non-proprietary formats must be used, and in still other cases, it
+   means that some government body has actually decided that ODF will be
+   used in some specific context. The following is an incomplete list:
+
+     * International
+          + [416]NATO^[417][77]
+          + [418]European Union^[419][69]^[420][78]
+     * [421]Argentina
+     * [422]Belgium
+     * [423]Brazil
+     * [424]Croatia
+     * [425]Finland
+     * [426]Denmark
+     * [427]France
+     * [428]Germany^[429][79]
+     * [430]Hungary
+     * [431]India
+     * [432]Italy
+     * [433]Japan
+     * [434]Latvia^[435][80]
+     * [436]Malaysia
+     * [437]Netherlands^[438][81]
+     * [439]Norway^[440][82]
+     * [441]Poland^[442][83]
+     * [443]Portugal^[444][84]
+     * [445]Russia^[446][note 1]^[447][85]
+     * [448]Slovakia
+     * [449]Sweden^[450][86]
+     * [451]Serbia
+     * [452]South Africa
+     * [453]South Korea
+     * [454]Switzerland
+     * [455]Taiwan^[456][87]^[457][88]^[458][89]
+     * [459]Turkey
+     * [460]United Kingdom^[461][90]
+     * [462]Uruguay^[463][91]
+     * [464]Venezuela
+     * Subnational
+          + [465]Andalusia, Spain
+          + [466]Assam, India
+          + [467]Extremadura, Spain
+          + [468]Hong Kong, China
+          + [469]Kerala, India
+          + [470]Massachusetts, United States^[471][92]
+          + [472]Misiones, Argentina
+          + [473]Munich, Bavaria, Germany^[474][93]
+          + [475]Paraná, Brazil
+
+See also
+
+   [[476]edit]
+
+     * [477]OpenDocument technical specification
+     * [478]Comparison of Office Open XML and OpenDocument
+     * [479]Comparison of document markup languages
+     * [480]List of document markup languages
+     * [481]OpenDocument software
+     * [482]Reactions to Microsoft lobbying at ISO
+
+Notes
+
+   [[483]edit]
+
+    1. [484]^ The standard that was proclaimed to be national is in fact
+       the following: «ISO/IEC 26300:2006 "Information technology - Open
+       Document Format for Office Applications (OpenDocument) v1.0"».
+       Designation as the national standard only means that it's
+       encouraged to be used voluntarily and is not a legally bounding.
+       [485]Eurasian Economic Union is the territory where the standard is
+       assumed to be applied.
+
+References
+
+   [[486]edit]
+
+    1. ^ [487]^a [488]^b [489]^c [490]^d Huw Alexander Ogilvie.
+       [491]"Filetypes". Archived from [492]the original on 22 August
+       2011. Retrieved 20 June 2008.
+    2. ^ [493]^a [494]^b [495]^c [496]^d [497]^e [498]^f [499]"ISO/IEC
+       26300-1:2015 – Information technology – Open Document Format for
+       Office Applications (OpenDocument) v1.2 – Part 1: OpenDocument
+       Schema". 13 May 2015. Retrieved 2 June 2015.
+    3. ^ [500]^a [501]^b [502]^c [503]^d [504]^e [505]^f [506]"ISO/IEC
+       26300-2:2015 – Information technology – Open Document Format for
+       Office Applications (OpenDocument) v1.2 – Part 2: Recalculated
+       Formula (OpenFormula) Format". 13 May 2015. Retrieved 16 February
+       2016.
+    4. ^ [507]^a [508]^b [509]^c [510]^d [511]^e [512]^f [513]"ISO/IEC
+       26300-3:2015 – Information technology – Open Document Format for
+       Office Applications (OpenDocument) v1.2 – Part 3: Packages". 13 May
+       2015. Retrieved 2 June 2015.
+    5. ^ [514]^a [515]^b [516]^c [517]^d [518]^e [519]^f [520]ISO/IEC
+       26300:2006 (ZIP, PDF), ISO, retrieved 22 November 2009
+    6. [521]^ Extract an odt file with unzip on Linux to see the actual
+       resource hierarchy
+    7. [522]^ [523]"OASIS Open Document Format for Office Applications
+       (OpenDocument) TC". Organization for the Advancement of Structured
+       Information Standards. 19 January 2005. Retrieved 6 October 2013.
+    8. [524]^ [525]"OASIS Open Document Format for Office Applications
+       (OpenDocument) TC". [526]Organization for the Advancement of
+       Structured Information Standards.
+    9. [527]^ [528]StarOffice XML File Format Working Draft, Technical
+       Reference Manual, Draft 9, December 2000 (PDF), December 2000,
+       retrieved 8 August 2010
+   10. ^ [529]^a [530]^b [531]ISO/IEC 26300:2006/Amd 1:2012 – Open
+       Document Format for Office Applications (OpenDocument) v1.1, 8
+       March 2012, retrieved 12 April 2012
+   11. ^ [532]^a [533]^b [534]"ISO/IEC 26300:2006/DAM 1 – OpenDocument
+       v1.1". Retrieved 29 March 2011.
+   12. [535]^ [536]"OpenDocument standardization", Wikipedia, 18 March
+       2024, retrieved 4 October 2024
+   13. [537]^ [538]"UA.es" (in Spanish). Archived from [539]the original
+       on 15 June 2009.
+   14. [540]^ [541]"OpenOffice.org Document Version Control With
+       Mercurial". Retrieved 7 June 2010.
+   15. [542]^ [543]"OpenDocument Sample Documents". [544]Intel
+       Corporation. 2006. Archived from [545]the original on 30 August
+       2011. Retrieved 12 December 2012.
+   16. [546]^ [547]"OpenDocument TC's publicly-visible membership roster".
+       Retrieved 3 November 2007.
+   17. [548]^ [549]"Meeting agenda for DKUUG STD 2001-08-28 – item 5.6"
+       (PDF). Retrieved 13 March 2015.
+   18. [550]^ ISO/IEC SC34 Secretariat (13 June 2006). [551]"Document
+       Description and Processing Languages-->Summary of Voting on DIS
+       ISO/IEC 26300 – Open Document Format for Office Applications
+       (OpenDocument) v1.0". ISO/IEC JTC 1/SC 34 Document Repository.
+       Archived from [552]the original on 1 October 2006. Retrieved 24
+       August 2006.{{[553]cite web}}: CS1 maint: numeric names: authors
+       list ([554]link)
+   19. [555]^ [556]"ISO and IEC approve OpenDocument OASIS standard for
+       data interoperability of office applications". ISO Press Releases.
+       [557]ISO. 8 May 2006. Archived from [558]the original on 19 May
+       2006. Retrieved 24 August 2006.
+   20. ^ [559]^a [560]^b [561]^c [562]^d LaMonica, Martin (29 October
+       2007). [563]"Former OpenDocument advocates bolt for W3C standard".
+       [564]CNET. [565]CBS Interactive. [566]Archived from the original on
+       18 April 2012.
+   21. [567]^ [568]"Meeting Minutes". [569]OASIS. 16 December 2002.
+       Retrieved 1 November 2007.
+   22. ^ [570]^a [571]^b Weir, Rob (7 October 2007). [572]"Cracks in the
+       foundation". An Antic Disposition.
+   23. ^ [573]^a [574]^b [575]Foley, Mary Jo (29 October 2007). [576]"ODF
+       infighting could help Microsoft's OOXML". [577]ZDNet. [578]CBS
+       Interactive. [579]Archived from the original on 23 December 2007.
+   24. [580]^ Updegrove, Andrew (9 November 2007). [581]"Putting the
+       OpenDocument Foundation to Bed (without its supper)".
+       ConsortiumInfo.org. Archived from [582]the original on 8 February
+       2008. Retrieved 12 October 2019.
+   25. [583]^ [584]"OpenDocument 1.1 Specifications". [585]OASIS. 2006.
+       Retrieved 31 October 2006.
+   26. [586]^ [587]"Approval of OpenDocument v1.1 as OASIS Standard".
+       [588]OASIS. Retrieved 6 February 2007.
+   27. [589]^ [590]"Members Approve OpenDocument Version 1.1 as OASIS
+       Standard". [591]OASIS. Archived from [592]the original on 19
+       February 2007. Retrieved 15 February 2007.
+   28. [593]^ Peter Judge (2 May 2008). [594]"OOXML expert: ODF standard
+       is broken". ZDNet. Archived from [595]the original on 5 May 2008.
+       Retrieved 10 September 2012.
+   29. ^ [596]^a [597]^b [598]^c [599]^d Clarke, Gavin (3 October 2011).
+       [600]"Open Document Format updated to fix spreadsheets". The
+       Register. Retrieved 18 April 2012.
+   30. [601]^ [602]Members Approve OpenDocument Format (ODF) Version 1.2
+       as OASIS Standard, 5 October 2011, retrieved 12 April 2012
+   31. [603]^ [604]"Minutes of ISO/IEC JTC 1/SC 34/WG 6 teleconference
+       meeting, 2014-04-16". 24 April 2014. Retrieved 13 October 2014.
+   32. [605]^ [606]"ISO/IEC JTC 1/SC 34/WG 6 N 103 Minutes of
+       teleconference meeting of ISO/IEC JTC 1/SC 34/WG 6 2014-09-24,
+       23:00-00:00 UTC". 25 September 2014. Retrieved 13 October 2014.
+   33. [607]^ [608]"The COSM Project at Public Software". Public Software
+       CIC. 11 October 2019. Retrieved 14 October 2019.
+   34. [609]^ [610]"OpenDocument support". AbiWord Wiki. AbiSource
+       community. Archived from [611]the original on 21 March 2022.
+       Retrieved 10 September 2012.
+   35. [612]^ [613]"Abiword 2.4.2 Release Notes". abisource.com. Archived
+       from [614]the original on 15 June 2009. Retrieved 3 March 2009.
+   36. [615]^ [616]"Adobe Buzzword online word processor from
+       Acrobat.com". Labs.adobe.com. Archived from [617]the original on 27
+       May 2008. Retrieved 19 May 2009.
+   37. [618]^ [619]"Words". Calligra Suite. Retrieved 23 February 2012.
+   38. [620]^ Bärwaldt, Eric (1 September 2020). [621]"Working Together
+       Tools for collaborative office work". Linux Magazine (238/2020).
+       "For cross-platform use, the suite not only supports the Open
+       Document Format (ODF) but also all newer Microsoft formats, which
+       makes interaction with other office suites easier."
+   39. [622]^ [623]"Corel WordPerfect Office X4 - Standard Edition -
+       Compatible". Retrieved 3 May 2008.
+   40. [624]^ Eric Baudais & others (February 2014). [625]"File Formats".
+       The Gnumeric Manual, version 1.12. GNOME Documentation Project.
+       Retrieved 1 February 2018.
+   41. [626]^ Doug Mahugh (10 May 2009). [627]"1 + 2 = 1?". MSDN Blogs.
+       Retrieved 10 September 2012.
+   42. [628]^ [629]"Symphony.lotus.com". Archived from [630]the original
+       on 10 July 2009.
+   43. [631]^ [632]"Koffice.org". Archived from [633]the original on 13
+       May 2008.
+   44. [634]^ [635]"OpenXML/ODF Translator Add-ins for Office". Retrieved
+       31 January 2014.
+   45. [636]^ [637]"Microsoft Expands List of Formats Supported in
+       Microsoft Office". Microsoft Corporation. 21 May 2008. Retrieved 21
+       September 2016.
+   46. [638]^ [639]"View OpenDocument Format (ODF) files in Office for
+       Mac". Office Support. Microsoft. Retrieved 3 October 2018.
+   47. [640]^ [641]"Office apps now support OpenDocument format 1.3".
+       Office Insider. Microsoft. Retrieved 10 September 2021.
+   48. [642]^ Foley, Mary Jo (17 April 2012). [643]"Microsoft adds ODF
+       support, URL shortening to its SkyDrive storage service". ZDNet.
+       Archived from [644]the original on 18 April 2012. Retrieved 13
+       August 2012.
+   49. [645]^ [646]"OpenDocument Options". Quarto. Retrieved 17 September
+       2024.
+   50. [647]^ [648]"[MS-WPODF]: WordPad ODF 1.1 Standards Support" (PDF).
+       Microsoft Docs. Microsoft. Retrieved 10 September 2021.
+   51. [649]^ [650]"[MS-WPODF]: WordPad ODF 1.1 Standards Support".
+       Microsoft Docs. Microsoft. 30 October 2020. Retrieved 10 September
+       2021.
+   52. [651]^ [652]"OpenDocument Foundation to MA: We Have a Plugin".
+       Groklaw. 4 May 2006. Retrieved 23 August 2006.
+   53. [653]^ [654]"Microsoft Office to get a dose of OpenDocument". CNET.
+       5 May 2006. Archived from [655]the original on 22 July 2009.
+       Retrieved 6 December 2006.
+   54. [656]^ [657]"Office 2007 SP2 Supports ODF". PC World. 28 April
+       2009.
+   55. [658]^ [659]"Fact-sheet Microsoft ODF support" (PDF). odfalliance.
+       Archived from [660]the original (PDF) on 11 June 2009. Retrieved 24
+       May 2009. "MS Excel 2007 will process ODF spreadsheet documents
+       when loaded via the Sun Plug-In 3.0 for MS Office or the
+       SourceForge "OpenXML/ODF Translator Add-in for Office", but will
+       fail when using the "built-in" support provided by Office 2007
+       SP2."
+   56. [661]^ [662]"Differences between the OpenDocument Text (.odt)
+       format and the Word (.docx) format". office.microsoft.com.
+   57. [663]^ Hellstern, Alfred. [664]"Microsoft 365 apps now support
+       OpenDocument Format 1.4". Microsoft 365 Insider. Retrieved 17
+       September 2024.
+   58. [665]^ [666]"OASIS Open Document Format for Office Applications
+       (OpenDocument) TC". OASIS. Retrieved 10 September 2012.
+   59. [667]^ [668]"Freely Available Standards". International
+       Organization for Standardization. Retrieved 22 September 2009.
+   60. [669]^ [670]office members
+   61. [671]^ Microsystems, Inc. [672]"Sun OpenDocument Patent Statement".
+       OASIS Open Document Format for Office Applications (OpenDocument)
+       TC. OASIS foundation.
+   62. [673]^ David A. Wheeler (21 July 2006). [674]"Formula subcommittee
+       status". office@lists.oasis-open.org,
+       office-formula@lists.oasis-open.org. Retrieved 12 September 2012.
+   63. [675]^ [676]"Interoperability Pledge Specification List".
+       Interoperability Specifications Pledge. IBM Corp. 12 December 2011.
+       Archived from [677]the original on 31 May 2009. Retrieved 10
+       September 2012.
+   64. [678]^ [679]10th Plugfest hosted by the UK Cabinet Office December
+       2014
+   65. [680]^ [681]"ODF Toolkit".
+   66. [682]^ [683]"Archived copy". www.openforumeurope.org. Archived from
+       [684]the original on 20 June 2015. Retrieved 11 January
+       2022.{{[685]cite web}}: CS1 maint: archived copy as title
+       ([686]link)
+   67. [687]^ [688]"ODF Alliance members". ODF Alliance. Archived from
+       [689]the original on 3 April 2009. Retrieved 24 May 2009.
+   68. [690]^ Krempl, Stefan (18 July 2008). [691]"NATO supports ODF open
+       document format". The H Open. Archived from [692]the original on 24
+       September 2009. Retrieved 10 September 2012.
+   69. ^ [693]^a [694]^b [695]"IDA promotes the use of open document
+       formats for e-government interoperability". IDA Report 22. IDABC.
+       June 2004. Retrieved 10 September 2012.
+   70. [696]^ [697]"Open document formats selected to meet user needs".
+   71. [698]^ [699]"Wikis Go Printable". [700]Wikimedia Foundation. 13
+       December 2007. Archived from [701]the original on 16 June 2010.
+       Retrieved 31 December 2007.
+   72. [702]^ Martin LaMonica (10 November 2005). [703]"OpenDocument
+       format gathers steam". CNET News. Retrieved 10 September 2012.
+   73. ^ [704]^a [705]^b [706]^c Casson, Tony; Ryan, Patrick S. (2006).
+       [707]"Open Standards, Open Source Adoption in the Public Sector,
+       and Their Relationship to Microsoft's Market Dominance". The
+       Standards Edge: Unifier Or Divider?. Sheridan Books.
+       [708]ISBN [709]9780974864853. [710]SSRN [711]1656616.
+   74. [712]^ Marco Fioretti (6 August 2001). [713]"Macros an obstacle to
+       office suite compatibility". Archived from [714]the original on 21
+       May 2011. Retrieved 11 May 2008.
+   75. [715]^ Doug Mahugh (Microsoft) (13 May 2009). [716]"Tracked
+       Changes".
+   76. ^ [717]^a [718]^b Jesper Lund Stocholm (Danish ISO/IEC
+       representative) (12 December 2008). [719]"Do your math - OOXML and
+       OMML (Updated 2008-02-12)". Archived from the original on 26 March
+       2016.{{[720]cite web}}: CS1 maint: bot: original URL status unknown
+       ([721]link)
+   77. [722]^ [723]"NATO Interoperability Standards and Profiles".
+       Retrieved 21 November 2014.
+   78. [724]^ [725]"EC recommends supporting open… | Joinup". 10 January
+       2014.
+   79. [726]^ [727]"Antwort der Bundesregierung auf die Kleine Anfrage der
+       Abgeordneten Dr. Konstantin von Notz, Ingrid Hönlinger, Memet
+       Kilic, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+       – Drucksache 17/5589" (PDF). 5 May 2011. Retrieved 14 July 2017.
+   80. [728]^ [729]"Elektronisko dokumentu izstrādāšanas, noformēšanas,
+       glabāšanas un aprites kārtība valsts un pašvaldību iestādēs un
+       kārtība, kādā notiek elektronisko dokumentu aprite starp valsts un
+       pašvaldību iestādēm vai starp šīm iestādēm un fiziskajām un
+       juridiskajām personām". Retrieved 28 November 2016.
+   81. [730]^ [731]"ODF 1.2 on Dutch "apply or explain" list". Archived
+       from [732]the original on 2 April 2016. Retrieved 28 September
+       2014.
+   82. [733]^ [734]"New obligatory IT standards for the state sector
+       adopted". 2 July 2009. Retrieved 19 December 2012.
+   83. [735]^ [736]"Rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012
+       r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań
+       dla rejestrów publicznych i wymiany informacji w postaci
+       elektronicznej oraz minimalnych wymagań dla systemów
+       teleinformatycznych". Internetowy System Aktów Prawnych. Retrieved
+       15 June 2022.
+   84. [737]^ [738]"ESOP » Portugal publishes open standards catalog. ODF,
+       PDF and several other standards are mandatory". Esop.pt. Archived
+       from [739]the original on 2 April 2013. Retrieved 1 May 2013.
+   85. [740]^ [741]"В России вступил в действие национальный стандарт
+       открытых офисных приложений OpenDocument (ODF)". Министерство
+       цифрового развития, связи и массовых коммуникаций Российской
+       Федерации (in Russian). Archived from [742]the original on 23
+       October 2020. Retrieved 15 October 2020.
+   86. [743]^ [744]"Öppna standarder - Programvaror och tjänster 2014"
+       (PDF). pp. 26–27.
+   87. [745]^ [746]"Promote Government's Open Document Standards Develop
+       New Value for Document Circulation". National Development Council
+       Taiwan. 9 June 2015.
+   88. [747]^ [748]"Successful Story: Migrating Libreoffice to I-Lan
+       County Government" (PDF). Franklin Weng. 24 September 2015.
+   89. [749]^ [750]"Taiwan migration to ODF: progress, problems and what
+       to do next" (PDF). Franklin Weng. 8 September 2016.
+   90. [751]^ [752]"Open source, open standards and re-use: government
+       action plan". [753]Government of the United Kingdom. 27 January
+       2010.
+   91. [754]^ [755]"Estándares de ofimática" (PDF). Agencia de Gobierno
+       Electrónico y Sociedad de la Información y del Conocimiento.
+       Retrieved 28 November 2017.
+   92. [756]^ [757]"Massachusetts Verdict: MS Office Formats Out". eWeek.
+       24 September 2005. Archived from [758]the original on 22 January
+       2013. Retrieved 23 October 2012.
+   93. [759]^ Stefan Krempl (5 January 2010). [760]"Munich administration
+       switches to OpenDocument Format". "Open source OpenDocument Format
+       (ODF) is now the main document exchange standard, with PDF being
+       used for non-editable files."
+
+External links
+
+   [[761]edit]
+
+     * Media related to [762]OpenDocument at Wikimedia Commons
+     * [763]OpenDocumentFormat.org Portal for consumers, business users,
+       and developers with information on OpenDocument format.
+          + Note: From 2024 Oct 01, this url seemed to be hacked:
+            [764]https://web.archive.org/web/20241008113015/https://opendo
+            cumentformat.org/. Original is
+            [765]https://web.archive.org/web/20240919081119/opendocumentfo
+            rmat.org/.
+     * [766]Document Freedom Day
+     * [767]OpenDoc Society [768]Archived 19 November 2021 at the
+       [769]Wayback Machine Association with members around the world that
+       promote best practices in office productivity such as OpenDocument
+       format.
+     * [770]OpenDocument Fellowship Volunteer organization with members
+       around the world to promote the adoption, use, and development of
+       the OpenDocument format.
+     * [771]OpenDocument XML.org The official community gathering place
+       and information resource for the OpenDocument OASIS Standard
+       (ISO/IEC 26300).
+     * [772]OASIS OpenDocument Technical Committee coordinates the
+       OpenDocument development and is the official source for
+       specifications, schemas, etc.
+     * [773]Technical disputes regarding ODF vs. OOXML
+     * [774]Microsoft Office (2007, 2010 and 2013), Differences between
+       the OpenDocument Text (.odt) format and the Word (.docx) format
+
+     * [775]v
+     * [776]t
+     * [777]e
+
+   Standards of [778]OASIS
+
+     * [779]AMQP
+     * [780]CAM
+     * [781]CAP
+     * [782]DSS
+     * [783]DocBook
+     * [784]DITA
+     * [785]DSML
+     * [786]DPWS
+     * [787]ebXML
+     * [788]EDXL
+     * [789]EML
+     * [790]KMIP
+     * OpenDocument
+     * [791]SAML
+     * [792]SDD
+     * [793]SOAP-over-UDP
+     * [794]SPML
+     * [795]TOSCA
+     * [796]UBL
+     * [797]UDDI
+     * [798]WSDM
+     * [799]XRI
+     * [800]XDI
+     * [801]XLIFF
+     * [802]WS-BPEL
+     * [803]WS-Discovery
+     * [804]WSRF
+     * [805]WSRP
+     * [806]WSS
+     * [807]XACML
+
+     * [808]v
+     * [809]t
+     * [810]e
+
+   Multi-purpose [811]office [812]document file formats
+
+   Editable document formats
+
+     * [813]Compound Document Format
+     * [814]Microsoft Office XML formats
+     * [815]MO:DCA
+     * [816]Office Open XML
+     * [817]Open Document Architecture
+     * [818]OpenDoc
+     * OpenDocument
+     * [819]OpenOffice.org XML
+     * [820]Revisable-Form Text
+     * [821]Rich Text Format
+     * [822]Uniform Office Format
+     * [823]Word document
+
+   Fixed document formats
+
+     * [824]DjVu
+     * [825]Envoy
+     * [826]Open XML Paper Specification
+     * [827]Portable Document Format
+
+   Related topics
+
+     * [828]Character encoding
+          + [829]ASCII
+          + [830]Unicode
+     * [831]TeX
+
+     * [832]v
+     * [833]t
+     * [834]e
+
+   [835]ISO standards by standard number
+
+   List of [836]ISO standards – [837]ISO romanizations – [838]IEC
+   standards
+
+   1–9999
+
+     * [839]1
+     * [840]2
+     * [841]3
+     * [842]4
+     * [843]6
+     * [844]7
+     * [845]9
+     * [846]16
+     * [847]17
+     * [848]31
+          + [849]-0
+          + [850]-1
+          + [851]-3
+          + [852]-4
+          + [853]-5
+          + [854]-6
+          + [855]-7
+          + [856]-8
+          + [857]-9
+          + [858]-10
+          + [859]-11
+          + [860]-12
+          + [861]-13
+     * [862]68-1
+     * [863]128
+     * [864]216
+     * [865]217
+     * [866]226
+     * [867]228
+     * [868]233
+     * [869]259
+     * [870]261
+     * [871]262
+     * [872]302
+     * [873]306
+     * [874]361
+     * [875]500
+     * [876]518
+     * [877]519
+     * [878]639
+          + [879]-1
+          + [880]-2
+          + [881]-3
+          + [882]-5
+          + [883]-6
+     * [884]646
+     * [885]657
+     * [886]668
+     * [887]690
+     * [888]704
+     * [889]732
+     * [890]764
+     * [891]838
+     * [892]843
+     * [893]860
+     * [894]898
+     * [895]965
+     * [896]999
+     * [897]1000
+     * [898]1004
+     * [899]1007
+     * [900]1073-1
+     * [901]1073-2
+     * [902]1155
+     * [903]1413
+     * [904]1538
+     * [905]1629
+     * [906]1745
+     * [907]1989
+     * [908]2014
+     * [909]2015
+     * [910]2022
+     * [911]2033
+     * [912]2047
+     * [913]2108
+     * [914]2145
+     * [915]2146
+     * [916]2240
+     * [917]2281
+     * [918]2533
+     * [919]2709
+     * [920]2711
+     * [921]2720
+     * [922]2788
+     * [923]2848
+     * [924]2852
+     * [925]2921
+     * [926]3029
+     * [927]3103
+     * [928]3166
+          + [929]-1
+          + [930]-2
+          + [931]-3
+     * [932]3297
+     * [933]3307
+     * [934]3601
+     * [935]3602
+     * [936]3864
+     * [937]3901
+     * [938]3950
+     * [939]3977
+     * [940]4031
+     * [941]4157
+     * [942]4165
+     * [943]4217
+     * [944]4909
+     * [945]5218
+     * [946]5426
+     * [947]5427
+     * [948]5428
+     * [949]5725
+     * [950]5775
+     * [951]5776
+     * [952]5800
+     * [953]5807
+     * [954]5964
+     * [955]6166
+     * [956]6344
+     * [957]6346
+     * [958]6373
+     * [959]6385
+     * [960]6425
+     * [961]6429
+     * [962]6438
+     * [963]6523
+     * [964]6709
+     * [965]6943
+     * [966]7001
+     * [967]7002
+     * [968]7010
+     * [969]7027
+     * [970]7064
+     * [971]7098
+     * [972]7185
+     * [973]7200
+     * [974]7498
+          + [975]-1
+     * [976]7637
+     * [977]7736
+     * [978]7810
+     * [979]7811
+     * [980]7812
+     * [981]7813
+     * [982]7816
+     * [983]7942
+     * [984]8000
+     * [985]8093
+     * [986]8178
+     * [987]8217
+     * [988]8373
+     * [989]8501-1
+     * [990]8571
+     * [991]8583
+     * [992]8601
+     * [993]8613
+     * [994]8632
+     * [995]8651
+     * [996]8652
+     * [997]8691
+     * [998]8805/8806
+     * [999]8807
+     * [1000]8820-5
+     * [1001]8859
+          + [1002]-1
+          + [1003]-2
+          + [1004]-3
+          + [1005]-4
+          + [1006]-5
+          + [1007]-6
+          + [1008]-7
+          + [1009]-8
+          + [1010]-8-I
+          + [1011]-9
+          + [1012]-10
+          + [1013]-11
+          + [1014]-12
+          + [1015]-13
+          + [1016]-14
+          + [1017]-15
+          + [1018]-16
+     * [1019]8879
+     * [1020]9000/9001
+     * [1021]9036
+     * [1022]9075
+     * [1023]9126
+     * [1024]9141
+     * [1025]9227
+     * [1026]9241
+     * [1027]9293
+     * [1028]9314
+     * [1029]9362
+     * [1030]9407
+     * [1031]9496
+     * [1032]9506
+     * [1033]9529
+     * [1034]9564
+     * [1035]9592/9593
+     * [1036]9594
+     * [1037]9660
+     * [1038]9797-1
+     * [1039]9897
+     * [1040]9899
+     * [1041]9945
+     * [1042]9984
+     * [1043]9985
+     * [1044]9995
+
+   10000–19999
+
+     * [1045]10006
+     * [1046]10007
+     * [1047]10116
+     * [1048]10118-3
+     * [1049]10160
+     * [1050]10161
+     * [1051]10165
+     * [1052]10179
+     * [1053]10206
+     * [1054]10218
+     * [1055]10279
+     * [1056]10303
+          + [1057]-11
+          + [1058]-21
+          + [1059]-22
+          + [1060]-28
+          + [1061]-238
+     * [1062]10383
+     * [1063]10585
+     * [1064]10589
+     * [1065]10628
+     * [1066]10646
+     * [1067]10664
+     * [1068]10746
+     * [1069]10861
+     * [1070]10957
+     * [1071]10962
+     * [1072]10967
+     * [1073]11073
+     * [1074]11170
+     * [1075]11172
+     * [1076]11179
+     * [1077]11404
+     * [1078]11544
+     * [1079]11783
+     * [1080]11784
+     * [1081]11785
+     * [1082]11801
+     * [1083]11889
+     * [1084]11898
+     * [1085]11940 ([1086]-2)
+     * [1087]11941
+     * [1088]11941 (TR)
+     * [1089]11992
+     * [1090]12006
+     * [1091]12052
+     * [1092]12182
+     * [1093]12207
+     * [1094]12234-2
+     * [1095]12620
+     * [1096]13211
+          + [1097]-1
+          + [1098]-2
+     * [1099]13216
+     * [1100]13250
+     * [1101]13399
+     * [1102]13406-2
+     * [1103]13450
+     * [1104]13485
+     * [1105]13490
+     * [1106]13567
+     * [1107]13568
+     * [1108]13584
+     * [1109]13616
+     * [1110]13816
+     * [1111]13818
+     * [1112]14000
+     * [1113]14031
+     * [1114]14224
+     * [1115]14289
+     * [1116]14396
+     * [1117]14443
+     * [1118]14496
+          + [1119]-2
+          + [1120]-3
+          + [1121]-6
+          + [1122]-10
+          + [1123]-11
+          + [1124]-12
+          + [1125]-14
+          + [1126]-17
+          + [1127]-20
+     * [1128]14617
+     * [1129]14644
+     * [1130]14649
+     * [1131]14651
+     * [1132]14698
+     * [1133]14764
+     * [1134]14882
+     * [1135]14971
+     * [1136]15022
+     * [1137]15189
+     * [1138]15288
+     * [1139]15291
+     * [1140]15398
+     * [1141]15408
+     * [1142]15444
+          + [1143]-3
+          + [1144]-9
+     * [1145]15445
+     * [1146]15438
+     * [1147]15504
+     * [1148]15511
+     * [1149]15686
+     * [1150]15693
+     * [1151]15706
+          + [1152]-2
+     * [1153]15707
+     * [1154]15897
+     * [1155]15919
+     * [1156]15924
+     * [1157]15926
+     * [1158]15926 WIP
+     * [1159]15930
+     * [1160]15938
+     * [1161]16023
+     * [1162]16262
+     * [1163]16355-1
+     * [1164]16485
+     * [1165]16612-2
+     * [1166]16750
+     * [1167]16949 (TS)
+     * [1168]17024
+     * [1169]17025
+     * [1170]17100
+     * [1171]17203
+     * [1172]17369
+     * [1173]17442
+     * [1174]17506
+     * [1175]17799
+     * [1176]18004
+     * [1177]18014
+     * [1178]18181
+     * [1179]18245
+     * [1180]18629
+     * [1181]18916
+     * [1182]19005
+     * [1183]19011
+     * [1184]19092
+          + [1185]-1
+          + [1186]-2
+     * [1187]19114
+     * [1188]19115
+     * [1189]19125
+     * [1190]19136
+     * [1191]19407
+     * [1192]19439
+     * [1193]19500
+     * [1194]19501
+     * [1195]19502
+     * [1196]19503
+     * [1197]19505
+     * [1198]19506
+     * [1199]19507
+     * [1200]19508
+     * [1201]19509
+     * [1202]19510
+     * [1203]19600
+     * [1204]19752
+     * [1205]19757
+     * [1206]19770
+     * [1207]19775-1
+     * [1208]19794-5
+     * [1209]19831
+
+   20000–29999
+
+     * [1210]20000
+     * [1211]20022
+     * [1212]20121
+     * [1213]20400
+     * [1214]20802
+     * [1215]20830
+     * [1216]21000
+     * [1217]21001
+     * [1218]21047
+     * [1219]21122
+     * [1220]21500
+     * [1221]21827
+     * [1222]22000
+     * [1223]22275
+     * [1224]22300
+     * [1225]22301
+     * [1226]22395
+     * [1227]22537
+     * [1228]23000
+     * [1229]23003
+     * [1230]23008
+     * [1231]23009
+     * [1232]23090-3
+     * [1233]23092
+     * [1234]23094-1
+     * [1235]23094-2
+     * [1236]23270
+     * [1237]23271
+     * [1238]23360
+     * [1239]23941
+     * [1240]24517
+     * [1241]24613
+     * [1242]24617
+     * [1243]24707
+     * [1244]24728
+     * [1245]25178
+     * [1246]25964
+     * [1247]26000
+     * [1248]26262
+     * 26300
+     * [1249]26324
+     * [1250]27000 series
+     * [1251]27000
+     * [1252]27001
+     * [1253]27002
+     * [1254]27005
+     * [1255]27006
+     * [1256]27729
+     * [1257]28000
+     * 29110
+     * [1258]29148
+     * [1259]29199-2
+     * [1260]29500
+
+   30000+
+
+     * [1261]30170
+     * [1262]31000
+     * [1263]32000
+     * [1264]37001
+     * [1265]38500
+     * [1266]39075
+     * [1267]40500
+     * [1268]42010
+     * [1269]45001
+     * [1270]50001
+     * [1271]55000
+     * [1272]56000
+     * [1273]80000
+
+     * [1274]Category
+
+     * [1275]v
+     * [1276]t
+     * [1277]e
+
+   [1278]OpenOffice.org
+
+     * [1279]Timeline of StarOffice-descended software
+
+   Active [1280]derivatives
+
+     * [1281]Apache OpenOffice
+     * [1282]Collabora Online
+     * [1283]LibreOffice
+
+   [1284][65px-OOo3.2.1Icon.png]
+
+   Discontinued and
+   merged derivatives
+
+     * [1285]Go-oo
+     * [1286]IBM Workplace
+     * [1287]Lotus Symphony
+     * [1288]NeoOffice
+     * [1289]StarOffice/Oracle Open Office
+
+   Technologies
+
+     * OpenDocument
+     * [1290]OpenOffice Basic
+     * [1291]OpenOffice.org XML
+     * [1292]Universal Network Objects
+
+   Companies
+
+     * [1293]Star Division
+     * [1294]Sun Microsystems
+     * [1295]Oracle Corporation
+
+     * [1296]Category
+     * [1297]Commons
+
+     * [1298]v
+     * [1299]t
+     * [1300]e
+
+   [1301]IEC standards
+
+   IEC
+
+     * [1302]60027
+     * [1303]60034
+     * [1304]60038
+     * [1305]60062
+     * [1306]60063
+     * [1307]60068
+     * [1308]60112
+     * [1309]60228
+     * [1310]60269
+     * [1311]60297
+     * [1312]60309
+     * [1313]60320
+     * [1314]60364
+     * [1315]60446
+     * [1316]60559
+     * [1317]60601
+     * [1318]60870
+          + [1319]60870-5
+          + [1320]60870-6
+     * [1321]60906-1
+     * [1322]60908
+     * [1323]60929
+     * [1324]60958
+     * [1325]60980-344
+     * [1326]61030
+     * [1327]61131
+          + [1328]61131-3
+          + [1329]61131-9
+     * [1330]61158
+     * [1331]61162
+     * [1332]61334
+     * [1333]61355
+     * [1334]61360
+     * [1335]61400
+     * [1336]61499
+     * [1337]61508
+     * [1338]61511
+     * [1339]61784
+     * [1340]61850
+     * [1341]61851
+     * [1342]61883
+     * [1343]61960
+     * [1344]61968
+     * [1345]61970
+     * [1346]62014-4
+     * [1347]62026
+     * [1348]62056
+     * [1349]62061
+     * [1350]62196
+     * [1351]62262
+     * [1352]62264
+     * [1353]62304
+     * [1354]62325
+     * [1355]62351
+     * [1356]62365
+     * [1357]62366
+     * [1358]62379
+     * [1359]62386
+     * [1360]62455
+     * [1361]62680
+     * [1362]62682
+     * [1363]62700
+     * [1364]63110
+     * [1365]63119
+     * [1366]63382
+
+   ISO/IEC
+
+     * [1367]646
+     * [1368]1989
+     * [1369]2022
+     * [1370]4909
+     * [1371]5218
+     * [1372]6429
+     * [1373]6523
+     * [1374]7810
+     * [1375]7811
+     * [1376]7812
+     * [1377]7813
+     * [1378]7816
+     * [1379]7942
+     * [1380]8613
+     * [1381]8632
+     * [1382]8652
+     * [1383]8859
+     * [1384]9126
+     * [1385]9293
+     * [1386]9496
+     * [1387]9529
+     * [1388]9592
+     * [1389]9593
+     * [1390]9899
+     * [1391]9945
+     * [1392]9995
+     * [1393]10021
+     * [1394]10116
+     * [1395]10165
+     * [1396]10179
+     * [1397]10279
+     * [1398]10646
+     * [1399]10967
+     * [1400]11172
+     * [1401]11179
+     * [1402]11404
+     * [1403]11544
+     * [1404]11801
+     * [1405]12207
+     * [1406]13250
+     * [1407]13346
+     * [1408]13522-5
+     * [1409]13568
+     * [1410]13816
+     * [1411]13818
+     * [1412]14443
+     * [1413]14496
+     * [1414]14651
+     * [1415]14882
+     * [1416]15288
+     * [1417]15291
+     * [1418]15408
+     * [1419]15444
+     * [1420]15445
+     * [1421]15504
+     * [1422]15511
+     * [1423]15693
+     * [1424]15897
+     * [1425]15938
+     * [1426]16262
+     * [1427]16485
+     * [1428]17024
+     * [1429]17025
+     * [1430]18004
+     * [1431]18014
+     * [1432]18181
+     * [1433]19752
+     * [1434]19757
+     * [1435]19770
+     * [1436]19788
+     * [1437]20000
+     * [1438]20802
+     * [1439]21000
+     * [1440]21827
+     * [1441]22275
+     * [1442]22537
+     * [1443]23000
+     * [1444]23003
+     * [1445]23008
+     * [1446]23270
+     * [1447]23360
+     * [1448]24707
+     * [1449]24727
+     * [1450]24744
+     * [1451]24752
+     * 26300
+     * [1452]27000
+     * [1453]27000-series
+     * [1454]27002
+     * [1455]27040
+     * 29110
+     * [1456]29119
+     * [1457]33001
+     * [1458]38500
+     * [1459]39075
+     * [1460]42010
+     * [1461]80000
+     * [1462]81346
+
+   Related
+
+     * [1463]International Electrotechnical Commission
+
+     * [1464]v
+     * [1465]t
+     * [1466]e
+
+   [1467]Document markup languages
+
+   [1468]Office suite
+
+     * [1469]Compound Document Format
+     * [1470]OOXML
+          + [1471]SpreadsheetML
+          + [1472]PresentationML
+          + [1473]WordprocessingML
+     * ODF
+     * [1474]UOF
+
+   Well-known
+
+     * [1475]HTML
+     * [1476]XHTML
+     * [1477]MathML
+     * [1478]RTF
+     * [1479]TeX
+     * [1480]LaTeX
+     * [1481]Markdown
+
+   Lesser-known
+
+     * [1482]AmigaGuide
+     * [1483]AsciiDoc
+     * [1484]BBCode
+     * [1485]CML
+     * [1486]C-HTML
+     * [1487]ConTeXt
+     * [1488]CrossMark
+     * [1489]DITA
+     * [1490]DocBook
+     * [1491]EAD
+     * [1492]Enriched text
+     * [1493]FHTML
+     * [1494]GML
+     * [1495]GuideML
+     * [1496]HDML
+     * [1497]HyTime
+     * [1498]IPF
+     * [1499]LilyPond
+     * [1500]LinuxDoc
+     * Lout
+     * [1501]MIF
+     * [1502]MAML
+     * [1503]MEI
+     * [1504]MusicXML
+     * [1505]OMDoc
+     * [1506]OpenMath
+     * [1507]Org-mode
+     * [1508]POD
+     * [1509]ReStructuredText
+     * [1510]RTML
+     * [1511]RFT
+     * [1512]S1000D
+     * [1513]Setext
+     * [1514]TEI
+     * [1515]Texinfo
+     * [1516]troff
+     * [1517]Wikitext
+     * [1518]WML
+     * [1519]WapTV
+     * [1520]XAML
+
+   [1521]List of document markup languages
+
+   [1522]Authority control databases: National [1523]Edit this at Wikidata
+     * [1524]Germany
+
+   Retrieved from
+   "[1525]https://en.wikipedia.org/w/index.php?title=OpenDocument&oldid=12
+   61419966#Specifications"
+
+   [1526]Categories:
+     * [1527]OpenDocument
+     * [1528]Computer file formats
+     * [1529]Document-centric XML-based standards
+     * [1530]ISO/IEC 26300
+     * [1531]Open standards
+     * [1532]Open file formats
+     * [1533]Office document file formats
+     * [1534]Markup languages
+     * [1535]OpenOffice
+
+   Hidden categories:
+     * [1536]CS1 Spanish-language sources (es)
+     * [1537]CS1 maint: numeric names: authors list
+     * [1538]CS1 maint: archived copy as title
+     * [1539]CS1 maint: bot: original URL status unknown
+     * [1540]CS1 Russian-language sources (ru)
+     * [1541]Articles with short description
+     * [1542]Short description is different from Wikidata
+     * [1543]Use dmy dates from April 2021
+     * [1544]Articles containing potentially dated statements from July
+       2007
+     * [1545]All articles containing potentially dated statements
+     * [1546]All articles with unsourced statements
+     * [1547]Articles with unsourced statements from March 2019
+     * [1548]Wikipedia articles needing clarification from May 2021
+     * [1549]Webarchive template wayback links
+     * [1550]Commons category link is on Wikidata
+
+     * This page was last edited on 6 December 2024, at 00:43 (UTC).
+     * Text is available under the [1551]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [1552]Terms of Use and
+       [1553]Privacy Policy. Wikipedia® is a registered trademark of the
+       [1554]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [1555]Privacy policy
+     * [1556]About Wikipedia
+     * [1557]Disclaimers
+     * [1558]Contact Wikipedia
+     * [1559]Code of Conduct
+     * [1560]Developers
+     * [1561]Statistics
+     * [1562]Cookie statement
+     * [1563]Mobile view
+
+     * [1564]Wikimedia Foundation
+     * [1565]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/OpenDocument#Specifications
+   2. file:///w/index.php?title=OpenDocument&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=OpenDocument
+  21. file:///w/index.php?title=Special:UserLogin&returnto=OpenDocument
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=OpenDocument
+  24. file:///w/index.php?title=Special:UserLogin&returnto=OpenDocument
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html
+  29. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Specifications
+  30. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#History
+  31. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Conception
+  32. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Further_standardization
+  33. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Application_support
+  34. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Software
+  35. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Accessibility
+  36. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Licensing
+  37. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Public_access_to_the_standard
+  38. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Additional_royalty-free_licensing
+  39. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Response
+  40. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Support_for_OpenDocument
+  41. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Adoption
+  42. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#See_also
+  43. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Notes
+  44. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#References
+  45. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#External_links
+  46. https://ar.wikipedia.org/wiki/أوبن_ديكيومنت
+  47. https://bg.wikipedia.org/wiki/OpenDocument
+  48. https://bs.wikipedia.org/wiki/OpenDocument
+  49. https://ca.wikipedia.org/wiki/OpenDocument
+  50. https://cs.wikipedia.org/wiki/OpenDocument
+  51. https://da.wikipedia.org/wiki/OpenDocument
+  52. https://de.wikipedia.org/wiki/OpenDocument
+  53. https://et.wikipedia.org/wiki/OpenDocument
+  54. https://es.wikipedia.org/wiki/OpenDocument
+  55. https://eu.wikipedia.org/wiki/OpenDocument
+  56. https://fa.wikipedia.org/wiki/اوپن‌داکیومنت
+  57. https://fr.wikipedia.org/wiki/OpenDocument
+  58. https://gl.wikipedia.org/wiki/OpenDocument
+  59. https://ko.wikipedia.org/wiki/오픈도큐먼트
+  60. https://hr.wikipedia.org/wiki/OpenDocument
+  61. https://id.wikipedia.org/wiki/OpenDocument
+  62. https://it.wikipedia.org/wiki/OpenDocument
+  63. https://he.wikipedia.org/wiki/OpenDocument
+  64. https://lt.wikipedia.org/wiki/OpenDocument
+  65. https://hu.wikipedia.org/wiki/OpenDocument
+  66. https://mk.wikipedia.org/wiki/Отворен_формат_за_документи
+  67. https://my.wikipedia.org/wiki/OpenDocument
+  68. https://nl.wikipedia.org/wiki/OpenDocument
+  69. https://ja.wikipedia.org/wiki/OpenDocument
+  70. https://no.wikipedia.org/wiki/OpenDocument
+  71. https://nn.wikipedia.org/wiki/OpenDocument
+  72. https://pl.wikipedia.org/wiki/OpenDocument
+  73. https://pt.wikipedia.org/wiki/OpenDocument
+  74. https://ro.wikipedia.org/wiki/OpenDocument
+  75. https://ru.wikipedia.org/wiki/OpenDocument
+  76. https://sq.wikipedia.org/wiki/OpenDocument
+  77. https://simple.wikipedia.org/wiki/OpenDocument
+  78. https://sk.wikipedia.org/wiki/OpenDocument
+  79. https://sl.wikipedia.org/wiki/OpenDocument
+  80. https://sr.wikipedia.org/wiki/OpenDocument
+  81. https://fi.wikipedia.org/wiki/OpenDocument
+  82. https://sv.wikipedia.org/wiki/Opendocument
+  83. https://ta.wikipedia.org/wiki/திறந்த_ஆவண_வடிவம்
+  84. https://th.wikipedia.org/wiki/โอเพนด็อกคิวเมนต์
+  85. https://tr.wikipedia.org/wiki/OpenDocument
+  86. https://uk.wikipedia.org/wiki/OpenDocument
+  87. https://vi.wikipedia.org/wiki/ODF
+  88. https://wuu.wikipedia.org/wiki/开放文档格式
+  89. https://yo.wikipedia.org/wiki/OpenDocument
+  90. https://zh.wikipedia.org/wiki/开放文档格式
+  91. https://www.wikidata.org/wiki/Special:EntityPage/Q184473#sitelinks-wikipedia
+  92. file:///wiki/OpenDocument
+  93. file:///wiki/Talk:OpenDocument
+  94. file:///wiki/OpenDocument
+  95. file:///w/index.php?title=OpenDocument&action=edit
+  96. file:///w/index.php?title=OpenDocument&action=history
+  97. file:///wiki/OpenDocument
+  98. file:///w/index.php?title=OpenDocument&action=edit
+  99. file:///w/index.php?title=OpenDocument&action=history
+ 100. file:///wiki/Special:WhatLinksHere/OpenDocument
+ 101. file:///wiki/Special:RecentChangesLinked/OpenDocument
+ 102. file:///wiki/Wikipedia:File_Upload_Wizard
+ 103. file:///wiki/Special:SpecialPages
+ 104. file:///w/index.php?title=OpenDocument&oldid=1261419966
+ 105. file:///w/index.php?title=OpenDocument&action=info
+ 106. file:///w/index.php?title=Special:CiteThisPage&page=OpenDocument&id=1261419966&wpFormIdentifier=titleform
+ 107. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/OpenDocument#Specifications
+ 108. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/OpenDocument#Specifications
+ 109. file:///w/index.php?title=Special:DownloadAsPdf&page=OpenDocument&action=show-download-screen
+ 110. file:///w/index.php?title=OpenDocument&printable=yes
+ 111. https://commons.wikimedia.org/wiki/Category:OpenDocument
+ 112. https://www.wikidata.org/wiki/Special:EntityPage/Q184473
+ 113. file:///w/index.php?title=.odt&redirect=no
+ 114. file:///wiki/Open_Document_Architecture
+ 115. file:///wiki/OpenDoc
+ 116. file:///wiki/Office_Open_XML
+ 117. file:///wiki/ODF_(disambiguation)
+ 118. file:///wiki/OpenDocument_standardization
+ 119. file:///wiki/OpenDocument_technical_specification
+ 120. file:///wiki/OpenFormula
+ 121. file:///wiki/OpenDocument_adoption
+ 122. file:///wiki/OpenDocument_software
+ 123. file:///wiki/Comparison_of_OpenDocument_software
+ 124. file:///wiki/Template:OpenDocument
+ 125. file:///wiki/Template_talk:OpenDocument
+ 126. file:///wiki/Special:EditPage/Template:OpenDocument
+ 127. file:///wiki/File:ODF_textdocument_48x48.png
+ 128. file:///wiki/Filename_extension
+ 129. file:///wiki/Internet_media_type
+ 130. file:///wiki/Uniform_Type_Identifier
+ 131. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-uti-1
+ 132. file:///wiki/OASIS_(organization)
+ 133. file:///wiki/Software_release_life_cycle
+ 134. file:///wiki/Document_file_format
+ 135. file:///wiki/XML
+ 136. file:///wiki/International_standard
+ 137. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part1-2
+ 138. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part2-3
+ 139. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part3-4
+ 140. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf10-5
+ 141. file:///wiki/Open_format
+ 142. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#Licensing
+ 143. http://www.oasis-open.org/committees/office/
+ 144. http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_tc_browse.htm?commid=45374
+ 145. file:///wiki/File:ODF_presentation_48x48.png
+ 146. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-uti-1
+ 147. file:///wiki/Presentation
+ 148. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part1-2
+ 149. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part2-3
+ 150. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part3-4
+ 151. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf10-5
+ 152. file:///wiki/File:ODF_spreadsheet_48x48.png
+ 153. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-uti-1
+ 154. file:///wiki/Spreadsheet
+ 155. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part1-2
+ 156. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part2-3
+ 157. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part3-4
+ 158. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf10-5
+ 159. file:///wiki/File:ODF_drawing_48x48.png
+ 160. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-uti-1
+ 161. file:///wiki/Graphics_file_format
+ 162. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part1-2
+ 163. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part2-3
+ 164. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part3-4
+ 165. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf10-5
+ 166. file:///wiki/Open_file_format
+ 167. file:///wiki/Word_processor
+ 168. file:///wiki/Spreadsheet
+ 169. file:///wiki/Presentation_program
+ 170. file:///wiki/Zip_(file_format)
+ 171. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-6
+ 172. file:///wiki/XML
+ 173. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-7
+ 174. file:///wiki/OASIS_(organization)
+ 175. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-8
+ 176. file:///wiki/Sun_Microsystems
+ 177. file:///wiki/OpenOffice.org_XML
+ 178. file:///wiki/OpenOffice.org
+ 179. file:///wiki/LibreOffice
+ 180. file:///wiki/StarOffice
+ 181. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-9
+ 182. file:///wiki/International_Organization_for_Standardization
+ 183. file:///wiki/International_Electrotechnical_Commission
+ 184. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part1-2
+ 185. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part2-3
+ 186. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part3-4
+ 187. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf10-5
+ 188. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-iso.org-10
+ 189. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-http-11
+ 190. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-12
+ 191. file:///w/index.php?title=OpenDocument&action=edit&section=1
+ 192. file:///wiki/OpenDocument_technical_specification
+ 193. file:///wiki/Filename_extension
+ 194. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-13
+ 195. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-hg_flat_opendocument-14
+ 196. file:///wiki/Word_processor
+ 197. file:///wiki/Spreadsheet
+ 198. file:///wiki/Presentation
+ 199. file:///wiki/Graphics
+ 200. file:///wiki/Formula
+ 201. file:///wiki/XML
+ 202. file:///wiki/Root_element
+ 203. file:///wiki/ZIP_(file_format)
+ 204. file:///wiki/Lossless_compression
+ 205. file:///wiki/Separation_of_concerns
+ 206. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-15
+ 207. file:///wiki/Creative_Commons_licenses
+ 208. file:///w/index.php?title=OpenDocument&action=edit&section=2
+ 209. file:///wiki/OpenDocument_standardization
+ 210. file:///w/index.php?title=OpenDocument&action=edit&section=3
+ 211. file:///wiki/OASIS_(organization)
+ 212. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-16
+ 213. file:///wiki/ISO/IEC_JTC_1
+ 214. file:///wiki/Danish_UNIX_User_Group
+ 215. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-17
+ 216. file:///wiki/JTC_1
+ 217. file:///wiki/ISO/IEC_JTC_1/SC_34
+ 218. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-18
+ 219. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-19
+ 220. file:///wiki/International_standard
+ 221. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-:0-20
+ 222. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-Oasis_meeting-21
+ 223. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-:1-22
+ 224. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-:0-20
+ 225. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-:1-22
+ 226. file:///wiki/Microsoft_Office
+ 227. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-:0-20
+ 228. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-:2-23
+ 229. file:///wiki/W3C
+ 230. file:///wiki/Compound_Document_Format
+ 231. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-:2-23
+ 232. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-:0-20
+ 233. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-andy1-24
+ 234. file:///w/index.php?title=OpenDocument&action=edit&section=4
+ 235. file:///wiki/OpenDocument_standardization
+ 236. file:///wiki/Organization_for_the_Advancement_of_Structured_Information_Standards
+ 237. https://www.oasis-open.org/committees/download.php/19274/OpenDocument-v1.0ed2-cs1.pdf
+ 238. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf10-5
+ 239. https://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1.pdf
+ 240. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-25
+ 241. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-26
+ 242. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-27
+ 243. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-28
+ 244. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-iso.org-10
+ 245. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-http-11
+ 246. https://docs.oasis-open.org/office/v1.2/OpenDocument-v1.2.pdf
+ 247. file:///wiki/Resource_Description_Framework
+ 248. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-register-29
+ 249. file:///wiki/OpenFormula
+ 250. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-register-29
+ 251. file:///wiki/Digital_signature
+ 252. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-30
+ 253. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-31
+ 254. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-32
+ 255. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part1-2
+ 256. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part2-3
+ 257. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-odf12-part3-4
+ 258. https://www.oasis-open.org/2021/06/16/opendocument-v1-3-oasis-standard-published/
+ 259. file:///wiki/The_Document_Foundation
+ 260. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-33
+ 261. file:///w/index.php?title=OpenDocument&action=edit&section=5
+ 262. file:///w/index.php?title=OpenDocument&action=edit&section=6
+ 263. file:///wiki/OpenDocument_software
+ 264. file:///wiki/Free_software
+ 265. file:///wiki/Proprietary_software
+ 266. file:///wiki/Office_suites
+ 267. file:///wiki/AbiWord
+ 268. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-34
+ 269. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-abiword-35
+ 270. file:///wiki/Adobe_Buzzword
+ 271. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-36
+ 272. file:///wiki/Apache_OpenOffice
+ 273. file:///wiki/Bean_(software)
+ 274. file:///wiki/Calibre_(software)
+ 275. file:///wiki/E-book
+ 276. file:///wiki/Calligra_Suite
+ 277. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-37
+ 278. file:///wiki/Collabora_Online
+ 279. file:///wiki/Collabora_Online
+ 280. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-38
+ 281. file:///wiki/Corel_Corporation
+ 282. file:///wiki/Corel_WordPerfect_Office
+ 283. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-39
+ 284. file:///wiki/Dropbox_(service)
+ 285. file:///wiki/Evince
+ 286. file:///wiki/Gnumeric
+ 287. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-40
+ 288. file:///wiki/Google_Docs
+ 289. file:///wiki/IBM_Lotus_Symphony
+ 290. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-register-29
+ 291. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-41
+ 292. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-42
+ 293. file:///wiki/Inkscape
+ 294. file:///wiki/KOffice
+ 295. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-43
+ 296. file:///wiki/LibreOffice
+ 297. file:///wiki/Microsoft_Office_2003
+ 298. file:///wiki/Microsoft_Office_XP
+ 299. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-44
+ 300. file:///wiki/Microsoft_Office_2007
+ 301. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-45
+ 302. file:///wiki/Microsoft_Office_2010
+ 303. file:///wiki/Microsoft_Office_2013
+ 304. file:///wiki/Microsoft_Office_2016
+ 305. file:///wiki/Microsoft_Office_2019
+ 306. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-46
+ 307. file:///wiki/Microsoft_Office_2021
+ 308. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-47
+ 309. file:///wiki/Microsoft_OneDrive
+ 310. file:///wiki/Office_Web_Apps
+ 311. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-48
+ 312. file:///wiki/NeoOffice
+ 313. file:///wiki/Okular
+ 314. file:///wiki/OnlyOffice
+ 315. file:///wiki/OpenOffice.org
+ 316. file:///wiki/RStudio#Reproducible_analyses_with_vignettes
+ 317. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-quarto-49
+ 318. file:///wiki/Scribus
+ 319. file:///wiki/SoftMaker_Office
+ 320. file:///wiki/Sun_Microsystems
+ 321. file:///wiki/StarOffice
+ 322. file:///wiki/TextEdit
+ 323. file:///wiki/WordPad
+ 324. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-50
+ 325. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-51
+ 326. file:///wiki/Zoho_Office_Suite
+ 327. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-register-29
+ 328. file:///wiki/Microsoft
+ 329. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-52
+ 330. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-53
+ 331. https://en.wikipedia.org/w/index.php?title=OpenDocument&action=edit
+ 332. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-54
+ 333. file:///wiki/OpenDocument_software#Microsoft_Office_2007_SP2_support_controversy
+ 334. file:///wiki/ODF_Alliance
+ 335. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-sp2-fact-sheet-55
+ 336. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-56
+ 337. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-ms-odf-1.4-57
+ 338. file:///wiki/Mac_OS_X_10.5
+ 339. file:///wiki/TextEdit
+ 340. file:///wiki/Quick_Look
+ 341. file:///w/index.php?title=OpenDocument&action=edit&section=7
+ 342. file:///wiki/OpenDocument_software#Accessibility
+ 343. file:///w/index.php?title=OpenDocument&action=edit&section=8
+ 344. file:///w/index.php?title=OpenDocument&action=edit&section=9
+ 345. file:///wiki/OASIS_(organization)
+ 346. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-58
+ 347. file:///wiki/Information_Technology_Task_Force
+ 348. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-59
+ 349. file:///w/index.php?title=OpenDocument&action=edit&section=10
+ 350. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-60
+ 351. http://www.oasis-open.org/who/intellectualproperty.php
+ 352. file:///wiki/Sun_Microsystems
+ 353. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-SunOpenDocumentPatentStatement-61
+ 354. file:///wiki/IBM
+ 355. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-62
+ 356. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-IBM-ISP-list-63
+ 357. file:///wiki/Software_Freedom_Law_Center
+ 358. http://www.softwarefreedom.org/resources/2006/OpenDocument.html
+ 359. file:///wiki/Wikipedia:Citation_needed
+ 360. file:///w/index.php?title=OpenDocument&action=edit&section=11
+ 361. file:///w/index.php?title=OpenDocument&action=edit&section=12
+ 362. file:///w/index.php?title=ODF_Plugfest&action=edit&redlink=1
+ 363. file:///wiki/Wikipedia:Please_clarify
+ 364. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-64
+ 365. file:///wiki/Government_Digital_Service
+ 366. file:///wiki/OpenForum_Europe
+ 367. file:///wiki/OpenUK
+ 368. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-65
+ 369. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-66
+ 370. file:///wiki/Apple_Inc.
+ 371. file:///wiki/Adobe_Systems
+ 372. file:///wiki/Google
+ 373. file:///wiki/IBM
+ 374. file:///wiki/Intel
+ 375. file:///wiki/Microsoft
+ 376. file:///wiki/Nokia
+ 377. file:///wiki/Novell
+ 378. file:///wiki/Red_Hat
+ 379. file:///wiki/Oracle_Corporation
+ 380. file:///wiki/OpenDocument_Format_Alliance
+ 381. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-67
+ 382. file:///wiki/NATO
+ 383. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-68
+ 384. file:///wiki/European_Union
+ 385. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-ec.europa.eu-69
+ 386. file:///wiki/Apache_OpenOffice
+ 387. file:///wiki/Calligra
+ 388. file:///wiki/KOffice
+ 389. file:///wiki/NeoOffice
+ 390. file:///wiki/LibreOffice
+ 391. https://web.archive.org/web/20071027064136/http://opendocumentfellowship.com/
+ 392. http://opendocsociety.org/
+ 393. https://web.archive.org/web/20211119055806/http://opendocsociety.org/
+ 394. file:///wiki/Wayback_Machine
+ 395. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-70
+ 396. file:///wiki/Wikimedia_Foundation
+ 397. file:///wiki/MediaWiki
+ 398. file:///wiki/Wikipedia
+ 399. file:///wiki/Wiki
+ 400. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-71
+ 401. file:///wiki/WordPad
+ 402. file:///wiki/TextEdit
+ 403. file:///wiki/Armonk,_New_York
+ 404. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-72
+ 405. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-papers.ssrn.com-73
+ 406. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-papers.ssrn.com-73
+ 407. file:///wiki/Macro_language
+ 408. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-74
+ 409. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-75
+ 410. file:///wiki/MathML
+ 411. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-doyourmath-76
+ 412. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-doyourmath-76
+ 413. file:///w/index.php?title=OpenDocument&action=edit&section=13
+ 414. file:///wiki/OpenDocument_adoption
+ 415. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-papers.ssrn.com-73
+ 416. file:///wiki/NATO
+ 417. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-77
+ 418. file:///wiki/European_Union
+ 419. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-ec.europa.eu-69
+ 420. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-europa.eu-news-78
+ 421. file:///wiki/Argentina
+ 422. file:///wiki/Belgium
+ 423. file:///wiki/Brazil
+ 424. file:///wiki/Croatia
+ 425. file:///wiki/Finland
+ 426. file:///wiki/Denmark
+ 427. file:///wiki/France
+ 428. file:///wiki/Germany
+ 429. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-bundestag-drucksache-17-5730-79
+ 430. file:///wiki/Hungary
+ 431. file:///wiki/India
+ 432. file:///wiki/Italy
+ 433. file:///wiki/Japan
+ 434. file:///wiki/Latvia
+ 435. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-80
+ 436. file:///wiki/Malaysia
+ 437. file:///wiki/Netherlands
+ 438. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-81
+ 439. file:///wiki/Norway
+ 440. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-NorwayDocumentStandard-82
+ 441. file:///wiki/Poland
+ 442. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-83
+ 443. file:///wiki/Portugal
+ 444. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-84
+ 445. file:///wiki/Russia
+ 446. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-RussiaNotice2021-85
+ 447. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-RussiaAdoption-86
+ 448. file:///wiki/Slovakia
+ 449. file:///wiki/Sweden
+ 450. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-87
+ 451. file:///wiki/Serbia
+ 452. file:///wiki/South_Africa
+ 453. file:///wiki/South_Korea
+ 454. file:///wiki/Switzerland
+ 455. file:///wiki/Taiwan
+ 456. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-88
+ 457. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-89
+ 458. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-90
+ 459. file:///wiki/Turkey
+ 460. file:///wiki/United_Kingdom
+ 461. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-91
+ 462. file:///wiki/Uruguay
+ 463. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-92
+ 464. file:///wiki/Venezuela
+ 465. file:///wiki/Andalusia
+ 466. file:///wiki/Assam
+ 467. file:///wiki/Extremadura
+ 468. file:///wiki/Hong_Kong
+ 469. file:///wiki/Kerala
+ 470. file:///wiki/Massachusetts
+ 471. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-93
+ 472. file:///wiki/Misiones
+ 473. file:///wiki/Munich
+ 474. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_note-94
+ 475. file:///wiki/Paraná_(state)
+ 476. file:///w/index.php?title=OpenDocument&action=edit&section=14
+ 477. file:///wiki/OpenDocument_technical_specification
+ 478. file:///wiki/Comparison_of_Office_Open_XML_and_OpenDocument
+ 479. file:///wiki/Comparison_of_document_markup_languages
+ 480. file:///wiki/List_of_document_markup_languages
+ 481. file:///wiki/OpenDocument_software
+ 482. file:///wiki/Standardization_of_Office_Open_XML#Reactions_to_standardization
+ 483. file:///w/index.php?title=OpenDocument&action=edit&section=15
+ 484. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-RussiaNotice2021_85-0
+ 485. file:///wiki/Eurasian_Economic_Union
+ 486. file:///w/index.php?title=OpenDocument&action=edit&section=16
+ 487. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-uti_1-0
+ 488. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-uti_1-1
+ 489. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-uti_1-2
+ 490. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-uti_1-3
+ 491. https://web.archive.org/web/20110822183815/http://www.huw.id.au/filetypes.html#OpenDocument
+ 492. http://www.huw.id.au/filetypes.html#OpenDocument
+ 493. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part1_2-0
+ 494. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part1_2-1
+ 495. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part1_2-2
+ 496. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part1_2-3
+ 497. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part1_2-4
+ 498. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part1_2-5
+ 499. https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=66363
+ 500. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part2_3-0
+ 501. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part2_3-1
+ 502. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part2_3-2
+ 503. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part2_3-3
+ 504. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part2_3-4
+ 505. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part2_3-5
+ 506. https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=66375
+ 507. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part3_4-0
+ 508. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part3_4-1
+ 509. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part3_4-2
+ 510. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part3_4-3
+ 511. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part3_4-4
+ 512. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12-part3_4-5
+ 513. https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=66376
+ 514. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf10_5-0
+ 515. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf10_5-1
+ 516. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf10_5-2
+ 517. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf10_5-3
+ 518. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf10_5-4
+ 519. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf10_5-5
+ 520. https://standards.iso.org/ittf/PubliclyAvailableStandards/c043485_ISO_IEC_26300_2006(E).zip
+ 521. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-6
+ 522. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-7
+ 523. https://www.oasis-open.org/committees/office/charter.php
+ 524. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-8
+ 525. http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office
+ 526. file:///wiki/OASIS_(organization)
+ 527. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-9
+ 528. http://xml.coverpages.org/openoffice-xml_specification_draft200012.pdf
+ 529. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-iso.org_10-0
+ 530. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-iso.org_10-1
+ 531. http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=59302
+ 532. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-http_11-0
+ 533. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-http_11-1
+ 534. http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=59302
+ 535. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-12
+ 536. https://en.wikipedia.org/wiki/OpenDocument_standardization#OpenDocument_1.4
+ 537. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-13
+ 538. https://web.archive.org/web/20090615185541/http://www.ua.es/en/rua/formatos.html
+ 539. http://www.ua.es/en/rua/formatos.html
+ 540. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-hg_flat_opendocument_14-0
+ 541. http://www.ensode.net/roller/dheffelfinger/entry/openoffice_documents_version_control_with
+ 542. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-15
+ 543. https://web.archive.org/web/20110830170930/http://testsuite.opendocumentfellowship.com/
+ 544. file:///wiki/Intel_Corporation
+ 545. http://testsuite.opendocumentfellowship.com/
+ 546. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-16
+ 547. http://www.oasis-open.org/committees/membership.php?wg_abbrev=office
+ 548. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-17
+ 549. http://www.open-std.org/keld/iso26300-odf/dkuug-std-010828.pdf
+ 550. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-18
+ 551. https://web.archive.org/web/20061001180333/http://www.jtc1sc34.org/repository/0728revc.htm
+ 552. http://www.jtc1sc34.org/repository/0728revc.htm
+ 553. file:///wiki/Template:Cite_web
+ 554. file:///wiki/Category:CS1_maint:_numeric_names:_authors_list
+ 555. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-19
+ 556. https://web.archive.org/web/20060519180809/http://www.iso.org/iso/en/commcentre/pressreleases/2006/Ref1004.html
+ 557. file:///wiki/International_Organization_for_Standardization
+ 558. http://www.iso.org/iso/en/commcentre/pressreleases/2006/Ref1004.html
+ 559. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-:0_20-0
+ 560. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-:0_20-1
+ 561. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-:0_20-2
+ 562. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-:0_20-3
+ 563. https://www.cnet.com/news/former-opendocument-advocates-bolt-for-w3c-standard/
+ 564. file:///wiki/CNET
+ 565. file:///wiki/CBS_Interactive
+ 566. https://web.archive.org/web/20120418013056/http://news.cnet.com/8301-10784_3-9806369-7.html
+ 567. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-Oasis_meeting_21-0
+ 568. http://lists.oasis-open.org/archives/office/200212/msg00003.html
+ 569. file:///wiki/OASIS_(organization)
+ 570. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-:1_22-0
+ 571. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-:1_22-1
+ 572. http://www.robweir.com/blog/2007/10/cracks-in-foundation.html
+ 573. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-:2_23-0
+ 574. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-:2_23-1
+ 575. file:///wiki/Mary_Jo_Foley
+ 576. https://www.zdnet.com/article/odf-infighting-could-help-microsofts-ooxml/
+ 577. file:///wiki/ZDNet
+ 578. file:///wiki/CBS_Interactive
+ 579. https://web.archive.org/web/20071223005220/http://blogs.zdnet.com/microsoft/?p=875
+ 580. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-andy1_24-0
+ 581. https://web.archive.org/web/20080208163435/http://www.consortiuminfo.org/standardsblog/article.php?story=20071109070012244
+ 582. http://www.consortiuminfo.org/standardsblog/article.php?story=20071109070012244
+ 583. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-25
+ 584. https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office#odf11
+ 585. file:///wiki/OASIS_(organization)
+ 586. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-26
+ 587. https://lists.oasis-open.org/archives/office/200702/msg00003.html
+ 588. file:///wiki/OASIS_(organization)
+ 589. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-27
+ 590. https://web.archive.org/web/20070219093602/http://www.oasis-open.org/news/oasis-news-2007-02-14.php
+ 591. file:///wiki/OASIS_(organization)
+ 592. https://www.oasis-open.org/news/oasis-news-2007-02-14.php
+ 593. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-28
+ 594. https://web.archive.org/web/20080505061126/http://www.zdnet.co.uk/talkback/0,1000001161,39409700-39001068c-20093634o,00.htm
+ 595. https://www.zdnet.co.uk/talkback/0,1000001161,39409700-39001068c-20093634o,00.htm
+ 596. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-register_29-0
+ 597. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-register_29-1
+ 598. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-register_29-2
+ 599. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-register_29-3
+ 600. https://www.theregister.co.uk/2011/09/12/libreoffice_extensions_and_templates_store_open/
+ 601. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-odf12_30-0
+ 602. https://www.oasis-open.org/news/pr/odf-1-2-approval
+ 603. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-31
+ 604. https://isotc.iso.org/livelink/livelink?func=ll&objId=16678620&objAction=Open
+ 605. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-32
+ 606. https://isotc.iso.org/livelink/livelink?func=ll&objId=16810106&objAction=Open
+ 607. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-33
+ 608. https://publicsoftware.eu/members/cosm-project/
+ 609. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-34
+ 610. https://web.archive.org/web/20220321190045/http://www.abisource.com/wiki/OpenDocument_support
+ 611. http://www.abisource.com/wiki/OpenDocument_support
+ 612. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-abiword_35-0
+ 613. https://web.archive.org/web/20090615201450/http://www.abisource.com/release-notes/2.4.2.phtml
+ 614. http://www.abisource.com/release-notes/2.4.2.phtml
+ 615. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-36
+ 616. https://web.archive.org/web/20080527235749/http://labs.adobe.com/technologies/buzzword/
+ 617. http://labs.adobe.com/technologies/buzzword/
+ 618. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-37
+ 619. http://www.calligra-suite.org/words/
+ 620. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-38
+ 621. https://www.linux-magazine.com/Issues/2020/238/Collabora-and-OnlyOffice/(language)/eng-US
+ 622. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-39
+ 623. http://www.wordperfect.com/us/pages/12100162.html
+ 624. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-40
+ 625. https://help.gnome.org/users/gnumeric/stable/gnumeric.html#file-format-odf
+ 626. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-41
+ 627. http://blogs.msdn.com/dmahugh/archive/2009/05/09/1-2-1.aspx
+ 628. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-42
+ 629. https://web.archive.org/web/20090710011646/http://symphony.lotus.com/software/lotus/symphony/help.nsf/ReleaseNotes
+ 630. http://symphony.lotus.com/software/lotus/symphony/help.nsf/ReleaseNotes
+ 631. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-43
+ 632. https://web.archive.org/web/20080513125754/http://koffice.org/filters/1.6/
+ 633. http://koffice.org/filters/1.6/
+ 634. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-44
+ 635. http://odf-converter.sourceforge.net/download.html#hRequirements
+ 636. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-45
+ 637. https://news.microsoft.com/2008/05/21/microsoft-expands-list-of-formats-supported-in-microsoft-office
+ 638. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-46
+ 639. https://support.office.com/en-us/article/view-opendocument-format-odf-files-in-office-for-mac-97644726-c089-487c-aac4-07b19fe92cc0
+ 640. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-47
+ 641. https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3
+ 642. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-48
+ 643. https://web.archive.org/web/20120418225004/http://www.zdnet.com/blog/microsoft/microsoft-adds-odf-support-url-shortening-to-its-skydrive-storage-service/12480
+ 644. https://www.zdnet.com/blog/microsoft/microsoft-adds-odf-support-url-shortening-to-its-skydrive-storage-service/12480
+ 645. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-quarto_49-0
+ 646. https://quarto.org/docs/reference/formats/odt.html
+ 647. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-50
+ 648. https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-WPODF/[MS-WPODF].pdf#[{"num":50,"gen":0},{"name":"XYZ"},69,738,0]
+ 649. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-51
+ 650. https://docs.microsoft.com/en-us/openspecs/wordpad_standards_support/ms-wpodf/b200dcfd-c4de-475d-94d1-bf0223aa8387
+ 651. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-52
+ 652. http://www.groklaw.net/article.php?story=20060504015438308
+ 653. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-53
+ 654. https://web.archive.org/web/20090722000632/http://www.zdnet.com.au/news/software/soa/Microsoft_Office_to_get_a_dose_of_OpenDocument/0,130061733,139255766,00.htm
+ 655. http://www.zdnet.com.au/news/software/soa/Microsoft_Office_to_get_a_dose_of_OpenDocument/0,130061733,139255766,00.htm
+ 656. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-54
+ 657. https://www.pcworld.com/article/164015/office_2007_sp2_supports_odf.html
+ 658. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-sp2-fact-sheet_55-0
+ 659. https://web.archive.org/web/20090611181719/http://www.odfalliance.org/resources/fact-sheet-Microsoft-ODF-support.pdf
+ 660. http://www.odfalliance.org/resources/fact-sheet-Microsoft-ODF-support.pdf
+ 661. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-56
+ 662. http://office.microsoft.com/en-us/starter-help/differences-between-the-opendocument-text-odt-format-and-the-word-docx-format-HA010355788.aspx
+ 663. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-ms-odf-1.4_57-0
+ 664. https://insider.microsoft365.com/en-us/blog/microsoft-365-apps-now-support-opendocument-format-1-4
+ 665. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-58
+ 666. http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office
+ 667. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-59
+ 668. http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html
+ 669. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-60
+ 670. http://www.oasis-open.org/committees/daycount/tc/office.html
+ 671. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-SunOpenDocumentPatentStatement_61-0
+ 672. http://www.oasis-open.org/committees/office/ipr.php
+ 673. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-62
+ 674. http://lists.oasis-open.org/archives/office/200607/msg00076.html
+ 675. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-IBM-ISP-list_63-0
+ 676. https://web.archive.org/web/20090531052839/http://www-03.ibm.com/linux/ossstds/isplist.html
+ 677. http://www-03.ibm.com/linux/ossstds/isplist.html
+ 678. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-64
+ 679. http://plugfest.opendocumentformat.org/2014-london/
+ 680. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-65
+ 681. http://www.openforumeurope.org/library/odf-toolkit-2/
+ 682. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-66
+ 683. https://web.archive.org/web/20150620003502/http://www.openforumeurope.org/library/ODF/odf-toolkit-folder/OFE-COIS-ODF-infographic-release-02150325-by-sa.jpeg
+ 684. http://www.openforumeurope.org/library/ODF/odf-toolkit-folder/OFE-COIS-ODF-infographic-release-02150325-by-sa.jpeg
+ 685. file:///wiki/Template:Cite_web
+ 686. file:///wiki/Category:CS1_maint:_archived_copy_as_title
+ 687. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-67
+ 688. https://web.archive.org/web/20090403055912/http://www.odfalliance.org/members.php
+ 689. http://www.odfalliance.org/members.php
+ 690. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-68
+ 691. https://web.archive.org/web/20090924190030/http://www.h-online.com/news/NATO-supports-ODF-open-document-format--/111127
+ 692. http://www.h-online.com/news/NATO-supports-ODF-open-document-format--/111127
+ 693. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-ec.europa.eu_69-0
+ 694. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-ec.europa.eu_69-1
+ 695. http://ec.europa.eu/idabc/en/document/3197.html
+ 696. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-70
+ 697. https://www.gov.uk/government/news/open-document-formats-selected-to-meet-user-needs
+ 698. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-71
+ 699. https://web.archive.org/web/20100616012445/http://wikimediafoundation.org/wiki/Wikis_Go_Printable
+ 700. file:///wiki/Wikimedia_Foundation
+ 701. https://wikimediafoundation.org/wiki/Wikis_Go_Printable
+ 702. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-72
+ 703. http://news.cnet.com/OpenDocument-format-gathers-steam/2100-7344_3-5942913.html
+ 704. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-papers.ssrn.com_73-0
+ 705. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-papers.ssrn.com_73-1
+ 706. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-papers.ssrn.com_73-2
+ 707. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1656616
+ 708. file:///wiki/ISBN_(identifier)
+ 709. file:///wiki/Special:BookSources/9780974864853
+ 710. file:///wiki/SSRN_(identifier)
+ 711. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1656616
+ 712. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-74
+ 713. https://web.archive.org/web/20110521183559/http://www.linux.com/archive/articles/47935
+ 714. http://www.linux.com/archive/articles/47935
+ 715. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-75
+ 716. http://blogs.msdn.com/dmahugh/archive/2009/05/13/tracked-changes.aspx
+ 717. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-doyourmath_76-0
+ 718. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-doyourmath_76-1
+ 719. https://web.archive.org/web/20160326225935/http://idippedut.dk/post/Do-your-math-OOXML-and-OMML
+ 720. file:///wiki/Template:Cite_web
+ 721. file:///wiki/Category:CS1_maint:_bot:_original_URL_status_unknown
+ 722. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-77
+ 723. https://nhqc3s.hq.nato.int/Apps/Architecture/NISP/volume3/index.html
+ 724. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-europa.eu-news_78-0
+ 725. https://joinup.ec.europa.eu/community/osor/news/ec-recommends-supporting-open-document-format
+ 726. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-bundestag-drucksache-17-5730_79-0
+ 727. https://dip21.bundestag.de/dip21/btd/17/057/1705730.pdf
+ 728. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-80
+ 729. http://likumi.lv/ta/id/111613-elektronisko-dokumentu-izstradasanas-noformesanas-glabasanas-un-aprites-kartiba-valsts-un-pasvaldibu-iestades-un-kartiba-kada-n...#p-373012
+ 730. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-81
+ 731. https://web.archive.org/web/20160402035719/https://lijsten.forumstandaardisatie.nl/open-standaard/odf12
+ 732. https://lijsten.forumstandaardisatie.nl/open-standaard/odf12
+ 733. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-NorwayDocumentStandard_82-0
+ 734. http://www.regjeringen.no/en/dep/fad/press-centre/press-releases/2009/new-obligatory-it-standards-for-the-stat.html?id=570650
+ 735. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-83
+ 736. https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=wdu20120000526
+ 737. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-84
+ 738. https://web.archive.org/web/20130402024414/http://www.esop.pt/portugal-publishes-open-standards-catalogodf-pdf-and-several-other-standards-are-mandatory/
+ 739. http://www.esop.pt/portugal-publishes-open-standards-catalogodf-pdf-and-several-other-standards-are-mandatory/
+ 740. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-RussiaAdoption_86-0
+ 741. https://web.archive.org/web/20201023211418/https://digital.gov.ru/ru/events/27931/
+ 742. https://digital.gov.ru/ru/events/27931/
+ 743. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-87
+ 744. https://www.avropa.se/globalassets/dokument/oppna-standarder---programvaror-och-tjanster.pdf
+ 745. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-88
+ 746. https://www.ndc.gov.tw/en/News_Content.aspx?n=0E2DCBAA6CB72F12&sms=B079565EECDD8520&s=33EF0883B81062FF
+ 747. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-89
+ 748. https://conference.libreoffice.org/assets/Conference/Aarhus/Slides/FranklinWeng.pdf
+ 749. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-90
+ 750. https://conference.libreoffice.org/assets/Conference/Brno/weng-odf-migration-in-taiwan.pdf
+ 751. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-91
+ 752. https://www.gov.uk/government/publications/open-source-open-standards-and-re-use-government-action-plan
+ 753. file:///wiki/Government_of_the_United_Kingdom
+ 754. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-92
+ 755. http://www.agesic.gub.uy/innovaportal/file/497/1/estandares_ofimatica_v20.pdf
+ 756. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-93
+ 757. https://archive.today/20130122140045/http://www.eweek.com/c/a/Linux-and-Open-Source/Massachusetts-Verdict-MS-Office-Formats-Out/
+ 758. http://www.eweek.com/c/a/Linux-and-Open-Source/Massachusetts-Verdict-MS-Office-Formats-Out/
+ 759. file:///tmp/lynxXXXXuqAA0W/L56568-2278TMP.html#cite_ref-94
+ 760. http://www.h-online.com/open/news/item/Munich-administration-switches-to-OpenDocument-Format-895415.html
+ 761. file:///w/index.php?title=OpenDocument&action=edit&section=17
+ 762. https://commons.wikimedia.org/wiki/Category:OpenDocument
+ 763. http://opendocumentformat.org/
+ 764. https://web.archive.org/web/20241008113015/https://opendocumentformat.org/
+ 765. https://web.archive.org/web/20240919081119/opendocumentformat.org/
+ 766. https://web.archive.org/web/20150105141925/http://documentfreedom.org/index.en.html
+ 767. http://opendocsociety.org/
+ 768. https://web.archive.org/web/20211119055806/http://opendocsociety.org/
+ 769. file:///wiki/Wayback_Machine
+ 770. https://web.archive.org/web/20171026125034/http://opendocumentfellowship.com/
+ 771. http://opendocument.xml.org/
+ 772. http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office
+ 773. http://www.robweir.com/blog/2009/06/odf-lies-and-whispers.html
+ 774. http://office.microsoft.com/en-us/word-help/differences-between-the-opendocument-text-odt-format-and-the-word-docx-format-HA010355788.aspx
+ 775. file:///wiki/Template:OASIS_Standards
+ 776. file:///wiki/Template_talk:OASIS_Standards
+ 777. file:///wiki/Special:EditPage/Template:OASIS_Standards
+ 778. file:///wiki/OASIS_(organization)
+ 779. file:///wiki/Advanced_Message_Queuing_Protocol
+ 780. file:///wiki/Content_Assembly_Mechanism
+ 781. file:///wiki/Common_Alerting_Protocol
+ 782. file:///wiki/Digital_Signature_Services
+ 783. file:///wiki/DocBook
+ 784. file:///wiki/Darwin_Information_Typing_Architecture
+ 785. file:///wiki/Directory_Services_Markup_Language
+ 786. file:///wiki/Devices_Profile_for_Web_Services
+ 787. file:///wiki/EbXML
+ 788. file:///wiki/EDXL
+ 789. file:///wiki/Election_Markup_Language
+ 790. file:///wiki/Key_Management_Interoperability_Protocol
+ 791. file:///wiki/Security_Assertion_Markup_Language
+ 792. file:///wiki/Solution_Deployment_Descriptor
+ 793. file:///wiki/SOAP-over-UDP
+ 794. file:///wiki/Service_Provisioning_Markup_Language
+ 795. file:///wiki/OASIS_TOSCA
+ 796. file:///wiki/Universal_Business_Language
+ 797. file:///wiki/Universal_Description_Discovery_and_Integration
+ 798. file:///wiki/Web_Services_Distributed_Management
+ 799. file:///wiki/Extensible_Resource_Identifier
+ 800. file:///wiki/XDI
+ 801. file:///wiki/XLIFF
+ 802. file:///wiki/Business_Process_Execution_Language
+ 803. file:///wiki/WS-Discovery
+ 804. file:///wiki/Web_Services_Resource_Framework
+ 805. file:///wiki/Web_Services_for_Remote_Portlets
+ 806. file:///wiki/WS-Security
+ 807. file:///wiki/XACML
+ 808. file:///wiki/Template:Office_document_file_formats
+ 809. file:///wiki/Template_talk:Office_document_file_formats
+ 810. file:///wiki/Special:EditPage/Template:Office_document_file_formats
+ 811. file:///wiki/Office_suite
+ 812. file:///wiki/Document_file_format
+ 813. file:///wiki/Compound_Document_Format
+ 814. file:///wiki/Microsoft_Office_XML_formats
+ 815. file:///wiki/MODCA
+ 816. file:///wiki/Office_Open_XML
+ 817. file:///wiki/Open_Document_Architecture
+ 818. file:///wiki/OpenDoc
+ 819. file:///wiki/OpenOffice.org_XML
+ 820. file:///wiki/Revisable-Form_Text
+ 821. file:///wiki/Rich_Text_Format
+ 822. file:///wiki/Uniform_Office_Format
+ 823. file:///wiki/Doc_(computing)
+ 824. file:///wiki/DjVu
+ 825. file:///wiki/Envoy_(WordPerfect)
+ 826. file:///wiki/Open_XML_Paper_Specification
+ 827. file:///wiki/PDF
+ 828. file:///wiki/Character_encoding
+ 829. file:///wiki/ASCII
+ 830. file:///wiki/Unicode
+ 831. file:///wiki/TeX
+ 832. file:///wiki/Template:ISO_standards
+ 833. file:///wiki/Template_talk:ISO_standards
+ 834. file:///wiki/Special:EditPage/Template:ISO_standards
+ 835. file:///wiki/International_Organization_for_Standardization
+ 836. file:///wiki/List_of_ISO_standards
+ 837. file:///wiki/List_of_ISO_romanizations
+ 838. file:///wiki/List_of_IEC_standards
+ 839. file:///wiki/ISO_1
+ 840. file:///wiki/ISO_2
+ 841. file:///wiki/Renard_series
+ 842. file:///wiki/ISO_4
+ 843. file:///wiki/Film_speed
+ 844. file:///wiki/British_Standard_Pipe
+ 845. file:///wiki/ISO_9
+ 846. file:///wiki/A440_(pitch_standard)
+ 847. file:///wiki/Renard_series
+ 848. file:///wiki/ISO_31
+ 849. file:///wiki/ISO_31-0
+ 850. file:///wiki/ISO_31-1
+ 851. file:///wiki/ISO_31-3
+ 852. file:///wiki/ISO_31-4
+ 853. file:///wiki/ISO_31-5
+ 854. file:///wiki/ISO_31-6
+ 855. file:///wiki/ISO_31-7
+ 856. file:///wiki/ISO_31-8
+ 857. file:///wiki/ISO_31-9
+ 858. file:///wiki/ISO_31-10
+ 859. file:///wiki/ISO_31-11
+ 860. file:///wiki/ISO_31-12
+ 861. file:///wiki/ISO_31-13
+ 862. file:///wiki/ISO_metric_screw_thread
+ 863. file:///wiki/ISO_128
+ 864. file:///wiki/ISO_216
+ 865. file:///wiki/ISO_217
+ 866. file:///wiki/Equal-loudness_contour
+ 867. file:///wiki/British_Standard_Pipe
+ 868. file:///wiki/ISO_233
+ 869. file:///wiki/ISO_259
+ 870. file:///wiki/ISO_metric_screw_thread
+ 871. file:///wiki/ISO_metric_screw_thread
+ 872. file:///wiki/Kappa_number
+ 873. file:///wiki/Vicat_softening_point
+ 874. file:///wiki/Hazard_symbol#Ionizing_radiation_symbol
+ 875. file:///wiki/Power_take-off
+ 876. file:///wiki/Hot_shoe
+ 877. file:///wiki/Prontor-Compur
+ 878. file:///wiki/ISO_639
+ 879. file:///wiki/ISO_639-1
+ 880. file:///wiki/ISO_639-2
+ 881. file:///wiki/ISO_639-3
+ 882. file:///wiki/ISO_639-5
+ 883. file:///wiki/ISO_639-6
+ 884. file:///wiki/ISO/IEC_646
+ 885. file:///wiki/ISO_657
+ 886. file:///wiki/ISO_668
+ 887. file:///wiki/ISO_690
+ 888. file:///wiki/ISO_704
+ 889. file:///wiki/ISO_732
+ 890. file:///wiki/Antimagnetic_watch
+ 891. file:///wiki/Hole_punch
+ 892. file:///wiki/ISO_843
+ 893. file:///wiki/ISO_860
+ 894. file:///wiki/ISO_898
+ 895. file:///wiki/ISO_965
+ 896. file:///wiki/ISO_999
+ 897. file:///wiki/ISO_1000
+ 898. file:///wiki/Magnetic_ink_character_recognition
+ 899. file:///wiki/135_film
+ 900. file:///wiki/OCR-A
+ 901. file:///wiki/OCR-B
+ 902. file:///wiki/Longitudinal_redundancy_check
+ 903. file:///wiki/Shock-resistant_watch#ISO_1413_shock-resistant_standard
+ 904. file:///wiki/ALGOL_60
+ 905. file:///wiki/ISO_1629
+ 906. file:///wiki/ISO_1745
+ 907. file:///wiki/COBOL
+ 908. file:///wiki/ISO_2014
+ 909. file:///wiki/ISO_2015
+ 910. file:///wiki/ISO/IEC_2022
+ 911. file:///wiki/ISO_2033
+ 912. file:///wiki/ISO_2047
+ 913. file:///wiki/ISBN
+ 914. file:///wiki/ISO_2145
+ 915. file:///wiki/ISO_2146
+ 916. file:///wiki/Film_speed
+ 917. file:///wiki/Water_Resistant_mark
+ 918. file:///wiki/International_Standard_Atmosphere
+ 919. file:///wiki/ISO_2709
+ 920. file:///wiki/ISO_2711
+ 921. file:///wiki/Film_speed
+ 922. file:///wiki/ISO_2788
+ 923. file:///wiki/ISO_2848
+ 924. file:///wiki/ISO_2852
+ 925. file:///wiki/ISO_2921
+ 926. file:///wiki/126_film
+ 927. file:///wiki/ISO_3103
+ 928. file:///wiki/ISO_3166
+ 929. file:///wiki/ISO_3166-1
+ 930. file:///wiki/ISO_3166-2
+ 931. file:///wiki/ISO_3166-3
+ 932. file:///wiki/International_Standard_Serial_Number
+ 933. file:///wiki/ISO_3307
+ 934. file:///wiki/O-ring
+ 935. file:///wiki/Kunrei-shiki_romanization
+ 936. file:///wiki/ISO_3864
+ 937. file:///wiki/International_Standard_Recording_Code
+ 938. file:///wiki/FDI_World_Dental_Federation_notation
+ 939. file:///wiki/ISO_3977
+ 940. file:///wiki/ISO_4031
+ 941. file:///wiki/ISO_4157
+ 942. file:///wiki/ISO_4165
+ 943. file:///wiki/ISO_4217
+ 944. file:///wiki/ISO/IEC_4909
+ 945. file:///wiki/ISO/IEC_5218
+ 946. file:///wiki/ISO_5426
+ 947. file:///wiki/ISO_5427
+ 948. file:///wiki/ISO_5428
+ 949. file:///wiki/Accuracy_and_precision
+ 950. file:///wiki/ISO_5775
+ 951. file:///wiki/ISO_5776
+ 952. file:///wiki/Film_speed
+ 953. file:///wiki/Flowchart
+ 954. file:///wiki/ISO_5964
+ 955. file:///wiki/International_Securities_Identification_Number
+ 956. file:///wiki/ISO_6344
+ 957. file:///wiki/ISO_6346
+ 958. file:///wiki/Minimal_BASIC
+ 959. file:///wiki/ISO_6385
+ 960. file:///wiki/Water_Resistant_mark
+ 961. file:///wiki/ANSI_escape_code
+ 962. file:///wiki/ISO_6438
+ 963. file:///wiki/ISO/IEC_6523
+ 964. file:///wiki/ISO_6709
+ 965. file:///wiki/ISO_6943
+ 966. file:///wiki/ISO_7001
+ 967. file:///wiki/ISO_7002
+ 968. file:///wiki/ISO_7010
+ 969. file:///wiki/ISO_7027
+ 970. file:///wiki/ISO/IEC_7064
+ 971. file:///wiki/Pinyin
+ 972. file:///wiki/Pascal_(programming_language)
+ 973. file:///wiki/ISO_7200
+ 974. file:///wiki/OSI_model
+ 975. file:///wiki/OSI_model
+ 976. file:///wiki/ISO_7637
+ 977. file:///wiki/ISO_7736
+ 978. file:///wiki/ISO/IEC_7810
+ 979. file:///wiki/ISO/IEC_7811
+ 980. file:///wiki/ISO/IEC_7812
+ 981. file:///wiki/ISO/IEC_7813
+ 982. file:///wiki/ISO/IEC_7816
+ 983. file:///wiki/Graphical_Kernel_System
+ 984. file:///wiki/ISO_8000
+ 985. file:///wiki/On-board_diagnostics
+ 986. file:///wiki/ISO_8178
+ 987. file:///wiki/Fuel_oil
+ 988. file:///wiki/ISO_8373
+ 989. file:///wiki/ISO_8501-1
+ 990. file:///wiki/FTAM
+ 991. file:///wiki/ISO_8583
+ 992. file:///wiki/ISO_8601
+ 993. file:///wiki/Open_Document_Architecture
+ 994. file:///wiki/Computer_Graphics_Metafile
+ 995. file:///wiki/Graphical_Kernel_System
+ 996. file:///wiki/ISO/IEC_8652
+ 997. file:///wiki/ISO_8691
+ 998. file:///wiki/Graphical_Kernel_System
+ 999. file:///wiki/Language_Of_Temporal_Ordering_Specification
+1000. file:///wiki/Fuse_(automotive)
+1001. file:///wiki/ISO/IEC_8859
+1002. file:///wiki/ISO/IEC_8859-1
+1003. file:///wiki/ISO/IEC_8859-2
+1004. file:///wiki/ISO/IEC_8859-3
+1005. file:///wiki/ISO/IEC_8859-4
+1006. file:///wiki/ISO/IEC_8859-5
+1007. file:///wiki/ISO/IEC_8859-6
+1008. file:///wiki/ISO/IEC_8859-7
+1009. file:///wiki/ISO/IEC_8859-8
+1010. file:///wiki/ISO-8859-8-I
+1011. file:///wiki/ISO/IEC_8859-9
+1012. file:///wiki/ISO/IEC_8859-10
+1013. file:///wiki/ISO/IEC_8859-11
+1014. file:///wiki/ISO/IEC_8859-12
+1015. file:///wiki/ISO/IEC_8859-13
+1016. file:///wiki/ISO/IEC_8859-14
+1017. file:///wiki/ISO/IEC_8859-15
+1018. file:///wiki/ISO/IEC_8859-16
+1019. file:///wiki/Standard_Generalized_Markup_Language
+1020. file:///wiki/ISO_9000
+1021. file:///wiki/ASMO_449
+1022. file:///wiki/SQL
+1023. file:///wiki/ISO/IEC_9126
+1024. file:///wiki/On-board_diagnostics
+1025. file:///wiki/Salt_spray_test
+1026. file:///wiki/ISO_9241
+1027. file:///wiki/File_Allocation_Table
+1028. file:///wiki/Fiber_Distributed_Data_Interface
+1029. file:///wiki/ISO_9362
+1030. file:///wiki/Shoe_size
+1031. file:///wiki/CHILL
+1032. file:///wiki/Manufacturing_Message_Specification
+1033. file:///wiki/ISO/IEC_9529
+1034. file:///wiki/ISO_9564
+1035. file:///wiki/PHIGS
+1036. file:///wiki/X.500
+1037. file:///wiki/ISO_9660
+1038. file:///wiki/ISO/IEC_9797-1
+1039. file:///wiki/ISO_9897
+1040. file:///wiki/ANSI_C
+1041. file:///wiki/POSIX
+1042. file:///wiki/Romanization_of_Georgian
+1043. file:///wiki/Romanization_of_Armenian
+1044. file:///wiki/ISO/IEC_9995
+1045. file:///wiki/ISO_10006
+1046. file:///wiki/ISO_10007
+1047. file:///wiki/ISO/IEC_10116
+1048. file:///wiki/Whirlpool_(hash_function)
+1049. file:///wiki/ISO_10160
+1050. file:///wiki/ISO_10161
+1051. file:///wiki/Guidelines_for_the_Definition_of_Managed_Objects
+1052. file:///wiki/Document_Style_Semantics_and_Specification_Language
+1053. file:///wiki/Pascal_(programming_language)#ISO/IEC_10206:1990_Extended_Pascal
+1054. file:///wiki/ISO_10218
+1055. file:///wiki/Full_BASIC
+1056. file:///wiki/ISO_10303
+1057. file:///wiki/EXPRESS_(data_modeling_language)
+1058. file:///wiki/ISO_10303-21
+1059. file:///wiki/ISO_10303-22
+1060. file:///wiki/ISO_10303-28
+1061. file:///wiki/STEP-NC
+1062. file:///wiki/Market_Identifier_Code
+1063. file:///wiki/ArmSCII
+1064. file:///wiki/IS-IS
+1065. file:///wiki/ISO_10628
+1066. file:///wiki/Universal_Coded_Character_Set
+1067. file:///wiki/Torx
+1068. file:///wiki/RM-ODP
+1069. file:///wiki/Multibus
+1070. file:///wiki/International_Standard_Music_Number
+1071. file:///wiki/ISO_10962
+1072. file:///wiki/ISO/IEC_10967
+1073. file:///wiki/ISO/IEEE_11073
+1074. file:///wiki/ISO_11170
+1075. file:///wiki/MPEG-1
+1076. file:///wiki/ISO/IEC_11179
+1077. file:///wiki/ISO/IEC_11404
+1078. file:///wiki/JBIG
+1079. file:///wiki/ISO_11783
+1080. file:///wiki/ISO_11784_and_ISO_11785
+1081. file:///wiki/ISO_11784_and_ISO_11785
+1082. file:///wiki/ISO/IEC_11801
+1083. file:///wiki/Trusted_Platform_Module
+1084. file:///wiki/CAN_bus#CAN_lower-layer_standards
+1085. file:///wiki/ISO_11940
+1086. file:///wiki/ISO_11940-2
+1087. file:///wiki/ISO/TR_11941
+1088. file:///wiki/ISO/TR_11941
+1089. file:///wiki/ISO_11992
+1090. file:///wiki/ISO_12006
+1091. file:///wiki/DICOM
+1092. file:///wiki/ISO/IEC_TR_12182
+1093. file:///wiki/ISO/IEC_12207
+1094. file:///wiki/TIFF/EP
+1095. file:///wiki/Linguistic_categories#ISO_12620_(ISO_TC37_Data_Category_Registry,_ISOcat)
+1096. file:///wiki/Prolog
+1097. file:///wiki/Prolog
+1098. file:///wiki/Prolog
+1099. file:///wiki/Isofix
+1100. file:///wiki/Topic_map
+1101. file:///wiki/ISO_13399
+1102. file:///wiki/ISO_13406-2
+1103. file:///wiki/110_film
+1104. file:///wiki/ISO_13485
+1105. file:///wiki/ISO_13490
+1106. file:///wiki/ISO_13567
+1107. file:///wiki/Z_notation
+1108. file:///wiki/ISO_13584
+1109. file:///wiki/International_Bank_Account_Number
+1110. file:///wiki/ISLISP
+1111. file:///wiki/MPEG-2
+1112. file:///wiki/ISO_14000
+1113. file:///wiki/ISO_14031
+1114. file:///wiki/ISO_14224
+1115. file:///wiki/PDF/UA
+1116. file:///wiki/Horsepower
+1117. file:///wiki/ISO/IEC_14443
+1118. file:///wiki/MPEG-4
+1119. file:///wiki/MPEG-4_Part_2
+1120. file:///wiki/MPEG-4_Part_3
+1121. file:///wiki/Delivery_Multimedia_Integration_Framework
+1122. file:///wiki/Advanced_Video_Coding
+1123. file:///wiki/MPEG-4_Part_11
+1124. file:///wiki/ISO_base_media_file_format
+1125. file:///wiki/MP4_file_format
+1126. file:///wiki/MP4_file_format
+1127. file:///wiki/MP4_file_format
+1128. file:///wiki/ISO_14617
+1129. file:///wiki/ISO_14644
+1130. file:///wiki/STEP-NC
+1131. file:///wiki/ISO/IEC_14651
+1132. file:///wiki/ISO_14698
+1133. file:///wiki/Software_maintenance
+1134. file:///wiki/C++
+1135. file:///wiki/ISO_14971
+1136. file:///wiki/ISO_15022
+1137. file:///wiki/ISO_15189
+1138. file:///wiki/ISO/IEC_15288
+1139. file:///wiki/Ada_Semantic_Interface_Specification
+1140. file:///wiki/ISO_15398
+1141. file:///wiki/Common_Criteria
+1142. file:///wiki/JPEG_2000
+1143. file:///wiki/Motion_JPEG_2000
+1144. file:///wiki/JPIP
+1145. file:///wiki/HTML
+1146. file:///wiki/PDF417
+1147. file:///wiki/ISO/IEC_15504
+1148. file:///wiki/International_Standard_Identifier_for_Libraries_and_Related_Organizations
+1149. file:///wiki/ISO_15686
+1150. file:///wiki/ISO/IEC_15693
+1151. file:///wiki/International_Standard_Audiovisual_Number
+1152. file:///wiki/International_Standard_Audiovisual_Number
+1153. file:///wiki/International_Standard_Musical_Work_Code
+1154. file:///wiki/ISO/IEC_15897
+1155. file:///wiki/ISO_15919
+1156. file:///wiki/ISO_15924
+1157. file:///wiki/ISO_15926
+1158. file:///wiki/ISO_15926_WIP
+1159. file:///wiki/PDF/X
+1160. file:///wiki/MPEG-7
+1161. file:///wiki/MaxiCode
+1162. file:///wiki/ECMAScript
+1163. file:///wiki/Quality_function_deployment
+1164. file:///wiki/Mixed_raster_content
+1165. file:///wiki/PDF/VT
+1166. file:///wiki/ISO_16750
+1167. file:///wiki/IATF_16949
+1168. file:///wiki/ISO/IEC_17024
+1169. file:///wiki/ISO/IEC_17025
+1170. file:///wiki/ISO_17100
+1171. file:///wiki/Open_Virtualization_Format
+1172. file:///wiki/SDMX
+1173. file:///wiki/Legal_Entity_Identifier
+1174. file:///wiki/COLLADA
+1175. file:///wiki/ISO/IEC_27002
+1176. file:///wiki/QR_code
+1177. file:///wiki/ISO/IEC_18014
+1178. file:///wiki/JPEG_XL
+1179. file:///wiki/ISO_18245
+1180. file:///wiki/Process_Specification_Language
+1181. file:///wiki/Photographic_Activity_Test
+1182. file:///wiki/PDF/A
+1183. file:///wiki/ISO_19011
+1184. file:///wiki/ISO_19092-1
+1185. file:///wiki/ISO_19092-1
+1186. file:///wiki/ISO_19092-2
+1187. file:///wiki/ISO_19114
+1188. file:///wiki/Geospatial_metadata#ISO_19115:_Geographic_information_–_Metadata
+1189. file:///wiki/Simple_Features
+1190. file:///wiki/Geography_Markup_Language#ISO_19136
+1191. file:///wiki/Shoe_size
+1192. file:///wiki/ISO_19439
+1193. file:///wiki/Common_Object_Request_Broker_Architecture
+1194. file:///wiki/Unified_Modeling_Language
+1195. file:///wiki/Meta-Object_Facility
+1196. file:///wiki/XML_Metadata_Interchange
+1197. file:///wiki/Unified_Modeling_Language
+1198. file:///wiki/Knowledge_Discovery_Metamodel
+1199. file:///wiki/Object_Constraint_Language
+1200. file:///wiki/Meta-Object_Facility
+1201. file:///wiki/XML_Metadata_Interchange
+1202. file:///wiki/Business_Process_Model_and_Notation
+1203. file:///wiki/ISO_19600
+1204. file:///wiki/ISO/IEC_19752
+1205. file:///wiki/RELAX_NG
+1206. file:///wiki/ISO/IEC_19770
+1207. file:///wiki/X3D
+1208. file:///wiki/ISO/IEC_19794-5
+1209. file:///wiki/Cloud_Infrastructure_Management_Interface
+1210. file:///wiki/ISO/IEC_20000
+1211. file:///wiki/ISO_20022
+1212. file:///wiki/ISO_20121
+1213. file:///wiki/ISO_20400
+1214. file:///wiki/Open_Data_Protocol
+1215. file:///wiki/Han_Xin_code
+1216. file:///wiki/MPEG-21
+1217. file:///wiki/ISO_21001
+1218. file:///wiki/International_Standard_Text_Code
+1219. file:///wiki/JPEG_XS
+1220. file:///wiki/ISO_21500
+1221. file:///wiki/ISO/IEC_21827
+1222. file:///wiki/ISO_22000
+1223. file:///wiki/ECMAScript
+1224. file:///wiki/ISO_22300
+1225. file:///wiki/ISO_22301
+1226. file:///wiki/ISO_22395
+1227. file:///wiki/ECMAScript_for_XML
+1228. file:///wiki/MPEG-A
+1229. file:///wiki/MPEG-D
+1230. file:///wiki/MPEG-H
+1231. file:///wiki/Dynamic_Adaptive_Streaming_over_HTTP
+1232. file:///wiki/Versatile_Video_Coding
+1233. file:///wiki/MPEG-G
+1234. file:///wiki/Essential_Video_Coding
+1235. file:///wiki/LCEVC
+1236. file:///wiki/C_Sharp_(programming_language)
+1237. file:///wiki/Common_Language_Infrastructure
+1238. file:///wiki/Linux_Standard_Base
+1239. file:///wiki/Rectangular_Micro_QR_Code
+1240. file:///wiki/PDF/E
+1241. file:///wiki/Lexical_Markup_Framework
+1242. file:///wiki/ISO-TimeML
+1243. file:///wiki/Common_Logic
+1244. file:///wiki/MicroPDF417
+1245. file:///wiki/ISO_25178
+1246. file:///wiki/ISO_25964
+1247. file:///wiki/ISO_26000
+1248. file:///wiki/ISO_26262
+1249. file:///wiki/Digital_object_identifier
+1250. file:///wiki/ISO/IEC_27000-series
+1251. file:///wiki/ISO/IEC_27000
+1252. file:///wiki/ISO/IEC_27001
+1253. file:///wiki/ISO/IEC_27002
+1254. file:///wiki/ISO/IEC_27005
+1255. file:///wiki/ISO/IEC_27006
+1256. file:///wiki/International_Standard_Name_Identifier
+1257. file:///wiki/ISO_28000
+1258. file:///wiki/Requirements_engineering
+1259. file:///wiki/JPEG_XR
+1260. file:///wiki/Office_Open_XML
+1261. file:///wiki/Ruby_(programming_language)
+1262. file:///wiki/ISO_31000
+1263. file:///wiki/PDF
+1264. file:///wiki/ISO_37001
+1265. file:///wiki/ISO/IEC_38500
+1266. file:///wiki/Graph_Query_Language
+1267. file:///wiki/Web_Content_Accessibility_Guidelines
+1268. file:///wiki/ISO/IEC_42010
+1269. file:///wiki/ISO_45001
+1270. file:///wiki/ISO_50001
+1271. file:///wiki/ISO_55000
+1272. file:///wiki/ISO_56000
+1273. file:///wiki/ISO/IEC_80000
+1274. file:///wiki/Category:ISO_standards
+1275. file:///wiki/Template:OpenOffice
+1276. file:///wiki/Template_talk:OpenOffice
+1277. file:///wiki/Special:EditPage/Template:OpenOffice
+1278. file:///wiki/OpenOffice.org
+1279. file:///wiki/File:StarOffice_major_derivatives.svg
+1280. file:///wiki/Fork_(software_development)
+1281. file:///wiki/Apache_OpenOffice
+1282. file:///wiki/Collabora_Online
+1283. file:///wiki/LibreOffice
+1284. file:///wiki/File:OOo3.2.1Icon.png
+1285. file:///wiki/Go-oo
+1286. file:///wiki/IBM_Workplace
+1287. file:///wiki/IBM_Lotus_Symphony
+1288. file:///wiki/NeoOffice
+1289. file:///wiki/StarOffice
+1290. file:///wiki/OpenOffice_Basic
+1291. file:///wiki/OpenOffice.org_XML
+1292. file:///wiki/Universal_Network_Objects
+1293. file:///wiki/Star_Division
+1294. file:///wiki/Sun_Microsystems
+1295. file:///wiki/Oracle_Corporation
+1296. file:///wiki/Category:OpenOffice
+1297. https://commons.wikimedia.org/wiki/Apache_OpenOffice
+1298. file:///wiki/Template:List_of_IEC_standards
+1299. file:///wiki/Template_talk:List_of_IEC_standards
+1300. file:///wiki/Special:EditPage/Template:List_of_IEC_standards
+1301. file:///wiki/List_of_IEC_standards
+1302. file:///wiki/IEC_60027
+1303. file:///wiki/IEC_60034
+1304. file:///wiki/IEC_60038
+1305. file:///wiki/RKM_code
+1306. file:///wiki/E_series_of_preferred_numbers
+1307. file:///wiki/IEC_60068
+1308. file:///wiki/Comparative_Tracking_Index
+1309. file:///wiki/IEC_60228
+1310. file:///wiki/IEC_60269
+1311. file:///wiki/19-inch_rack
+1312. file:///wiki/IEC_60309
+1313. file:///wiki/IEC_60320
+1314. file:///wiki/IEC_60364
+1315. file:///wiki/IEC_60446
+1316. file:///wiki/IEEE_754
+1317. file:///wiki/IEC_60601
+1318. file:///wiki/IEC_60870
+1319. file:///wiki/IEC_60870-5
+1320. file:///wiki/IEC_60870-6
+1321. file:///wiki/IEC_60906-1
+1322. file:///wiki/Compact_Disc_Digital_Audio
+1323. file:///wiki/IEC_60929
+1324. file:///wiki/AES3
+1325. file:///w/index.php?title=IEC_60980-344&action=edit&redlink=1
+1326. file:///wiki/IEC_61030
+1327. file:///wiki/IEC_61131
+1328. file:///wiki/IEC_61131-3
+1329. file:///wiki/IO-Link
+1330. file:///wiki/Fieldbus
+1331. file:///wiki/IEC_61162
+1332. file:///wiki/IEC_61334
+1333. file:///wiki/IEC_61355
+1334. file:///wiki/IEC_61360
+1335. file:///wiki/IEC_61400
+1336. file:///wiki/IEC_61499
+1337. file:///wiki/IEC_61508
+1338. file:///wiki/IEC_61511
+1339. file:///wiki/Fieldbus
+1340. file:///wiki/IEC_61850
+1341. file:///wiki/IEC_61851
+1342. file:///wiki/IEC_61883
+1343. file:///wiki/Battery_nomenclature
+1344. file:///wiki/IEC_61968
+1345. file:///wiki/IEC_61970
+1346. file:///wiki/IP-XACT
+1347. file:///wiki/Fieldbus
+1348. file:///wiki/IEC_62056
+1349. file:///wiki/IEC_62061
+1350. file:///wiki/IEC_62196
+1351. file:///wiki/EN_62262
+1352. file:///wiki/IEC_62264
+1353. file:///wiki/IEC_62304
+1354. file:///wiki/IEC_62325
+1355. file:///wiki/IEC_62351
+1356. file:///wiki/AES47
+1357. file:///wiki/IEC_62366
+1358. file:///wiki/IEC_62379
+1359. file:///wiki/Digital_Addressable_Lighting_Interface
+1360. file:///wiki/IEC_62455
+1361. file:///wiki/USB
+1362. file:///wiki/IEC_62682
+1363. file:///wiki/IEC_62700
+1364. file:///wiki/IEC_63110
+1365. file:///wiki/IEC_63119
+1366. file:///wiki/IEC_63382
+1367. file:///wiki/ISO/IEC_646
+1368. file:///wiki/COBOL
+1369. file:///wiki/ISO/IEC_2022
+1370. file:///wiki/ISO/IEC_4909
+1371. file:///wiki/ISO/IEC_5218
+1372. file:///wiki/ANSI_escape_code
+1373. file:///wiki/ISO/IEC_6523
+1374. file:///wiki/ISO/IEC_7810
+1375. file:///wiki/ISO/IEC_7811
+1376. file:///wiki/ISO/IEC_7812
+1377. file:///wiki/ISO/IEC_7813
+1378. file:///wiki/ISO/IEC_7816
+1379. file:///wiki/Graphical_Kernel_System
+1380. file:///wiki/Open_Document_Architecture
+1381. file:///wiki/Computer_Graphics_Metafile
+1382. file:///wiki/ISO/IEC_8652
+1383. file:///wiki/ISO/IEC_8859
+1384. file:///wiki/ISO/IEC_9126
+1385. file:///wiki/File_Allocation_Table
+1386. file:///wiki/CHILL
+1387. file:///wiki/ISO/IEC_9529
+1388. file:///wiki/PHIGS
+1389. file:///wiki/PHIGS
+1390. file:///wiki/ANSI_C
+1391. file:///wiki/POSIX
+1392. file:///wiki/ISO/IEC_9995
+1393. file:///wiki/ISO/IEC_10021
+1394. file:///wiki/ISO/IEC_10116
+1395. file:///wiki/Guidelines_for_the_Definition_of_Managed_Objects
+1396. file:///wiki/Document_Style_Semantics_and_Specification_Language
+1397. file:///wiki/Full_BASIC
+1398. file:///wiki/Universal_Coded_Character_Set
+1399. file:///wiki/ISO/IEC_10967
+1400. file:///wiki/MPEG-1
+1401. file:///wiki/ISO/IEC_11179
+1402. file:///wiki/ISO/IEC_11404
+1403. file:///wiki/JBIG
+1404. file:///wiki/ISO/IEC_11801
+1405. file:///wiki/ISO/IEC_12207
+1406. file:///wiki/Topic_map
+1407. file:///wiki/Universal_Disk_Format
+1408. file:///wiki/MHEG-5
+1409. file:///wiki/Z_notation
+1410. file:///wiki/ISLISP
+1411. file:///wiki/MPEG-2
+1412. file:///wiki/ISO/IEC_14443
+1413. file:///wiki/MPEG-4
+1414. file:///wiki/ISO/IEC_14651
+1415. file:///wiki/C++
+1416. file:///wiki/ISO/IEC_15288
+1417. file:///wiki/Ada_Semantic_Interface_Specification
+1418. file:///wiki/Common_Criteria
+1419. file:///wiki/JPEG_2000
+1420. file:///wiki/HTML
+1421. file:///wiki/ISO/IEC_15504
+1422. file:///wiki/International_Standard_Identifier_for_Libraries_and_Related_Organizations
+1423. file:///wiki/ISO/IEC_15693
+1424. file:///wiki/ISO/IEC_15897
+1425. file:///wiki/MPEG-7
+1426. file:///wiki/ECMAScript
+1427. file:///wiki/Mixed_raster_content
+1428. file:///wiki/ISO/IEC_17024
+1429. file:///wiki/ISO/IEC_17025
+1430. file:///wiki/QR_code
+1431. file:///wiki/ISO/IEC_18014
+1432. file:///wiki/JPEG_XL
+1433. file:///wiki/ISO/IEC_19752
+1434. file:///wiki/RELAX_NG
+1435. file:///wiki/ISO/IEC_19770
+1436. file:///wiki/ISO/IEC_19788
+1437. file:///wiki/ISO/IEC_20000
+1438. file:///wiki/Open_Data_Protocol
+1439. file:///wiki/MPEG-21
+1440. file:///wiki/ISO/IEC_21827
+1441. file:///wiki/ECMAScript
+1442. file:///wiki/ECMAScript_for_XML
+1443. file:///wiki/MPEG-A
+1444. file:///wiki/MPEG-D
+1445. file:///wiki/MPEG-H
+1446. file:///wiki/C_Sharp_(programming_language)
+1447. file:///wiki/Linux_Standard_Base
+1448. file:///wiki/Common_Logic
+1449. file:///wiki/ISO/IEC_24727
+1450. file:///wiki/ISO/IEC_24744
+1451. file:///wiki/Universal_Remote_Console
+1452. file:///wiki/ISO/IEC_27000
+1453. file:///wiki/ISO/IEC_27000-series
+1454. file:///wiki/ISO/IEC_27002
+1455. file:///wiki/ISO/IEC_27040
+1456. file:///wiki/ISO/IEC_29119
+1457. file:///wiki/ISO/IEC_33001
+1458. file:///wiki/ISO/IEC_38500
+1459. file:///wiki/Graph_Query_Language
+1460. file:///wiki/ISO/IEC_42010
+1461. file:///wiki/ISO/IEC_80000
+1462. file:///wiki/IEC_81346
+1463. file:///wiki/International_Electrotechnical_Commission
+1464. file:///wiki/Template:Document_markup_languages
+1465. file:///wiki/Template_talk:Document_markup_languages
+1466. file:///wiki/Special:EditPage/Template:Document_markup_languages
+1467. file:///wiki/Markup_language
+1468. file:///wiki/Office_suite
+1469. file:///wiki/Compound_Document_Format
+1470. file:///wiki/Office_Open_XML
+1471. file:///wiki/SpreadsheetML
+1472. file:///wiki/PresentationML
+1473. file:///wiki/WordprocessingML
+1474. file:///wiki/Uniform_Office_Format
+1475. file:///wiki/HTML
+1476. file:///wiki/XHTML
+1477. file:///wiki/MathML
+1478. file:///wiki/Rich_Text_Format
+1479. file:///wiki/TeX
+1480. file:///wiki/LaTeX
+1481. file:///wiki/Markdown
+1482. file:///wiki/AmigaGuide
+1483. file:///wiki/AsciiDoc
+1484. file:///wiki/BBCode
+1485. file:///wiki/Chemical_Markup_Language
+1486. file:///wiki/C-HTML
+1487. file:///wiki/ConTeXt
+1488. file:///wiki/CrossMark
+1489. file:///wiki/Darwin_Information_Typing_Architecture
+1490. file:///wiki/DocBook
+1491. file:///wiki/Encoded_Archival_Description
+1492. file:///wiki/Enriched_text
+1493. file:///wiki/FHTML
+1494. file:///wiki/List_of_document_markup_languages#GML_Disambiguation
+1495. file:///wiki/GuideML
+1496. file:///wiki/Handheld_Device_Markup_Language
+1497. file:///wiki/HyTime
+1498. file:///wiki/Information_Presentation_Facility
+1499. file:///wiki/LilyPond
+1500. file:///wiki/LinuxDoc
+1501. file:///wiki/Maker_Interchange_Format
+1502. file:///wiki/Microsoft_Assistance_Markup_Language
+1503. file:///wiki/Music_Encoding_Initiative
+1504. file:///wiki/MusicXML
+1505. file:///wiki/OMDoc
+1506. file:///wiki/OpenMath
+1507. file:///wiki/Org-mode
+1508. file:///wiki/Plain_Old_Documentation
+1509. file:///wiki/ReStructuredText
+1510. file:///wiki/RTML
+1511. file:///wiki/Revisable-Form_Text
+1512. file:///wiki/S1000D
+1513. file:///wiki/Setext
+1514. file:///wiki/Text_Encoding_Initiative
+1515. file:///wiki/Texinfo
+1516. file:///wiki/Troff
+1517. file:///wiki/Wiki#Editing
+1518. file:///wiki/Wireless_Markup_Language
+1519. file:///wiki/WapTV
+1520. file:///wiki/Extensible_Application_Markup_Language
+1521. file:///wiki/List_of_document_markup_languages
+1522. file:///wiki/Help:Authority_control
+1523. https://www.wikidata.org/wiki/Q184473#identifiers
+1524. https://d-nb.info/gnd/7691035-0
+1525. https://en.wikipedia.org/w/index.php?title=OpenDocument&oldid=1261419966#Specifications
+1526. file:///wiki/Help:Category
+1527. file:///wiki/Category:OpenDocument
+1528. file:///wiki/Category:Computer_file_formats
+1529. file:///wiki/Category:Document-centric_XML-based_standards
+1530. file:///wiki/Category:ISO/IEC_26300
+1531. file:///wiki/Category:Open_standards
+1532. file:///wiki/Category:Open_file_formats
+1533. file:///wiki/Category:Office_document_file_formats
+1534. file:///wiki/Category:Markup_languages
+1535. file:///wiki/Category:OpenOffice
+1536. file:///wiki/Category:CS1_Spanish-language_sources_(es)
+1537. file:///wiki/Category:CS1_maint:_numeric_names:_authors_list
+1538. file:///wiki/Category:CS1_maint:_archived_copy_as_title
+1539. file:///wiki/Category:CS1_maint:_bot:_original_URL_status_unknown
+1540. file:///wiki/Category:CS1_Russian-language_sources_(ru)
+1541. file:///wiki/Category:Articles_with_short_description
+1542. file:///wiki/Category:Short_description_is_different_from_Wikidata
+1543. file:///wiki/Category:Use_dmy_dates_from_April_2021
+1544. file:///wiki/Category:Articles_containing_potentially_dated_statements_from_July_2007
+1545. file:///wiki/Category:All_articles_containing_potentially_dated_statements
+1546. file:///wiki/Category:All_articles_with_unsourced_statements
+1547. file:///wiki/Category:Articles_with_unsourced_statements_from_March_2019
+1548. file:///wiki/Category:Wikipedia_articles_needing_clarification_from_May_2021
+1549. file:///wiki/Category:Webarchive_template_wayback_links
+1550. file:///wiki/Category:Commons_category_link_is_on_Wikidata
+1551. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+1552. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+1553. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+1554. https://wikimediafoundation.org/
+1555. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+1556. file:///wiki/Wikipedia:About
+1557. file:///wiki/Wikipedia:General_disclaimer
+1558. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+1559. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+1560. https://developer.wikimedia.org/
+1561. https://stats.wikimedia.org/#/en.wikipedia.org
+1562. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+1563. file://en.m.wikipedia.org/w/index.php?title=OpenDocument&mobileaction=toggle_view_mobile#Specifications
+1564. https://wikimediafoundation.org/
+1565. https://www.mediawiki.org/
+
+   Hidden links:
+1567. file://localhost/wiki/File:Commons-logo.svg

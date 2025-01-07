@@ -1,0 +1,280 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 External links
+
+   [ ] Toggle the table of contents
+
+0,1-simple lattice
+
+   [ ] 2 languages
+     * [30]Español
+     * [31]Português
+
+   [32]Edit links
+
+     * [33]Article
+     * [34]Talk
+
+   [ ] English
+
+     * [35]Read
+     * [36]Edit
+     * [37]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [38]Read
+     * [39]Edit
+     * [40]View history
+
+   General
+     * [41]What links here
+     * [42]Related changes
+     * [43]Upload file
+     * [44]Special pages
+     * [45]Permanent link
+     * [46]Page information
+     * [47]Cite this page
+     * [48]Get shortened URL
+     * [49]Download QR code
+
+   Print/export
+     * [50]Download as PDF
+     * [51]Printable version
+
+   In other projects
+     * [52]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   [53][50px-Question_book-new.svg.png]
+   This article relies largely or entirely on a [54]single source.
+   Relevant discussion may be found on the [55]talk page. Please help
+   [56]improve this article by [57]introducing citations to additional
+   sources.
+   Find sources: [58]"0,1-simple lattice" – [59]news · [60]newspapers ·
+   [61]books · [62]scholar · [63]JSTOR (May 2024)
+
+   In [64]lattice theory, a [65]bounded lattice L is called a 0,1-simple
+   lattice if nonconstant lattice homomorphisms of L preserve the identity
+   of its top and bottom elements. That is, if L is 0,1-simple and ƒ is a
+   function from L to some other lattice that preserves joins and meets
+   and does not map every element of L to a single element of the image,
+   then it must be the case that ƒ^−1(ƒ(0)) = {0} and ƒ^−1(ƒ(1)) = {1}.
+
+   For instance, let L[n] be a lattice with n [66]atoms a[1], a[2], ...,
+   a[n], top and bottom elements 1 and 0, and no other elements. Then for
+   n ≥ 3, L[n] is 0,1-simple. However, for n = 2, the function ƒ that maps
+   0 and a[1] to 0 and that maps a[2] and 1 to 1 is a homomorphism,
+   showing that L[2] is not 0,1-simple.
+
+External links
+
+   [[67]edit]
+     * Matt Insall. [68]"0,1-Simple Lattice". [69]MathWorld.
+
+   [70]Stub icon
+
+   This [71]abstract algebra-related article is a [72]stub. You can help
+   Wikipedia by [73]expanding it.
+     * [74]v
+     * [75]t
+     * [76]e
+
+   [77]Stub icon
+
+   This [78]combinatorics-related article is a [79]stub. You can help
+   Wikipedia by [80]expanding it.
+     * [81]v
+     * [82]t
+     * [83]e
+
+   Retrieved from
+   "[84]https://en.wikipedia.org/w/index.php?title=0,1-simple_lattice&oldi
+   d=1223600880"
+   [85]Categories:
+     * [86]Lattice theory
+     * [87]Abstract algebra stubs
+     * [88]Combinatorics stubs
+
+   Hidden categories:
+     * [89]Articles needing additional references from May 2024
+     * [90]All articles needing additional references
+     * [91]All stub articles
+
+     * This page was last edited on 13 May 2024, at 05:51 (UTC).
+     * Text is available under the [92]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [93]Terms of Use and [94]Privacy
+       Policy. Wikipedia® is a registered trademark of the [95]Wikimedia
+       Foundation, Inc., a non-profit organization.
+
+     * [96]Privacy policy
+     * [97]About Wikipedia
+     * [98]Disclaimers
+     * [99]Contact Wikipedia
+     * [100]Code of Conduct
+     * [101]Developers
+     * [102]Statistics
+     * [103]Cookie statement
+     * [104]Mobile view
+
+     * [105]Wikimedia Foundation
+     * [106]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/0,1-simple_lattice
+   2. file:///w/index.php?title=0,1-simple_lattice&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXt1Ck3c/L56190-4601TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=0,1-simple+lattice
+  21. file:///w/index.php?title=Special:UserLogin&returnto=0,1-simple+lattice
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=0,1-simple+lattice
+  24. file:///w/index.php?title=Special:UserLogin&returnto=0,1-simple+lattice
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXt1Ck3c/L56190-4601TMP.html
+  29. file:///tmp/lynxXXXXt1Ck3c/L56190-4601TMP.html#External_links
+  30. https://es.wikipedia.org/wiki/0,1-red_simple
+  31. https://pt.wikipedia.org/wiki/0,1-simples_lattice
+  32. https://www.wikidata.org/wiki/Special:EntityPage/Q4545495#sitelinks-wikipedia
+  33. file:///wiki/0,1-simple_lattice
+  34. file:///wiki/Talk:0,1-simple_lattice
+  35. file:///wiki/0,1-simple_lattice
+  36. file:///w/index.php?title=0,1-simple_lattice&action=edit
+  37. file:///w/index.php?title=0,1-simple_lattice&action=history
+  38. file:///wiki/0,1-simple_lattice
+  39. file:///w/index.php?title=0,1-simple_lattice&action=edit
+  40. file:///w/index.php?title=0,1-simple_lattice&action=history
+  41. file:///wiki/Special:WhatLinksHere/0,1-simple_lattice
+  42. file:///wiki/Special:RecentChangesLinked/0,1-simple_lattice
+  43. file:///wiki/Wikipedia:File_Upload_Wizard
+  44. file:///wiki/Special:SpecialPages
+  45. file:///w/index.php?title=0,1-simple_lattice&oldid=1223600880
+  46. file:///w/index.php?title=0,1-simple_lattice&action=info
+  47. file:///w/index.php?title=Special:CiteThisPage&page=0,1-simple_lattice&id=1223600880&wpFormIdentifier=titleform
+  48. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/0,1-simple_lattice
+  49. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/0,1-simple_lattice
+  50. file:///w/index.php?title=Special:DownloadAsPdf&page=0,1-simple_lattice&action=show-download-screen
+  51. file:///w/index.php?title=0,1-simple_lattice&printable=yes
+  52. https://www.wikidata.org/wiki/Special:EntityPage/Q4545495
+  53. file:///wiki/File:Question_book-new.svg
+  54. file:///wiki/Wikipedia:Articles_with_a_single_source
+  55. file:///wiki/Talk:0,1-simple_lattice##
+  56. https://en.wikipedia.org/w/index.php?title=0,1-simple_lattice&action=edit
+  57. file:///wiki/Help:Referencing_for_beginners
+  58. https://www.google.com/search?as_eq=wikipedia&q="0,1-simple+lattice"
+  59. https://www.google.com/search?tbm=nws&q="0,1-simple+lattice"+-wikipedia&tbs=ar:1
+  60. https://www.google.com/search?&q="0,1-simple+lattice"&tbs=bkt:s&tbm=bks
+  61. https://www.google.com/search?tbs=bks:1&q="0,1-simple+lattice"+-wikipedia
+  62. https://scholar.google.com/scholar?q="0,1-simple+lattice"
+  63. https://www.jstor.org/action/doBasicSearch?Query="0,1-simple+lattice"&acc=on&wc=on
+  64. file:///wiki/Lattice_(order)
+  65. file:///wiki/Lattice_(order)
+  66. file:///wiki/Atom_(order_theory)
+  67. file:///w/index.php?title=0,1-simple_lattice&action=edit&section=1
+  68. https://mathworld.wolfram.com/01-SimpleLattice.html
+  69. file:///wiki/MathWorld
+  70. file:///wiki/File:Rubik's_cube_v3.svg
+  71. file:///wiki/Abstract_algebra
+  72. file:///wiki/Wikipedia:Stub
+  73. https://en.wikipedia.org/w/index.php?title=0,1-simple_lattice&action=edit
+  74. file:///wiki/Template:Abstract-algebra-stub
+  75. file:///wiki/Template_talk:Abstract-algebra-stub
+  76. file:///wiki/Special:EditPage/Template:Abstract-algebra-stub
+  77. file:///wiki/File:Encoder_Disc_(3-Bit).svg
+  78. file:///wiki/Combinatorics
+  79. file:///wiki/Wikipedia:Stub
+  80. https://en.wikipedia.org/w/index.php?title=0,1-simple_lattice&action=edit
+  81. file:///wiki/Template:Combin-stub
+  82. file:///wiki/Template_talk:Combin-stub
+  83. file:///wiki/Special:EditPage/Template:Combin-stub
+  84. https://en.wikipedia.org/w/index.php?title=0,1-simple_lattice&oldid=1223600880
+  85. file:///wiki/Help:Category
+  86. file:///wiki/Category:Lattice_theory
+  87. file:///wiki/Category:Abstract_algebra_stubs
+  88. file:///wiki/Category:Combinatorics_stubs
+  89. file:///wiki/Category:Articles_needing_additional_references_from_May_2024
+  90. file:///wiki/Category:All_articles_needing_additional_references
+  91. file:///wiki/Category:All_stub_articles
+  92. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+  93. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+  94. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+  95. https://wikimediafoundation.org/
+  96. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+  97. file:///wiki/Wikipedia:About
+  98. file:///wiki/Wikipedia:General_disclaimer
+  99. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 100. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 101. https://developer.wikimedia.org/
+ 102. https://stats.wikimedia.org/#/en.wikipedia.org
+ 103. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 104. file://en.m.wikipedia.org/w/index.php?title=0,1-simple_lattice&mobileaction=toggle_view_mobile
+ 105. https://wikimediafoundation.org/
+ 106. https://www.mediawiki.org/

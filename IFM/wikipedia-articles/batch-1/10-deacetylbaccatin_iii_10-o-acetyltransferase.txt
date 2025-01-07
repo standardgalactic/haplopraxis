@@ -1,0 +1,553 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 References
+
+   [ ] Toggle the table of contents
+
+10-deacetylbaccatin III 10-O-acetyltransferase
+
+   [ ] 3 languages
+     * [30]Italiano
+     * [31]Српски / srpski
+     * [32]Srpskohrvatski / српскохрватски
+
+   [33]Edit links
+
+     * [34]Article
+     * [35]Talk
+
+   [ ] English
+
+     * [36]Read
+     * [37]Edit
+     * [38]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [39]Read
+     * [40]Edit
+     * [41]View history
+
+   General
+     * [42]What links here
+     * [43]Related changes
+     * [44]Upload file
+     * [45]Special pages
+     * [46]Permanent link
+     * [47]Page information
+     * [48]Cite this page
+     * [49]Get shortened URL
+     * [50]Download QR code
+
+   Print/export
+     * [51]Download as PDF
+     * [52]Printable version
+
+   In other projects
+     * [53]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Class of enzymes
+     10-deacetylbaccatin III 10-O-acetyltransferase
+                      Identifiers
+       [54]EC no.     [55]2.3.1.167
+      [56]CAS no.     [57]220946-63-4
+                       Databases
+       [58]IntEnz     [59]IntEnz view
+       [60]BRENDA     [61]BRENDA entry
+       [62]ExPASy     [63]NiceZyme view
+        [64]KEGG      [65]KEGG entry
+      [66]MetaCyc     [67]metabolic pathway
+       [68]PRIAM      [69]profile
+   [70]PDB structures [71]RCSB PDB [72]PDBe [73]PDBsum
+   [74]Gene Ontology  [75]AmiGO / [76]QuickGO
+           Search
+    [77]PMC   [78]articles
+   [79]PubMed [80]articles
+    [81]NCBI  [82]proteins
+
+   In [83]enzymology, a 10-deacetylbaccatin III 10-O-acetyltransferase
+   ([84]EC [85]2.3.1.167) is an [86]enzyme that [87]catalyzes the
+   [88]chemical reaction
+
+          acetyl-CoA + 10-deacetylbaccatin III
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo class="MJX-variant"
+          stretchy="false">⇌</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \rightleftharpoons
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \rightleftharpoons } CoA + baccatin III
+
+   Thus, the two [89]substrates of this enzyme are [90]acetyl-CoA and
+   [91]10-deacetylbaccatin III, whereas its two [92]products are [93]CoA
+   and [94]baccatin III.
+
+   This enzyme belongs to the family of [95]transferases, specifically
+   those [96]acyltransferases transferring groups other than aminoacyl
+   groups. The [97]systematic name of this enzyme class is
+   acetyl-CoA:taxan-10beta-ol O-acetyltransferase. This enzyme
+   participates in [98]diterpenoid biosynthesis.
+
+References
+
+   [[99]edit]
+     * Walker K, Croteau R (2000). [100]"Molecular cloning of a
+       10-deacetylbaccatin III-10-O-acetyl transferase cDNA from Taxus and
+       functional expression in Escherichia coli". Proc. Natl. Acad. Sci.
+       U.S.A. 97 (2): 583–7. [101]Bibcode:[102]2000PNAS...97..583W.
+       [103]doi:[104]10.1073/pnas.97.2.583. [105]PMC [106]15373.
+       [107]PMID [108]10639122.
+
+     * [109]v
+     * [110]t
+     * [111]e
+
+   [112]Transferases: [113]acyltransferases ([114]EC 2.3)
+   [115]2.3.1: other than amino-acyl groups
+     * [116]acetyltransferases: [117]Acetyl-Coenzyme A acetyltransferase
+     * [118]N-Acetylglutamate synthase
+     * [119]Choline acetyltransferase
+     * [120]Dihydrolipoyl transacetylase
+     * [121]Acetyl-CoA C-acyltransferase
+     * [122]Beta-galactoside transacetylase
+     * [123]Chloramphenicol acetyltransferase
+     * [124]N-acetyltransferase
+          + [125]Serotonin N-acetyl transferase
+          + [126]HGSNAT
+          + [127]ARD1A
+     * [128]Histone acetyltransferase
+          + [129]P300/CBP
+          + [130]NAT2
+
+     * [131]palmitoyltransferases: [132]Carnitine O-palmitoyltransferase
+          + [133]CPT1
+          + [134]CPT2
+     * [135]Serine C-palmitoyltransferase
+          + [136]SPTLC1
+          + [137]SPTLC2
+
+     * other: [138]Acyltransferase like 2
+     * [139]Aminolevulinic acid synthase
+     * [140]Beta-ketoacyl-ACP synthase
+     * [141]Glyceronephosphate O-acyltransferase
+     * [142]Lecithin—cholesterol acyltransferase
+
+     * [143]Glycerol-3-phosphate O-acyltransferase
+     * [144]1-acylglycerol-3-phosphate O-acyltransferase
+     * [145]2-acylglycerol-3-phosphate O-acyltransferase
+     * [146]ABHD5
+
+   [147]2.3.2: [148]Aminoacyltransferases
+     * [149]Gamma-glutamyl transpeptidase
+     * [150]Peptidyl transferase
+     * [151]Transglutaminase
+          + [152]Tissue transglutaminase
+          + [153]Keratinocyte transglutaminase
+          + [154]Factor XIII
+
+   [155]2.3.3: converted into alkyl on transfer
+
+     * [156]Citrate synthase
+     * [157]Decylcitrate synthase
+     * [158]Citrate (Re)-synthase
+     * [159]Decylhomocitrate synthase
+     * [160]2-methylcitrate synthase
+     * [161]2-ethylmalate synthase
+     * [162]3-ethylmalate synthase
+     * [163]ATP citrate lyase
+     * [164]Malate synthase
+     * [165]HMG-CoA synthase
+          + [166]HMGCS2
+     * [167]2-hydroxyglutarate synthase
+     * [168]3-propylmalate synthase
+     * [169]2-isopropylmalate synthase
+     * [170]Homocitrate synthase
+     * [171]Sulfoacetaldehyde acetyltransferase
+
+     * [172]v
+     * [173]t
+     * [174]e
+
+   [175]Enzymes
+
+   Activity
+
+     * [176]Active site
+     * [177]Binding site
+     * [178]Catalytic triad
+     * [179]Oxyanion hole
+     * [180]Enzyme promiscuity
+     * [181]Diffusion-limited enzyme
+     * [182]Cofactor
+     * [183]Enzyme catalysis
+
+   Regulation
+
+     * [184]Allosteric regulation
+     * [185]Cooperativity
+     * [186]Enzyme inhibitor
+     * [187]Enzyme activator
+
+   Classification
+
+     * [188]EC number
+     * [189]Enzyme superfamily
+     * [190]Enzyme family
+     * [191]List of enzymes
+
+   Kinetics
+
+     * [192]Enzyme kinetics
+     * [193]Eadie–Hofstee diagram
+     * [194]Hanes–Woolf plot
+     * [195]Lineweaver–Burk plot
+     * [196]Michaelis–Menten kinetics
+
+   Types
+
+     * EC1 [197]Oxidoreductases ([198]list)
+     * EC2 [199]Transferases ([200]list)
+     * EC3 [201]Hydrolases ([202]list)
+     * EC4 [203]Lyases ([204]list)
+     * EC5 [205]Isomerases ([206]list)
+     * EC6 [207]Ligases ([208]list)
+     * EC7 [209]Translocases ([210]list)
+
+   [211]Portal:
+     * [212]icon [213]Biology
+
+   This [214]EC 2.3 [215]enzyme-related article is a [216]stub. You can
+   help Wikipedia by [217]expanding it.
+
+     * [218]v
+     * [219]t
+     * [220]e
+
+   Retrieved from
+   "[221]https://en.wikipedia.org/w/index.php?title=10-deacetylbaccatin_II
+   I_10-O-acetyltransferase&oldid=1172337387"
+
+   [222]Categories:
+     * [223]EC 2.3.1
+     * [224]Enzymes of unknown structure
+     * [225]EC 2.3 stubs
+
+   Hidden categories:
+     * [226]Articles with short description
+     * [227]Short description matches Wikidata
+     * [228]All stub articles
+
+     * This page was last edited on 26 August 2023, at 12:49 (UTC).
+     * Text is available under the [229]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [230]Terms of Use and
+       [231]Privacy Policy. Wikipedia® is a registered trademark of the
+       [232]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [233]Privacy policy
+     * [234]About Wikipedia
+     * [235]Disclaimers
+     * [236]Contact Wikipedia
+     * [237]Code of Conduct
+     * [238]Developers
+     * [239]Statistics
+     * [240]Cookie statement
+     * [241]Mobile view
+
+     * [242]Wikimedia Foundation
+     * [243]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/10-deacetylbaccatin_III_10-O-acetyltransferase
+   2. file:///w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXal5B8s/L62009-8109TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=10-deacetylbaccatin+III+10-O-acetyltransferase
+  21. file:///w/index.php?title=Special:UserLogin&returnto=10-deacetylbaccatin+III+10-O-acetyltransferase
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=10-deacetylbaccatin+III+10-O-acetyltransferase
+  24. file:///w/index.php?title=Special:UserLogin&returnto=10-deacetylbaccatin+III+10-O-acetyltransferase
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXal5B8s/L62009-8109TMP.html
+  29. file:///tmp/lynxXXXXal5B8s/L62009-8109TMP.html#References
+  30. https://it.wikipedia.org/wiki/10-deacetilbaccatina_III_10-O-acetiltransferasi
+  31. https://sr.wikipedia.org/wiki/10-Deacetilbakatin_III_10-O-acetiltransferaza
+  32. https://sh.wikipedia.org/wiki/10-Deacetilbakatin_III_10-O-acetiltransferaza
+  33. https://www.wikidata.org/wiki/Special:EntityPage/Q3596792#sitelinks-wikipedia
+  34. file:///wiki/10-deacetylbaccatin_III_10-O-acetyltransferase
+  35. file:///wiki/Talk:10-deacetylbaccatin_III_10-O-acetyltransferase
+  36. file:///wiki/10-deacetylbaccatin_III_10-O-acetyltransferase
+  37. file:///w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&action=edit
+  38. file:///w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&action=history
+  39. file:///wiki/10-deacetylbaccatin_III_10-O-acetyltransferase
+  40. file:///w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&action=edit
+  41. file:///w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&action=history
+  42. file:///wiki/Special:WhatLinksHere/10-deacetylbaccatin_III_10-O-acetyltransferase
+  43. file:///wiki/Special:RecentChangesLinked/10-deacetylbaccatin_III_10-O-acetyltransferase
+  44. file:///wiki/Wikipedia:File_Upload_Wizard
+  45. file:///wiki/Special:SpecialPages
+  46. file:///w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&oldid=1172337387
+  47. file:///w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&action=info
+  48. file:///w/index.php?title=Special:CiteThisPage&page=10-deacetylbaccatin_III_10-O-acetyltransferase&id=1172337387&wpFormIdentifier=titleform
+  49. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/10-deacetylbaccatin_III_10-O-acetyltransferase
+  50. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/10-deacetylbaccatin_III_10-O-acetyltransferase
+  51. file:///w/index.php?title=Special:DownloadAsPdf&page=10-deacetylbaccatin_III_10-O-acetyltransferase&action=show-download-screen
+  52. file:///w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&printable=yes
+  53. https://www.wikidata.org/wiki/Special:EntityPage/Q3596792
+  54. file:///wiki/Enzyme_Commission_number
+  55. https://www.enzyme-database.org/query.php?ec=2.3.1.167
+  56. file:///wiki/CAS_registry_number
+  57. https://commonchemistry.cas.org/detail?cas_rn=220946-63-4&title=
+  58. file:///wiki/IntEnz
+  59. https://www.ebi.ac.uk/intenz/query?cmd=SearchEC&ec=2.3.1.167
+  60. file:///wiki/BRENDA
+  61. http://www.brenda-enzymes.org/enzyme.php?ecno=2.3.1.167
+  62. file:///wiki/ExPASy
+  63. https://enzyme.expasy.org/EC/2.3.1.167
+  64. file:///wiki/KEGG
+  65. https://www.genome.jp/dbget-bin/www_bget?enzyme+2.3.1.167
+  66. file:///wiki/MetaCyc
+  67. https://biocyc.org/META/substring-search?type=NIL&object=2.3.1.167
+  68. file:///wiki/PRIAM_enzyme-specific_profiles
+  69. http://priam.prabi.fr/cgi-bin/PRIAM_profiles_CurrentRelease.pl?EC=2.3.1.167
+  70. file:///wiki/Protein_Data_Bank
+  71. https://www.rcsb.org/search?q=rcsb_polymer_entity.rcsb_ec_lineage.id:2.3.1.167
+  72. https://www.ebi.ac.uk/pdbe/entry/search/index?ec_number:2.3.1.167
+  73. https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/enzymes/GetPage.pl?ec_number=2.3.1.167
+  74. file:///wiki/Gene_Ontology
+  75. http://amigo.geneontology.org/amigo/term/GO:0050643
+  76. https://www.ebi.ac.uk/QuickGO/term/GO:0050643
+  77. file:///wiki/PubMed_Central
+  78. https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&term=2.3.1.167[EC/RN Number] AND pubmed pmc local[sb]
+  79. file:///wiki/PubMed
+  80. https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&term=2.3.1.167[EC/RN Number]
+  81. file:///wiki/National_Center_for_Biotechnology_Information
+  82. https://www.ncbi.nlm.nih.gov/protein?term=2.3.1.167[EC/RN Number]
+  83. file:///wiki/Enzymology
+  84. file:///wiki/Enzyme_Commission_number
+  85. https://enzyme.expasy.org/EC/2.3.1.167
+  86. file:///wiki/Enzyme
+  87. file:///wiki/Catalysis
+  88. file:///wiki/Chemical_reaction
+  89. file:///wiki/Substrate_(biochemistry)
+  90. file:///wiki/Acetyl-CoA
+  91. file:///wiki/10-deacetylbaccatin_III
+  92. file:///wiki/Product_(chemistry)
+  93. file:///wiki/Coenzyme_A
+  94. file:///wiki/Baccatin_III
+  95. file:///wiki/Transferase
+  96. file:///wiki/Acyltransferase
+  97. file:///wiki/List_of_enzymes
+  98. file:///wiki/Diterpenoid_biosynthesis
+  99. file:///w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&action=edit&section=1
+ 100. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC15373
+ 101. file:///wiki/Bibcode_(identifier)
+ 102. https://ui.adsabs.harvard.edu/abs/2000PNAS...97..583W
+ 103. file:///wiki/Doi_(identifier)
+ 104. https://doi.org/10.1073/pnas.97.2.583
+ 105. file:///wiki/PMC_(identifier)
+ 106. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC15373
+ 107. file:///wiki/PMID_(identifier)
+ 108. https://pubmed.ncbi.nlm.nih.gov/10639122
+ 109. file:///wiki/Template:Acyltransferases
+ 110. file:///wiki/Template_talk:Acyltransferases
+ 111. file:///wiki/Special:EditPage/Template:Acyltransferases
+ 112. file:///wiki/Transferase
+ 113. file:///wiki/Acyltransferase
+ 114. file:///wiki/Enzyme_Commission_number
+ 115. file:///wiki/List_of_EC_numbers_(EC_2)#EC_2.3.1:_Transferring_groups_other_than_amino-acyl_groups
+ 116. file:///wiki/Acetyltransferase
+ 117. file:///wiki/Thiolase
+ 118. file:///wiki/N-Acetylglutamate_synthase
+ 119. file:///wiki/Choline_acetyltransferase
+ 120. file:///wiki/Dihydrolipoyl_transacetylase
+ 121. file:///wiki/Acetyl-CoA_C-acyltransferase
+ 122. file:///wiki/Beta-galactoside_transacetylase
+ 123. file:///wiki/Chloramphenicol_acetyltransferase
+ 124. file:///wiki/N-acetyltransferase
+ 125. file:///wiki/Serotonin_N-acetyl_transferase
+ 126. file:///wiki/HGSNAT
+ 127. file:///wiki/ARD1A
+ 128. file:///wiki/Histone_acetyltransferase
+ 129. file:///wiki/P300-CBP_coactivator_family
+ 130. file:///wiki/NAT2
+ 131. file:///wiki/Palmitoyltransferase
+ 132. file:///wiki/Carnitine_O-palmitoyltransferase
+ 133. file:///wiki/Carnitine_palmitoyltransferase_I
+ 134. file:///wiki/Carnitine_palmitoyltransferase_II
+ 135. file:///wiki/Serine_C-palmitoyltransferase
+ 136. file:///wiki/SPTLC1
+ 137. file:///wiki/SPTLC2
+ 138. file:///wiki/Acyltransferase_like_2
+ 139. file:///wiki/Aminolevulinic_acid_synthase
+ 140. file:///wiki/Beta-ketoacyl-ACP_synthase
+ 141. file:///wiki/Glyceronephosphate_O-acyltransferase
+ 142. file:///wiki/Lecithin—cholesterol_acyltransferase
+ 143. file:///wiki/Glycerol-3-phosphate_O-acyltransferase
+ 144. file:///wiki/1-acylglycerol-3-phosphate_O-acyltransferase
+ 145. file:///wiki/2-acylglycerol-3-phosphate_O-acyltransferase
+ 146. file:///wiki/ABHD5
+ 147. file:///wiki/List_of_EC_numbers_(EC_2)#EC_2.3.2:_Aminoacyltransferases
+ 148. file:///wiki/Aminoacyltransferase
+ 149. file:///wiki/Gamma-glutamyl_transpeptidase
+ 150. file:///wiki/Peptidyl_transferase
+ 151. file:///wiki/Transglutaminase
+ 152. file:///wiki/Tissue_transglutaminase
+ 153. file:///wiki/Keratinocyte_transglutaminase
+ 154. file:///wiki/Factor_XIII
+ 155. file:///wiki/List_of_EC_numbers_(EC_2)#EC_2.3.3:_Acyl_groups_converted_into_alkyl_on_transfer
+ 156. file:///wiki/Citrate_synthase
+ 157. file:///wiki/Decylcitrate_synthase
+ 158. file:///wiki/Citrate_(Re)-synthase
+ 159. file:///wiki/Decylhomocitrate_synthase
+ 160. file:///wiki/2-methylcitrate_synthase
+ 161. file:///wiki/2-ethylmalate_synthase
+ 162. file:///wiki/3-ethylmalate_synthase
+ 163. file:///wiki/ATP_citrate_lyase
+ 164. file:///wiki/Malate_synthase
+ 165. file:///wiki/Hydroxymethylglutaryl-CoA_synthase
+ 166. file:///wiki/HMGCS2
+ 167. file:///wiki/2-hydroxyglutarate_synthase
+ 168. file:///wiki/3-propylmalate_synthase
+ 169. file:///wiki/2-isopropylmalate_synthase
+ 170. file:///wiki/Homocitrate_synthase
+ 171. file:///wiki/Sulfoacetaldehyde_acetyltransferase
+ 172. file:///wiki/Template:Enzymes
+ 173. file:///wiki/Template_talk:Enzymes
+ 174. file:///wiki/Special:EditPage/Template:Enzymes
+ 175. file:///wiki/Enzyme
+ 176. file:///wiki/Active_site
+ 177. file:///wiki/Binding_site
+ 178. file:///wiki/Catalytic_triad
+ 179. file:///wiki/Oxyanion_hole
+ 180. file:///wiki/Enzyme_promiscuity
+ 181. file:///wiki/Diffusion-limited_enzyme
+ 182. file:///wiki/Cofactor_(biochemistry)
+ 183. file:///wiki/Enzyme_catalysis
+ 184. file:///wiki/Allosteric_regulation
+ 185. file:///wiki/Cooperativity
+ 186. file:///wiki/Enzyme_inhibitor
+ 187. file:///wiki/Enzyme_activator
+ 188. file:///wiki/Enzyme_Commission_number
+ 189. file:///wiki/Protein_superfamily
+ 190. file:///wiki/Protein_family
+ 191. file:///wiki/List_of_enzymes
+ 192. file:///wiki/Enzyme_kinetics
+ 193. file:///wiki/Eadie–Hofstee_diagram
+ 194. file:///wiki/Hanes–Woolf_plot
+ 195. file:///wiki/Lineweaver–Burk_plot
+ 196. file:///wiki/Michaelis–Menten_kinetics
+ 197. file:///wiki/Oxidoreductase
+ 198. file:///wiki/List_of_EC_numbers_(EC_1)
+ 199. file:///wiki/Transferase
+ 200. file:///wiki/List_of_EC_numbers_(EC_2)
+ 201. file:///wiki/Hydrolase
+ 202. file:///wiki/List_of_EC_numbers_(EC_3)
+ 203. file:///wiki/Lyase
+ 204. file:///wiki/List_of_EC_numbers_(EC_4)
+ 205. file:///wiki/Isomerase
+ 206. file:///wiki/List_of_EC_numbers_(EC_5)
+ 207. file:///wiki/Ligase
+ 208. file:///wiki/List_of_EC_numbers_(EC_6)
+ 209. file:///wiki/Translocase
+ 210. file:///wiki/List_of_EC_numbers_(EC_7)
+ 211. file:///wiki/Wikipedia:Contents/Portals
+ 212. file:///wiki/File:Issoria_lathonia.jpg
+ 213. file:///wiki/Portal:Biology
+ 214. file:///wiki/EC_2.3
+ 215. file:///wiki/Enzyme
+ 216. file:///wiki/Wikipedia:Stub
+ 217. https://en.wikipedia.org/w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&action=edit
+ 218. file:///wiki/Template:2.3-enzyme-stub
+ 219. file:///wiki/Template_talk:2.3-enzyme-stub
+ 220. file:///wiki/Special:EditPage/Template:2.3-enzyme-stub
+ 221. https://en.wikipedia.org/w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&oldid=1172337387
+ 222. file:///wiki/Help:Category
+ 223. file:///wiki/Category:EC_2.3.1
+ 224. file:///wiki/Category:Enzymes_of_unknown_structure
+ 225. file:///wiki/Category:EC_2.3_stubs
+ 226. file:///wiki/Category:Articles_with_short_description
+ 227. file:///wiki/Category:Short_description_matches_Wikidata
+ 228. file:///wiki/Category:All_stub_articles
+ 229. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 230. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 231. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 232. https://wikimediafoundation.org/
+ 233. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 234. file:///wiki/Wikipedia:About
+ 235. file:///wiki/Wikipedia:General_disclaimer
+ 236. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 237. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 238. https://developer.wikimedia.org/
+ 239. https://stats.wikimedia.org/#/en.wikipedia.org
+ 240. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 241. file://en.m.wikipedia.org/w/index.php?title=10-deacetylbaccatin_III_10-O-acetyltransferase&mobileaction=toggle_view_mobile
+ 242. https://wikimediafoundation.org/
+ 243. https://www.mediawiki.org/

@@ -1,0 +1,447 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Language features
+     * [30]2 Example query
+     * [31]3 See also
+     * [32]4 References
+     * [33]5 External links
+
+   [ ] Toggle the table of contents
+
+.QL
+
+   [ ] Add languages
+
+   [34]Add links
+
+     * [35]Article
+     * [36]Talk
+
+   [ ] English
+
+     * [37]Read
+     * [38]Edit
+     * [39]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [40]Read
+     * [41]Edit
+     * [42]View history
+
+   General
+     * [43]What links here
+     * [44]Related changes
+     * [45]Upload file
+     * [46]Special pages
+     * [47]Permanent link
+     * [48]Page information
+     * [49]Cite this page
+     * [50]Get shortened URL
+     * [51]Download QR code
+
+   Print/export
+     * [52]Download as PDF
+     * [53]Printable version
+
+   In other projects
+     * [54]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Object-oriented query language
+   This article has multiple issues. Please help [55]improve it or discuss
+   these issues on the [56]talk page. ([57]Learn how and when to remove
+   these messages)
+   This article includes a [58]list of references, [59]related reading, or
+   [60]external links, but its sources remain unclear because it lacks
+   [61]inline citations. Please help [62]improve this article by
+   [63]introducing more precise citations. (December 2012) ([64]Learn how
+   and when to remove this message)
+   The topic of this article may not meet Wikipedia's [65]general
+   notability guideline. Please help to demonstrate the notability of the
+   topic by citing [66]reliable secondary sources that are [67]independent
+   of the topic and provide significant coverage of it beyond a mere
+   trivial mention. If notability cannot be shown, the article is likely
+   to be [68]merged, [69]redirected, or [70]deleted.
+   Find sources: [71]".QL" – [72]news · [73]newspapers · [74]books ·
+   [75]scholar · [76]JSTOR (December 2012) ([77]Learn how and when to
+   remove this message)
+   ([78]Learn how and when to remove this message)
+
+   CAPTION: .QL
+
+   [79][Dotql.png]
+   [80]Paradigm [81]multi-paradigm, [82]logic-paradigm,
+   [83]object-oriented-paradigm
+   [84]Developer [85]Semmle
+   First appeared 2007
+   [86]Typing discipline [87]static, [88]strong
+   Major [89]implementations
+   [90]SemmleCode
+   Influenced by
+   [91]Datalog
+
+   .QL (pronounced "dot-cue-el") is an object-oriented query language used
+   to retrieve data from relational [92]database management systems. It is
+   reminiscent of the standard query language [93]SQL and the
+   object-oriented programming language [94]Java. .QL is an
+   object-oriented variant of a logical query language called [95]Datalog.
+   Hierarchical data can therefore be naturally queried in .QL in a
+   recursive manner.
+
+   Queries written in .QL are optimised, compiled into SQL and can then be
+   executed on any major relational database management system. .QL query
+   language is being used in [96]SemmleCode to query a relational
+   representation of Java programs.
+
+   .QL is developed at Semmle Limited and is based on the company's
+   proprietary technology.
+
+Language features
+
+   [[97]edit]
+
+   .QL has several language features to make queries concise, intuitive
+   and reusable:
+     * Extensible type hierarchy
+     * Methods and predicates
+     * Definition before use
+
+Example query
+
+   [[98]edit]
+
+   The sample query below illustrates use of .QL to query a Java program.
+   This is how one would select all classes that contain more than ten
+   public methods:
+ from Class c, int numOfMethods
+ where numOfMethods = count(Method m| m.getDeclaringType()=c
+                      and m.hasModifier("public"))
+       and numOfMethods > 10
+ select c.getPackage(), c, numOfMethods
+
+   In fact, this query selects not only all classes with more than ten
+   public methods, but also their corresponding packages and the number of
+   methods each class has.
+
+See also
+
+   [[99]edit]
+     * [100]SQL - Structured Query Language
+     * [101]OQL - Object Query Language
+     * [102]Datalog - logic programming language
+     * [103]SemmleCode - [104]Software testing tool that uses .QL language
+
+References
+
+   [[105]edit]
+     * Hervé Gallaire and Jack Minker. Logic and Databases. Plenum Press,
+       New York,1978.
+     * Serge Abiteboul and Paris C. Kanellakis. Object identity as a query
+       language primitive. In SIGMOD Rec, pages 159–173, ACM Press, 1989.
+     * Oege de Moor, Elnar Hajiyev and Mathieu Verbaere. Object-oriented
+       queries over software systems. In Proceedings of the 2007 ACM
+       SIGPLAN Symposium on Partial Evaluation and Semantics-based Program
+       Manipulation (PEPM), page 91, ACM Press, 2007.
+
+External links
+
+   [[106]edit]
+     * [107]Semmle Limited: creators of .QL
+
+     * [108]v
+     * [109]t
+     * [110]e
+
+   [111]Query languages
+   In current use
+     * .QL
+     * [112]ALPHA
+     * [113]CQL
+     * [114]Cypher
+     * [115]DAX
+     * [116]DMX
+     * [117]Datalog
+     * [118]GraphQL
+     * [119]Graph Query Language
+     * [120]Gremlin
+     * [121]ISBL
+     * [122]LDAP
+     * [123]LINQ
+     * [124]MQL
+     * [125]MDX
+     * [126]OQL
+     * [127]OCL
+     * [128]QUEL
+     * [129]RDF
+     * [130]SMARTS
+     * [131]SPARQL
+     * [132]SQL
+     * [133]XQuery
+     * [134]XPath
+     * [135]YQL
+
+   Proprietary
+     * [136]YQL
+     * [137]LINQ
+
+   Superseded
+     * [138]CODASYL
+
+   Retrieved from
+   "[139]https://en.wikipedia.org/w/index.php?title=.QL&oldid=1267848025"
+
+   [140]Categories:
+     * [141]Declarative programming languages
+     * [142]Logic programming languages
+     * [143]Query languages
+     * [144]Data modeling languages
+
+   Hidden categories:
+     * [145]Pages with syntax highlighting errors
+     * [146]Articles with short description
+     * [147]Short description matches Wikidata
+     * [148]Articles lacking in-text citations from December 2012
+     * [149]All articles lacking in-text citations
+     * [150]Articles with topics of unclear notability from December 2012
+     * [151]All articles with topics of unclear notability
+     * [152]Articles with multiple maintenance issues
+
+     * This page was last edited on 7 January 2025, at 00:13 (UTC).
+     * Text is available under the [153]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [154]Terms of Use and
+       [155]Privacy Policy. Wikipedia® is a registered trademark of the
+       [156]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [157]Privacy policy
+     * [158]About Wikipedia
+     * [159]Disclaimers
+     * [160]Contact Wikipedia
+     * [161]Code of Conduct
+     * [162]Developers
+     * [163]Statistics
+     * [164]Cookie statement
+     * [165]Mobile view
+
+     * [166]Wikimedia Foundation
+     * [167]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/.QL
+   2. file:///w/index.php?title=.QL&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXTvcgD4/L52713-8351TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=.QL
+  21. file:///w/index.php?title=Special:UserLogin&returnto=.QL
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=.QL
+  24. file:///w/index.php?title=Special:UserLogin&returnto=.QL
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXTvcgD4/L52713-8351TMP.html
+  29. file:///tmp/lynxXXXXTvcgD4/L52713-8351TMP.html#Language_features
+  30. file:///tmp/lynxXXXXTvcgD4/L52713-8351TMP.html#Example_query
+  31. file:///tmp/lynxXXXXTvcgD4/L52713-8351TMP.html#See_also
+  32. file:///tmp/lynxXXXXTvcgD4/L52713-8351TMP.html#References
+  33. file:///tmp/lynxXXXXTvcgD4/L52713-8351TMP.html#External_links
+  34. https://www.wikidata.org/wiki/Special:EntityPage/Q4545417#sitelinks-wikipedia
+  35. file:///wiki/.QL
+  36. file:///wiki/Talk:.QL
+  37. file:///wiki/.QL
+  38. file:///w/index.php?title=.QL&action=edit
+  39. file:///w/index.php?title=.QL&action=history
+  40. file:///wiki/.QL
+  41. file:///w/index.php?title=.QL&action=edit
+  42. file:///w/index.php?title=.QL&action=history
+  43. file:///wiki/Special:WhatLinksHere/.QL
+  44. file:///wiki/Special:RecentChangesLinked/.QL
+  45. file:///wiki/Wikipedia:File_Upload_Wizard
+  46. file:///wiki/Special:SpecialPages
+  47. file:///w/index.php?title=.QL&oldid=1267848025
+  48. file:///w/index.php?title=.QL&action=info
+  49. file:///w/index.php?title=Special:CiteThisPage&page=.QL&id=1267848025&wpFormIdentifier=titleform
+  50. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/.QL
+  51. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/.QL
+  52. file:///w/index.php?title=Special:DownloadAsPdf&page=.QL&action=show-download-screen
+  53. file:///w/index.php?title=.QL&printable=yes
+  54. https://www.wikidata.org/wiki/Special:EntityPage/Q4545417
+  55. file:///wiki/Special:EditPage/.QL
+  56. file:///wiki/Talk:.QL
+  57. file:///wiki/Help:Maintenance_template_removal
+  58. file:///wiki/Wikipedia:Citing_sources
+  59. file:///wiki/Wikipedia:Further_reading
+  60. file:///wiki/Wikipedia:External_links
+  61. file:///wiki/Wikipedia:Citing_sources#Inline_citations
+  62. file:///wiki/Wikipedia:WikiProject_Fact_and_Reference_Check
+  63. file:///wiki/Wikipedia:When_to_cite
+  64. file:///wiki/Help:Maintenance_template_removal
+  65. file:///wiki/Wikipedia:Notability
+  66. file:///wiki/Wikipedia:Reliable_sources
+  67. file:///wiki/Wikipedia:Independent_sources
+  68. file:///wiki/Wikipedia:Merging
+  69. file:///wiki/Wikipedia:Redirect
+  70. file:///wiki/Wikipedia:Deletion_policy
+  71. https://www.google.com/search?as_eq=wikipedia&q=".QL"
+  72. https://www.google.com/search?tbm=nws&q=".QL"+-wikipedia&tbs=ar:1
+  73. https://www.google.com/search?&q=".QL"&tbs=bkt:s&tbm=bks
+  74. https://www.google.com/search?tbs=bks:1&q=".QL"+-wikipedia
+  75. https://scholar.google.com/scholar?q=".QL"
+  76. https://www.jstor.org/action/doBasicSearch?Query=".QL"&acc=on&wc=on
+  77. file:///wiki/Help:Maintenance_template_removal
+  78. file:///wiki/Help:Maintenance_template_removal
+  79. file:///wiki/File:Dotql.png
+  80. file:///wiki/Programming_paradigm
+  81. file:///wiki/Multi-paradigm_programming_language
+  82. file:///wiki/Logic_programming_language
+  83. file:///wiki/Object-oriented_programming_language
+  84. file:///wiki/Software_developer
+  85. file:///wiki/Semmle
+  86. file:///wiki/Type_system
+  87. file:///wiki/Static_typing
+  88. file:///wiki/Strong_typing
+  89. file:///wiki/Programming_language_implementation
+  90. file:///wiki/SemmleCode
+  91. file:///wiki/Datalog
+  92. file:///wiki/Database_management_system
+  93. file:///wiki/SQL
+  94. file:///wiki/Java_(programming_language)
+  95. file:///wiki/Datalog
+  96. file:///wiki/SemmleCode
+  97. file:///w/index.php?title=.QL&action=edit&section=1
+  98. file:///w/index.php?title=.QL&action=edit&section=2
+  99. file:///w/index.php?title=.QL&action=edit&section=3
+ 100. file:///wiki/SQL
+ 101. file:///wiki/OQL
+ 102. file:///wiki/Datalog
+ 103. file:///wiki/SemmleCode
+ 104. file:///wiki/Software_testing
+ 105. file:///w/index.php?title=.QL&action=edit&section=4
+ 106. file:///w/index.php?title=.QL&action=edit&section=5
+ 107. http://semmle.com/
+ 108. file:///wiki/Template:Query_languages
+ 109. file:///wiki/Template_talk:Query_languages
+ 110. file:///wiki/Special:EditPage/Template:Query_languages
+ 111. file:///wiki/Query_language
+ 112. file:///wiki/Alpha_(programming_language)
+ 113. file:///wiki/Contextual_Query_Language
+ 114. file:///wiki/Cypher_(query_language)
+ 115. file:///wiki/Data_Analysis_Expressions
+ 116. file:///wiki/Data_Mining_Extensions
+ 117. file:///wiki/Datalog
+ 118. file:///wiki/GraphQL
+ 119. file:///wiki/Graph_Query_Language
+ 120. file:///wiki/Gremlin_(query_language)
+ 121. file:///wiki/ISBL
+ 122. file:///wiki/Lightweight_Directory_Access_Protocol
+ 123. file:///wiki/Language_Integrated_Query
+ 124. file:///wiki/Molecular_Query_Language
+ 125. file:///wiki/MultiDimensional_eXpressions
+ 126. file:///wiki/Object_Query_Language
+ 127. file:///wiki/Object_Constraint_Language
+ 128. file:///wiki/QUEL_query_languages
+ 129. file:///wiki/RDF_query_language
+ 130. file:///wiki/SMILES_arbitrary_target_specification
+ 131. file:///wiki/SPARQL
+ 132. file:///wiki/SQL
+ 133. file:///wiki/XQuery
+ 134. file:///wiki/XPath
+ 135. file:///wiki/Yahoo!_Query_Language
+ 136. file:///wiki/Yahoo!_query_language
+ 137. file:///wiki/Language_Integrated_Query
+ 138. file:///wiki/CODASYL
+ 139. https://en.wikipedia.org/w/index.php?title=.QL&oldid=1267848025
+ 140. file:///wiki/Help:Category
+ 141. file:///wiki/Category:Declarative_programming_languages
+ 142. file:///wiki/Category:Logic_programming_languages
+ 143. file:///wiki/Category:Query_languages
+ 144. file:///wiki/Category:Data_modeling_languages
+ 145. file:///wiki/Category:Pages_with_syntax_highlighting_errors
+ 146. file:///wiki/Category:Articles_with_short_description
+ 147. file:///wiki/Category:Short_description_matches_Wikidata
+ 148. file:///wiki/Category:Articles_lacking_in-text_citations_from_December_2012
+ 149. file:///wiki/Category:All_articles_lacking_in-text_citations
+ 150. file:///wiki/Category:Articles_with_topics_of_unclear_notability_from_December_2012
+ 151. file:///wiki/Category:All_articles_with_topics_of_unclear_notability
+ 152. file:///wiki/Category:Articles_with_multiple_maintenance_issues
+ 153. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 154. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 155. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 156. https://wikimediafoundation.org/
+ 157. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 158. file:///wiki/Wikipedia:About
+ 159. file:///wiki/Wikipedia:General_disclaimer
+ 160. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 161. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 162. https://developer.wikimedia.org/
+ 163. https://stats.wikimedia.org/#/en.wikipedia.org
+ 164. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 165. file://en.m.wikipedia.org/w/index.php?title=.QL&mobileaction=toggle_view_mobile
+ 166. https://wikimediafoundation.org/
+ 167. https://www.mediawiki.org/

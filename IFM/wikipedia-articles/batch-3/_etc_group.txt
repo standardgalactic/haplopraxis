@@ -1,0 +1,449 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Supplementary groups
+     * [30]2 Effective vs. real
+     * [31]3 Conventions
+       (BUTTON) Toggle Conventions subsection
+          + [32]3.1 Type
+          + [33]3.2 Reserved ranges
+          + [34]3.3 Special values
+     * [35]4 Personal groups
+     * [36]5 See also
+     * [37]6 References
+
+   [ ] Toggle the table of contents
+
+Group identifier
+
+   [ ] 10 languages
+     * [38]Čeština
+     * [39]Español
+     * [40]Français
+     * [41]한국어
+     * [42]Italiano
+     * [43]日本語
+     * [44]Norsk bokmål
+     * [45]Polski
+     * [46]Українська
+     * [47]中文
+
+   [48]Edit links
+
+     * [49]Article
+     * [50]Talk
+
+   [ ] English
+
+     * [51]Read
+     * [52]Edit
+     * [53]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [54]Read
+     * [55]Edit
+     * [56]View history
+
+   General
+     * [57]What links here
+     * [58]Related changes
+     * [59]Upload file
+     * [60]Special pages
+     * [61]Permanent link
+     * [62]Page information
+     * [63]Cite this page
+     * [64]Get shortened URL
+     * [65]Download QR code
+
+   Print/export
+     * [66]Download as PDF
+     * [67]Printable version
+
+   In other projects
+     * [68]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [69]/etc/group)
+   Unix/POSIX system account group number; numeric value used to represent
+   a specific group
+   "Egid" redirects here. For the Egyptian General Intelligence
+   Directorate, see [70]Egyptian General Intelligence Directorate.
+   This article needs additional citations for [71]verification. Please
+   help [72]improve this article by [73]adding citations to reliable
+   sources. Unsourced material may be challenged and removed.
+   Find sources: [74]"Group identifier" – [75]news · [76]newspapers ·
+   [77]books · [78]scholar · [79]JSTOR (September 2014) ([80]Learn how and
+   when to remove this message)
+
+   In [81]Unix-like systems, multiple users can be put into [82]groups.
+   [83]POSIX and conventional [84]Unix [85]file system permissions are
+   organized into three classes, user, group, and others. The use of
+   groups allows additional abilities to be delegated in an organized
+   fashion, such as access to disks, [86]printers, and other
+   [87]peripherals. This method, among others, also enables the
+   [88]superuser to delegate some administrative tasks to normal users,
+   similar to the Administrators group on [89]Microsoft Windows NT and its
+   derivatives.
+
+   A group identifier, often abbreviated to GID, is a numeric value used
+   to represent a specific group.^[90][1] The range of values for a GID
+   varies amongst different systems; at the very least, a GID can be
+   between 0 and 32,767, with one restriction: the login group for the
+   superuser must have GID 0. This numeric value is used to refer to
+   groups in the [91]/etc/passwd and /etc/group files or their
+   equivalents. [92]Shadow password files and [93]Network Information
+   Service also refer to numeric GIDs. The group identifier is a necessary
+   component of [94]Unix [95]file systems and [96]processes.
+
+Supplementary groups
+
+   [[97]edit]
+
+   In Unix systems, every user must be a member of at least one group, the
+   primary group, which is identified by the numeric GID of the user's
+   entry in the passwd database, which can be viewed with the command
+   getent passwd (usually stored in /etc/passwd or [98]LDAP). This group
+   is referred to as the primary group ID. A user may be listed as member
+   of additional groups in the relevant entries in the group database,
+   which can be viewed with getent group (usually stored in /etc/group or
+   [99]LDAP); the IDs of these groups are referred to as supplementary
+   group IDs.
+
+Effective vs. real
+
+   [[100]edit]
+
+   Unix processes have an [101]effective (EUID, EGID), a [102]real (UID,
+   GID) and a [103]saved (SUID, SGID) ID. Normally these are identical,
+   but in [104]setuid and [105]setgid processes they are different.
+
+Conventions
+
+   [[106]edit]
+
+Type
+
+   [[107]edit]
+
+   Originally, a signed 16-bit integer was used. Since the sign was not
+   necessary – negative numbers do not make valid group IDs – an unsigned
+   integer is now used instead, allowing group IDs between 0 and 65,535.
+   Modern operating systems usually use unsigned 32-bit integers, which
+   allow for group IDs between 0 and 4,294,967,295.
+
+Reserved ranges
+
+   [[108]edit]
+
+   Many Linux systems reserve the GID number range 0 to 99 for statically
+   allocated groups, and either 100−499 or 100−999 for groups dynamically
+   allocated by the system in post-installation scripts. These ranges are
+   often specified in /etc/login.defs, for useradd, groupadd and similar
+   tools.
+
+   On FreeBSD, porters who need a GID for their package can pick a free
+   one from the range 50 to 999 and then register this static allocation
+   in [109]ports/GIDs.^[110][2]
+
+Special values
+
+   [[111]edit]
+     * 0: The [112]superuser normally has a GID of zero (0).
+     * −1: The value (gid_t) -1 is reserved by POSIX to identify an
+       omitted argument.^[113][3]
+     * 65,534: The Linux kernel defaults to 2^16−2 = 65,534 (which many
+       Linux distributions map to the group name "nogroup") when a 32-bit
+       GID does not fit into the return value of a 16-bit system
+       call.^[114][4] The value is also returned by [115]idmapd if a group
+       name in an incoming [116]NFSv4 packet does not match any known
+       group on the system.
+
+Personal groups
+
+   [[117]edit]
+
+   Many system administrators allocate for each user also a personal
+   primary group that has the same name as the user's login name, and
+   often also has the same numeric GID as the user's UID. Such personal
+   groups have no other members and make collaboration with other users in
+   shared directories easier, by allowing users to habitually work with
+   [118]umask 0002. This way, newly created files can have by default
+   write permissions enabled for group members, because this will normally
+   only enable write access for members of the personal group, that is
+   only for the file's owner. However, if a file is created in a shared
+   directory that belongs to another group and has the [119]setgid bit
+   set, then the created file will automatically become writable to
+   members of that directory's group as well.
+
+   On many Linux systems, the USERGROUPS_ENAB variable in /etc/login.defs
+   controls whether commands like useradd or userdel automatically add or
+   delete an associated personal group.
+
+See also
+
+   [[120]edit]
+     * [121]setuid
+     * [122]User identifier
+     * [123]Process identifier
+     * [124]Inode
+     * [125]FAT access rights
+     * [126]List of POSIX commands
+
+References
+
+   [[127]edit]
+    1. [128]^ [129]"Definitions". pubs.opengroup.org. Retrieved
+       2021-12-06.
+    2. [130]^ [131]FreeBSD Porter's Handbook, [132]Section 6.26: Adding
+       Users and Groups
+    3. [133]^ [134]"chown". pubs.opengroup.org. Retrieved 2021-12-06.
+    4. [135]^ [136]"Namespaces in operation, part 5: User namespaces
+       [LWN.net]". lwn.net. Retrieved 2021-12-06.
+
+   Retrieved from
+   "[137]https://en.wikipedia.org/w/index.php?title=Group_identifier&oldid
+   =1252033931"
+   [138]Categories:
+     * [139]Unix
+     * [140]Unix file system technology
+
+   Hidden categories:
+     * [141]Articles with short description
+     * [142]Short description matches Wikidata
+     * [143]Articles needing additional references from September 2014
+     * [144]All articles needing additional references
+
+     * This page was last edited on 19 October 2024, at 12:27 (UTC).
+     * Text is available under the [145]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [146]Terms of Use and
+       [147]Privacy Policy. Wikipedia® is a registered trademark of the
+       [148]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [149]Privacy policy
+     * [150]About Wikipedia
+     * [151]Disclaimers
+     * [152]Contact Wikipedia
+     * [153]Code of Conduct
+     * [154]Developers
+     * [155]Statistics
+     * [156]Cookie statement
+     * [157]Mobile view
+
+     * [158]Wikimedia Foundation
+     * [159]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/Group_identifier
+   2. file:///w/index.php?title=Group_identifier&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Group+identifier
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Group+identifier
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Group+identifier
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Group+identifier
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html
+  29. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#Supplementary_groups
+  30. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#Effective_vs._real
+  31. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#Conventions
+  32. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#Type
+  33. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#Reserved_ranges
+  34. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#Special_values
+  35. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#Personal_groups
+  36. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#See_also
+  37. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#References
+  38. https://cs.wikipedia.org/wiki/Identifikátor_skupiny
+  39. https://es.wikipedia.org/wiki/Identificador_de_grupo
+  40. https://fr.wikipedia.org/wiki/Groupe_(Unix)
+  41. https://ko.wikipedia.org/wiki/그룹_식별자
+  42. https://it.wikipedia.org/wiki/Group_identifier
+  43. https://ja.wikipedia.org/wiki/グループ識別子
+  44. https://no.wikipedia.org/wiki/Gruppeidentifikator
+  45. https://pl.wikipedia.org/wiki/GID
+  46. https://uk.wikipedia.org/wiki/Ідентифікатор_групи
+  47. https://zh.wikipedia.org/wiki/组ID
+  48. https://www.wikidata.org/wiki/Special:EntityPage/Q975373#sitelinks-wikipedia
+  49. file:///wiki/Group_identifier
+  50. file:///wiki/Talk:Group_identifier
+  51. file:///wiki/Group_identifier
+  52. file:///w/index.php?title=Group_identifier&action=edit
+  53. file:///w/index.php?title=Group_identifier&action=history
+  54. file:///wiki/Group_identifier
+  55. file:///w/index.php?title=Group_identifier&action=edit
+  56. file:///w/index.php?title=Group_identifier&action=history
+  57. file:///wiki/Special:WhatLinksHere/Group_identifier
+  58. file:///wiki/Special:RecentChangesLinked/Group_identifier
+  59. file:///wiki/Wikipedia:File_Upload_Wizard
+  60. file:///wiki/Special:SpecialPages
+  61. file:///w/index.php?title=Group_identifier&oldid=1252033931
+  62. file:///w/index.php?title=Group_identifier&action=info
+  63. file:///w/index.php?title=Special:CiteThisPage&page=Group_identifier&id=1252033931&wpFormIdentifier=titleform
+  64. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/Group_identifier
+  65. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/Group_identifier
+  66. file:///w/index.php?title=Special:DownloadAsPdf&page=Group_identifier&action=show-download-screen
+  67. file:///w/index.php?title=Group_identifier&printable=yes
+  68. https://www.wikidata.org/wiki/Special:EntityPage/Q975373
+  69. file:///w/index.php?title=/etc/group&redirect=no
+  70. file:///wiki/Egyptian_General_Intelligence_Directorate
+  71. file:///wiki/Wikipedia:Verifiability
+  72. file:///wiki/Special:EditPage/Group_identifier
+  73. file:///wiki/Help:Referencing_for_beginners
+  74. https://www.google.com/search?as_eq=wikipedia&q="Group+identifier"
+  75. https://www.google.com/search?tbm=nws&q="Group+identifier"+-wikipedia&tbs=ar:1
+  76. https://www.google.com/search?&q="Group+identifier"&tbs=bkt:s&tbm=bks
+  77. https://www.google.com/search?tbs=bks:1&q="Group+identifier"+-wikipedia
+  78. https://scholar.google.com/scholar?q="Group+identifier"
+  79. https://www.jstor.org/action/doBasicSearch?Query="Group+identifier"&acc=on&wc=on
+  80. file:///wiki/Help:Maintenance_template_removal
+  81. file:///wiki/Unix-like
+  82. file:///wiki/Group_(computing)
+  83. file:///wiki/POSIX
+  84. file:///wiki/Unix
+  85. file:///wiki/File_system_permissions
+  86. file:///wiki/Computer_printer
+  87. file:///wiki/Peripheral
+  88. file:///wiki/Superuser
+  89. file:///wiki/Windows_NT
+  90. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#cite_note-1
+  91. file:///wiki//etc/passwd
+  92. file:///wiki/Shadow_passwords
+  93. file:///wiki/Network_Information_Service
+  94. file:///wiki/Unix
+  95. file:///wiki/File_system
+  96. file:///wiki/Process_(computing)
+  97. file:///w/index.php?title=Group_identifier&action=edit&section=1
+  98. file:///wiki/LDAP
+  99. file:///wiki/LDAP
+ 100. file:///w/index.php?title=Group_identifier&action=edit&section=2
+ 101. file:///wiki/Effective_user_ID
+ 102. file:///wiki/Real_user_ID
+ 103. file:///wiki/Saved_user_ID
+ 104. file:///wiki/Setuid
+ 105. file:///wiki/Setgid
+ 106. file:///w/index.php?title=Group_identifier&action=edit&section=3
+ 107. file:///w/index.php?title=Group_identifier&action=edit&section=4
+ 108. file:///w/index.php?title=Group_identifier&action=edit&section=5
+ 109. http://svnweb.freebsd.org/ports/head/GIDs?view=co
+ 110. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#cite_note-2
+ 111. file:///w/index.php?title=Group_identifier&action=edit&section=6
+ 112. file:///wiki/Superuser
+ 113. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#cite_note-3
+ 114. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#cite_note-4
+ 115. file:///w/index.php?title=Idmapd&action=edit&redlink=1
+ 116. file:///wiki/NFSv4
+ 117. file:///w/index.php?title=Group_identifier&action=edit&section=7
+ 118. file:///wiki/Umask
+ 119. file:///wiki/Setgid
+ 120. file:///w/index.php?title=Group_identifier&action=edit&section=8
+ 121. file:///wiki/Setuid
+ 122. file:///wiki/User_identifier
+ 123. file:///wiki/Process_identifier
+ 124. file:///wiki/Inode
+ 125. file:///wiki/FAT_access_rights
+ 126. file:///wiki/List_of_POSIX_commands
+ 127. file:///w/index.php?title=Group_identifier&action=edit&section=9
+ 128. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#cite_ref-1
+ 129. https://pubs.opengroup.org/onlinepubs/9699919799.2018edition/basedefs/V1_chap03.html
+ 130. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#cite_ref-2
+ 131. http://www.freebsd.org/doc/en/books/porters-handbook/
+ 132. http://www.freebsd.org/doc/en/books/porters-handbook/users-and-groups.html
+ 133. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#cite_ref-3
+ 134. https://pubs.opengroup.org/onlinepubs/009695399/functions/chown.html
+ 135. file:///tmp/lynxXXXXHzbqSA/L57914-9938TMP.html#cite_ref-4
+ 136. https://lwn.net/Articles/532593/
+ 137. https://en.wikipedia.org/w/index.php?title=Group_identifier&oldid=1252033931
+ 138. file:///wiki/Help:Category
+ 139. file:///wiki/Category:Unix
+ 140. file:///wiki/Category:Unix_file_system_technology
+ 141. file:///wiki/Category:Articles_with_short_description
+ 142. file:///wiki/Category:Short_description_matches_Wikidata
+ 143. file:///wiki/Category:Articles_needing_additional_references_from_September_2014
+ 144. file:///wiki/Category:All_articles_needing_additional_references
+ 145. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 146. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 147. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 148. https://wikimediafoundation.org/
+ 149. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 150. file:///wiki/Wikipedia:About
+ 151. file:///wiki/Wikipedia:General_disclaimer
+ 152. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 153. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 154. https://developer.wikimedia.org/
+ 155. https://stats.wikimedia.org/#/en.wikipedia.org
+ 156. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 157. file://en.m.wikipedia.org/w/index.php?title=Group_identifier&mobileaction=toggle_view_mobile
+ 158. https://wikimediafoundation.org/
+ 159. https://www.mediawiki.org/
+
+   Hidden links:
+ 161. file://localhost/wiki/File:Question_book-new.svg

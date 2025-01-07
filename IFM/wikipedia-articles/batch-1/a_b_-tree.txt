@@ -1,0 +1,2546 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 History
+     * [30]2 Definition
+       (BUTTON) Toggle Definition subsection
+          + [31]2.1 Differences in terminology
+     * [32]3 Informal description
+       (BUTTON) Toggle Informal description subsection
+          + [33]3.1 Node structure
+          + [34]3.2 Insertion and deletion
+          + [35]3.3 Comparison to other trees
+          + [36]3.4 Variants
+     * [37]4 B-tree usage in databases
+       (BUTTON) Toggle B-tree usage in databases subsection
+          + [38]4.1 Time to search a sorted file
+          + [39]4.2 An index speeds the search
+          + [40]4.3 Insertions and deletions
+          + [41]4.4 Advantages of B-tree usage for databases
+     * [42]5 Best case and worst case heights
+     * [43]6 Algorithms
+       (BUTTON) Toggle Algorithms subsection
+          + [44]6.1 Search
+          + [45]6.2 Insertion
+          + [46]6.3 Deletion
+               o [47]6.3.1 Deletion from a leaf node
+               o [48]6.3.2 Deletion from an internal node
+               o [49]6.3.3 Rebalancing after deletion
+          + [50]6.4 Sequential access
+          + [51]6.5 Initial construction
+     * [52]7 In filesystems
+     * [53]8 Performance
+     * [54]9 Variations
+       (BUTTON) Toggle Variations subsection
+          + [55]9.1 Access concurrency
+          + [56]9.2 Parallel algorithms
+          + [57]9.3 Maple tree
+          + [58]9.4 (a,b)-tree
+     * [59]10 See also
+     * [60]11 Notes
+     * [61]12 References
+     * [62]13 Sources
+       (BUTTON) Toggle Sources subsection
+          + [63]13.1 Original papers
+     * [64]14 External links
+
+   [ ] Toggle the table of contents
+
+B-tree
+
+   [ ] 33 languages
+     * [65]العربية
+     * [66]Azərbaycanca
+     * [67]Català
+     * [68]Čeština
+     * [69]Deutsch
+     * [70]Español
+     * [71]فارسی
+     * [72]Français
+     * [73]한국어
+     * [74]Hrvatski
+     * [75]Italiano
+     * [76]עברית
+     * [77]ಕನ್ನಡ
+     * [78]Latina
+     * [79]Latviešu
+     * [80]Lietuvių
+     * [81]Lombard
+     * [82]Magyar
+     * [83]മലയാളം
+     * [84]日本語
+     * [85]Norsk bokmål
+     * [86]Polski
+     * [87]Português
+     * [88]Русский
+     * [89]کوردی
+     * [90]Српски / srpski
+     * [91]Srpskohrvatski / српскохрватски
+     * [92]Svenska
+     * [93]ไทย
+     * [94]Українська
+     * [95]Tiếng Việt
+     * [96]粵語
+     * [97]中文
+
+   [98]Edit links
+
+     * [99]Article
+     * [100]Talk
+
+   [ ] English
+
+     * [101]Read
+     * [102]Edit
+     * [103]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [104]Read
+     * [105]Edit
+     * [106]View history
+
+   General
+     * [107]What links here
+     * [108]Related changes
+     * [109]Upload file
+     * [110]Special pages
+     * [111]Permanent link
+     * [112]Page information
+     * [113]Cite this page
+     * [114]Get shortened URL
+     * [115]Download QR code
+
+   Print/export
+     * [116]Download as PDF
+     * [117]Printable version
+
+   In other projects
+     * [118]Wikimedia Commons
+     * [119]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [120](a,b)-tree)
+   A self-balancing, tree-based data structure, that allows read/write
+   access in logarithmic time
+   Not to be confused with [121]Binary tree or [122]B+ tree.
+                           B-tree
+    [123]Type  [124]Tree (data structure)
+    Invented   1970^[125][1]
+   Invented by [126]Rudolf Bayer, [127]Edward M. McCreight
+    [128]Time complexity in [129]big O notation
+   Operation Average  Worst case
+    Search   O(log n) O(log n)
+    Insert   O(log n) O(log n)
+    Delete   O(log n) O(log n)
+               [130]Space complexity
+     Space   O(n)     O(n)
+
+   In [131]computer science, a B-tree is a self-balancing [132]tree data
+   structure that maintains sorted data and allows searches, sequential
+   access, insertions, and deletions in [133]logarithmic time. The B-tree
+   generalizes the [134]binary search tree, allowing for [135]nodes with
+   more than two children.^[136][2] Unlike other [137]self-balancing
+   binary search trees, the B-tree is well suited for storage systems that
+   read and write relatively large [138]blocks of data, such as
+   [139]databases and [140]file systems.
+
+History
+
+   [[141]edit]
+
+   B-trees were invented by [142]Rudolf Bayer and [143]Edward M. McCreight
+   while working at [144]Boeing Research Labs, for the purpose of
+   efficiently managing index pages for large random-access files. The
+   basic assumption was that indices would be so voluminous that only
+   small chunks of the tree could fit in main memory. Bayer and
+   McCreight's paper Organization and maintenance of large ordered
+   indices^[145][1] was first circulated in July 1970 and later published
+   in [146]Acta Informatica.^[147][3]
+
+   Bayer and McCreight never explained what, if anything, the B stands
+   for; Boeing, balanced, between, broad, bushy, and Bayer have been
+   suggested.^[148][4]^[149][5]^[150][6] McCreight, when asked "I want to
+   know what B in B-Tree stands for," answered^[151][5]:
+
+     Everybody does!
+
+     So you just have no idea what a lunchtime conversation can turn
+     into. So there we were, Rudy and I, at lunch. We had to give the
+     thing a name.... We were working for Boeing at the time, but we
+     couldn't use the name without talking to the lawyers. So there's a
+     B.
+
+     It has to do with Balance. There's another B.
+
+     Rudy was the senior author. Rudy (Bayer) was several years older
+     than I am, and had ... many more publications than I did. So there's
+     another B.
+
+     And so at the lunch table, we never did resolve whether there was
+     one of those that made more sense than the rest.
+
+     What Rudy likes to say is, the more you think about what the B in
+     B-Tree means, the better you understand B-Trees!
+
+Definition
+
+   [[152]edit]
+
+   According to [153]Knuth's definition, a B-tree of order m is a tree
+   which satisfies the following properties:^[154][7]
+    1. Every node has at most m children.
+    2. Every node, except for the root and the leaves, has at least ⌈m/2⌉
+       children.
+    3. The root node has at least two children unless it is a leaf.
+    4. All leaves appear on the same level.
+    5. A non-leaf node with k children contains k−1 keys.
+
+   Each internal node's keys act as separation values which divide its
+   subtrees. For example, if an internal node has 3 child nodes (or
+   subtrees) then it must have 2 keys: a[1] and a[2]. All values in the
+   leftmost subtree will be less than a[1], all values in the middle
+   subtree will be between a[1] and a[2], and all values in the rightmost
+   subtree will be greater than a[2].
+
+   Internal nodes
+          Internal nodes (also known as [155]inner nodes) are all nodes
+          except for leaf nodes and the root node. They are usually
+          represented as an ordered set of elements and child pointers.
+          Every internal node contains a maximum of U children and a
+          minimum of L children. Thus, the number of elements is always 1
+          less than the number of child pointers (the number of elements
+          is between L−1 and U−1). U must be either 2L or 2L−1; therefore
+          each internal node is at least half full. The relationship
+          between U and L implies that two half-full nodes can be joined
+          to make a legal node, and one full node can be split into two
+          legal nodes (if there's room to push one element up into the
+          parent). These properties make it possible to delete and insert
+          new values into a B-tree and adjust the tree to preserve the
+          B-tree properties.
+
+   The root node
+          The root node's number of children has the same upper limit as
+          internal nodes, but has no lower limit. For example, when there
+          are fewer than L−1 elements in the entire tree, the root will be
+          the only node in the tree with no children at all.
+
+   Leaf nodes
+          In Knuth's terminology, the "leaf" nodes are the actual data
+          objects / chunks. The internal nodes that are one level above
+          these leaves are what would be called the "leaves" by other
+          authors: these nodes only store keys (at most m-1, and at least
+          m/2-1 if they are not the root) and pointers (one for each key)
+          to nodes carrying the data objects / chunks.
+
+   A B-tree of depth n+1 can hold about U times as many items as a B-tree
+   of depth n, but the cost of search, insert, and delete operations grows
+   with the depth of the tree. As with any balanced tree, the cost grows
+   much more slowly than the number of elements.
+
+   Some balanced trees store values only at leaf nodes, and use different
+   kinds of nodes for leaf nodes and internal nodes. B-trees keep values
+   in every node in the tree except leaf nodes.
+
+Differences in terminology
+
+   [[156]edit]
+
+   The literature on B-trees is not uniform in its terminology.^[157][8]
+
+   Bayer and McCreight (1972),^[158][3] Comer (1979),^[159][2] and others
+   define the order of B-tree as the minimum number of keys in a non-root
+   node. Folk and Zoellick ^[160][9] points out that terminology is
+   ambiguous because the maximum number of keys is not clear. An order 3
+   B-tree might hold a maximum of 6 keys or a maximum of 7 keys. Knuth
+   (1998) avoids the problem by defining the order to be the maximum
+   number of children (which is one more than the maximum number of
+   keys).^[161][7]
+
+   The term leaf is also inconsistent. Bayer and McCreight (1972)^[162][3]
+   considered the leaf level to be the lowest level of keys, but Knuth
+   considered the leaf level to be one level below the lowest
+   keys.^[163][9] There are many possible implementation choices. In some
+   designs, the leaves may hold the entire data record; in other designs,
+   the leaves may only hold pointers to the data record. Those choices are
+   not fundamental to the idea of a B-tree.^[164][10]
+
+   For simplicity, most authors assume there are a fixed number of keys
+   that fit in a node. The basic assumption is the key size is fixed and
+   the node size is fixed. In practice, variable length keys may be
+   employed.^[165][11]
+
+Informal description
+
+   [[166]edit]
+   [167][400px-B-tree.svg.png] A B-tree ([168]Bayer & McCreight 1972) of
+   order 5 ([169]Knuth 1998).
+
+Node structure
+
+   [[170]edit]
+
+   As with other trees, B-trees can be represented as a collection of
+   three types of nodes: root, internal (a.k.a. interior), and leaf.
+
+   Note the following variable definitions:
+     * K: Maximum number of potential search keys for each node in a
+       B-tree. (this value is constant over the entire tree).
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>t</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       pt_{i}}</annotation> </semantics> :MATH]
+       {\displaystyle pt_{i}} : The pointer to a child node which starts a
+       sub-tree.
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>r</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       pr_{i}}</annotation> </semantics> :MATH]
+       {\displaystyle pr_{i}} : The pointer to a record which stores the
+       data.
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       k_{i}}</annotation> </semantics> :MATH]
+       {\displaystyle k_{i}} : The search key at the zero-based node index
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>i</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       i}</annotation> </semantics> :MATH]
+       {\displaystyle i} .
+
+   In B-trees, the following properties are maintained for these nodes:
+     * If
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="false" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\textstyle
+       k_{i}}</annotation> </semantics> :MATH]
+       {\textstyle k_{i}} exists in any node in a B tree, then
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow>
+       </msub> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle k_{i-1}}</annotation>
+       </semantics> :MATH]
+       {\displaystyle k_{i-1}} exists in that node where
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>i</mi> <mo>≥</mo>
+       <mn>1</mn> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle i\geq 1}</annotation>
+       </semantics> :MATH]
+       {\displaystyle i\geq 1} .
+     * All leaf nodes have the same number of ancestors (i.e., they are
+       all at the same depth).
+
+   Each internal node in a B-tree has the following format:
+
+   CAPTION: Internal node structure
+
+   pt[0] k[0] pt[1] pr[0] k[1] pt[2] pr[1] ... k[K-1] pt[K] pr[K-1]
+
+   CAPTION: Internal node pointer structure
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pt_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle pt_{0}} when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{0}} exists
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pt_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pt_{i}} when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle k_{i-1}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle k_{i-1}} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} exist
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pt_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pt_{i}} when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle k_{i-1}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle k_{i-1}} exists, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} does not exist
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pt_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pt_{i}} when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle k_{i-1}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle k_{i-1}} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} do not exist
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pr_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pr_{i}} when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} exists
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pr_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pr_{i}} when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} does not exist
+   Points to subtree in which all search keys are less than
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{0}} . Points to subtree in which all search keys are
+   greater than
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle k_{i-1}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle k_{i-1}} and are less than
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} . Points to subtree in which all search keys are
+   greater than
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle k_{i-1}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle k_{i-1}} . Here,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pt_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pt_{i}} is empty. Points to a record with a value equal
+   to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} . Here,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pr_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pr_{i}} is empty.
+
+   Each leaf node in a B-tree has the following format:
+
+   CAPTION: Leaf node structure
+
+   pr[0] k[0] pr[1] k[1] ... pr[K-1] k[K-1]
+
+   CAPTION: Leaf node pointer structure
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pr_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pr_{i}} when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} exists
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pr_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pr_{i}} when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} does not exist
+   Points to a record with a value equal to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   k_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle k_{i}} . Here,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   pr_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle pr_{i}} is empty.
+
+   The node bounds are summarized in the table below:
+   Node type Min number
+   of keys Max number
+   of keys Min number
+   of child nodes Max number
+   of child nodes
+   Root node when it is a leaf node 0
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>K</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle K}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K} 0 0
+   Root node when it is an internal node 1
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>K</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle K}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K} 2^[171][12]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>K</mi> <mo>+</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle K+1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K+1}
+   Internal node
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">⌊</mo> <mi>K</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mn>2</mn> <mo fence="false" stretchy="false">⌋</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \lfloor K/2\rfloor
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \lfloor K/2\rfloor }
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>K</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle K}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">⌈</mo> <mo stretchy="false">(</mo> <mi>K</mi>
+   <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> <mo
+   fence="false" stretchy="false">⌉</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \lceil (K+1)/2\rceil
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \lceil (K+1)/2\rceil }
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>≡</mo> <mo fence="false"
+   stretchy="false">⌊</mo> <mi>K</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mn>2</mn> <mo fence="false" stretchy="false">⌋</mo>
+   <mo>+</mo> <mn>1</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \equiv \lfloor K/2\rfloor
+   +1}</annotation> </semantics> :MATH]
+   {\displaystyle \equiv \lfloor K/2\rfloor +1}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>K</mi> <mo>+</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle K+1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K+1}
+   Leaf node
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">⌈</mo> <mi>K</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mn>2</mn> <mo fence="false" stretchy="false">⌉</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \lceil K/2\rceil
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \lceil K/2\rceil }
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>K</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle K}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K} 0 0
+
+Insertion and deletion
+
+   [[172]edit]
+
+   In order to maintain the predefined range of child nodes, internal
+   nodes may be joined or split.
+
+   Usually, the number of keys is chosen to vary between
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>d</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   2d}</annotation> </semantics> :MATH]
+   {\displaystyle 2d} , where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} is the minimum number of keys, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> <mo>+</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle d+1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d+1} is the minimum [173]degree or [174]branching factor
+   of the tree. The factor of 2 will guarantee that nodes can be split or
+   combined.
+
+   If an internal node has
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>d</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   2d}</annotation> </semantics> :MATH]
+   {\displaystyle 2d} keys, then adding a key to that node can be
+   accomplished by splitting the hypothetical
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>d</mi> <mo>+</mo>
+   <mn>1</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 2d+1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 2d+1} key node into two
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} key nodes and moving the key that would have been in
+   the middle to the parent node. Each split node has the required minimum
+   number of keys. Similarly, if an internal node and its neighbor each
+   have
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} keys, then a key may be deleted from the internal
+   node by combining it with its neighbor. Deleting the key would make the
+   internal node have
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> <mo>−</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle d-1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d-1} keys; joining the neighbor would add
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} keys plus one more key brought down from the
+   neighbor's parent. The result is an entirely full node of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>d</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   2d}</annotation> </semantics> :MATH]
+   {\displaystyle 2d} keys.
+
+   A B-tree is kept balanced after insertion by splitting a would-be
+   overfilled node, of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>d</mi> <mo>+</mo>
+   <mn>1</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 2d+1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 2d+1} keys, into two
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} -key siblings and inserting the mid-value key into
+   the parent. Depth only increases when the root is split, maintaining
+   balance. Similarly, a B-tree is kept balanced after deletion by merging
+   or redistributing keys among siblings to maintain the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} -key minimum for non-root nodes. A merger reduces the
+   number of keys in the parent potentially forcing it to merge or
+   redistribute keys with its siblings, and so on. The only change in
+   depth occurs when the root has two children, of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} and (transitionally)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> <mo>−</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle d-1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d-1} keys, in which case the two siblings and parent are
+   merged, reducing the depth by one.
+
+   This depth will increase slowly as elements are added to the tree, but
+   an increase in the overall depth is infrequent, and results in all leaf
+   nodes being one more node farther away from the root.
+
+Comparison to other trees
+
+   [[175]edit]
+
+   Because a range of child nodes is permitted, B-trees do not need
+   re-balancing as frequently as other self-balancing search trees, but
+   may waste some space, since nodes are not entirely full.
+
+   B-trees have substantial advantages over alternative implementations
+   when the time to access the data of a node greatly exceeds the time
+   spent processing that data, because then the cost of accessing the node
+   may be amortized over multiple operations within the node. This usually
+   occurs when the node data are in [176]secondary storage such as
+   [177]disk drives. By maximizing the number of keys within each
+   [178]internal node, the height of the tree decreases and the number of
+   expensive node accesses is reduced. In addition, rebalancing of the
+   tree occurs less often. The maximum number of child nodes depends on
+   the information that must be stored for each child node and the size of
+   a full [179]disk block or an analogous size in secondary storage. While
+   2–3 B-trees are easier to explain, practical B-trees using secondary
+   storage need a large number of child nodes to improve performance.
+
+Variants
+
+   [[180]edit]
+
+   The term B-tree may refer to a specific design or it may refer to a
+   general class of designs. In the narrow sense, a B-tree stores keys in
+   its internal nodes but need not store those keys in the records at the
+   leaves. The general class includes variations such as the [181]B+ tree,
+   the B^* tree and the B^*+ tree.
+     * In the [182]B+ tree, the internal nodes do not store any pointers
+       to records, thus all pointers to records are stored in the leaf
+       nodes. In addition, a leaf node may include a pointer to the next
+       leaf node to speed up sequential access.^[183][2] Because B+ tree
+       internal nodes have fewer pointers, each node can hold more keys,
+       causing the tree to be shallower and thus faster to search.
+     * The B^* tree balances more neighboring internal nodes to keep the
+       internal nodes more densely packed.^[184][2] This variant ensures
+       non-root nodes are at least 2/3 full instead of 1/2.^[185][13] As
+       the most costly part of operation of inserting the node in B-tree
+       is splitting the node, B^*-trees are created to postpone splitting
+       operation as long as they can.^[186][14] To maintain this, instead
+       of immediately splitting up a node when it gets full, its keys are
+       shared with a node next to it. This spill operation is less costly
+       to do than split, because it requires only shifting the keys
+       between existing nodes, not allocating memory for a new
+       one.^[187][14] For inserting, first it is checked whether the node
+       has some free space in it, and if so, the new key is just inserted
+       in the node. However, if the node is full (it has m − 1 keys, where
+       m is the order of the tree as maximum number of pointers to
+       subtrees from one node), it needs to be checked whether the right
+       sibling exists and has some free space. If the right sibling has j
+       < m − 1 keys, then keys are redistributed between the two sibling
+       nodes as evenly as possible. For this purpose, m - 1 keys from the
+       current node, the new key inserted, one key from the parent node
+       and j keys from the sibling node are seen as an ordered array of m
+       + j + 1 keys. The array becomes split by half, so that ⌊(m + j +
+       1)/2⌋ lowest keys stay in the current node, the next (middle) key
+       is inserted in the parent and the rest go to the right
+       sibling.^[188][14] (The newly inserted key might end up in any of
+       the three places.) The situation when right sibling is full, and
+       left isn't is analogous.^[189][14] When both the sibling nodes are
+       full, then the two nodes (current node and a sibling) are split
+       into three and one more key is shifted up the tree, to the parent
+       node.^[190][14] If the parent is full, then spill/split operation
+       propagates towards the root node.^[191][14] Deleting nodes is
+       somewhat more complex than inserting however.
+     * The B^*+ tree combines the main [192]B+ tree and B^* tree features
+       together.^[193][15]
+     * B-trees can be turned into [194]order statistic trees to allow
+       rapid searches for the Nth record in key order, or counting the
+       number of records between any two records, and various other
+       related operations.^[195][16]
+
+B-tree usage in databases
+
+   [[196]edit]
+   This section's tone or style may not reflect the [197]encyclopedic tone
+   used on Wikipedia. See Wikipedia's [198]guide to writing better
+   articles for suggestions. (May 2022) ([199]Learn how and when to remove
+   this message)
+
+Time to search a sorted file
+
+   [[200]edit]
+
+   Sorting and searching algorithms can be characterized by the number of
+   comparison operations that must be performed using [201]order notation.
+   A [202]binary search of a sorted table with N records, for example, can
+   be done in roughly ⌈ log[2] N ⌉ comparisons. If the table had 1,000,000
+   records, then a specific record could be located with at most 20
+   comparisons: ⌈ log[2] (1,000,000) ⌉ = 20.
+
+   Large databases have historically been kept on disk drives. The time to
+   read a record on a disk drive far exceeds the time needed to compare
+   keys once the record is available due to [203]seek time and a
+   rotational delay. The seek time may be 0 to 20 or more milliseconds,
+   and the rotational delay averages about half the rotation period. For a
+   7200 RPM drive, the rotation period is 8.33 milliseconds. For a drive
+   such as the Seagate ST3500320NS, the track-to-track seek time is 0.8
+   milliseconds and the average reading seek time is 8.5
+   milliseconds.^[204][17] For simplicity, assume reading from disk takes
+   about 10 milliseconds.
+
+   The time to locate one record out of a million in the example above
+   would take 20 disk reads times 10 milliseconds per disk read, which is
+   0.2 seconds.
+
+   The search time is reduced because individual records are grouped
+   together in a disk block. A disk block might be 16 kilobytes. If each
+   record is 160 bytes, then 100 records could be stored in each block.
+   The disk read time above was actually for an entire block. Once the
+   disk head is in position, one or more disk blocks can be read with
+   little delay. With 100 records per block, the last 6 or so comparisons
+   don't need to do any disk reads—the comparisons are all within the last
+   disk block read.
+
+   To speed up the search further, the time to do the first 13 to 14
+   comparisons (which each required a disk access) must be reduced.
+
+An index speeds the search
+
+   [[205]edit]
+
+   A B-tree [206]index can be used to improve performance. A B-tree index
+   creates a multi-level tree structure that breaks a database down into
+   fixed-size blocks or pages. Each level of this tree can be used to link
+   those pages via an address location, allowing one page (known as a
+   node, or internal page) to refer to another with leaf pages at the
+   lowest level. One page is typically the starting point of the tree, or
+   the "root". This is where the search for a particular key would begin,
+   traversing a path that terminates in a leaf. Most pages in this
+   structure will be leaf pages which refer to specific table rows.
+
+   Because each node (or internal page) can have more than two children, a
+   B-tree index will usually have a shorter height (the distance from the
+   root to the farthest leaf) than a Binary Search Tree. In the example
+   above, initial disk reads narrowed the search range by a factor of two.
+   That can be improved by creating an auxiliary index that contains the
+   first record in each disk block (sometimes called a [207]sparse index).
+   This auxiliary index would be 1% of the size of the original database,
+   but it can be searched quickly. Finding an entry in the auxiliary index
+   would tell us which block to search in the main database; after
+   searching the auxiliary index, we would have to search only that one
+   block of the main database—at a cost of one more disk read.
+
+   In the above example the index would hold 10,000 entries and would take
+   at most 14 comparisons to return a result. Like the main database, the
+   last six or so comparisons in the auxiliary index would be on the same
+   disk block. The index could be searched in about eight disk reads, and
+   the desired record could be accessed in 9 disk reads.
+
+   Creating an auxiliary index can be repeated to make an auxiliary index
+   to the auxiliary index. That would make an aux-aux index that would
+   need only 100 entries and would fit in one disk block.
+
+   Instead of reading 14 disk blocks to find the desired record, we only
+   need to read 3 blocks. This blocking is the core idea behind the
+   creation of the B-tree, where the disk blocks fill-out a hierarchy of
+   levels to make up the index. Reading and searching the first (and only)
+   block of the aux-aux index which is the root of the tree identifies the
+   relevant block in aux-index in the level below. Reading and searching
+   that aux-index block identifies the relevant block to read, until the
+   final level, known as the leaf level, identifies a record in the main
+   database. Instead of 150 milliseconds, we need only 30 milliseconds to
+   get the record.
+
+   The auxiliary indices have turned the search problem from a binary
+   search requiring roughly log[2] N disk reads to one requiring only
+   log[b] N disk reads where b is the blocking factor (the number of
+   entries per block: b = 100 entries per block in our example; log[100]
+   1,000,000 = 3 reads).
+
+   In practice, if the main database is being frequently searched, the
+   aux-aux index and much of the aux index may reside in a [208]disk
+   cache, so they would not incur a disk read. The B-tree remains the
+   standard index implementation in almost all [209]relational databases,
+   and many nonrelational databases use them too.^[210][18]
+
+Insertions and deletions
+
+   [[211]edit]
+
+   If the [212]database does not change, then compiling the index is
+   simple to do, and the index need never be changed. If there are
+   changes, managing the database and its index require additional
+   computation.
+
+   Deleting records from a database is relatively easy. The index can stay
+   the same, and the record can just be marked as deleted. The database
+   remains in sorted order. If there are a large number of [213]lazy
+   deletions, then searching and storage become less efficient.^[214][19]
+
+   Insertions can be very slow in a sorted sequential file because room
+   for the inserted record must be made. Inserting a record before the
+   first record requires shifting all of the records down one. Such an
+   operation is just too expensive to be practical. One solution is to
+   leave some spaces. Instead of densely packing all the records in a
+   block, the block can have some free space to allow for subsequent
+   insertions. Those spaces would be marked as if they were "deleted"
+   records.
+
+   Both insertions and deletions are fast as long as space is available on
+   a block. If an insertion won't fit on the block, then some free space
+   on some nearby block must be found and the auxiliary indices adjusted.
+   The best case is that enough space is available nearby so that the
+   amount of block reorganization can be minimized. Alternatively, some
+   out-of-sequence disk blocks may be used.^[215][18]
+
+Advantages of B-tree usage for databases
+
+   [[216]edit]
+
+   The B-tree uses all of the ideas described above. In particular, a
+   B-tree:
+     * keeps keys in sorted order for sequential traversing
+     * uses a hierarchical index to minimize the number of disk reads
+     * uses partially full blocks to speed up insertions and deletions
+     * keeps the index balanced with a recursive algorithm
+
+   In addition, a B-tree minimizes waste by making sure the interior nodes
+   are at least half full. A B-tree can handle an arbitrary number of
+   insertions and deletions.^[217][18]
+
+Best case and worst case heights
+
+   [[218]edit]
+
+   Let h ≥ –1 be the height of the classic B-tree (see [219]Tree (data
+   structure) § Terminology for the tree height definition). Let n ≥ 0 be
+   the number of entries in the tree. Let m be the maximum number of
+   children a node can have. Each node can have at most m−1 keys.
+
+   It can be shown (by induction for example) that a B-tree of height h
+   with all its nodes completely filled has n = m^h+1–1 entries. Hence,
+   the best case height (i.e. the minimum height) of a B-tree is:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">m</mi> <mi mathvariant="normal">i</mi> <mi
+          mathvariant="normal">n</mi> </mrow> </mrow> </msub> <mo>=</mo>
+          <mo fence="false" stretchy="false">⌈</mo> <msub> <mi>log</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msub>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>n</mi> <mo>+</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> <mo fence="false"
+          stretchy="false">⌉</mo> <mo>−</mo> <mn>1</mn> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          h_{\mathrm {min} }=\lceil \log _{m}(n+1)\rceil -1}</annotation>
+          </semantics> :MATH]
+          {\displaystyle h_{\mathrm {min} }=\lceil \log _{m}(n+1)\rceil
+          -1}
+
+   Let
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle d} be the minimum number of children an internal
+   (non-root) node must have. For an ordinary B-tree,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> <mo>=</mo> <mrow>
+   <mo>⌈</mo> <mrow> <mi>m</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+   </mrow> <mn>2</mn> </mrow> <mo>⌉</mo> </mrow> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   d=\left\lceil m/2\right\rceil .}</annotation> </semantics> :MATH]
+   {\displaystyle d=\left\lceil m/2\right\rceil .}
+
+   Comer (1979) and Cormen et al. (2001) give the worst case height (the
+   maximum height) of a B-tree as^[220][20]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">m</mi> <mi mathvariant="normal">a</mi> <mi
+          mathvariant="normal">x</mi> </mrow> </mrow> </msub> <mo>=</mo>
+          <mrow> <mo>⌊</mo> <mrow> <msub> <mi>log</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>d</mi> </mrow> </msub> <mo>⁡</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>n</mi>
+          <mo>+</mo> <mn>1</mn> </mrow> <mn>2</mn> </mfrac> </mrow>
+          </mrow> <mo>⌋</mo> </mrow> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          h_{\mathrm {max} }=\left\lfloor \log _{d}{\frac
+          {n+1}{2}}\right\rfloor .}</annotation> </semantics> :MATH]
+          {\displaystyle h_{\mathrm {max} }=\left\lfloor \log _{d}{\frac
+          {n+1}{2}}\right\rfloor .}
+
+Algorithms
+
+   [[221]edit]
+   This article has multiple issues. Please help [222]improve it or
+   discuss these issues on the [223]talk page. ([224]Learn how and when to
+   remove these messages)
+   This article may be [225]confusing or unclear to readers. In
+   particular, the discussion below uses "element", "value", "key",
+   "separator", and "separation value" to mean essentially the same thing.
+   The terms are not clearly defined. There are some subtle issues at the
+   root and leaves. Please help [226]clarify the article. There might be a
+   discussion about this on [227]the talk page. (February 2012)
+   ([228]Learn how and when to remove this message)
+   This article may require [229]copy editing for grammar, style,
+   cohesion, tone, or spelling. You can assist by [230]editing it.
+   (December 2024) ([231]Learn how and when to remove this message)
+   ([232]Learn how and when to remove this message)
+
+Search
+
+   [[233]edit]
+
+   Searching is similar to searching a binary search tree. Starting at the
+   root, the tree is recursively traversed from top to bottom. At each
+   level, the search reduces its field of view to the child pointer
+   (subtree) whose range includes the search value. A subtree's range is
+   defined by the values, or keys, contained in its parent node. These
+   limiting values are also known as separation values.
+
+   [234]Binary search is typically (but not necessarily) used within nodes
+   to find the separation values and child tree of interest.
+
+Insertion
+
+   [[235]edit]
+   [236][B_tree_insertion_example.png] A B-tree insertion example with
+   each iteration. The nodes of this B-tree have at most 3 children (Knuth
+   order 3).
+
+   All insertions start at a leaf node. To insert a new element, search
+   the tree to find the leaf node where the new element should be added.
+   Insert the new element into that node with the following steps:
+    1. If the node contains fewer than the maximum allowed number of
+       elements, then there is room for the new element. Insert the new
+       element in the node, keeping the node's elements ordered.
+    2. Otherwise the node is full, evenly split it into two nodes so:
+         1. A single median is chosen from among the leaf's elements and
+            the new element that is being inserted.
+         2. Values less than the median are put in the new left node and
+            values greater than the median are put in the new right node,
+            with the median acting as a separation value.
+         3. The separation value is inserted in the node's parent, which
+            may cause it to be split, and so on. If the node has no parent
+            (i.e., the node was the root), create a new root above this
+            node (increasing the height of the tree).
+
+   If the splitting goes all the way up to the root, it creates a new root
+   with a single separator value and two children, which is why the lower
+   bound on the size of internal nodes does not apply to the root. The
+   maximum number of elements per node is U−1. When a node is split, one
+   element moves to the parent, but one element is added. So, it must be
+   possible to divide the maximum number U−1 of elements into two legal
+   nodes. If this number is odd, then U=2L and one of the new nodes
+   contains (U−2)/2 = L−1 elements, and hence is a legal node, and the
+   other contains one more element, and hence it is legal too. If U−1 is
+   even, then U=2L−1, so there are 2L−2 elements in the node. Half of this
+   number is L−1, which is the minimum number of elements allowed per
+   node.
+
+   An alternative algorithm supports a single pass down the tree from the
+   root to the node where the insertion will take place, splitting any
+   full nodes encountered on the way pre-emptively. This prevents the need
+   to recall the parent nodes into memory, which may be expensive if the
+   nodes are on secondary storage. However, to use this algorithm, we must
+   be able to send one element to the parent and split the remaining U−2
+   elements into two legal nodes, without adding a new element. This
+   requires U = 2L rather than U = 2L−1, which accounts for why
+   some^[[237]which?] textbooks impose this requirement in defining
+   B-trees.
+
+Deletion
+
+   [[238]edit]
+
+   There are two popular strategies for deletion from a B-tree.
+    1. Locate and delete the item, then restructure the tree to retain its
+       invariants, OR
+    2. Do a single pass down the tree, but before entering (visiting) a
+       node, restructure the tree so that once the key to be deleted is
+       encountered, it can be deleted without triggering the need for any
+       further restructuring
+
+   The algorithm below uses the former strategy.
+
+   There are two special cases to consider when deleting an element:
+    1. The element in an internal node is a separator for its child nodes
+    2. Deleting an element may put its node under the minimum number of
+       elements and children
+
+   The procedures for these cases are in order below.
+
+Deletion from a leaf node
+
+   [[239]edit]
+    1. Search for the value to delete.
+    2. If the value is in a leaf node, simply delete it from the node.
+    3. If underflow happens, rebalance the tree as described in section
+       "Rebalancing after deletion" below.
+
+Deletion from an internal node
+
+   [[240]edit]
+
+   Each element in an internal node acts as a separation value for two
+   subtrees, therefore we need to find a replacement for separation. Note
+   that the largest element in the left subtree is still less than the
+   separator. Likewise, the smallest element in the right subtree is still
+   greater than the separator. Both of those elements are in leaf nodes,
+   and either one can be the new separator for the two subtrees.
+   Algorithmically described below:
+    1. Choose a new separator (either the largest element in the left
+       subtree or the smallest element in the right subtree), remove it
+       from the leaf node it is in, and replace the element to be deleted
+       with the new separator.
+    2. The previous step deleted an element (the new separator) from a
+       leaf node. If that leaf node is now deficient (has fewer than the
+       required number of nodes), then rebalance the tree starting from
+       the leaf node.
+
+Rebalancing after deletion
+
+   [[241]edit]
+
+   Rebalancing starts from a leaf and proceeds toward the root until the
+   tree is balanced. If deleting an element from a node has brought it
+   under the minimum size, then some elements must be redistributed to
+   bring all nodes up to the minimum. Usually, the redistribution involves
+   moving an element from a sibling node that has more than the minimum
+   number of nodes. That redistribution operation is called a rotation. If
+   no sibling can spare an element, then the deficient node must be merged
+   with a sibling. The merge causes the parent to lose a separator
+   element, so the parent may become deficient and need rebalancing. The
+   merging and rebalancing may continue all the way to the root. Since the
+   minimum element count doesn't apply to the root, making the root be the
+   only deficient node is not a problem. The algorithm to rebalance the
+   tree is as follows:
+     * If the deficient node's right sibling exists and has more than the
+       minimum number of elements, then rotate left
+         1. Copy the separator from the parent to the end of the deficient
+            node (the separator moves down; the deficient node now has the
+            minimum number of elements)
+         2. Replace the separator in the parent with the first element of
+            the right sibling (right sibling loses one node but still has
+            at least the minimum number of elements)
+         3. The tree is now balanced
+     * Otherwise, if the deficient node's left sibling exists and has more
+       than the minimum number of elements, then rotate right
+         1. Copy the separator from the parent to the start of the
+            deficient node (the separator moves down; deficient node now
+            has the minimum number of elements)
+         2. Replace the separator in the parent with the last element of
+            the left sibling (left sibling loses one node but still has at
+            least the minimum number of elements)
+         3. The tree is now balanced
+     * Otherwise, if both immediate siblings have only the minimum number
+       of elements, then merge with a sibling sandwiching their separator
+       taken off from their parent
+         1. Copy the separator to the end of the left node (the left node
+            may be the deficient node or it may be the sibling with the
+            minimum number of elements)
+         2. Move all elements from the right node to the left node (the
+            left node now has the maximum number of elements, and the
+            right node – empty)
+         3. Remove the separator from the parent along with its empty
+            right child (the parent loses an element)
+               o If the parent is the root and now has no elements, then
+                 free it and make the merged node the new root (tree
+                 becomes shallower)
+               o Otherwise, if the parent has fewer than the required
+                 number of elements, then rebalance the parent^[242][21]
+
+          Note: The rebalancing operations are different for B+ trees
+          (e.g., rotation is different because parent has copy of the key)
+          and B^*-tree (e.g., three siblings are merged into two
+          siblings).
+
+Sequential access
+
+   [[243]edit]
+
+   While freshly loaded databases tend to have good sequential behaviour,
+   this behaviour becomes increasingly difficult to maintain as a database
+   grows, resulting in more random I/O and performance
+   challenges.^[244][22]
+
+Initial construction
+
+   [[245]edit]
+   This section does not [246]cite any [247]sources. Please help
+   [248]improve this section by [249]adding citations to reliable sources.
+   Unsourced material may be challenged and [250]removed. (April 2018)
+   ([251]Learn how and when to remove this message)
+
+   A common special case is adding a large amount of pre-sorted data into
+   an initially empty B-tree. While it is quite possible to simply perform
+   a series of successive inserts, inserting sorted data results in a tree
+   composed almost entirely of half-full nodes. Instead, a special "bulk
+   loading" [252]algorithm can be used to produce a more efficient tree
+   with a higher branching factor.
+
+   When the input is sorted, all insertions are at the rightmost edge of
+   the tree, and in particular any time a node is split, we are guaranteed
+   that no more insertions will take place in the left half. When bulk
+   loading, we take advantage of this, and instead of splitting overfull
+   nodes evenly, split them as unevenly as possible: leave the left node
+   completely full and create a right node with zero keys and one child
+   (in violation of the usual B-tree rules).
+
+   At the end of bulk loading, the tree is composed almost entirely of
+   completely full nodes; only the rightmost node on each level may be
+   less than full. Because those nodes may also be less than half full, to
+   re-establish the normal B-tree rules, combine such nodes with their
+   (guaranteed full) left siblings and divide the keys to produce two
+   nodes at least half full. The only node which lacks a full left sibling
+   is the root, which is permitted to be less than half full.
+
+In filesystems
+
+   [[253]edit]
+
+   In addition to its use in databases, the B-tree (or [254]§ Variants) is
+   also used in filesystems to allow quick random access to an arbitrary
+   block in a particular file. The basic problem is turning the file block
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+   </semantics> :MATH]
+   {\displaystyle i} address into a disk block address.
+
+   Some operating systems require the user to allocate the maximum size of
+   the file when the file is created. The file can then be allocated as
+   contiguous disk blocks. In that case, to convert the file block address
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+   </semantics> :MATH]
+   {\displaystyle i} into a disk block address, the operating system
+   simply adds the file block address
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+   </semantics> :MATH]
+   {\displaystyle i} to the address of the first disk block constituting
+   the file. The scheme is simple, but the file cannot exceed its created
+   size.
+
+   Other operating systems allow a file to grow. The resulting disk blocks
+   may not be contiguous, so mapping logical blocks to physical blocks is
+   more involved.
+
+   [255]MS-DOS, for example, used a simple [256]File Allocation Table
+   (FAT). The FAT has an entry for each disk block,^[257][note 1] and that
+   entry identifies whether its block is used by a file and if so, which
+   block (if any) is the next disk block of the same file. So, the
+   allocation of each file is represented as a [258]linked list in the
+   table. In order to find the disk address of file block
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+   </semantics> :MATH]
+   {\displaystyle i} , the operating system (or disk utility) must
+   sequentially follow the file's linked list in the FAT. Worse, to find a
+   free disk block, it must sequentially scan the FAT. For MS-DOS, that
+   was not a huge penalty because the disks and files were small and the
+   FAT had few entries and relatively short file chains. In the [259]FAT12
+   filesystem (used on floppy disks and early hard disks), there were no
+   more than 4,080 ^[260][note 2] entries, and the FAT would usually be
+   resident in memory. As disks got bigger, the FAT architecture began to
+   confront penalties. On a large disk using FAT, it may be necessary to
+   perform disk reads to learn the disk location of a file block to be
+   read or written.
+
+   [261]TOPS-20 (and possibly [262]TENEX) used a 0 to 2 level tree that
+   has similarities to a B-tree^[[263]citation needed]. A disk block was
+   512 36-bit words. If the file fit in a 512 (2^9) word block, then the
+   file directory would point to that physical disk block. If the file fit
+   in 2^18 words, then the directory would point to an aux index; the 512
+   words of that index would either be NULL (the block isn't allocated) or
+   point to the physical address of the block. If the file fit in 2^27
+   words, then the directory would point to a block holding an aux-aux
+   index; each entry would either be NULL or point to an aux index.
+   Consequently, the physical disk block for a 2^27 word file could be
+   located in two disk reads and read on the third.
+
+   Apple's filesystem [264]HFS+ and [265]APFS, Microsoft's
+   [266]NTFS,^[267][23] AIX (jfs2) and some [268]Linux filesystems, such
+   as [269]Bcachefs, [270]Btrfs and [271]ext4, use B-trees.
+
+   B^*-trees are used in the [272]HFS and [273]Reiser4 [274]file systems.
+
+   [275]DragonFly BSD's [276]HAMMER file system uses a modified
+   B+-tree.^[277][24]
+
+Performance
+
+   [[278]edit]
+
+   This section does not [279]cite any [280]sources. Please help
+   [281]improve this section by [282]adding citations to reliable sources.
+   Unsourced material may be challenged and [283]removed. (May 2020)
+   ([284]Learn how and when to remove this message)
+
+   A B-tree grows slower with growing data amount, than the linearity of a
+   linked list. Compared to a [285]skip list, both structures have the
+   same performance, but the B-tree scales better for growing n. A
+   [286]T-tree, for [287]main memory database systems, is similar but more
+   compact.
+
+Variations
+
+   [[288]edit]
+
+Access concurrency
+
+   [[289]edit]
+
+   Lehman and Yao^[290][25] showed that all the read locks could be
+   avoided (and thus concurrent access greatly improved) by linking the
+   tree blocks at each level together with a "next" pointer. This results
+   in a tree structure where both insertion and search operations descend
+   from the root to the leaf. Write locks are only required as a tree
+   block is modified. This maximizes access concurrency by multiple users,
+   an important consideration for databases and/or other B-tree-based
+   [291]ISAM storage methods. The cost associated with this improvement is
+   that empty pages cannot be removed from the btree during normal
+   operations. (However, see ^[292][26] for various strategies to
+   implement node merging, and source code at.^[293][27])
+
+   United States Patent 5283894, granted in 1994, appears to show a way to
+   use a 'Meta Access Method' ^[294][28] to allow concurrent B+ tree
+   access and modification without locks. The technique accesses the tree
+   'upwards' for both searches and updates by means of additional
+   in-memory indexes that point at the blocks in each level in the block
+   cache. No reorganization for deletes is needed and there are no 'next'
+   pointers in each block as in Lehman and Yao.
+
+Parallel algorithms
+
+   [[295]edit]
+
+   Since B-trees are similar in structure to [296]red-black trees,
+   [297]parallel algorithms for red-black trees can be applied to B-trees
+   as well.
+
+Maple tree
+
+   [[298]edit]
+
+   A Maple tree is a B-tree developed for use in the [299]Linux kernel to
+   reduce lock contention in virtual memory
+   management.^[300][29]^[301][30]^[302][31]
+
+(a,b)-tree
+
+   [[303]edit]
+
+   (a,b)-trees are generalizations of B-trees. B-trees require that each
+   internal node have a minimum of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">⌊</mo> <mi>K</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mn>2</mn> <mo fence="false" stretchy="false">⌋</mo>
+   <mo>+</mo> <mn>1</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \lfloor K/2\rfloor
+   +1}</annotation> </semantics> :MATH]
+   {\displaystyle \lfloor K/2\rfloor +1} children and a maximum of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>K</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle K}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K} children, for some preset value of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>K</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle K}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K} . In contrast, an (a,b)-tree allows the minimum
+   number of children for an internal node to be set arbitrarily low. In
+   an (a,b)-tree, each internal node has between a and b children, for
+   some preset values of a and b.
+
+See also
+
+   [[304]edit]
+
+     * [305]B+ tree
+     * [306]R-tree
+     * [307]Red–black tree
+     * [308]2–3 tree
+     * [309]2–3–4 tree
+
+Notes
+
+   [[310]edit]
+
+    1. [311]^ For FAT, what is called a "disk block" here is what the FAT
+       documentation calls a "cluster", which is a fixed-size group of one
+       or more contiguous whole physical disk [312]sectors. For the
+       purposes of this discussion, a cluster has no significant
+       difference from a physical sector.
+    2. [313]^ Two of these were reserved for special purposes, so only
+       4078 could actually represent disk blocks (clusters).
+
+References
+
+   [[314]edit]
+
+    1. ^ [315]^a [316]^b Bayer, R.; McCreight, E. (July 1970).
+       [317]"Organization and maintenance of large ordered indices" (PDF).
+       Proceedings of the 1970 ACM SIGFIDET (Now SIGMOD) Workshop on Data
+       Description, Access and Control - SIGFIDET '70. Boeing Scientific
+       Research Laboratories. p. 107.
+       [318]doi:[319]10.1145/1734663.1734671. [320]S2CID [321]26930249.
+    2. ^ [322]^a [323]^b [324]^c [325]^d [326]Comer 1979.
+    3. ^ [327]^a [328]^b [329]^c [330]Bayer & McCreight 1972.
+    4. [331]^ [332]Comer 1979, p. 123 footnote 1.
+    5. ^ [333]^a [334]^b Weiner, Peter G. (30 August 2013). [335]"4-
+       Edward M McCreight" – via Vimeo.
+    6. [336]^ [337]"Stanford Center for Professional Development".
+       scpd.stanford.edu. Archived from [338]the original on 2014-06-04.
+       Retrieved 2011-01-16.
+    7. ^ [339]^a [340]^b [341]Knuth 1998, p. 483.
+    8. [342]^ [343]Folk & Zoellick 1992, p. 362.
+    9. ^ [344]^a [345]^b [346]Folk & Zoellick 1992, p. 363.
+   10. [347]^ [348]Bayer & McCreight (1972) avoided the issue by saying an
+       index element is a (physically adjacent) pair of (x, a) where x is
+       the key, and a is some associated information. The associated
+       information might be a pointer to a record or records in a random
+       access, but what it was didn't really matter. [349]Bayer &
+       McCreight (1972) states, "For this paper the associated information
+       is of no further interest."
+   11. [350]^ [351]Folk & Zoellick 1992, p. 379.
+   12. [352]^ Navathe, Ramez Elmasri, Shamkant B. (2010). Fundamentals of
+       database systems (6th ed.). Upper Saddle River, N.J.: Pearson
+       Education. pp. 652–660. [353]ISBN [354]9780136086208.{{[355]cite
+       book}}: CS1 maint: multiple names: authors list ([356]link)
+   13. [357]^ [358]Knuth 1998, p. 488.
+   14. ^ [359]^a [360]^b [361]^c [362]^d [363]^e [364]^f Tomašević, Milo
+       (2008). Algorithms and Data Structures. Belgrade, Serbia: Akademska
+       misao. pp. 274–275. [365]ISBN [366]978-86-7466-328-8.
+   15. [367]^ Rigin A. M., Shershakov S. A. (2019-09-10). [368]"SQLite
+       RDBMS Extension for Data Indexing Using B-tree Modifications".
+       Proceedings of the Institute for System Programming of the RAS. 31
+       (3). Institute for System Programming of the RAS (ISP RAS):
+       203–216. [369]doi:[370]10.15514/ispras-2019-31(3)-16.
+       [371]S2CID [372]203144646. Retrieved 2021-08-29.
+   16. [373]^ [374]"Counted B-Trees". www.chiark.greenend.org.uk.
+       Retrieved 2024-12-27.
+   17. [375]^ [376]Product Manual: Barracuda ES.2 Serial ATA, Rev. F.,
+       publication 100468393 (PDF). Seagate Technology LLC. 2008. p. 6.
+   18. ^ [377]^a [378]^b [379]^c Kleppmann, Martin (2017). [380]Designing
+       Data-Intensive Applications. [381]Sebastopol, California:
+       [382]O'Reilly Media. p. 80. [383]ISBN [384]978-1-449-37332-0.
+   19. [385]^ Jan Jannink. "Implementing Deletion in B+-Trees". Section
+       [386]"4 Lazy Deletion".
+   20. [387]^ [388]Comer 1979, p. 127; [389]Cormen et al. 2001,
+       pp. 439–440
+   21. [390]^ [391]"Deletion in a B-tree" (PDF). cs.rhodes.edu.
+       [392]Archived (PDF) from the original on 2022-10-09. Retrieved 24
+       May 2022.
+   22. [393]^ [394]"Cache Oblivious B-trees". State University of New York
+       (SUNY) at Stony Brook. Retrieved 2011-01-17.
+   23. [395]^ [396]Mark Russinovich (30 June 2006). [397]"Inside Win2K
+       NTFS, Part 1". [398]Microsoft Developer Network. [399]Archived from
+       the original on 13 April 2008. Retrieved 2008-04-18.
+   24. [400]^ Matthew Dillon (2008-06-21). [401]"The HAMMER Filesystem"
+       (PDF). [402]Archived (PDF) from the original on 2022-10-09.
+   25. [403]^ Lehman, Philip L.; Yao, s. Bing (1981). [404]"Efficient
+       locking for concurrent operations on B-trees". ACM Transactions on
+       Database Systems. 6 (4): 650–670.
+       [405]doi:[406]10.1145/319628.319663. [407]S2CID [408]10756181.
+   26. [409]^ Wang, Paul (1 February 1991). [410]"An In-Depth Analysis of
+       Concurrent B-tree Algorithms" (PDF). dtic.mil. Archived from
+       [411]the original (PDF) on 4 June 2011. Retrieved 21 October 2022.
+   27. [412]^ [413]"Downloads - high-concurrency-btree - High Concurrency
+       B-Tree code in C - GitHub Project Hosting". [414]GitHub. Retrieved
+       2014-01-27.
+   28. [415]^ [416]"Lockless concurrent B-tree index meta access method
+       for cached nodes".
+   29. [417]^ [418]"Introducing maple trees [LWN.net]". lwn.net.
+   30. [419]^ [420]"Maple Tree — The Linux Kernel documentation".
+       docs.kernel.org.
+   31. [421]^ [422]"Introducing the Maple Tree [LWN.net]". lwn.net.
+
+   Public Domain  This article incorporates [423]public domain material
+   from
+   Paul E. Black. [424]"(a,b)-tree". [425]Dictionary of Algorithms and
+   Data Structures. [426]NIST.
+
+Sources
+
+   [[427]edit]
+
+     *
+
+   [428]Bayer, R.; [429]McCreight, E. (1972). [430]"Organization and
+   Maintenance of Large Ordered Indexes" (PDF). Acta Informatica. 1 (3):
+   173–189. [431]doi:[432]10.1007/bf00288683. [433]S2CID [434]29859053..
+
+     [435]Comer, Douglas (June 1979). [436]"The Ubiquitous B-Tree".
+   Computing Surveys. 11 (2): 123–137.
+   [437]doi:[438]10.1145/356770.356776. [439]ISSN [440]0360-0300.
+   [441]S2CID [442]101673..
+
+     [443]Cormen, Thomas; [444]Leiserson, Charles; [445]Rivest, Ronald;
+   [446]Stein, Clifford (2001). [447]Introduction to Algorithms
+   (Second ed.). MIT Press and McGraw-Hill. pp. 434–454.
+   [448]ISBN [449]0-262-03293-7. Chapter 18: B-Trees.
+
+     Folk, Michael J.; Zoellick, Bill (1992). [450]File Structures
+   (2nd ed.). Addison-Wesley. [451]ISBN [452]0-201-55713-4..
+
+     [453]Knuth, Donald (1998). Sorting and Searching. [454]The Art of
+   Computer Programming. Vol. 3 (Second ed.). Addison-Wesley.
+   [455]ISBN [456]0-201-89685-0. Section 6.2.4: Multiway Trees,
+   pp. 481–491. Also, pp. 476–477 of section 6.2.3 (Balanced Trees)
+   discusses 2–3 trees.
+
+Original papers
+
+   [[457]edit]
+
+     *
+
+   [458]Bayer, Rudolf; [459]McCreight, E. (July 1970), Organization and
+   Maintenance of Large Ordered Indices, vol. Mathematical and Information
+   Sciences Report No. 20, Boeing Scientific Research Laboratories.
+
+     [460]Bayer, Rudolf (1971). "Binary B-Trees for Virtual Memory".
+   Proceedings of 1971 ACM-SIGFIDET Workshop on Data Description, Access
+   and Control. San Diego, California..
+
+External links
+
+   [[461]edit]
+
+   Wikimedia Commons has media related to [462]B-Trees.
+
+     * [463]B-tree lecture by David Scot Taylor, SJSU
+     * [464]B-Tree visualisation (click "init")
+     * [465]Animated B-Tree visualization
+     * [466]B-tree and UB-tree on Scholarpedia Curator: Dr Rudolf Bayer
+     * [467]B-Trees: Balanced Tree Data Structures [468]Archived
+       2010-03-05 at the [469]Wayback Machine
+     * [470]NIST's Dictionary of Algorithms and Data Structures: B-tree
+     * [471]B-Tree Tutorial
+     * [472]The InfinityDB BTree implementation
+     * [473]Cache Oblivious B(+)-trees
+     * [474]Dictionary of Algorithms and Data Structures entry for B*-tree
+     * [475]Open Data Structures - Section 14.2 - B-Trees, [476]Pat Morin
+     * [477]Counted B-Trees
+     * [478]B-Tree .Net, a modern, virtualized RAM & Disk implementation
+
+   Bulk loading
+     *
+
+   Shetty, Soumya B. (2010). [479]A user configurable implementation of
+   B-trees (Thesis). Iowa State University.
+
+     Kaldırım, Semih (28 April 2015). [480]"File Organization, ISAM, B+
+   Tree and Bulk Loading" (PDF). Ankara, Turkey: [481]Bilkent University.
+   pp. 4–6. [482]Archived (PDF) from the original on 2022-10-09.
+
+     [483]"ECS 165B: Database System Implementation: Lecture 6" (PDF).
+   [484]University of California, Davis. 9 April 2010. p. 23.
+   [485]Archived (PDF) from the original on 2022-10-09.
+
+     [486]"BULK INSERT (Transact-SQL) in SQL Server 2017". Microsoft Docs.
+   6 September 2018.
+
+     * [487]v
+     * [488]t
+     * [489]e
+
+   [490]Tree data structures
+
+   [491]Search trees
+   ([492]dynamic sets/[493]associative arrays)
+
+     * [494]2–3
+     * [495]2–3–4
+     * [496]AA
+     * [497](a,b)
+     * [498]AVL
+     * B
+     * [499]B+
+     * [500]B*
+     * [501]B^x
+     * ([502]Optimal) [503]Binary search
+     * [504]Dancing
+     * [505]HTree
+     * [506]Interval
+     * [507]Order statistic
+     * [508]Palindrome
+     * ([509]Left-leaning) [510]Red–black
+     * [511]Scapegoat
+     * [512]Splay
+     * [513]T
+     * [514]Treap
+     * [515]UB
+     * [516]Weight-balanced
+
+   [517]Heaps
+
+     * [518]Binary
+     * [519]Binomial
+     * [520]Brodal
+     * [521]d-ary
+     * [522]Fibonacci
+     * [523]Leftist
+     * [524]Pairing
+     * [525]Skew binomial
+     * [526]Skew
+     * [527]van Emde Boas
+     * [528]Weak
+
+   [529]Tries
+
+     * [530]Ctrie
+     * [531]C-trie (compressed ADT)
+     * [532]Hash
+     * [533]Radix
+     * [534]Suffix
+     * [535]Ternary search
+     * [536]X-fast
+     * [537]Y-fast
+
+   [538]Spatial data partitioning trees
+
+     * [539]Ball
+     * [540]BK
+     * [541]BSP
+     * [542]Cartesian
+     * [543]Hilbert R
+     * [544]k-d ([545]implicit k-d)
+     * [546]M
+     * [547]Metric
+     * [548]MVP
+     * [549]Octree
+     * [550]PH
+     * [551]Priority R
+     * [552]Quad
+     * [553]R
+     * [554]R+
+     * [555]R*
+     * [556]Segment
+     * [557]VP
+     * [558]X
+
+   Other trees
+
+     * [559]Cover
+     * [560]Exponential
+     * [561]Fenwick
+     * [562]Finger
+     * [563]Fractal tree index
+     * [564]Fusion
+     * [565]Hash calendar
+     * [566]iDistance
+     * [567]K-ary
+     * [568]Left-child right-sibling
+     * [569]Link/cut
+     * [570]Log-structured merge
+     * [571]Merkle
+     * [572]PQ
+     * [573]Range
+     * [574]SPQR
+     * [575]Top
+
+     * [576]v
+     * [577]t
+     * [578]e
+
+   [579]Data structures
+
+   Types
+
+     * [580]Collection
+     * [581]Container
+
+   [582]Abstract
+
+     * [583]Associative array
+          + [584]Multimap
+          + [585]Retrieval Data Structure
+     * [586]List
+     * [587]Stack
+     * [588]Queue
+          + [589]Double-ended queue
+     * [590]Priority queue
+          + [591]Double-ended priority queue
+     * [592]Set
+          + [593]Multiset
+          + [594]Disjoint-set
+
+   [595]Arrays
+
+     * [596]Bit array
+     * [597]Circular buffer
+     * [598]Dynamic array
+     * [599]Hash table
+     * [600]Hashed array tree
+     * [601]Sparse matrix
+
+   [602]Linked
+
+     * [603]Association list
+     * [604]Linked list
+     * [605]Skip list
+     * [606]Unrolled linked list
+     * [607]XOR linked list
+
+   [608]Trees
+
+     * B-tree
+     * [609]Binary search tree
+          + [610]AA tree
+          + [611]AVL tree
+          + [612]Red–black tree
+          + [613]Self-balancing tree
+          + [614]Splay tree
+     * [615]Heap
+          + [616]Binary heap
+          + [617]Binomial heap
+          + [618]Fibonacci heap
+     * [619]R-tree
+          + [620]R* tree
+          + [621]R+ tree
+          + [622]Hilbert R-tree
+     * [623]Trie
+          + [624]Hash tree
+
+   [625]Graphs
+
+     * [626]Binary decision diagram
+     * [627]Directed acyclic graph
+     * [628]Directed acyclic word graph
+
+     * [629]List of data structures
+
+   Retrieved from
+   "[630]https://en.wikipedia.org/w/index.php?title=B-tree&oldid=126776298
+   1"
+
+   [631]Categories:
+     * [632]B-tree
+     * [633]Computer-related introductions in 1971
+     * [634]Database index techniques
+
+   Hidden categories:
+     * [635]CS1 maint: multiple names: authors list
+     * [636]Articles with short description
+     * [637]Short description matches Wikidata
+     * [638]Wikipedia articles with style issues from May 2022
+     * [639]All articles with style issues
+     * [640]Wikipedia articles needing clarification from February 2012
+     * [641]All Wikipedia articles needing clarification
+     * [642]Wikipedia articles needing copy edit from December 2024
+     * [643]All Wikipedia articles needing copy edit
+     * [644]Articles with multiple maintenance issues
+     * [645]All articles with specifically marked weasel-worded phrases
+     * [646]Articles with specifically marked weasel-worded phrases from
+       September 2019
+     * [647]Articles needing additional references from April 2018
+     * [648]All articles needing additional references
+     * [649]All articles with unsourced statements
+     * [650]Articles with unsourced statements from October 2009
+     * [651]Articles needing additional references from May 2020
+     * [652]CS1: long volume value
+     * [653]Commons category link is on Wikidata
+     * [654]Webarchive template wayback links
+
+     * This page was last edited on 6 January 2025, at 15:29 (UTC).
+     * Text is available under the [655]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [656]Terms of Use and
+       [657]Privacy Policy. Wikipedia® is a registered trademark of the
+       [658]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [659]Privacy policy
+     * [660]About Wikipedia
+     * [661]Disclaimers
+     * [662]Contact Wikipedia
+     * [663]Code of Conduct
+     * [664]Developers
+     * [665]Statistics
+     * [666]Cookie statement
+     * [667]Mobile view
+
+     * [668]Wikimedia Foundation
+     * [669]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/B-tree
+   2. file:///w/index.php?title=B-tree&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=B-tree
+  21. file:///w/index.php?title=Special:UserLogin&returnto=B-tree
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=B-tree
+  24. file:///w/index.php?title=Special:UserLogin&returnto=B-tree
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html
+  29. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#History
+  30. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Definition
+  31. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Differences_in_terminology
+  32. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Informal_description
+  33. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Node_structure
+  34. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Insertion_and_deletion
+  35. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Comparison_to_other_trees
+  36. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Variants
+  37. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#B-tree_usage_in_databases
+  38. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Time_to_search_a_sorted_file
+  39. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#An_index_speeds_the_search
+  40. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Insertions_and_deletions
+  41. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Advantages_of_B-tree_usage_for_databases
+  42. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Best_case_and_worst_case_heights
+  43. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Algorithms
+  44. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Search
+  45. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Insertion
+  46. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Deletion
+  47. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Deletion_from_a_leaf_node
+  48. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Deletion_from_an_internal_node
+  49. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Rebalancing_after_deletion
+  50. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Sequential_access
+  51. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Initial_construction
+  52. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#In_filesystems
+  53. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Performance
+  54. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Variations
+  55. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Access_concurrency
+  56. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Parallel_algorithms
+  57. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Maple_tree
+  58. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#(a,b)-tree
+  59. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#See_also
+  60. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Notes
+  61. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#References
+  62. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Sources
+  63. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Original_papers
+  64. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#External_links
+  65. https://ar.wikipedia.org/wiki/شجرة_بي
+  66. https://az.wikipedia.org/wiki/B-ağac
+  67. https://ca.wikipedia.org/wiki/Arbre-B
+  68. https://cs.wikipedia.org/wiki/B-strom
+  69. https://de.wikipedia.org/wiki/B-Baum
+  70. https://es.wikipedia.org/wiki/Árbol-B
+  71. https://fa.wikipedia.org/wiki/درخت_بی
+  72. https://fr.wikipedia.org/wiki/Arbre_B
+  73. https://ko.wikipedia.org/wiki/B_트리
+  74. https://hr.wikipedia.org/wiki/B-stablo
+  75. https://it.wikipedia.org/wiki/B-albero
+  76. https://he.wikipedia.org/wiki/עץ_B
+  77. https://kn.wikipedia.org/wiki/ಬಿ-ಟ್ರೀ
+  78. https://la.wikipedia.org/wiki/Arbor_B
+  79. https://lv.wikipedia.org/wiki/B_koks
+  80. https://lt.wikipedia.org/wiki/B-medis
+  81. https://lmo.wikipedia.org/wiki/B-alber
+  82. https://hu.wikipedia.org/wiki/B-fa
+  83. https://ml.wikipedia.org/wiki/ബി-ട്രീ
+  84. https://ja.wikipedia.org/wiki/B木
+  85. https://no.wikipedia.org/wiki/B-tre
+  86. https://pl.wikipedia.org/wiki/B-drzewo
+  87. https://pt.wikipedia.org/wiki/Árvore_B
+  88. https://ru.wikipedia.org/wiki/B-дерево
+  89. https://ckb.wikipedia.org/wiki/درەختی_بی
+  90. https://sr.wikipedia.org/wiki/Б-стабло
+  91. https://sh.wikipedia.org/wiki/B-stablo
+  92. https://sv.wikipedia.org/wiki/B-träd
+  93. https://th.wikipedia.org/wiki/ต้นไม้แบบบี
+  94. https://uk.wikipedia.org/wiki/Б-дерево
+  95. https://vi.wikipedia.org/wiki/B-cây
+  96. https://zh-yue.wikipedia.org/wiki/B-樹
+  97. https://zh.wikipedia.org/wiki/B树
+  98. https://www.wikidata.org/wiki/Special:EntityPage/Q677051#sitelinks-wikipedia
+  99. file:///wiki/B-tree
+ 100. file:///wiki/Talk:B-tree
+ 101. file:///wiki/B-tree
+ 102. file:///w/index.php?title=B-tree&action=edit
+ 103. file:///w/index.php?title=B-tree&action=history
+ 104. file:///wiki/B-tree
+ 105. file:///w/index.php?title=B-tree&action=edit
+ 106. file:///w/index.php?title=B-tree&action=history
+ 107. file:///wiki/Special:WhatLinksHere/B-tree
+ 108. file:///wiki/Special:RecentChangesLinked/B-tree
+ 109. file:///wiki/Wikipedia:File_Upload_Wizard
+ 110. file:///wiki/Special:SpecialPages
+ 111. file:///w/index.php?title=B-tree&oldid=1267762981
+ 112. file:///w/index.php?title=B-tree&action=info
+ 113. file:///w/index.php?title=Special:CiteThisPage&page=B-tree&id=1267762981&wpFormIdentifier=titleform
+ 114. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/B-tree
+ 115. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/B-tree
+ 116. file:///w/index.php?title=Special:DownloadAsPdf&page=B-tree&action=show-download-screen
+ 117. file:///w/index.php?title=B-tree&printable=yes
+ 118. https://commons.wikimedia.org/wiki/Category:B-Trees
+ 119. https://www.wikidata.org/wiki/Special:EntityPage/Q677051
+ 120. file:///w/index.php?title=(a,b)-tree&redirect=no
+ 121. file:///wiki/Binary_tree
+ 122. file:///wiki/B+_tree
+ 123. file:///wiki/List_of_data_structures
+ 124. file:///wiki/Tree_(data_structure)
+ 125. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-bayer-mccreight-1970-1
+ 126. file:///wiki/Rudolf_Bayer
+ 127. file:///wiki/Edward_M._McCreight
+ 128. file:///wiki/Time_complexity
+ 129. file:///wiki/Big_O_notation
+ 130. file:///wiki/Space_complexity
+ 131. file:///wiki/Computer_science
+ 132. file:///wiki/Tree_data_structure
+ 133. file:///wiki/Logarithmic_time
+ 134. file:///wiki/Binary_search_tree
+ 135. file:///wiki/Node_(computer_science)
+ 136. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEComer1979-2
+ 137. file:///wiki/Self-balancing_binary_search_tree
+ 138. file:///wiki/Block_(data_storage)
+ 139. file:///wiki/Database
+ 140. file:///wiki/File_system
+ 141. file:///w/index.php?title=B-tree&action=edit&section=1
+ 142. file:///wiki/Rudolf_Bayer
+ 143. file:///wiki/Edward_M._McCreight
+ 144. file:///wiki/Boeing
+ 145. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-bayer-mccreight-1970-1
+ 146. file:///wiki/Acta_Informatica
+ 147. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEBayerMcCreight1972-3
+ 148. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEComer1979123_footnote_1-4
+ 149. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-herrenalb-5
+ 150. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-6
+ 151. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-herrenalb-5
+ 152. file:///w/index.php?title=B-tree&action=edit&section=2
+ 153. file:///wiki/Donald_Knuth
+ 154. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEKnuth1998483-7
+ 155. file:///wiki/Tree_(data_structure)#Terminology
+ 156. file:///w/index.php?title=B-tree&action=edit&section=3
+ 157. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEFolkZoellick1992362-8
+ 158. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEBayerMcCreight1972-3
+ 159. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEComer1979-2
+ 160. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEFolkZoellick1992363-9
+ 161. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEKnuth1998483-7
+ 162. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEBayerMcCreight1972-3
+ 163. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEFolkZoellick1992363-9
+ 164. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-10
+ 165. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEFolkZoellick1992379-11
+ 166. file:///w/index.php?title=B-tree&action=edit&section=4
+ 167. file:///wiki/File:B-tree.svg
+ 168. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFBayerMcCreight1972
+ 169. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFKnuth1998
+ 170. file:///w/index.php?title=B-tree&action=edit&section=5
+ 171. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-Navathe2-12
+ 172. file:///w/index.php?title=B-tree&action=edit&section=6
+ 173. file:///wiki/Outdegree#Indegree_and_outdegree
+ 174. file:///wiki/Branching_factor
+ 175. file:///w/index.php?title=B-tree&action=edit&section=7
+ 176. file:///wiki/Secondary_storage
+ 177. file:///wiki/Hard_drive
+ 178. file:///wiki/Internal_node
+ 179. file:///wiki/Block_(data_storage)
+ 180. file:///w/index.php?title=B-tree&action=edit&section=8
+ 181. file:///wiki/B+_tree
+ 182. file:///wiki/B+_tree
+ 183. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEComer1979-2
+ 184. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEComer1979-2
+ 185. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-FOOTNOTEKnuth1998488-13
+ 186. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-Milo-14
+ 187. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-Milo-14
+ 188. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-Milo-14
+ 189. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-Milo-14
+ 190. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-Milo-14
+ 191. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-Milo-14
+ 192. file:///wiki/B+_tree
+ 193. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-15
+ 194. file:///wiki/Order_statistic_tree
+ 195. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-16
+ 196. file:///w/index.php?title=B-tree&action=edit&section=9
+ 197. file:///wiki/Wikipedia:Writing_better_articles#Tone
+ 198. file:///wiki/Wikipedia:Writing_better_articles#Tone
+ 199. file:///wiki/Help:Maintenance_template_removal
+ 200. file:///w/index.php?title=B-tree&action=edit&section=10
+ 201. file:///wiki/Big_O_notation
+ 202. file:///wiki/Binary_search
+ 203. file:///wiki/Seek_time
+ 204. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-17
+ 205. file:///w/index.php?title=B-tree&action=edit&section=11
+ 206. file:///wiki/Database_index
+ 207. file:///wiki/Database_index#Sparse_index
+ 208. file:///wiki/Page_cache
+ 209. file:///wiki/Relational_database
+ 210. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-kleppmann_2017-18
+ 211. file:///w/index.php?title=B-tree&action=edit&section=12
+ 212. file:///wiki/Database
+ 213. file:///wiki/Lazy_deletion
+ 214. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-19
+ 215. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-kleppmann_2017-18
+ 216. file:///w/index.php?title=B-tree&action=edit&section=13
+ 217. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-kleppmann_2017-18
+ 218. file:///w/index.php?title=B-tree&action=edit&section=14
+ 219. file:///wiki/Tree_(data_structure)#Terminology
+ 220. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-20
+ 221. file:///w/index.php?title=B-tree&action=edit&section=15
+ 222. file:///wiki/Special:EditPage/B-tree
+ 223. file:///wiki/Talk:B-tree
+ 224. file:///wiki/Help:Maintenance_template_removal
+ 225. file:///wiki/Wikipedia:Vagueness
+ 226. file:///wiki/Wikipedia:Please_clarify
+ 227. file:///wiki/Talk:B-tree
+ 228. file:///wiki/Help:Maintenance_template_removal
+ 229. file:///wiki/Wikipedia:Basic_copyediting
+ 230. file:///wiki/Special:EditPage/B-tree
+ 231. file:///wiki/Help:Maintenance_template_removal
+ 232. file:///wiki/Help:Maintenance_template_removal
+ 233. file:///w/index.php?title=B-tree&action=edit&section=16
+ 234. file:///wiki/Binary_search_algorithm
+ 235. file:///w/index.php?title=B-tree&action=edit&section=17
+ 236. file:///wiki/File:B_tree_insertion_example.png
+ 237. file:///wiki/Wikipedia:Avoid_weasel_words
+ 238. file:///w/index.php?title=B-tree&action=edit&section=18
+ 239. file:///w/index.php?title=B-tree&action=edit&section=19
+ 240. file:///w/index.php?title=B-tree&action=edit&section=20
+ 241. file:///w/index.php?title=B-tree&action=edit&section=21
+ 242. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-21
+ 243. file:///w/index.php?title=B-tree&action=edit&section=22
+ 244. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-22
+ 245. file:///w/index.php?title=B-tree&action=edit&section=23
+ 246. file:///wiki/Wikipedia:Citing_sources
+ 247. file:///wiki/Wikipedia:Verifiability
+ 248. file:///wiki/Special:EditPage/B-tree
+ 249. file:///wiki/Help:Referencing_for_beginners
+ 250. file:///wiki/Wikipedia:Verifiability#Burden_of_evidence
+ 251. file:///wiki/Help:Maintenance_template_removal
+ 252. file:///wiki/Algorithm
+ 253. file:///w/index.php?title=B-tree&action=edit&section=24
+ 254. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#Variants
+ 255. file:///wiki/MS-DOS
+ 256. file:///wiki/File_Allocation_Table
+ 257. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-23
+ 258. file:///wiki/Linked_list
+ 259. file:///wiki/FAT12
+ 260. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-24
+ 261. file:///wiki/TOPS-20
+ 262. file:///wiki/TENEX_(operating_system)
+ 263. file:///wiki/Wikipedia:Citation_needed
+ 264. file:///wiki/HFS+
+ 265. file:///wiki/APFS
+ 266. file:///wiki/NTFS
+ 267. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-insidewin2kntfs-25
+ 268. file:///wiki/Linux
+ 269. file:///wiki/Bcachefs
+ 270. file:///wiki/Btrfs
+ 271. file:///wiki/Ext4
+ 272. file:///wiki/Hierarchical_File_System_(Apple)
+ 273. file:///wiki/Reiser4
+ 274. file:///wiki/File_system
+ 275. file:///wiki/DragonFly_BSD
+ 276. file:///wiki/HAMMER_(file_system)
+ 277. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-26
+ 278. file:///w/index.php?title=B-tree&action=edit&section=25
+ 279. file:///wiki/Wikipedia:Citing_sources
+ 280. file:///wiki/Wikipedia:Verifiability
+ 281. file:///wiki/Special:EditPage/B-tree
+ 282. file:///wiki/Help:Referencing_for_beginners
+ 283. file:///wiki/Wikipedia:Verifiability#Burden_of_evidence
+ 284. file:///wiki/Help:Maintenance_template_removal
+ 285. file:///wiki/Skip_list
+ 286. file:///wiki/T-tree
+ 287. file:///wiki/Main_memory_database
+ 288. file:///w/index.php?title=B-tree&action=edit&section=26
+ 289. file:///w/index.php?title=B-tree&action=edit&section=27
+ 290. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-27
+ 291. file:///wiki/ISAM
+ 292. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-28
+ 293. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-29
+ 294. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-30
+ 295. file:///w/index.php?title=B-tree&action=edit&section=28
+ 296. file:///wiki/Red–black_tree
+ 297. file:///wiki/Red–black_tree#Parallel_algorithms
+ 298. file:///w/index.php?title=B-tree&action=edit&section=29
+ 299. file:///wiki/Linux_kernel
+ 300. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-31
+ 301. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-32
+ 302. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_note-33
+ 303. file:///w/index.php?title=B-tree&action=edit&section=30
+ 304. file:///w/index.php?title=B-tree&action=edit&section=31
+ 305. file:///wiki/B+_tree
+ 306. file:///wiki/R-tree
+ 307. file:///wiki/Red–black_tree
+ 308. file:///wiki/2–3_tree
+ 309. file:///wiki/2–3–4_tree
+ 310. file:///w/index.php?title=B-tree&action=edit&section=32
+ 311. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-23
+ 312. file:///wiki/Cylinder-head-sector
+ 313. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-24
+ 314. file:///w/index.php?title=B-tree&action=edit&section=33
+ 315. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-bayer-mccreight-1970_1-0
+ 316. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-bayer-mccreight-1970_1-1
+ 317. https://infolab.usc.edu/csci585/Spring2010/den_ar/indexing.pdf
+ 318. file:///wiki/Doi_(identifier)
+ 319. https://doi.org/10.1145/1734663.1734671
+ 320. file:///wiki/S2CID_(identifier)
+ 321. https://api.semanticscholar.org/CorpusID:26930249
+ 322. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEComer1979_2-0
+ 323. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEComer1979_2-1
+ 324. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEComer1979_2-2
+ 325. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEComer1979_2-3
+ 326. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFComer1979
+ 327. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEBayerMcCreight1972_3-0
+ 328. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEBayerMcCreight1972_3-1
+ 329. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEBayerMcCreight1972_3-2
+ 330. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFBayerMcCreight1972
+ 331. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEComer1979123_footnote_1_4-0
+ 332. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFComer1979
+ 333. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-herrenalb_5-0
+ 334. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-herrenalb_5-1
+ 335. https://vimeo.com/73481096
+ 336. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-6
+ 337. https://web.archive.org/web/20140604193847/http://scpd.stanford.edu/knuth/index.jsp
+ 338. http://scpd.stanford.edu/knuth/index.jsp
+ 339. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEKnuth1998483_7-0
+ 340. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEKnuth1998483_7-1
+ 341. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFKnuth1998
+ 342. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEFolkZoellick1992362_8-0
+ 343. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFFolkZoellick1992
+ 344. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEFolkZoellick1992363_9-0
+ 345. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEFolkZoellick1992363_9-1
+ 346. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFFolkZoellick1992
+ 347. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-10
+ 348. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFBayerMcCreight1972
+ 349. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFBayerMcCreight1972
+ 350. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEFolkZoellick1992379_11-0
+ 351. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFFolkZoellick1992
+ 352. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-Navathe2_12-0
+ 353. file:///wiki/ISBN_(identifier)
+ 354. file:///wiki/Special:BookSources/9780136086208
+ 355. file:///wiki/Template:Cite_book
+ 356. file:///wiki/Category:CS1_maint:_multiple_names:_authors_list
+ 357. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-FOOTNOTEKnuth1998488_13-0
+ 358. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFKnuth1998
+ 359. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-Milo_14-0
+ 360. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-Milo_14-1
+ 361. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-Milo_14-2
+ 362. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-Milo_14-3
+ 363. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-Milo_14-4
+ 364. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-Milo_14-5
+ 365. file:///wiki/ISBN_(identifier)
+ 366. file:///wiki/Special:BookSources/978-86-7466-328-8
+ 367. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-15
+ 368. https://ispranproceedings.elpub.ru/jour/article/view/1188
+ 369. file:///wiki/Doi_(identifier)
+ 370. https://doi.org/10.15514/ispras-2019-31(3)-16
+ 371. file:///wiki/S2CID_(identifier)
+ 372. https://api.semanticscholar.org/CorpusID:203144646
+ 373. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-16
+ 374. https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html
+ 375. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-17
+ 376. http://www.seagate.com/staticfiles/support/disc/manuals/NL35 Series & BC ES Series/Barracuda ES.2 Series/100468393f.pdf
+ 377. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-kleppmann_2017_18-0
+ 378. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-kleppmann_2017_18-1
+ 379. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-kleppmann_2017_18-2
+ 380. https://www.academia.edu/41298363
+ 381. file:///wiki/Sebastopol,_California
+ 382. file:///wiki/O'Reilly_Media
+ 383. file:///wiki/ISBN_(identifier)
+ 384. file:///wiki/Special:BookSources/978-1-449-37332-0
+ 385. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-19
+ 386. https://www.alexdelis.eu/M149/B+deletion.pdf
+ 387. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-20
+ 388. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFComer1979
+ 389. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#CITEREFCormenLeisersonRivestStein2001
+ 390. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-21
+ 391. https://www.cs.rhodes.edu/~kirlinp/courses/db/f16/handouts/btrees-deletion.pdf
+ 392. https://ghostarchive.org/archive/20221009/https://www.cs.rhodes.edu/~kirlinp/courses/db/f16/handouts/btrees-deletion.pdf
+ 393. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-22
+ 394. http://www.cs.sunysb.edu/~bender/pub/cache-oblivious-btree.ps
+ 395. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-insidewin2kntfs_25-0
+ 396. file:///wiki/Mark_Russinovich
+ 397. http://msdn2.microsoft.com/en-us/library/ms995846.aspx
+ 398. file:///wiki/MSDN
+ 399. https://web.archive.org/web/20080413181940/http://msdn2.microsoft.com/en-us/library/ms995846.aspx
+ 400. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-26
+ 401. https://www.dragonflybsd.org/hammer/hammer.pdf
+ 402. https://ghostarchive.org/archive/20221009/https://www.dragonflybsd.org/hammer/hammer.pdf
+ 403. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-27
+ 404. https://doi.org/10.1145/319628.319663
+ 405. file:///wiki/Doi_(identifier)
+ 406. https://doi.org/10.1145/319628.319663
+ 407. file:///wiki/S2CID_(identifier)
+ 408. https://api.semanticscholar.org/CorpusID:10756181
+ 409. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-28
+ 410. https://web.archive.org/web/20110604175423/http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA232287&Location=U2&doc=GetTRDoc.pdf
+ 411. http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA232287&Location=U2&doc=GetTRDoc.pdf
+ 412. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-29
+ 413. https://github.com/malbrain/Btree-source-code
+ 414. file:///wiki/GitHub
+ 415. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-30
+ 416. https://www.freepatentsonline.com/5283894.html
+ 417. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-31
+ 418. https://lwn.net/Articles/845507/
+ 419. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-32
+ 420. https://docs.kernel.org/next/core-api/maple_tree.html
+ 421. file:///tmp/lynxXXXXwLHeqw/L42169-3800TMP.html#cite_ref-33
+ 422. https://lwn.net/Articles/905638/
+ 423. file:///wiki/Copyright_status_of_works_by_the_federal_government_of_the_United_States
+ 424. https://xlinux.nist.gov/dads/HTML/abtree.html
+ 425. file:///wiki/Dictionary_of_Algorithms_and_Data_Structures
+ 426. file:///wiki/NIST
+ 427. file:///w/index.php?title=B-tree&action=edit&section=34
+ 428. file:///wiki/Rudolf_Bayer
+ 429. file:///wiki/Edward_M._McCreight
+ 430. https://infolab.usc.edu/csci585/Spring2010/den_ar/indexing.pdf
+ 431. file:///wiki/Doi_(identifier)
+ 432. https://doi.org/10.1007/bf00288683
+ 433. file:///wiki/S2CID_(identifier)
+ 434. https://api.semanticscholar.org/CorpusID:29859053
+ 435. file:///wiki/Douglas_Comer
+ 436. https://doi.org/10.1145/356770.356776
+ 437. file:///wiki/Doi_(identifier)
+ 438. https://doi.org/10.1145/356770.356776
+ 439. file:///wiki/ISSN_(identifier)
+ 440. https://search.worldcat.org/issn/0360-0300
+ 441. file:///wiki/S2CID_(identifier)
+ 442. https://api.semanticscholar.org/CorpusID:101673
+ 443. file:///wiki/Thomas_H._Cormen
+ 444. file:///wiki/Charles_E._Leiserson
+ 445. file:///wiki/Ronald_L._Rivest
+ 446. file:///wiki/Clifford_Stein
+ 447. file:///wiki/Introduction_to_Algorithms
+ 448. file:///wiki/ISBN_(identifier)
+ 449. file:///wiki/Special:BookSources/0-262-03293-7
+ 450. https://archive.org/details/filestructures00folk
+ 451. file:///wiki/ISBN_(identifier)
+ 452. file:///wiki/Special:BookSources/0-201-55713-4
+ 453. file:///wiki/Donald_Knuth
+ 454. file:///wiki/The_Art_of_Computer_Programming
+ 455. file:///wiki/ISBN_(identifier)
+ 456. file:///wiki/Special:BookSources/0-201-89685-0
+ 457. file:///w/index.php?title=B-tree&action=edit&section=35
+ 458. file:///wiki/Rudolf_Bayer
+ 459. file:///wiki/Edward_M._McCreight
+ 460. file:///wiki/Rudolf_Bayer
+ 461. file:///w/index.php?title=B-tree&action=edit&section=36
+ 462. https://commons.wikimedia.org/wiki/Category:B-Trees
+ 463. https://www.youtube.com/watch?v=I22wEC1tTGo
+ 464. https://ysangkok.github.io/js-clrs-btree/btree.html
+ 465. https://www.cs.usfca.edu/~galles/visualization/BTree.html
+ 466. http://www.scholarpedia.org/article/B-tree_and_UB-tree
+ 467. http://www.bluerwhite.org/btree
+ 468. https://web.archive.org/web/20100305211920/http://www.bluerwhite.org/btree/
+ 469. file:///wiki/Wayback_Machine
+ 470. https://xlinux.nist.gov/dads/HTML/btree.html
+ 471. http://cis.stvincent.edu/html/tutorials/swd/btree/btree.html
+ 472. https://web.archive.org/web/20110708080729/http://boilerbay.com/infinitydb/TheDesignOfTheInfinityDatabaseEngine.htm
+ 473. http://supertech.csail.mit.edu/cacheObliviousBTree.html
+ 474. https://xlinux.nist.gov/dads/HTML/bstartree.html
+ 475. http://opendatastructures.org/versions/edition-0.1g/ods-python/14_2_B_Trees.html
+ 476. file:///wiki/Pat_Morin
+ 477. http://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html
+ 478. http://sop.codeplex.com/
+ 479. https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=2336&context=etd
+ 480. http://www.cs.bilkent.edu.tr/~canf/CS281Spring15LectureNotesFeb13/Week13.pdf
+ 481. file:///wiki/Bilkent_University
+ 482. https://ghostarchive.org/archive/20221009/http://www.cs.bilkent.edu.tr/~canf/CS281Spring15LectureNotesFeb13/Week13.pdf
+ 483. http://web.cs.ucdavis.edu/~green/courses/ecs165b-s10/Lecture6.pdf
+ 484. file:///wiki/University_of_California,_Davis
+ 485. https://ghostarchive.org/archive/20221009/http://web.cs.ucdavis.edu/~green/courses/ecs165b-s10/Lecture6.pdf
+ 486. https://docs.microsoft.com/en-us/sql/t-sql/statements/bulk-insert-transact-sql?view=sql-server-2017
+ 487. file:///wiki/Template:CS_trees
+ 488. file:///wiki/Template_talk:CS_trees
+ 489. file:///wiki/Special:EditPage/Template:CS_trees
+ 490. file:///wiki/Tree_(abstract_data_type)
+ 491. file:///wiki/Search_tree
+ 492. file:///wiki/Set_(abstract_data_type)
+ 493. file:///wiki/Associative_array
+ 494. file:///wiki/2–3_tree
+ 495. file:///wiki/2–3–4_tree
+ 496. file:///wiki/AA_tree
+ 497. file:///wiki/(a,b)-tree
+ 498. file:///wiki/AVL_tree
+ 499. file:///wiki/B+_tree
+ 500. file:///wiki/B*-tree
+ 501. file:///wiki/Bx-tree
+ 502. file:///wiki/Optimal_binary_search_tree
+ 503. file:///wiki/Binary_search_tree
+ 504. file:///wiki/Dancing_tree
+ 505. file:///wiki/HTree
+ 506. file:///wiki/Interval_tree
+ 507. file:///wiki/Order_statistic_tree
+ 508. file:///wiki/Palindrome_tree
+ 509. file:///wiki/Left-leaning_red–black_tree
+ 510. file:///wiki/Red–black_tree
+ 511. file:///wiki/Scapegoat_tree
+ 512. file:///wiki/Splay_tree
+ 513. file:///wiki/T-tree
+ 514. file:///wiki/Treap
+ 515. file:///wiki/UB-tree
+ 516. file:///wiki/Weight-balanced_tree
+ 517. file:///wiki/Heap_(data_structure)
+ 518. file:///wiki/Binary_heap
+ 519. file:///wiki/Binomial_heap
+ 520. file:///wiki/Brodal_queue
+ 521. file:///wiki/D-ary_heap
+ 522. file:///wiki/Fibonacci_heap
+ 523. file:///wiki/Leftist_tree
+ 524. file:///wiki/Pairing_heap
+ 525. file:///wiki/Skew_binomial_heap
+ 526. file:///wiki/Skew_heap
+ 527. file:///wiki/Van_Emde_Boas_tree
+ 528. file:///wiki/Weak_heap
+ 529. file:///wiki/Trie
+ 530. file:///wiki/Ctrie
+ 531. file:///wiki/C-trie
+ 532. file:///wiki/Hash_tree_(persistent_data_structure)
+ 533. file:///wiki/Radix_tree
+ 534. file:///wiki/Suffix_tree
+ 535. file:///wiki/Ternary_search_tree
+ 536. file:///wiki/X-fast_trie
+ 537. file:///wiki/Y-fast_trie
+ 538. file:///wiki/Spatial_index
+ 539. file:///wiki/Ball_tree
+ 540. file:///wiki/BK-tree
+ 541. file:///wiki/BSP_tree
+ 542. file:///wiki/Cartesian_tree
+ 543. file:///wiki/Hilbert_R-tree
+ 544. file:///wiki/K-d_tree
+ 545. file:///wiki/Implicit_k-d_tree
+ 546. file:///wiki/M-tree
+ 547. file:///wiki/Metric_tree
+ 548. file:///wiki/MVP_tree
+ 549. file:///wiki/Octree
+ 550. file:///wiki/PH-tree
+ 551. file:///wiki/Priority_R-tree
+ 552. file:///wiki/Quadtree
+ 553. file:///wiki/R-tree
+ 554. file:///wiki/R+_tree
+ 555. file:///wiki/R*_tree
+ 556. file:///wiki/Segment_tree
+ 557. file:///wiki/Vantage-point_tree
+ 558. file:///wiki/X-tree
+ 559. file:///wiki/Cover_tree
+ 560. file:///wiki/Exponential_tree
+ 561. file:///wiki/Fenwick_tree
+ 562. file:///wiki/Finger_tree
+ 563. file:///wiki/Fractal_tree_index
+ 564. file:///wiki/Fusion_tree
+ 565. file:///wiki/Hash_calendar
+ 566. file:///wiki/IDistance
+ 567. file:///wiki/K-ary_tree
+ 568. file:///wiki/Left-child_right-sibling_binary_tree
+ 569. file:///wiki/Link/cut_tree
+ 570. file:///wiki/Log-structured_merge-tree
+ 571. file:///wiki/Merkle_tree
+ 572. file:///wiki/PQ_tree
+ 573. file:///wiki/Range_tree
+ 574. file:///wiki/SPQR_tree
+ 575. file:///wiki/Top_tree
+ 576. file:///wiki/Template:Data_structures
+ 577. file:///wiki/Template_talk:Data_structures
+ 578. file:///wiki/Special:EditPage/Template:Data_structures
+ 579. file:///wiki/Data_structure
+ 580. file:///wiki/Collection_(abstract_data_type)
+ 581. file:///wiki/Container_(abstract_data_type)
+ 582. file:///wiki/Abstract_data_type
+ 583. file:///wiki/Associative_array
+ 584. file:///wiki/Multimap
+ 585. file:///wiki/Retrieval_Data_Structure
+ 586. file:///wiki/List_(abstract_data_type)
+ 587. file:///wiki/Stack_(abstract_data_type)
+ 588. file:///wiki/Queue_(abstract_data_type)
+ 589. file:///wiki/Double-ended_queue
+ 590. file:///wiki/Priority_queue
+ 591. file:///wiki/Double-ended_priority_queue
+ 592. file:///wiki/Set_(abstract_data_type)
+ 593. file:///wiki/Set_(abstract_data_type)#Multiset
+ 594. file:///wiki/Disjoint-set_data_structure
+ 595. file:///wiki/Array_(data_structure)
+ 596. file:///wiki/Bit_array
+ 597. file:///wiki/Circular_buffer
+ 598. file:///wiki/Dynamic_array
+ 599. file:///wiki/Hash_table
+ 600. file:///wiki/Hashed_array_tree
+ 601. file:///wiki/Sparse_matrix
+ 602. file:///wiki/Linked_data_structure
+ 603. file:///wiki/Association_list
+ 604. file:///wiki/Linked_list
+ 605. file:///wiki/Skip_list
+ 606. file:///wiki/Unrolled_linked_list
+ 607. file:///wiki/XOR_linked_list
+ 608. file:///wiki/Tree_(data_structure)
+ 609. file:///wiki/Binary_search_tree
+ 610. file:///wiki/AA_tree
+ 611. file:///wiki/AVL_tree
+ 612. file:///wiki/Red–black_tree
+ 613. file:///wiki/Self-balancing_binary_search_tree
+ 614. file:///wiki/Splay_tree
+ 615. file:///wiki/Heap_(data_structure)
+ 616. file:///wiki/Binary_heap
+ 617. file:///wiki/Binomial_heap
+ 618. file:///wiki/Fibonacci_heap
+ 619. file:///wiki/R-tree
+ 620. file:///wiki/R*_tree
+ 621. file:///wiki/R+_tree
+ 622. file:///wiki/Hilbert_R-tree
+ 623. file:///wiki/Trie
+ 624. file:///wiki/Hash_tree_(persistent_data_structure)
+ 625. file:///wiki/Graph_(abstract_data_type)
+ 626. file:///wiki/Binary_decision_diagram
+ 627. file:///wiki/Directed_acyclic_graph
+ 628. file:///wiki/Deterministic_acyclic_finite_state_automaton
+ 629. file:///wiki/List_of_data_structures
+ 630. https://en.wikipedia.org/w/index.php?title=B-tree&oldid=1267762981
+ 631. file:///wiki/Help:Category
+ 632. file:///wiki/Category:B-tree
+ 633. file:///wiki/Category:Computer-related_introductions_in_1971
+ 634. file:///wiki/Category:Database_index_techniques
+ 635. file:///wiki/Category:CS1_maint:_multiple_names:_authors_list
+ 636. file:///wiki/Category:Articles_with_short_description
+ 637. file:///wiki/Category:Short_description_matches_Wikidata
+ 638. file:///wiki/Category:Wikipedia_articles_with_style_issues_from_May_2022
+ 639. file:///wiki/Category:All_articles_with_style_issues
+ 640. file:///wiki/Category:Wikipedia_articles_needing_clarification_from_February_2012
+ 641. file:///wiki/Category:All_Wikipedia_articles_needing_clarification
+ 642. file:///wiki/Category:Wikipedia_articles_needing_copy_edit_from_December_2024
+ 643. file:///wiki/Category:All_Wikipedia_articles_needing_copy_edit
+ 644. file:///wiki/Category:Articles_with_multiple_maintenance_issues
+ 645. file:///wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases
+ 646. file:///wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_September_2019
+ 647. file:///wiki/Category:Articles_needing_additional_references_from_April_2018
+ 648. file:///wiki/Category:All_articles_needing_additional_references
+ 649. file:///wiki/Category:All_articles_with_unsourced_statements
+ 650. file:///wiki/Category:Articles_with_unsourced_statements_from_October_2009
+ 651. file:///wiki/Category:Articles_needing_additional_references_from_May_2020
+ 652. file:///wiki/Category:CS1:_long_volume_value
+ 653. file:///wiki/Category:Commons_category_link_is_on_Wikidata
+ 654. file:///wiki/Category:Webarchive_template_wayback_links
+ 655. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 656. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 657. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 658. https://wikimediafoundation.org/
+ 659. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 660. file:///wiki/Wikipedia:About
+ 661. file:///wiki/Wikipedia:General_disclaimer
+ 662. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 663. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 664. https://developer.wikimedia.org/
+ 665. https://stats.wikimedia.org/#/en.wikipedia.org
+ 666. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 667. file://en.m.wikipedia.org/w/index.php?title=B-tree&mobileaction=toggle_view_mobile
+ 668. https://wikimediafoundation.org/
+ 669. https://www.mediawiki.org/
+
+   Hidden links:
+ 671. file://localhost/wiki/File:Question_book-new.svg
+ 672. file://localhost/wiki/File:Question_book-new.svg
+ 673. file://localhost/wiki/File:Commons-logo.svg

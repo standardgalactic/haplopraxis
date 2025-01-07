@@ -1,0 +1,3617 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 History
+     * [30]2 Elements
+     * [31]3 Symmetric graphs of regular simplices
+     * [32]4 Standard simplex
+       (BUTTON) Toggle Standard simplex subsection
+          + [33]4.1 Examples
+          + [34]4.2 Increasing coordinates
+          + [35]4.3 Projection onto the standard simplex
+          + [36]4.4 Corner of cube
+     * [37]5 Cartesian coordinates for a regular n-dimensional simplex in
+       R^n
+     * [38]6 Geometric properties
+       (BUTTON) Toggle Geometric properties subsection
+          + [39]6.1 Volume
+          + [40]6.2 Dihedral angles of the regular n-simplex
+          + [41]6.3 Simplices with an "orthogonal corner"
+          + [42]6.4 Relation to the (n + 1)-hypercube
+          + [43]6.5 Topology
+          + [44]6.6 Probability
+          + [45]6.7 Aitchison geometry
+          + [46]6.8 Compounds
+     * [47]7 Algebraic topology
+     * [48]8 Algebraic geometry
+     * [49]9 Applications
+     * [50]10 See also
+     * [51]11 Notes
+     * [52]12 References
+
+   [ ] Toggle the table of contents
+
+Simplex
+
+   [ ] 34 languages
+     * [53]العربية
+     * [54]বাংলা
+     * [55]Български
+     * [56]Català
+     * [57]Чӑвашла
+     * [58]Čeština
+     * [59]Deutsch
+     * [60]Español
+     * [61]Esperanto
+     * [62]Euskara
+     * [63]فارسی
+     * [64]Français
+     * [65]한국어
+     * [66]Հայերեն
+     * [67]Italiano
+     * [68]עברית
+     * [69]Қазақша
+     * [70]Magyar
+     * [71]Nederlands
+     * [72]日本語
+     * [73]Norsk bokmål
+     * [74]Oʻzbekcha / ўзбекча
+     * [75]Polski
+     * [76]Português
+     * [77]Română
+     * [78]Русский
+     * [79]Shqip
+     * [80]Simple English
+     * [81]Slovenčina
+     * [82]Slovenščina
+     * [83]Svenska
+     * [84]ไทย
+     * [85]Українська
+     * [86]中文
+
+   [87]Edit links
+
+     * [88]Article
+     * [89]Talk
+
+   [ ] English
+
+     * [90]Read
+     * [91]Edit
+     * [92]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [93]Read
+     * [94]Edit
+     * [95]View history
+
+   General
+     * [96]What links here
+     * [97]Related changes
+     * [98]Upload file
+     * [99]Special pages
+     * [100]Permanent link
+     * [101]Page information
+     * [102]Cite this page
+     * [103]Get shortened URL
+     * [104]Download QR code
+
+   Print/export
+     * [105]Download as PDF
+     * [106]Printable version
+
+   In other projects
+     * [107]Wikimedia Commons
+     * [108]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [109]11-simplex)
+   For other uses, see [110]Simplex (disambiguation).
+   Multi-dimensional generalization of triangle
+   [111]The four simplexes that can be fully represented in 3D space. The
+   four simplexes that can be fully represented in 3D space.
+
+   In [112]geometry, a simplex (plural: simplexes or simplices) is a
+   generalization of the notion of a [113]triangle or [114]tetrahedron to
+   arbitrary [115]dimensions. The simplex is so-named because it
+   represents the simplest possible [116]polytope in any given dimension.
+   For example,
+     * a [117]0-dimensional simplex is a [118]point,
+     * a [119]1-dimensional simplex is a [120]line segment,
+     * a [121]2-dimensional simplex is a [122]triangle,
+     * a [123]3-dimensional simplex is a [124]tetrahedron, and
+     * a [125]4-dimensional simplex is a [126]5-cell.
+
+   Specifically, a k-simplex is a k-dimensional [127]polytope that is the
+   [128]convex hull of its k + 1 [129]vertices. More formally, suppose the
+   k + 1 points
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>u</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <msub> <mi>u</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle u_{0},\dots
+   ,u_{k}}</annotation> </semantics> :MATH]
+   {\displaystyle u_{0},\dots ,u_{k}} are [130]affinely independent, which
+   means that the k vectors
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>u</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>−</mo> <msub>
+   <mi>u</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi>u</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo>−</mo> <msub>
+   <mi>u</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle u_{1}-u_{0},\dots
+   ,u_{k}-u_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle u_{1}-u_{0},\dots ,u_{k}-u_{0}} are [131]linearly
+   independent. Then, the simplex determined by them is the set of points
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>C</mi> <mo>=</mo> <mrow>
+   <mo>{</mo> <mrow> <msub> <mi>θ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>0</mn> </mrow> </msub> <msub> <mi>u</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>+</mo>
+   <mo>⋯</mo> <mo>+</mo> <msub> <mi>θ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> </mrow> </msub> <msub> <mi>u</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mtext> </mtext>
+   <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mo
+   maxsize="2.470em" minsize="2.470em">|</mo> </mrow> </mrow>
+   <mtext> </mtext> <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mi>i</mi> <mo>=</mo> <mn>0</mn> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> </mrow> </munderover> <msub> <mi>θ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>=</mo>
+   <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mstyle displaystyle="false"
+   scriptlevel="0"> <mtext> and </mtext> </mstyle> </mrow> <msub>
+   <mi>θ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+   <mo>≥</mo> <mn>0</mn> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mtext> for </mtext> </mstyle>
+   </mrow> <mi>i</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <mi>k</mi> </mrow> <mo>}</mo> </mrow> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   C=\left\{\theta _{0}u_{0}+\dots +\theta _{k}u_{k}~{\Bigg |}~\sum
+   _{i=0}^{k}\theta _{i}=1{\mbox{ and }}\theta _{i}\geq 0{\mbox{ for
+   }}i=0,\dots ,k\right\}.}</annotation> </semantics> :MATH]
+   {\displaystyle C=\left\{\theta _{0}u_{0}+\dots +\theta _{k}u_{k}~{\Bigg
+   |}~\sum _{i=0}^{k}\theta _{i}=1{\mbox{ and }}\theta _{i}\geq 0{\mbox{
+   for }}i=0,\dots ,k\right\}.}
+
+   A regular simplex^[132][1] is a simplex that is also a [133]regular
+   polytope. A regular k-simplex may be constructed from a regular (k −
+   1)-simplex by connecting a new vertex to all original vertices by the
+   common edge length.
+
+   The standard simplex or probability simplex^[134][2] is the (k −
+   1)-dimensional simplex whose vertices are the k standard [135]unit
+   vectors in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbf {R}
+   ^{k}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {R} ^{k}} , or in other words
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow> <mo>{</mo> <mrow>
+   <mi>x</mi> <mo>∈</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">R</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> </mrow> </msup> <mo>:</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>+</mo>
+   <mo>⋯</mo> <mo>+</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> <mo>−</mo> <mn>1</mn> </mrow> </msub> <mo>=</mo> <mn>1</mn>
+   <mo>,</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+   </mrow> </msub> <mo>≥</mo> <mn>0</mn> <mrow class="MJX-TeXAtom-ORD">
+   <mtext> for </mtext> </mrow> <mi>i</mi> <mo>=</mo> <mn>0</mn>
+   <mo>,</mo> <mo>…</mo> <mo>,</mo> <mi>k</mi> <mo>−</mo> <mn>1</mn>
+   </mrow> <mo>}</mo> </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \left\{x\in \mathbf {R}
+   ^{k}:x_{0}+\dots +x_{k-1}=1,x_{i}\geq 0{\text{ for }}i=0,\dots
+   ,k-1\right\}.}</annotation> </semantics> :MATH]
+   {\displaystyle \left\{x\in \mathbf {R} ^{k}:x_{0}+\dots
+   +x_{k-1}=1,x_{i}\geq 0{\text{ for }}i=0,\dots ,k-1\right\}.}
+
+   In [136]topology and [137]combinatorics, it is common to "glue
+   together" simplices to form a [138]simplicial complex.
+
+   The geometric simplex and simplicial complex should not be confused
+   with the [139]abstract simplicial complex, in which a simplex is simply
+   a [140]finite set and the complex is a family of such sets that is
+   closed under taking subsets.
+
+History
+
+   [[141]edit]
+
+   The concept of a simplex was known to [142]William Kingdon Clifford,
+   who wrote about these shapes in 1886 but called them "prime confines".
+   [143]Henri Poincaré, writing about [144]algebraic topology in 1900,
+   called them "generalized tetrahedra". In 1902 [145]Pieter Hendrik
+   Schoute described the concept first with the [146]Latin superlative
+   simplicissimum ("simplest") and then with the same Latin adjective in
+   the normal form simplex ("simple").^[147][3]
+
+   The regular simplex family is the first of three [148]regular polytope
+   families, labeled by [149]Donald Coxeter as α[n], the other two being
+   the [150]cross-polytope family, labeled as β[n], and the
+   [151]hypercubes, labeled as γ[n]. A fourth family, the
+   [152]tessellation of n-dimensional space by infinitely many hypercubes,
+   he labeled as δ[n].^[153][4]
+
+Elements
+
+   [[154]edit]
+
+   The [155]convex hull of any [156]nonempty [157]subset of the n + 1
+   points that define an n-simplex is called a face of the simplex. Faces
+   are simplices themselves. In particular, the convex hull of a subset of
+   size m + 1 (of the n + 1 defining points) is an m-simplex, called an
+   m-face of the n-simplex. The 0-faces (i.e., the defining points
+   themselves as sets of size 1) are called the vertices (singular:
+   vertex), the 1-faces are called the edges, the (n − 1)-faces are called
+   the facets, and the sole n-face is the whole n-simplex itself. In
+   general, the number of m-faces is equal to the [158]binomial
+   coefficient
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mstyle displaystyle="false" scriptlevel="0"> <mrow> <mrow
+   class="MJX-TeXAtom-OPEN"> <mo maxsize="1.2em" minsize="1.2em">(</mo>
+   </mrow> <mfrac linethickness="0"> <mrow> <mi>n</mi> <mo>+</mo>
+   <mn>1</mn> </mrow> <mrow> <mi>m</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </mfrac> <mrow class="MJX-TeXAtom-CLOSE"> <mo maxsize="1.2em"
+   minsize="1.2em">)</mo> </mrow> </mrow> </mstyle> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   {\tbinom {n+1}{m+1}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\tbinom {n+1}{m+1}}} .^[159][5] Consequently, the
+   number of m-faces of an n-simplex may be found in column (m + 1) of row
+   (n + 1) of [160]Pascal's triangle. A simplex A is a coface of a simplex
+   B if B is a face of A. Face and facet can have different meanings when
+   describing types of simplices in a [161]simplicial complex.
+
+   The extended [162]f-vector for an n-simplex can be computed by
+   (1,1)^n+1, like the coefficients of [163]polynomial products. For
+   example, a [164]7-simplex is (1,1)^8 = (1,2,1)^4 = (1,4,6,4,1)^2 =
+   (1,8,28,56,70,56,28,8,1).
+
+   The number of 1-faces (edges) of the n-simplex is the n-th
+   [165]triangle number, the number of 2-faces of the n-simplex is the (n
+   − 1)th [166]tetrahedron number, the number of 3-faces of the n-simplex
+   is the (n − 2)th 5-cell number, and so on.
+
+   CAPTION: n-Simplex elements^[167][6]
+
+   Δ^n Name [168]Schläfli
+   [169]Coxeter 0-
+   faces
+   (vertices) 1-
+   faces
+   (edges) 2-
+   faces
+   (faces) 3-
+   faces
+   (cells) 4-
+   faces
+     5-
+   faces
+     6-
+   faces
+     7-
+   faces
+     8-
+   faces
+     9-
+   faces
+     10-
+   faces
+     Sum
+   = 2^n+1 − 1
+   Δ^0 0-simplex
+   ([170]point) ( )
+   [CDel_node.png] 1                     1
+   Δ^1 1-simplex
+   ([171]line segment) { } = ( ) ∨ ( ) = 2⋅( )
+   [CDel_node_1.png] 2 1                   3
+   Δ^2 2-simplex
+   ([172]triangle) {3} = 3⋅( )
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] 3 3 1                 7
+   Δ^3 3-simplex
+   ([173]tetrahedron) {3,3} = 4⋅( )
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] 4 6 4 1               15
+   Δ^4 4-simplex
+   ([174]5-cell) {3^3} = 5⋅( )
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] 5 10 10 5 1             31
+   Δ^5 [175]5-simplex {3^4} = 6⋅( )
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] 6 15 20 15 6 1           63
+   Δ^6 [176]6-simplex {3^5} = 7⋅( )
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] 7 21 35 35 21 7 1
+   127
+   Δ^7 [177]7-simplex {3^6} = 8⋅( )
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] 8 28 56 70 56 28 8 1       255
+   Δ^8 [178]8-simplex {3^7} = 9⋅( )
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] 9 36 84 126 126 84 36 9 1
+       511
+   Δ^9 [179]9-simplex {3^8} = 10⋅( )
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] 10 45 120 210 252 210 120 45 10 1   1023
+   Δ^10 [180]10-simplex {3^9} = 11⋅( )
+   [CDel_node_1.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+   [CDel_node.png] [CDel_3.png] [CDel_node.png] 11 55 165 330 462 462 330
+   165 55 11 1 2047
+
+   An n-simplex is the [181]polytope with the fewest vertices that
+   requires n dimensions. Consider a line segment AB as a shape in a
+   1-dimensional space (the 1-dimensional space is the line in which the
+   segment lies). One can place a new point C somewhere off the line. The
+   new shape, triangle ABC, requires two dimensions; it cannot fit in the
+   original 1-dimensional space. The triangle is the 2-simplex, a simple
+   shape that requires two dimensions. Consider a triangle ABC, a shape in
+   a 2-dimensional space (the plane in which the triangle resides). One
+   can place a new point D somewhere off the plane. The new shape,
+   tetrahedron ABCD, requires three dimensions; it cannot fit in the
+   original 2-dimensional space. The tetrahedron is the 3-simplex, a
+   simple shape that requires three dimensions. Consider tetrahedron ABCD,
+   a shape in a 3-dimensional space (the 3-space in which the tetrahedron
+   lies). One can place a new point E somewhere outside the 3-space. The
+   new shape ABCDE, called a 5-cell, requires four dimensions and is
+   called the 4-simplex; it cannot fit in the original 3-dimensional
+   space. (It also cannot be visualized easily.) This idea can be
+   generalized, that is, adding a single new point outside the currently
+   occupied space, which requires going to the next higher dimension to
+   hold the new shape. This idea can also be worked backward: the line
+   segment we started with is a simple shape that requires a 1-dimensional
+   space to hold it; the line segment is the 1-simplex. The line segment
+   itself was formed by starting with a single point in 0-dimensional
+   space (this initial point is the 0-simplex) and adding a second point,
+   which required the increase to 1-dimensional space.
+
+   More formally, an (n + 1)-simplex can be constructed as a join (∨
+   operator) of an n-simplex and a point, ( ). An (m + n + 1)-simplex can
+   be constructed as a join of an m-simplex and an n-simplex. The two
+   simplices are oriented to be completely normal from each other, with
+   translation in a direction orthogonal to both of them. A 1-simplex is
+   the join of two points: ( ) ∨ ( ) = 2 ⋅ ( ). A general 2-simplex
+   (scalene triangle) is the join of three points: ( ) ∨ ( ) ∨ ( ). An
+   [182]isosceles triangle is the join of a 1-simplex and a point: { } ∨ (
+   ). An [183]equilateral triangle is 3 ⋅ ( ) or {3}. A general 3-simplex
+   is the join of 4 points: ( ) ∨ ( ) ∨ ( ) ∨ ( ). A 3-simplex with mirror
+   symmetry can be expressed as the join of an edge and two points: { } ∨
+   ( ) ∨ ( ). A 3-simplex with triangular symmetry can be expressed as the
+   join of an equilateral triangle and 1 point: 3.( )∨( ) or {3}∨( ). A
+   [184]regular tetrahedron is 4 ⋅ ( ) or {3,3} and so on.
+   [185][300px-Pascal%27s_triangle_5.svg.png] The numbers of faces in the
+   above table are the same as in [186]Pascal's triangle, without the left
+   diagonal.
+   [187][300px-Tesseract_tetrahedron_shadow_matrices.svg.png] The total
+   number of faces is always a [188]power of two minus one. This figure (a
+   projection of the [189]tesseract) shows the centroids of the 15 faces
+   of the tetrahedron.
+
+   In some conventions,^[190][7] the empty set is defined to be a
+   (−1)-simplex. The definition of the simplex above still makes sense if
+   n = −1. This convention is more common in applications to algebraic
+   topology (such as [191]simplicial homology) than to the study of
+   polytopes.
+
+Symmetric graphs of regular simplices
+
+   [[192]edit]
+
+   These [193]Petrie polygons (skew orthogonal projections) show all the
+   vertices of the regular simplex on a [194]circle, and all vertex pairs
+   connected by edges.
+                      [195][100px-1-simplex_t0.svg.png]
+                  [196]1 [197][100px-2-simplex_t0.svg.png]
+                  [198]2 [199][100px-3-simplex_t0.svg.png]
+                  [200]3 [201][100px-4-simplex_t0.svg.png]
+                  [202]4 [203][100px-5-simplex_t0.svg.png]
+                                   [204]5
+                      [205][100px-6-simplex_t0.svg.png]
+                  [206]6 [207][100px-7-simplex_t0.svg.png]
+                  [208]7 [209][100px-8-simplex_t0.svg.png]
+                  [210]8 [211][100px-9-simplex_t0.svg.png]
+                  [212]9 [213][100px-10-simplex_t0.svg.png]
+                                   [214]10
+                     [215][100px-11-simplex_t0.svg.png]
+                 [216]11 [217][100px-12-simplex_t0.svg.png]
+                 [218]12 [219][100px-13-simplex_t0.svg.png]
+                 [220]13 [221][100px-14-simplex_t0.svg.png]
+                 [222]14 [223][100px-15-simplex_t0.svg.png]
+                                   [224]15
+                     [225][100px-16-simplex_t0.svg.png]
+                 [226]16 [227][100px-17-simplex_t0.svg.png]
+                 [228]17 [229][100px-18-simplex_t0.svg.png]
+                 [230]18 [231][100px-19-simplex_t0.svg.png]
+                 [232]19 [233][100px-20-simplex_t0.svg.png]
+                                   [234]20
+
+Standard simplex
+
+   [[235]edit]
+   [236][150px-2D-simplex.svg.png] The standard 2-simplex in R^3
+
+   The standard n-simplex (or unit n-simplex) is the subset of R^n+1 given
+   by
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi
+          mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msup> <mo>=</mo> <mrow> <mo>{</mo> <mrow>
+          <mo stretchy="false">(</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> <mo>∈</mo> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>+</mo> <mn>1</mn>
+          </mrow> </msup> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD"> <mo maxsize="2.470em"
+          minsize="2.470em">|</mo> </mrow> </mrow> <mtext> </mtext>
+          <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> <mo>=</mo> <mn>0</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </munderover> <msub>
+          <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow>
+          </msub> <mo>=</mo> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD">
+          <mtext> and </mtext> </mrow> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>≥</mo>
+          <mn>0</mn> <mrow class="MJX-TeXAtom-ORD"> <mtext> for </mtext>
+          </mrow> <mi>i</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mo>…</mo>
+          <mo>,</mo> <mi>n</mi> </mrow> <mo>}</mo> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \Delta ^{n}=\left\{(t_{0},\dots ,t_{n})\in \mathbf {R}
+          ^{n+1}~{\Bigg |}~\sum _{i=0}^{n}t_{i}=1{\text{ and }}t_{i}\geq
+          0{\text{ for }}i=0,\ldots ,n\right\}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \Delta ^{n}=\left\{(t_{0},\dots ,t_{n})\in
+          \mathbf {R} ^{n+1}~{\Bigg |}~\sum _{i=0}^{n}t_{i}=1{\text{ and
+          }}t_{i}\geq 0{\text{ for }}i=0,\ldots ,n\right\}} .
+
+   The simplex Δ^n lies in the [237]affine hyperplane obtained by removing
+   the restriction t[i] ≥ 0 in the above definition.
+
+   The n + 1 vertices of the standard n-simplex are the points e[i] ∈
+   R^n+1, where
+
+          e[0] = (1, 0, 0, ..., 0),
+          e[1] = (0, 1, 0, ..., 0),
+          ⋮
+          e[n] = (0, 0, 0, ..., 1).
+
+   A standard simplex is an example of a [238]0/1-polytope, with all
+   coordinates as 0 or 1. It can also be seen one [239]facet of a regular
+   (n + 1)-[240]orthoplex.
+
+   There is a canonical map from the standard n-simplex to an arbitrary
+   n-simplex with vertices (v[0], ..., v[n]) given by
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub>
+          <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msub> <mo stretchy="false">)</mo> <mo stretchy="false">↦</mo>
+          <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> <mo>=</mo> <mn>0</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </munderover> <msub>
+          <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow>
+          </msub> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> </mrow> </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle (t_{0},\ldots
+          ,t_{n})\mapsto \sum _{i=0}^{n}t_{i}v_{i}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle (t_{0},\ldots ,t_{n})\mapsto \sum
+          _{i=0}^{n}t_{i}v_{i}}
+
+   The coefficients t[i] are called the [241]barycentric coordinates of a
+   point in the n-simplex. Such a general simplex is often called an
+   affine n-simplex, to emphasize that the canonical map is an [242]affine
+   transformation. It is also sometimes called an oriented affine
+   n-simplex to emphasize that the canonical map may be [243]orientation
+   preserving or reversing.
+
+   More generally, there is a canonical map from the standard
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (n-1)}</annotation> </semantics> :MATH]
+   {\displaystyle (n-1)} -simplex (with n vertices) onto any [244]polytope
+   with n vertices, given by the same equation (modifying indexing):
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub>
+          <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msub> <mo stretchy="false">)</mo> <mo stretchy="false">↦</mo>
+          <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </munderover> <msub>
+          <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow>
+          </msub> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> </mrow> </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle (t_{1},\ldots
+          ,t_{n})\mapsto \sum _{i=1}^{n}t_{i}v_{i}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle (t_{1},\ldots ,t_{n})\mapsto \sum
+          _{i=1}^{n}t_{i}v_{i}}
+
+   These are known as [245]generalized barycentric coordinates, and
+   express every polytope as the image of a simplex:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi
+   mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   <mo>−</mo> <mn>1</mn> </mrow> </msup> <mo stretchy="false">↠</mo>
+   <mi>P</mi> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Delta
+   ^{n-1}\twoheadrightarrow P.}</annotation> </semantics> :MATH]
+   {\displaystyle \Delta ^{n-1}\twoheadrightarrow P.}
+
+   A commonly used function from R^n to the interior of the standard
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   (n-1)}</annotation> </semantics> :MATH]
+   {\displaystyle (n-1)} -simplex is the [246]softmax function, or
+   normalized exponential function; this generalizes the [247]standard
+   logistic function.
+
+Examples
+
+   [[248]edit]
+     * Δ^0 is the point 1 in R^1.
+     * Δ^1 is the line segment joining (1, 0) and (0, 1) in R^2.
+     * Δ^2 is the [249]equilateral triangle with vertices (1, 0, 0), (0,
+       1, 0) and (0, 0, 1) in R^3.
+     * Δ^3 is the [250]regular tetrahedron with vertices (1, 0, 0, 0), (0,
+       1, 0, 0), (0, 0, 1, 0) and (0, 0, 0, 1) in R^4.
+     * Δ^4 is the regular [251]5-cell with vertices (1, 0, 0, 0, 0), (0,
+       1, 0, 0, 0), (0, 0, 1, 0, 0), (0, 0, 0, 1, 0) and (0, 0, 0, 0, 1)
+       in R^5.
+
+Increasing coordinates
+
+   [[252]edit]
+
+   An alternative coordinate system is given by taking the [253]indefinite
+   sum:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mtable columnalign="right left right
+          left right left right left right left right left"
+          rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em
+          0em 2em 0em" displaystyle="true"> <mtr> <mtd> <msub> <mi>s</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mtd>
+          <mtd> <mi></mi> <mo>=</mo> <mn>0</mn> </mtd> </mtr> <mtr> <mtd>
+          <msub> <mi>s</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> </mtd> <mtd> <mi></mi> <mo>=</mo> <msub>
+          <mi>s</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+          </msub> <mo>+</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>=</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> </mtd> </mtr> <mtr> <mtd> <msub> <mi>s</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd>
+          <mtd> <mi></mi> <mo>=</mo> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>+</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>=</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>+</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> </mtd> </mtr> <mtr> <mtd> <msub> <mi>s</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msub> </mtd>
+          <mtd> <mi></mi> <mo>=</mo> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>+</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msub> <mo>=</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>+</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>+</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mtd>
+          </mtr> <mtr> <mtd /> <mtd> <mi></mi> <mspace
+          width="thickmathspace" /> <mspace width="thickmathspace" />
+          <mo>⋮</mo> </mtd> </mtr> <mtr> <mtd> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mtd> <mtd>
+          <mi></mi> <mo>=</mo> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn>
+          </mrow> </msub> <mo>+</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn>
+          </mrow> </msub> <mo>=</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>+</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <msub>
+          <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo>
+          <mn>1</mn> </mrow> </msub> </mtd> </mtr> <mtr> <mtd> <msub>
+          <mi>s</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>+</mo>
+          <mn>1</mn> </mrow> </msub> </mtd> <mtd> <mi></mi> <mo>=</mo>
+          <msub> <mi>s</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          </mrow> </msub> <mo>+</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+          <msub> <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> <mo>+</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>+</mo>
+          <mo>⋯</mo> <mo>+</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+          <mn>1</mn> </mtd> </mtr> </mtable> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          {\begin{aligned}s_{0}&=0\\s_{1}&=s_{0}+t_{0}=t_{0}\\s_{2}&=s_{1}
+          +t_{1}=t_{0}+t_{1}\\s_{3}&=s_{2}+t_{2}=t_{0}+t_{1}+t_{2}\\&\;\;\
+          vdots \\s_{n}&=s_{n-1}+t_{n-1}=t_{0}+t_{1}+\cdots
+          +t_{n-1}\\s_{n+1}&=s_{n}+t_{n}=t_{0}+t_{1}+\cdots
+          +t_{n}=1\end{aligned}}}</annotation> </semantics> :MATH]
+          {\displaystyle
+          {\begin{aligned}s_{0}&=0\\s_{1}&=s_{0}+t_{0}=t_{0}\\s_{2}&=s_{1}
+          +t_{1}=t_{0}+t_{1}\\s_{3}&=s_{2}+t_{2}=t_{0}+t_{1}+t_{2}\\&\;\;\
+          vdots \\s_{n}&=s_{n-1}+t_{n-1}=t_{0}+t_{1}+\cdots
+          +t_{n-1}\\s_{n+1}&=s_{n}+t_{n}=t_{0}+t_{1}+\cdots
+          +t_{n}=1\end{aligned}}}
+
+   This yields the alternative presentation by order, namely as
+   nondecreasing n-tuples between 0 and 1:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msubsup> <mi
+          mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mo>∗</mo> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          </mrow> </msubsup> <mo>=</mo> <mrow> <mo>{</mo> <mrow> <mo
+          stretchy="false">(</mo> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> <mo>∈</mo> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup>
+          <mo>∣</mo> <mn>0</mn> <mo>=</mo> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>≤</mo>
+          <msub> <mi>s</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>≤</mo> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>≤</mo>
+          <mo>⋯</mo> <mo>≤</mo> <msub> <mi>s</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>≤</mo>
+          <msub> <mi>s</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          <mo>+</mo> <mn>1</mn> </mrow> </msub> <mo>=</mo> <mn>1</mn>
+          </mrow> <mo>}</mo> </mrow> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \Delta
+          _{*}^{n}=\left\{(s_{1},\ldots ,s_{n})\in \mathbf {R} ^{n}\mid
+          0=s_{0}\leq s_{1}\leq s_{2}\leq \dots \leq s_{n}\leq
+          s_{n+1}=1\right\}.}</annotation> </semantics> :MATH]
+          {\displaystyle \Delta _{*}^{n}=\left\{(s_{1},\ldots ,s_{n})\in
+          \mathbf {R} ^{n}\mid 0=s_{0}\leq s_{1}\leq s_{2}\leq \dots \leq
+          s_{n}\leq s_{n+1}=1\right\}.}
+
+   Geometrically, this is an n-dimensional subset of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbf {R}
+   ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {R} ^{n}} (maximal dimension, codimension 0)
+   rather than of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {R}
+   ^{n+1}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {R} ^{n+1}} (codimension 1). The facets, which
+   on the standard simplex correspond to one coordinate vanishing,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>=</mo>
+   <mn>0</mn> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle t_{i}=0,}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t_{i}=0,} here correspond to successive coordinates
+   being equal,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>s</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>=</mo> <msub>
+   <mi>s</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>+</mo>
+   <mn>1</mn> </mrow> </msub> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   s_{i}=s_{i+1},}</annotation> </semantics> :MATH]
+   {\displaystyle s_{i}=s_{i+1},} while the [254]interior corresponds to
+   the inequalities becoming strict (increasing sequences).
+
+   A key distinction between these presentations is the behavior under
+   permuting coordinates – the standard simplex is stabilized by permuting
+   coordinates, while permuting elements of the "ordered simplex" do not
+   leave it invariant, as permuting an ordered sequence generally makes it
+   unordered. Indeed, the ordered simplex is a (closed) [255]fundamental
+   domain for the [256]action of the [257]symmetric group on the n-cube,
+   meaning that the orbit of the ordered simplex under the n! elements of
+   the symmetric group divides the n-cube into
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>!</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   n!}</annotation> </semantics> :MATH]
+   {\displaystyle n!} mostly disjoint simplices (disjoint except for
+   boundaries), showing that this simplex has volume 1/n!. Alternatively,
+   the volume can be computed by an iterated integral, whose successive
+   integrands are 1, x, x^2/2, x^3/3!, ..., x^n/n!.
+
+   A further property of this presentation is that it uses the order but
+   not addition, and thus can be defined in any dimension over any ordered
+   set, and for example can be used to define an infinite-dimensional
+   simplex without issues of convergence of sums.
+
+Projection onto the standard simplex
+
+   [[258]edit]
+
+   Especially in numerical applications of [259]probability theory a
+   [260]projection onto the standard simplex is of interest. Given
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo> <msub>
+   <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+   <msub> <mo stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mi>i</mi> </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle (p_{i})_{i}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle (p_{i})_{i}} with possibly negative entries, the closest
+   point
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow> <mo>(</mo> <msub>
+   <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+   <mo>)</mo> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   \left(t_{i}\right)_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle \left(t_{i}\right)_{i}} on the simplex has coordinates
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>=</mo>
+          <mo movablelimits="true" form="prefix">max</mo> <mo
+          fence="false" stretchy="false">{</mo> <msub> <mi>p</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>+</mo>
+          <mi mathvariant="normal">Δ</mi> <mspace width="thinmathspace" />
+          <mo>,</mo> <mn>0</mn> <mo fence="false" stretchy="false">}</mo>
+          <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          t_{i}=\max\{p_{i}+\Delta \,,0\},}</annotation> </semantics>
+          :MATH]
+          {\displaystyle t_{i}=\max\{p_{i}+\Delta \,,0\},}
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Δ</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Delta }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Delta } is chosen such that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <munder> <mo>∑</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </munder> <mo
+   movablelimits="true" form="prefix">max</mo> <mo fence="false"
+   stretchy="false">{</mo> <msub> <mi>p</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>+</mo> <mi
+   mathvariant="normal">Δ</mi> <mspace width="thinmathspace" /> <mo>,</mo>
+   <mn>0</mn> <mo fence="false" stretchy="false">}</mo> <mo>=</mo>
+   <mn>1.</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\textstyle \sum _{i}\max\{p_{i}+\Delta
+   \,,0\}=1.}</annotation> </semantics> :MATH]
+   {\textstyle \sum _{i}\max\{p_{i}+\Delta \,,0\}=1.}
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Δ</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Delta }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Delta } can be easily calculated from sorting
+   p[i].^[261][8] The sorting approach takes
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>O</mi> <mo
+   stretchy="false">(</mo> <mi>n</mi> <mi>log</mi> <mo>⁡</mo> <mi>n</mi>
+   <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle O(n\log n)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle O(n\log n)} complexity, which can be improved to O(n)
+   complexity via [262]median-finding algorithms.^[263][9] Projecting onto
+   the simplex is computationally similar to projecting onto the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>ℓ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \ell
+   _{1}}</annotation> </semantics> :MATH]
+   {\displaystyle \ell _{1}} ball.
+
+Corner of cube
+
+   [[264]edit]
+
+   Finally, a simple variant is to replace "summing to 1" with "summing to
+   at most 1"; this raises the dimension by 1, so to simplify notation,
+   the indexing changes:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msubsup> <mi
+          mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>c</mi> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          </mrow> </msubsup> <mo>=</mo> <mrow> <mo>{</mo> <mrow> <mo
+          stretchy="false">(</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> <mo>∈</mo> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup>
+          <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mo maxsize="2.470em"
+          minsize="2.470em">|</mo> </mrow> </mrow> <mtext> </mtext>
+          <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </munderover> <msub>
+          <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow>
+          </msub> <mo>≤</mo> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD">
+          <mtext> and </mtext> </mrow> <msub> <mi>t</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>≥</mo>
+          <mn>0</mn> <mrow class="MJX-TeXAtom-ORD"> <mtext> for
+          all </mtext> </mrow> <mi>i</mi> </mrow> <mo>}</mo> </mrow>
+          <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Delta
+          _{c}^{n}=\left\{(t_{1},\ldots ,t_{n})\in \mathbf {R} ^{n}~{\Bigg
+          |}~\sum _{i=1}^{n}t_{i}\leq 1{\text{ and }}t_{i}\geq 0{\text{
+          for all }}i\right\}.}</annotation> </semantics> :MATH]
+          {\displaystyle \Delta _{c}^{n}=\left\{(t_{1},\ldots ,t_{n})\in
+          \mathbf {R} ^{n}~{\Bigg |}~\sum _{i=1}^{n}t_{i}\leq 1{\text{ and
+          }}t_{i}\geq 0{\text{ for all }}i\right\}.}
+
+   This yields an n-simplex as a corner of the n-cube, and is a standard
+   orthogonal simplex. This is the simplex used in the [265]simplex
+   method, which is based at the origin, and locally models a vertex on a
+   polytope with n facets.
+
+Cartesian coordinates for a regular n-dimensional simplex in R^n
+
+   [[266]edit]
+
+   One way to write down a regular n-simplex in R^n is to choose two
+   points to be the first two vertices, choose a third point to make an
+   equilateral triangle, choose a fourth point to make a regular
+   tetrahedron, and so on. Each step requires satisfying equations that
+   ensure that each newly chosen vertex, together with the previously
+   chosen vertices, forms a regular simplex. There are several sets of
+   equations that can be written down and used for this purpose. These
+   include the equality of all the distances between vertices; the
+   equality of all the distances from vertices to the center of the
+   simplex; the fact that the angle subtended through the new vertex by
+   any two previously chosen vertices is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>π</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>3</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \pi
+   /3}</annotation> </semantics> :MATH]
+   {\displaystyle \pi /3} ; and the fact that the angle subtended through
+   the center of the simplex by any two vertices is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>arccos</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mo>−</mo> <mn>1</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>n</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \arccos(-1/n)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \arccos(-1/n)} .
+
+   It is also possible to directly write down a particular regular
+   n-simplex in R^n which can then be translated, rotated, and scaled as
+   desired. One way to do this is as follows. Denote the [267]basis
+   vectors of R^n by e[1] through e[n]. Begin with the standard (n −
+   1)-simplex which is the convex hull of the basis vectors. By adding an
+   additional vertex, these become a face of a regular n-simplex. The
+   additional vertex must lie on the line perpendicular to the barycenter
+   of the standard simplex, so it has the form (α/n, ..., α/n) for some
+   [268]real number α. Since the squared distance between two basis
+   vectors is 2, in order for the additional vertex to form a regular
+   n-simplex, the squared distance between it and any of the basis vectors
+   must also be 2. This yields a [269]quadratic equation for α. Solving
+   this equation shows that there are two choices for the additional
+   vertex:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac>
+          </mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>±</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>n</mi> <mo>+</mo>
+          <mn>1</mn> </msqrt> </mrow> </mrow> <mo>)</mo> </mrow>
+          <mo>⋅</mo> <mo stretchy="false">(</mo> <mn>1</mn> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+          <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac
+          {1}{n}}\left(1\pm {\sqrt {n+1}}\right)\cdot (1,\dots
+          ,1).}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {1}{n}}\left(1\pm {\sqrt
+          {n+1}}\right)\cdot (1,\dots ,1).}
+
+   Either of these, together with the standard basis vectors, yields a
+   regular n-simplex.
+
+   The above regular n-simplex is not centered on the origin. It can be
+   translated to the origin by subtracting the mean of its vertices. By
+   rescaling, it can be given unit side length. This results in the
+   simplex whose vertices are:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <msqrt> <mn>2</mn>
+          </msqrt> </mfrac> </mrow> <msub> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">e</mi> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo>−</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow>
+          <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn>
+          </msqrt> </mrow> </mrow> </mfrac> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mo
+          maxsize="2.047em" minsize="2.047em">(</mo> </mrow> </mrow>
+          <mn>1</mn> <mo>±</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <msqrt> <mi>n</mi> <mo>+</mo> <mn>1</mn> </msqrt>
+          </mfrac> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mo maxsize="2.047em"
+          minsize="2.047em">)</mo> </mrow> </mrow> <mo>⋅</mo> <mo
+          stretchy="false">(</mo> <mn>1</mn> <mo>,</mo> <mo>…</mo>
+          <mo>,</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo>,</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac {1}{\sqrt
+          {2}}}\mathbf {e} _{i}-{\frac {1}{n{\sqrt {2}}}}{\bigg (}1\pm
+          {\frac {1}{\sqrt {n+1}}}{\bigg )}\cdot (1,\dots
+          ,1),}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {1}{\sqrt {2}}}\mathbf {e} _{i}-{\frac
+          {1}{n{\sqrt {2}}}}{\bigg (}1\pm {\frac {1}{\sqrt {n+1}}}{\bigg
+          )}\cdot (1,\dots ,1),}
+
+   for
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>≤</mo> <mi>i</mi>
+   <mo>≤</mo> <mi>n</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 1\leq i\leq n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 1\leq i\leq n} , and
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>±</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <msqrt> <mn>2</mn>
+          <mo stretchy="false">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> </msqrt> </mfrac> </mrow> <mo>⋅</mo> <mo
+          stretchy="false">(</mo> <mn>1</mn> <mo>,</mo> <mo>…</mo>
+          <mo>,</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo>.</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \pm {\frac {1}{\sqrt
+          {2(n+1)}}}\cdot (1,\dots ,1).}</annotation> </semantics> :MATH]
+          {\displaystyle \pm {\frac {1}{\sqrt {2(n+1)}}}\cdot (1,\dots
+          ,1).}
+
+   Note that there are two sets of vertices described here. One set uses
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>+</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle +}</annotation>
+   </semantics> :MATH]
+   {\displaystyle +} in each calculation. The other set uses
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>−</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle -}</annotation>
+   </semantics> :MATH]
+   {\displaystyle -} in each calculation.
+
+   This simplex is inscribed in a hypersphere of radius
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mo stretchy="false">(</mo> <mn>2</mn> <mo stretchy="false">(</mo>
+   <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo
+   stretchy="false">)</mo> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt
+   {n/(2(n+1))}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {n/(2(n+1))}}} .
+
+   A different rescaling produces a simplex that is inscribed in a unit
+   hypersphere. When this is done, its vertices are
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mo>+</mo> <msup>
+          <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn>
+          </mrow> </msup> </msqrt> </mrow> <mo>⋅</mo> <msub> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">e</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+          <mo>−</mo> <msup> <mi>n</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mo>−</mo> <mn>3</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>2</mn> </mrow> </msup> <mo stretchy="false">(</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>n</mi> <mo>+</mo>
+          <mn>1</mn> </msqrt> </mrow> <mo>±</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo>⋅</mo> <mo stretchy="false">(</mo>
+          <mn>1</mn> <mo>,</mo> <mo>…</mo> <mo>,</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt
+          {1+n^{-1}}}\cdot \mathbf {e} _{i}-n^{-3/2}({\sqrt {n+1}}\pm
+          1)\cdot (1,\dots ,1),}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {1+n^{-1}}}\cdot \mathbf {e}
+          _{i}-n^{-3/2}({\sqrt {n+1}}\pm 1)\cdot (1,\dots ,1),}
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>≤</mo> <mi>i</mi>
+   <mo>≤</mo> <mi>n</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 1\leq i\leq n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 1\leq i\leq n} , and
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>±</mo> <msup>
+          <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn>
+          </mrow> </msup> <mo>⋅</mo> <mo stretchy="false">(</mo>
+          <mn>1</mn> <mo>,</mo> <mo>…</mo> <mo>,</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \pm n^{-1/2}\cdot
+          (1,\dots ,1).}</annotation> </semantics> :MATH]
+          {\displaystyle \pm n^{-1/2}\cdot (1,\dots ,1).}
+
+   The side length of this simplex is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>2</mn> <mo stretchy="false">(</mo> <mi>n</mi> <mo>+</mo>
+   <mn>1</mn> <mo stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mi>n</mi> </msqrt> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\textstyle {\sqrt
+   {2(n+1)/n}}}</annotation> </semantics> :MATH]
+   {\textstyle {\sqrt {2(n+1)/n}}} .
+
+   A highly symmetric way to construct a regular n-simplex is to use a
+   representation of the [270]cyclic group Z[n+1] by [271]orthogonal
+   matrices. This is an n × n orthogonal matrix Q such that Q^n+1 = I is
+   the [272]identity matrix, but no lower power of Q is. Applying powers
+   of this [273]matrix to an appropriate vector v will produce the
+   vertices of a regular n-simplex. To carry this out, first observe that
+   for any orthogonal matrix Q, there is a choice of basis in which Q is a
+   block diagonal matrix
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>Q</mi> <mo>=</mo>
+          <mi>diag</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <msub>
+          <mi>Q</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mo>,</mo> <msub> <mi>Q</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>Q</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle Q=\operatorname
+          {diag} (Q_{1},Q_{2},\dots ,Q_{k}),}</annotation> </semantics>
+          :MATH]
+          {\displaystyle Q=\operatorname {diag} (Q_{1},Q_{2},\dots
+          ,Q_{k}),}
+
+   where each Q[i] is orthogonal and either 2 × 2 or 1 × 1. In order for Q
+   to have order n + 1, all of these matrices must have order
+   [274]dividing n + 1. Therefore each Q[i] is either a 1 × 1 matrix whose
+   only entry is 1 or, if n is [275]odd, −1; or it is a 2 × 2 matrix of
+   the form
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mi>cos</mi>
+          <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mn>2</mn> <mi>π</mi> <msub> <mi>ω</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mrow>
+          <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </mfrac> </mrow>
+          </mtd> <mtd> <mo>−</mo> <mi>sin</mi> <mo>⁡</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>π</mi>
+          <msub> <mi>ω</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+          </mrow> </msub> </mrow> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn>
+          </mrow> </mfrac> </mrow> </mtd> </mtr> <mtr> <mtd> <mi>sin</mi>
+          <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mn>2</mn> <mi>π</mi> <msub> <mi>ω</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mrow>
+          <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </mfrac> </mrow>
+          </mtd> <mtd> <mi>cos</mi> <mo>⁡</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>π</mi>
+          <msub> <mi>ω</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+          </mrow> </msub> </mrow> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn>
+          </mrow> </mfrac> </mrow> </mtd> </mtr> </mtable> <mo>)</mo>
+          </mrow> </mrow> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\begin{pmatrix}\cos
+          {\frac {2\pi \omega _{i}}{n+1}}&-\sin {\frac {2\pi \omega
+          _{i}}{n+1}}\\\sin {\frac {2\pi \omega _{i}}{n+1}}&\cos {\frac
+          {2\pi \omega _{i}}{n+1}}\end{pmatrix}},}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\begin{pmatrix}\cos {\frac {2\pi \omega
+          _{i}}{n+1}}&-\sin {\frac {2\pi \omega _{i}}{n+1}}\\\sin {\frac
+          {2\pi \omega _{i}}{n+1}}&\cos {\frac {2\pi \omega
+          _{i}}{n+1}}\end{pmatrix}},}
+
+   where each ω[i] is an [276]integer between zero and n inclusive. A
+   sufficient condition for the orbit of a point to be a regular simplex
+   is that the matrices Q[i] form a basis for the non-trivial irreducible
+   real representations of Z[n+1], and the vector being rotated is not
+   stabilized by any of them.
+
+   In practical terms, for n [277]even this means that every matrix Q[i]
+   is 2 × 2, there is an equality of sets
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo fence="false"
+          stretchy="false">{</mo> <msub> <mi>ω</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo>−</mo> <msub> <mi>ω</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+          <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi>ω</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> </mrow>
+          </msub> <mo>,</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo>−</mo>
+          <msub> <mi>ω</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn>
+          </mrow> </msub> <mo fence="false" stretchy="false">}</mo>
+          <mo>=</mo> <mo fence="false" stretchy="false">{</mo> <mn>1</mn>
+          <mo>,</mo> <mo>…</mo> <mo>,</mo> <mi>n</mi> <mo fence="false"
+          stretchy="false">}</mo> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \{\omega
+          _{1},n+1-\omega _{1},\dots ,\omega _{n/2},n+1-\omega
+          _{n/2}\}=\{1,\dots ,n\},}</annotation> </semantics> :MATH]
+          {\displaystyle \{\omega _{1},n+1-\omega _{1},\dots ,\omega
+          _{n/2},n+1-\omega _{n/2}\}=\{1,\dots ,n\},}
+
+   and, for every Q[i], the entries of v upon which Q[i] acts are not both
+   zero. For example, when n = 4, one possible matrix is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mi>cos</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> <mtd> <mo>−</mo> <mi>sin</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> <mtd> <mn>0</mn> </mtd> <mtd>
+          <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mi>sin</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mn>2</mn> <mi>π</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> <mtd> <mi>cos</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mn>2</mn> <mi>π</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> <mtd> <mn>0</mn> </mtd> <mtd>
+          <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd>
+          <mn>0</mn> </mtd> <mtd> <mi>cos</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mn>4</mn> <mi>π</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> <mtd> <mo>−</mo> <mi>sin</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>4</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <mn>0</mn>
+          </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mi>sin</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mn>4</mn> <mi>π</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> <mtd> <mi>cos</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mn>4</mn> <mi>π</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> </mtable> <mo>)</mo>
+          </mrow> </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{pmatrix}\cos(2\pi /5)&-\sin(2\pi /5)&0&0\\\sin(2\pi
+          /5)&\cos(2\pi /5)&0&0\\0&0&\cos(4\pi /5)&-\sin(4\pi
+          /5)\\0&0&\sin(4\pi /5)&\cos(4\pi
+          /5)\end{pmatrix}}.}</annotation> </semantics> :MATH]
+          {\displaystyle {\begin{pmatrix}\cos(2\pi /5)&-\sin(2\pi
+          /5)&0&0\\\sin(2\pi /5)&\cos(2\pi /5)&0&0\\0&0&\cos(4\pi
+          /5)&-\sin(4\pi /5)\\0&0&\sin(4\pi /5)&\cos(4\pi
+          /5)\end{pmatrix}}.}
+
+   Applying this to the vector (1, 0, 1, 0) results in the simplex whose
+   vertices are
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>1</mn>
+          </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd>
+          <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> </mtr>
+          </mtable> <mo>)</mo> </mrow> </mrow> <mo>,</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mi>cos</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <mi>sin</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <mi>cos</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>4</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <mi>sin</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>4</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> </mtable> <mo>)</mo>
+          </mrow> </mrow> <mo>,</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow>
+          <mo>(</mo> <mtable rowspacing="4pt" columnspacing="1em"> <mtr>
+          <mtd> <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mn>4</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>5</mn> <mo stretchy="false">)</mo> </mtd> </mtr>
+          <mtr> <mtd> <mi>sin</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mn>4</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>5</mn> <mo stretchy="false">)</mo> </mtd> </mtr>
+          <mtr> <mtd> <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mn>8</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>5</mn> <mo stretchy="false">)</mo> </mtd> </mtr>
+          <mtr> <mtd> <mi>sin</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mn>8</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>5</mn> <mo stretchy="false">)</mo> </mtd> </mtr>
+          </mtable> <mo>)</mo> </mrow> </mrow> <mo>,</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mi>cos</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>6</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <mi>sin</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>6</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <mi>cos</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <mi>sin</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn> <mi>π</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> </mtable> <mo>)</mo>
+          </mrow> </mrow> <mo>,</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow>
+          <mo>(</mo> <mtable rowspacing="4pt" columnspacing="1em"> <mtr>
+          <mtd> <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mn>8</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>5</mn> <mo stretchy="false">)</mo> </mtd> </mtr>
+          <mtr> <mtd> <mi>sin</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mn>8</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>5</mn> <mo stretchy="false">)</mo> </mtd> </mtr>
+          <mtr> <mtd> <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mn>6</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>5</mn> <mo stretchy="false">)</mo> </mtd> </mtr>
+          <mtr> <mtd> <mi>sin</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mn>6</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mn>5</mn> <mo stretchy="false">)</mo> </mtd> </mtr>
+          </mtable> <mo>)</mo> </mrow> </mrow> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\begin{pmatrix}1\\0\\1\\0\end{pmatrix}},{\begin{pmatrix}\cos(2\
+          pi /5)\\\sin(2\pi /5)\\\cos(4\pi /5)\\\sin(4\pi
+          /5)\end{pmatrix}},{\begin{pmatrix}\cos(4\pi /5)\\\sin(4\pi
+          /5)\\\cos(8\pi /5)\\\sin(8\pi
+          /5)\end{pmatrix}},{\begin{pmatrix}\cos(6\pi /5)\\\sin(6\pi
+          /5)\\\cos(2\pi /5)\\\sin(2\pi
+          /5)\end{pmatrix}},{\begin{pmatrix}\cos(8\pi /5)\\\sin(8\pi
+          /5)\\\cos(6\pi /5)\\\sin(6\pi /5)\end{pmatrix}},}</annotation>
+          </semantics> :MATH]
+          {\displaystyle
+          {\begin{pmatrix}1\\0\\1\\0\end{pmatrix}},{\begin{pmatrix}\cos(2\
+          pi /5)\\\sin(2\pi /5)\\\cos(4\pi /5)\\\sin(4\pi
+          /5)\end{pmatrix}},{\begin{pmatrix}\cos(4\pi /5)\\\sin(4\pi
+          /5)\\\cos(8\pi /5)\\\sin(8\pi
+          /5)\end{pmatrix}},{\begin{pmatrix}\cos(6\pi /5)\\\sin(6\pi
+          /5)\\\cos(2\pi /5)\\\sin(2\pi
+          /5)\end{pmatrix}},{\begin{pmatrix}\cos(8\pi /5)\\\sin(8\pi
+          /5)\\\cos(6\pi /5)\\\sin(6\pi /5)\end{pmatrix}},}
+
+   each of which has distance √5 from the others. When n is odd, the
+   condition means that exactly one of the diagonal blocks is 1 × 1, equal
+   to −1, and acts upon a non-zero entry of v; while the remaining
+   diagonal blocks, say Q[1], ..., Q[(n − 1) / 2], are 2 × 2, there is an
+   equality of sets
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>{</mo> <mrow>
+          <msub> <mi>ω</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>,</mo> <mo>−</mo> <msub> <mi>ω</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>ω</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">(</mo> <mi>n</mi>
+          <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> </mrow>
+          </msub> <mo>,</mo> <mo>−</mo> <msub> <mi>ω</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo> </mrow> <mn>2</mn> </mrow> </msub> </mrow> <mo>}</mo>
+          </mrow> <mo>=</mo> <mrow> <mo>{</mo> <mrow> <mn>1</mn>
+          <mo>,</mo> <mo>…</mo> <mo>,</mo> <mo stretchy="false">(</mo>
+          <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn>
+          <mo>,</mo> <mo stretchy="false">(</mo> <mi>n</mi> <mo>+</mo>
+          <mn>3</mn> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn>
+          <mo>,</mo> <mo>…</mo> <mo>,</mo> <mi>n</mi> </mrow> <mo>}</mo>
+          </mrow> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \left\{\omega
+          _{1},-\omega _{1},\dots ,\omega _{(n-1)/2},-\omega
+          _{n-1)/2}\right\}=\left\{1,\dots ,(n-1)/2,(n+3)/2,\dots
+          ,n\right\},}</annotation> </semantics> :MATH]
+          {\displaystyle \left\{\omega _{1},-\omega _{1},\dots ,\omega
+          _{(n-1)/2},-\omega _{n-1)/2}\right\}=\left\{1,\dots
+          ,(n-1)/2,(n+3)/2,\dots ,n\right\},}
+
+   and each diagonal block acts upon a pair of entries of v which are not
+   both zero. So, for example, when n = 3, the matrix can be
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn>
+          </mtd> <mtd> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mn>0</mn>
+          </mtd> </mtr> <mtr> <mtd> <mn>1</mn> </mtd> <mtd> <mn>0</mn>
+          </mtd> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn>
+          </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mo>−</mo> <mn>1</mn>
+          </mtd> </mtr> </mtable> <mo>)</mo> </mrow> </mrow> <mo>.</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{pmatrix}0&-1&0\\1&0&0\\0&0&-1\\\end{pmatrix}}.}</annotat
+          ion> </semantics> :MATH]
+          {\displaystyle
+          {\begin{pmatrix}0&-1&0\\1&0&0\\0&0&-1\\\end{pmatrix}}.}
+
+   For the vector (1, 0, 1/√2), the resulting simplex has vertices
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>1</mn>
+          </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> </mtr> <mtr> <mtd>
+          <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mo
+          stretchy="false">√</mo> <mn>2</mn> </mtd> </mtr> </mtable>
+          <mo>)</mo> </mrow> </mrow> <mo>,</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn>
+          </mtd> </mtr> <mtr> <mtd> <mn>1</mn> </mtd> </mtr> <mtr> <mtd>
+          <mo>−</mo> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mo stretchy="false">√</mo> <mn>2</mn> </mtd> </mtr>
+          </mtable> <mo>)</mo> </mrow> </mrow> <mo>,</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mo>−</mo>
+          <mn>1</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> </mtr>
+          <mtr> <mtd> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mo stretchy="false">√</mo> <mn>2</mn> </mtd> </mtr>
+          </mtable> <mo>)</mo> </mrow> </mrow> <mo>,</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>0</mn>
+          </mtd> </mtr> <mtr> <mtd> <mo>−</mo> <mn>1</mn> </mtd> </mtr>
+          <mtr> <mtd> <mo>−</mo> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo> </mrow> <mo stretchy="false">√</mo> <mn>2</mn> </mtd>
+          </mtr> </mtable> <mo>)</mo> </mrow> </mrow> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\begin{pmatrix}1\\0\\1/\surd
+          2\end{pmatrix}},{\begin{pmatrix}0\\1\\-1/\surd
+          2\end{pmatrix}},{\begin{pmatrix}-1\\0\\1/\surd
+          2\end{pmatrix}},{\begin{pmatrix}0\\-1\\-1/\surd
+          2\end{pmatrix}},}</annotation> </semantics> :MATH]
+          {\displaystyle {\begin{pmatrix}1\\0\\1/\surd
+          2\end{pmatrix}},{\begin{pmatrix}0\\1\\-1/\surd
+          2\end{pmatrix}},{\begin{pmatrix}-1\\0\\1/\surd
+          2\end{pmatrix}},{\begin{pmatrix}0\\-1\\-1/\surd
+          2\end{pmatrix}},}
+
+   each of which has distance 2 from the others.
+
+Geometric properties
+
+   [[278]edit]
+
+Volume
+
+   [[279]edit]
+
+   The [280]volume of an n-simplex in n-dimensional space with vertices
+   (v[0], ..., v[n]) is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">V</mi> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">l</mi> <mi
+          mathvariant="normal">u</mi> <mi mathvariant="normal">m</mi> <mi
+          mathvariant="normal">e</mi> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow> <mi>n</mi>
+          <mo>!</mo> </mrow> </mfrac> </mrow> <mrow> <mo>|</mo> <mrow> <mo
+          movablelimits="true" form="prefix">det</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <msub>
+          <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mo>−</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mtd> <mtd
+          /> <mtd> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msub> <mo>−</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mtd> <mtd
+          /> <mtd> <mo>⋯</mo> </mtd> <mtd /> <mtd> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>−</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> </mtd> </mtr> </mtable> <mo>)</mo> </mrow>
+          </mrow> </mrow> <mo>|</mo> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \mathrm {Volume}
+          ={\frac {1}{n!}}\left|\det
+          {\begin{pmatrix}v_{1}-v_{0}&&v_{2}-v_{0}&&\cdots
+          &&v_{n}-v_{0}\end{pmatrix}}\right|}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \mathrm {Volume} ={\frac {1}{n!}}\left|\det
+          {\begin{pmatrix}v_{1}-v_{0}&&v_{2}-v_{0}&&\cdots
+          &&v_{n}-v_{0}\end{pmatrix}}\right|}
+
+   where each column of the n × n [281]determinant is a [282]vector that
+   points from vertex v[0] to another vertex v[k].^[283][10] This formula
+   is particularly useful when
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>v</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   v_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle v_{0}} is the origin.
+
+   The expression
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">V</mi> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">l</mi> <mi
+          mathvariant="normal">u</mi> <mi mathvariant="normal">m</mi> <mi
+          mathvariant="normal">e</mi> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow> <mi>n</mi>
+          <mo>!</mo> </mrow> </mfrac> </mrow> <mo movablelimits="true"
+          form="prefix">det</mo> <msup> <mrow> <mo>[</mo> <mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <msubsup>
+          <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mtext>T</mtext> </mrow>
+          </msubsup> <mo>−</mo> <msubsup> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext>T</mtext> </mrow> </msubsup>
+          </mtd> </mtr> <mtr> <mtd> <msubsup> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext>T</mtext> </mrow> </msubsup>
+          <mo>−</mo> <msubsup> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>0</mn> </mrow> <mrow class="MJX-TeXAtom-ORD">
+          <mtext>T</mtext> </mrow> </msubsup> </mtd> </mtr> <mtr> <mtd>
+          <mo>⋮</mo> </mtd> </mtr> <mtr> <mtd> <msubsup> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext>T</mtext> </mrow> </msubsup>
+          <mo>−</mo> <msubsup> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>0</mn> </mrow> <mrow class="MJX-TeXAtom-ORD">
+          <mtext>T</mtext> </mrow> </msubsup> </mtd> </mtr> </mtable>
+          <mo>)</mo> </mrow> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mrow>
+          <mo>(</mo> <mtable rowspacing="4pt" columnspacing="1em"> <mtr>
+          <mtd> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn> </mrow> </msub> <mo>−</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mtd> <mtd>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msub> <mo>−</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mtd> <mtd>
+          <mo>⋯</mo> </mtd> <mtd> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>−</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> </mtd> </mtr> </mtable> <mo>)</mo> </mrow>
+          </mrow> </mrow> <mo>]</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> </mrow>
+          </msup> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \mathrm {Volume}
+          ={\frac {1}{n!}}\det
+          \left[{\begin{pmatrix}v_{1}^{\text{T}}-v_{0}^{\text{T}}\\v_{2}^{
+          \text{T}}-v_{0}^{\text{T}}\\\vdots
+          \\v_{n}^{\text{T}}-v_{0}^{\text{T}}\end{pmatrix}}{\begin{pmatrix
+          }v_{1}-v_{0}&v_{2}-v_{0}&\cdots
+          &v_{n}-v_{0}\end{pmatrix}}\right]^{1/2}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \mathrm {Volume} ={\frac {1}{n!}}\det
+          \left[{\begin{pmatrix}v_{1}^{\text{T}}-v_{0}^{\text{T}}\\v_{2}^{
+          \text{T}}-v_{0}^{\text{T}}\\\vdots
+          \\v_{n}^{\text{T}}-v_{0}^{\text{T}}\end{pmatrix}}{\begin{pmatrix
+          }v_{1}-v_{0}&v_{2}-v_{0}&\cdots
+          &v_{n}-v_{0}\end{pmatrix}}\right]^{1/2}}
+
+   employs a [284]Gram determinant and works even when the n-simplex's
+   vertices are in a Euclidean space with more than n dimensions, e.g., a
+   triangle in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbf {R}
+   ^{3}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {R} ^{3}} .
+
+   A more symmetric way to compute the volume of an n-simplex in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbf {R}
+   ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {R} ^{n}} is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">V</mi> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">l</mi> <mi
+          mathvariant="normal">u</mi> <mi mathvariant="normal">m</mi> <mi
+          mathvariant="normal">e</mi> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow> <mi>n</mi>
+          <mo>!</mo> </mrow> </mfrac> </mrow> <mrow> <mo>|</mo> <mrow> <mo
+          movablelimits="true" form="prefix">det</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <msub>
+          <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+          </msub> </mtd> <mtd> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> </mtd> <mtd>
+          <mo>⋯</mo> </mtd> <mtd> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mtd>
+          </mtr> <mtr> <mtd> <mn>1</mn> </mtd> <mtd> <mn>1</mn> </mtd>
+          <mtd> <mo>⋯</mo> </mtd> <mtd> <mn>1</mn> </mtd> </mtr> </mtable>
+          <mo>)</mo> </mrow> </mrow> </mrow> <mo>|</mo> </mrow> <mo>.</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \mathrm {Volume} ={1
+          \over n!}\left|\det {\begin{pmatrix}v_{0}&v_{1}&\cdots
+          &v_{n}\\1&1&\cdots &1\end{pmatrix}}\right|.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \mathrm {Volume} ={1 \over n!}\left|\det
+          {\begin{pmatrix}v_{0}&v_{1}&\cdots &v_{n}\\1&1&\cdots
+          &1\end{pmatrix}}\right|.}
+
+   Another common way of computing the volume of the simplex is via the
+   [285]Cayley–Menger determinant, which works even when the n-simplex's
+   vertices are in a Euclidean space with more than n
+   dimensions.^[286][11]
+
+   Without the 1/n! it is the formula for the volume of an
+   n-[287]parallelotope. This can be understood as follows: Assume that P
+   is an n-parallelotope constructed on a basis
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo> <msub>
+   <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   <mo>,</mo> <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+   </mrow> </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi>e</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle (v_{0},e_{1},\ldots
+   ,e_{n})}</annotation> </semantics> :MATH]
+   {\displaystyle (v_{0},e_{1},\ldots ,e_{n})} of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbf {R}
+   ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {R} ^{n}} . Given a [288]permutation
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>σ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \sigma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \sigma } of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">{</mo> <mn>1</mn> <mo>,</mo> <mn>2</mn> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <mi>n</mi> <mo fence="false"
+   stretchy="false">}</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \{1,2,\ldots
+   ,n\}}</annotation> </semantics> :MATH]
+   {\displaystyle \{1,2,\ldots ,n\}} , call a list of vertices
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>v</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>,</mo>
+   <mtext> </mtext> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>1</mn> </mrow> </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub>
+   <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle v_{0},\ v_{1},\ldots
+   ,v_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle v_{0},\ v_{1},\ldots ,v_{n}} a n-path if
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>=</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> <mo>+</mo> <msub> <mi>e</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mo stretchy="false">(</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> </mrow> </msub>
+          <mo>,</mo> <mtext> </mtext> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>=</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>+</mo> <msub> <mi>e</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mo stretchy="false">(</mo>
+          <mn>2</mn> <mo stretchy="false">)</mo> </mrow> </msub>
+          <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          <mo>−</mo> <mn>1</mn> </mrow> </msub> <mo>+</mo> <msub>
+          <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+          </mrow> </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          v_{1}=v_{0}+e_{\sigma (1)},\ v_{2}=v_{1}+e_{\sigma (2)},\ldots
+          ,v_{n}=v_{n-1}+e_{\sigma (n)}}</annotation> </semantics> :MATH]
+          {\displaystyle v_{1}=v_{0}+e_{\sigma (1)},\
+          v_{2}=v_{1}+e_{\sigma (2)},\ldots ,v_{n}=v_{n-1}+e_{\sigma (n)}}
+
+   (so there are n! n-paths and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>v</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   v_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle v_{n}} does not depend on the permutation). The
+   following assertions hold:
+
+   If P is the unit n-hypercube, then the union of the n-simplexes formed
+   by the convex hull of each n-path is P, and these simplexes are
+   congruent and pairwise non-overlapping.^[289][12] In particular, the
+   volume of such a simplex is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>Vol</mi> <mo>⁡</mo>
+          <mo stretchy="false">(</mo> <mi>P</mi> <mo
+          stretchy="false">)</mo> </mrow> <mrow> <mi>n</mi> <mo>!</mo>
+          </mrow> </mfrac> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow> <mi>n</mi>
+          <mo>!</mo> </mrow> </mfrac> </mrow> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\frac
+          {\operatorname {Vol} (P)}{n!}}={\frac {1}{n!}}.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\frac {\operatorname {Vol} (P)}{n!}}={\frac
+          {1}{n!}}.}
+
+   If P is a general parallelotope, the same assertions hold except that
+   it is no longer true, in dimension > 2, that the simplexes need to be
+   pairwise congruent; yet their volumes remain equal, because the
+   n-parallelotope is the image of the unit n-hypercube by the [290]linear
+   isomorphism that sends the canonical basis of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbf {R}
+   ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {R} ^{n}} to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>e</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle e_{1},\ldots
+   ,e_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle e_{1},\ldots ,e_{n}} . As previously, this implies that
+   the volume of a simplex coming from a n-path is:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>Vol</mi> <mo>⁡</mo>
+          <mo stretchy="false">(</mo> <mi>P</mi> <mo
+          stretchy="false">)</mo> </mrow> <mrow> <mi>n</mi> <mo>!</mo>
+          </mrow> </mfrac> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mo movablelimits="true"
+          form="prefix">det</mo> <mo stretchy="false">(</mo> <msub>
+          <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi>e</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> </mrow> <mrow> <mi>n</mi> <mo>!</mo>
+          </mrow> </mfrac> </mrow> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\frac
+          {\operatorname {Vol} (P)}{n!}}={\frac {\det(e_{1},\ldots
+          ,e_{n})}{n!}}.}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {\operatorname {Vol} (P)}{n!}}={\frac
+          {\det(e_{1},\ldots ,e_{n})}{n!}}.}
+
+   Conversely, given an n-simplex
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo> <msub>
+   <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   <mo>,</mo> <mtext> </mtext> <msub> <mi>v</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+   <mtext> </mtext> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>2</mn> </mrow> </msub> <mo>,</mo> <mo>…</mo> <msub> <mi>v</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle (v_{0},\ v_{1},\
+   v_{2},\ldots v_{n})}</annotation> </semantics> :MATH]
+   {\displaystyle (v_{0},\ v_{1},\ v_{2},\ldots v_{n})} of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbf {R}
+   ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {R} ^{n}} , it can be supposed that the vectors
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>e</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>=</mo> <msub>
+   <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo>−</mo> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> <mo>,</mo> <mtext> </mtext> <msub> <mi>e</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>=</mo> <msub>
+   <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+   <mo>−</mo> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+   </mrow> </msub> <mo>,</mo> <mo>…</mo> <msub> <mi>e</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo> <msub>
+   <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+   <mo>−</mo> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   <mo>−</mo> <mn>1</mn> </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle e_{1}=v_{1}-v_{0},\
+   e_{2}=v_{2}-v_{1},\ldots e_{n}=v_{n}-v_{n-1}}</annotation> </semantics>
+   :MATH]
+   {\displaystyle e_{1}=v_{1}-v_{0},\ e_{2}=v_{2}-v_{1},\ldots
+   e_{n}=v_{n}-v_{n-1}} form a basis of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbf {R}
+   ^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {R} ^{n}} . Considering the parallelotope
+   constructed from
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>v</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   v_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle v_{0}} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>e</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle e_{1},\ldots
+   ,e_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle e_{1},\ldots ,e_{n}} , one sees that the previous
+   formula is valid for every simplex.
+
+   Finally, the formula at the beginning of this section is obtained by
+   observing that
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo movablelimits="true"
+          form="prefix">det</mo> <mo stretchy="false">(</mo> <msub>
+          <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mo>−</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>,</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msub> <mo>−</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>−</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> <mo stretchy="false">)</mo> <mo>=</mo> <mo
+          movablelimits="true" form="prefix">det</mo> <mo
+          stretchy="false">(</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>−</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> <mo>,</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>−</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub>
+          <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msub> <mo>−</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn>
+          </mrow> </msub> <mo stretchy="false">)</mo> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \det(v_{1}-v_{0},v_{2}-v_{0},\ldots
+          ,v_{n}-v_{0})=\det(v_{1}-v_{0},v_{2}-v_{1},\ldots
+          ,v_{n}-v_{n-1}).}</annotation> </semantics> :MATH]
+          {\displaystyle \det(v_{1}-v_{0},v_{2}-v_{0},\ldots
+          ,v_{n}-v_{0})=\det(v_{1}-v_{0},v_{2}-v_{1},\ldots
+          ,v_{n}-v_{n-1}).}
+
+   From this formula, it follows immediately that the volume under a
+   standard n-simplex (i.e. between the origin and the simplex in R^n+1)
+   is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo>!</mo> </mrow> </mfrac> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {1 \over
+          (n+1)!}}</annotation> </semantics> :MATH]
+          {\displaystyle {1 \over (n+1)!}}
+
+   The volume of a regular n-simplex with unit side length is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mi>n</mi> <mo>+</mo>
+          <mn>1</mn> </msqrt> <mrow> <mi>n</mi> <mo>!</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <msup> <mn>2</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </msqrt>
+          </mrow> </mrow> </mfrac> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac {\sqrt
+          {n+1}}{n!{\sqrt {2^{n}}}}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {\sqrt {n+1}}{n!{\sqrt {2^{n}}}}}}
+
+   as can be seen by multiplying the previous formula by x^n+1, to get the
+   volume under the n-simplex as a function of its vertex distance x from
+   the origin, differentiating with respect to x, at
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo> <mn>1</mn>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   x=1/{\sqrt {2}}}</annotation> </semantics> :MATH]
+   {\displaystyle x=1/{\sqrt {2}}}   (where the n-simplex side length is
+   1), and normalizing by the length
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>d</mi> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>n</mi> <mo>+</mo> <mn>1</mn>
+   </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle dx/{\sqrt
+   {n+1}}}</annotation> </semantics> :MATH]
+   {\displaystyle dx/{\sqrt {n+1}}} of the increment,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mi>d</mi> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mo stretchy="false">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo
+   stretchy="false">)</mo> <mo>,</mo> <mo>…</mo> <mo>,</mo> <mi>d</mi>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mo
+   stretchy="false">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo
+   stretchy="false">)</mo> <mo stretchy="false">)</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   (dx/(n+1),\ldots ,dx/(n+1))}</annotation> </semantics> :MATH]
+   {\displaystyle (dx/(n+1),\ldots ,dx/(n+1))} , along the normal vector.
+
+Dihedral angles of the regular n-simplex
+
+   [[291]edit]
+
+   Any two (n − 1)-dimensional faces of a regular n-dimensional simplex
+   are themselves regular (n − 1)-dimensional simplices, and they have the
+   same [292]dihedral angle of cos^−1(1/n).^[293][13]^[294][14]
+
+   This can be seen by noting that the center of the standard simplex is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow> <mi>n</mi>
+   <mo>+</mo> <mn>1</mn> </mrow> </mfrac> </mrow> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow>
+   <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </mrow>
+   <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\textstyle \left({\frac {1}{n+1}},\dots
+   ,{\frac {1}{n+1}}\right)}</annotation> </semantics> :MATH]
+   {\textstyle \left({\frac {1}{n+1}},\dots ,{\frac {1}{n+1}}\right)} ,
+   and the centers of its faces are coordinate permutations of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+   <mn>0</mn> <mo>,</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+   <mi>n</mi> </mfrac> </mrow> <mo>,</mo> <mo>…</mo> <mo>,</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow>
+   </mrow> <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\textstyle \left(0,{\frac {1}{n}},\dots
+   ,{\frac {1}{n}}\right)}</annotation> </semantics> :MATH]
+   {\textstyle \left(0,{\frac {1}{n}},\dots ,{\frac {1}{n}}\right)} .
+   Then, by symmetry, the vector pointing from
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow> <mi>n</mi>
+   <mo>+</mo> <mn>1</mn> </mrow> </mfrac> </mrow> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow>
+   <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </mrow>
+   <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\textstyle \left({\frac {1}{n+1}},\dots
+   ,{\frac {1}{n+1}}\right)}</annotation> </semantics> :MATH]
+   {\textstyle \left({\frac {1}{n+1}},\dots ,{\frac {1}{n+1}}\right)} to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+   <mn>0</mn> <mo>,</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+   <mi>n</mi> </mfrac> </mrow> <mo>,</mo> <mo>…</mo> <mo>,</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow>
+   </mrow> <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\textstyle \left(0,{\frac {1}{n}},\dots
+   ,{\frac {1}{n}}\right)}</annotation> </semantics> :MATH]
+   {\textstyle \left(0,{\frac {1}{n}},\dots ,{\frac {1}{n}}\right)} is
+   perpendicular to the faces. So the vectors normal to the faces are
+   permutations of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mo>−</mo> <mi>n</mi> <mo>,</mo> <mn>1</mn> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <mn>1</mn> <mo stretchy="false">)</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle (-n,1,\dots
+   ,1)}</annotation> </semantics> :MATH]
+   {\displaystyle (-n,1,\dots ,1)} , from which the dihedral angles are
+   calculated.
+
+Simplices with an "orthogonal corner"
+
+   [[295]edit]
+
+   An "orthogonal corner" means here that there is a vertex at which all
+   adjacent edges are pairwise orthogonal. It immediately follows that all
+   adjacent [296]faces are pairwise orthogonal. Such simplices are
+   generalizations of right triangles and for them there exists an
+   n-dimensional version of the [297]Pythagorean theorem: The sum of the
+   squared (n − 1)-dimensional volumes of the facets adjacent to the
+   orthogonal corner equals the squared (n − 1)-dimensional volume of the
+   facet opposite of the orthogonal corner.
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <munderover> <mo>∑</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>=</mo> <mn>1</mn>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </munderover> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <msub> <mi>A</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <msub> <mi>A</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \sum
+          _{k=1}^{n}|A_{k}|^{2}=|A_{0}|^{2}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \sum _{k=1}^{n}|A_{k}|^{2}=|A_{0}|^{2}}
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>A</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>…</mo> <msub>
+   <mi>A</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle A_{1}\ldots
+   A_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle A_{1}\ldots A_{n}} are facets being pairwise orthogonal
+   to each other but not orthogonal to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>A</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   A_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle A_{0}} , which is the facet opposite the orthogonal
+   corner.^[298][15]
+
+   For a 2-simplex, the theorem is the [299]Pythagorean theorem for
+   triangles with a right angle and for a 3-simplex it is [300]de Gua's
+   theorem for a tetrahedron with an orthogonal corner.
+
+Relation to the (n + 1)-hypercube
+
+   [[301]edit]
+
+   The [302]Hasse diagram of the face lattice of an n-simplex is
+   isomorphic to the graph of the (n + 1)-[303]hypercube's edges, with the
+   hypercube's vertices mapping to each of the n-simplex's elements,
+   including the entire simplex and the null polytope as the extreme
+   points of the lattice (mapped to two opposite vertices on the
+   hypercube). This fact may be used to efficiently enumerate the
+   simplex's face lattice, since more general face lattice enumeration
+   algorithms are more computationally expensive.
+
+   The n-simplex is also the [304]vertex figure of the (n + 1)-hypercube.
+   It is also the [305]facet of the (n + 1)-[306]orthoplex.
+
+Topology
+
+   [[307]edit]
+
+   [308]Topologically, an n-simplex is [309]equivalent to an [310]n-ball.
+   Every n-simplex is an n-dimensional [311]manifold with corners.
+
+Probability
+
+   [[312]edit]
+   Main article: [313]Categorical distribution
+
+   In probability theory, the points of the standard n-simplex in (n +
+   1)-space form the space of possible probability distributions on a
+   finite set consisting of n + 1 possible outcomes. The correspondence is
+   as follows: For each distribution described as an ordered (n + 1)-tuple
+   of probabilities whose sum is (necessarily) 1, we associate the point
+   of the simplex whose [314]barycentric coordinates are precisely those
+   probabilities. That is, the kth vertex of the simplex is assigned to
+   have the kth probability of the (n + 1)-tuple as its barycentric
+   coefficient. This correspondence is an affine homeomorphism.
+
+Aitchison geometry
+
+   [[315]edit]
+   Main article: [316]Aitchison geometry
+
+   Aitchinson geometry is a natural way to construct an [317]inner product
+   space from the standard simplex
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi
+   mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>D</mi>
+   <mo>−</mo> <mn>1</mn> </mrow> </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Delta ^{D-1}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Delta ^{D-1}} . It defines the following operations on
+   simplices and real numbers:
+
+   Perturbation (addition)
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>⊕</mo>
+                <mi>y</mi> <mo>=</mo> <mrow> <mo>[</mo> <mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msub> <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <msub> <mi>y</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mn>1</mn> </mrow> </msub> </mrow> <mrow> <munderover>
+                <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+                <mo>=</mo> <mn>1</mn> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>D</mi> </mrow> </munderover>
+                <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi> </mrow> </msub> <msub> <mi>y</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+                </mrow> </mfrac> </mrow> <mo>,</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msub> <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+                <msub> <mi>y</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn> </mrow> </msub> </mrow> <mrow> <munderover>
+                <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+                <mo>=</mo> <mn>1</mn> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>D</mi> </mrow> </munderover>
+                <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi> </mrow> </msub> <msub> <mi>y</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+                </mrow> </mfrac> </mrow> <mo>,</mo> <mo>…</mo> <mo>,</mo>
+                <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msub>
+                <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>D</mi>
+                </mrow> </msub> <msub> <mi>y</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>D</mi> </mrow> </msub>
+                </mrow> <mrow> <munderover> <mo>∑</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>=</mo> <mn>1</mn>
+                </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>D</mi> </mrow>
+                </munderover> <msub> <mi>x</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <msub>
+                <mi>y</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+                </mrow> </msub> </mrow> </mfrac> </mrow> </mrow>
+                <mo>]</mo> </mrow> <mspace width="2em" /> <mi
+                mathvariant="normal">∀</mi> <mi>x</mi> <mo>,</mo>
+                <mi>y</mi> <mo>∈</mo> <msup> <mi
+                mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mi>D</mi> <mo>−</mo> <mn>1</mn> </mrow> </msup> </mstyle>
+                </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle x\oplus
+                y=\left[{\frac {x_{1}y_{1}}{\sum
+                _{i=1}^{D}x_{i}y_{i}}},{\frac {x_{2}y_{2}}{\sum
+                _{i=1}^{D}x_{i}y_{i}}},\dots ,{\frac {x_{D}y_{D}}{\sum
+                _{i=1}^{D}x_{i}y_{i}}}\right]\qquad \forall x,y\in \Delta
+                ^{D-1}}</annotation> </semantics> :MATH]
+                {\displaystyle x\oplus y=\left[{\frac {x_{1}y_{1}}{\sum
+                _{i=1}^{D}x_{i}y_{i}}},{\frac {x_{2}y_{2}}{\sum
+                _{i=1}^{D}x_{i}y_{i}}},\dots ,{\frac {x_{D}y_{D}}{\sum
+                _{i=1}^{D}x_{i}y_{i}}}\right]\qquad \forall x,y\in \Delta
+                ^{D-1}}
+
+   Powering (scalar multiplication)
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mi>α</mi> <mo>⊙</mo>
+                <mi>x</mi> <mo>=</mo> <mrow> <mo>[</mo> <mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mfrac> <msubsup> <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>α</mi> </mrow> </msubsup>
+                <mrow> <munderover> <mo>∑</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>=</mo> <mn>1</mn>
+                </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>D</mi> </mrow>
+                </munderover> <msubsup> <mi>x</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>α</mi> </mrow> </msubsup>
+                </mrow> </mfrac> </mrow> <mo>,</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mfrac> <msubsup> <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>α</mi> </mrow> </msubsup>
+                <mrow> <munderover> <mo>∑</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>=</mo> <mn>1</mn>
+                </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>D</mi> </mrow>
+                </munderover> <msubsup> <mi>x</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>α</mi> </mrow> </msubsup>
+                </mrow> </mfrac> </mrow> <mo>,</mo> <mo>…</mo> <mo>,</mo>
+                <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msubsup>
+                <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>D</mi>
+                </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>α</mi> </mrow>
+                </msubsup> <mrow> <munderover> <mo>∑</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>=</mo> <mn>1</mn>
+                </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>D</mi> </mrow>
+                </munderover> <msubsup> <mi>x</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>α</mi> </mrow> </msubsup>
+                </mrow> </mfrac> </mrow> </mrow> <mo>]</mo> </mrow>
+                <mspace width="2em" /> <mi mathvariant="normal">∀</mi>
+                <mi>x</mi> <mo>∈</mo> <msup> <mi
+                mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mi>D</mi> <mo>−</mo> <mn>1</mn> </mrow> </msup>
+                <mo>,</mo> <mspace width="thickmathspace" /> <mi>α</mi>
+                <mo>∈</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+                mathvariant="double-struck">R</mi> </mrow> </mstyle>
+                </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \alpha \odot
+                x=\left[{\frac {x_{1}^{\alpha }}{\sum
+                _{i=1}^{D}x_{i}^{\alpha }}},{\frac {x_{2}^{\alpha }}{\sum
+                _{i=1}^{D}x_{i}^{\alpha }}},\ldots ,{\frac {x_{D}^{\alpha
+                }}{\sum _{i=1}^{D}x_{i}^{\alpha }}}\right]\qquad \forall
+                x\in \Delta ^{D-1},\;\alpha \in \mathbb {R} }</annotation>
+                </semantics> :MATH]
+                {\displaystyle \alpha \odot x=\left[{\frac {x_{1}^{\alpha
+                }}{\sum _{i=1}^{D}x_{i}^{\alpha }}},{\frac {x_{2}^{\alpha
+                }}{\sum _{i=1}^{D}x_{i}^{\alpha }}},\ldots ,{\frac
+                {x_{D}^{\alpha }}{\sum _{i=1}^{D}x_{i}^{\alpha
+                }}}\right]\qquad \forall x\in \Delta ^{D-1},\;\alpha \in
+                \mathbb {R} }
+
+   Inner product
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mo fence="false"
+                stretchy="false">⟨</mo> <mi>x</mi> <mo>,</mo> <mi>y</mi>
+                <mo fence="false" stretchy="false">⟩</mo> <mo>=</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow>
+                <mn>2</mn> <mi>D</mi> </mrow> </mfrac> </mrow>
+                <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>D</mi> </mrow> </munderover>
+                <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+                <mi>j</mi> <mo>=</mo> <mn>1</mn> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>D</mi> </mrow> </munderover>
+                <mi>log</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD">
+                <mfrac> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi> </mrow> </msub> <msub> <mi>x</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub>
+                </mfrac> </mrow> <mi>log</mi> <mo>⁡</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mfrac> <msub> <mi>y</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <msub>
+                <mi>y</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi>
+                </mrow> </msub> </mfrac> </mrow> <mspace width="2em" />
+                <mi mathvariant="normal">∀</mi> <mi>x</mi> <mo>,</mo>
+                <mi>y</mi> <mo>∈</mo> <msup> <mi
+                mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mi>D</mi> <mo>−</mo> <mn>1</mn> </mrow> </msup> </mstyle>
+                </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \langle
+                x,y\rangle ={\frac {1}{2D}}\sum _{i=1}^{D}\sum
+                _{j=1}^{D}\log {\frac {x_{i}}{x_{j}}}\log {\frac
+                {y_{i}}{y_{j}}}\qquad \forall x,y\in \Delta
+                ^{D-1}}</annotation> </semantics> :MATH]
+                {\displaystyle \langle x,y\rangle ={\frac {1}{2D}}\sum
+                _{i=1}^{D}\sum _{j=1}^{D}\log {\frac {x_{i}}{x_{j}}}\log
+                {\frac {y_{i}}{y_{j}}}\qquad \forall x,y\in \Delta ^{D-1}}
+
+Compounds
+
+   [[318]edit]
+
+   Since all simplices are self-dual, they can form a series of compounds;
+     * Two triangles form a [319]hexagram {6/2}.
+     * Two tetrahedra form a [320]compound of two tetrahedra or
+       [321]stella octangula.
+     * Two 5-cells form a [322]compound of two 5-cells in four dimensions.
+
+Algebraic topology
+
+   [[323]edit]
+
+   In [324]algebraic topology, simplices are used as building blocks to
+   construct an interesting class of [325]topological spaces called
+   [326]simplicial complexes. These spaces are built from simplices glued
+   together in a [327]combinatorial fashion. Simplicial complexes are used
+   to define a certain kind of [328]homology called [329]simplicial
+   homology.
+
+   A finite set of k-simplexes embedded in an [330]open subset of R^n is
+   called an affine k-[331]chain. The simplexes in a chain need not be
+   unique; they may occur with [332]multiplicity. Rather than using
+   standard set notation to denote an affine chain, it is instead the
+   standard practice to use plus signs to separate each member in the set.
+   If some of the simplexes have the opposite [333]orientation, these are
+   prefixed by a minus sign. If some of the simplexes occur in the set
+   more than once, these are prefixed with an integer count. Thus, an
+   affine chain takes the symbolic form of a sum with integer
+   coefficients.
+
+   Note that each facet of an n-simplex is an affine (n − 1)-simplex, and
+   thus the [334]boundary of an n-simplex is an affine (n − 1)-chain.
+   Thus, if we denote one positively oriented affine simplex as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>σ</mi> <mo>=</mo> <mo
+          stretchy="false">[</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>,</mo>
+          <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </msub> <mo>,</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">]</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \sigma
+          =[v_{0},v_{1},v_{2},\ldots ,v_{n}]}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \sigma =[v_{0},v_{1},v_{2},\ldots ,v_{n}]}
+
+   with the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>v</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   v_{j}}</annotation> </semantics> :MATH]
+   {\displaystyle v_{j}} denoting the vertices, then the boundary
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∂</mi>
+   <mi>σ</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \partial \sigma
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \partial \sigma } of σ is the chain
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∂</mi> <mi>σ</mi> <mo>=</mo> <munderover>
+          <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>=</mo>
+          <mn>0</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          </mrow> </munderover> <mo stretchy="false">(</mo> <mo>−</mo>
+          <mn>1</mn> <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msup> <mo
+          stretchy="false">[</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>−</mo> <mn>1</mn>
+          </mrow> </msub> <mo>,</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>+</mo> <mn>1</mn>
+          </mrow> </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub>
+          <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msub> <mo stretchy="false">]</mo> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \partial
+          \sigma =\sum _{j=0}^{n}(-1)^{j}[v_{0},\ldots
+          ,v_{j-1},v_{j+1},\ldots ,v_{n}].}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \partial \sigma =\sum
+          _{j=0}^{n}(-1)^{j}[v_{0},\ldots ,v_{j-1},v_{j+1},\ldots
+          ,v_{n}].}
+
+   It follows from this expression, and the linearity of the boundary
+   operator, that the boundary of the boundary of a simplex is zero:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi
+          mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mi>σ</mi> <mo>=</mo> <mi
+          mathvariant="normal">∂</mi> <mrow> <mo>(</mo> <mrow>
+          <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>j</mi> <mo>=</mo> <mn>0</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </munderover> <mo
+          stretchy="false">(</mo> <mo>−</mo> <mn>1</mn> <msup> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>j</mi> </mrow> </msup> <mo stretchy="false">[</mo> <msub>
+          <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+          </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>−</mo> <mn>1</mn>
+          </mrow> </msub> <mo>,</mo> <msub> <mi>v</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>+</mo> <mn>1</mn>
+          </mrow> </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub>
+          <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msub> <mo stretchy="false">]</mo> </mrow> <mo>)</mo> </mrow>
+          <mo>=</mo> <mn>0.</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \partial ^{2}\sigma
+          =\partial \left(\sum _{j=0}^{n}(-1)^{j}[v_{0},\ldots
+          ,v_{j-1},v_{j+1},\ldots ,v_{n}]\right)=0.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \partial ^{2}\sigma =\partial \left(\sum
+          _{j=0}^{n}(-1)^{j}[v_{0},\ldots ,v_{j-1},v_{j+1},\ldots
+          ,v_{n}]\right)=0.}
+
+   Likewise, the boundary of the boundary of a chain is zero:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mi>ρ</mi> <mo>=</mo> <mn>0</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \partial
+   ^{2}\rho =0}</annotation> </semantics> :MATH]
+   {\displaystyle \partial ^{2}\rho =0} .
+
+   More generally, a simplex (and a chain) can be embedded into a
+   [335]manifold by means of smooth, differentiable map
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo>:</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">R</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo
+   stretchy="false">→</mo> <mi>M</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle f:\mathbf {R} ^{n}\to
+   M}</annotation> </semantics> :MATH]
+   {\displaystyle f:\mathbf {R} ^{n}\to M} . In this case, both the
+   summation convention for denoting the set, and the boundary operation
+   commute with the [336]embedding. That is,
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>f</mi> <mrow>
+          <mo>(</mo> <mrow> <msub> <mo movablelimits="false">∑</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <msub>
+          <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow>
+          </msub> <msub> <mi>σ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> </mrow> </msub> </mrow> <mo>)</mo> </mrow> <mo>=</mo>
+          <msub> <mo movablelimits="false">∑</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <msub>
+          <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow>
+          </msub> <mi>f</mi> <mo stretchy="false">(</mo> <msub> <mi>σ</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle f\left(\sum
+          \nolimits _{i}a_{i}\sigma _{i}\right)=\sum \nolimits
+          _{i}a_{i}f(\sigma _{i})}</annotation> </semantics> :MATH]
+          {\displaystyle f\left(\sum \nolimits _{i}a_{i}\sigma
+          _{i}\right)=\sum \nolimits _{i}a_{i}f(\sigma _{i})}
+
+   where the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   a_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle a_{i}} are the integers denoting orientation and
+   multiplicity. For the boundary operator
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∂</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \partial }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \partial } , one has:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∂</mi> <mi>f</mi> <mo
+          stretchy="false">(</mo> <mi>ρ</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <mi>f</mi> <mo stretchy="false">(</mo> <mi
+          mathvariant="normal">∂</mi> <mi>ρ</mi> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \partial f(\rho
+          )=f(\partial \rho )}</annotation> </semantics> :MATH]
+          {\displaystyle \partial f(\rho )=f(\partial \rho )}
+
+   where ρ is a chain. The boundary operation commutes with the mapping
+   because, in the end, the chain is defined as a set and little more, and
+   the set operation always commutes with the [337]map operation (by
+   definition of a map).
+
+   A [338]continuous map
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo>:</mo> <mi>σ</mi>
+   <mo stretchy="false">→</mo> <mi>X</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle f:\sigma \to
+   X}</annotation> </semantics> :MATH]
+   {\displaystyle f:\sigma \to X} to a [339]topological space X is
+   frequently referred to as a singular n-simplex. (A map is generally
+   called "singular" if it fails to have some desirable property such as
+   continuity and, in this case, the term is meant to reflect to the fact
+   that the continuous map need not be an embedding.)^[340][16]
+
+Algebraic geometry
+
+   [[341]edit]
+
+   Since classical [342]algebraic geometry allows one to talk about
+   polynomial equations but not inequalities, the algebraic standard
+   n-simplex is commonly defined as the subset of affine (n +
+   1)-dimensional space, where all coordinates sum up to 1 (thus leaving
+   out the inequality part). The algebraic description of this set is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi
+   mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </msup> <mo>:=</mo> <mrow> <mo>{</mo> <mrow> <mi>x</mi>
+   <mo>∈</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">A</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </msup> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mo maxsize="2.470em" minsize="2.470em">|</mo>
+   </mrow> </mrow> <mtext> </mtext> <munderover> <mo>∑</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </munderover> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>i</mi> </mrow> </msub> <mo>=</mo> <mn>1</mn> </mrow> <mo>}</mo>
+   </mrow> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Delta ^{n}:=\left\{x\in
+   \mathbb {A} ^{n+1}~{\Bigg |}~\sum
+   _{i=1}^{n+1}x_{i}=1\right\},}</annotation> </semantics> :MATH]
+   {\displaystyle \Delta ^{n}:=\left\{x\in \mathbb {A} ^{n+1}~{\Bigg
+   |}~\sum _{i=1}^{n+1}x_{i}=1\right\},} which equals the
+   [343]scheme-theoretic description
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi
+   mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </msub> <mo stretchy="false">(</mo> <mi>R</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mi>Spec</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mi>R</mi> <mo stretchy="false">[</mo> <msup>
+   <mi mathvariant="normal">Δ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </msup> <mo stretchy="false">]</mo> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Delta
+   _{n}(R)=\operatorname {Spec} (R[\Delta ^{n}])}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Delta _{n}(R)=\operatorname {Spec} (R[\Delta ^{n}])}
+   with
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>R</mi> <mo
+   stretchy="false">[</mo> <msup> <mi mathvariant="normal">Δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo
+   stretchy="false">]</mo> <mo>:=</mo> <mi>R</mi> <mo
+   stretchy="false">[</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </msub> <mo
+   stretchy="false">]</mo> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true">/</mo> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>−</mo>
+   <mo>∑</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+   </mrow> </msub> </mrow> <mo>)</mo> </mrow> <mo fence="true"
+   stretchy="true" symmetric="true"></mo> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle R[\Delta
+   ^{n}]:=R[x_{1},\ldots ,x_{n+1}]\left/\left(1-\sum
+   x_{i}\right)\right.}</annotation> </semantics> :MATH]
+   {\displaystyle R[\Delta ^{n}]:=R[x_{1},\ldots
+   ,x_{n+1}]\left/\left(1-\sum x_{i}\right)\right.} the ring of regular
+   functions on the algebraic n-simplex (for any [344]ring
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>R</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+   </semantics> :MATH]
+   {\displaystyle R} ).
+
+   By using the same definitions as for the classical n-simplex, the
+   n-simplices for different dimensions n assemble into one
+   [345]simplicial object, while the rings
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>R</mi> <mo
+   stretchy="false">[</mo> <msup> <mi mathvariant="normal">Δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo
+   stretchy="false">]</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle R[\Delta
+   ^{n}]}</annotation> </semantics> :MATH]
+   {\displaystyle R[\Delta ^{n}]} assemble into one cosimplicial object
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>R</mi> <mo
+   stretchy="false">[</mo> <msup> <mi mathvariant="normal">Δ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>∙</mo> </mrow> </msup> <mo
+   stretchy="false">]</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle R[\Delta ^{\bullet
+   }]}</annotation> </semantics> :MATH]
+   {\displaystyle R[\Delta ^{\bullet }]} (in the [346]category of schemes
+   resp. rings, since the face and degeneracy maps are all polynomial).
+
+   The algebraic n-simplices are used in higher [347]K-theory and in the
+   definition of higher [348]Chow groups.
+
+Applications
+
+   [[349]edit]
+     * In [350]statistics, simplices are sample spaces of
+       [351]compositional data and are also used in plotting quantities
+       that sum to 1, such as proportions of subpopulations, as in a
+       [352]ternary plot.
+     * In [353]probability theory, a simplex space is often used to
+       represent the space of probability distributions. The
+       [354]Dirichlet distribution, for instance, is defined on a simplex.
+     * In [355]industrial statistics, simplices arise in problem
+       formulation and in algorithmic solution. In the design of bread,
+       the producer must combine yeast, flour, water, sugar, etc. In such
+       [356]mixtures, only the relative proportions of ingredients
+       matters: For an optimal bread mixture, if the flour is doubled then
+       the yeast should be doubled. Such mixture problem are often
+       formulated with normalized constraints, so that the nonnegative
+       components sum to one, in which case the feasible region forms a
+       simplex. The quality of the bread mixtures can be estimated using
+       [357]response surface methodology, and then a local maximum can be
+       computed using a [358]nonlinear programming method, such as
+       [359]sequential quadratic programming.^[360][17]
+     * In [361]operations research, [362]linear programming problems can
+       be solved by the [363]simplex algorithm of [364]George Dantzig.
+     * In [365]game theory, strategies can be represented as points within
+       a simplex. This representation simplifies the analysis of mixed
+       strategies.
+     * In [366]geometric design and [367]computer graphics, many methods
+       first perform simplicial [368]triangulations of the domain and then
+       [369]fit interpolating [370]polynomials to each simplex.^[371][18]
+     * In [372]chemistry, the hydrides of most elements in the
+       [373]p-block can resemble a simplex if one is to connect each atom.
+       [374]Neon does not react with hydrogen and as such is [375]a point,
+       [376]fluorine bonds with one hydrogen atom and forms a line
+       segment, [377]oxygen bonds with two hydrogen atoms in a [378]bent
+       fashion resembling a triangle, [379]nitrogen reacts to form a
+       [380]tetrahedron, and [381]carbon forms [382]a structure resembling
+       a [383]Schlegel diagram of the 5-cell. This trend continues for the
+       heavier analogues of each element, as well as if the hydrogen atom
+       is replaced by a [384]halogen atom.
+     * In some approaches to [385]quantum gravity, such as [386]Regge
+       calculus and [387]causal dynamical triangulations, simplices are
+       used as building blocks of discretizations of spacetime; that is,
+       to build [388]simplicial manifolds.
+
+See also
+
+   [[389]edit]
+     * [390]3-sphere
+     * [391]Aitchison geometry
+     * [392]Causal dynamical triangulation
+     * [393]Complete graph
+     * [394]Delaunay triangulation
+     * [395]Distance geometry
+     * [396]Geometric primitive
+     * [397]Hill tetrahedron
+     * [398]Hypersimplex
+     * [399]List of regular polytopes
+     * [400]Metcalfe's law
+     * Other regular n-[401]polytopes
+          + [402]Cross-polytope
+          + [403]Hypercube
+          + [404]Tesseract
+     * [405]Polytope
+     * [406]Schläfli orthoscheme
+     * [407]Simplex algorithm – an optimization method with inequality
+       constraints
+     * [408]Simplicial complex
+     * [409]Simplicial homology
+     * [410]Simplicial set
+     * [411]Spectrahedron
+     * [412]Ternary plot
+
+Notes
+
+   [[413]edit]
+    1. [414]^ [415]Elte, E.L. (2006) [1912]. "IV. five dimensional
+       semiregular polytope". The Semiregular Polytopes of the
+       Hyperspaces. Simon & Schuster. [416]ISBN [417]978-1-4181-7968-7.
+    2. [418]^ [419]Boyd & Vandenberghe 2004
+    3. [420]^ Miller, Jeff, [421]"Simplex", Earliest Known Uses of Some of
+       the Words of Mathematics, retrieved 2018-01-08
+    4. [422]^ [423]Coxeter 1973, pp. 120–124, §7.2.
+    5. [424]^ [425]Coxeter 1973, p. 120.
+    6. [426]^ [427]Sloane, N. J. A. (ed.). [428]"Sequence A135278
+       (Pascal's triangle with its left-hand edge removed)". The
+       [429]On-Line Encyclopedia of Integer Sequences. OEIS Foundation.
+    7. [430]^ Kozlov, Dimitry, Combinatorial Algebraic Topology, 2008,
+       Springer-Verlag (Series: Algorithms and Computation in Mathematics)
+    8. [431]^ Yunmei Chen; Xiaojing Ye (2011). "Projection Onto A
+       Simplex". [432]arXiv:[433]1101.6081 [[434]math.OC].
+    9. [435]^ MacUlan, N.; De Paula, G. G. (1989). "A linear-time
+       median-finding algorithm for projecting a vector on the simplex of
+       n". Operations Research Letters. 8 (4): 219.
+       [436]doi:[437]10.1016/0167-6377(89)90064-3.
+   10. [438]^ A derivation of a very similar formula can be found in
+       Stein, P. (1966). "A Note on the Volume of a Simplex". American
+       Mathematical Monthly. 73 (3): 299–301.
+       [439]doi:[440]10.2307/2315353. [441]JSTOR [442]2315353.
+   11. [443]^ Colins, Karen D. [444]"Cayley-Menger Determinant".
+       [445]MathWorld.
+   12. [446]^ Every n-path corresponding to a permutation
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <mi>σ</mi> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle \sigma
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle \sigma } is the image of the n-path
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>0</mn> </mrow> </msub> <mo>,</mo> <mtext> </mtext> <msub>
+       <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+       </msub> <mo>+</mo> <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>1</mn> </mrow> </msub> <mo>,</mo> <mtext> </mtext> <msub>
+       <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+       </msub> <mo>+</mo> <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>1</mn> </mrow> </msub> <mo>+</mo> <msub> <mi>e</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>,</mo>
+       <mo>…</mo> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>0</mn> </mrow> </msub> <mo>+</mo> <msub> <mi>e</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>+</mo>
+       <mo>⋯</mo> <mo>+</mo> <msub> <mi>e</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mstyle>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle v_{0},\
+       v_{0}+e_{1},\ v_{0}+e_{1}+e_{2},\ldots v_{0}+e_{1}+\cdots
+       +e_{n}}</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle v_{0},\ v_{0}+e_{1},\
+       v_{0}+e_{1}+e_{2},\ldots v_{0}+e_{1}+\cdots +e_{n}} by the affine
+       isometry that sends
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>0</mn> </mrow> </msub> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle
+       v_{0}}</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle v_{0}} to
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>0</mn> </mrow> </msub> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle
+       v_{0}}</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle v_{0}} , and whose linear part matches
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mi>i</mi> </mrow> </msub> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle
+       e_{i}}</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle e_{i}} to
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mi>σ</mi> <mo stretchy="false">(</mo> <mi>i</mi> <mo
+       stretchy="false">)</mo> </mrow> </msub> </mstyle> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       \scriptstyle e_{\sigma (i)}}</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle e_{\sigma (i)}} for all i. hence every
+       two n-paths are isometric, and so is their convex hulls; this
+       explains the congruence of the simplexes. To show the other
+       assertions, it suffices to remark that the interior of the simplex
+       determined by the n-path
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>0</mn> </mrow> </msub> <mo>,</mo> <mtext> </mtext> <msub>
+       <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+       </msub> <mo>+</mo> <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mi>σ</mi> <mo stretchy="false">(</mo> <mn>1</mn> <mo
+       stretchy="false">)</mo> </mrow> </msub> <mo>,</mo> <mtext> </mtext>
+       <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+       </msub> <mo>+</mo> <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mi>σ</mi> <mo stretchy="false">(</mo> <mn>1</mn> <mo
+       stretchy="false">)</mo> </mrow> </msub> <mo>+</mo> <msub>
+       <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mo
+       stretchy="false">(</mo> <mn>2</mn> <mo stretchy="false">)</mo>
+       </mrow> </msub> <mo>…</mo> <msub> <mi>v</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>+</mo>
+       <msub> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mo
+       stretchy="false">(</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+       </mrow> </msub> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <msub> <mi>e</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mo
+       stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+       </mrow> </msub> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle v_{0},\
+       v_{0}+e_{\sigma (1)},\ v_{0}+e_{\sigma (1)}+e_{\sigma (2)}\ldots
+       v_{0}+e_{\sigma (1)}+\cdots +e_{\sigma (n)}}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \scriptstyle v_{0},\ v_{0}+e_{\sigma (1)},\
+       v_{0}+e_{\sigma (1)}+e_{\sigma (2)}\ldots v_{0}+e_{\sigma
+       (1)}+\cdots +e_{\sigma (n)}} is the set of points
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <msub> <mi>v</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>0</mn> </mrow> </msub> <mo>+</mo> <mo stretchy="false">(</mo>
+       <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+       </msub> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+       stretchy="false">)</mo> <msub> <mi>e</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mo stretchy="false">(</mo>
+       <mn>1</mn> <mo stretchy="false">)</mo> </mrow> </msub> <mo>+</mo>
+       <mo>⋯</mo> <mo>+</mo> <mo stretchy="false">(</mo> <msub> <mi>x</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn>
+       </mrow> </msub> <mo>+</mo> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+       stretchy="false">)</mo> <msub> <mi>e</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mo stretchy="false">(</mo>
+       <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+       </mrow> </msub> <mo>+</mo> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <msub>
+       <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>σ</mi> <mo
+       stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+       </mrow> </msub> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle
+       v_{0}+(x_{1}+\cdots +x_{n})e_{\sigma (1)}+\cdots
+       +(x_{n-1}+x_{n})e_{\sigma (n-1)}+x_{n}e_{\sigma (n)}}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \scriptstyle v_{0}+(x_{1}+\cdots +x_{n})e_{\sigma
+       (1)}+\cdots +(x_{n-1}+x_{n})e_{\sigma (n-1)}+x_{n}e_{\sigma (n)}} ,
+       with
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <mn>0</mn> <mo><</mo> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo><</mo>
+       <mn>1</mn> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle
+       0<x_{i}<1}</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle 0<x_{i}<1} and
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>1</mn> </mrow> </msub> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <msub>
+       <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+       </msub> <mo><</mo> <mn>1.</mn> </mstyle> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       \scriptstyle x_{1}+\cdots +x_{n}<1.}</annotation> </semantics>
+       :MATH]
+       {\displaystyle \scriptstyle x_{1}+\cdots +x_{n}<1.} Hence the
+       components of these points with respect to each corresponding
+       permuted basis are strictly ordered in the decreasing order. That
+       explains why the simplexes are non-overlapping. The fact that the
+       union of the simplexes is the whole unit n-hypercube follows as
+       well, replacing the strict inequalities above by "
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <mo>≤</mo> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle \leq
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle \leq } ". The same arguments are also
+       valid for a general parallelotope, except the isometry between the
+       simplexes.
+   13. [447]^ [448]Parks, Harold R.; Wills, Dean C. (October 2002). "An
+       Elementary Calculation of the Dihedral Angle of the Regular
+       n-Simplex". American Mathematical Monthly. 109 (8): 756–8.
+       [449]doi:[450]10.2307/3072403. [451]JSTOR [452]3072403.
+   14. [453]^ Wills, Harold R.; Parks, Dean C. (June 2009).
+       [454]Connections between combinatorics of permutations and
+       algorithms and geometry (PhD). Oregon State University.
+       [455]hdl:[456]1957/11929.
+   15. [457]^ Donchian, P. S.; Coxeter, H. S. M. (July 1935). "1142. An
+       n-dimensional extension of Pythagoras' Theorem". The Mathematical
+       Gazette. 19 (234): 206. [458]doi:[459]10.2307/3605876.
+       [460]JSTOR [461]3605876. [462]S2CID [463]125391795.
+   16. [464]^ Lee, John M. (2006). [465]Introduction to Topological
+       Manifolds. Springer. pp. 292–3. [466]ISBN [467]978-0-387-22727-6.
+   17. [468]^ Cornell, John (2002). Experiments with Mixtures: Designs,
+       Models, and the Analysis of Mixture Data (third ed.). Wiley.
+       [469]ISBN [470]0-471-07916-2.
+   18. [471]^ Vondran, Gary L. (April 1998). [472]"Radial and Pruned
+       Tetrahedral Interpolation Techniques" (PDF). HP Technical Report.
+       HPL-98-95: 1–32. Archived from [473]the original (PDF) on
+       2011-06-07. Retrieved 2009-11-11.
+
+References
+
+   [[474]edit]
+     *
+
+   [475]Rudin, Walter (1976). Principles of Mathematical Analysis
+   (3rd ed.). McGraw-Hill. [476]ISBN [477]0-07-054235-X. (See chapter 10
+   for a simple review of topological properties.)
+
+     [478]Tanenbaum, Andrew S. (2003). "§2.5.3". Computer Networks
+   (4th ed.). Prentice Hall. [479]ISBN [480]0-13-066102-3.
+
+     Devroye, Luc (1986). [481]Non-Uniform Random Variate Generation.
+   Springer. [482]ISBN [483]0-387-96305-7. Archived from [484]the original
+   on 2009-05-05.
+
+     [485]Coxeter, H.S.M. (1973). [486]Regular Polytopes (3rd ed.). Dover.
+   [487]ISBN [488]0-486-61480-8.
+     * pp. 120–121, §7.2. see illustration 7-2A
+     * p. 296, Table I (iii): Regular Polytopes, three regular polytopes
+       in n dimensions (n ≥ 5)
+
+     [489]Weisstein, Eric W. [490]"Simplex". [491]MathWorld.
+
+     [492]Boyd, Stephen; [493]Vandenberghe, Lieven (2004). [494]Convex
+   Optimization. Cambridge University Press.
+   [495]ISBN [496]978-1-107-39400-1. As [497]PDF
+
+     * [498]v
+     * [499]t
+     * [500]e
+
+   [501]Dimension
+
+   Dimensional spaces
+
+     * [502]Vector space
+     * [503]Euclidean space
+     * [504]Affine space
+     * [505]Projective space
+     * [506]Free module
+     * [507]Manifold
+     * [508]Algebraic variety
+     * [509]Spacetime
+
+   [510]Animated tesseract
+
+   Other dimensions
+
+     * [511]Krull
+     * [512]Lebesgue covering
+     * [513]Inductive
+     * [514]Hausdorff
+     * [515]Minkowski
+     * [516]Fractal
+     * [517]Degrees of freedom
+
+   [518]Polytopes and [519]shapes
+
+     * [520]Hyperplane
+     * [521]Hypersurface
+     * [522]Hypercube
+     * [523]Hyperrectangle
+     * [524]Demihypercube
+     * [525]Hypersphere
+     * [526]Cross-polytope
+     * Simplex
+     * [527]Hyperpyramid
+
+   Number systems
+
+     * [528]Hypercomplex numbers
+     * [529]Cayley–Dickson construction
+
+   Dimensions by number
+
+     * [530]Zero
+     * [531]One
+     * [532]Two
+     * [533]Three
+     * [534]Four
+     * [535]Five
+     * [536]Six
+     * [537]Seven
+     * [538]Eight
+     * [539]n-dimensions
+
+   See also
+
+     * [540]Hyperspace
+     * [541]Codimension
+
+   [542]Category
+
+     * [543]v
+     * [544]t
+     * [545]e
+
+   Fundamental convex [546]regular and [547]uniform polytopes in
+   dimensions 2–10
+
+   [548]Family [549]A[n] [550]B[n] I[2](p) / [551]D[n] [552]E[6] /
+   [553]E[7] / [554]E[8] / [555]F[4] / [556]G[2] [557]H[n]
+   [558]Regular polygon [559]Triangle [560]Square [561]p-gon [562]Hexagon
+   [563]Pentagon
+   [564]Uniform polyhedron [565]Tetrahedron [566]Octahedron • [567]Cube
+   [568]Demicube [569]Dodecahedron • [570]Icosahedron
+   [571]Uniform polychoron [572]Pentachoron [573]16-cell • [574]Tesseract
+   [575]Demitesseract [576]24-cell [577]120-cell • [578]600-cell
+   [579]Uniform 5-polytope [580]5-simplex [581]5-orthoplex • [582]5-cube
+   [583]5-demicube
+   [584]Uniform 6-polytope [585]6-simplex [586]6-orthoplex • [587]6-cube
+   [588]6-demicube [589]1[22] • [590]2[21]
+   [591]Uniform 7-polytope [592]7-simplex [593]7-orthoplex • [594]7-cube
+   [595]7-demicube [596]1[32] • [597]2[31] • [598]3[21]
+   [599]Uniform 8-polytope [600]8-simplex [601]8-orthoplex • [602]8-cube
+   [603]8-demicube [604]1[42] • [605]2[41] • [606]4[21]
+   [607]Uniform 9-polytope [608]9-simplex [609]9-orthoplex • [610]9-cube
+   [611]9-demicube
+   [612]Uniform 10-polytope [613]10-simplex [614]10-orthoplex •
+   [615]10-cube [616]10-demicube
+   Uniform n-[617]polytope n-simplex n-[618]orthoplex • n-[619]cube
+   n-[620]demicube [621]1[k2] • [622]2[k1] • [623]k[21] n-[624]pentagonal
+   polytope
+   Topics: [625]Polytope families • [626]Regular polytope • [627]List of
+   regular polytopes and compounds
+
+   Retrieved from
+   "[628]https://en.wikipedia.org/w/index.php?title=Simplex&oldid=12652116
+   13"
+
+   [629]Categories:
+     * [630]Polytopes
+     * [631]Topology
+     * [632]Multi-dimensional geometry
+
+   Hidden categories:
+     * [633]CS1: long volume value
+     * [634]Articles with short description
+     * [635]Short description is different from Wikidata
+
+     * This page was last edited on 25 December 2024, at 19:20 (UTC).
+     * Text is available under the [636]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [637]Terms of Use and
+       [638]Privacy Policy. Wikipedia® is a registered trademark of the
+       [639]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [640]Privacy policy
+     * [641]About Wikipedia
+     * [642]Disclaimers
+     * [643]Contact Wikipedia
+     * [644]Code of Conduct
+     * [645]Developers
+     * [646]Statistics
+     * [647]Cookie statement
+     * [648]Mobile view
+
+     * [649]Wikimedia Foundation
+     * [650]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/Simplex
+   2. file:///w/index.php?title=Simplex&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Simplex
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Simplex
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Simplex
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Simplex
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html
+  29. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#History
+  30. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Elements
+  31. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Symmetric_graphs_of_regular_simplices
+  32. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Standard_simplex
+  33. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Examples
+  34. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Increasing_coordinates
+  35. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Projection_onto_the_standard_simplex
+  36. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Corner_of_cube
+  37. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Cartesian_coordinates_for_a_regular_n-dimensional_simplex_in_Rn
+  38. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Geometric_properties
+  39. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Volume
+  40. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Dihedral_angles_of_the_regular_n-simplex
+  41. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Simplices_with_an_"orthogonal_corner"
+  42. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Relation_to_the_(n_+_1)-hypercube
+  43. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Topology
+  44. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Probability
+  45. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Aitchison_geometry
+  46. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Compounds
+  47. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Algebraic_topology
+  48. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Algebraic_geometry
+  49. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Applications
+  50. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#See_also
+  51. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#Notes
+  52. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#References
+  53. https://ar.wikipedia.org/wiki/مبسط
+  54. https://bn.wikipedia.org/wiki/ক্রমবর্তী_সিমপ্লেক্স
+  55. https://bg.wikipedia.org/wiki/Симплекс
+  56. https://ca.wikipedia.org/wiki/Símplex
+  57. https://cv.wikipedia.org/wiki/Симплекс
+  58. https://cs.wikipedia.org/wiki/Simplex
+  59. https://de.wikipedia.org/wiki/Simplex_(Mathematik)
+  60. https://es.wikipedia.org/wiki/Símplex
+  61. https://eo.wikipedia.org/wiki/Simplaĵo_(geometrio)
+  62. https://eu.wikipedia.org/wiki/Simplex_(geometria)
+  63. https://fa.wikipedia.org/wiki/سادک
+  64. https://fr.wikipedia.org/wiki/Simplexe
+  65. https://ko.wikipedia.org/wiki/단체_(수학)
+  66. https://hy.wikipedia.org/wiki/Սիմպլեքս
+  67. https://it.wikipedia.org/wiki/Simplesso
+  68. https://he.wikipedia.org/wiki/סימפלקס
+  69. https://kk.wikipedia.org/wiki/Симплекс
+  70. https://hu.wikipedia.org/wiki/Szimplex
+  71. https://nl.wikipedia.org/wiki/Simplex_(wiskunde)
+  72. https://ja.wikipedia.org/wiki/単体_(数学)
+  73. https://no.wikipedia.org/wiki/Simpleks_(matematikk)
+  74. https://uz.wikipedia.org/wiki/Simpleks
+  75. https://pl.wikipedia.org/wiki/Sympleks_(matematyka)
+  76. https://pt.wikipedia.org/wiki/Simplex_(topologia)
+  77. https://ro.wikipedia.org/wiki/Simplex
+  78. https://ru.wikipedia.org/wiki/Симплекс
+  79. https://sq.wikipedia.org/wiki/Simpleks
+  80. https://simple.wikipedia.org/wiki/Simplex
+  81. https://sk.wikipedia.org/wiki/Simplex_(geometria)
+  82. https://sl.wikipedia.org/wiki/Simpleks
+  83. https://sv.wikipedia.org/wiki/Simplex
+  84. https://th.wikipedia.org/wiki/ซิมเพล็กซ์
+  85. https://uk.wikipedia.org/wiki/Симплекс
+  86. https://zh.wikipedia.org/wiki/单纯形
+  87. https://www.wikidata.org/wiki/Special:EntityPage/Q331350#sitelinks-wikipedia
+  88. file:///wiki/Simplex
+  89. file:///wiki/Talk:Simplex
+  90. file:///wiki/Simplex
+  91. file:///w/index.php?title=Simplex&action=edit
+  92. file:///w/index.php?title=Simplex&action=history
+  93. file:///wiki/Simplex
+  94. file:///w/index.php?title=Simplex&action=edit
+  95. file:///w/index.php?title=Simplex&action=history
+  96. file:///wiki/Special:WhatLinksHere/Simplex
+  97. file:///wiki/Special:RecentChangesLinked/Simplex
+  98. file:///wiki/Wikipedia:File_Upload_Wizard
+  99. file:///wiki/Special:SpecialPages
+ 100. file:///w/index.php?title=Simplex&oldid=1265211613
+ 101. file:///w/index.php?title=Simplex&action=info
+ 102. file:///w/index.php?title=Special:CiteThisPage&page=Simplex&id=1265211613&wpFormIdentifier=titleform
+ 103. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/Simplex
+ 104. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/Simplex
+ 105. file:///w/index.php?title=Special:DownloadAsPdf&page=Simplex&action=show-download-screen
+ 106. file:///w/index.php?title=Simplex&printable=yes
+ 107. https://commons.wikimedia.org/wiki/Category:Simplex
+ 108. https://www.wikidata.org/wiki/Special:EntityPage/Q331350
+ 109. file:///w/index.php?title=11-simplex&redirect=no
+ 110. file:///wiki/Simplex_(disambiguation)
+ 111. file:///wiki/File:Simplexes.jpg
+ 112. file:///wiki/Geometry
+ 113. file:///wiki/Triangle
+ 114. file:///wiki/Tetrahedron
+ 115. file:///wiki/Dimensions
+ 116. file:///wiki/Polytope
+ 117. file:///wiki/0-dimensional
+ 118. file:///wiki/Point_(mathematics)
+ 119. file:///wiki/1-dimensional
+ 120. file:///wiki/Line_segment
+ 121. file:///wiki/2-dimensional
+ 122. file:///wiki/Triangle
+ 123. file:///wiki/3-dimensional
+ 124. file:///wiki/Tetrahedron
+ 125. file:///wiki/Four-dimensional_space
+ 126. file:///wiki/5-cell
+ 127. file:///wiki/Polytope
+ 128. file:///wiki/Convex_hull
+ 129. file:///wiki/Vertex_(geometry)
+ 130. file:///wiki/Affinely_independent
+ 131. file:///wiki/Linearly_independent
+ 132. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-1
+ 133. file:///wiki/Regular_polytope
+ 134. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-Boyd-2
+ 135. file:///wiki/Unit_vectors
+ 136. file:///wiki/Topology
+ 137. file:///wiki/Combinatorics
+ 138. file:///wiki/Simplicial_complex
+ 139. file:///wiki/Abstract_simplicial_complex
+ 140. file:///wiki/Finite_set
+ 141. file:///w/index.php?title=Simplex&action=edit&section=1
+ 142. file:///wiki/William_Kingdon_Clifford
+ 143. file:///wiki/Henri_Poincaré
+ 144. file:///wiki/Algebraic_topology
+ 145. file:///wiki/Pieter_Hendrik_Schoute
+ 146. file:///wiki/Latin
+ 147. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-3
+ 148. file:///wiki/Regular_polytope
+ 149. file:///wiki/Donald_Coxeter
+ 150. file:///wiki/Cross-polytope
+ 151. file:///wiki/Hypercube
+ 152. file:///wiki/Hypercubic_honeycomb
+ 153. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-FOOTNOTECoxeter1973120–124§7.2-4
+ 154. file:///w/index.php?title=Simplex&action=edit&section=2
+ 155. file:///wiki/Convex_hull
+ 156. file:///wiki/Empty_set
+ 157. file:///wiki/Subset
+ 158. file:///wiki/Binomial_coefficient
+ 159. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-FOOTNOTECoxeter1973120-5
+ 160. file:///wiki/Pascal's_triangle
+ 161. file:///wiki/Simplicial_complex#Definitions
+ 162. file:///wiki/F-vector
+ 163. file:///wiki/Polynomial#Multiplication
+ 164. file:///wiki/7-simplex
+ 165. file:///wiki/Triangle_number
+ 166. file:///wiki/Tetrahedron_number
+ 167. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-6
+ 168. file:///wiki/Schläfli_symbol
+ 169. file:///wiki/Coxeter–Dynkin_diagram
+ 170. file:///wiki/Vertex_(geometry)
+ 171. file:///wiki/Edge_(geometry)
+ 172. file:///wiki/Triangle
+ 173. file:///wiki/Tetrahedron
+ 174. file:///wiki/5-cell
+ 175. file:///wiki/5-simplex
+ 176. file:///wiki/6-simplex
+ 177. file:///wiki/7-simplex
+ 178. file:///wiki/8-simplex
+ 179. file:///wiki/9-simplex
+ 180. file:///wiki/10-simplex
+ 181. file:///wiki/Polytope
+ 182. file:///wiki/Isosceles_triangle
+ 183. file:///wiki/Equilateral_triangle
+ 184. file:///wiki/Regular_tetrahedron
+ 185. file:///wiki/File:Pascal's_triangle_5.svg
+ 186. file:///wiki/Pascal's_triangle
+ 187. file:///wiki/File:Tesseract_tetrahedron_shadow_matrices.svg
+ 188. file:///wiki/Power_of_two
+ 189. file:///wiki/Tesseract
+ 190. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-7
+ 191. file:///wiki/Simplicial_homology
+ 192. file:///w/index.php?title=Simplex&action=edit&section=3
+ 193. file:///wiki/Petrie_polygon
+ 194. file:///wiki/Circle
+ 195. file:///wiki/File:1-simplex_t0.svg
+ 196. file:///wiki/Line_segment
+ 197. file:///wiki/File:2-simplex_t0.svg
+ 198. file:///wiki/Triangle
+ 199. file:///wiki/File:3-simplex_t0.svg
+ 200. file:///wiki/Tetrahedron
+ 201. file:///wiki/File:4-simplex_t0.svg
+ 202. file:///wiki/5-cell
+ 203. file:///wiki/File:5-simplex_t0.svg
+ 204. file:///wiki/5-simplex
+ 205. file:///wiki/File:6-simplex_t0.svg
+ 206. file:///wiki/6-simplex
+ 207. file:///wiki/File:7-simplex_t0.svg
+ 208. file:///wiki/7-simplex
+ 209. file:///wiki/File:8-simplex_t0.svg
+ 210. file:///wiki/8-simplex
+ 211. file:///wiki/File:9-simplex_t0.svg
+ 212. file:///wiki/9-simplex
+ 213. file:///wiki/File:10-simplex_t0.svg
+ 214. file:///wiki/10-simplex
+ 215. file:///wiki/File:11-simplex_t0.svg
+ 216. file:///wiki/11-simplex
+ 217. file:///wiki/File:12-simplex_t0.svg
+ 218. file:///wiki/12-simplex
+ 219. file:///wiki/File:13-simplex_t0.svg
+ 220. file:///wiki/13-simplex
+ 221. file:///wiki/File:14-simplex_t0.svg
+ 222. file:///wiki/14-simplex
+ 223. file:///wiki/File:15-simplex_t0.svg
+ 224. file:///wiki/15-simplex
+ 225. file:///wiki/File:16-simplex_t0.svg
+ 226. file:///wiki/16-simplex
+ 227. file:///wiki/File:17-simplex_t0.svg
+ 228. file:///wiki/17-simplex
+ 229. file:///wiki/File:18-simplex_t0.svg
+ 230. file:///wiki/18-simplex
+ 231. file:///wiki/File:19-simplex_t0.svg
+ 232. file:///wiki/19-simplex
+ 233. file:///wiki/File:20-simplex_t0.svg
+ 234. file:///wiki/20-simplex
+ 235. file:///w/index.php?title=Simplex&action=edit&section=4
+ 236. file:///wiki/File:2D-simplex.svg
+ 237. file:///wiki/Affine_hyperplane
+ 238. file:///wiki/0/1-polytope
+ 239. file:///wiki/Facet_(geometry)
+ 240. file:///wiki/Orthoplex
+ 241. file:///wiki/Barycentric_coordinates_(mathematics)
+ 242. file:///wiki/Affine_transformation
+ 243. file:///wiki/Orientation_(vector_space)
+ 244. file:///wiki/Polytope
+ 245. file:///wiki/Generalized_barycentric_coordinates
+ 246. file:///wiki/Softmax_function
+ 247. file:///wiki/Standard_logistic_function
+ 248. file:///w/index.php?title=Simplex&action=edit&section=5
+ 249. file:///wiki/Equilateral_triangle
+ 250. file:///wiki/Regular_tetrahedron
+ 251. file:///wiki/5-cell
+ 252. file:///w/index.php?title=Simplex&action=edit&section=6
+ 253. file:///wiki/Indefinite_sum
+ 254. file:///wiki/Interior_(topology)
+ 255. file:///wiki/Fundamental_domain
+ 256. file:///wiki/Group_action
+ 257. file:///wiki/Symmetric_group
+ 258. file:///w/index.php?title=Simplex&action=edit&section=7
+ 259. file:///wiki/Probability_theory
+ 260. file:///wiki/Graphical_projection
+ 261. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-8
+ 262. file:///wiki/Selection_algorithm
+ 263. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-9
+ 264. file:///w/index.php?title=Simplex&action=edit&section=8
+ 265. file:///wiki/Simplex_method
+ 266. file:///w/index.php?title=Simplex&action=edit&section=9
+ 267. file:///wiki/Basis_(linear_algebra)
+ 268. file:///wiki/Real_number
+ 269. file:///wiki/Quadratic_equation
+ 270. file:///wiki/Cyclic_group
+ 271. file:///wiki/Orthogonal_matrix
+ 272. file:///wiki/Identity_matrix
+ 273. file:///wiki/Matrix_(mathematics)
+ 274. file:///wiki/Divisor
+ 275. file:///wiki/Parity_(mathematics)
+ 276. file:///wiki/Integer
+ 277. file:///wiki/Parity_(mathematics)
+ 278. file:///w/index.php?title=Simplex&action=edit&section=10
+ 279. file:///w/index.php?title=Simplex&action=edit&section=11
+ 280. file:///wiki/Volume
+ 281. file:///wiki/Determinant
+ 282. file:///wiki/Vector_(geometry)
+ 283. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-10
+ 284. file:///wiki/Gram_determinant
+ 285. file:///wiki/Cayley–Menger_determinant
+ 286. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-11
+ 287. file:///wiki/Parallelepiped#Parallelotope
+ 288. file:///wiki/Permutation
+ 289. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-12
+ 290. file:///wiki/Linear_isomorphism
+ 291. file:///w/index.php?title=Simplex&action=edit&section=12
+ 292. file:///wiki/Dihedral_angle
+ 293. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-13
+ 294. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-14
+ 295. file:///w/index.php?title=Simplex&action=edit&section=13
+ 296. file:///wiki/Face_(geometry)
+ 297. file:///wiki/Pythagorean_theorem
+ 298. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-15
+ 299. file:///wiki/Pythagorean_theorem
+ 300. file:///wiki/De_Gua's_theorem
+ 301. file:///w/index.php?title=Simplex&action=edit&section=14
+ 302. file:///wiki/Hasse_diagram
+ 303. file:///wiki/Hypercube
+ 304. file:///wiki/Vertex_figure
+ 305. file:///wiki/Facet_(geometry)
+ 306. file:///wiki/Orthoplex
+ 307. file:///w/index.php?title=Simplex&action=edit&section=15
+ 308. file:///wiki/Topology
+ 309. file:///wiki/Topologically_equivalent
+ 310. file:///wiki/Ball_(mathematics)
+ 311. file:///wiki/Manifold_with_corners
+ 312. file:///w/index.php?title=Simplex&action=edit&section=16
+ 313. file:///wiki/Categorical_distribution
+ 314. file:///wiki/Barycentric_coordinates
+ 315. file:///w/index.php?title=Simplex&action=edit&section=17
+ 316. file:///wiki/Aitchison_geometry
+ 317. file:///wiki/Inner_product_space
+ 318. file:///w/index.php?title=Simplex&action=edit&section=18
+ 319. file:///wiki/Hexagram
+ 320. file:///wiki/Compound_of_two_tetrahedra
+ 321. file:///wiki/Stellated_octahedron
+ 322. file:///wiki/Compound_of_two_5-cells
+ 323. file:///w/index.php?title=Simplex&action=edit&section=19
+ 324. file:///wiki/Algebraic_topology
+ 325. file:///wiki/Topological_space
+ 326. file:///wiki/Simplicial_complex
+ 327. file:///wiki/Combinatorics
+ 328. file:///wiki/Homology_(mathematics)
+ 329. file:///wiki/Simplicial_homology
+ 330. file:///wiki/Open_subset
+ 331. file:///wiki/Chain_(algebraic_topology)
+ 332. file:///wiki/Multiplicity_(mathematics)
+ 333. file:///wiki/Orientability
+ 334. file:///wiki/Boundary_(topology)
+ 335. file:///wiki/Manifold
+ 336. file:///wiki/Embedding
+ 337. file:///wiki/Function_(mathematics)
+ 338. file:///wiki/Continuous_function_(topology)
+ 339. file:///wiki/Topological_space
+ 340. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-16
+ 341. file:///w/index.php?title=Simplex&action=edit&section=20
+ 342. file:///wiki/Algebraic_geometry
+ 343. file:///wiki/Scheme_(mathematics)
+ 344. file:///wiki/Ring_(mathematics)
+ 345. file:///wiki/Simplicial_object
+ 346. file:///wiki/Category_(mathematics)
+ 347. file:///wiki/K-theory
+ 348. file:///wiki/Chow_group
+ 349. file:///w/index.php?title=Simplex&action=edit&section=21
+ 350. file:///wiki/Statistics
+ 351. file:///wiki/Compositional_data
+ 352. file:///wiki/Ternary_plot
+ 353. file:///wiki/Probability_theory
+ 354. file:///wiki/Dirichlet_distribution
+ 355. file:///wiki/Applied_statistics#industrial
+ 356. file:///wiki/Mixture
+ 357. file:///wiki/Response_surface_methodology
+ 358. file:///wiki/Nonlinear_programming
+ 359. file:///wiki/Sequential_quadratic_programming
+ 360. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-17
+ 361. file:///wiki/Operations_research
+ 362. file:///wiki/Linear_programming
+ 363. file:///wiki/Simplex_algorithm
+ 364. file:///wiki/George_Dantzig
+ 365. file:///wiki/Game_theory
+ 366. file:///wiki/Geometric_design
+ 367. file:///wiki/Computer_graphics
+ 368. file:///wiki/Triangulation_(topology)
+ 369. file:///wiki/Interpolation
+ 370. file:///wiki/Polynomial_and_rational_function_modeling
+ 371. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_note-18
+ 372. file:///wiki/Chemistry
+ 373. file:///wiki/P-block
+ 374. file:///wiki/Neon
+ 375. file:///wiki/Monatomic_gas
+ 376. file:///wiki/Fluorine
+ 377. file:///wiki/Oxygen
+ 378. file:///wiki/Bent_molecular_geometry
+ 379. file:///wiki/Nitrogen
+ 380. file:///wiki/Trigonal_pyramidal_molecular_geometry
+ 381. file:///wiki/Carbon
+ 382. file:///wiki/Tetrahedral_molecular_geometry
+ 383. file:///wiki/Schlegel_diagram
+ 384. file:///wiki/Halogen
+ 385. file:///wiki/Quantum_gravity
+ 386. file:///wiki/Regge_calculus
+ 387. file:///wiki/Causal_dynamical_triangulation
+ 388. file:///wiki/Simplicial_manifold
+ 389. file:///w/index.php?title=Simplex&action=edit&section=22
+ 390. file:///wiki/3-sphere
+ 391. file:///wiki/Aitchison_geometry
+ 392. file:///wiki/Causal_dynamical_triangulation
+ 393. file:///wiki/Complete_graph
+ 394. file:///wiki/Delaunay_triangulation
+ 395. file:///wiki/Distance_geometry
+ 396. file:///wiki/Geometric_primitive
+ 397. file:///wiki/Hill_tetrahedron
+ 398. file:///wiki/Hypersimplex
+ 399. file:///wiki/List_of_regular_polytopes
+ 400. file:///wiki/Metcalfe's_law
+ 401. file:///wiki/Polytope
+ 402. file:///wiki/Cross-polytope
+ 403. file:///wiki/Hypercube
+ 404. file:///wiki/Tesseract
+ 405. file:///wiki/Polytope
+ 406. file:///wiki/Schläfli_orthoscheme
+ 407. file:///wiki/Simplex_algorithm
+ 408. file:///wiki/Simplicial_complex
+ 409. file:///wiki/Simplicial_homology
+ 410. file:///wiki/Simplicial_set
+ 411. file:///wiki/Spectrahedron
+ 412. file:///wiki/Ternary_plot
+ 413. file:///w/index.php?title=Simplex&action=edit&section=23
+ 414. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-1
+ 415. file:///wiki/Emanuel_Lodewijk_Elte
+ 416. file:///wiki/ISBN_(identifier)
+ 417. file:///wiki/Special:BookSources/978-1-4181-7968-7
+ 418. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-Boyd_2-0
+ 419. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#CITEREFBoydVandenberghe2004
+ 420. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-3
+ 421. http://jeff560.tripod.com/s.html
+ 422. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-FOOTNOTECoxeter1973120–124§7.2_4-0
+ 423. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#CITEREFCoxeter1973
+ 424. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-FOOTNOTECoxeter1973120_5-0
+ 425. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#CITEREFCoxeter1973
+ 426. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-6
+ 427. file:///wiki/Neil_Sloane
+ 428. https://oeis.org/A135278
+ 429. file:///wiki/On-Line_Encyclopedia_of_Integer_Sequences
+ 430. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-7
+ 431. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-8
+ 432. file:///wiki/ArXiv_(identifier)
+ 433. https://arxiv.org/abs/1101.6081
+ 434. https://arxiv.org/archive/math.OC
+ 435. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-9
+ 436. file:///wiki/Doi_(identifier)
+ 437. https://doi.org/10.1016/0167-6377(89)90064-3
+ 438. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-10
+ 439. file:///wiki/Doi_(identifier)
+ 440. https://doi.org/10.2307/2315353
+ 441. file:///wiki/JSTOR_(identifier)
+ 442. https://www.jstor.org/stable/2315353
+ 443. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-11
+ 444. https://mathworld.wolfram.com/
+ 445. file:///wiki/MathWorld
+ 446. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-12
+ 447. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-13
+ 448. file:///wiki/Harold_R._Parks
+ 449. file:///wiki/Doi_(identifier)
+ 450. https://doi.org/10.2307/3072403
+ 451. file:///wiki/JSTOR_(identifier)
+ 452. https://www.jstor.org/stable/3072403
+ 453. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-14
+ 454. http://ir.library.oregonstate.edu/xmlui/handle/1957/11929
+ 455. file:///wiki/Hdl_(identifier)
+ 456. https://hdl.handle.net/1957/11929
+ 457. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-15
+ 458. file:///wiki/Doi_(identifier)
+ 459. https://doi.org/10.2307/3605876
+ 460. file:///wiki/JSTOR_(identifier)
+ 461. https://www.jstor.org/stable/3605876
+ 462. file:///wiki/S2CID_(identifier)
+ 463. https://api.semanticscholar.org/CorpusID:125391795
+ 464. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-16
+ 465. https://books.google.com/books?id=AdIRBwAAQBAJ&pg=PR1
+ 466. file:///wiki/ISBN_(identifier)
+ 467. file:///wiki/Special:BookSources/978-0-387-22727-6
+ 468. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-17
+ 469. file:///wiki/ISBN_(identifier)
+ 470. file:///wiki/Special:BookSources/0-471-07916-2
+ 471. file:///tmp/lynxXXXXnf5zhZ/L64900-4270TMP.html#cite_ref-18
+ 472. https://web.archive.org/web/20110607102757/http://www.hpl.hp.com/techreports/98/HPL-98-95.pdf
+ 473. http://www.hpl.hp.com/techreports/98/HPL-98-95.pdf
+ 474. file:///w/index.php?title=Simplex&action=edit&section=24
+ 475. file:///wiki/Walter_Rudin
+ 476. file:///wiki/ISBN_(identifier)
+ 477. file:///wiki/Special:BookSources/0-07-054235-X
+ 478. file:///wiki/Andrew_S._Tanenbaum
+ 479. file:///wiki/ISBN_(identifier)
+ 480. file:///wiki/Special:BookSources/0-13-066102-3
+ 481. https://web.archive.org/web/20090505034911/http://cg.scs.carleton.ca/~luc/rnbookindex.html
+ 482. file:///wiki/ISBN_(identifier)
+ 483. file:///wiki/Special:BookSources/0-387-96305-7
+ 484. http://cg.scs.carleton.ca/~luc/rnbookindex.html
+ 485. file:///wiki/Harold_Scott_MacDonald_Coxeter
+ 486. file:///wiki/Regular_Polytopes_(book)
+ 487. file:///wiki/ISBN_(identifier)
+ 488. file:///wiki/Special:BookSources/0-486-61480-8
+ 489. file:///wiki/Eric_W._Weisstein
+ 490. https://mathworld.wolfram.com/Simplex.html
+ 491. file:///wiki/MathWorld
+ 492. file:///wiki/Stephen_P._Boyd
+ 493. file:///w/index.php?title=Lieven_Vandenberghe&action=edit&redlink=1
+ 494. https://books.google.com/books?id=IUZdAAAAQBAJ
+ 495. file:///wiki/ISBN_(identifier)
+ 496. file:///wiki/Special:BookSources/978-1-107-39400-1
+ 497. https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+ 498. file:///wiki/Template:Dimension_topics
+ 499. file:///wiki/Template_talk:Dimension_topics
+ 500. file:///wiki/Special:EditPage/Template:Dimension_topics
+ 501. file:///wiki/Dimension
+ 502. file:///wiki/Dimension_(vector_space)
+ 503. file:///wiki/Euclidean_space
+ 504. file:///wiki/Affine_space
+ 505. file:///wiki/Projective_space
+ 506. file:///wiki/Free_module
+ 507. file:///wiki/Manifold
+ 508. file:///wiki/Dimension_of_an_algebraic_variety
+ 509. file:///wiki/Spacetime
+ 510. file:///wiki/File:Tesseract.gif
+ 511. file:///wiki/Krull_dimension
+ 512. file:///wiki/Lebesgue_covering_dimension
+ 513. file:///wiki/Inductive_dimension
+ 514. file:///wiki/Hausdorff_dimension
+ 515. file:///wiki/Minkowski–Bouligand_dimension
+ 516. file:///wiki/Fractal_dimension
+ 517. file:///wiki/Degrees_of_freedom
+ 518. file:///wiki/Polytope
+ 519. file:///wiki/Shape
+ 520. file:///wiki/Hyperplane
+ 521. file:///wiki/Hypersurface
+ 522. file:///wiki/Hypercube
+ 523. file:///wiki/Hyperrectangle
+ 524. file:///wiki/Demihypercube
+ 525. file:///wiki/N-sphere
+ 526. file:///wiki/Cross-polytope
+ 527. file:///wiki/Hyperpyramid
+ 528. file:///wiki/Hypercomplex_number
+ 529. file:///wiki/Cayley–Dickson_construction
+ 530. file:///wiki/Zero-dimensional_space
+ 531. file:///wiki/One-dimensional_space
+ 532. file:///wiki/Two-dimensional_space
+ 533. file:///wiki/Three-dimensional_space
+ 534. file:///wiki/Four-dimensional_space
+ 535. file:///wiki/Five-dimensional_space
+ 536. file:///wiki/Six-dimensional_space
+ 537. file:///wiki/Seven-dimensional_space
+ 538. file:///wiki/Eight-dimensional_space
+ 539. file:///wiki/Dimension
+ 540. file:///wiki/Hyperspace
+ 541. file:///wiki/Codimension
+ 542. file:///wiki/Category:Dimension
+ 543. file:///wiki/Template:Polytopes
+ 544. file:///wiki/Template_talk:Polytopes
+ 545. file:///wiki/Special:EditPage/Template:Polytopes
+ 546. file:///wiki/Regular_polytope
+ 547. file:///wiki/Uniform_polytope
+ 548. file:///wiki/Coxeter_group#Finite_Coxeter_groups
+ 549. file:///wiki/Simple_Lie_group#A_series
+ 550. file:///wiki/Simple_Lie_group#B_series
+ 551. file:///wiki/Simple_Lie_group#D_series
+ 552. file:///wiki/E6_(mathematics)
+ 553. file:///wiki/E7_(mathematics)
+ 554. file:///wiki/E8_(mathematics)
+ 555. file:///wiki/F4_(mathematics)
+ 556. file:///wiki/G2_(mathematics)
+ 557. file:///wiki/H4_(mathematics)
+ 558. file:///wiki/Regular_polygon
+ 559. file:///wiki/Equilateral_triangle
+ 560. file:///wiki/Square
+ 561. file:///wiki/Regular_polygon
+ 562. file:///wiki/Hexagon
+ 563. file:///wiki/Pentagon
+ 564. file:///wiki/Uniform_polyhedron
+ 565. file:///wiki/Tetrahedron
+ 566. file:///wiki/Octahedron
+ 567. file:///wiki/Cube
+ 568. file:///wiki/Tetrahedron
+ 569. file:///wiki/Regular_dodecahedron
+ 570. file:///wiki/Regular_icosahedron
+ 571. file:///wiki/Uniform_polychoron
+ 572. file:///wiki/5-cell
+ 573. file:///wiki/16-cell
+ 574. file:///wiki/Tesseract
+ 575. file:///wiki/16-cell
+ 576. file:///wiki/24-cell
+ 577. file:///wiki/120-cell
+ 578. file:///wiki/600-cell
+ 579. file:///wiki/Uniform_5-polytope
+ 580. file:///wiki/5-simplex
+ 581. file:///wiki/5-orthoplex
+ 582. file:///wiki/5-cube
+ 583. file:///wiki/5-demicube
+ 584. file:///wiki/Uniform_6-polytope
+ 585. file:///wiki/6-simplex
+ 586. file:///wiki/6-orthoplex
+ 587. file:///wiki/6-cube
+ 588. file:///wiki/6-demicube
+ 589. file:///wiki/1_22_polytope
+ 590. file:///wiki/2_21_polytope
+ 591. file:///wiki/Uniform_7-polytope
+ 592. file:///wiki/7-simplex
+ 593. file:///wiki/7-orthoplex
+ 594. file:///wiki/7-cube
+ 595. file:///wiki/7-demicube
+ 596. file:///wiki/1_32_polytope
+ 597. file:///wiki/2_31_polytope
+ 598. file:///wiki/3_21_polytope
+ 599. file:///wiki/Uniform_8-polytope
+ 600. file:///wiki/8-simplex
+ 601. file:///wiki/8-orthoplex
+ 602. file:///wiki/8-cube
+ 603. file:///wiki/8-demicube
+ 604. file:///wiki/1_42_polytope
+ 605. file:///wiki/2_41_polytope
+ 606. file:///wiki/4_21_polytope
+ 607. file:///wiki/Uniform_9-polytope
+ 608. file:///wiki/9-simplex
+ 609. file:///wiki/9-orthoplex
+ 610. file:///wiki/9-cube
+ 611. file:///wiki/9-demicube
+ 612. file:///wiki/Uniform_10-polytope
+ 613. file:///wiki/10-simplex
+ 614. file:///wiki/10-orthoplex
+ 615. file:///wiki/10-cube
+ 616. file:///wiki/10-demicube
+ 617. file:///wiki/Polytope
+ 618. file:///wiki/Cross-polytope
+ 619. file:///wiki/Hypercube
+ 620. file:///wiki/Demihypercube
+ 621. file:///wiki/Uniform_1_k2_polytope
+ 622. file:///wiki/Uniform_2_k1_polytope
+ 623. file:///wiki/Uniform_k_21_polytope
+ 624. file:///wiki/Pentagonal_polytope
+ 625. file:///wiki/Polytope_families
+ 626. file:///wiki/Regular_polytope
+ 627. file:///wiki/List_of_regular_polytopes_and_compounds
+ 628. https://en.wikipedia.org/w/index.php?title=Simplex&oldid=1265211613
+ 629. file:///wiki/Help:Category
+ 630. file:///wiki/Category:Polytopes
+ 631. file:///wiki/Category:Topology
+ 632. file:///wiki/Category:Multi-dimensional_geometry
+ 633. file:///wiki/Category:CS1:_long_volume_value
+ 634. file:///wiki/Category:Articles_with_short_description
+ 635. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 636. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 637. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 638. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 639. https://wikimediafoundation.org/
+ 640. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 641. file:///wiki/Wikipedia:About
+ 642. file:///wiki/Wikipedia:General_disclaimer
+ 643. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 644. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 645. https://developer.wikimedia.org/
+ 646. https://stats.wikimedia.org/#/en.wikipedia.org
+ 647. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 648. file://en.m.wikipedia.org/w/index.php?title=Simplex&mobileaction=toggle_view_mobile
+ 649. https://wikimediafoundation.org/
+ 650. https://www.mediawiki.org/

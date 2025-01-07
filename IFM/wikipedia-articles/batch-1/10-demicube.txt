@@ -1,0 +1,569 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Cartesian coordinates
+     * [30]2 Images
+     * [31]3 Related polytopes
+     * [32]4 References
+     * [33]5 External links
+
+   [ ] Toggle the table of contents
+
+10-demicube
+
+   [ ] Add languages
+
+   [34]Add links
+
+     * [35]Article
+     * [36]Talk
+
+   [ ] English
+
+     * [37]Read
+     * [38]Edit
+     * [39]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [40]Read
+     * [41]Edit
+     * [42]View history
+
+   General
+     * [43]What links here
+     * [44]Related changes
+     * [45]Upload file
+     * [46]Special pages
+     * [47]Permanent link
+     * [48]Page information
+     * [49]Cite this page
+     * [50]Get shortened URL
+     * [51]Download QR code
+
+   Print/export
+     * [52]Download as PDF
+     * [53]Printable version
+
+   In other projects
+     * [54]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+
+                                                              Demidekeract
+                                                             (10-demicube)
+                             [55][320px-Demidekeract_ortho_petrie.svg.png]
+                                             [56]Petrie polygon projection
+                                              Type Uniform [57]10-polytope
+                                                  Family [58]demihypercube
+                                                  [59]Coxeter symbol 1[71]
+                                            [60]Schläfli symbol {3^1,7,1}
+                                                                  h{4,3^8}
+                                                    s{2^1,1,1,1,1,1,1,1,1}
+               [61]Coxeter diagram [CDel_nodes_10ru.png] [CDel_split2.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+         [CDel_node.png] [CDel_3.png] [CDel_node.png] = [CDel_node_h1.png]
+    [CDel_4.png] [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                 [CDel_node.png] [CDel_3.png] [CDel_node.png] [CDel_3.png]
+                                                           [CDel_node.png]
+           [CDel_node_h.png] [CDel_2c.png] [CDel_node_h.png] [CDel_2c.png]
+           [CDel_node_h.png] [CDel_2c.png] [CDel_node_h.png] [CDel_2c.png]
+           [CDel_node_h.png] [CDel_2c.png] [CDel_node_h.png] [CDel_2c.png]
+           [CDel_node_h.png] [CDel_2c.png] [CDel_node_h.png] [CDel_2c.png]
+                         [CDel_node_h.png] [CDel_2c.png] [CDel_node_h.png]
+                                              9-faces 532 20 [62]{3^1,6,1}
+                              [63][30px-Demienneract_ortho_petrie.svg.png]
+                             512 [64]{3^8} [65][25px-9-simplex_t0.svg.png]
+                                            8-faces 5300 180 [66]{3^1,5,1}
+                              [67][30px-Demiocteract_ortho_petrie.svg.png]
+                            5120 [68]{3^7} [69][25px-8-simplex_t0.svg.png]
+                                           7-faces 24000 960 [70]{3^1,4,1}
+                             [71][30px-Demihepteract_ortho_petrie.svg.png]
+                           23040 [72]{3^6} [73][25px-7-simplex_t0.svg.png]
+                                          6-faces 64800 3360 [74]{3^1,3,1}
+                              [75][30px-Demihexeract_ortho_petrie.svg.png]
+                           61440 [76]{3^5} [77][25px-6-simplex_t0.svg.png]
+                                         5-faces 115584 8064 [78]{3^1,2,1}
+                              [79][30px-Demipenteract_graph_ortho.svg.png]
+                          107520 [80]{3^4} [81][25px-5-simplex_t0.svg.png]
+       4-faces 142464 13440 [82]{3^1,1,1} [83][30px-Cross_graph_4.svg.png]
+                          129024 [84]{3^3} [85][25px-4-simplex_t0.svg.png]
+          Cells 122880 15360 [86]{3^1,0,1} [87][25px-3-simplex_t0.svg.png]
+                          107520 [88]{3,3} [89][25px-3-simplex_t0.svg.png]
+                       Faces 61440 [90]{3} [91][25px-2-simplex_t0.svg.png]
+                                                               Edges 11520
+                                                              Vertices 512
+                                 [92]Vertex figure [93]Rectified 9-simplex
+                                        [94][40px-Rectified_9-simplex.png]
+                         [95]Symmetry group D[10], [3^7,1,1] = [1^+,4,3^8]
+                                                                   [2^9]^+
+                                                                    Dual ?
+                                                     Properties [96]convex
+
+   In [97]geometry, a 10-demicube or demidekeract is a uniform
+   [98]10-polytope, constructed from the [99]10-cube with [100]alternated
+   vertices removed. It is part of a dimensionally infinite family of
+   [101]uniform polytopes called [102]demihypercubes.
+
+   [103]E. L. Elte identified it in 1912 as a semiregular polytope,
+   labeling it as HM[10] for a ten-dimensional half measure polytope.
+
+   [104]Coxeter named this polytope as 1[71] from its [105]Coxeter
+   diagram, with a ring on one of the 1-length branches, [CDel_node_1.png]
+   [CDel_3.png] [CDel_node.png] [CDel_split1.png] [CDel_nodes.png]
+   [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png]
+   [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png]
+   [CDel_3a.png] [CDel_nodea.png] [CDel_3a.png] [CDel_nodea.png] and
+   [106]Schläfli symbol
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow> <mo>{</mo> <mrow>
+   <mn>3</mn> <mrow class="MJX-TeXAtom-ORD"> <mtable columnalign="left"
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>3</mn> <mo>,</mo>
+   <mn>3</mn> <mo>,</mo> <mn>3</mn> <mo>,</mo> <mn>3</mn> <mo>,</mo>
+   <mn>3</mn> <mo>,</mo> <mn>3</mn> <mo>,</mo> <mn>3</mn> </mtd> </mtr>
+   <mtr> <mtd> <mn>3</mn> </mtd> </mtr> </mtable> </mrow> </mrow>
+   <mo>}</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   \left\{3{\begin{array}{l}3,3,3,3,3,3,3\\3\end{array}}\right\}}</annotat
+   ion> </semantics> :MATH]
+   {\displaystyle
+   \left\{3{\begin{array}{l}3,3,3,3,3,3,3\\3\end{array}}\right\}} or
+   {3,3^7,1}.
+
+Cartesian coordinates
+
+   [[107]edit]
+
+   [108]Cartesian coordinates for the vertices of a demidekeract centered
+   at the origin are alternate halves of the [109]dekeract:
+
+          (±1,±1,±1,±1,±1,±1,±1,±1,±1,±1)
+
+   with an odd number of plus signs.
+
+Images
+
+   [[110]edit]
+   [111][240px-10-demicube_graph.png]
+   B[10] coxeter plane [112][240px-10-demicube.svg.png]
+   D[10] coxeter plane
+   (Vertices are colored by multiplicity: red, orange, yellow, green =
+   1,2,4,8)
+
+Related polytopes
+
+   [[113]edit]
+
+   A [114]regular dodecahedron can be embedded as a [115]regular skew
+   polyhedron within the vertices in the 10-demicube, possessing the same
+   symmetries as the 3-dimensional dodecahedron.^[116][1]
+
+References
+
+   [[117]edit]
+    1. [118]^ Deza, Michael; Shtogrin, Mikhael (1998). [119]"Embedding the
+       graphs of regular tilings and star-honeycombs into the graphs of
+       hypercubes and cubic lattices". Advanced Studies in Pure
+       Mathematics. Arrangements – Tokyo 1998: 77.
+       [120]doi:[121]10.2969/aspm/02710073.
+       [122]ISBN [123]978-4-931469-77-8. Retrieved 4 April 2020.
+
+     * [124]H.S.M. Coxeter:
+          + Coxeter, [125]Regular Polytopes, (3rd edition, 1973), Dover
+            edition,
+       [126]ISBN [127]0-486-61480-8, p.296, Table I (iii): Regular
+       Polytopes, three regular polytopes in n-dimensions (n≥5)
+     * H.S.M. Coxeter, Regular Polytopes, 3rd Edition, Dover New York,
+       1973, p.296, Table I (iii): Regular Polytopes, three regular
+       polytopes in n-dimensions (n≥5)
+     * Kaleidoscopes: Selected Writings of H.S.M. Coxeter, edited by F.
+       Arthur Sherk, Peter McMullen, Anthony C. Thompson, Asia Ivic Weiss,
+       Wiley-Interscience Publication, 1995,
+
+   [128]ISBN [129]978-0-471-01003-6 [130][1]
+     * (Paper 22) H.S.M. Coxeter, Regular and Semi Regular Polytopes I,
+       [Math. Zeit. 46 (1940) 380-407, MR 2,10]
+     * (Paper 23) H.S.M. Coxeter, Regular and Semi-Regular Polytopes II,
+       [Math. Zeit. 188 (1985) 559-591]
+     * (Paper 24) H.S.M. Coxeter, Regular and Semi-Regular Polytopes III,
+       [Math. Zeit. 200 (1988) 3-45]
+
+     [131]John H. Conway, Heidi Burgiel, Chaim Goodman-Strauss, The
+   Symmetries of Things 2008,
+   [132]ISBN [133]978-1-56881-220-5 (Chapter 26. pp. 409: Hemicubes:
+   1[n1])
+
+     [134]Norman Johnson Uniform Polytopes, Manuscript (1991)
+     * N.W. Johnson: The Theory of Uniform Polytopes and Honeycombs, Ph.D.
+       (1966)
+
+     Klitzing, Richard. [135]"10D uniform polytopes (polyxenna) x3o3o
+   *b3o3o3o3o3o3o3o - hede".
+
+External links
+
+   [[136]edit]
+
+     *
+
+   Olshevsky, George. [137]"Demienneract". Glossary for Hyperspace.
+   Archived from [138]the original on 4 February 2007.
+
+     [139]Multi-dimensional Glossary
+
+     * [140]v
+     * [141]t
+     * [142]e
+
+   Fundamental convex [143]regular and [144]uniform polytopes in
+   dimensions 2–10
+
+   [145]Family [146]A[n] [147]B[n] I[2](p) / [148]D[n] [149]E[6] /
+   [150]E[7] / [151]E[8] / [152]F[4] / [153]G[2] [154]H[n]
+   [155]Regular polygon [156]Triangle [157]Square [158]p-gon [159]Hexagon
+   [160]Pentagon
+   [161]Uniform polyhedron [162]Tetrahedron [163]Octahedron • [164]Cube
+   [165]Demicube [166]Dodecahedron • [167]Icosahedron
+   [168]Uniform polychoron [169]Pentachoron [170]16-cell • [171]Tesseract
+   [172]Demitesseract [173]24-cell [174]120-cell • [175]600-cell
+   [176]Uniform 5-polytope [177]5-simplex [178]5-orthoplex • [179]5-cube
+   [180]5-demicube
+   [181]Uniform 6-polytope [182]6-simplex [183]6-orthoplex • [184]6-cube
+   [185]6-demicube [186]1[22] • [187]2[21]
+   [188]Uniform 7-polytope [189]7-simplex [190]7-orthoplex • [191]7-cube
+   [192]7-demicube [193]1[32] • [194]2[31] • [195]3[21]
+   [196]Uniform 8-polytope [197]8-simplex [198]8-orthoplex • [199]8-cube
+   [200]8-demicube [201]1[42] • [202]2[41] • [203]4[21]
+   [204]Uniform 9-polytope [205]9-simplex [206]9-orthoplex • [207]9-cube
+   [208]9-demicube
+   [209]Uniform 10-polytope [210]10-simplex [211]10-orthoplex •
+   [212]10-cube 10-demicube
+   Uniform n-[213]polytope n-[214]simplex n-[215]orthoplex • n-[216]cube
+   n-[217]demicube [218]1[k2] • [219]2[k1] • [220]k[21] n-[221]pentagonal
+   polytope
+   Topics: [222]Polytope families • [223]Regular polytope • [224]List of
+   regular polytopes and compounds
+
+   Retrieved from
+   "[225]https://en.wikipedia.org/w/index.php?title=10-demicube&oldid=1226
+   077098"
+
+   [226]Category:
+     * [227]10-polytopes
+
+     * This page was last edited on 28 May 2024, at 12:38 (UTC).
+     * Text is available under the [228]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [229]Terms of Use and
+       [230]Privacy Policy. Wikipedia® is a registered trademark of the
+       [231]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [232]Privacy policy
+     * [233]About Wikipedia
+     * [234]Disclaimers
+     * [235]Contact Wikipedia
+     * [236]Code of Conduct
+     * [237]Developers
+     * [238]Statistics
+     * [239]Cookie statement
+     * [240]Mobile view
+
+     * [241]Wikimedia Foundation
+     * [242]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/10-demicube
+   2. file:///w/index.php?title=10-demicube&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXwmpG3d/L62082-5732TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=10-demicube
+  21. file:///w/index.php?title=Special:UserLogin&returnto=10-demicube
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=10-demicube
+  24. file:///w/index.php?title=Special:UserLogin&returnto=10-demicube
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXwmpG3d/L62082-5732TMP.html
+  29. file:///tmp/lynxXXXXwmpG3d/L62082-5732TMP.html#Cartesian_coordinates
+  30. file:///tmp/lynxXXXXwmpG3d/L62082-5732TMP.html#Images
+  31. file:///tmp/lynxXXXXwmpG3d/L62082-5732TMP.html#Related_polytopes
+  32. file:///tmp/lynxXXXXwmpG3d/L62082-5732TMP.html#References
+  33. file:///tmp/lynxXXXXwmpG3d/L62082-5732TMP.html#External_links
+  34. https://www.wikidata.org/wiki/Special:EntityPage/Q4545900#sitelinks-wikipedia
+  35. file:///wiki/10-demicube
+  36. file:///wiki/Talk:10-demicube
+  37. file:///wiki/10-demicube
+  38. file:///w/index.php?title=10-demicube&action=edit
+  39. file:///w/index.php?title=10-demicube&action=history
+  40. file:///wiki/10-demicube
+  41. file:///w/index.php?title=10-demicube&action=edit
+  42. file:///w/index.php?title=10-demicube&action=history
+  43. file:///wiki/Special:WhatLinksHere/10-demicube
+  44. file:///wiki/Special:RecentChangesLinked/10-demicube
+  45. file:///wiki/Wikipedia:File_Upload_Wizard
+  46. file:///wiki/Special:SpecialPages
+  47. file:///w/index.php?title=10-demicube&oldid=1226077098
+  48. file:///w/index.php?title=10-demicube&action=info
+  49. file:///w/index.php?title=Special:CiteThisPage&page=10-demicube&id=1226077098&wpFormIdentifier=titleform
+  50. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/10-demicube
+  51. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/10-demicube
+  52. file:///w/index.php?title=Special:DownloadAsPdf&page=10-demicube&action=show-download-screen
+  53. file:///w/index.php?title=10-demicube&printable=yes
+  54. https://www.wikidata.org/wiki/Special:EntityPage/Q4545900
+  55. file:///wiki/File:Demidekeract_ortho_petrie.svg
+  56. file:///wiki/Petrie_polygon
+  57. file:///wiki/10-polytope
+  58. file:///wiki/Demihypercube
+  59. file:///wiki/Coxeter_symbol
+  60. file:///wiki/Schläfli_symbol
+  61. file:///wiki/Coxeter_diagram
+  62. file:///wiki/Demienneract
+  63. file:///wiki/File:Demienneract_ortho_petrie.svg
+  64. file:///wiki/9-simplex
+  65. file:///wiki/File:9-simplex_t0.svg
+  66. file:///wiki/Demiocteract
+  67. file:///wiki/File:Demiocteract_ortho_petrie.svg
+  68. file:///wiki/8-simplex
+  69. file:///wiki/File:8-simplex_t0.svg
+  70. file:///wiki/Demihepteract
+  71. file:///wiki/File:Demihepteract_ortho_petrie.svg
+  72. file:///wiki/7-simplex
+  73. file:///wiki/File:7-simplex_t0.svg
+  74. file:///wiki/Demihexeract
+  75. file:///wiki/File:Demihexeract_ortho_petrie.svg
+  76. file:///wiki/6-simplex
+  77. file:///wiki/File:6-simplex_t0.svg
+  78. file:///wiki/Demipenteract
+  79. file:///wiki/File:Demipenteract_graph_ortho.svg
+  80. file:///wiki/5-simplex
+  81. file:///wiki/File:5-simplex_t0.svg
+  82. file:///wiki/16-cell
+  83. file:///wiki/File:Cross_graph_4.svg
+  84. file:///wiki/5-cell
+  85. file:///wiki/File:4-simplex_t0.svg
+  86. file:///wiki/Tetrahedron
+  87. file:///wiki/File:3-simplex_t0.svg
+  88. file:///wiki/Tetrahedron
+  89. file:///wiki/File:3-simplex_t0.svg
+  90. file:///wiki/Triangle
+  91. file:///wiki/File:2-simplex_t0.svg
+  92. file:///wiki/Vertex_figure
+  93. file:///wiki/Rectified_9-simplex
+  94. file:///wiki/File:Rectified_9-simplex.png
+  95. file:///wiki/Coxeter_notation
+  96. file:///wiki/Convex_polytope
+  97. file:///wiki/Geometry
+  98. file:///wiki/10-polytope
+  99. file:///wiki/10-cube
+ 100. file:///wiki/Alternation_(geometry)
+ 101. file:///wiki/Uniform_polytope
+ 102. file:///wiki/Demihypercube
+ 103. file:///wiki/Emanuel_Lodewijk_Elte
+ 104. file:///wiki/Coxeter
+ 105. file:///wiki/Coxeter_diagram
+ 106. file:///wiki/Schläfli_symbol
+ 107. file:///w/index.php?title=10-demicube&action=edit&section=1
+ 108. file:///wiki/Cartesian_coordinates
+ 109. file:///wiki/Dekeract
+ 110. file:///w/index.php?title=10-demicube&action=edit&section=2
+ 111. file:///wiki/File:10-demicube_graph.png
+ 112. file:///wiki/File:10-demicube.svg
+ 113. file:///w/index.php?title=10-demicube&action=edit&section=3
+ 114. file:///wiki/Regular_dodecahedron
+ 115. file:///wiki/Regular_skew_polyhedron
+ 116. file:///tmp/lynxXXXXwmpG3d/L62082-5732TMP.html#cite_note-1
+ 117. file:///w/index.php?title=10-demicube&action=edit&section=4
+ 118. file:///tmp/lynxXXXXwmpG3d/L62082-5732TMP.html#cite_ref-1
+ 119. https://projecteuclid.org/euclid.aspm/1534788966
+ 120. file:///wiki/Doi_(identifier)
+ 121. https://doi.org/10.2969/aspm/02710073
+ 122. file:///wiki/ISBN_(identifier)
+ 123. file:///wiki/Special:BookSources/978-4-931469-77-8
+ 124. file:///wiki/Harold_Scott_MacDonald_Coxeter
+ 125. file:///wiki/Regular_Polytopes_(book)
+ 126. file:///wiki/ISBN_(identifier)
+ 127. file:///wiki/Special:BookSources/0-486-61480-8
+ 128. file:///wiki/ISBN_(identifier)
+ 129. file:///wiki/Special:BookSources/978-0-471-01003-6
+ 130. http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471010030.html
+ 131. file:///wiki/John_Horton_Conway
+ 132. file:///wiki/ISBN_(identifier)
+ 133. file:///wiki/Special:BookSources/978-1-56881-220-5
+ 134. file:///wiki/Norman_Johnson_(mathematician)
+ 135. https://bendwavy.org/klitzing/dimensions/polyxenna.htm
+ 136. file:///w/index.php?title=10-demicube&action=edit&section=5
+ 137. https://web.archive.org/web/20070204075028/members.aol.com/Polycell/glossary.html#half
+ 138. http://members.aol.com/Polycell/glossary.html#half
+ 139. http://tetraspace.alkaline.org/glossary.htm
+ 140. file:///wiki/Template:Polytopes
+ 141. file:///wiki/Template_talk:Polytopes
+ 142. file:///wiki/Special:EditPage/Template:Polytopes
+ 143. file:///wiki/Regular_polytope
+ 144. file:///wiki/Uniform_polytope
+ 145. file:///wiki/Coxeter_group#Finite_Coxeter_groups
+ 146. file:///wiki/Simple_Lie_group#A_series
+ 147. file:///wiki/Simple_Lie_group#B_series
+ 148. file:///wiki/Simple_Lie_group#D_series
+ 149. file:///wiki/E6_(mathematics)
+ 150. file:///wiki/E7_(mathematics)
+ 151. file:///wiki/E8_(mathematics)
+ 152. file:///wiki/F4_(mathematics)
+ 153. file:///wiki/G2_(mathematics)
+ 154. file:///wiki/H4_(mathematics)
+ 155. file:///wiki/Regular_polygon
+ 156. file:///wiki/Equilateral_triangle
+ 157. file:///wiki/Square
+ 158. file:///wiki/Regular_polygon
+ 159. file:///wiki/Hexagon
+ 160. file:///wiki/Pentagon
+ 161. file:///wiki/Uniform_polyhedron
+ 162. file:///wiki/Tetrahedron
+ 163. file:///wiki/Octahedron
+ 164. file:///wiki/Cube
+ 165. file:///wiki/Tetrahedron
+ 166. file:///wiki/Regular_dodecahedron
+ 167. file:///wiki/Regular_icosahedron
+ 168. file:///wiki/Uniform_polychoron
+ 169. file:///wiki/5-cell
+ 170. file:///wiki/16-cell
+ 171. file:///wiki/Tesseract
+ 172. file:///wiki/16-cell
+ 173. file:///wiki/24-cell
+ 174. file:///wiki/120-cell
+ 175. file:///wiki/600-cell
+ 176. file:///wiki/Uniform_5-polytope
+ 177. file:///wiki/5-simplex
+ 178. file:///wiki/5-orthoplex
+ 179. file:///wiki/5-cube
+ 180. file:///wiki/5-demicube
+ 181. file:///wiki/Uniform_6-polytope
+ 182. file:///wiki/6-simplex
+ 183. file:///wiki/6-orthoplex
+ 184. file:///wiki/6-cube
+ 185. file:///wiki/6-demicube
+ 186. file:///wiki/1_22_polytope
+ 187. file:///wiki/2_21_polytope
+ 188. file:///wiki/Uniform_7-polytope
+ 189. file:///wiki/7-simplex
+ 190. file:///wiki/7-orthoplex
+ 191. file:///wiki/7-cube
+ 192. file:///wiki/7-demicube
+ 193. file:///wiki/1_32_polytope
+ 194. file:///wiki/2_31_polytope
+ 195. file:///wiki/3_21_polytope
+ 196. file:///wiki/Uniform_8-polytope
+ 197. file:///wiki/8-simplex
+ 198. file:///wiki/8-orthoplex
+ 199. file:///wiki/8-cube
+ 200. file:///wiki/8-demicube
+ 201. file:///wiki/1_42_polytope
+ 202. file:///wiki/2_41_polytope
+ 203. file:///wiki/4_21_polytope
+ 204. file:///wiki/Uniform_9-polytope
+ 205. file:///wiki/9-simplex
+ 206. file:///wiki/9-orthoplex
+ 207. file:///wiki/9-cube
+ 208. file:///wiki/9-demicube
+ 209. file:///wiki/Uniform_10-polytope
+ 210. file:///wiki/10-simplex
+ 211. file:///wiki/10-orthoplex
+ 212. file:///wiki/10-cube
+ 213. file:///wiki/Polytope
+ 214. file:///wiki/Simplex
+ 215. file:///wiki/Cross-polytope
+ 216. file:///wiki/Hypercube
+ 217. file:///wiki/Demihypercube
+ 218. file:///wiki/Uniform_1_k2_polytope
+ 219. file:///wiki/Uniform_2_k1_polytope
+ 220. file:///wiki/Uniform_k_21_polytope
+ 221. file:///wiki/Pentagonal_polytope
+ 222. file:///wiki/Polytope_families
+ 223. file:///wiki/Regular_polytope
+ 224. file:///wiki/List_of_regular_polytopes_and_compounds
+ 225. https://en.wikipedia.org/w/index.php?title=10-demicube&oldid=1226077098
+ 226. file:///wiki/Help:Category
+ 227. file:///wiki/Category:10-polytopes
+ 228. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 229. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 230. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 231. https://wikimediafoundation.org/
+ 232. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 233. file:///wiki/Wikipedia:About
+ 234. file:///wiki/Wikipedia:General_disclaimer
+ 235. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 236. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 237. https://developer.wikimedia.org/
+ 238. https://stats.wikimedia.org/#/en.wikipedia.org
+ 239. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 240. file://en.m.wikipedia.org/w/index.php?title=10-demicube&mobileaction=toggle_view_mobile
+ 241. https://wikimediafoundation.org/
+ 242. https://www.mediawiki.org/

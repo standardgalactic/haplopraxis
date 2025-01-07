@@ -1,0 +1,3089 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 History
+       (BUTTON) Toggle History subsection
+          + [30]1.1 The Grothendieck group K[0]
+          + [31]1.2 K[0], K[1], and K[2]
+          + [32]1.3 Higher K-groups
+          + [33]1.4 Applications of algebraic K-theory in topology
+          + [34]1.5 Algebraic topology and algebraic geometry in algebraic
+            K-theory
+     * [35]2 Lower K-groups
+       (BUTTON) Toggle Lower K-groups subsection
+          + [36]2.1 K[0]
+               o [37]2.1.1 Examples
+               o [38]2.1.2 Relative K[0]
+               o [39]2.1.3 K[0] as a ring
+          + [40]2.2 K[1]
+               o [41]2.2.1 Relative K[1]
+               o [42]2.2.2 Commutative rings and fields
+               o [43]2.2.3 Central simple algebras
+          + [44]2.3 K[2]
+               o [45]2.3.1 Matsumoto's theorem
+               o [46]2.3.2 Long exact sequences
+               o [47]2.3.3 Pairing
+     * [48]3 Milnor K-theory
+     * [49]4 Higher K-theory
+       (BUTTON) Toggle Higher K-theory subsection
+          + [50]4.1 The +-construction
+          + [51]4.2 The Q-construction
+          + [52]4.3 The S-construction
+     * [53]5 Examples
+       (BUTTON) Toggle Examples subsection
+          + [54]5.1 Algebraic K-groups of finite fields
+          + [55]5.2 Algebraic K-groups of rings of integers
+     * [56]6 Applications and open questions
+     * [57]7 See also
+     * [58]8 Notes
+     * [59]9 References
+     * [60]10 Further reading
+       (BUTTON) Toggle Further reading subsection
+          + [61]10.1 Pedagogical references
+          + [62]10.2 Historical references
+     * [63]11 External links
+
+   [ ] Toggle the table of contents
+
+Algebraic K-theory
+
+   [ ] 7 languages
+     * [64]Deutsch
+     * [65]Français
+     * [66]한국어
+     * [67]Nederlands
+     * [68]日本語
+     * [69]Português
+     * [70]Svenska
+
+   [71]Edit links
+
+     * [72]Article
+     * [73]Talk
+
+   [ ] English
+
+     * [74]Read
+     * [75]Edit
+     * [76]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [77]Read
+     * [78]Edit
+     * [79]View history
+
+   General
+     * [80]What links here
+     * [81]Related changes
+     * [82]Upload file
+     * [83]Special pages
+     * [84]Permanent link
+     * [85]Page information
+     * [86]Cite this page
+     * [87]Get shortened URL
+     * [88]Download QR code
+
+   Print/export
+     * [89]Download as PDF
+     * [90]Printable version
+
+   In other projects
+     * [91]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [92]+ construction)
+   Subject area in mathematics
+
+   Algebraic K-theory is a subject area in mathematics with connections to
+   [93]geometry, [94]topology, [95]ring theory, and [96]number theory.
+   Geometric, algebraic, and arithmetic objects are assigned objects
+   called K-groups. These are [97]groups in the sense of [98]abstract
+   algebra. They contain detailed information about the original object
+   but are notoriously difficult to compute; for example, an important
+   outstanding problem is to compute the K-groups of the [99]integers.
+
+   K-theory was discovered in the late 1950s by [100]Alexander
+   Grothendieck in his study of [101]intersection theory on [102]algebraic
+   varieties. In the modern language, Grothendieck defined only K[0], the
+   zeroth K-group, but even this single group has plenty of applications,
+   such as the [103]Grothendieck–Riemann–Roch theorem. Intersection theory
+   is still a motivating force in the development of (higher) algebraic
+   K-theory through its links with [104]motivic cohomology and
+   specifically [105]Chow groups. The subject also includes classical
+   number-theoretic topics like [106]quadratic reciprocity and embeddings
+   of [107]number fields into the [108]real numbers and [109]complex
+   numbers, as well as more modern concerns like the construction of
+   higher [110]regulators and special values of [111]L-functions.
+
+   The lower K-groups were discovered first, in the sense that adequate
+   descriptions of these groups in terms of other algebraic structures
+   were found. For example, if F is a [112]field, then K[0](F) is
+   isomorphic to the integers Z and is closely related to the notion of
+   [113]vector space dimension. For a [114]commutative ring R, the group
+   K[0](R) is related to the [115]Picard group of R, and when R is the
+   ring of integers in a number field, this generalizes the classical
+   construction of the [116]class group. The group K[1](R) is closely
+   related to the [117]group of units R^×, and if R is a field, it is
+   exactly the group of units. For a number field F, the group K[2](F) is
+   related to [118]class field theory, the [119]Hilbert symbol, and the
+   solvability of quadratic equations over completions. In contrast,
+   finding the correct definition of the higher K-groups of rings was a
+   difficult achievement of [120]Daniel Quillen, and many of the basic
+   facts about the higher K-groups of algebraic varieties were not known
+   until the work of [121]Robert Thomason.
+
+History
+
+   [[122]edit]
+
+   The history of K-theory was detailed by [123]Charles Weibel.^[124][1]
+
+The Grothendieck group K[0]
+
+   [[125]edit]
+
+   In the 19th century, [126]Bernhard Riemann and his student [127]Gustav
+   Roch proved what is now known as the [128]Riemann–Roch theorem. If X is
+   a [129]Riemann surface, then the sets of [130]meromorphic functions and
+   meromorphic [131]differential forms on X form vector spaces. A
+   [132]line bundle on X determines subspaces of these vector spaces, and
+   if X is projective, then these subspaces are finite dimensional. The
+   Riemann–Roch theorem states that the difference in dimensions between
+   these subspaces is equal to the degree of the line bundle (a measure of
+   twistedness) plus one minus the genus of X. In the mid-20th century,
+   the Riemann–Roch theorem was generalized by [133]Friedrich Hirzebruch
+   to all algebraic varieties. In Hirzebruch's formulation, the
+   [134]Hirzebruch–Riemann–Roch theorem, the theorem became a statement
+   about [135]Euler characteristics: The Euler characteristic of a
+   [136]vector bundle on an algebraic variety (which is the alternating
+   sum of the dimensions of its cohomology groups) equals the Euler
+   characteristic of the trivial bundle plus a correction factor coming
+   from [137]characteristic classes of the vector bundle. This is a
+   generalization because on a projective Riemann surface, the Euler
+   characteristic of a line bundle equals the difference in dimensions
+   mentioned previously, the Euler characteristic of the trivial bundle is
+   one minus the genus, and the only nontrivial characteristic class is
+   the degree.
+
+   The subject of K-theory takes its name from a 1957 construction of
+   [138]Alexander Grothendieck which appeared in the
+   [139]Grothendieck–Riemann–Roch theorem, his generalization of
+   Hirzebruch's theorem.^[140][2] Let X be a smooth algebraic variety. To
+   each vector bundle on X, Grothendieck associates an invariant, its
+   class. The set of all classes on X was called K(X) from the German
+   Klasse. By definition, K(X) is a [141]quotient of the [142]free abelian
+   group on isomorphism classes of vector bundles on X, and so it is an
+   abelian group. If the basis element corresponding to a vector bundle V
+   is denoted [V], then for each short exact sequence of vector bundles:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>0</mn> <mo
+          stretchy="false">→</mo> <msup> <mi>V</mi> <mo>′</mo> </msup> <mo
+          stretchy="false">→</mo> <mi>V</mi> <mo stretchy="false">→</mo>
+          <msup> <mi>V</mi> <mo>″</mo> </msup> <mo stretchy="false">→</mo>
+          <mn>0</mn> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 0\to V'\to V\to
+          V''\to 0,}</annotation> </semantics> :MATH]
+          {\displaystyle 0\to V'\to V\to V''\to 0,}
+
+   Grothendieck imposed the relation [V] = [V′] + [V″]. These generators
+   and relations define K(X), and they imply that it is the universal way
+   to assign invariants to vector bundles in a way compatible with exact
+   sequences.
+
+   Grothendieck took the perspective that the Riemann–Roch theorem is a
+   statement about morphisms of varieties, not the varieties themselves.
+   He proved that there is a homomorphism from K(X) to the [143]Chow
+   groups of X coming from the [144]Chern character and [145]Todd class of
+   X. Additionally, he proved that a proper morphism f : X → Y to a smooth
+   variety Y determines a homomorphism f[*] : K(X) → K(Y) called the
+   pushforward. This gives two ways of determining an element in the Chow
+   group of Y from a vector bundle on X: Starting from X, one can first
+   compute the pushforward in K-theory and then apply the Chern character
+   and Todd class of Y, or one can first apply the Chern character and
+   Todd class of X and then compute the pushforward for Chow groups. The
+   Grothendieck–Riemann–Roch theorem says that these are equal. When Y is
+   a point, a vector bundle is a vector space, the class of a vector space
+   is its dimension, and the Grothendieck–Riemann–Roch theorem specializes
+   to Hirzebruch's theorem.
+
+   The group K(X) is now known as K[0](X). Upon replacing vector bundles
+   by projective modules, K[0] also became defined for non-commutative
+   rings, where it had applications to [146]group representations.
+   [147]Atiyah and Hirzebruch quickly transported Grothendieck's
+   construction to topology and used it to define [148]topological
+   K-theory.^[149][3] Topological K-theory was one of the first examples
+   of an [150]extraordinary cohomology theory: It associates to each
+   topological space X (satisfying some mild technical constraints) a
+   sequence of groups K[n](X) which satisfy all the
+   [151]Eilenberg–Steenrod axioms except the normalization axiom. The
+   setting of algebraic varieties, however, is much more rigid, and the
+   flexible constructions used in topology were not available. While the
+   group K[0] seemed to satisfy the necessary properties to be the
+   beginning of a cohomology theory of algebraic varieties and of
+   non-commutative rings, there was no clear definition of the higher
+   K[n](X). Even as such definitions were developed, technical issues
+   surrounding restriction and gluing usually forced K[n] to be defined
+   only for rings, not for varieties.
+
+K[0], K[1], and K[2]
+
+   [[152]edit]
+
+   A group closely related to K[1] for group rings was earlier introduced
+   by [153]J.H.C. Whitehead. [154]Henri Poincaré had attempted to define
+   the Betti numbers of a manifold in terms of a triangulation. His
+   methods, however, had a serious gap: Poincaré could not prove that two
+   triangulations of a manifold always yielded the same Betti numbers. It
+   was clearly true that Betti numbers were unchanged by subdividing the
+   triangulation, and therefore it was clear that any two triangulations
+   that shared a common subdivision had the same Betti numbers. What was
+   not known was that any two triangulations admitted a common
+   subdivision. This hypothesis became a conjecture known as the
+   [155]Hauptvermutung (roughly "main conjecture"). The fact that
+   triangulations were stable under subdivision led [156]J.H.C. Whitehead
+   to introduce the notion of [157]simple homotopy type.^[158][4] A simple
+   homotopy equivalence is defined in terms of adding simplices or cells
+   to a [159]simplicial complex or [160]cell complex in such a way that
+   each additional simplex or cell deformation retracts into a subdivision
+   of the old space. Part of the motivation for this definition is that a
+   subdivision of a triangulation is simple homotopy equivalent to the
+   original triangulation, and therefore two triangulations that share a
+   common subdivision must be simple homotopy equivalent. Whitehead proved
+   that simple homotopy equivalence is a finer invariant than homotopy
+   equivalence by introducing an invariant called the torsion. The torsion
+   of a homotopy equivalence takes values in a group now called the
+   Whitehead group and denoted Wh(π), where π is the fundamental group of
+   the target complex. Whitehead found examples of non-trivial torsion and
+   thereby proved that some homotopy equivalences were not simple. The
+   Whitehead group was later discovered to be a quotient of K[1](Zπ),
+   where Zπ is the integral [161]group ring of π. Later [162]John Milnor
+   used [163]Reidemeister torsion, an invariant related to Whitehead
+   torsion, to disprove the Hauptvermutung.
+
+   The first adequate definition of K[1] of a ring was made by [164]Hyman
+   Bass and [165]Stephen Schanuel.^[166][5] In topological K-theory, K[1]
+   is defined using vector bundles on a [167]suspension of the space. All
+   such vector bundles come from the [168]clutching construction, where
+   two trivial vector bundles on two halves of a space are glued along a
+   common strip of the space. This gluing data is expressed using the
+   [169]general linear group, but elements of that group coming from
+   elementary matrices (matrices corresponding to elementary row or column
+   operations) define equivalent gluings. Motivated by this, the
+   Bass–Schanuel definition of K[1] of a ring R is GL(R) / E(R), where
+   GL(R) is the infinite general linear group (the union of all GL[n](R))
+   and E(R) is the subgroup of elementary matrices. They also provided a
+   definition of K[0] of a homomorphism of rings and proved that K[0] and
+   K[1] could be fit together into an exact sequence similar to the
+   relative homology exact sequence.
+
+   Work in K-theory from this period culminated in Bass' book Algebraic
+   K-theory.^[170][6] In addition to providing a coherent exposition of
+   the results then known, Bass improved many of the statements of the
+   theorems. Of particular note is that Bass, building on his earlier work
+   with Murthy,^[171][7] provided the first proof of what is now known as
+   the [172]fundamental theorem of algebraic K-theory. This is a four-term
+   exact sequence relating K[0] of a ring R to K[1] of R, the polynomial
+   ring R[t], and the localization R[t, t^−1]. Bass recognized that this
+   theorem provided a description of K[0] entirely in terms of K[1]. By
+   applying this description recursively, he produced negative K-groups
+   K[−n](R). In independent work, [173]Max Karoubi gave another definition
+   of negative K-groups for certain categories and proved that his
+   definitions yielded that same groups as those of Bass.^[174][8]
+
+   The next major development in the subject came with the definition of
+   K[2]. Steinberg studied the [175]universal central extensions of a
+   Chevalley group over a field and gave an explicit presentation of this
+   group in terms of generators and relations.^[176][9] In the case of the
+   group E[n](k) of elementary matrices, the universal central extension
+   is now written St[n](k) and called the Steinberg group. In the spring
+   of 1967, [177]John Milnor defined K[2](R) to be the kernel of the
+   homomorphism St(R) → E(R).^[178][10] The group K[2] further extended
+   some of the exact sequences known for K[1] and K[0], and it had
+   striking applications to number theory. [179]Hideya Matsumoto's 1968
+   thesis^[180][11] showed that for a field F, K[2](F) was isomorphic to:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>F</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>×</mo> </mrow> </msup> <msub>
+          <mo>⊗</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">Z</mi> </mrow>
+          </mrow> </msub> <msup> <mi>F</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mo>×</mo> </mrow> </msup> <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo> </mrow> <mo fence="false" stretchy="false">⟨</mo>
+          <mi>x</mi> <mo>⊗</mo> <mo stretchy="false">(</mo> <mn>1</mn>
+          <mo>−</mo> <mi>x</mi> <mo stretchy="false">)</mo> <mo>:</mo>
+          <mi>x</mi> <mo>∈</mo> <mi>F</mi> <mo class="MJX-variant">∖</mo>
+          <mo fence="false" stretchy="false">{</mo> <mn>0</mn> <mo>,</mo>
+          <mn>1</mn> <mo fence="false" stretchy="false">}</mo> <mo
+          fence="false" stretchy="false">⟩</mo> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          F^{\times }\otimes _{\mathbf {Z} }F^{\times }/\langle x\otimes
+          (1-x)\colon x\in F\setminus \{0,1\}\rangle .}</annotation>
+          </semantics> :MATH]
+          {\displaystyle F^{\times }\otimes _{\mathbf {Z} }F^{\times
+          }/\langle x\otimes (1-x)\colon x\in F\setminus \{0,1\}\rangle .}
+
+   This relation is also satisfied by the [181]Hilbert symbol, which
+   expresses the solvability of quadratic equations over [182]local
+   fields. In particular, [183]John Tate was able to prove that K[2](Q) is
+   essentially structured around the law of [184]quadratic reciprocity.
+
+Higher K-groups
+
+   [[185]edit]
+
+   In the late 1960s and early 1970s, several definitions of higher
+   K-theory were proposed. Swan^[186][12] and Gersten^[187][13] both
+   produced definitions of K[n] for all n, and Gersten proved that his and
+   Swan's theories were equivalent, but the two theories were not known to
+   satisfy all the expected properties. Nobile and Villamayor also
+   proposed a definition of higher K-groups.^[188][14] Karoubi and
+   Villamayor defined well-behaved K-groups for all n,^[189][15] but their
+   equivalent of K[1] was sometimes a proper quotient of the Bass–Schanuel
+   K[1]. Their K-groups are now called KV[n] and are related to
+   homotopy-invariant modifications of K-theory.
+
+   Inspired in part by Matsumoto's theorem, Milnor made a definition of
+   the higher K-groups of a field.^[190][16] He referred to his definition
+   as "purely ad hoc",^[191][17] and it neither appeared to generalize to
+   all rings nor did it appear to be the correct definition of the higher
+   K-theory of fields. Much later, it was discovered by Nesterenko and
+   Suslin^[192][18] and by Totaro^[193][19] that Milnor K-theory is
+   actually a direct summand of the true K-theory of the field.
+   Specifically, K-groups have a filtration called the weight filtration,
+   and the Milnor K-theory of a field is the highest weight-graded piece
+   of the K-theory. Additionally, Thomason discovered that there is no
+   analog of Milnor K-theory for a general variety.^[194][20]
+
+   The first definition of higher K-theory to be widely accepted was
+   [195]Daniel Quillen's.^[196][21] As part of Quillen's work on the
+   [197]Adams conjecture in topology, he had constructed maps from the
+   [198]classifying spaces BGL(F[q]) to the homotopy fiber of ψ^q − 1,
+   where ψ^q is the qth [199]Adams operation acting on the classifying
+   space BU. This map is acyclic, and after modifying BGL(F[q]) slightly
+   to produce a new space BGL(F[q])^+, the map became a homotopy
+   equivalence. This modification was called the [200]plus construction.
+   The Adams operations had been known to be related to Chern classes and
+   to K-theory since the work of Grothendieck, and so Quillen was led to
+   define the K-theory of R as the homotopy groups of BGL(R)^+. Not only
+   did this recover K[1] and K[2], the relation of K-theory to the Adams
+   operations allowed Quillen to compute the K-groups of finite fields.
+
+   The classifying space BGL is connected, so Quillen's definition failed
+   to give the correct value for K[0]. Additionally, it did not give any
+   negative K-groups. Since K[0] had a known and accepted definition it
+   was possible to sidestep this difficulty, but it remained technically
+   awkward. Conceptually, the problem was that the definition sprung from
+   GL, which was classically the source of K[1]. Because GL knows only
+   about gluing vector bundles, not about the vector bundles themselves,
+   it was impossible for it to describe K[0].
+
+   Inspired by conversations with Quillen, Segal soon introduced another
+   approach to constructing algebraic K-theory under the name of
+   Γ-objects.^[201][22] Segal's approach is a homotopy analog of
+   Grothendieck's construction of K[0]. Where Grothendieck worked with
+   isomorphism classes of bundles, Segal worked with the bundles
+   themselves and used isomorphisms of the bundles as part of his data.
+   This results in a [202]spectrum whose homotopy groups are the higher
+   K-groups (including K[0]). However, Segal's approach was only able to
+   impose relations for split exact sequences, not general exact
+   sequences. In the category of projective modules over a ring, every
+   short exact sequence splits, and so Γ-objects could be used to define
+   the K-theory of a ring. However, there are non-split short exact
+   sequences in the category of vector bundles on a variety and in the
+   category of all modules over a ring, so Segal's approach did not apply
+   to all cases of interest.
+
+   In the spring of 1972, Quillen found another approach to the
+   construction of higher K-theory which was to prove enormously
+   successful. This new definition began with an [203]exact category, a
+   category satisfying certain formal properties similar to, but slightly
+   weaker than, the properties satisfied by a category of modules or
+   vector bundles. From this he constructed an auxiliary category using a
+   new device called his "[204]Q-construction." Like Segal's Γ-objects,
+   the Q-construction has its roots in Grothendieck's definition of K[0].
+   Unlike Grothendieck's definition, however, the Q-construction builds a
+   category, not an abelian group, and unlike Segal's Γ-objects, the
+   Q-construction works directly with short exact sequences. If C is an
+   [205]abelian category, then QC is a category with the same objects as C
+   but whose morphisms are defined in terms of short exact sequences in C.
+   The K-groups of the exact category are the homotopy groups of ΩBQC, the
+   [206]loop space of the [207]geometric realization (taking the loop
+   space corrects the indexing). Quillen additionally proved his "+ = Q
+   theorem" that his two definitions of K-theory agreed with each other.
+   This yielded the correct K[0] and led to simpler proofs, but still did
+   not yield any negative K-groups.
+
+   All abelian categories are exact categories, but not all exact
+   categories are abelian. Because Quillen was able to work in this more
+   general situation, he was able to use exact categories as tools in his
+   proofs. This technique allowed him to prove many of the basic theorems
+   of algebraic K-theory. Additionally, it was possible to prove that the
+   earlier definitions of Swan and Gersten were equivalent to Quillen's
+   under certain conditions.
+
+   K-theory now appeared to be a homology theory for rings and a
+   cohomology theory for varieties. However, many of its basic theorems
+   carried the hypothesis that the ring or variety in question was
+   regular. One of the basic expected relations was a long exact sequence
+   (called the "localization sequence") relating the K-theory of a variety
+   X and an open subset U. Quillen was unable to prove the existence of
+   the localization sequence in full generality. He was, however, able to
+   prove its existence for a related theory called G-theory (or sometimes
+   K′-theory). G-theory had been defined early in the development of the
+   subject by Grothendieck. Grothendieck defined G[0](X) for a variety X
+   to be the free abelian group on isomorphism classes of coherent sheaves
+   on X, modulo relations coming from exact sequences of coherent sheaves.
+   In the categorical framework adopted by later authors, the K-theory of
+   a variety is the K-theory of its category of vector bundles, while its
+   G-theory is the K-theory of its category of coherent sheaves. Not only
+   could Quillen prove the existence of a localization exact sequence for
+   G-theory, he could prove that for a regular ring or variety, K-theory
+   equaled G-theory, and therefore K-theory of regular varieties had a
+   localization exact sequence. Since this sequence was fundamental to
+   many of the facts in the subject, regularity hypotheses pervaded early
+   work on higher K-theory.
+
+Applications of algebraic K-theory in topology
+
+   [[208]edit]
+
+   The earliest application of algebraic K-theory to topology was
+   Whitehead's construction of Whitehead torsion. A closely related
+   construction was found by [209]C. T. C. Wall in 1963.^[210][23] Wall
+   found that a space X dominated by a finite complex has a generalized
+   Euler characteristic taking values in a quotient of K[0](Zπ), where π
+   is the fundamental group of the space. This invariant is called Wall's
+   finiteness obstruction because X is homotopy equivalent to a finite
+   complex if and only if the invariant vanishes. [211]Laurent Siebenmann
+   in his thesis found an invariant similar to Wall's that gives an
+   obstruction to an open manifold being the interior of a compact
+   manifold with boundary.^[212][24] If two manifolds with boundary M and
+   N have isomorphic interiors (in TOP, PL, or DIFF as appropriate), then
+   the isomorphism between them defines an h-cobordism between M and N.
+
+   Whitehead torsion was eventually reinterpreted in a more directly
+   K-theoretic way. This reinterpretation happened through the study of
+   [213]h-cobordisms. Two n-dimensional manifolds M and N are h-cobordant
+   if there exists an (n + 1)-dimensional manifold with boundary W whose
+   boundary is the disjoint union of M and N and for which the inclusions
+   of M and N into W are homotopy equivalences (in the categories TOP, PL,
+   or DIFF). [214]Stephen Smale's h-cobordism theorem^[215][25] asserted
+   that if n ≥ 5, W is compact, and M, N, and W are simply connected, then
+   W is isomorphic to the cylinder M × [0, 1] (in TOP, PL, or DIFF as
+   appropriate). This theorem proved the [216]Poincaré conjecture for n ≥
+   5.
+
+   If M and N are not assumed to be simply connected, then an h-cobordism
+   need not be a cylinder. The s-cobordism theorem, due independently to
+   Mazur,^[217][26] Stallings, and Barden,^[218][27] explains the general
+   situation: An h-cobordism is a cylinder if and only if the Whitehead
+   torsion of the inclusion M ⊂ W vanishes. This generalizes the
+   h-cobordism theorem because the simple connectedness hypotheses imply
+   that the relevant Whitehead group is trivial. In fact the s-cobordism
+   theorem implies that there is a bijective correspondence between
+   isomorphism classes of h-cobordisms and elements of the Whitehead
+   group.
+
+   An obvious question associated with the existence of h-cobordisms is
+   their uniqueness. The natural notion of equivalence is [219]isotopy.
+   [220]Jean Cerf proved that for simply connected smooth manifolds M of
+   dimension at least 5, isotopy of h-cobordisms is the same as a weaker
+   notion called pseudo-isotopy.^[221][28] Hatcher and Wagoner studied the
+   components of the space of pseudo-isotopies and related it to a
+   quotient of K[2](Zπ).^[222][29]
+
+   The proper context for the s-cobordism theorem is the classifying space
+   of h-cobordisms. If M is a CAT manifold, then H^CAT(M) is a space that
+   classifies bundles of h-cobordisms on M. The s-cobordism theorem can be
+   reinterpreted as the statement that the set of connected components of
+   this space is the Whitehead group of π[1](M). This space contains
+   strictly more information than the Whitehead group; for example, the
+   connected component of the trivial cobordism describes the possible
+   cylinders on M and in particular is the obstruction to the uniqueness
+   of a homotopy between a manifold and M × [0, 1]. Consideration of these
+   questions led Waldhausen to introduce his algebraic K-theory of
+   spaces.^[223][30] The algebraic K-theory of M is a space A(M) which is
+   defined so that it plays essentially the same role for higher K-groups
+   as K[1](Zπ[1](M)) does for M. In particular, Waldhausen showed that
+   there is a map from A(M) to a space Wh(M) which generalizes the map
+   K[1](Zπ[1](M)) → Wh(π[1](M)) and whose homotopy fiber is a homology
+   theory.
+
+   In order to fully develop A-theory, Waldhausen made significant
+   technical advances in the foundations of K-theory. Waldhausen
+   introduced [224]Waldhausen categories, and for a Waldhausen category C
+   he introduced a simplicial category S[⋅]C (the S is for Segal) defined
+   in terms of chains of cofibrations in C.^[225][31] This freed the
+   foundations of K-theory from the need to invoke analogs of exact
+   sequences.
+
+Algebraic topology and algebraic geometry in algebraic K-theory
+
+   [[226]edit]
+
+   Quillen suggested to his student [227]Kenneth Brown that it might be
+   possible to create a theory of [228]sheaves of [229]spectra of which
+   K-theory would provide an example. The sheaf of K-theory spectra would,
+   to each open subset of a variety, associate the K-theory of that open
+   subset. Brown developed such a theory for his thesis. Simultaneously,
+   Gersten had the same idea. At a Seattle conference in autumn of 1972,
+   they together discovered a [230]spectral sequence converging from the
+   sheaf cohomology of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   class="MJX-tex-caligraphic" mathvariant="script">K</mi> </mrow> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   {\mathcal {K}}_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {K}}_{n}} , the sheaf of K[n]-groups on X, to
+   the K-group of the total space. This is now called the
+   [231]Brown–Gersten spectral sequence.^[232][32]
+
+   [233]Spencer Bloch, influenced by Gersten's work on sheaves of
+   K-groups, proved that on a regular surface, the cohomology group
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>H</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+   stretchy="false">(</mo> <mi>X</mi> <mo>,</mo> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   class="MJX-tex-caligraphic" mathvariant="script">K</mi> </mrow> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle H^{2}(X,{\mathcal
+   {K}}_{2})}</annotation> </semantics> :MATH]
+   {\displaystyle H^{2}(X,{\mathcal {K}}_{2})} is isomorphic to the Chow
+   group CH^2(X) of codimension 2 cycles on X.^[234][33] Inspired by this,
+   Gersten conjectured that for a [235]regular local ring R with
+   [236]fraction field F, K[n](R) injects into K[n](F) for all n. Soon
+   Quillen proved that this is true when R contains a field,^[237][34] and
+   using this he proved that
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>H</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>p</mi> </mrow> </msup> <mo
+          stretchy="false">(</mo> <mi>X</mi> <mo>,</mo> <msub> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-caligraphic" mathvariant="script">K</mi> </mrow>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>p</mi> </mrow>
+          </msub> <mo stretchy="false">)</mo> <mo>≅</mo> <msup>
+          <mi>CH</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>p</mi> </mrow>
+          </msup> <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>X</mi> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle H^{p}(X,{\mathcal
+          {K}}_{p})\cong \operatorname {CH} ^{p}(X)}</annotation>
+          </semantics> :MATH]
+          {\displaystyle H^{p}(X,{\mathcal {K}}_{p})\cong \operatorname
+          {CH} ^{p}(X)}
+
+   for all p. This is known as Bloch's formula. While progress has been
+   made on Gersten's conjecture since then, the general case remains open.
+
+   Lichtenbaum conjectured that special values of the [238]zeta function
+   of a number field could be expressed in terms of the K-groups of the
+   ring of integers of the field. These special values were known to be
+   related to the [239]étale cohomology of the ring of integers. Quillen
+   therefore generalized Lichtenbaum's conjecture, predicting the
+   existence of a spectral sequence like the [240]Atiyah–Hirzebruch
+   spectral sequence in topological K-theory.^[241][35] Quillen's proposed
+   spectral sequence would start from the étale cohomology of a ring R
+   and, in high enough degrees and after completing at a prime l
+   invertible in R, abut to the l-adic completion of the K-theory of R. In
+   the case studied by Lichtenbaum, the spectral sequence would
+   degenerate, yielding Lichtenbaum's conjecture.
+
+   The necessity of localizing at a prime l suggested to Browder that
+   there should be a variant of K-theory with finite
+   coefficients.^[242][36] He introduced K-theory groups K[n](R; Z/lZ)
+   which were Z/lZ-vector spaces, and he found an analog of the Bott
+   element in topological K-theory. Soule used this theory to construct
+   "étale [243]Chern classes", an analog of topological Chern classes
+   which took elements of algebraic K-theory to classes in [244]étale
+   cohomology.^[245][37] Unlike algebraic K-theory, étale cohomology is
+   highly computable, so étale Chern classes provided an effective tool
+   for detecting the existence of elements in K-theory. [246]William G.
+   Dwyer and [247]Eric Friedlander then invented an analog of K-theory for
+   the étale topology called étale K-theory.^[248][38] For varieties
+   defined over the complex numbers, étale K-theory is isomorphic to
+   topological K-theory. Moreover, étale K-theory admitted a spectral
+   sequence similar to the one conjectured by Quillen. Thomason proved
+   around 1980 that after inverting the Bott element, algebraic K-theory
+   with finite coefficients became isomorphic to étale K-theory.^[249][39]
+
+   Throughout the 1970s and early 1980s, K-theory on singular varieties
+   still lacked adequate foundations. While it was believed that Quillen's
+   K-theory gave the correct groups, it was not known that these groups
+   had all of the envisaged properties. For this, algebraic K-theory had
+   to be reformulated. This was done by Thomason in a lengthy monograph
+   which he co-credited to his dead friend Thomas Trobaugh, who he said
+   gave him a key idea in a dream.^[250][40] Thomason combined
+   Waldhausen's construction of K-theory with the foundations of
+   intersection theory described in volume six of Grothendieck's
+   [251]Séminaire de Géométrie Algébrique du Bois Marie. There, K[0] was
+   described in terms of complexes of sheaves on algebraic varieties.
+   Thomason discovered that if one worked with in [252]derived category of
+   sheaves, there was a simple description of when a complex of sheaves
+   could be extended from an open subset of a variety to the whole
+   variety. By applying Waldhausen's construction of K-theory to derived
+   categories, Thomason was able to prove that algebraic K-theory had all
+   the expected properties of a cohomology theory.
+
+   In 1976, [253]R. Keith Dennis discovered an entirely novel technique
+   for computing K-theory based on [254]Hochschild homology.^[255][41]
+   This was based around the existence of the Dennis trace map, a
+   homomorphism from K-theory to Hochschild homology. While the Dennis
+   trace map seemed to be successful for calculations of K-theory with
+   finite coefficients, it was less successful for rational calculations.
+   Goodwillie, motivated by his "calculus of functors", conjectured the
+   existence of a theory intermediate to K-theory and Hochschild homology.
+   He called this theory topological Hochschild homology because its
+   ground ring should be the sphere spectrum (considered as a ring whose
+   operations are defined only up to homotopy). In the mid-1980s, Bokstedt
+   gave a definition of topological Hochschild homology that satisfied
+   nearly all of Goodwillie's conjectural properties, and this made
+   possible further computations of K-groups.^[256][42] Bokstedt's version
+   of the Dennis trace map was a transformation of spectra K → THH. This
+   transformation factored through the fixed points of a circle action on
+   THH, which suggested a relationship with [257]cyclic homology. In the
+   course of proving an algebraic K-theory analog of the [258]Novikov
+   conjecture, Bokstedt, Hsiang, and Madsen introduced topological cyclic
+   homology, which bore the same relationship to topological Hochschild
+   homology as cyclic homology did to Hochschild homology.^[259][43] The
+   Dennis trace map to topological Hochschild homology factors through
+   topological cyclic homology, providing an even more detailed tool for
+   calculations. In 1996, Dundas, Goodwillie, and McCarthy proved that
+   topological cyclic homology has in a precise sense the same local
+   structure as algebraic K-theory, so that if a calculation in K-theory
+   or topological cyclic homology is possible, then many other "nearby"
+   calculations follow.^[260][44]
+
+Lower K-groups
+
+   [[261]edit]
+
+   The lower K-groups were discovered first, and given various ad hoc
+   descriptions, which remain useful. Throughout, let A be a [262]ring.
+
+K[0]
+
+   [[263]edit]
+
+   The functor K[0] takes a ring A to the [264]Grothendieck group of the
+   set of isomorphism classes of its [265]finitely generated
+   [266]projective modules, regarded as a monoid under direct sum. Any
+   ring homomorphism A → B gives a map K[0](A) → K[0](B) by mapping (the
+   class of) a projective A-module M to M ⊗[A] B, making K[0] a covariant
+   functor.
+
+   If the ring A is commutative, we can define a subgroup of K[0](A) as
+   the set
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+          <mi>K</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mrow>
+          <mo>(</mo> <mi>A</mi> <mo>)</mo> </mrow> <mo>=</mo> <munder> <mo
+          movablelimits="false">⋂</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="fraktur">p</mi> </mrow> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext> prime ideal of </mtext> </mrow>
+          <mi>A</mi> </mrow> </munder> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">K</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">r</mi> </mrow> <msub> <mi>dim</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="fraktur">p</mi> </mrow> </mrow> </msub> <mo>,</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\tilde
+          {K}}_{0}\left(A\right)=\bigcap \limits _{{\mathfrak {p}}{\text{
+          prime ideal of }}A}\mathrm {Ker} \dim _{\mathfrak
+          {p}},}</annotation> </semantics> :MATH]
+          {\displaystyle {\tilde {K}}_{0}\left(A\right)=\bigcap \limits
+          _{{\mathfrak {p}}{\text{ prime ideal of }}A}\mathrm {Ker} \dim
+          _{\mathfrak {p}},}
+
+   where :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>dim</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="fraktur">p</mi> </mrow> </mrow> </msub> <mo>:</mo>
+          <msub> <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> <mrow> <mo>(</mo> <mi>A</mi> <mo>)</mo> </mrow>
+          <mo stretchy="false">→</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">Z</mi> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \dim _{\mathfrak
+          {p}}:K_{0}\left(A\right)\to \mathbf {Z} }</annotation>
+          </semantics> :MATH]
+          {\displaystyle \dim _{\mathfrak {p}}:K_{0}\left(A\right)\to
+          \mathbf {Z} }
+
+   is the map sending every (class of a) finitely generated projective
+   A-module M to the rank of the [267]free
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>A</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="fraktur">p</mi> </mrow> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A_{\mathfrak
+   {p}}}</annotation> </semantics> :MATH]
+   {\displaystyle A_{\mathfrak {p}}} -module
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>M</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="fraktur">p</mi> </mrow> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle M_{\mathfrak
+   {p}}}</annotation> </semantics> :MATH]
+   {\displaystyle M_{\mathfrak {p}}} (this module is indeed free, as any
+   finitely generated projective module over a local ring is free). This
+   subgroup
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>K</mi> <mo stretchy="false">~</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mrow> <mo>(</mo>
+   <mi>A</mi> <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\tilde
+   {K}}_{0}\left(A\right)}</annotation> </semantics> :MATH]
+   {\displaystyle {\tilde {K}}_{0}\left(A\right)} is known as the reduced
+   zeroth K-theory of A.
+
+   If B is a [268]ring without an identity element, we can extend the
+   definition of K[0] as follows. Let A = B⊕Z be the extension of B to a
+   ring with unity obtaining by adjoining an identity element (0,1). There
+   is a short exact sequence B → A → Z and we define K[0](B) to be the
+   kernel of the corresponding map K[0](A) → K[0](Z) = Z.^[269][45]
+
+Examples
+
+   [[270]edit]
+   See also: [271]Grothendieck group § Further examples
+     * (Projective) modules over a [272]field k are [273]vector spaces and
+       K[0](k) is isomorphic to Z, by [274]dimension.
+     * Finitely generated projective modules over a [275]local ring A are
+       free and so in this case once again K[0](A) is isomorphic to Z, by
+       [276]rank.^[277][46]
+     * For A a [278]Dedekind domain, K[0](A) = Pic(A) ⊕ Z, where Pic(A) is
+       the [279]Picard group of A,^[280][47]
+
+   An algebro-geometric variant of this construction is applied to the
+   category of [281]algebraic varieties; it associates with a given
+   algebraic variety X the Grothendieck's K-group of the category of
+   locally free sheaves (or coherent sheaves) on X. Given a [282]compact
+   topological space X, the [283]topological K-theory K^top(X) of (real)
+   [284]vector bundles over X coincides with K[0] of the ring of
+   [285]continuous real-valued functions on X.^[286][48]
+
+Relative K[0]
+
+   [[287]edit]
+
+   Let I be an ideal of A and define the "double" to be a subring of the
+   [288]Cartesian product A×A:^[289][49]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>D</mi> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo>,</mo> <mi>I</mi> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mo fence="false"
+          stretchy="false">{</mo> <mo stretchy="false">(</mo> <mi>x</mi>
+          <mo>,</mo> <mi>y</mi> <mo stretchy="false">)</mo> <mo>∈</mo>
+          <mi>A</mi> <mo>×</mo> <mi>A</mi> <mo>:</mo> <mi>x</mi>
+          <mo>−</mo> <mi>y</mi> <mo>∈</mo> <mi>I</mi> <mo fence="false"
+          stretchy="false">}</mo> <mtext> </mtext> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          D(A,I)=\{(x,y)\in A\times A:x-y\in I\}\ .}</annotation>
+          </semantics> :MATH]
+          {\displaystyle D(A,I)=\{(x,y)\in A\times A:x-y\in I\}\ .}
+
+   The relative K-group is defined in terms of the "double"^[290][50]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo>,</mo> <mi>I</mi> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mi>ker</mi> <mo>⁡</mo>
+          <mrow> <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <msub>
+          <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+          </msub> <mo stretchy="false">(</mo> <mi>D</mi> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo>,</mo> <mi>I</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo> <mo
+          stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          </mrow> <mo>)</mo> </mrow> <mtext> </mtext> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          K_{0}(A,I)=\ker \left({K_{0}(D(A,I))\rightarrow
+          K_{0}(A)}\right)\ .}</annotation> </semantics> :MATH]
+          {\displaystyle K_{0}(A,I)=\ker \left({K_{0}(D(A,I))\rightarrow
+          K_{0}(A)}\right)\ .}
+
+   where the map is induced by projection along the first factor.
+
+   The relative K[0](A,I) is isomorphic to K[0](I), regarding I as a ring
+   without identity. The independence from A is an analogue of the
+   [291]Excision theorem in homology.^[292][45]
+
+K[0] as a ring
+
+   [[293]edit]
+
+   If A is a commutative ring, then the [294]tensor product of projective
+   modules is again projective, and so tensor product induces a
+   multiplication turning K[0] into a commutative ring with the class [A]
+   as identity.^[295][46] The [296]exterior product similarly induces a
+   [297]λ-ring structure. The [298]Picard group embeds as a subgroup of
+   the group of units K[0](A)^∗.^[299][51]
+
+K[1]
+
+   [[300]edit]
+
+   [301]Hyman Bass provided this definition, which generalizes the group
+   of units of a ring: K[1](A) is the [302]abelianization of the
+   [303]infinite general linear group:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <mi>GL</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mi>A</mi> <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mstyle displaystyle="false"
+          scriptlevel="0"> <mtext>ab</mtext> </mstyle> </mrow> </msup>
+          <mo>=</mo> <mi>GL</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mi>A</mi> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mo
+          stretchy="false">[</mo> <mi>GL</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo>,</mo> <mi>GL</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mi>A</mi> <mo stretchy="false">)</mo> <mo
+          stretchy="false">]</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          K_{1}(A)=\operatorname {GL} (A)^{\mbox{ab}}=\operatorname {GL}
+          (A)/[\operatorname {GL} (A),\operatorname {GL}
+          (A)]}</annotation> </semantics> :MATH]
+          {\displaystyle K_{1}(A)=\operatorname {GL}
+          (A)^{\mbox{ab}}=\operatorname {GL} (A)/[\operatorname {GL}
+          (A),\operatorname {GL} (A)]}
+
+   Here
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>GL</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <mi>colim</mi> <mo>⁡</mo> <mi>GL</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo>,</mo> <mi>A</mi> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \operatorname {GL}
+          (A)=\operatorname {colim} \operatorname {GL} (n,A)}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \operatorname {GL} (A)=\operatorname {colim}
+          \operatorname {GL} (n,A)}
+
+   is the [304]direct limit of the GL(n), which embeds in GL(n + 1) as the
+   upper left [305]block matrix, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+   <mi>GL</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>A</mi> <mo
+   stretchy="false">)</mo> <mo>,</mo> <mi>GL</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo> <mo
+   stretchy="false">]</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle [\operatorname {GL}
+   (A),\operatorname {GL} (A)]}</annotation> </semantics> :MATH]
+   {\displaystyle [\operatorname {GL} (A),\operatorname {GL} (A)]} is its
+   [306]commutator subgroup. Define an elementary matrix to be one which
+   is the sum of an identity matrix and a single off-diagonal element
+   (this is a subset of the [307]elementary matrices used in linear
+   algebra). Then [308]Whitehead's lemma states that the group E(A)
+   generated by elementary matrices equals the commutator subgroup [GL(A),
+   GL(A)]. Indeed, the group GL(A)/E(A) was first defined and studied by
+   Whitehead,^[309][52] and is called the Whitehead group of the ring A.
+
+Relative K[1]
+
+   [[310]edit]
+
+   The relative K-group is defined in terms of the "double"^[311][53]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo>,</mo> <mi>I</mi> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mi>ker</mi> <mo>⁡</mo>
+          <mrow> <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <msub>
+          <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mo stretchy="false">(</mo> <mi>D</mi> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo>,</mo> <mi>I</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo> <mo
+          stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          </mrow> <mo>)</mo> </mrow> <mtext> </mtext> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          K_{1}(A,I)=\ker \left({K_{1}(D(A,I))\rightarrow
+          K_{1}(A)}\right)\ .}</annotation> </semantics> :MATH]
+          {\displaystyle K_{1}(A,I)=\ker \left({K_{1}(D(A,I))\rightarrow
+          K_{1}(A)}\right)\ .}
+
+   There is a natural [312]exact sequence^[313][54]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo>,</mo> <mi>I</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">→</mo> <msub>
+          <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mo stretchy="false">(</mo> <mi>A</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">→</mo> <msub>
+          <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mo stretchy="false">(</mo> <mi>A</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>I</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">→</mo> <msub>
+          <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+          </msub> <mo stretchy="false">(</mo> <mi>A</mi> <mo>,</mo>
+          <mi>I</mi> <mo stretchy="false">)</mo> <mo
+          stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>I</mi> <mo
+          stretchy="false">)</mo> <mtext> </mtext> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          K_{1}(A,I)\rightarrow K_{1}(A)\rightarrow K_{1}(A/I)\rightarrow
+          K_{0}(A,I)\rightarrow K_{0}(A)\rightarrow K_{0}(A/I)\
+          .}</annotation> </semantics> :MATH]
+          {\displaystyle K_{1}(A,I)\rightarrow K_{1}(A)\rightarrow
+          K_{1}(A/I)\rightarrow K_{0}(A,I)\rightarrow K_{0}(A)\rightarrow
+          K_{0}(A/I)\ .}
+
+Commutative rings and fields
+
+   [[314]edit]
+
+   For A a [315]commutative ring, one can define a determinant det: GL(A)
+   → A* to the [316]group of units of A, which vanishes on E(A) and thus
+   descends to a map det : K[1](A) → A*. As E(A) ◅ SL(A), one can also
+   define the special Whitehead group SK[1](A) := SL(A)/E(A). This map
+   splits via the map A* → GL(1, A) → K[1](A) (unit in the upper left
+   corner), and hence is onto, and has the special Whitehead group as
+   kernel, yielding the [317]split short exact sequence:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo
+          stretchy="false">→</mo> <mi>S</mi> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo stretchy="false">→</mo> <msup> <mi>A</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> </msup> <mo
+          stretchy="false">→</mo> <mn>1</mn> <mo>,</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle 1\to
+          SK_{1}(A)\to K_{1}(A)\to A^{*}\to 1,}</annotation> </semantics>
+          :MATH]
+          {\displaystyle 1\to SK_{1}(A)\to K_{1}(A)\to A^{*}\to 1,}
+
+   which is a quotient of the usual split short exact sequence defining
+   the [318]special linear group, namely
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo
+          stretchy="false">→</mo> <mi>SL</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo stretchy="false">→</mo> <mi>GL</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo stretchy="false">→</mo> <msup> <mi>A</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> </msup> <mo
+          stretchy="false">→</mo> <mn>1.</mn> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle 1\to
+          \operatorname {SL} (A)\to \operatorname {GL} (A)\to A^{*}\to
+          1.}</annotation> </semantics> :MATH]
+          {\displaystyle 1\to \operatorname {SL} (A)\to \operatorname {GL}
+          (A)\to A^{*}\to 1.}
+
+   The determinant is split by including the group of units A* = GL[1](A)
+   into the general linear group GL(A), so K[1](A) splits as the direct
+   sum of the group of units and the special Whitehead group: K[1](A) ≅ A*
+   ⊕ SK[1] (A).
+
+   When A is a Euclidean domain (e.g. a field, or the integers) SK[1](A)
+   vanishes, and the determinant map is an isomorphism from K[1](A) to
+   A^∗.^[319][55] This is false in general for PIDs, thus providing one of
+   the rare mathematical features of Euclidean domains that do not
+   generalize to all PIDs. An explicit PID such that SK[1] is nonzero was
+   given by Ischebeck in 1980 and by Grayson in 1981.^[320][56] If A is a
+   Dedekind domain whose quotient field is an [321]algebraic number field
+   (a finite extension of the rationals) then [322]Milnor (1971, corollary
+   16.3) shows that SK[1](A) vanishes.^[323][57]
+
+   The vanishing of SK[1] can be interpreted as saying that K[1] is
+   generated by the image of GL[1] in GL. When this fails, one can ask
+   whether K[1] is generated by the image of GL[2]. For a Dedekind domain,
+   this is the case: indeed, K[1] is generated by the images of GL[1] and
+   SL[2] in GL.^[324][56] The subgroup of SK[1] generated by SL[2] may be
+   studied by [325]Mennicke symbols. For Dedekind domains with all
+   quotients by maximal ideals finite, SK[1] is a torsion group.^[326][58]
+
+   For a non-commutative ring, the determinant cannot in general be
+   defined, but the map GL(A) → K[1](A) is a generalisation of the
+   determinant.
+
+Central simple algebras
+
+   [[327]edit]
+
+   In the case of a [328]central simple algebra A over a field F, the
+   [329]reduced norm provides a generalisation of the determinant giving a
+   map K[1](A) → F^∗ and SK[1](A) may be defined as the kernel. Wang's
+   theorem states that if A has prime degree then SK[1](A) is
+   trivial,^[330][59] and this may be extended to square-free
+   degree.^[331][60] [332]Wang also showed that SK[1](A) is trivial for
+   any central simple algebra over a number field,^[333][61] but Platonov
+   has given examples of algebras of degree prime squared for which
+   SK[1](A) is non-trivial.^[334][60]
+
+K[2]
+
+   [[335]edit]
+   See also: [336]Steinberg group (K-theory)
+
+   [337]John Milnor found the right definition of K[2]: it is the
+   [338]center of the [339]Steinberg group St(A) of A.
+
+   It can also be defined as the [340]kernel of the map
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>φ</mi> <mo>:</mo>
+          <mi>St</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>A</mi>
+          <mo stretchy="false">)</mo> <mo stretchy="false">→</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">G</mi> <mi
+          mathvariant="normal">L</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>A</mi> <mo stretchy="false">)</mo> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \varphi \colon \operatorname {St} (A)\to \mathrm {GL}
+          (A),}</annotation> </semantics> :MATH]
+          {\displaystyle \varphi \colon \operatorname {St} (A)\to \mathrm
+          {GL} (A),}
+
+   or as the [341]Schur multiplier of the group of [342]elementary
+   matrices.
+
+   For a field, K[2] is determined by [343]Steinberg symbols: this leads
+   to Matsumoto's theorem.
+
+   One can compute that K[2] is zero for any finite
+   field.^[344][62]^[345][63] The computation of K[2](Q) is complicated:
+   Tate proved^[346][63]^[347][64]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">Q</mi> </mrow> <mo stretchy="false">)</mo>
+          <mo>=</mo> <mo stretchy="false">(</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">Z</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>4</mn>
+          <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> </msup> <mo>×</mo>
+          <munder> <mo>∏</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mtext> odd prime</mtext> </mrow>
+          </mrow> </munder> <mo stretchy="false">(</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">Z</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>p</mi>
+          <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> </msup>
+          <mtext> </mtext> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle K_{2}(\mathbf {Q}
+          )=(\mathbf {Z} /4)^{*}\times \prod _{p{\text{ odd
+          prime}}}(\mathbf {Z} /p)^{*}\ }</annotation> </semantics> :MATH]
+          {\displaystyle K_{2}(\mathbf {Q} )=(\mathbf {Z} /4)^{*}\times
+          \prod _{p{\text{ odd prime}}}(\mathbf {Z} /p)^{*}\ }
+
+   and remarked that the proof followed [348]Gauss's first proof of the
+   [349]Law of Quadratic Reciprocity.^[350][65]^[351][66]
+
+   For non-Archimedean local fields, the group K[2](F) is the direct sum
+   of a finite [352]cyclic group of order m, say, and a [353]divisible
+   group K[2](F)^m.^[354][67]
+
+   We have K[2](Z) = Z/2,^[355][68] and in general K[2] is finite for the
+   ring of integers of a number field.^[356][69]
+
+   We further have K[2](Z/n) = Z/2 if n is divisible by 4, and otherwise
+   zero.^[357][70]
+
+Matsumoto's theorem
+
+   [[358]edit]
+
+   Matsumoto's theorem^[359][71] states that for a field k, the second
+   K-group is given by^[360][72]^[361][73]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>k</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <msup> <mi>k</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mo>×</mo> </mrow> </msup> <msub> <mo>⊗</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">Z</mi> </mrow> </mrow> </msub> <msup>
+          <mi>k</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>×</mo> </mrow>
+          </msup> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mo
+          fence="false" stretchy="false">⟨</mo> <mi>a</mi> <mo>⊗</mo> <mo
+          stretchy="false">(</mo> <mn>1</mn> <mo>−</mo> <mi>a</mi> <mo
+          stretchy="false">)</mo> <mo>∣</mo> <mi>a</mi> <mo>≠</mo>
+          <mn>0</mn> <mo>,</mo> <mn>1</mn> <mo fence="false"
+          stretchy="false">⟩</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle K_{2}(k)=k^{\times
+          }\otimes _{\mathbf {Z} }k^{\times }/\langle a\otimes (1-a)\mid
+          a\not =0,1\rangle .}</annotation> </semantics> :MATH]
+          {\displaystyle K_{2}(k)=k^{\times }\otimes _{\mathbf {Z}
+          }k^{\times }/\langle a\otimes (1-a)\mid a\not =0,1\rangle .}
+
+   Matsumoto's original theorem is even more general: For any [362]root
+   system, it gives a presentation for the unstable K-theory. This
+   presentation is different from the one given here only for symplectic
+   root systems. For non-symplectic root systems, the unstable second
+   K-group with respect to the root system is exactly the stable K-group
+   for GL(A). Unstable second K-groups (in this context) are defined by
+   taking the kernel of the universal central extension of the
+   [363]Chevalley group of universal type for a given root system. This
+   construction yields the kernel of the Steinberg extension for the root
+   systems A[n] (n > 1) and, in the limit, stable second K-groups.
+
+Long exact sequences
+
+   [[364]edit]
+
+   If A is a [365]Dedekind domain with [366]field of fractions F then
+   there is a [367]long exact sequence
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mi>F</mi>
+          <mo stretchy="false">→</mo> <msub> <mo>⊕</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">p</mi> </mrow> </mrow> </msub> <msub>
+          <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mi>A</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">p</mi> </mrow>
+          </mrow> <mo stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mi>A</mi>
+          <mo stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mi>F</mi>
+          <mo stretchy="false">→</mo> <msub> <mo>⊕</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="bold">p</mi> </mrow> </mrow> </msub> <msub>
+          <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+          </msub> <mi>A</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">p</mi> </mrow>
+          </mrow> <mo stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mi>A</mi>
+          <mo stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mi>F</mi>
+          <mo stretchy="false">→</mo> <mn>0</mn> <mtext> </mtext>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle K_{2}F\rightarrow
+          \oplus _{\mathbf {p} }K_{1}A/{\mathbf {p} }\rightarrow
+          K_{1}A\rightarrow K_{1}F\rightarrow \oplus _{\mathbf {p}
+          }K_{0}A/{\mathbf {p} }\rightarrow K_{0}A\rightarrow
+          K_{0}F\rightarrow 0\ }</annotation> </semantics> :MATH]
+          {\displaystyle K_{2}F\rightarrow \oplus _{\mathbf {p}
+          }K_{1}A/{\mathbf {p} }\rightarrow K_{1}A\rightarrow
+          K_{1}F\rightarrow \oplus _{\mathbf {p} }K_{0}A/{\mathbf {p}
+          }\rightarrow K_{0}A\rightarrow K_{0}F\rightarrow 0\ }
+
+   where p runs over all prime ideals of A.^[368][74]
+
+   There is also an extension of the exact sequence for relative K[1] and
+   K[0]:^[369][75]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>I</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">→</mo> <msub>
+          <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <mo stretchy="false">(</mo> <mi>A</mi> <mo>,</mo>
+          <mi>I</mi> <mo stretchy="false">)</mo> <mo
+          stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>A</mi> <mo stretchy="false">)</mo>
+          <mo>⋯</mo> <mtext> </mtext> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          K_{2}(A)\rightarrow K_{2}(A/I)\rightarrow K_{1}(A,I)\rightarrow
+          K_{1}(A)\cdots \ .}</annotation> </semantics> :MATH]
+          {\displaystyle K_{2}(A)\rightarrow K_{2}(A/I)\rightarrow
+          K_{1}(A,I)\rightarrow K_{1}(A)\cdots \ .}
+
+Pairing
+
+   [[370]edit]
+
+   There is a pairing on K[1] with values in K[2]. Given commuting
+   matrices X and Y over A, take elements x and y in the [371]Steinberg
+   group with X,Y as images. The commutator
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mi>y</mi> <msup>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow>
+   </msup> <msup> <mi>y</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo>
+   <mn>1</mn> </mrow> </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   xyx^{-1}y^{-1}}</annotation> </semantics> :MATH]
+   {\displaystyle xyx^{-1}y^{-1}} is an element of K[2].^[372][76] The map
+   is not always surjective.^[373][77]
+
+Milnor K-theory
+
+   [[374]edit]
+   Main article: [375]Milnor K-theory
+
+   The above expression for K[2] of a field k led Milnor to the following
+   definition of "higher" K-groups by
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msubsup> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>M</mi> </mrow> </msubsup> <mo
+          stretchy="false">(</mo> <mi>k</mi> <mo stretchy="false">)</mo>
+          <mo>:=</mo> <msup> <mi>T</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mo>∗</mo> </mrow> </msup> <mo stretchy="false">(</mo> <msup>
+          <mi>k</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>×</mo> </mrow>
+          </msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mo
+          stretchy="false">(</mo> <mi>a</mi> <mo>⊗</mo> <mo
+          stretchy="false">(</mo> <mn>1</mn> <mo>−</mo> <mi>a</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo> <mo>,</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          K_{*}^{M}(k):=T^{*}(k^{\times })/(a\otimes (1-a)),}</annotation>
+          </semantics> :MATH]
+          {\displaystyle K_{*}^{M}(k):=T^{*}(k^{\times })/(a\otimes
+          (1-a)),}
+
+   thus as graded parts of a quotient of the [376]tensor algebra of the
+   [377]multiplicative group k^× by the [378]two-sided ideal, generated by
+   the
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow> <mo>{</mo> <mrow>
+          <mi>a</mi> <mo>⊗</mo> <mo stretchy="false">(</mo> <mn>1</mn>
+          <mo>−</mo> <mi>a</mi> <mo stretchy="false">)</mo> <mo>:</mo>
+          <mtext> </mtext> <mi>a</mi> <mo>≠</mo> <mn>0</mn> <mo>,</mo>
+          <mn>1</mn> </mrow> <mo>}</mo> </mrow> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \left\{a\otimes (1-a):\ a\neq 0,1\right\}.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \left\{a\otimes (1-a):\ a\neq 0,1\right\}.}
+
+   For n = 0,1,2 these coincide with those below, but for n ≧ 3 they
+   differ in general.^[379][78] For example, we have K^M
+   [n](F[q]) = 0 for n ≧ 2 but K[n]F[q] is nonzero for odd n (see below).
+
+   The tensor product on the tensor algebra induces a product
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msub> <mo>×</mo> <msub>
+   <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+   <mo stretchy="false">→</mo> <msub> <mi>K</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>m</mi> <mo>+</mo> <mi>n</mi> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle K_{m}\times
+   K_{n}\rightarrow K_{m+n}}</annotation> </semantics> :MATH]
+   {\displaystyle K_{m}\times K_{n}\rightarrow K_{m+n}} making
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msubsup> <mi>K</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>M</mi> </mrow> </msubsup> <mo
+   stretchy="false">(</mo> <mi>F</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle K_{*}^{M}(F)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K_{*}^{M}(F)} a [380]graded ring which is
+   [381]graded-commutative.^[382][79]
+
+   The images of elements
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>⊗</mo>
+   <mo>⋯</mo> <mo>⊗</mo> <msub> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle a_{1}\otimes \cdots \otimes
+   a_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle a_{1}\otimes \cdots \otimes a_{n}} in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msubsup> <mi>K</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>M</mi> </mrow> </msubsup> <mo
+   stretchy="false">(</mo> <mi>k</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle K_{n}^{M}(k)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K_{n}^{M}(k)} are termed symbols, denoted
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">{</mo> <msub> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <msub> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </msub> <mo fence="false" stretchy="false">}</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \{a_{1},\ldots
+   ,a_{n}\}}</annotation> </semantics> :MATH]
+   {\displaystyle \{a_{1},\ldots ,a_{n}\}} . For integer m invertible in k
+   there is a map
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∂</mi> <mo>:</mo> <msup> <mi>k</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> </msup> <mo
+          stretchy="false">→</mo> <msup> <mi>H</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msup> <mo
+          stretchy="false">(</mo> <mi>k</mi> <mo>,</mo> <msub> <mi>μ</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \partial
+          :k^{*}\rightarrow H^{1}(k,\mu _{m})}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \partial :k^{*}\rightarrow H^{1}(k,\mu _{m})}
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>μ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mu
+   _{m}}</annotation> </semantics> :MATH]
+   {\displaystyle \mu _{m}} denotes the group of m-th roots of unity in
+   some separable extension of k. This extends to
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi
+          mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msup> <mo>:</mo> <msup> <mi>k</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> </msup> <mo>×</mo>
+          <mo>⋯</mo> <mo>×</mo> <msup> <mi>k</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>∗</mo> </mrow> </msup> <mo
+          stretchy="false">→</mo> <msup> <mi>H</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mrow>
+          <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>,</mo>
+          <msubsup> <mi>μ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mo>⊗</mo> <mi>n</mi>
+          </mrow> </msubsup> </mrow> <mo>)</mo> </mrow> <mtext> </mtext>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \partial
+          ^{n}:k^{*}\times \cdots \times k^{*}\rightarrow
+          H^{n}\left({k,\mu _{m}^{\otimes n}}\right)\ }</annotation>
+          </semantics> :MATH]
+          {\displaystyle \partial ^{n}:k^{*}\times \cdots \times
+          k^{*}\rightarrow H^{n}\left({k,\mu _{m}^{\otimes n}}\right)\ }
+
+   satisfying the defining relations of the Milnor K-group. Hence
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \partial ^{n}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \partial ^{n}} may be regarded as a map on
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msubsup> <mi>K</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>M</mi> </mrow> </msubsup> <mo
+   stretchy="false">(</mo> <mi>k</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle K_{n}^{M}(k)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle K_{n}^{M}(k)} , called the Galois symbol map.^[383][80]
+
+   The relation between [384]étale (or [385]Galois) cohomology of the
+   field and Milnor K-theory modulo 2 is the [386]Milnor conjecture,
+   proven by [387]Vladimir Voevodsky.^[388][81] The analogous statement
+   for odd primes is the [389]Bloch-Kato conjecture, proved by Voevodsky,
+   Rost, and others.
+
+Higher K-theory
+
+   [[390]edit]
+
+   The accepted definitions of higher K-groups were given by [391]Quillen
+   (1973), after a few years during which several incompatible definitions
+   were suggested. The object of the program was to find definitions of
+   K(R) and K(R,I) in terms of [392]classifying spaces so that R ⇒ K(R)
+   and (R,I) ⇒ K(R,I) are functors into a [393]homotopy category of spaces
+   and the long exact sequence for relative K-groups arises as the
+   [394]long exact homotopy sequence of a [395]fibration
+   K(R,I) → K(R) → K(R/I).^[396][82]
+
+   Quillen gave two constructions, the "plus-construction" and the
+   "Q-construction", the latter subsequently modified in different
+   ways.^[397][83] The two constructions yield the same
+   K-groups.^[398][84]
+
+The +-construction
+
+   [[399]edit]
+
+   One possible definition of higher algebraic K-theory of rings was given
+   by Quillen
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>R</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <msub> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msub> <mo stretchy="false">(</mo>
+          <mi>B</mi> <mi>GL</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mi>R</mi> <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>+</mo> </mrow> </msup> <mo
+          stretchy="false">)</mo> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle K_{n}(R)=\pi
+          _{n}(B\operatorname {GL} (R)^{+}),}</annotation> </semantics>
+          :MATH]
+          {\displaystyle K_{n}(R)=\pi _{n}(B\operatorname {GL} (R)^{+}),}
+
+   Here π[n] is a [400]homotopy group, GL(R) is the [401]direct limit of
+   the [402]general linear groups over R for the size of the matrix
+   tending to infinity, B is the classifying space construction of
+   [403]homotopy theory, and the ^+ is Quillen's [404]plus construction.
+   He originally found this idea while studying the group cohomology of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>G</mi> <msub> <mi>L</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+   stretchy="false">(</mo> <msub> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">F</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>q</mi> </mrow> </msub> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle GL_{n}(\mathbb {F}
+   _{q})}</annotation> </semantics> :MATH]
+   {\displaystyle GL_{n}(\mathbb {F} _{q})} ^[405][85] and noted some of
+   his calculations were related to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+   stretchy="false">(</mo> <msub> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">F</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>q</mi> </mrow> </msub> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle K_{1}(\mathbb {F}
+   _{q})}</annotation> </semantics> :MATH]
+   {\displaystyle K_{1}(\mathbb {F} _{q})} .
+
+   This definition only holds for n > 0 so one often defines the higher
+   algebraic K-theory via
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>R</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <msub> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msub> <mo stretchy="false">(</mo>
+          <mi>B</mi> <mi>GL</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mi>R</mi> <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>+</mo> </mrow> </msup> <mo>×</mo>
+          <msub> <mi>K</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+          </mrow> </msub> <mo stretchy="false">(</mo> <mi>R</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          K_{n}(R)=\pi _{n}(B\operatorname {GL} (R)^{+}\times
+          K_{0}(R))}</annotation> </semantics> :MATH]
+          {\displaystyle K_{n}(R)=\pi _{n}(B\operatorname {GL}
+          (R)^{+}\times K_{0}(R))}
+
+   Since BGL(R)^+ is path connected and K[0](R) discrete, this definition
+   doesn't differ in higher degrees and also holds for n = 0.
+
+The Q-construction
+
+   [[406]edit]
+   Main article: [407]Q-construction
+
+   The Q-construction gives the same results as the +-construction, but it
+   applies in more general situations. Moreover, the definition is more
+   direct in the sense that the K-groups, defined via the Q-construction
+   are functorial by definition. This fact is not automatic in the
+   plus-construction.
+
+   Suppose
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+   </semantics> :MATH]
+   {\displaystyle P} is an [408]exact category; associated to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+   </semantics> :MATH]
+   {\displaystyle P} a new category
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>Q</mi> <mi>P</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   QP}</annotation> </semantics> :MATH]
+   {\displaystyle QP} is defined, objects of which are those of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+   </semantics> :MATH]
+   {\displaystyle P} and morphisms from M′ to M″ are isomorphism classes
+   of diagrams
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>M</mi>
+          <mo>′</mo> </msup> <mo stretchy="false">⟵</mo> <mi>N</mi> <mo
+          stretchy="false">⟶</mo> <msup> <mi>M</mi> <mo>″</mo> </msup>
+          <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle M'\longleftarrow
+          N\longrightarrow M'',}</annotation> </semantics> :MATH]
+          {\displaystyle M'\longleftarrow N\longrightarrow M'',}
+
+   where the first arrow is an admissible [409]epimorphism and the second
+   arrow is an admissible [410]monomorphism. Note the morphisms in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>Q</mi> <mi>P</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   QP}</annotation> </semantics> :MATH]
+   {\displaystyle QP} are analogous to the definitions of morphisms in the
+   category of [411]motives, where morphisms are given as correspondences
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>Z</mi> <mo>⊂</mo> <mi>X</mi>
+   <mo>×</mo> <mi>Y</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle Z\subset X\times
+   Y}</annotation> </semantics> :MATH]
+   {\displaystyle Z\subset X\times Y} such that
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mi>X</mi> <mo
+     stretchy="false">←</mo> <mi>Z</mi> <mo stretchy="false">→</mo>
+     <mi>Y</mi> </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle X\leftarrow Z\rightarrow
+     Y}</annotation> </semantics> :MATH]
+     {\displaystyle X\leftarrow Z\rightarrow Y}
+
+   is a diagram where the arrow on the left is a covering map (hence
+   surjective) and the arrow on the right is injective. This category can
+   then be turned into a topological space using the classifying space
+   construction
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>B</mi> <mi>Q</mi> <mi>P</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle BQP}</annotation>
+   </semantics> :MATH]
+   {\displaystyle BQP} , which is defined to be the [412]geometric
+   realisation of the [413]nerve of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>Q</mi> <mi>P</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   QP}</annotation> </semantics> :MATH]
+   {\displaystyle QP} . Then, the i-th K-group of the exact category
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+   </semantics> :MATH]
+   {\displaystyle P} is then defined as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>P</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <msub> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> <mo>+</mo> <mn>1</mn> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">B</mi> <mi mathvariant="normal">Q</mi>
+          </mrow> <mi>P</mi> <mo>,</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle K_{i}(P)=\pi
+          _{i+1}(\mathrm {BQ} P,0)}</annotation> </semantics> :MATH]
+          {\displaystyle K_{i}(P)=\pi _{i+1}(\mathrm {BQ} P,0)}
+
+   with a fixed zero-object
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>0</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle 0}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 0} . Note the classifying space of a groupoid
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>B</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   class="MJX-tex-caligraphic" mathvariant="script">G</mi> </mrow> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle B{\mathcal
+   {G}}}</annotation> </semantics> :MATH]
+   {\displaystyle B{\mathcal {G}}} moves the homotopy groups up one
+   degree, hence the shift in degrees for
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>K</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   K_{i}}</annotation> </semantics> :MATH]
+   {\displaystyle K_{i}} being
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>π</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \pi _{i+1}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \pi _{i+1}} of a space.
+
+   This definition coincides with the above definition of K[0](P). If P is
+   the category of finitely generated [414]projective R-modules, this
+   definition agrees with the above BGL^+ definition of K[n](R) for all n.
+   More generally, for a [415]scheme X, the higher K-groups of X are
+   defined to be the K-groups of (the exact category of) locally free
+   [416]coherent sheaves on X.
+
+   The following variant of this is also used: instead of finitely
+   generated projective (= locally free) modules, take finitely generated
+   modules. The resulting K-groups are usually written G[n](R). When R is
+   a [417]noetherian [418]regular ring, then G- and K-theory coincide.
+   Indeed, the [419]global dimension of regular rings is finite, i.e. any
+   finitely generated module has a finite projective resolution P[*] → M,
+   and a simple argument shows that the canonical map K[0](R) → G[0](R) is
+   an [420]isomorphism, with [M]=Σ ± [P[n]]. This isomorphism extends to
+   the higher K-groups, too.
+
+The S-construction
+
+   [[421]edit]
+   Main article: [422]Waldhausen S-construction
+
+   A third construction of K-theory groups is the S-construction, due to
+   [423]Waldhausen.^[424][86] It applies to categories with cofibrations
+   (also called [425]Waldhausen categories). This is a more general
+   concept than exact categories.
+
+Examples
+
+   [[426]edit]
+
+   While the Quillen algebraic K-theory has provided deep insight into
+   various aspects of algebraic geometry and topology, the K-groups have
+   proved particularly difficult to compute except in a few isolated but
+   interesting cases. (See also: [427]K-groups of a field.)
+
+Algebraic K-groups of finite fields
+
+   [[428]edit]
+
+   The first and one of the most important calculations of the higher
+   algebraic K-groups of a ring were made by Quillen himself for the case
+   of [429]finite fields:
+
+   If F[q] is the finite field with q elements, then:
+     * K[0](F[q]) = Z,
+     * K[2i](F[q]) = 0 for i ≥1,
+     * K[2i–1](F[q]) = Z/(q^ i − 1)Z for i ≥ 1.
+
+   [430]Rick Jardine ([431]1993) reproved Quillen's computation using
+   different methods.
+
+Algebraic K-groups of rings of integers
+
+   [[432]edit]
+
+   Quillen proved that if A is the [433]ring of algebraic integers in an
+   algebraic [434]number field F (a finite extension of the rationals),
+   then the algebraic K-groups of A are finitely generated. [435]Armand
+   Borel used this to calculate K[i](A) and K[i](F) modulo torsion. For
+   example, for the integers Z, Borel proved that (modulo torsion)
+     * K[i] (Z)/tors.=0 for positive i unless i=4k+1 with k positive
+     * K[4k+1] (Z)/tors.= Z for positive k.
+
+   The torsion subgroups of K[2i+1](Z), and the orders of the finite
+   groups K[4k+2](Z) have recently been determined, but whether the latter
+   groups are cyclic, and whether the groups K[4k](Z) vanish depends upon
+   [436]Vandiver's conjecture about the class groups of cyclotomic
+   integers. See [437]Quillen–Lichtenbaum conjecture for more details.
+
+Applications and open questions
+
+   [[438]edit]
+
+   Algebraic K-groups are used in conjectures on [439]special values of
+   L-functions and the formulation of a [440]non-commutative main
+   conjecture of Iwasawa theory and in construction of [441]higher
+   regulators.^[442][69]
+
+   [443]Parshin's conjecture concerns the higher algebraic K-groups for
+   smooth varieties over finite fields, and states that in this case the
+   groups vanish up to torsion.
+
+   Another fundamental conjecture due to [444]Hyman Bass ([445]Bass'
+   conjecture) says that all of the groups G[n](A) are finitely generated
+   when A is a finitely generated Z-algebra. (The groups G[n](A) are the
+   K-groups of the category of finitely generated A-modules) ^[446][87]
+
+See also
+
+   [[447]edit]
+     * [448]Additive K-theory
+     * [449]Bloch's formula
+     * [450]Fundamental theorem of algebraic K-theory
+     * [451]Basic theorems in algebraic K-theory
+     * [452]K-theory
+     * [453]K-theory of a category
+     * [454]K-group of a field
+     * [455]K-theory spectrum
+     * [456]Redshift conjecture
+     * [457]Topological K-theory
+     * [458]Rigidity (K-theory)
+
+Notes
+
+   [[459]edit]
+    1. [460]^ Weibel 1999
+    2. [461]^ Grothendieck 1957, Borel–Serre 1958
+    3. [462]^ Atiyah–Hirzebruch 1961
+    4. [463]^ Whitehead 1939, Whitehead 1941, Whitehead 1950
+    5. [464]^ Bass–Schanuel 1962
+    6. [465]^ Bass 1968
+    7. [466]^ Bass–Murthy 1967
+    8. [467]^ Karoubi 1968
+    9. [468]^ Steinberg 1962
+   10. [469]^ Milnor 1971
+   11. [470]^ Matsumoto 1969
+   12. [471]^ Swan 1968
+   13. [472]^ Gersten 1969
+   14. [473]^ Nobile–Villamayor 1968
+   15. [474]^ Karoubi–Villamayor 1971
+   16. [475]^ Milnor 1970
+   17. [476]^ Milnor 1970, p. 319
+   18. [477]^ Nesterenko–Suslin 1990
+   19. [478]^ Totaro 1992
+   20. [479]^ Thomason 1992
+   21. [480]^ Quillen 1971
+   22. [481]^ Segal 1974
+   23. [482]^ Wall 1965
+   24. [483]^ Siebenmann 1965
+   25. [484]^ Smale 1962
+   26. [485]^ Mazur 1963
+   27. [486]^ Barden 1963
+   28. [487]^ Cerf 1970
+   29. [488]^ Hatcher and Wagoner 1973
+   30. [489]^ Waldhausen 1978
+   31. [490]^ Waldhausen 1985
+   32. [491]^ Brown–Gersten 1973
+   33. [492]^ Bloch 1974
+   34. [493]^ Quillen 1973
+   35. [494]^ Quillen 1975
+   36. [495]^ Browder 1976
+   37. [496]^ Soulé 1979
+   38. [497]^ Dwyer–Friedlander 1982
+   39. [498]^ Thomason 1985
+   40. [499]^ Thomason and Trobaugh 1990
+   41. [500]^ Dennis 1976
+   42. [501]^ Bokstedt 1986
+   43. [502]^ Bokstedt–Hsiang–Madsen 1993
+   44. [503]^ Dundas–Goodwillie–McCarthy 2012
+   45. ^ [504]^a [505]^b Rosenberg (1994) p.30
+   46. ^ [506]^a [507]^b Milnor (1971) p.5
+   47. [508]^ Milnor (1971) p.14
+   48. [509]^ Karoubi, Max (2008), K-Theory: an Introduction, Classics in
+       mathematics, Berlin, New York: [510]Springer-Verlag,
+       [511]ISBN [512]978-3-540-79889-7, see Theorem I.6.18
+   49. [513]^ Rosenberg (1994) 1.5.1, p.27
+   50. [514]^ Rosenberg (1994) 1.5.3, p.27
+   51. [515]^ Milnor (1971) p.15
+   52. [516]^ J.H.C. Whitehead, Simple homotopy types Amer. J. Math., 72
+       (1950) pp. 1–57
+   53. [517]^ Rosenberg (1994) 2.5.1, p.92
+   54. [518]^ Rosenberg (1994) 2.5.4, p.95
+   55. [519]^ Rosenberg (1994) Theorem 2.3.2, p.74
+   56. ^ [520]^a [521]^b Rosenberg (1994) p.75
+   57. [522]^ Rosenberg (1994) p.81
+   58. [523]^ Rosenberg (1994) p.78
+   59. [524]^ Gille & Szamuely (2006) p.47
+   60. ^ [525]^a [526]^b Gille & Szamuely (2006) p.48
+   61. [527]^ [528]Wang, Shianghaw (1950), "On the commutator group of a
+       simple algebra", Am. J. Math., 72 (2): 323–334,
+       [529]doi:[530]10.2307/2372036, [531]ISSN [532]0002-9327,
+       [533]JSTOR [534]2372036, [535]Zbl [536]0040.30302
+   62. [537]^ Lam (2005) p.139
+   63. ^ [538]^a [539]^b Lemmermeyer (2000) p.66
+   64. [540]^ Milnor (1971) p.101
+   65. [541]^ Milnor (1971) p.102
+   66. [542]^ Gras (2003) p.205
+   67. [543]^ Milnor (1971) p.175
+   68. [544]^ Milnor (1971) p.81
+   69. ^ [545]^a [546]^b Lemmermeyer (2000) p.385
+   70. [547]^ Silvester (1981) p.228
+   71. [548]^ [549]Hideya Matsumoto
+   72. [550]^ [551]Matsumoto, Hideya (1969), "Sur les sous-groupes
+       arithmétiques des groupes semi-simples déployés", [552]Annales
+       Scientifiques de l'École Normale Supérieure, 4 (in French), 2 (2):
+       1–62, [553]doi:[554]10.24033/asens.1174, [555]ISSN [556]0012-9593,
+       [557]MR [558]0240214, [559]Zbl [560]0261.20025
+   73. [561]^ Rosenberg (1994) Theorem 4.3.15, p.214
+   74. [562]^ Milnor (1971) p.123
+   75. [563]^ Rosenberg (1994) p.200
+   76. [564]^ Milnor (1971) p.63
+   77. [565]^ Milnor (1971) p.69
+   78. [566]^ (Weibel [567]2005), cf. Lemma 1.8
+   79. [568]^ Gille & Szamuely (2006) p.184
+   80. [569]^ Gille & Szamuely (2006) p.108
+   81. [570]^ [571]Voevodsky, Vladimir (2003), "Motivic cohomology with
+       Z/2-coefficients", Institut des Hautes Études Scientifiques.
+       Publications Mathématiques, 98 (1): 59–104,
+       [572]doi:[573]10.1007/s10240-003-0010-6, [574]ISSN [575]0073-8301,
+       [576]MR [577]2031199
+   82. [578]^ Rosenberg (1994) pp. 245–246
+   83. [579]^ Rosenberg (1994) p.246
+   84. [580]^ Rosenberg (1994) p.289
+   85. [581]^ [582]"ag.algebraic geometry - Quillen's motivation of higher
+       algebraic K-theory", MathOverflow, retrieved 2021-03-26
+   86. [583]^ [584]Waldhausen, Friedhelm (1985), [585]"Algebraic K-theory
+       of spaces", Algebraic K-theory of spaces, Lecture Notes in
+       Mathematics, vol. 1126, Berlin, New York: [586]Springer-Verlag,
+       pp. 318–419, [587]doi:[588]10.1007/BFb0074449,
+       [589]ISBN [590]978-3-540-15235-4, [591]MR [592]0802796. See also
+       Lecture IV and the references in (Friedlander & Weibel [593]1999)
+   87. [594]^ (Friedlander & Weibel [595]1999), Lecture VI
+
+References
+
+   [[596]edit]
+     *
+
+   [597]Bass, Hyman (1968), Algebraic K-theory, Mathematics Lecture Note
+   Series, New York-Amsterdam: W.A. Benjamin, Inc.,
+   [598]Zbl [599]0174.30302
+
+     [600]Friedlander, Eric; Grayson, Daniel, eds. (2005), Handbook of
+   K-Theory, Berlin, New York: [601]Springer-Verlag,
+   [602]doi:[603]10.1007/3-540-27855-9, [604]ISBN [605]978-3-540-30436-4,
+   [606]MR [607]2182598
+
+     [608]Friedlander, Eric M.; [609]Weibel, Charles W. (1999), An
+   overview of algebraic K-theory, World Sci. Publ., River Edge, NJ,
+   pp. 1–119, [610]MR [611]1715873
+
+     Gille, Philippe; Szamuely, Tamás (2006), Central simple algebras and
+   Galois cohomology, Cambridge Studies in Advanced Mathematics, vol. 101,
+   Cambridge: [612]Cambridge University Press,
+   [613]ISBN [614]978-0-521-86103-8, [615]Zbl [616]1137.12001
+
+     Gras, Georges (2003), Class field theory. From theory to practice,
+   Springer Monographs in Mathematics, Berlin: [617]Springer-Verlag,
+   [618]ISBN [619]978-3-540-44133-5, [620]Zbl [621]1019.11032
+
+     [622]Jardine, John Frederick (1993), "The K-theory of finite fields,
+   revisited", K-Theory, 7 (6): 579–595, [623]doi:[624]10.1007/BF00961219,
+   [625]MR [626]1268594
+
+     [627]Lam, Tsit-Yuen (2005), Introduction to Quadratic Forms over
+   Fields, Graduate Studies in Mathematics, vol. 67, [628]American
+   Mathematical Society, [629]ISBN [630]978-0-8218-1095-8,
+   [631]MR [632]2104929, [633]Zbl [634]1068.11023
+
+     Lemmermeyer, Franz (2000), Reciprocity laws. From Euler to
+   Eisenstein, Springer Monographs in Mathematics, Berlin:
+   [635]Springer-Verlag, [636]doi:[637]10.1007/978-3-662-12893-0,
+   [638]ISBN [639]978-3-540-66957-9, [640]MR [641]1761696,
+   [642]Zbl [643]0949.11002
+
+     [644]Milnor, John Willard (1970), "Algebraic K-theory and quadratic
+   forms", Inventiones Mathematicae, 9 (4): 318–344,
+   [645]Bibcode:[646]1970InMat...9..318M,
+   [647]doi:[648]10.1007/BF01425486, [649]ISSN [650]0020-9910,
+   [651]MR [652]0260844
+
+     [653]Milnor, John Willard (1971), Introduction to algebraic K-theory,
+   Annals of Mathematics Studies, vol. 72, Princeton, NJ: [654]Princeton
+   University Press, [655]MR [656]0349811, [657]Zbl [658]0237.18005 (lower
+   K-groups)
+
+     [659]Quillen, Daniel (1973), "Higher algebraic K-theory. I",
+   Algebraic K-theory, I: Higher K-theories (Proc. Conf., Battelle
+   Memorial Inst., Seattle, Wash., 1972), Lecture Notes in Math, vol. 341,
+   Berlin, New York: [660]Springer-Verlag, pp. 85–147,
+   [661]doi:[662]10.1007/BFb0067053, [663]ISBN [664]978-3-540-06434-3,
+   [665]MR [666]0338129
+
+     [667]Quillen, Daniel (1975), "Higher algebraic K-theory", Proceedings
+   of the International Congress of Mathematicians (Vancouver, B. C.,
+   1974), Vol. 1, Montreal, Quebec: Canad. Math. Congress, pp. 171–176,
+   [668]MR [669]0422392 (Quillen's Q-construction)
+
+     Quillen, Daniel (1974), "Higher K-theory for categories with exact
+   sequences", New developments in topology (Proc. Sympos. Algebraic
+   Topology, Oxford, 1972), London Math. Soc. Lecture Note Ser., vol. 11,
+   [670]Cambridge University Press, pp. 95–103, [671]MR [672]0335604
+   (relation of Q-construction to plus-construction)
+
+     [673]Rosenberg, Jonathan (1994), [674]Algebraic K-theory and its
+   applications, [675]Graduate Texts in Mathematics, vol. 147, Berlin, New
+   York: [676]Springer-Verlag, [677]doi:[678]10.1007/978-1-4612-4314-4,
+   [679]ISBN [680]978-0-387-94248-3, [681]MR [682]1282290,
+   [683]Zbl [684]0801.19001. [685]Errata
+
+     Seiler, Wolfgang (1988), "λ-Rings and Adams Operations in Algebraic
+   K-Theory", in Rapoport, M.; Schneider, P.; Schappacher, N. (eds.),
+   Beilinson's Conjectures on Special Values of L-Functions, Boston, MA:
+   Academic Press, [686]ISBN [687]978-0-12-581120-0
+
+     Silvester, John R. (1981), Introduction to algebraic K-theory,
+   Chapman and Hall Mathematics Series, London, New York: [688]Chapman and
+   Hall, [689]ISBN [690]978-0-412-22700-4, [691]Zbl [692]0468.18006
+
+     [693]Weibel, Charles (2005), [694]"Algebraic K-theory of rings of
+   integers in local and global fields" (PDF), Handbook of K-theory,
+   Berlin, New York: [695]Springer-Verlag, pp. 139–190,
+   [696]doi:[697]10.1007/3-540-27855-9_5,
+   [698]ISBN [699]978-3-540-23019-9, [700]MR [701]2181823 (survey article)
+
+     [702]Weibel, Charles (1999), "The development of algebraic 𝐾-theory
+   before 1980", The development of algebraic K-theory before 1980,
+   Contemporary Mathematics, vol. 243, Providence, RI: [703]American
+   Mathematical Society, pp. 211–238,
+   [704]doi:[705]10.1090/conm/243/03695, [706]ISBN [707]978-0-8218-1087-3,
+   [708]MR [709]1732049
+
+Further reading
+
+   [[710]edit]
+
+     *
+
+   Lluis-Puebla, Emilio; Loday, Jean-Louis; Gillet, Henri; Soulé,
+   Christophe; Snaith, Victor (1992), Higher algebraic K-theory: an
+   overview, Lecture Notes in Mathematics, vol. 1491, Berlin, Heidelberg:
+   [711]Springer-Verlag, [712]ISBN [713]978-3-540-55007-5,
+   [714]Zbl [715]0746.19001
+
+     Magurn, Bruce A. (2009), An algebraic introduction to K-theory,
+   Encyclopedia of Mathematics and its Applications, vol. 87 (corrected
+   paperback ed.), [716]Cambridge University Press,
+   [717]ISBN [718]978-0-521-10658-0
+
+     Srinivas, V. (2008), Algebraic K-theory, Modern Birkhäuser Classics
+   (Paperback reprint of the 1996 2nd ed.), Boston, MA: [719]Birkhäuser,
+   [720]ISBN [721]978-0-8176-4736-0, [722]Zbl [723]1125.19300
+
+     Weibel, C., [724]The K-book: An introduction to algebraic K-theory
+
+Pedagogical references
+
+   [[725]edit]
+
+     * [726]Higher Algebraic K-Theory: an overview
+     *
+
+   [727]Rosenberg, Jonathan (1994), [728]Algebraic K-theory and its
+   applications, [729]Graduate Texts in Mathematics, vol. 147, Berlin, New
+   York: [730]Springer-Verlag, [731]doi:[732]10.1007/978-1-4612-4314-4,
+   [733]ISBN [734]978-0-387-94248-3, [735]MR [736]1282290,
+   [737]Zbl [738]0801.19001. [739]Errata
+
+     [740]Weibel, Charles (2013), [741]The K-book: an introduction to
+   Algebraic K-theory, [742]Graduate Studies in Mathematics, vol. 145,
+   [743]AMS
+
+Historical references
+
+   [[744]edit]
+
+     *
+
+   [745]Atiyah, Michael F.; [746]Hirzebruch, Friedrich (1961), Vector
+   bundles and homogeneous spaces, Proc. Sympos. Pure Math., vol. 3,
+   [747]American Mathematical Society, pp. 7–38
+
+     [748]Barden, Dennis (1964), On the Structure and Classification of
+   Differential Manifolds (Thesis), [749]Cambridge University
+
+     [750]Bass, Hyman; Murthy, M.P. (1967), "Grothendieck groups and
+   Picard groups of abelian group rings", [751]Annals of Mathematics, 86
+   (1): 16–73, [752]doi:[753]10.2307/1970360, [754]JSTOR [755]1970360
+
+     [756]Bass, Hyman; Schanuel, S. (1962), [757]"The homotopy theory of
+   projective modules", [758]Bulletin of the American Mathematical
+   Society, 68 (4): 425–428, [759]doi:[760]10.1090/s0002-9904-1962-10826-x
+
+     [761]Bass, Hyman (1968), Algebraic K-theory, Benjamin
+
+     [762]Bloch, Spencer (1974), "K[2] of algebraic cycles", [763]Annals
+   of Mathematics, 99 (2): 349–379, [764]doi:[765]10.2307/1970902,
+   [766]JSTOR [767]1970902
+
+     Bokstedt, M., Topological Hochschild homology. Preprint, Bielefeld,
+   1986.
+
+     Bokstedt, M., Hsiang, W. C., Madsen, I., The cyclotomic trace and
+   algebraic K-theory of spaces. Invent. Math., 111(3) (1993), 465–539.
+
+     [768]Borel, Armand; [769]Serre, Jean-Pierre (1958), [770]"Le theoreme
+   de Riemann–Roch", [771]Bulletin de la Société Mathématique de France,
+   86: 97–136, [772]doi:[773]10.24033/bsmf.1500
+
+     [774]Browder, William (1978), Algebraic K-theory with coefficients
+   Z/p, Lecture Notes in Mathematics, vol. 657, Springer–Verlag, pp. 40–84
+
+     Brown, K., Gersten, S., Algebraic K-theory as generalized sheaf
+   cohomology, Algebraic K-theory I, Lecture Notes in Math., vol. 341,
+   Springer-Verlag, 1973, pp. 266–292.
+
+     [775]Cerf, Jean (1970), [776]"La stratification naturelle des espaces
+   de fonctions differentiables reelles et le theoreme de la
+   pseudo-isotopie", [777]Publications Mathématiques de l'IHÉS, 39: 5–173,
+   [778]doi:[779]10.1007/BF02684687
+
+     Dennis, R. K., Higher algebraic K-theory and Hochschild homology,
+   unpublished preprint (1976).
+
+     Gersten, S (1971), [780]"On the functor K[2]", J. Algebra, 17 (2):
+   212–237, [781]doi:[782]10.1016/0021-8693(71)90030-5
+
+     Grothendieck, Alexander, Classes de fasiceaux et theoreme de
+   Riemann–Roch, mimeographed notes, Princeton 1957.
+
+     [783]Hatcher, Allen; Wagoner, John (1973), "Pseudo-isotopies of
+   compact manifolds", [784]Astérisque, 6, [785]MR [786]0353337
+
+     Karoubi, Max (1968), "Foncteurs derives et K-theorie. Categories
+   filtres", Comptes Rendus de l'Académie des Sciences, Série A-B, 267:
+   A328 – A331
+
+     [787]Karoubi, Max; Villamayor, O. (1971), [788]"K-theorie algebrique
+   et K-theorie topologique", Math. Scand., 28: 265–307,
+   [789]doi:[790]10.7146/math.scand.a-11024
+
+     [791]Matsumoto, Hideya (1969), [792]"Sur les sous-groupes
+   aritmetiques des groupes semi-simples deployes", [793]Annales
+   Scientifiques de l'École Normale Supérieure, 2: 1–62,
+   [794]doi:[795]10.24033/asens.1174
+
+     [796]Mazur, Barry (1963), [797]"Differential topology from the point
+   of view of simple homotopy theory" (PDF), Publications Mathématiques de
+   l'IHÉS, 15: 5–93
+
+     Milnor, J (1970), "Algebraic K-theory and Quadratic Forms", Invent.
+   Math., 9 (4): 318–344, [798]Bibcode:[799]1970InMat...9..318M,
+   [800]doi:[801]10.1007/bf01425486
+
+     Milnor, J., Introduction to Algebraic K-theory, Princeton Univ.
+   Press, 1971.
+
+     Nobile, A., Villamayor, O., Sur la K-theorie algebrique, [802]Annales
+   Scientifiques de l'École Normale Supérieure, 4e serie, 1, no. 3, 1968,
+   581–616.
+
+     Quillen, Daniel, Cohomology of groups, Proc. ICM Nice 1970, vol. 2,
+   Gauthier-Villars, Paris, 1971, 47–52.
+
+     Quillen, Daniel, Higher algebraic K-theory I, Algebraic K-theory I,
+   Lecture Notes in Math., vol. 341, Springer Verlag, 1973, 85–147.
+
+     Quillen, Daniel, Higher algebraic K-theory, Proc. Intern. Congress
+   Math., Vancouver, 1974, vol. I, Canad. Math. Soc., 1975, pp. 171–176.
+
+     Segal, Graeme (1974), [803]"Categories and cohomology theories",
+   [804]Topology, 13 (3): 293–312,
+   [805]doi:[806]10.1016/0040-9383(74)90022-6
+
+     Siebenmann, Larry, [807]The Obstruction to Finding a Boundary for an
+   Open Manifold of Dimension Greater than Five, Thesis, Princeton
+   University (1965).
+
+     Smale, S (1962), "On the structure of manifolds", Amer. J. Math., 84
+   (3): 387–399, [808]doi:[809]10.2307/2372978, [810]JSTOR [811]2372978
+
+     Steinberg, R., Generateurs, relations et revetements de groupes
+   algebriques, ́Colloq. Theorie des Groupes Algebriques,
+   Gauthier-Villars, Paris, 1962, pp. 113–127. (French)
+
+     Swan, Richard, [812]Nonabelian homological algebra and K-theory,
+   Proc. Sympos. Pure Math., vol. XVII, 1970, pp. 88–123.
+
+     Thomason, R. W., Algebraic K-theory and étale cohomology, Ann.
+   Scient. Ec. Norm. Sup. 18, 4e serie (1985), 437–552; erratum 22 (1989),
+   675–677.
+
+     Thomason, R. W., Le principe de sciendage et l'inexistence d'une
+   K-theorie de Milnor globale, [813]Topology 31, no. 3, 1992, 571–588.
+
+     Thomason, Robert W.; Trobaugh, Thomas (1990), "Higher Algebraic
+   K-Theory of Schemes and of Derived Categories", The Grothendieck
+   Festschrift Volume III, Progr. Math., vol. 88, Boston, MA: Birkhäuser
+   Boston, pp. 247–435, [814]doi:[815]10.1007/978-0-8176-4576-2_10,
+   [816]ISBN [817]978-0-8176-3487-2, [818]MR [819]1106918
+
+     Waldhausen, F., [820]Algebraic [821]K-theory of topological spaces.
+   I, in Algebraic and geometric topology (Proc. Sympos. Pure Math.,
+   Stanford Univ., Stanford, Calif., 1976), Part 1, pp. 35–60, Proc.
+   Sympos. Pure Math., XXXII, Amer. Math. Soc., Providence, R.I., 1978.
+
+     Waldhausen, F., Algebraic K-theory of spaces, in Algebraic and
+   geometric topology (New Brunswick, N.J., 1983), Lecture Notes in
+   Mathematics, vol. 1126 (1985), 318–419.
+
+     Wall, C. T. C. (1965), "Finiteness conditions for CW-complexes",
+   Annals of Mathematics, 81 (1): 56–69, [822]doi:[823]10.2307/1970382,
+   [824]JSTOR [825]1970382
+
+     Whitehead, J.H.C. (1941), "On incidence matrices, nuclei and homotopy
+   types", Annals of Mathematics, 42 (5): 1197–1239,
+   [826]doi:[827]10.2307/1970465, [828]JSTOR [829]1970465
+
+     Whitehead, J.H.C. (1950), "Simple homotopy types", Amer. J. Math., 72
+   (1): 1–57, [830]doi:[831]10.2307/2372133, [832]JSTOR [833]2372133
+
+     Whitehead, J.H.C. (1939), "Simplicial spaces, nuclei and m-groups",
+   Proc. London Math. Soc., 45: 243–327,
+   [834]doi:[835]10.1112/plms/s2-45.1.243
+
+External links
+
+   [[836]edit]
+
+     * [837]K theory preprint archive
+
+   Retrieved from
+   "[838]https://en.wikipedia.org/w/index.php?title=Algebraic_K-theory&old
+   id=1263361881#The_+-construction"
+
+   [839]Categories:
+     * [840]Algebraic K-theory
+     * [841]Algebraic geometry
+
+   Hidden categories:
+     * [842]CS1 French-language sources (fr)
+     * [843]Articles with short description
+     * [844]Short description is different from Wikidata
+
+     * This page was last edited on 16 December 2024, at 06:16 (UTC).
+     * Text is available under the [845]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [846]Terms of Use and
+       [847]Privacy Policy. Wikipedia® is a registered trademark of the
+       [848]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [849]Privacy policy
+     * [850]About Wikipedia
+     * [851]Disclaimers
+     * [852]Contact Wikipedia
+     * [853]Code of Conduct
+     * [854]Developers
+     * [855]Statistics
+     * [856]Cookie statement
+     * [857]Mobile view
+
+     * [858]Wikimedia Foundation
+     * [859]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/Algebraic_K-theory#The_+-construction
+   2. file:///w/index.php?title=Algebraic_K-theory&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Algebraic+K-theory
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Algebraic+K-theory
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Algebraic+K-theory
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Algebraic+K-theory
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html
+  29. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#History
+  30. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#The_Grothendieck_group_K0
+  31. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#K0,_K1,_and_K2
+  32. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Higher_K-groups
+  33. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Applications_of_algebraic_K-theory_in_topology
+  34. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Algebraic_topology_and_algebraic_geometry_in_algebraic_K-theory
+  35. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Lower_K-groups
+  36. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#K0
+  37. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Examples
+  38. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Relative_K0
+  39. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#K0_as_a_ring
+  40. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#K1
+  41. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Relative_K1
+  42. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Commutative_rings_and_fields
+  43. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Central_simple_algebras
+  44. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#K2
+  45. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Matsumoto's_theorem
+  46. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Long_exact_sequences
+  47. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Pairing
+  48. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Milnor_K-theory
+  49. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Higher_K-theory
+  50. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#The_+-construction
+  51. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#The_Q-construction
+  52. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#The_S-construction
+  53. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Examples_2
+  54. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Algebraic_K-groups_of_finite_fields
+  55. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Algebraic_K-groups_of_rings_of_integers
+  56. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Applications_and_open_questions
+  57. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#See_also
+  58. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Notes
+  59. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#References
+  60. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Further_reading
+  61. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Pedagogical_references
+  62. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#Historical_references
+  63. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#External_links
+  64. https://de.wikipedia.org/wiki/Algebraische_K-Theorie
+  65. https://fr.wikipedia.org/wiki/K-théorie_algébrique
+  66. https://ko.wikipedia.org/wiki/대수적_K이론
+  67. https://nl.wikipedia.org/wiki/Algebraïsche_K-theorie
+  68. https://ja.wikipedia.org/wiki/代数的K理論
+  69. https://pt.wikipedia.org/wiki/K-teoria_algébrica
+  70. https://sv.wikipedia.org/wiki/Algebraisk_K-teori
+  71. https://www.wikidata.org/wiki/Special:EntityPage/Q2553675#sitelinks-wikipedia
+  72. file:///wiki/Algebraic_K-theory
+  73. file:///wiki/Talk:Algebraic_K-theory
+  74. file:///wiki/Algebraic_K-theory
+  75. file:///w/index.php?title=Algebraic_K-theory&action=edit
+  76. file:///w/index.php?title=Algebraic_K-theory&action=history
+  77. file:///wiki/Algebraic_K-theory
+  78. file:///w/index.php?title=Algebraic_K-theory&action=edit
+  79. file:///w/index.php?title=Algebraic_K-theory&action=history
+  80. file:///wiki/Special:WhatLinksHere/Algebraic_K-theory
+  81. file:///wiki/Special:RecentChangesLinked/Algebraic_K-theory
+  82. file:///wiki/Wikipedia:File_Upload_Wizard
+  83. file:///wiki/Special:SpecialPages
+  84. file:///w/index.php?title=Algebraic_K-theory&oldid=1263361881
+  85. file:///w/index.php?title=Algebraic_K-theory&action=info
+  86. file:///w/index.php?title=Special:CiteThisPage&page=Algebraic_K-theory&id=1263361881&wpFormIdentifier=titleform
+  87. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/Algebraic_K-theory#The_+-construction
+  88. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/Algebraic_K-theory#The_+-construction
+  89. file:///w/index.php?title=Special:DownloadAsPdf&page=Algebraic_K-theory&action=show-download-screen
+  90. file:///w/index.php?title=Algebraic_K-theory&printable=yes
+  91. https://www.wikidata.org/wiki/Special:EntityPage/Q2553675
+  92. file:///w/index.php?title=+_construction&redirect=no
+  93. file:///wiki/Geometry
+  94. file:///wiki/Topology
+  95. file:///wiki/Ring_theory
+  96. file:///wiki/Number_theory
+  97. file:///wiki/Group_(mathematics)
+  98. file:///wiki/Abstract_algebra
+  99. file:///wiki/Integer
+ 100. file:///wiki/Alexander_Grothendieck
+ 101. file:///wiki/Intersection_theory
+ 102. file:///wiki/Algebraic_variety
+ 103. file:///wiki/Grothendieck–Riemann–Roch_theorem
+ 104. file:///wiki/Motivic_cohomology
+ 105. file:///wiki/Chow_group
+ 106. file:///wiki/Quadratic_reciprocity
+ 107. file:///wiki/Number_field
+ 108. file:///wiki/Real_number
+ 109. file:///wiki/Complex_number
+ 110. file:///wiki/Regulator_(mathematics)
+ 111. file:///wiki/L-function
+ 112. file:///wiki/Field_(mathematics)
+ 113. file:///wiki/Dimension_(vector_space)
+ 114. file:///wiki/Commutative_ring
+ 115. file:///wiki/Picard_group
+ 116. file:///wiki/Class_group
+ 117. file:///wiki/Group_of_units
+ 118. file:///wiki/Class_field_theory
+ 119. file:///wiki/Hilbert_symbol
+ 120. file:///wiki/Daniel_Quillen
+ 121. file:///wiki/Robert_Wayne_Thomason
+ 122. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=1
+ 123. file:///wiki/Charles_Weibel
+ 124. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-1
+ 125. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=2
+ 126. file:///wiki/Bernhard_Riemann
+ 127. file:///wiki/Gustav_Roch
+ 128. file:///wiki/Riemann–Roch_theorem
+ 129. file:///wiki/Riemann_surface
+ 130. file:///wiki/Meromorphic_function
+ 131. file:///wiki/Differential_form
+ 132. file:///wiki/Line_bundle
+ 133. file:///wiki/Friedrich_Hirzebruch
+ 134. file:///wiki/Hirzebruch–Riemann–Roch_theorem
+ 135. file:///wiki/Euler_characteristic
+ 136. file:///wiki/Vector_bundle
+ 137. file:///wiki/Characteristic_class
+ 138. file:///wiki/Alexander_Grothendieck
+ 139. file:///wiki/Grothendieck–Riemann–Roch_theorem
+ 140. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-2
+ 141. file:///wiki/Quotient_group
+ 142. file:///wiki/Free_abelian_group
+ 143. file:///wiki/Chow_group
+ 144. file:///wiki/Chern_character
+ 145. file:///wiki/Todd_class
+ 146. file:///wiki/Group_representation
+ 147. file:///wiki/Michael_Atiyah
+ 148. file:///wiki/Topological_K-theory
+ 149. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-3
+ 150. file:///wiki/Extraordinary_cohomology_theory
+ 151. file:///wiki/Eilenberg–Steenrod_axioms
+ 152. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=3
+ 153. file:///wiki/J.H.C._Whitehead
+ 154. file:///wiki/Henri_Poincaré
+ 155. file:///wiki/Hauptvermutung
+ 156. file:///wiki/J.H.C._Whitehead
+ 157. file:///wiki/Simple_homotopy_type
+ 158. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-4
+ 159. file:///wiki/Simplicial_complex
+ 160. file:///wiki/Cell_complex
+ 161. file:///wiki/Group_ring
+ 162. file:///wiki/John_Milnor
+ 163. file:///wiki/Reidemeister_torsion
+ 164. file:///wiki/Hyman_Bass
+ 165. file:///wiki/Stephen_Schanuel
+ 166. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-5
+ 167. file:///wiki/Suspension_(topology)
+ 168. file:///wiki/Clutching_construction
+ 169. file:///wiki/General_linear_group
+ 170. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-6
+ 171. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-7
+ 172. file:///wiki/Fundamental_theorem_of_algebraic_K-theory
+ 173. file:///wiki/Max_Karoubi
+ 174. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-8
+ 175. file:///wiki/Universal_central_extension
+ 176. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-9
+ 177. file:///wiki/John_Milnor
+ 178. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-10
+ 179. file:///wiki/Hideya_Matsumoto
+ 180. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-11
+ 181. file:///wiki/Hilbert_symbol
+ 182. file:///wiki/Local_field
+ 183. file:///wiki/John_Tate_(mathematician)
+ 184. file:///wiki/Quadratic_reciprocity
+ 185. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=4
+ 186. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-12
+ 187. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-13
+ 188. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-14
+ 189. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-15
+ 190. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-16
+ 191. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-17
+ 192. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-18
+ 193. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-19
+ 194. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-20
+ 195. file:///wiki/Daniel_Quillen
+ 196. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-21
+ 197. file:///wiki/Adams_conjecture
+ 198. file:///wiki/Classifying_space
+ 199. file:///wiki/Adams_operation
+ 200. file:///wiki/Plus_construction
+ 201. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-22
+ 202. file:///wiki/Spectrum_(topology)
+ 203. file:///wiki/Exact_category
+ 204. file:///wiki/Q-construction
+ 205. file:///wiki/Abelian_category
+ 206. file:///wiki/Loop_space
+ 207. file:///wiki/Simplicial_set
+ 208. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=5
+ 209. file:///wiki/C._T._C._Wall
+ 210. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-23
+ 211. file:///wiki/Laurent_Siebenmann
+ 212. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-24
+ 213. file:///wiki/H-cobordism
+ 214. file:///wiki/Stephen_Smale
+ 215. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-25
+ 216. file:///wiki/Poincaré_conjecture
+ 217. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-26
+ 218. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-27
+ 219. file:///wiki/Homotopy#isotopy
+ 220. file:///wiki/Jean_Cerf
+ 221. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-28
+ 222. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-29
+ 223. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-30
+ 224. file:///wiki/Waldhausen_category
+ 225. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-31
+ 226. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=6
+ 227. file:///wiki/Kenneth_Brown_(mathematician)
+ 228. file:///wiki/Sheaf_(mathematics)
+ 229. file:///wiki/Spectrum_(algebraic_topology)
+ 230. file:///wiki/Spectral_sequence
+ 231. file:///w/index.php?title=Brown–Gersten_spectral_sequence&action=edit&redlink=1
+ 232. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-32
+ 233. file:///wiki/Spencer_Bloch
+ 234. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-33
+ 235. file:///wiki/Regular_local_ring
+ 236. file:///wiki/Fraction_field
+ 237. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-34
+ 238. file:///wiki/Zeta_function
+ 239. file:///wiki/Étale_cohomology
+ 240. file:///wiki/Atiyah–Hirzebruch_spectral_sequence
+ 241. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-35
+ 242. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-36
+ 243. file:///wiki/Chern_class
+ 244. file:///wiki/Étale_cohomology
+ 245. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-37
+ 246. file:///wiki/William_Gerard_Dwyer
+ 247. file:///wiki/Eric_Friedlander
+ 248. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-38
+ 249. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-39
+ 250. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-40
+ 251. file:///wiki/Séminaire_de_Géométrie_Algébrique_du_Bois_Marie
+ 252. file:///wiki/Derived_category
+ 253. file:///wiki/R._Keith_Dennis
+ 254. file:///wiki/Hochschild_homology
+ 255. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-41
+ 256. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-42
+ 257. file:///wiki/Cyclic_homology
+ 258. file:///wiki/Novikov_conjecture
+ 259. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-43
+ 260. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-44
+ 261. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=7
+ 262. file:///wiki/Ring_(mathematics)
+ 263. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=8
+ 264. file:///wiki/Grothendieck_group
+ 265. file:///wiki/Finitely_generated_module
+ 266. file:///wiki/Projective_module
+ 267. file:///wiki/Free_module
+ 268. file:///wiki/Rng_(algebra)
+ 269. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros30-45
+ 270. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=9
+ 271. file:///wiki/Grothendieck_group#Further_examples
+ 272. file:///wiki/Field_(mathematics)
+ 273. file:///wiki/Vector_space
+ 274. file:///wiki/Dimension_(vector_space)
+ 275. file:///wiki/Local_ring
+ 276. file:///wiki/Rank_of_a_free_module
+ 277. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil5-46
+ 278. file:///wiki/Dedekind_domain
+ 279. file:///wiki/Picard_group
+ 280. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil14-47
+ 281. file:///wiki/Algebraic_variety
+ 282. file:///wiki/Compact_topological_space
+ 283. file:///wiki/Topological_K-theory
+ 284. file:///wiki/Vector_bundle
+ 285. file:///wiki/Continuous_function
+ 286. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-48
+ 287. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=10
+ 288. file:///wiki/Cartesian_product
+ 289. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros27-49
+ 290. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros27a-50
+ 291. file:///wiki/Excision_theorem
+ 292. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros30-45
+ 293. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=11
+ 294. file:///wiki/Tensor_product
+ 295. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil5-46
+ 296. file:///wiki/Exterior_product
+ 297. file:///wiki/Λ-ring
+ 298. file:///wiki/Picard_group
+ 299. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil15-51
+ 300. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=12
+ 301. file:///wiki/Hyman_Bass
+ 302. file:///wiki/Abelianization
+ 303. file:///wiki/Infinite_general_linear_group
+ 304. file:///wiki/Direct_limit
+ 305. file:///wiki/Block_matrix
+ 306. file:///wiki/Commutator_subgroup
+ 307. file:///wiki/Elementary_matrix
+ 308. file:///wiki/Whitehead's_lemma
+ 309. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-52
+ 310. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=13
+ 311. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros92-53
+ 312. file:///wiki/Exact_sequence
+ 313. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros95-54
+ 314. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=14
+ 315. file:///wiki/Commutative_ring
+ 316. file:///wiki/Group_of_units
+ 317. file:///wiki/Split_short_exact_sequence
+ 318. file:///wiki/Special_linear_group
+ 319. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros74-55
+ 320. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros75-56
+ 321. file:///wiki/Algebraic_number_field
+ 322. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#CITEREFMilnor1971
+ 323. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros81-57
+ 324. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros75-56
+ 325. file:///wiki/Mennicke_symbol
+ 326. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros78-58
+ 327. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=15
+ 328. file:///wiki/Central_simple_algebra
+ 329. file:///wiki/Reduced_norm
+ 330. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-GS47-59
+ 331. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-GS48-60
+ 332. file:///wiki/Shianghao_Wang
+ 333. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Wang1950-61
+ 334. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-GS48-60
+ 335. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=16
+ 336. file:///wiki/Steinberg_group_(K-theory)
+ 337. file:///wiki/John_Milnor
+ 338. file:///wiki/Centre_of_a_group
+ 339. file:///wiki/Steinberg_group_(K-theory)
+ 340. file:///wiki/Kernel_(algebra)
+ 341. file:///wiki/Schur_multiplier
+ 342. file:///wiki/Elementary_matrices
+ 343. file:///wiki/Steinberg_symbol
+ 344. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Lam139-62
+ 345. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Lem66-63
+ 346. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Lem66-63
+ 347. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil101-64
+ 348. file:///wiki/Gauss
+ 349. file:///wiki/Law_of_Quadratic_Reciprocity
+ 350. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil102-65
+ 351. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Gras205-66
+ 352. file:///wiki/Cyclic_group
+ 353. file:///wiki/Divisible_group
+ 354. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil175-67
+ 355. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil81-68
+ 356. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Lem385-69
+ 357. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Sil228-70
+ 358. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=17
+ 359. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-71
+ 360. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-72
+ 361. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros214-73
+ 362. file:///wiki/Root_system
+ 363. file:///wiki/Chevalley_group
+ 364. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=18
+ 365. file:///wiki/Dedekind_domain
+ 366. file:///wiki/Field_of_fractions
+ 367. file:///wiki/Long_exact_sequence
+ 368. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil123-74
+ 369. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros200-75
+ 370. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=19
+ 371. file:///wiki/Steinberg_group_(K-theory)
+ 372. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil63-76
+ 373. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Mil6-77
+ 374. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=20
+ 375. file:///wiki/Milnor_K-theory
+ 376. file:///wiki/Tensor_algebra
+ 377. file:///wiki/Multiplicative_group
+ 378. file:///wiki/Two-sided_ideal
+ 379. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-78
+ 380. file:///wiki/Graded_ring
+ 381. file:///wiki/Graded-commutative
+ 382. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-GS184-79
+ 383. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-GS108-80
+ 384. file:///wiki/Étale_cohomology
+ 385. file:///wiki/Galois_cohomology
+ 386. file:///wiki/Milnor_conjecture_(K-theory)
+ 387. file:///wiki/Vladimir_Voevodsky
+ 388. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-81
+ 389. file:///wiki/Bloch-Kato_conjecture
+ 390. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=21
+ 391. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#CITEREFQuillen1973
+ 392. file:///wiki/Classifying_space
+ 393. file:///wiki/Homotopy_category
+ 394. file:///wiki/Long_exact_homotopy_sequence
+ 395. file:///wiki/Fibration
+ 396. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros2456-82
+ 397. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros246-83
+ 398. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Ros289-84
+ 399. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=22
+ 400. file:///wiki/Homotopy_group
+ 401. file:///wiki/Direct_limit
+ 402. file:///wiki/General_linear_group
+ 403. file:///wiki/Homotopy_theory
+ 404. file:///wiki/Plus_construction
+ 405. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-85
+ 406. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=23
+ 407. file:///wiki/Q-construction
+ 408. file:///wiki/Exact_category
+ 409. file:///wiki/Epimorphism
+ 410. file:///wiki/Monomorphism
+ 411. file:///wiki/Motive_(algebraic_geometry)
+ 412. file:///wiki/Geometric_realisation
+ 413. file:///wiki/Nerve_(category_theory)
+ 414. file:///wiki/Projective_module
+ 415. file:///wiki/Scheme_(mathematics)
+ 416. file:///wiki/Coherent_sheaf
+ 417. file:///wiki/Noetherian_ring
+ 418. file:///wiki/Regular_ring
+ 419. file:///wiki/Global_dimension
+ 420. file:///wiki/Isomorphism
+ 421. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=24
+ 422. file:///wiki/Waldhausen_S-construction
+ 423. file:///wiki/Friedhelm_Waldhausen
+ 424. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-86
+ 425. file:///wiki/Waldhausen_category
+ 426. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=25
+ 427. file:///wiki/K-groups_of_a_field
+ 428. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=26
+ 429. file:///wiki/Finite_field
+ 430. file:///wiki/Rick_Jardine
+ 431. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#CITEREFJardine1993
+ 432. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=27
+ 433. file:///wiki/Ring_of_integers
+ 434. file:///wiki/Number_field
+ 435. file:///wiki/Armand_Borel
+ 436. file:///wiki/Vandiver's_conjecture
+ 437. file:///wiki/Quillen–Lichtenbaum_conjecture
+ 438. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=28
+ 439. file:///wiki/Special_values_of_L-functions
+ 440. file:///w/index.php?title=Non-commutative_main_conjecture_of_Iwasawa_theory&action=edit&redlink=1
+ 441. file:///wiki/Higher_regulator
+ 442. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-Lem385-69
+ 443. file:///wiki/Parshin's_conjecture
+ 444. file:///wiki/Hyman_Bass
+ 445. file:///wiki/Bass'_conjecture
+ 446. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_note-87
+ 447. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=29
+ 448. file:///wiki/Additive_K-theory
+ 449. file:///wiki/Bloch's_formula
+ 450. file:///wiki/Fundamental_theorem_of_algebraic_K-theory
+ 451. file:///wiki/Basic_theorems_in_algebraic_K-theory
+ 452. file:///wiki/K-theory
+ 453. file:///wiki/K-theory_of_a_category
+ 454. file:///wiki/K-group_of_a_field
+ 455. file:///wiki/K-theory_spectrum
+ 456. file:///wiki/Redshift_conjecture
+ 457. file:///wiki/Topological_K-theory
+ 458. file:///wiki/Rigidity_(K-theory)
+ 459. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=30
+ 460. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-1
+ 461. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-2
+ 462. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-3
+ 463. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-4
+ 464. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-5
+ 465. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-6
+ 466. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-7
+ 467. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-8
+ 468. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-9
+ 469. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-10
+ 470. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-11
+ 471. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-12
+ 472. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-13
+ 473. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-14
+ 474. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-15
+ 475. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-16
+ 476. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-17
+ 477. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-18
+ 478. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-19
+ 479. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-20
+ 480. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-21
+ 481. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-22
+ 482. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-23
+ 483. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-24
+ 484. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-25
+ 485. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-26
+ 486. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-27
+ 487. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-28
+ 488. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-29
+ 489. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-30
+ 490. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-31
+ 491. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-32
+ 492. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-33
+ 493. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-34
+ 494. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-35
+ 495. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-36
+ 496. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-37
+ 497. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-38
+ 498. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-39
+ 499. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-40
+ 500. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-41
+ 501. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-42
+ 502. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-43
+ 503. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-44
+ 504. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros30_45-0
+ 505. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros30_45-1
+ 506. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil5_46-0
+ 507. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil5_46-1
+ 508. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil14_47-0
+ 509. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-48
+ 510. file:///wiki/Springer-Verlag
+ 511. file:///wiki/ISBN_(identifier)
+ 512. file:///wiki/Special:BookSources/978-3-540-79889-7
+ 513. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros27_49-0
+ 514. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros27a_50-0
+ 515. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil15_51-0
+ 516. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-52
+ 517. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros92_53-0
+ 518. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros95_54-0
+ 519. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros74_55-0
+ 520. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros75_56-0
+ 521. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros75_56-1
+ 522. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros81_57-0
+ 523. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros78_58-0
+ 524. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-GS47_59-0
+ 525. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-GS48_60-0
+ 526. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-GS48_60-1
+ 527. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Wang1950_61-0
+ 528. file:///wiki/Shianghao_Wang
+ 529. file:///wiki/Doi_(identifier)
+ 530. https://doi.org/10.2307/2372036
+ 531. file:///wiki/ISSN_(identifier)
+ 532. https://search.worldcat.org/issn/0002-9327
+ 533. file:///wiki/JSTOR_(identifier)
+ 534. https://www.jstor.org/stable/2372036
+ 535. file:///wiki/Zbl_(identifier)
+ 536. https://zbmath.org/?format=complete&q=an:0040.30302
+ 537. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Lam139_62-0
+ 538. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Lem66_63-0
+ 539. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Lem66_63-1
+ 540. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil101_64-0
+ 541. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil102_65-0
+ 542. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Gras205_66-0
+ 543. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil175_67-0
+ 544. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil81_68-0
+ 545. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Lem385_69-0
+ 546. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Lem385_69-1
+ 547. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Sil228_70-0
+ 548. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-71
+ 549. file:///wiki/Hideya_Matsumoto
+ 550. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-72
+ 551. file:///wiki/Hideya_Matsumoto
+ 552. file:///wiki/Annales_Scientifiques_de_l'École_Normale_Supérieure
+ 553. file:///wiki/Doi_(identifier)
+ 554. https://doi.org/10.24033/asens.1174
+ 555. file:///wiki/ISSN_(identifier)
+ 556. https://search.worldcat.org/issn/0012-9593
+ 557. file:///wiki/MR_(identifier)
+ 558. https://mathscinet.ams.org/mathscinet-getitem?mr=0240214
+ 559. file:///wiki/Zbl_(identifier)
+ 560. https://zbmath.org/?format=complete&q=an:0261.20025
+ 561. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros214_73-0
+ 562. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil123_74-0
+ 563. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros200_75-0
+ 564. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil63_76-0
+ 565. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Mil6_77-0
+ 566. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-78
+ 567. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#CITEREFWeibel2005
+ 568. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-GS184_79-0
+ 569. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-GS108_80-0
+ 570. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-81
+ 571. file:///wiki/Vladimir_Voevodsky
+ 572. file:///wiki/Doi_(identifier)
+ 573. https://doi.org/10.1007/s10240-003-0010-6
+ 574. file:///wiki/ISSN_(identifier)
+ 575. https://search.worldcat.org/issn/0073-8301
+ 576. file:///wiki/MR_(identifier)
+ 577. https://mathscinet.ams.org/mathscinet-getitem?mr=2031199
+ 578. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros2456_82-0
+ 579. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros246_83-0
+ 580. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-Ros289_84-0
+ 581. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-85
+ 582. https://mathoverflow.net/questions/161934/quillens-motivation-of-higher-algebraic-k-theory
+ 583. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-86
+ 584. file:///wiki/Friedhelm_Waldhausen
+ 585. https://pub.uni-bielefeld.de/record/1782197
+ 586. file:///wiki/Springer-Verlag
+ 587. file:///wiki/Doi_(identifier)
+ 588. https://doi.org/10.1007/BFb0074449
+ 589. file:///wiki/ISBN_(identifier)
+ 590. file:///wiki/Special:BookSources/978-3-540-15235-4
+ 591. file:///wiki/MR_(identifier)
+ 592. https://mathscinet.ams.org/mathscinet-getitem?mr=0802796
+ 593. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#CITEREFFriedlanderWeibel1999
+ 594. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#cite_ref-87
+ 595. file:///tmp/lynxXXXXdpnUJr/L51153-2801TMP.html#CITEREFFriedlanderWeibel1999
+ 596. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=31
+ 597. file:///wiki/Hyman_Bass
+ 598. file:///wiki/Zbl_(identifier)
+ 599. https://zbmath.org/?format=complete&q=an:0174.30302
+ 600. file:///wiki/Eric_Friedlander
+ 601. file:///wiki/Springer-Verlag
+ 602. file:///wiki/Doi_(identifier)
+ 603. https://doi.org/10.1007/3-540-27855-9
+ 604. file:///wiki/ISBN_(identifier)
+ 605. file:///wiki/Special:BookSources/978-3-540-30436-4
+ 606. file:///wiki/MR_(identifier)
+ 607. https://mathscinet.ams.org/mathscinet-getitem?mr=2182598
+ 608. file:///wiki/Eric_Friedlander
+ 609. file:///wiki/Charles_Weibel
+ 610. file:///wiki/MR_(identifier)
+ 611. https://mathscinet.ams.org/mathscinet-getitem?mr=1715873
+ 612. file:///wiki/Cambridge_University_Press
+ 613. file:///wiki/ISBN_(identifier)
+ 614. file:///wiki/Special:BookSources/978-0-521-86103-8
+ 615. file:///wiki/Zbl_(identifier)
+ 616. https://zbmath.org/?format=complete&q=an:1137.12001
+ 617. file:///wiki/Springer-Verlag
+ 618. file:///wiki/ISBN_(identifier)
+ 619. file:///wiki/Special:BookSources/978-3-540-44133-5
+ 620. file:///wiki/Zbl_(identifier)
+ 621. https://zbmath.org/?format=complete&q=an:1019.11032
+ 622. file:///wiki/Rick_Jardine
+ 623. file:///wiki/Doi_(identifier)
+ 624. https://doi.org/10.1007/BF00961219
+ 625. file:///wiki/MR_(identifier)
+ 626. https://mathscinet.ams.org/mathscinet-getitem?mr=1268594
+ 627. file:///wiki/Tsit_Yuen_Lam
+ 628. file:///wiki/American_Mathematical_Society
+ 629. file:///wiki/ISBN_(identifier)
+ 630. file:///wiki/Special:BookSources/978-0-8218-1095-8
+ 631. file:///wiki/MR_(identifier)
+ 632. https://mathscinet.ams.org/mathscinet-getitem?mr=2104929
+ 633. file:///wiki/Zbl_(identifier)
+ 634. https://zbmath.org/?format=complete&q=an:1068.11023
+ 635. file:///wiki/Springer-Verlag
+ 636. file:///wiki/Doi_(identifier)
+ 637. https://doi.org/10.1007/978-3-662-12893-0
+ 638. file:///wiki/ISBN_(identifier)
+ 639. file:///wiki/Special:BookSources/978-3-540-66957-9
+ 640. file:///wiki/MR_(identifier)
+ 641. https://mathscinet.ams.org/mathscinet-getitem?mr=1761696
+ 642. file:///wiki/Zbl_(identifier)
+ 643. https://zbmath.org/?format=complete&q=an:0949.11002
+ 644. file:///wiki/John_Milnor
+ 645. file:///wiki/Bibcode_(identifier)
+ 646. https://ui.adsabs.harvard.edu/abs/1970InMat...9..318M
+ 647. file:///wiki/Doi_(identifier)
+ 648. https://doi.org/10.1007/BF01425486
+ 649. file:///wiki/ISSN_(identifier)
+ 650. https://search.worldcat.org/issn/0020-9910
+ 651. file:///wiki/MR_(identifier)
+ 652. https://mathscinet.ams.org/mathscinet-getitem?mr=0260844
+ 653. file:///wiki/John_Milnor
+ 654. file:///wiki/Princeton_University_Press
+ 655. file:///wiki/MR_(identifier)
+ 656. https://mathscinet.ams.org/mathscinet-getitem?mr=0349811
+ 657. file:///wiki/Zbl_(identifier)
+ 658. https://zbmath.org/?format=complete&q=an:0237.18005
+ 659. file:///wiki/Daniel_Quillen
+ 660. file:///wiki/Springer-Verlag
+ 661. file:///wiki/Doi_(identifier)
+ 662. https://doi.org/10.1007/BFb0067053
+ 663. file:///wiki/ISBN_(identifier)
+ 664. file:///wiki/Special:BookSources/978-3-540-06434-3
+ 665. file:///wiki/MR_(identifier)
+ 666. https://mathscinet.ams.org/mathscinet-getitem?mr=0338129
+ 667. file:///wiki/Daniel_Quillen
+ 668. file:///wiki/MR_(identifier)
+ 669. https://mathscinet.ams.org/mathscinet-getitem?mr=0422392
+ 670. file:///wiki/Cambridge_University_Press
+ 671. file:///wiki/MR_(identifier)
+ 672. https://mathscinet.ams.org/mathscinet-getitem?mr=0335604
+ 673. file:///wiki/Jonathan_Rosenberg_(mathematician)
+ 674. https://books.google.com/books?id=TtMkTEZbYoYC
+ 675. file:///wiki/Graduate_Texts_in_Mathematics
+ 676. file:///wiki/Springer-Verlag
+ 677. file:///wiki/Doi_(identifier)
+ 678. https://doi.org/10.1007/978-1-4612-4314-4
+ 679. file:///wiki/ISBN_(identifier)
+ 680. file:///wiki/Special:BookSources/978-0-387-94248-3
+ 681. file:///wiki/MR_(identifier)
+ 682. https://mathscinet.ams.org/mathscinet-getitem?mr=1282290
+ 683. file:///wiki/Zbl_(identifier)
+ 684. https://zbmath.org/?format=complete&q=an:0801.19001
+ 685. http://www-users.math.umd.edu/~jmr/KThy_errata2.pdf
+ 686. file:///wiki/ISBN_(identifier)
+ 687. file:///wiki/Special:BookSources/978-0-12-581120-0
+ 688. file:///wiki/Chapman_and_Hall
+ 689. file:///wiki/ISBN_(identifier)
+ 690. file:///wiki/Special:BookSources/978-0-412-22700-4
+ 691. file:///wiki/Zbl_(identifier)
+ 692. https://zbmath.org/?format=complete&q=an:0468.18006
+ 693. file:///wiki/Charles_Weibel
+ 694. http://www.math.uiuc.edu/K-theory/0691/KZsurvey.pdf
+ 695. file:///wiki/Springer-Verlag
+ 696. file:///wiki/Doi_(identifier)
+ 697. https://doi.org/10.1007/3-540-27855-9_5
+ 698. file:///wiki/ISBN_(identifier)
+ 699. file:///wiki/Special:BookSources/978-3-540-23019-9
+ 700. file:///wiki/MR_(identifier)
+ 701. https://mathscinet.ams.org/mathscinet-getitem?mr=2181823
+ 702. file:///wiki/Charles_Weibel
+ 703. file:///wiki/American_Mathematical_Society
+ 704. file:///wiki/Doi_(identifier)
+ 705. https://doi.org/10.1090/conm/243/03695
+ 706. file:///wiki/ISBN_(identifier)
+ 707. file:///wiki/Special:BookSources/978-0-8218-1087-3
+ 708. file:///wiki/MR_(identifier)
+ 709. https://mathscinet.ams.org/mathscinet-getitem?mr=1732049
+ 710. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=32
+ 711. file:///wiki/Springer-Verlag
+ 712. file:///wiki/ISBN_(identifier)
+ 713. file:///wiki/Special:BookSources/978-3-540-55007-5
+ 714. file:///wiki/Zbl_(identifier)
+ 715. https://zbmath.org/?format=complete&q=an:0746.19001
+ 716. file:///wiki/Cambridge_University_Press
+ 717. file:///wiki/ISBN_(identifier)
+ 718. file:///wiki/Special:BookSources/978-0-521-10658-0
+ 719. file:///wiki/Birkhäuser
+ 720. file:///wiki/ISBN_(identifier)
+ 721. file:///wiki/Special:BookSources/978-0-8176-4736-0
+ 722. file:///wiki/Zbl_(identifier)
+ 723. https://zbmath.org/?format=complete&q=an:1125.19300
+ 724. http://www.math.rutgers.edu/~weibel/Kbook.html
+ 725. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=33
+ 726. https://www.springer.com/gp/book/9783540550075
+ 727. file:///wiki/Jonathan_Rosenberg_(mathematician)
+ 728. https://books.google.com/books?id=TtMkTEZbYoYC
+ 729. file:///wiki/Graduate_Texts_in_Mathematics
+ 730. file:///wiki/Springer-Verlag
+ 731. file:///wiki/Doi_(identifier)
+ 732. https://doi.org/10.1007/978-1-4612-4314-4
+ 733. file:///wiki/ISBN_(identifier)
+ 734. file:///wiki/Special:BookSources/978-0-387-94248-3
+ 735. file:///wiki/MR_(identifier)
+ 736. https://mathscinet.ams.org/mathscinet-getitem?mr=1282290
+ 737. file:///wiki/Zbl_(identifier)
+ 738. https://zbmath.org/?format=complete&q=an:0801.19001
+ 739. http://www-users.math.umd.edu/~jmr/KThy_errata2.pdf
+ 740. file:///wiki/Charles_Weibel
+ 741. http://www.math.rutgers.edu/~weibel/Kbook.html
+ 742. file:///wiki/Graduate_Studies_in_Mathematics
+ 743. file:///wiki/American_Mathematical_Society
+ 744. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=34
+ 745. file:///wiki/Michael_Atiyah
+ 746. file:///wiki/Friedrich_Hirzebruch
+ 747. file:///wiki/American_Mathematical_Society
+ 748. file:///wiki/Dennis_Barden
+ 749. file:///wiki/Cambridge_University
+ 750. file:///wiki/Hyman_Bass
+ 751. file:///wiki/Annals_of_Mathematics
+ 752. file:///wiki/Doi_(identifier)
+ 753. https://doi.org/10.2307/1970360
+ 754. file:///wiki/JSTOR_(identifier)
+ 755. https://www.jstor.org/stable/1970360
+ 756. file:///wiki/Hyman_Bass
+ 757. https://doi.org/10.1090/s0002-9904-1962-10826-x
+ 758. file:///wiki/Bulletin_of_the_American_Mathematical_Society
+ 759. file:///wiki/Doi_(identifier)
+ 760. https://doi.org/10.1090/s0002-9904-1962-10826-x
+ 761. file:///wiki/Hyman_Bass
+ 762. file:///wiki/Spencer_Bloch
+ 763. file:///wiki/Annals_of_Mathematics
+ 764. file:///wiki/Doi_(identifier)
+ 765. https://doi.org/10.2307/1970902
+ 766. file:///wiki/JSTOR_(identifier)
+ 767. https://www.jstor.org/stable/1970902
+ 768. file:///wiki/Armand_Borel
+ 769. file:///wiki/Jean-Pierre_Serre
+ 770. https://doi.org/10.24033/bsmf.1500
+ 771. file:///wiki/Bulletin_de_la_Société_Mathématique_de_France
+ 772. file:///wiki/Doi_(identifier)
+ 773. https://doi.org/10.24033/bsmf.1500
+ 774. file:///wiki/William_Browder_(mathematician)
+ 775. file:///wiki/Jean_Cerf
+ 776. http://www.numdam.org/item/PMIHES_1970__39__5_0/
+ 777. file:///wiki/Publications_Mathématiques_de_l'IHÉS
+ 778. file:///wiki/Doi_(identifier)
+ 779. https://doi.org/10.1007/BF02684687
+ 780. https://doi.org/10.1016/0021-8693(71)90030-5
+ 781. file:///wiki/Doi_(identifier)
+ 782. https://doi.org/10.1016/0021-8693(71)90030-5
+ 783. file:///wiki/Allen_Hatcher
+ 784. file:///wiki/Astérisque
+ 785. file:///wiki/MR_(identifier)
+ 786. https://mathscinet.ams.org/mathscinet-getitem?mr=0353337
+ 787. file:///wiki/Max_Karoubi
+ 788. https://doi.org/10.7146/math.scand.a-11024
+ 789. file:///wiki/Doi_(identifier)
+ 790. https://doi.org/10.7146/math.scand.a-11024
+ 791. file:///wiki/Hideya_Matsumoto
+ 792. https://doi.org/10.24033/asens.1174
+ 793. file:///wiki/Annales_Scientifiques_de_l'École_Normale_Supérieure
+ 794. file:///wiki/Doi_(identifier)
+ 795. https://doi.org/10.24033/asens.1174
+ 796. file:///wiki/Barry_Mazur
+ 797. http://www.numdam.org/article/PMIHES_1963__15__5_0.pdf
+ 798. file:///wiki/Bibcode_(identifier)
+ 799. https://ui.adsabs.harvard.edu/abs/1970InMat...9..318M
+ 800. file:///wiki/Doi_(identifier)
+ 801. https://doi.org/10.1007/bf01425486
+ 802. file:///wiki/Annales_Scientifiques_de_l'École_Normale_Supérieure
+ 803. https://doi.org/10.1016/0040-9383(74)90022-6
+ 804. file:///wiki/Topology_(journal)
+ 805. file:///wiki/Doi_(identifier)
+ 806. https://doi.org/10.1016/0040-9383(74)90022-6
+ 807. https://web.archive.org/web/20190725172140/https://pdfs.semanticscholar.org/327f/19a8a579e91aa46e83c14d2598f1c04cb890.pdf
+ 808. file:///wiki/Doi_(identifier)
+ 809. https://doi.org/10.2307/2372978
+ 810. file:///wiki/JSTOR_(identifier)
+ 811. https://www.jstor.org/stable/2372978
+ 812. https://books.google.com/books?id=uuYCCAAAQBAJ&dq="Nonabelian+homological+algebra+and+K-theory"&pg=PA88
+ 813. file:///wiki/Topology_(journal)
+ 814. file:///wiki/Doi_(identifier)
+ 815. https://doi.org/10.1007/978-0-8176-4576-2_10
+ 816. file:///wiki/ISBN_(identifier)
+ 817. file:///wiki/Special:BookSources/978-0-8176-3487-2
+ 818. file:///wiki/MR_(identifier)
+ 819. https://mathscinet.ams.org/mathscinet-getitem?mr=1106918
+ 820. https://books.google.com/books?id=6hsDCAAAQBAJ&dq="Algebraic+K-theory+of+topological+spaces"&pg=PA35
+ 821. https://books.google.com/books?id=6hsDCAAAQBAJ&dq="Algebraic+K-theory+of+topological+spaces"&pg=PA35
+ 822. file:///wiki/Doi_(identifier)
+ 823. https://doi.org/10.2307/1970382
+ 824. file:///wiki/JSTOR_(identifier)
+ 825. https://www.jstor.org/stable/1970382
+ 826. file:///wiki/Doi_(identifier)
+ 827. https://doi.org/10.2307/1970465
+ 828. file:///wiki/JSTOR_(identifier)
+ 829. https://www.jstor.org/stable/1970465
+ 830. file:///wiki/Doi_(identifier)
+ 831. https://doi.org/10.2307/2372133
+ 832. file:///wiki/JSTOR_(identifier)
+ 833. https://www.jstor.org/stable/2372133
+ 834. file:///wiki/Doi_(identifier)
+ 835. https://doi.org/10.1112/plms/s2-45.1.243
+ 836. file:///w/index.php?title=Algebraic_K-theory&action=edit&section=35
+ 837. http://www.math.uiuc.edu/K-theory/
+ 838. https://en.wikipedia.org/w/index.php?title=Algebraic_K-theory&oldid=1263361881#The_+-construction
+ 839. file:///wiki/Help:Category
+ 840. file:///wiki/Category:Algebraic_K-theory
+ 841. file:///wiki/Category:Algebraic_geometry
+ 842. file:///wiki/Category:CS1_French-language_sources_(fr)
+ 843. file:///wiki/Category:Articles_with_short_description
+ 844. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 845. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 846. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 847. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 848. https://wikimediafoundation.org/
+ 849. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 850. file:///wiki/Wikipedia:About
+ 851. file:///wiki/Wikipedia:General_disclaimer
+ 852. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 853. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 854. https://developer.wikimedia.org/
+ 855. https://stats.wikimedia.org/#/en.wikipedia.org
+ 856. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 857. file://en.m.wikipedia.org/w/index.php?title=Algebraic_K-theory&mobileaction=toggle_view_mobile#The_+-construction
+ 858. https://wikimediafoundation.org/
+ 859. https://www.mediawiki.org/

@@ -1,0 +1,522 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 References
+
+   [ ] Toggle the table of contents
+
+(−)-Endo-fenchol dehydrogenase
+
+   [ ] 2 languages
+     * [30]Српски / srpski
+     * [31]Srpskohrvatski / српскохрватски
+
+   [32]Edit links
+
+     * [33]Article
+     * [34]Talk
+
+   [ ] English
+
+     * [35]Read
+     * [36]Edit
+     * [37]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [38]Read
+     * [39]Edit
+     * [40]View history
+
+   General
+     * [41]What links here
+     * [42]Related changes
+     * [43]Upload file
+     * [44]Special pages
+     * [45]Permanent link
+     * [46]Page information
+     * [47]Cite this page
+     * [48]Get shortened URL
+     * [49]Download QR code
+
+   Print/export
+     * [50]Download as PDF
+     * [51]Printable version
+
+   In other projects
+     * [52]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from [53](-)-Endo-fenchol dehydrogenase)
+   Class of enzymes
+             (−)-Endo-fenchol dehydrogenase
+                      Identifiers
+       [54]EC no.     [55]1.1.1.322
+                       Databases
+       [56]IntEnz     [57]IntEnz view
+       [58]BRENDA     [59]BRENDA entry
+       [60]ExPASy     [61]NiceZyme view
+        [62]KEGG      [63]KEGG entry
+      [64]MetaCyc     [65]metabolic pathway
+       [66]PRIAM      [67]profile
+   [68]PDB structures [69]RCSB PDB [70]PDBe [71]PDBsum
+           Search
+    [72]PMC   [73]articles
+   [74]PubMed [75]articles
+    [76]NCBI  [77]proteins
+
+   (−)-endo-fenchol dehydrogenase ([78]EC [79]1.1.1.322, l-endo-fenchol
+   dehydrogenase, FDH) is an [80]enzyme with [81]systematic name
+   (−)-endo-fenchol:NAD(P)^+ oxidoreductase.^[82][1] This enzyme
+   [83]catalyses the following [84]chemical reaction
+
+          (−)-endo-fenchol + NAD(P)^+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo class="MJX-variant"
+          stretchy="false">⇌</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \rightleftharpoons
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \rightleftharpoons } (+)-fenchone + NAD(P)H + H^+
+
+   This enzyme is from the plant [85]Foeniculum vulgare.
+
+References
+
+   [[86]edit]
+    1. [87]^ Croteau R, Felton NM (1980). "Substrate specificity of
+       monoterpenol dehydrogenases from Foeniculum vulgare and Tanacetum
+       vulgare". [88]Phytochemistry. 19: 1343–1347.
+       [89]doi:[90]10.1016/0031-9422(80)80171-3.(subscription required)
+
+     * [91]v
+     * [92]t
+     * [93]e
+
+   [94]Oxidoreductases: [95]alcohol oxidoreductases ([96]EC 1.1)
+   [97]1.1.1: [98]NAD/[99]NADP acceptor
+     * [100]3-hydroxyacyl-CoA dehydrogenase
+     * [101]3-hydroxybutyryl-CoA dehydrogenase
+     * [102]Alcohol dehydrogenase
+     * [103]Aldo-keto reductase
+          + [104]1A1
+          + [105]1B1
+          + [106]1B10
+          + [107]1C1
+          + [108]1C3
+          + [109]1C4
+          + [110]7A2
+     * [111]Aldose reductase
+     * [112]Beta-Ketoacyl ACP reductase
+     * [113]Carbohydrate dehydrogenases
+     * [114]Carnitine dehydrogenase
+     * [115]D-malate dehydrogenase (decarboxylating)
+     * [116]DXP reductoisomerase
+     * [117]Glucose-6-phosphate dehydrogenase
+     * [118]Glycerol-3-phosphate dehydrogenase
+     * [119]HMG-CoA reductase
+     * [120]IMP dehydrogenase
+     * [121]Isocitrate dehydrogenase
+     * [122]Lactate dehydrogenase
+     * [123]L-threonine dehydrogenase
+     * [124]L-xylulose reductase
+     * [125]Malate dehydrogenase
+     * [126]Malate dehydrogenase (decarboxylating)
+     * [127]Malate dehydrogenase (NADP+)
+     * [128]Malate dehydrogenase (oxaloacetate-decarboxylating)
+     * [129]Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)
+     * [130]Phosphogluconate dehydrogenase
+     * [131]Sorbitol dehydrogenase
+
+     * [132]Hydroxysteroid dehydrogenase: [133]3β
+          + [134]3β-HSD
+          + [135]NSDHL
+     * [136]11β
+          + [137]11β-HSD1
+          + [138]11β-HSD2
+     * [139]17β
+
+   [140]1.1.2: [141]cytochrome acceptor
+     * [142]D-lactate dehydrogenase (cytochrome)
+     * [143]D-lactate dehydrogenase (cytochrome c-553)
+     * [144]Mannitol dehydrogenase (cytochrome)
+
+   [145]1.1.3: [146]oxygen acceptor
+
+     * [147]Glucose oxidase
+     * [148]L-gulonolactone oxidase
+     * [149]Xanthine oxidase
+     * [150]Alcohol oxidase
+
+   [151]1.1.4: [152]disulfide as acceptor
+
+     * [153]Vitamin K epoxide reductase
+     * [154]Vitamin-K-epoxide reductase (warfarin-insensitive)
+
+   [155]1.1.5: [156]quinone/similar acceptor
+
+     * [157]Malate dehydrogenase (quinone)
+     * [158]Quinoprotein glucose dehydrogenase
+
+   [159]1.1.99: other acceptors
+
+     * [160]Choline dehydrogenase
+     * [161]L2HGDH
+
+     * [162]v
+     * [163]t
+     * [164]e
+
+   [165]Enzymes
+
+   Activity
+
+     * [166]Active site
+     * [167]Binding site
+     * [168]Catalytic triad
+     * [169]Oxyanion hole
+     * [170]Enzyme promiscuity
+     * [171]Diffusion-limited enzyme
+     * [172]Cofactor
+     * [173]Enzyme catalysis
+
+   Regulation
+
+     * [174]Allosteric regulation
+     * [175]Cooperativity
+     * [176]Enzyme inhibitor
+     * [177]Enzyme activator
+
+   Classification
+
+     * [178]EC number
+     * [179]Enzyme superfamily
+     * [180]Enzyme family
+     * [181]List of enzymes
+
+   Kinetics
+
+     * [182]Enzyme kinetics
+     * [183]Eadie–Hofstee diagram
+     * [184]Hanes–Woolf plot
+     * [185]Lineweaver–Burk plot
+     * [186]Michaelis–Menten kinetics
+
+   Types
+
+     * EC1 [187]Oxidoreductases ([188]list)
+     * EC2 [189]Transferases ([190]list)
+     * EC3 [191]Hydrolases ([192]list)
+     * EC4 [193]Lyases ([194]list)
+     * EC5 [195]Isomerases ([196]list)
+     * EC6 [197]Ligases ([198]list)
+     * EC7 [199]Translocases ([200]list)
+
+   [201]Portal:
+     * [202]icon [203]Biology
+
+   Retrieved from
+   "[204]https://en.wikipedia.org/w/index.php?title=(−)-Endo-fenchol_dehyd
+   rogenase&oldid=1227628954"
+
+   [205]Category:
+     * [206]EC 1.1.1
+
+   Hidden categories:
+     * [207]Pages containing links to subscription-only content
+     * [208]Articles with short description
+     * [209]Short description matches Wikidata
+
+     * This page was last edited on 6 June 2024, at 22:02 (UTC).
+     * Text is available under the [210]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [211]Terms of Use and
+       [212]Privacy Policy. Wikipedia® is a registered trademark of the
+       [213]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [214]Privacy policy
+     * [215]About Wikipedia
+     * [216]Disclaimers
+     * [217]Contact Wikipedia
+     * [218]Code of Conduct
+     * [219]Developers
+     * [220]Statistics
+     * [221]Cookie statement
+     * [222]Mobile view
+
+     * [223]Wikimedia Foundation
+     * [224]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/(−)-Endo-fenchol_dehydrogenase
+   2. file:///w/index.php?title=(−)-Endo-fenchol_dehydrogenase&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXXvq2dhT/L40009-1346TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=(−)-Endo-fenchol+dehydrogenase
+  21. file:///w/index.php?title=Special:UserLogin&returnto=(−)-Endo-fenchol+dehydrogenase
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=(−)-Endo-fenchol+dehydrogenase
+  24. file:///w/index.php?title=Special:UserLogin&returnto=(−)-Endo-fenchol+dehydrogenase
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXXvq2dhT/L40009-1346TMP.html
+  29. file:///tmp/lynxXXXXvq2dhT/L40009-1346TMP.html#References
+  30. https://sr.wikipedia.org/wiki/(-)-Endo-fenhol_dehidrogenaza
+  31. https://sh.wikipedia.org/wiki/(-)-Endo-fenhol_dehidrogenaza
+  32. https://www.wikidata.org/wiki/Special:EntityPage/Q2756569#sitelinks-wikipedia
+  33. file:///wiki/(−)-Endo-fenchol_dehydrogenase
+  34. file:///wiki/Talk:(−)-Endo-fenchol_dehydrogenase
+  35. file:///wiki/(−)-Endo-fenchol_dehydrogenase
+  36. file:///w/index.php?title=(−)-Endo-fenchol_dehydrogenase&action=edit
+  37. file:///w/index.php?title=(−)-Endo-fenchol_dehydrogenase&action=history
+  38. file:///wiki/(−)-Endo-fenchol_dehydrogenase
+  39. file:///w/index.php?title=(−)-Endo-fenchol_dehydrogenase&action=edit
+  40. file:///w/index.php?title=(−)-Endo-fenchol_dehydrogenase&action=history
+  41. file:///wiki/Special:WhatLinksHere/(−)-Endo-fenchol_dehydrogenase
+  42. file:///wiki/Special:RecentChangesLinked/(−)-Endo-fenchol_dehydrogenase
+  43. file:///wiki/Wikipedia:File_Upload_Wizard
+  44. file:///wiki/Special:SpecialPages
+  45. file:///w/index.php?title=(−)-Endo-fenchol_dehydrogenase&oldid=1227628954
+  46. file:///w/index.php?title=(−)-Endo-fenchol_dehydrogenase&action=info
+  47. file:///w/index.php?title=Special:CiteThisPage&page=(−)-Endo-fenchol_dehydrogenase&id=1227628954&wpFormIdentifier=titleform
+  48. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/(%E2%88%92)-Endo-fenchol_dehydrogenase
+  49. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/(%E2%88%92)-Endo-fenchol_dehydrogenase
+  50. file:///w/index.php?title=Special:DownloadAsPdf&page=(−)-Endo-fenchol_dehydrogenase&action=show-download-screen
+  51. file:///w/index.php?title=(−)-Endo-fenchol_dehydrogenase&printable=yes
+  52. https://www.wikidata.org/wiki/Special:EntityPage/Q2756569
+  53. file:///w/index.php?title=(-)-Endo-fenchol_dehydrogenase&redirect=no
+  54. file:///wiki/Enzyme_Commission_number
+  55. https://www.enzyme-database.org/query.php?ec=1.1.1.322
+  56. file:///wiki/IntEnz
+  57. https://www.ebi.ac.uk/intenz/query?cmd=SearchEC&ec=1.1.1.322
+  58. file:///wiki/BRENDA
+  59. http://www.brenda-enzymes.org/enzyme.php?ecno=1.1.1.322
+  60. file:///wiki/ExPASy
+  61. https://enzyme.expasy.org/EC/1.1.1.322
+  62. file:///wiki/KEGG
+  63. https://www.genome.jp/dbget-bin/www_bget?enzyme+1.1.1.322
+  64. file:///wiki/MetaCyc
+  65. https://biocyc.org/META/substring-search?type=NIL&object=1.1.1.322
+  66. file:///wiki/PRIAM_enzyme-specific_profiles
+  67. http://priam.prabi.fr/cgi-bin/PRIAM_profiles_CurrentRelease.pl?EC=1.1.1.322
+  68. file:///wiki/Protein_Data_Bank
+  69. https://www.rcsb.org/search?q=rcsb_polymer_entity.rcsb_ec_lineage.id:1.1.1.322
+  70. https://www.ebi.ac.uk/pdbe/entry/search/index?ec_number:1.1.1.322
+  71. https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/enzymes/GetPage.pl?ec_number=1.1.1.322
+  72. file:///wiki/PubMed_Central
+  73. https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&term=1.1.1.322[EC/RN Number] AND pubmed pmc local[sb]
+  74. file:///wiki/PubMed
+  75. https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&term=1.1.1.322[EC/RN Number]
+  76. file:///wiki/National_Center_for_Biotechnology_Information
+  77. https://www.ncbi.nlm.nih.gov/protein?term=1.1.1.322[EC/RN Number]
+  78. file:///wiki/Enzyme_Commission_number
+  79. https://enzyme.expasy.org/EC/1.1.1.322
+  80. file:///wiki/Enzyme
+  81. file:///wiki/List_of_enzymes
+  82. file:///tmp/lynxXXXXvq2dhT/L40009-1346TMP.html#cite_note-1
+  83. file:///wiki/Catalysis
+  84. file:///wiki/Chemical_reaction
+  85. file:///wiki/Foeniculum_vulgare
+  86. file:///w/index.php?title=(−)-Endo-fenchol_dehydrogenase&action=edit&section=1
+  87. file:///tmp/lynxXXXXvq2dhT/L40009-1346TMP.html#cite_ref-1
+  88. file:///wiki/Phytochemistry_(journal)
+  89. file:///wiki/Doi_(identifier)
+  90. https://doi.org/10.1016/0031-9422(80)80171-3
+  91. file:///wiki/Template:Alcohol_oxidoreductases
+  92. file:///wiki/Template_talk:Alcohol_oxidoreductases
+  93. file:///wiki/Special:EditPage/Template:Alcohol_oxidoreductases
+  94. file:///wiki/Oxidoreductase
+  95. file:///wiki/Alcohol_oxidoreductase
+  96. file:///wiki/Enzyme_Commission_number
+  97. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.1.1_With_NAD_or_NADP_as_acceptor
+  98. file:///wiki/Nicotinamide_adenine_dinucleotide
+  99. file:///wiki/Nicotinamide_adenine_dinucleotide_phosphate
+ 100. file:///wiki/3-hydroxyacyl-CoA_dehydrogenase
+ 101. file:///wiki/3-hydroxybutyryl-CoA_dehydrogenase
+ 102. file:///wiki/Alcohol_dehydrogenase
+ 103. file:///wiki/Aldo-keto_reductase
+ 104. file:///wiki/Aldo-keto_reductase_family_1,_member_A1
+ 105. file:///wiki/AKR1B1
+ 106. file:///wiki/AKR1B10
+ 107. file:///wiki/AKR1C1
+ 108. file:///wiki/AKR1C3
+ 109. file:///wiki/AKR1C4
+ 110. file:///wiki/AKR7A2
+ 111. file:///wiki/Aldose_reductase
+ 112. file:///wiki/Beta-Ketoacyl_ACP_reductase
+ 113. file:///wiki/Carbohydrate_dehydrogenase
+ 114. file:///wiki/Carnitine_dehydrogenase
+ 115. file:///wiki/D-malate_dehydrogenase_(decarboxylating)
+ 116. file:///wiki/DXP_reductoisomerase
+ 117. file:///wiki/Glucose-6-phosphate_dehydrogenase
+ 118. file:///wiki/Glycerol-3-phosphate_dehydrogenase
+ 119. file:///wiki/HMG-CoA_reductase
+ 120. file:///wiki/IMP_dehydrogenase
+ 121. file:///wiki/Isocitrate_dehydrogenase
+ 122. file:///wiki/Lactate_dehydrogenase
+ 123. file:///wiki/L-threonine_dehydrogenase
+ 124. file:///wiki/L-xylulose_reductase
+ 125. file:///wiki/Malate_dehydrogenase
+ 126. file:///wiki/Malate_dehydrogenase_(decarboxylating)
+ 127. file:///wiki/Malate_dehydrogenase_(NADP+)
+ 128. file:///wiki/Malate_dehydrogenase_(oxaloacetate-decarboxylating)
+ 129. file:///wiki/Malate_dehydrogenase_(oxaloacetate-decarboxylating)_(NADP+)
+ 130. file:///wiki/Phosphogluconate_dehydrogenase
+ 131. file:///wiki/Sorbitol_dehydrogenase
+ 132. file:///wiki/Hydroxysteroid_dehydrogenase
+ 133. file:///wiki/3-beta-HSD
+ 134. file:///wiki/3β-HSD
+ 135. file:///wiki/NSDHL
+ 136. file:///wiki/11-Beta_hydroxysteroid_dehydrogenase
+ 137. file:///wiki/11β-hydroxysteroid_dehydrogenase_type_1
+ 138. file:///wiki/Corticosteroid_11-beta-dehydrogenase_isozyme_2
+ 139. file:///wiki/17Beta_Hydroxysteroid_dehydrogenase
+ 140. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.1.2_With_a_cytochrome_as_acceptor
+ 141. file:///wiki/Cytochrome
+ 142. file:///wiki/D-lactate_dehydrogenase_(cytochrome)
+ 143. file:///wiki/D-lactate_dehydrogenase_(cytochrome_c-553)
+ 144. file:///wiki/Mannitol_dehydrogenase_(cytochrome)
+ 145. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.1.3_With_oxygen_as_acceptor
+ 146. file:///wiki/Oxygen
+ 147. file:///wiki/Glucose_oxidase
+ 148. file:///wiki/L-gulonolactone_oxidase
+ 149. file:///wiki/Xanthine_oxidase
+ 150. file:///wiki/Alcohol_oxidase
+ 151. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.1.4_With_a_disulfide_as_acceptor
+ 152. file:///wiki/Disulfide
+ 153. file:///wiki/Vitamin_K_epoxide_reductase
+ 154. file:///wiki/Vitamin-K-epoxide_reductase_(warfarin-insensitive)
+ 155. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.1.5_With_a_quinone_or_similar_compound_as_acceptor
+ 156. file:///wiki/Quinone
+ 157. file:///wiki/Malate_dehydrogenase_(quinone)
+ 158. file:///wiki/Quinoprotein_glucose_dehydrogenase
+ 159. file:///wiki/List_of_EC_numbers_(EC_1)#EC_1.1.99_With_other_acceptors
+ 160. file:///wiki/Choline_dehydrogenase
+ 161. file:///wiki/L2HGDH
+ 162. file:///wiki/Template:Enzymes
+ 163. file:///wiki/Template_talk:Enzymes
+ 164. file:///wiki/Special:EditPage/Template:Enzymes
+ 165. file:///wiki/Enzyme
+ 166. file:///wiki/Active_site
+ 167. file:///wiki/Binding_site
+ 168. file:///wiki/Catalytic_triad
+ 169. file:///wiki/Oxyanion_hole
+ 170. file:///wiki/Enzyme_promiscuity
+ 171. file:///wiki/Diffusion-limited_enzyme
+ 172. file:///wiki/Cofactor_(biochemistry)
+ 173. file:///wiki/Enzyme_catalysis
+ 174. file:///wiki/Allosteric_regulation
+ 175. file:///wiki/Cooperativity
+ 176. file:///wiki/Enzyme_inhibitor
+ 177. file:///wiki/Enzyme_activator
+ 178. file:///wiki/Enzyme_Commission_number
+ 179. file:///wiki/Protein_superfamily
+ 180. file:///wiki/Protein_family
+ 181. file:///wiki/List_of_enzymes
+ 182. file:///wiki/Enzyme_kinetics
+ 183. file:///wiki/Eadie–Hofstee_diagram
+ 184. file:///wiki/Hanes–Woolf_plot
+ 185. file:///wiki/Lineweaver–Burk_plot
+ 186. file:///wiki/Michaelis–Menten_kinetics
+ 187. file:///wiki/Oxidoreductase
+ 188. file:///wiki/List_of_EC_numbers_(EC_1)
+ 189. file:///wiki/Transferase
+ 190. file:///wiki/List_of_EC_numbers_(EC_2)
+ 191. file:///wiki/Hydrolase
+ 192. file:///wiki/List_of_EC_numbers_(EC_3)
+ 193. file:///wiki/Lyase
+ 194. file:///wiki/List_of_EC_numbers_(EC_4)
+ 195. file:///wiki/Isomerase
+ 196. file:///wiki/List_of_EC_numbers_(EC_5)
+ 197. file:///wiki/Ligase
+ 198. file:///wiki/List_of_EC_numbers_(EC_6)
+ 199. file:///wiki/Translocase
+ 200. file:///wiki/List_of_EC_numbers_(EC_7)
+ 201. file:///wiki/Wikipedia:Contents/Portals
+ 202. file:///wiki/File:Issoria_lathonia.jpg
+ 203. file:///wiki/Portal:Biology
+ 204. https://en.wikipedia.org/w/index.php?title=(−)-Endo-fenchol_dehydrogenase&oldid=1227628954
+ 205. file:///wiki/Help:Category
+ 206. file:///wiki/Category:EC_1.1.1
+ 207. file:///wiki/Category:Pages_containing_links_to_subscription-only_content
+ 208. file:///wiki/Category:Articles_with_short_description
+ 209. file:///wiki/Category:Short_description_matches_Wikidata
+ 210. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 211. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 212. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 213. https://wikimediafoundation.org/
+ 214. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 215. file:///wiki/Wikipedia:About
+ 216. file:///wiki/Wikipedia:General_disclaimer
+ 217. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 218. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 219. https://developer.wikimedia.org/
+ 220. https://stats.wikimedia.org/#/en.wikipedia.org
+ 221. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 222. file://en.m.wikipedia.org/w/index.php?title=(−)-Endo-fenchol_dehydrogenase&mobileaction=toggle_view_mobile
+ 223. https://wikimediafoundation.org/
+ 224. https://www.mediawiki.org/

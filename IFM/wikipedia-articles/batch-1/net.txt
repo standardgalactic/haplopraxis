@@ -1,0 +1,2298 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 History
+     * [30]2 Language support
+     * [31]3 Architecture
+     * [32]4 .NET MAUI
+     * [33]5 Mascot
+     * [34]6 Notes
+     * [35]7 References
+     * [36]8 Further reading
+     * [37]9 External links
+
+   [ ] Toggle the table of contents
+
+.NET
+
+   [ ] 21 languages
+     * [38]العربية
+     * [39]Deutsch
+     * [40]Español
+     * [41]فارسی
+     * [42]Français
+     * [43]한국어
+     * [44]Italiano
+     * [45]עברית
+     * [46]Nederlands
+     * [47]日本語
+     * [48]Oʻzbekcha / ўзбекча
+     * [49]Polski
+     * [50]Português
+     * [51]Qaraqalpaqsha
+     * [52]Русский
+     * [53]Shqip
+     * [54]Slovenčina
+     * [55]ไทย
+     * [56]Українська
+     * [57]Tiếng Việt
+     * [58]中文
+
+   [59]Edit links
+
+     * [60]Article
+     * [61]Talk
+
+   [ ] English
+
+     * [62]Read
+     * [63]Edit
+     * [64]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [65]Read
+     * [66]Edit
+     * [67]View history
+
+   General
+     * [68]What links here
+     * [69]Related changes
+     * [70]Upload file
+     * [71]Special pages
+     * [72]Permanent link
+     * [73]Page information
+     * [74]Cite this page
+     * [75]Get shortened URL
+     * [76]Download QR code
+
+   Print/export
+     * [77]Download as PDF
+     * [78]Printable version
+
+   In other projects
+     * [79]Wikimedia Commons
+     * [80]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Software platform developed by Microsoft
+   For the earlier framework, see [81].NET Framework. For the top-level
+   domain, see [82].net. For other uses, see [83].net (disambiguation).
+
+   CAPTION: .NET
+
+   [84][150px-Microsoft_.NET_logo.svg.png]
+   [85]Developer(s) [86].NET Foundation and the open-source community
+   Initial release  June 27, 2016; 8 years ago (2016-06-27)
+   [87]Stable release
+   9.0.0^[88][1] [89] Edit this on Wikidata / 12 November 2024; 55 days
+   ago (12 November 2024)
+   [90]Preview release
+   9.0.0-rc.2^[91][2] [92] Edit this on Wikidata / 8 October 2024; 2
+   months ago (8 October 2024)
+   [93]Repository
+     * [94]github.com/dotnet/core [95]Edit this at Wikidata
+
+   Written in [96]C++, [97]C#
+   [98]Operating system [99]cross-platform: [100]Windows, [101]Linux,
+   [102]macOS, [103]Android, [104]iOS
+   [105]Platform [106]IA-32, [107]x86-64, [108]ARM
+   Predecessor [109].NET Framework
+   [110]Type [111]Software framework
+   [112]License [113]MIT^[114][3]
+   Website [115]dotnet.microsoft.com
+
+   The .NET platform (pronounced as "dot net") is a partially open source
+   with patent encumbered technology, [116]managed computer [117]software
+   framework for [118]Windows, [119]Linux, and [120]macOS [121]operating
+   systems.^[122][4] The project is mainly developed by [123]Microsoft
+   employees by way of the [124].NET Foundation and is released under an
+   [125]MIT License.^[126][3]
+
+   New versions of the .NET platform are released annually, typically in
+   November. The most recent version of .NET is .NET 9, released in
+   November 2024, while the current long-term support (LTS) version is
+   .NET 8, released in November 2023 and scheduled to receive updates
+   until November 2026.
+
+History
+
+   [[127]edit]
+
+   See also: [128]C Sharp (programming language) § History, and [129].NET
+   Framework § History
+
+   In the late 1990s, Microsoft began developing a [130]managed code
+   runtime and programming language ([131]C#) which it billed together as
+   part of the ".NET platform", with the core runtime and [132]software
+   libraries comprising the [133].NET Framework.
+
+     At the heart of the .NET Platform is the .NET Framework, a
+     high-productivity, multilanguage development and execution
+     environment for building and running Web services with important
+     features such as cross-language inheritance and debugging.^[134][5]
+
+   Soon after the announcement of the C# language at the [135]Professional
+   Developers Conference in 2000 and previews of its software became
+   available, Microsoft began a standardization effort through [136]ECMA
+   for what it dubbed the [137]Common Language Infrastructure. The company
+   continued development and support of its own implementation as
+   [138]proprietary, closed source software in the meantime.
+
+   On November 12, 2014, Microsoft introduced .NET Core—an open-source,
+   [139]cross-platform^[140][6] successor^[141][7] to [142].NET
+   Framework—and released [143]source code for the .NET Core [144]CoreCLR
+   implementation, source for the "entire [...] library stack" for .NET
+   Core,^[145][8] and announced the adoption of a conventional
+   ([146]"bazaar"-like) [147]open-source development model under the
+   stewardship of the [148].NET Foundation. [149]Miguel de Icaza describes
+   .NET Core as a "redesigned version of .NET that is based on the
+   simplified version of the class libraries",^[150][9] and Microsoft's
+   Immo Landwerth explained that .NET Core would be "the foundation of all
+   future .NET platforms". At the time of the announcement, the initial
+   release of the .NET Core project had been seeded with a subset of the
+   libraries' source code and coincided with the relicensing of
+   Microsoft's existing .NET reference source away from the restrictions
+   of the [151]Ms-RSL. Landwerth acknowledged the disadvantages of the
+   formerly selected shared license, explaining that it made [152]codename
+   Rotor "a non-starter" as a community-developed open source project
+   because it did not meet the criteria of an [153]Open Source Initiative
+   (OSI) approved license.^[154][10]^[155][11]^[156][12]
+
+   .NET Core 1.0 was released on June 27, 2016,^[157][13] along with
+   [158]Microsoft Visual Studio 2015 Update 3, which enables .NET Core
+   development.^[159][14] .NET Core 1.0.4 and .NET Core 1.1.1 were
+   released along with .NET Core Tools 1.0 and Visual Studio 2017 on March
+   7, 2017.^[160][15]
+
+   .NET Core 2.0 was released on August 14, 2017, along with Visual Studio
+   2017 15.3, ASP.NET Core 2.0, and [161]Entity Framework Core
+   2.0.^[162][16] .NET Core 2.1 was released on May 30, 2018.^[163][17]
+   NET Core 2.2 was released on December 4, 2018.^[164][18]
+
+   .NET Core 3 was released on September 23, 2019.^[165][19] NET Core 3
+   adds support for Windows desktop application development^[166][20] and
+   significant performance improvements throughout the base library.
+
+   In November 2020, Microsoft released .NET 5.0.^[167][21] The "Core"
+   branding was abandoned and version 4.0 was skipped to avoid conflation
+   with .NET Framework, of which the latest releases had all used 4.x
+   [168]versioning for all significant (non-bugfix) releases since 2010.
+
+   It addresses the patent concerns related to the .NET Framework
+   ^[[169]citation needed].
+
+   In November 2021, Microsoft released .NET 6.0,^[170][22] in November
+   2022 released .NET 7.0,^[171][23] in November 2023 released .NET
+   8.0,^[172][24] and in November 2024 released .NET 9.0.^[173][25]
+
+   Version Release date Released with Latest update Latest update date
+   Support ends^[174][26]^[175][27]
+
+   Support Lifetime
+   Old version, no longer maintained: .NET Core 1.0 June 27,
+   2016^[176][28] [177]Visual Studio 2015 Update 3 1.0.16 May 14, 2019
+   June 27, 2019 3 years
+   Old version, no longer maintained: .NET Core 1.1 November 16,
+   2016^[178][29] [179]Visual Studio 2017 Version 15.0 1.1.13 May 14, 2019
+   June 27, 2019 2.5 years
+   Old version, no longer maintained: .NET Core 2.0 August 14,
+   2017^[180][16] Visual Studio 2017 Version 15.3 2.0.9 July 10, 2018
+   October 1, 2018 1.25 years
+   Old version, no longer maintained: .NET Core 2.1 May 30, 2018^[181][17]
+   Visual Studio 2017 Version 15.7 2.1.30 ([182]LTS) August 19, 2021
+   August 21, 2021 3.25 years
+   Old version, no longer maintained: .NET Core 2.2 December 4,
+   2018^[183][18] [184]Visual Studio 2019 Version 16.0 2.2.8 November 19,
+   2019 December 23, 2019 0.9 years
+   Old version, no longer maintained: .NET Core 3.0 September 23,
+   2019^[185][30] Visual Studio 2019 Version 16.3 3.0.3 February 18, 2020
+   March 3, 2020 0.5 years
+   Old version, no longer maintained: .NET Core 3.1 December 3,
+   2019^[186][31] Visual Studio 2019 Version 16.4 3.1.32 ([187]LTS)
+   December 13, 2022 December 13, 2022 3 years
+   Old version, no longer maintained: .NET 5 November 10, 2020^[188][32]
+   Visual Studio 2019 Version 16.8 5.0.17 May 10, 2022 May 10, 2022 1.5
+   years
+   Old version, no longer maintained: .NET 6 November 8, 2021^[189][22]
+   [190]Visual Studio 2022 Version 17.0 6.0.36 ([191]LTS) November 12,
+   2024 November 12, 2024 3 years
+   Old version, no longer maintained: .NET 7 November 8, 2022^[192][23]
+   Visual Studio 2022 Version 17.4 7.0.20 May 28, 2024 May 14, 2024 1.5
+   years
+   Old version, yet still maintained: .NET 8 November 14, 2023^[193][24]
+   Visual Studio 2022 Version 17.8 8.0.11 ([194]LTS) November 12, 2024
+   November 10, 2026 3 years
+   Current stable version: .NET 9 November 12, 2024^[195][25] Visual
+   Studio 2022 Version 17.12 9.0.0 November 12, 2024 May 12, 2026 1.5
+   years
+   Future release: .NET 10 November 2025 (projected) (will be [196]LTS)
+   November 2028 (projected) 3 years (projected)
+   Future release: .NET 11 November 2026 (projected) May 2028 (projected)
+   1.5 years (projected)
+   Legend:
+   Old version, not maintained
+   Old version, still maintained
+   Latest version
+   Latest preview version
+   Future release
+
+   [197]Alpine Linux, which primarily supports and uses [198]musl
+   libc,^[199][33] is supported since .NET Core 2.1.^[200][34]
+
+   Windows [201]Arm64 is natively supported since .NET 5. Previously, .NET
+   on ARM meant applications compiled for the x86 architecture and run
+   through the ARM emulation layer.^[202][32]
+
+Language support
+
+   [[203]edit]
+
+   [204][280px-Overview_of_the_Common_Language_Infrastructure_2015.svg.png
+   ] .NET uses the [205]Common Language Infrastructure (CLI).
+
+   .NET fully supports [206]C# and [207]F# (and [208]C++/CLI as of 3.1;
+   only enabled on Windows) and supports [209]Visual Basic .NET (for
+   version 15.5 in .NET Core 5.0.100-preview.4, and some old versions
+   supported in old .NET Core).^[210][35]
+
+   VB.NET compiles and runs on .NET, but as of .NET Core 3.1, the separate
+   Visual Basic Runtime is not implemented. Microsoft initially announced
+   that .NET Core 3 would include the Visual Basic Runtime, but after two
+   years the timeline for such support was updated to .NET
+   5.^[211][36]^[212][37]
+
+Architecture
+
+   [[213]edit]
+
+   Main article: [214]Common Language Infrastructure
+
+   .NET supports the following [215]cross-platform scenarios: [216]ASP.NET
+   Core [217]web apps, command-line/console apps, libraries and
+   [218]Universal Windows Platform apps. Prior to .NET Core 3.0, it did
+   not implement [219]Windows Forms or [220]Windows Presentation
+   Foundation (WPF), which render the standard [221]GUI for desktop
+   software on Windows.^[222][38] However, from .NET Core 3 on, it started
+   implementing them along with [223]Universal Windows Platform
+   (UWP).^[224][39] It is also possible to write cross-platform graphical
+   applications using .NET with the [225]GTK# language-binding for the
+   [226]GTK widget toolkit.
+
+   .NET supports use of [227]NuGet packages. Unlike [228].NET Framework,
+   which is serviced using [229]Windows Update, .NET used to rely on its
+   [230]package manager to receive updates.^[231][38] Since December 2020,
+   however, .NET updates started being delivered via Windows Update as
+   well.^[232][40]
+
+   The two main components of .NET are CoreCLR and CoreFX, which are
+   comparable to the [233]Common Language Runtime (CLR) and the
+   [234]Framework Class Library (FCL) of the [235].NET Framework's
+   [236]Common Language Infrastructure (CLI) implementation.^[237][41]
+
+   As an implementation of CLI's [238]Virtual Execution System (VES),
+   CoreCLR is a complete [239]runtime and [240]virtual machine for
+   [241]managed [242]execution of CLI programs and includes a
+   [243]just-in-time compiler called RyuJIT.^[244][42]^[245][a] .NET Core
+   also contains CoreRT, the .NET Native runtime optimized to be
+   integrated into [246]AOT compiled native [247]binaries.^[248][44]
+
+   As an implementation of CLI's [249]Standard Libraries,^[250][45] CoreFX
+   shares a subset of .NET Framework APIs, however, it also comes with its
+   own APIs that are not part of the .NET Framework.^[251][38] A variant
+   of the .NET [252]library is used for [253]UWP.^[254][46]
+
+   The .NET [255]command-line interface offers an execution entry point
+   for [256]operating systems and provides developer services like
+   compilation and package management.^[257][47]
+   [258][220px-UML_dotnet_streams.svg.png] UML package diagram of the
+   stream hierarchy in .NET
+
+.NET MAUI
+
+   [[259]edit]
+
+   .NET Multi-platform App UI (.NET MAUI, introduced with .NET 6) is a
+   cross-platform framework for creating native mobile and desktop apps
+   with [260]C# and [261]Extensible Application Markup Language
+   (XAML),^[262][48] which also supports [263]Android and [264]iOS.
+
+Mascot
+
+   [[265]edit]
+
+   [266][150px-Dotnet-bot.svg.png] dotnet bot, the community mascot for
+   .NET
+
+   The official community mascot of .NET is the .NET Bot (stylized as
+   "dotnet bot" or "dotnet-bot"). The dotnet bot served as the placeholder
+   developer for the initial check-in of the .NET source code when it was
+   open-sourced.^[267][49] It has since been used as the official mascot.
+
+Notes
+
+   [[268]edit]
+
+    1. [269]^ The prefix "Ryu" is the Japanese word for "dragon" (竜, ryū),
+       and is a reference to the book [270]Compilers: Principles,
+       Techniques, and Tools (commonly known as the dragon book, from an
+       early cover design), as well as to a character from the video game
+       [271]Street Fighter.^[272][43]
+
+References
+
+   [[273]edit]
+
+    1. [274]^ [275]"Download .NET 9.0". Retrieved November 12, 2024.
+    2. [276]^ [277]"Download .NET 9.0". Retrieved October 8, 2024.
+    3. ^ [278]^a [279]^b [280]"core/LICENSE.TXT". [281]GitHub. Retrieved
+       June 4, 2018.
+    4. [282]^ [283]"Download .NET Core". microsoft.com. [284]Microsoft.
+       Retrieved October 31, 2017.
+    5. [285]^ [286]"Microsoft Delivers First .NET Platform Developer Tools
+       for Building Web Services". July 11, 2000. Retrieved November 5,
+       2023.
+    6. [287]^ [288]".NET Core is the Future of .NET". May 6, 2019.
+    7. [289]^ [290]".NET Framework is dead – long live .NET 5". May 7,
+       2019.
+    8. [291]^ [292]"Why a .NET Development Company Could Be the Perfect
+       Boost | Pangea.ai". www.pangea.ai. Retrieved December 8, 2022.
+    9. [293]^ [294]de Icaza, Miguel. [295]"Microsoft Open Sources .NET and
+       Mono". Personal blog of Miguel de Icaza. Retrieved November 16,
+       2014.
+   10. [296]^ Landwerth, Immo (November 12, 2014). [297]".NET Core is Open
+       Source". .NET Framework Blog. Microsoft. Retrieved December 30,
+       2014.
+   11. [298]^ [299]"dotnet/corefx". GitHub. Retrieved November 16, 2014.
+   12. [300]^ [301]"Microsoft/referencesource". GitHub. Retrieved November
+       16, 2014.
+   13. [302]^ Bright, Peter (June 27, 2016). [303]".NET Core 1.0 released,
+       now officially supported by Red Hat". [304]Ars Technica. [305]Condé
+       Nast.
+   14. [306]^ Foley, Mary Jo (June 27, 2016). [307]"Microsoft showcases
+       SQL Server, .NET Core on Red Hat Enterprise Linux deliverables".
+       [308]ZDNet. [309]CBS Interactive.
+   15. [310]^ [311]"Announcing .NET Core Tools 1.0 | .NET Blog".
+       Blogs.msdn.microsoft.com. March 7, 2017. Retrieved January 18,
+       2020.
+   16. ^ [312]^a [313]^b [314]"Announcing .NET Core 2.0". .NET Blog.
+       Microsoft. August 14, 2017.
+   17. ^ [315]^a [316]^b [317]"Announcing .NET Core 2.1". .NET Blog.
+       Microsoft. May 30, 2018.
+   18. ^ [318]^a [319]^b [320]"Announcing .NET Core 2.2". .NET Blog.
+       Microsoft. December 4, 2018.
+   19. [321]^ [322]".NET Core is the Future of .NET". .NET Blog. May 6,
+       2019. Retrieved May 17, 2019.
+   20. [323]^ [324]"What's new in .NET Core 3.0". .NET documentation.
+       Retrieved December 30, 2020.
+   21. [325]^ [326]"Announcing .NET 5.0". .NET Blog. November 10, 2020.
+       Retrieved November 21, 2020.
+   22. ^ [327]^a [328]^b Lander, Richard (November 8, 2021).
+       [329]"Announcing .NET 6 – The Fastest .NET Yet". .NET Blog.
+       Retrieved May 6, 2022.
+   23. ^ [330]^a [331]^b Douglas, Jon (November 8, 2022). [332]".NET 7 is
+       Available Today". .NET Blog. Retrieved January 13, 2024.
+   24. ^ [333]^a [334]^b Seth, Gaurav (November 14, 2023).
+       [335]"Announcing .NET 8". .NET Blog. Retrieved January 13, 2024.
+   25. ^ [336]^a [337]^b [338]"Announcing .NET 9". .NET Blog. November 12,
+       2024. Retrieved November 12, 2024.
+   26. [339]^ [340]".NET Core official support policy". .NET. Microsoft.
+   27. [341]^ [342]"Microsoft .NET and .NET Core - Microsoft Lifecycle".
+       learn.microsoft.com. Microsoft.
+   28. [343]^ [344]"Announcing .NET Core 1.0". .NET Blog. Microsoft. June
+       27, 2016.
+   29. [345]^ [346]"Announcing .NET Core 1.1". .NET Blog. Microsoft.
+       November 16, 2016.
+   30. [347]^ [348]"Announcing .NET Core 3.0". .NET Blog. Microsoft.
+       September 23, 2019.
+   31. [349]^ [350]"Announcing .NET Core 3.1". .NET Blog. Microsoft.
+       December 3, 2019.
+   32. ^ [351]^a [352]^b [353]"Announcing .NET 5.0". .NET Blog. Microsoft.
+       November 10, 2020.
+   33. [354]^ [355]"Alpine 3.10.0 released | Alpine Linux".
+       alpinelinux.org. Retrieved June 9, 2020.
+   34. [356]^ [357]"dotnet/core". GitHub. Retrieved June 9, 2020.
+   35. [358]^ [359]".NET framework supports different programming
+       languages". Retrieved April 21, 2022.
+   36. [360]^ [361]"Visual Basic in .NET Core 3.0 | Visual Basic Blog".
+       Blogs.msdn.microsoft.com. October 12, 2019. Retrieved January 18,
+       2020.
+   37. [362]^ [363]"Visual Basic support planned for .NET 5.0 | Visual
+       Basic Blog". Blogs.msdn.microsoft.com. March 11, 2020. Retrieved
+       August 26, 2020.
+   38. ^ [364]^a [365]^b [366]^c Carter, Phillip; Knezevic, Zlatko (April
+       2016). [367]".NET Core – .NET Goes Cross-Platform with .NET Core".
+       [368]MSDN Magazine. [369]Microsoft.
+   39. [370]^ Lander, Rich (May 7, 2018). [371]".NET Core 3 and Support
+       for Windows Desktop Applications". [372]MSDN. [373]Microsoft.
+   40. [374]^ [375]".NET Core 2.1, 3.1, and .NET 5.0 updates are coming to
+       Microsoft Update". .NET Blog. December 3, 2020. Retrieved December
+       15, 2020.
+   41. [376]^ [377]"Understanding .NET Framework, .NET Core, .NET Standard
+       And Future .NET". www.c-sharpcorner.com. Retrieved February 1,
+       2021.
+   42. [378]^ Landwerth, Immo (February 3, 2015). [379]"CoreCLR is now
+       Open Source". .NET Framework Blog. [380]Microsoft. Retrieved
+       February 27, 2015.
+   43. [381]^ [382]"Why RyuJIT? How was the name chosen?". nuWave
+       eSolutions Development Team Blog. November 25, 2014. Retrieved June
+       21, 2016.
+   44. [383]^ Ramel, David (August 31, 2020). [384]"Microsoft Survey:
+       Developers Held Back by Lack of 'Native AOT' in .NET Core -".
+       Visual Studio Magazine. [385]Archived from the original on October
+       22, 2020. Retrieved February 1, 2021.
+   45. [386]^ Landwerth, Immo (December 4, 2014). [387]"Introducing .NET
+       Core". .NET Framework Blog. [388]Microsoft. Retrieved February 27,
+       2015.
+   46. [389]^ [390]"Intro to .NET Native and CoreRT". [391]GitHub. April
+       23, 2016.
+   47. [392]^ [393]"Intro to CLI". [394]GitHub. April 23, 2016.
+   48. [395]^ [396]"What is .NET MAUI? - .NET MAUI". learn.microsoft.com.
+       Retrieved November 8, 2022.
+   49. [397]^ Wang, Abel (September 9, 2020). [398]What is the dotnet bot?
+       (Podcast). Microsoft. Event occurs at 4 seconds in. Retrieved March
+       9, 2021.
+
+Further reading
+
+   [[399]edit]
+
+     *
+
+   Arif, Hammad; Qureshi, Habib (2020). Adopting .NET 5: Understand modern
+   architectures, migration best practices, and the new features in .NET
+   5. Packt Publishing. [400]ISBN [401]978-1800560567.
+
+     Metzgar, Dustin (2018). .NET Core in Action. Manning Publications.
+   [402]ISBN [403]978-1617294273.
+
+     Price, Mark J. (2021). C# 10 and .NET 6 – Modern Cross-Platform
+   Development. Packt Publishing. [404]ISBN [405]978-1801077361.
+
+     Price, Mark J. (2020). C# 9 and .NET 5 – Modern Cross-Platform
+   Development. Packt Publishing. [406]ISBN [407]978-1800568105.
+
+     Price, Mark J. (2019). C# 8.0 and .NET Core 3.0 – Modern
+   Cross-Platform Development. Packt Publishing.
+   [408]ISBN [409]978-1788478120.
+
+     Price, Mark J. (2017). C# 7.1 and .NET Core 2.0 – Modern
+   Cross-Platform Development. Packt Publishing.
+   [410]ISBN [411]978-1788398077.
+
+     Price, Mark J. (2017). C# 7 and .NET Core: Modern Cross-Platform
+   Development. Packt Publishing. [412]ISBN [413]978-1787129559.
+
+     Price, Mark J. (2016). C# 6 and .NET Core 1.0: Modern Cross-Platform
+   Development. Packt Publishing. [414]ISBN [415]978-1785285691.
+
+     Zimarev, Alexey (2019). Hands-On Domain-Driven Design with .NET Core.
+   Packt Publishing. [416]ISBN [417]978-1788834094.
+
+External links
+
+   [[418]edit]
+
+   Wikibooks has a book on the topic of: [419].NET Development Foundation
+
+   Wikiversity has learning resources about [420]Introduction to .NET
+
+     * [421]Official website [422]Edit this at Wikidata
+     * [423].NET on [424]GitHub
+
+     * [425]v
+     * [426]t
+     * [427]e
+
+   .NET
+
+     * [428].NET strategy
+     * [429]Libraries and frameworks
+
+   Implementations
+
+     * .NET (Core)
+     * [430].NET Framework
+          + [431]Version history
+     * [432].NET Compact Framework
+     * [433].NET Micro Framework
+     * [434]DotGNU
+     * [435]Mono
+     * [436]XNA Framework
+
+   [437]Architecture
+
+     * [438]Common Language Runtime (CLR)
+     * [439]COM Interop
+     * [440]Framework Class Library (FCL)
+
+   [441]Components
+
+     * [442]ADO.NET
+          + [443]Entity Framework
+     * [444]ASP.NET
+          + [445]Web Forms
+          + [446]AJAX
+          + [447]Core
+          + [448]Dynamic Data
+          + [449]MVC
+          + [450]Razor
+     * [451]Avalonia
+     * [452]ClickOnce
+     * [453]Dynamic Language Runtime
+     * [454]Extensible Application Markup Language (XAML)
+     * [455]Language Integrated Query (LINQ)
+     * [456]Managed Extensibility Framework
+     * [457]Microsoft Silverlight
+     * [458]Microsoft XNA
+     * [459]Parallel Extensions
+     * [460]Windows Communication Foundation (WCF)
+          + [461]WCF Data Services
+     * [462]Windows Forms (WinForms)
+     * [463]Windows Identity Foundation (WIF)
+     * [464]Windows Presentation Foundation (WPF)
+     * [465]Windows Workflow Foundation (WF)
+     * [466].NET Remoting
+
+   [467]Tools
+
+   [468]Decompilers
+     * [469].NET Reflector
+     * [470]dotPeek
+
+   [471]Obfuscators
+     * [472]Dotfuscator
+     * [473]SmartAssembly
+
+     * [474]CLR Profiler
+     * [475]ILAsm
+     * [476].NET Compiler Platform
+     * [477]Native Image Generator (NGen)
+     * [478]XAMLPad
+
+   [479]IDEs
+
+     * [480]Visual Studio
+          + [481]Blend
+          + [482]Express
+     * [483]MonoDevelop
+     * [484]SharpDevelop
+     * [485]Xamarin Studio
+
+   Organizations
+
+     * [486].NET Foundation
+     * [487]Microsoft
+     * [488]Xamarin
+
+     * [489]Category
+     * [490]List
+     * [491]Commons
+
+     * [492]v
+     * [493]t
+     * [494]e
+
+   [495]Common Language Infrastructure
+
+   Architecture
+
+     * [496]Application domain
+     * [497]Code Access Security
+     * [498]Common Intermediate Language
+          + [499]instructions
+     * [500]Common Type System
+     * [501]Platform Invocation Services
+     * [502]Virtual Execution System
+
+   Components
+
+     * [503]Assembly
+     * [504]Delegate
+     * [505]Global Assembly Cache
+     * [506]Manifest
+     * [507]Metadata
+     * [508]Standard Libraries
+
+   Implementations
+
+   Microsoft
+     * .NET
+     * [509].NET Framework
+     * [510].NET Compact Framework
+     * [511].NET Micro Framework
+
+     Other
+     * [512]Mono
+     * [513]DotGNU
+
+   [514]Languages
+
+   Major languages
+     * [515]C#
+     * [516]Visual Basic
+     * [517]F#
+     * [518]PowerShell
+
+   Other
+     * [519]Axum
+     * [520]A#
+     * [521]Boo
+     * [522]Cobra
+     * [523]C++/CLI
+     * [524]IronScheme
+     * [525]IronPython
+     * [526]IronRuby
+     * [527]JScript .NET
+     * [528]J#
+     * [529]Nemerle
+     * [530]Oxygene
+     * [531]Phalanger
+     * [532]Q#
+     * [533]Scala
+     * [534]Small Basic
+
+   Comparison
+     * [535]C# and Java
+     * [536]C# and Visual Basic .NET
+     * [537]Visual Basic and Visual Basic .NET
+
+     * [538]v
+     * [539]t
+     * [540]e
+
+   [541]Microsoft APIs and frameworks
+
+   Graphics and UI
+
+     * [542]Desktop Window Manager
+     * [543]Direct2D
+     * [544]Direct3D
+     * [545]D3D (extensions)
+     * [546]GDI / GDI+
+     * [547]WPF
+     * [548]Silverlight
+     * [549]WinUI
+     * [550]Windows Color System
+     * [551]Windows Image Acquisition
+     * [552]Windows Imaging Component
+     * [553]DirectX Graphics Infrastructure (DXGI)
+     * [554]Windows Advanced Rasterization Platform
+     * [555]WinG
+
+   Audio
+
+     * [556]DirectMusic
+     * [557]DirectSound
+     * [558]DirectX plugin
+     * [559]XACT
+     * [560]Speech API
+     * [561]XAudio2
+
+   Multimedia
+
+     * [562]DirectX
+          + [563]Media Objects
+          + [564]Video Acceleration
+     * [565]Xinput
+     * [566]DirectInput
+     * [567]DirectShow
+     * [568]Image Mastering API
+     * [569]Managed DirectX
+     * [570]Media Foundation
+     * [571]XNA
+     * [572]Windows Media
+     * [573]Video for Windows
+
+   Web
+
+     * [574]MSHTML
+     * [575]RSS Platform
+     * [576]JScript
+     * [577]VBScript
+     * [578]BHO
+     * [579]XDR
+     * [580]SideBar Gadgets
+     * [581]TypeScript
+
+   Data access
+
+     * [582]Data Access Components (MDAC)
+          + [583]ADO
+          + [584]ADO.NET
+          + [585]ODBC
+          + [586]OLE DB
+     * [587]Extensible Storage Engine
+     * [588]Entity Framework
+     * [589]Sync Framework
+     * [590]Access Database Engine
+     * [591]MSXML
+     * [592]OPC
+
+   Networking
+
+     * [593]Winsock
+          + [594]LSP
+     * [595]Winsock Kernel
+     * [596]Filtering Platform
+     * [597]NDIS
+     * [598]Windows Rally
+     * [599]BITS
+     * [600]P2P API
+     * [601]MSMQ
+     * [602]MS MPI
+     * [603]DirectPlay
+
+   Communication
+
+     * [604]Messaging API
+     * [605]Telephony API
+     * [606]WCF
+
+   Administration and
+   management
+
+     * [607]Win32 console
+     * [608]Windows Script Host
+     * [609]WMI (extensions)
+     * [610]PowerShell
+     * [611]Task Scheduler
+     * [612]Offline Files
+     * [613]Shadow Copy
+     * [614]Windows Installer
+     * [615]Error Reporting
+     * [616]Event Log
+     * [617]Common Log File System
+
+   [618]Component model
+
+     * [619]COM
+     * [620]COM+
+     * [621]ActiveX
+     * [622]Distributed Component Object Model
+     * [623].NET Framework
+
+   [624]Libraries
+
+     * [625]Framework Class Library
+     * [626]Microsoft Foundation Classes (MFC)
+     * [627]Active Template Library (ATL)
+     * [628]Windows Template Library (WTL)
+
+   [629]Device drivers
+
+     * [630]WDM
+     * [631]WDF
+          + [632]KMDF
+          + [633]UMDF
+     * [634]WDDM
+     * [635]NDIS
+     * [636]UAA
+     * [637]BDA
+     * [638]VxD
+
+   Security
+
+     * [639]Crypto API
+          + [640]CAPICOM
+     * [641]Windows CardSpace
+     * [642]Data Protection API
+     * [643]Security Support Provider Interface (SSPI)
+
+   [644].NET
+
+     * [645]ASP.NET
+     * [646]ADO.NET
+     * [647]Remoting
+     * [648]Silverlight
+     * [649]TPL
+     * [650]WCF
+     * [651]WCS
+     * [652]WPF
+     * [653]WF
+
+   [654]Software factories
+
+     * [655]Enterprise Library
+     * [656]Composite UI
+     * [657]CCF
+     * [658]CSF
+
+   [659]IPC
+
+     * [660]MSRPC
+     * [661]Dynamic Data Exchange (DDE)
+     * [662]Remoting
+     * [663]WCF
+
+   Accessibility
+
+     * [664]Active Accessibility
+     * [665]UI Automation
+
+   Text and multilingual
+   support
+
+     * [666]DirectWrite
+     * [667]Text Services Framework
+     * [668]Text Object Model
+     * [669]Input method editor
+     * [670]Language Interface Pack
+     * [671]Multilingual User Interface
+     * [672]Uniscribe
+
+     * [673]v
+     * [674]t
+     * [675]e
+
+   Microsoft development tools
+
+   Development
+   environments
+
+   [676]Visual Studio
+     * [677]Code
+     * [678]Express
+     * [679]Team System Profiler
+     * [680]Tools for Applications
+     * [681]Tools for Office
+
+   Others
+     * [682]Blend
+     * [683]Expression Web
+     * [684]FxCop
+     * [685]GW-BASIC
+     * [686]MACRO-80
+     * [687]Macro Assembler
+     * [688]MSBuild
+     * [689]Pascal
+     * [690]QuickBASIC
+          + [691]QBasic
+     * [692]QuickC
+     * [693]Robotics Developer Studio
+     * [694]Roslyn
+     * [695]SharePoint Designer
+          + [696]FrontPage
+     * [697]Small Basic
+     * [698]WebMatrix
+     * [699]Windows App SDK
+     * [700]Windows App Studio
+     * [701]Windows SDK
+          + [702]CLR Profiler
+          + [703]ILAsm
+          + [704]Native Image Generator
+          + [705]WinDiff
+          + [706]XAMLPad
+
+   Languages
+
+     * [707]Dynamics AX
+     * [708]BASIC
+     * Visual Basic
+          + [709]legacy
+          + [710]VB.NET
+          + [711]VBA
+          + [712]VBScript
+     * [713]Bosque
+     * [714]Visual C++
+          + [715]C++/CX
+          + [716]C++/CLI
+          + [717]Managed C++
+          + [718]C++/WinRT
+     * [719]C#
+     * [720]C/AL
+     * [721]Dafny
+     * [722]Dexterity
+     * [723]F#
+     * [724]F*
+     * [725]Visual FoxPro
+     * [726]Java
+          + [727]J++
+          + [728]J#
+     * [729]JavaScript
+          + [730]TypeScript
+          + [731]JScript
+     * [732]IronPython
+     * [733]IronRuby
+     * [734]Lean
+     * [735]P
+     * [736]Power Fx
+     * [737]PowerShell
+     * [738]Project Verona
+     * [739]Q#
+     * [740]Small Basic
+     * [741]VPL
+     * [742]XAML
+
+   APIs and
+   frameworks
+
+   Native
+     * [743]Windows API
+     * [744]Silverlight
+     * [745]XNA
+     * [746]DirectX
+          + [747]Managed DirectX
+     * [748]UWP
+     * [749]Xbox Development Kit
+     * [750]Windows Installer
+     * [751]WinUI
+
+   .NET
+     * [752]ASP.NET
+          + [753]Core
+          + [754]AJAX
+          + [755]Dynamic Data
+          + [756]MVC
+          + [757]Razor
+          + [758]Web Forms
+     * [759]ADO.NET
+          + [760]Entity Framework
+     * [761]MAUI
+     * [762]CardSpace
+     * [763]Communication Foundation
+     * [764]Identity Foundation
+     * [765]LINQ
+     * [766]Presentation Foundation
+     * [767]Workflow Foundation
+
+   [768]Device drivers
+     * [769]WDK
+     * [770]WDF
+          + [771]KMDF
+          + [772]UMDF
+     * [773]Windows HLK
+     * [774]WDM
+
+   Database
+
+   [775]SQL Server
+     * [776]Express
+     * [777]Compact
+     * [778]Management Studio
+     * [779]Business Intelligence Development Studio
+     * [780]MSDE
+
+   SQL services
+     * [781]Analysis
+     * [782]Reporting
+     * [783]Integration
+     * [784]Notification
+
+   Other
+     * [785]Visual FoxPro
+     * [786]Microsoft Access
+     * [787]Access Database Engine
+     * [788]Extensible Storage Engine
+
+   Source control
+
+     * [789]Visual SourceSafe
+     * [790]Team Foundation Version Control
+
+   Testing and
+   debugging
+
+     * [791]CodeView
+     * [792]OneFuzz
+     * [793]Playwright
+     * [794]Script Debugger
+     * [795]WinDbg
+     * [796]xUnit.net
+
+   Delivery
+
+     * [797]Active Setup
+     * [798]ClickOnce
+     * [799]npm
+     * [800]NuGet
+     * [801]vcpkg
+     * [802]Web Platform Installer
+     * [803]Windows Installer
+          + [804]WiX
+     * [805]Windows Package Manager
+     * [806]Microsoft Store
+
+   [807]Category
+
+     * [808]v
+     * [809]t
+     * [810]e
+
+   [811]Microsoft [812]free and open-source software (FOSS)
+
+   Overview
+
+     * [813]Microsoft and open source
+     * [814]Shared Source Initiative
+
+   Software
+
+   Applications
+     * [815]3D Movie Maker
+     * [816]Atom
+     * [817]Conference XP
+     * [818]Family.Show
+     * [819]File Manager
+     * [820]Open Live Writer
+     * [821]Microsoft PowerToys
+     * [822]Terminal
+     * [823]Windows Calculator
+     * [824]Windows Console
+     * [825]Windows Package Manager
+     * [826]WorldWide Telescope
+     * [827]XML Notepad
+
+                        Video games
+     * [828]Allegiance
+
+   Programming
+   languages
+     * [829]Bosque
+     * [830]C#
+     * [831]Dafny
+     * [832]F#
+     * [833]F*
+     * [834]GW-BASIC
+     * [835]IronPython
+     * [836]IronRuby
+     * [837]Lean
+     * [838]P
+     * [839]Power Fx
+     * [840]PowerShell
+     * [841]Project Verona
+     * [842]Q#
+     * [843]Small Basic Online
+     * [844]TypeScript
+     * [845]Visual Basic
+
+   Frameworks,
+   development tools
+     * .NET
+     * [846].NET Framework
+     * [847].NET Gadgeteer
+     * [848].NET MAUI
+     * [849].NET Micro Framework
+     * [850]AirSim
+     * [851]ASP.NET
+     * [852]ASP.NET AJAX
+     * [853]ASP.NET Core
+     * [854]ASP.NET MVC
+     * [855]ASP.NET Razor
+     * [856]ASP.NET Web Forms
+     * [857]Avalonia
+     * [858]Babylon.js
+     * [859]BitFunnel
+     * [860]Blazor
+     * [861]C++/WinRT
+     * [862]CCF
+     * [863]ChakraCore
+     * [864]CLR Profiler
+     * [865]Dapr
+     * [866]DeepSpeed
+     * [867]DiskSpd
+     * [868]Dryad
+     * [869]Dynamic Language Runtime
+     * [870]eBPF on Windows
+     * [871]Electron
+     * [872]Entity Framework
+     * [873]Fluent Design System
+     * [874]Fluid Framework
+     * [875]Infer.NET
+     * [876]LightGBM
+     * [877]Managed Extensibility Framework
+     * [878]Microsoft Automatic Graph Layout
+     * [879]Microsoft C++ Standard Library
+     * [880]Microsoft Cognitive Toolkit
+     * [881]Microsoft Design Language
+     * [882]Microsoft Detours
+     * [883]Microsoft Enterprise Library
+     * [884]Microsoft SEAL
+     * [885]mimalloc
+     * [886]Mixed Reality Toolkit
+     * [887]ML.NET
+     * [888]mod_mono
+     * [889]Mono
+     * [890]MonoDevelop
+     * [891]MSBuild
+     * [892]MsQuic
+     * [893]Neural Network Intelligence
+     * [894]npm
+     * [895]NuGet
+     * [896]OneFuzz
+     * [897]Open Management Infrastructure
+     * [898]Open Neural Network Exchange
+     * [899]Open Service Mesh
+     * [900]Open XML SDK
+     * [901]Orleans
+     * [902]Playwright
+     * [903]ProcDump
+     * [904]ProcMon
+     * [905]Python Tools for Visual Studio
+     * [906]R Tools for Visual Studio
+     * [907]RecursiveExtractor
+     * [908]Roslyn
+     * [909]Sandcastle
+     * [910]SignalR
+     * [911]StyleCop
+     * [912]SVNBridge
+     * [913]T2 Temporal Prover
+     * [914]Text Template Transformation Toolkit
+     * [915]TLA+ Toolbox
+     * [916]U-Prove
+     * [917]vcpkg
+     * [918]Virtual File System for Git
+     * [919]Voldemort
+     * [920]VoTT
+     * [921]Vowpal Wabbit
+     * [922]Windows App SDK
+     * [923]Windows Communication Foundation
+     * [924]Windows Driver Frameworks
+          + [925]KMDF
+          + [926]UMDF
+     * [927]Windows Forms
+     * [928]Windows Presentation Foundation
+     * [929]Windows Template Library
+     * [930]Windows UI Library
+     * [931]WinJS
+     * [932]WinObjC
+     * [933]WiX
+     * [934]XDP for Windows
+     * [935]XSP
+     * [936]xUnit.net
+     * [937]Z3 Theorem Prover
+
+   Operating systems
+     * [938]MS-DOS (v1.25, v2.0 & v4.0)
+     * [939]Barrelfish
+     * [940]SONiC
+     * [941]Azure Linux
+
+   Other
+     * [942]ChronoZoom
+     * [943]Extensible Storage Engine
+     * [944]FlexWiki
+     * [945]FourQ
+     * [946]Gollum
+     * [947]Project Mu
+     * [948]ReactiveX
+     * [949]SILK
+     * [950]TLAPS
+     * [951]TPM 2.0 Reference Implementation
+     * [952]WikiBhasha
+
+   [953]Licenses
+
+     * [954]Microsoft Public License
+     * [955]Microsoft Reciprocal License
+
+   [956]Forges
+
+     * [957]CodePlex
+     * [958]GitHub
+
+   Related
+
+     * [959].NET Foundation
+     * [960]F# Software Foundation
+     * [961]Microsoft Open Specification Promise
+     * [962]Open Letter to Hobbyists
+     * [963]Open Source Security Foundation
+     * [964]Outercurve Foundation
+
+   [965]Category
+
+   Retrieved from
+   "[966]https://en.wikipedia.org/w/index.php?title=.NET&oldid=1267294881"
+
+   [967]Categories:
+     * [968].NET implementations
+     * [969]Cross-platform software
+     * [970]Microsoft application programming interfaces
+     * [971]Microsoft development tools
+     * [972]Microsoft free software
+     * [973]Software using the MIT license
+     * [974]2016 software
+
+   Hidden categories:
+     * [975]Articles containing Japanese-language text
+     * [976]Articles with short description
+     * [977]Short description is different from Wikidata
+     * [978]Use American English from July 2022
+     * [979]All Wikipedia articles written in American English
+     * [980]Use mdy dates from July 2022
+     * [981]All articles with unsourced statements
+     * [982]Articles with unsourced statements from September 2023
+
+     * This page was last edited on 4 January 2025, at 13:25 (UTC).
+     * Text is available under the [983]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [984]Terms of Use and
+       [985]Privacy Policy. Wikipedia® is a registered trademark of the
+       [986]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [987]Privacy policy
+     * [988]About Wikipedia
+     * [989]Disclaimers
+     * [990]Contact Wikipedia
+     * [991]Code of Conduct
+     * [992]Developers
+     * [993]Statistics
+     * [994]Cookie statement
+     * [995]Mobile view
+
+     * [996]Wikimedia Foundation
+     * [997]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/.NET
+   2. file:///w/index.php?title=.NET&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=.NET
+  21. file:///w/index.php?title=Special:UserLogin&returnto=.NET
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=.NET
+  24. file:///w/index.php?title=Special:UserLogin&returnto=.NET
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html
+  29. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#History
+  30. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#Language_support
+  31. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#Architecture
+  32. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#.NET_MAUI
+  33. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#Mascot
+  34. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#Notes
+  35. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#References
+  36. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#Further_reading
+  37. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#External_links
+  38. https://ar.wikipedia.org/wiki/نواة_دوت_نت
+  39. https://de.wikipedia.org/wiki/.NET_(Plattform)
+  40. https://es.wikipedia.org/wiki/.NET_Core
+  41. https://fa.wikipedia.org/wiki/دات‌نت
+  42. https://fr.wikipedia.org/wiki/.NET
+  43. https://ko.wikipedia.org/wiki/닷넷
+  44. https://it.wikipedia.org/wiki/.NET
+  45. https://he.wikipedia.org/wiki/.NET
+  46. https://nl.wikipedia.org/wiki/.NET_Core
+  47. https://ja.wikipedia.org/wiki/.NET
+  48. https://uz.wikipedia.org/wiki/.NET_Core
+  49. https://pl.wikipedia.org/wiki/.NET_Core
+  50. https://pt.wikipedia.org/wiki/.NET
+  51. https://kaa.wikipedia.org/wiki/.NET
+  52. https://ru.wikipedia.org/wiki/.NET
+  53. https://sq.wikipedia.org/wiki/.NET
+  54. https://sk.wikipedia.org/wiki/.NET
+  55. https://th.wikipedia.org/wiki/ดอตเน็ต
+  56. https://uk.wikipedia.org/wiki/.NET
+  57. https://vi.wikipedia.org/wiki/.NET
+  58. https://zh.wikipedia.org/wiki/.NET
+  59. https://www.wikidata.org/wiki/Special:EntityPage/Q21622213#sitelinks-wikipedia
+  60. file:///wiki/.NET
+  61. file:///wiki/Talk:.NET
+  62. file:///wiki/.NET
+  63. file:///w/index.php?title=.NET&action=edit
+  64. file:///w/index.php?title=.NET&action=history
+  65. file:///wiki/.NET
+  66. file:///w/index.php?title=.NET&action=edit
+  67. file:///w/index.php?title=.NET&action=history
+  68. file:///wiki/Special:WhatLinksHere/.NET
+  69. file:///wiki/Special:RecentChangesLinked/.NET
+  70. file:///wiki/Wikipedia:File_Upload_Wizard
+  71. file:///wiki/Special:SpecialPages
+  72. file:///w/index.php?title=.NET&oldid=1267294881
+  73. file:///w/index.php?title=.NET&action=info
+  74. file:///w/index.php?title=Special:CiteThisPage&page=.NET&id=1267294881&wpFormIdentifier=titleform
+  75. file:///w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/.NET
+  76. file:///w/index.php?title=Special:QrCode&url=https://en.wikipedia.org/wiki/.NET
+  77. file:///w/index.php?title=Special:DownloadAsPdf&page=.NET&action=show-download-screen
+  78. file:///w/index.php?title=.NET&printable=yes
+  79. https://commons.wikimedia.org/wiki/Category:.NET
+  80. https://www.wikidata.org/wiki/Special:EntityPage/Q21622213
+  81. file:///wiki/.NET_Framework
+  82. file:///wiki/.net
+  83. file:///wiki/.net_(disambiguation)
+  84. file:///wiki/File:Microsoft_.NET_logo.svg
+  85. file:///wiki/Programmer
+  86. file:///wiki/.NET_Foundation
+  87. file:///wiki/Software_release_life_cycle
+  88. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-wikidata-4b8aec31383ecd32af869a0bb50fc7f9b0b2f79e-v18-1
+  89. https://www.wikidata.org/wiki/Q21622213?uselang=en#P348
+  90. file:///wiki/Software_release_life_cycle#Beta
+  91. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-wikidata-73eb623e791cbbd2252daf91ec814432f8291361-v18-2
+  92. https://www.wikidata.org/wiki/Q21622213?uselang=en#P348
+  93. file:///wiki/Repository_(version_control)
+  94. https://github.com/dotnet/core
+  95. https://www.wikidata.org/wiki/Q21622213#P1324
+  96. file:///wiki/C++
+  97. file:///wiki/C_Sharp_(programming_language)
+  98. file:///wiki/Operating_system
+  99. file:///wiki/Cross-platform_software
+ 100. file:///wiki/Windows
+ 101. file:///wiki/Linux
+ 102. file:///wiki/MacOS
+ 103. file:///wiki/Android_(operating_system)
+ 104. file:///wiki/IOS
+ 105. file:///wiki/Computing_platform
+ 106. file:///wiki/IA-32
+ 107. file:///wiki/X86-64
+ 108. file:///wiki/ARM_architecture_family
+ 109. file:///wiki/.NET_Framework
+ 110. file:///wiki/Software_categories#Categorization_approaches
+ 111. file:///wiki/Software_framework
+ 112. file:///wiki/Software_license
+ 113. file:///wiki/MIT_License
+ 114. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-GHlicense-3
+ 115. http://dotnet.microsoft.com/
+ 116. file:///wiki/Managed_code
+ 117. file:///wiki/Software_framework
+ 118. file:///wiki/Microsoft_Windows
+ 119. file:///wiki/Linux
+ 120. file:///wiki/MacOS
+ 121. file:///wiki/Operating_system
+ 122. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-4
+ 123. file:///wiki/Microsoft
+ 124. file:///wiki/.NET_Foundation
+ 125. file:///wiki/MIT_License
+ 126. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-GHlicense-3
+ 127. file:///w/index.php?title=.NET&action=edit&section=1
+ 128. file:///wiki/C_Sharp_(programming_language)#History
+ 129. file:///wiki/.NET_Framework#History
+ 130. file:///wiki/Managed_code
+ 131. file:///wiki/C_Sharp_(programming_language)
+ 132. file:///wiki/Library_(computing)
+ 133. file:///wiki/.NET_Framework
+ 134. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-5
+ 135. file:///wiki/Professional_Developers_Conference
+ 136. file:///wiki/European_Computer_Manufacturers_Association
+ 137. file:///wiki/Common_Language_Infrastructure
+ 138. file:///wiki/Closed_source_software
+ 139. file:///wiki/Cross-platform_software
+ 140. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-6
+ 141. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-7
+ 142. file:///wiki/.NET_Framework
+ 143. file:///wiki/Source_code
+ 144. file:///wiki/CoreCLR
+ 145. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-8
+ 146. file:///wiki/The_Cathedral_and_the_Bazaar
+ 147. file:///wiki/Open-source_software#Development_model
+ 148. file:///wiki/.NET_Foundation
+ 149. file:///wiki/Miguel_de_Icaza
+ 150. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-icaza-dotnetcore-oss-9
+ 151. file:///wiki/Ms-RSL
+ 152. file:///wiki/Shared_Source_Common_Language_Infrastructure
+ 153. file:///wiki/Open_Source_Initiative
+ 154. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-landwerth-dotnetcore-oss-10
+ 155. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-dotnetcore-github-11
+ 156. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-referencesource-github-12
+ 157. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-arstechnicanetcorereleased-13
+ 158. file:///wiki/Microsoft_Visual_Studio
+ 159. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-14
+ 160. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-15
+ 161. file:///wiki/Entity_Framework
+ 162. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:0-16
+ 163. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:1-17
+ 164. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:2-18
+ 165. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-19
+ 166. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-20
+ 167. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-21
+ 168. file:///wiki/Software_versioning
+ 169. file:///wiki/Wikipedia:Citation_needed
+ 170. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:3-22
+ 171. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:5-23
+ 172. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:4-24
+ 173. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:dotnet9released-25
+ 174. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-26
+ 175. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-27
+ 176. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-28
+ 177. file:///wiki/Visual_Studio_2015
+ 178. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-29
+ 179. file:///wiki/Visual_Studio_2017
+ 180. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:0-16
+ 181. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:1-17
+ 182. file:///wiki/Long-term_support
+ 183. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:2-18
+ 184. file:///wiki/Visual_Studio_2019
+ 185. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-30
+ 186. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-31
+ 187. file:///wiki/Long-term_support
+ 188. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-Announcing5-32
+ 189. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:3-22
+ 190. file:///wiki/Visual_Studio_2022
+ 191. file:///wiki/Long-term_support
+ 192. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:5-23
+ 193. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:4-24
+ 194. file:///wiki/Long-term_support
+ 195. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-:dotnet9released-25
+ 196. file:///wiki/Long-term_support
+ 197. file:///wiki/Alpine_Linux
+ 198. file:///wiki/Musl
+ 199. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-33
+ 200. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-34
+ 201. file:///wiki/Arm64
+ 202. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-Announcing5-32
+ 203. file:///w/index.php?title=.NET&action=edit&section=2
+ 204. file:///wiki/File:Overview_of_the_Common_Language_Infrastructure_2015.svg
+ 205. file:///wiki/Common_Language_Infrastructure
+ 206. file:///wiki/C_Sharp_(programming_language)
+ 207. file:///wiki/F_Sharp_(programming_language)
+ 208. file:///wiki/C++/CLI
+ 209. file:///wiki/Visual_Basic_.NET
+ 210. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-35
+ 211. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-36
+ 212. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-37
+ 213. file:///w/index.php?title=.NET&action=edit&section=3
+ 214. file:///wiki/Common_Language_Infrastructure
+ 215. file:///wiki/Cross-platform
+ 216. file:///wiki/ASP.NET_Core
+ 217. file:///wiki/Web_app
+ 218. file:///wiki/Universal_Windows_Platform_apps
+ 219. file:///wiki/Windows_Forms
+ 220. file:///wiki/Windows_Presentation_Foundation
+ 221. file:///wiki/GUI
+ 222. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-Cater2016-38
+ 223. file:///wiki/Universal_Windows_Platform
+ 224. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-Lander2018-39
+ 225. file:///wiki/GTKSharp
+ 226. file:///wiki/GTK
+ 227. file:///wiki/NuGet
+ 228. file:///wiki/.NET_Framework
+ 229. file:///wiki/Windows_Update
+ 230. file:///wiki/Package_manager
+ 231. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-Cater2016-38
+ 232. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-40
+ 233. file:///wiki/Common_Language_Runtime
+ 234. file:///wiki/Framework_Class_Library
+ 235. file:///wiki/.NET_Framework
+ 236. file:///wiki/Common_Language_Infrastructure
+ 237. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-41
+ 238. file:///wiki/Virtual_Execution_System
+ 239. file:///wiki/Runtime_system
+ 240. file:///wiki/Virtual_machine
+ 241. file:///wiki/Managed_code
+ 242. file:///wiki/Execution_(computing)
+ 243. file:///wiki/Just-in-time_compiler
+ 244. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-42
+ 245. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-44
+ 246. file:///wiki/Ahead-of-time_compilation
+ 247. file:///wiki/Executable
+ 248. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-45
+ 249. file:///wiki/Standard_Libraries_(CLI)
+ 250. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-46
+ 251. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-Cater2016-38
+ 252. file:///wiki/Library_(computing)
+ 253. file:///wiki/Universal_Windows_Platform
+ 254. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-47
+ 255. file:///wiki/Command-line_interface
+ 256. file:///wiki/Operating_system
+ 257. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-48
+ 258. file:///wiki/File:UML_dotnet_streams.svg
+ 259. file:///w/index.php?title=.NET&action=edit&section=4
+ 260. file:///wiki/C_Sharp_(programming_language)
+ 261. file:///wiki/Extensible_Application_Markup_Language
+ 262. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-49
+ 263. file:///wiki/Android_(operating_system)
+ 264. file:///wiki/IOS
+ 265. file:///w/index.php?title=.NET&action=edit&section=5
+ 266. file:///wiki/File:Dotnet-bot.svg
+ 267. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-50
+ 268. file:///w/index.php?title=.NET&action=edit&section=6
+ 269. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-44
+ 270. file:///wiki/Compilers:_Principles,_Techniques,_and_Tools
+ 271. file:///wiki/Street_Fighter
+ 272. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_note-43
+ 273. file:///w/index.php?title=.NET&action=edit&section=7
+ 274. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-wikidata-4b8aec31383ecd32af869a0bb50fc7f9b0b2f79e-v18_1-0
+ 275. https://dotnet.microsoft.com/en-us/download/dotnet/9.0
+ 276. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-wikidata-73eb623e791cbbd2252daf91ec814432f8291361-v18_2-0
+ 277. https://dotnet.microsoft.com/en-us/download/dotnet/9.0
+ 278. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-GHlicense_3-0
+ 279. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-GHlicense_3-1
+ 280. https://github.com/dotnet/core/blob/main/LICENSE.TXT
+ 281. file:///wiki/GitHub
+ 282. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-4
+ 283. https://www.microsoft.com/net/download/core
+ 284. file:///wiki/Microsoft
+ 285. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-5
+ 286. https://news.microsoft.com/2000/07/11/microsoft-delivers-first-net-platform-developer-tools-for-building-web-services/
+ 287. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-6
+ 288. https://devblogs.microsoft.com/dotnet/net-core-is-the-future-of-net/
+ 289. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-7
+ 290. https://betanews.com/2019/05/07/future-of-dotnet/
+ 291. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-8
+ 292. https://www.pangea.ai/resources/net/
+ 293. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-icaza-dotnetcore-oss_9-0
+ 294. file:///wiki/Miguel_de_Icaza
+ 295. http://tirania.org/blog/archive/2014/Nov-12.html
+ 296. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-landwerth-dotnetcore-oss_10-0
+ 297. https://blogs.msdn.microsoft.com/dotnet/2014/11/12/net-core-is-open-source/
+ 298. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-dotnetcore-github_11-0
+ 299. https://github.com/dotnet/corefx
+ 300. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-referencesource-github_12-0
+ 301. https://github.com/Microsoft/referencesource
+ 302. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-arstechnicanetcorereleased_13-0
+ 303. https://arstechnica.com/information-technology/2016/06/net-core-1-0-released-now-officially-supported-by-red-hat/
+ 304. file:///wiki/Ars_Technica
+ 305. file:///wiki/Condé_Nast
+ 306. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-14
+ 307. https://www.zdnet.com/article/microsoft-showcases-sql-server-net-core-on-red-hat-enterprise-linux-deliverables/
+ 308. file:///wiki/ZDNet
+ 309. file:///wiki/CBS_Interactive
+ 310. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-15
+ 311. https://blogs.msdn.microsoft.com/dotnet/2017/03/07/announcing-net-core-tools-1-0/
+ 312. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:0_16-0
+ 313. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:0_16-1
+ 314. https://devblogs.microsoft.com/dotnet/announcing-net-core-2-0/
+ 315. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:1_17-0
+ 316. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:1_17-1
+ 317. https://devblogs.microsoft.com/dotnet/announcing-net-core-2-1/
+ 318. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:2_18-0
+ 319. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:2_18-1
+ 320. https://devblogs.microsoft.com/dotnet/announcing-net-core-2-2/
+ 321. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-19
+ 322. https://devblogs.microsoft.com/dotnet/net-core-is-the-future-of-net/
+ 323. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-20
+ 324. https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0#windows-desktop--com
+ 325. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-21
+ 326. https://devblogs.microsoft.com/dotnet/announcing-net-5-0/
+ 327. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:3_22-0
+ 328. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:3_22-1
+ 329. https://devblogs.microsoft.com/dotnet/announcing-net-6/
+ 330. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:5_23-0
+ 331. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:5_23-1
+ 332. https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/
+ 333. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:4_24-0
+ 334. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:4_24-1
+ 335. https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/
+ 336. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:dotnet9released_25-0
+ 337. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-:dotnet9released_25-1
+ 338. https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/
+ 339. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-26
+ 340. https://dotnet.microsoft.com/platform/support/policy/dotnet-core
+ 341. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-27
+ 342. https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-and-net-core
+ 343. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-28
+ 344. https://devblogs.microsoft.com/dotnet/announcing-net-core-1-0/
+ 345. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-29
+ 346. https://devblogs.microsoft.com/dotnet/announcing-net-core-1-1/
+ 347. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-30
+ 348. https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0/
+ 349. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-31
+ 350. https://devblogs.microsoft.com/dotnet/announcing-net-core-3-1/
+ 351. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-Announcing5_32-0
+ 352. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-Announcing5_32-1
+ 353. https://devblogs.microsoft.com/dotnet/announcing-net-5-0/
+ 354. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-33
+ 355. https://alpinelinux.org/posts/Alpine-3.10.0-released.html
+ 356. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-34
+ 357. https://github.com/dotnet/core
+ 358. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-35
+ 359. https://aristeksystems.com/blog/top-3-dot-net-framework-trends-2021/#what-id-dot-net
+ 360. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-36
+ 361. https://blogs.msdn.microsoft.com/vbteam/2018/11/12/visual-basic-in-net-core-3-0/
+ 362. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-37
+ 363. https://devblogs.microsoft.com/vbteam/visual-basic-support-planned-for-net-5-0/
+ 364. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-Cater2016_38-0
+ 365. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-Cater2016_38-1
+ 366. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-Cater2016_38-2
+ 367. https://msdn.microsoft.com/magazine/mt694084
+ 368. file:///wiki/MSDN_Magazine
+ 369. file:///wiki/Microsoft
+ 370. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-Lander2018_39-0
+ 371. https://blogs.msdn.microsoft.com/dotnet/2018/05/07/net-core-3-and-support-for-windows-desktop-applications/
+ 372. file:///wiki/MSDN
+ 373. file:///wiki/Microsoft
+ 374. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-40
+ 375. https://devblogs.microsoft.com/dotnet/net-core-updates-coming-to-microsoft-update/
+ 376. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-41
+ 377. https://www.c-sharpcorner.com/blogs/understanding-net-framework-net-core-and-net-standard-and-future-net
+ 378. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-42
+ 379. https://blogs.msdn.microsoft.com/dotnet/2015/02/03/coreclr-is-now-open-source/
+ 380. file:///wiki/Microsoft
+ 381. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-43
+ 382. https://akfd.wordpress.com/2014/11/25/what-is-ryujit/
+ 383. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-45
+ 384. https://visualstudiomagazine.com/articles/2020/08/31/aot-survey.aspx
+ 385. https://web.archive.org/web/20201022100947/https://visualstudiomagazine.com/articles/2020/08/31/aot-survey.aspx
+ 386. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-46
+ 387. https://blogs.msdn.microsoft.com/dotnet/2014/12/04/introducing-net-core/
+ 388. file:///wiki/Microsoft
+ 389. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-47
+ 390. https://github.com/dotnet/corert/blob/master/Documentation/intro-to-corert.md
+ 391. file:///wiki/GitHub
+ 392. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-48
+ 393. https://github.com/dotnet/cli/blob/rel/1.0.0/Documentation/intro-to-cli.md
+ 394. file:///wiki/GitHub
+ 395. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-49
+ 396. https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui
+ 397. file:///tmp/lynxXXXX5FWhyr/L52529-8220TMP.html#cite_ref-50
+ 398. https://www.youtube.com/watch?v=OkHkQHurCIs
+ 399. file:///w/index.php?title=.NET&action=edit&section=8
+ 400. file:///wiki/ISBN_(identifier)
+ 401. file:///wiki/Special:BookSources/978-1800560567
+ 402. file:///wiki/ISBN_(identifier)
+ 403. file:///wiki/Special:BookSources/978-1617294273
+ 404. file:///wiki/ISBN_(identifier)
+ 405. file:///wiki/Special:BookSources/978-1801077361
+ 406. file:///wiki/ISBN_(identifier)
+ 407. file:///wiki/Special:BookSources/978-1800568105
+ 408. file:///wiki/ISBN_(identifier)
+ 409. file:///wiki/Special:BookSources/978-1788478120
+ 410. file:///wiki/ISBN_(identifier)
+ 411. file:///wiki/Special:BookSources/978-1788398077
+ 412. file:///wiki/ISBN_(identifier)
+ 413. file:///wiki/Special:BookSources/978-1787129559
+ 414. file:///wiki/ISBN_(identifier)
+ 415. file:///wiki/Special:BookSources/978-1785285691
+ 416. file:///wiki/ISBN_(identifier)
+ 417. file:///wiki/Special:BookSources/978-1788834094
+ 418. file:///w/index.php?title=.NET&action=edit&section=9
+ 419. https://en.wikibooks.org/wiki/.NET_Development_Foundation
+ 420. https://en.wikiversity.org/wiki/Introduction_to_.NET
+ 421. https://dotnet.microsoft.com/
+ 422. https://www.wikidata.org/wiki/Q21622213#P856
+ 423. https://github.com/Microsoft/dotnet
+ 424. file:///wiki/GitHub
+ 425. file:///wiki/Template:.NET_Framework
+ 426. file:///wiki/Template_talk:.NET_Framework
+ 427. file:///wiki/Special:EditPage/Template:.NET_Framework
+ 428. file:///wiki/Microsoft_.NET_strategy
+ 429. file:///wiki/List_of_.NET_libraries_and_frameworks
+ 430. file:///wiki/.NET_Framework
+ 431. file:///wiki/.NET_Framework_version_history
+ 432. file:///wiki/.NET_Compact_Framework
+ 433. file:///wiki/.NET_Micro_Framework
+ 434. file:///wiki/DotGNU
+ 435. file:///wiki/Mono_(software)
+ 436. file:///wiki/XNA_Framework
+ 437. file:///wiki/Software_architecture
+ 438. file:///wiki/Common_Language_Runtime
+ 439. file:///wiki/COM_Interop
+ 440. file:///wiki/Framework_Class_Library
+ 441. file:///wiki/Software_component
+ 442. file:///wiki/ADO.NET
+ 443. file:///wiki/Entity_Framework
+ 444. file:///wiki/ASP.NET
+ 445. file:///wiki/ASP.NET_Web_Forms
+ 446. file:///wiki/ASP.NET_AJAX
+ 447. file:///wiki/ASP.NET_Core
+ 448. file:///wiki/ASP.NET_Dynamic_Data
+ 449. file:///wiki/ASP.NET_MVC
+ 450. file:///wiki/ASP.NET_Razor
+ 451. file:///wiki/Avalonia_(software_framework)
+ 452. file:///wiki/ClickOnce
+ 453. file:///wiki/Dynamic_Language_Runtime
+ 454. file:///wiki/Extensible_Application_Markup_Language
+ 455. file:///wiki/Language_Integrated_Query
+ 456. file:///wiki/Managed_Extensibility_Framework
+ 457. file:///wiki/Microsoft_Silverlight
+ 458. file:///wiki/Microsoft_XNA
+ 459. file:///wiki/Parallel_Extensions
+ 460. file:///wiki/Windows_Communication_Foundation
+ 461. file:///wiki/WCF_Data_Services
+ 462. file:///wiki/Windows_Forms
+ 463. file:///wiki/Windows_Identity_Foundation
+ 464. file:///wiki/Windows_Presentation_Foundation
+ 465. file:///wiki/Windows_Workflow_Foundation
+ 466. file:///wiki/.NET_Remoting
+ 467. file:///wiki/Programming_tool
+ 468. file:///wiki/Decompiler
+ 469. file:///wiki/.NET_Reflector
+ 470. file:///wiki/JetBrains
+ 471. file:///wiki/Obfuscation_(software)
+ 472. file:///wiki/Dotfuscator
+ 473. file:///wiki/Redgate
+ 474. file:///wiki/CLR_Profiler
+ 475. file:///wiki/ILAsm
+ 476. file:///wiki/.NET_Compiler_Platform
+ 477. file:///wiki/Native_Image_Generator
+ 478. file:///wiki/XAMLPad
+ 479. file:///wiki/Integrated_development_environment
+ 480. file:///wiki/Microsoft_Visual_Studio
+ 481. file:///wiki/Microsoft_Blend
+ 482. file:///wiki/Microsoft_Visual_Studio_Express
+ 483. file:///wiki/MonoDevelop
+ 484. file:///wiki/SharpDevelop
+ 485. file:///wiki/Xamarin_Studio
+ 486. file:///wiki/.NET_Foundation
+ 487. file:///wiki/Microsoft
+ 488. file:///wiki/Xamarin
+ 489. file:///wiki/Category:.NET
+ 490. file:///wiki/.NET_Framework_version_history
+ 491. https://commons.wikimedia.org/wiki/Category:.NET
+ 492. file:///wiki/Template:Common_Language_Infrastructure
+ 493. file:///wiki/Template_talk:Common_Language_Infrastructure
+ 494. file:///wiki/Special:EditPage/Template:Common_Language_Infrastructure
+ 495. file:///wiki/Common_Language_Infrastructure
+ 496. file:///wiki/Application_domain
+ 497. file:///wiki/Code_Access_Security
+ 498. file:///wiki/Common_Intermediate_Language
+ 499. file:///wiki/List_of_CIL_instructions
+ 500. file:///wiki/Common_Type_System
+ 501. file:///wiki/Platform_Invocation_Services
+ 502. file:///wiki/Virtual_Execution_System
+ 503. file:///wiki/Assembly_(CLI)
+ 504. file:///wiki/Delegate_(CLI)
+ 505. file:///wiki/Global_Assembly_Cache
+ 506. file:///wiki/Manifest_(CLI)
+ 507. file:///wiki/Metadata_(CLI)
+ 508. file:///wiki/Standard_Libraries_(CLI)
+ 509. file:///wiki/.NET_Framework
+ 510. file:///wiki/.NET_Compact_Framework
+ 511. file:///wiki/.NET_Micro_Framework
+ 512. file:///wiki/Mono_(software)
+ 513. file:///wiki/DotGNU
+ 514. file:///wiki/List_of_CLI_languages
+ 515. file:///wiki/C_Sharp_(programming_language)
+ 516. file:///wiki/Visual_Basic_.NET
+ 517. file:///wiki/F_Sharp_(programming_language)
+ 518. file:///wiki/PowerShell
+ 519. file:///wiki/Axum_(programming_language)
+ 520. file:///wiki/A_Sharp_(.NET)
+ 521. file:///wiki/Boo_(programming_language)
+ 522. file:///wiki/Cobra_(programming_language)
+ 523. file:///wiki/C++/CLI
+ 524. file:///wiki/IronScheme
+ 525. file:///wiki/IronPython
+ 526. file:///wiki/IronRuby
+ 527. file:///wiki/JScript_.NET
+ 528. file:///wiki/Visual_J_Sharp
+ 529. file:///wiki/Nemerle
+ 530. file:///wiki/Oxygene_(programming_language)
+ 531. file:///wiki/Phalanger_(compiler)
+ 532. file:///wiki/Q_Sharp
+ 533. file:///wiki/Scala_(programming_language)
+ 534. file:///wiki/Microsoft_Small_Basic
+ 535. file:///wiki/Comparison_of_C_Sharp_and_Java
+ 536. file:///wiki/Comparison_of_C_Sharp_and_Visual_Basic_.NET
+ 537. file:///wiki/Comparison_of_Visual_Basic_and_Visual_Basic_.NET
+ 538. file:///wiki/Template:Microsoft_APIs
+ 539. file:///wiki/Template_talk:Microsoft_APIs
+ 540. file:///wiki/Special:EditPage/Template:Microsoft_APIs
+ 541. file:///wiki/List_of_Microsoft_Windows_application_programming_interfaces_and_frameworks
+ 542. file:///wiki/Desktop_Window_Manager
+ 543. file:///wiki/Direct2D
+ 544. file:///wiki/Direct3D
+ 545. file:///wiki/D3DX
+ 546. file:///wiki/Graphics_Device_Interface
+ 547. file:///wiki/Windows_Presentation_Foundation
+ 548. file:///wiki/Microsoft_Silverlight
+ 549. file:///wiki/Windows_UI_Library
+ 550. file:///wiki/Windows_Color_System
+ 551. file:///wiki/Windows_Image_Acquisition
+ 552. file:///wiki/Windows_Imaging_Component
+ 553. file:///wiki/DirectX_Graphics_Infrastructure
+ 554. file:///wiki/Windows_Advanced_Rasterization_Platform
+ 555. file:///wiki/WinG
+ 556. file:///wiki/DirectMusic
+ 557. file:///wiki/DirectSound
+ 558. file:///wiki/DirectX_plugin
+ 559. file:///wiki/Cross-platform_Audio_Creation_Tool
+ 560. file:///wiki/Microsoft_Speech_API
+ 561. file:///wiki/XAudio2
+ 562. file:///wiki/DirectX
+ 563. file:///wiki/DirectX_Media_Objects
+ 564. file:///wiki/DirectX_Video_Acceleration
+ 565. file:///wiki/Xinput
+ 566. file:///wiki/DirectInput
+ 567. file:///wiki/DirectShow
+ 568. file:///wiki/Image_Mastering_API
+ 569. file:///wiki/Managed_DirectX
+ 570. file:///wiki/Media_Foundation
+ 571. file:///wiki/Microsoft_XNA
+ 572. file:///wiki/Windows_Media
+ 573. file:///wiki/Video_for_Windows
+ 574. file:///wiki/Trident_(software)
+ 575. file:///wiki/Windows_RSS_Platform
+ 576. file:///wiki/JScript
+ 577. file:///wiki/VBScript
+ 578. file:///wiki/Browser_Helper_Object
+ 579. file:///wiki/XMLHttpRequest
+ 580. file:///wiki/Microsoft_Gadgets
+ 581. file:///wiki/TypeScript
+ 582. file:///wiki/Microsoft_Data_Access_Components
+ 583. file:///wiki/ActiveX_Data_Objects
+ 584. file:///wiki/ADO.NET
+ 585. file:///wiki/ODBC
+ 586. file:///wiki/OLE_DB
+ 587. file:///wiki/Extensible_Storage_Engine
+ 588. file:///wiki/Entity_Framework
+ 589. file:///wiki/Microsoft_Sync_Framework
+ 590. file:///wiki/Access_Database_Engine
+ 591. file:///wiki/MSXML
+ 592. file:///wiki/Open_Packaging_Conventions
+ 593. file:///wiki/Winsock
+ 594. file:///wiki/Layered_Service_Provider
+ 595. file:///wiki/Windows_Vista_networking_technologies#Winsock_Kernel
+ 596. file:///wiki/Windows_Filtering_Platform
+ 597. file:///wiki/Network_Driver_Interface_Specification
+ 598. file:///wiki/Windows_Rally
+ 599. file:///wiki/Background_Intelligent_Transfer_Service
+ 600. file:///wiki/Windows_Vista_networking_technologies#Peer-to-peer_communication
+ 601. file:///wiki/Microsoft_Message_Queuing
+ 602. file:///wiki/Microsoft_Messaging_Passing_Interface
+ 603. file:///wiki/DirectPlay
+ 604. file:///wiki/MAPI
+ 605. file:///wiki/Telephony_Application_Programming_Interface
+ 606. file:///wiki/Windows_Communication_Foundation
+ 607. file:///wiki/Win32_console
+ 608. file:///wiki/Windows_Script_Host
+ 609. file:///wiki/Windows_Management_Instrumentation
+ 610. file:///wiki/PowerShell
+ 611. file:///wiki/Windows_Task_Scheduler
+ 612. file:///wiki/Windows_Vista_I/O_technologies#Offline_Files
+ 613. file:///wiki/Shadow_Copy
+ 614. file:///wiki/Windows_Installer
+ 615. file:///wiki/Windows_Error_Reporting
+ 616. file:///wiki/Event_Viewer#Windows_Event_Log
+ 617. file:///wiki/Common_Log_File_System
+ 618. file:///wiki/Component-based_software_engineering
+ 619. file:///wiki/Component_Object_Model
+ 620. file:///wiki/Component_Object_Model#COM+
+ 621. file:///wiki/ActiveX
+ 622. file:///wiki/Distributed_Component_Object_Model
+ 623. file:///wiki/.NET_Framework
+ 624. file:///wiki/Library_(computing)
+ 625. file:///wiki/Framework_Class_Library
+ 626. file:///wiki/Microsoft_Foundation_Class_Library
+ 627. file:///wiki/Active_Template_Library
+ 628. file:///wiki/Windows_Template_Library
+ 629. file:///wiki/Device_driver
+ 630. file:///wiki/Windows_Driver_Model
+ 631. file:///wiki/Windows_Driver_Frameworks
+ 632. file:///wiki/Kernel-Mode_Driver_Framework
+ 633. file:///wiki/User-Mode_Driver_Framework
+ 634. file:///wiki/Windows_Display_Driver_Model
+ 635. file:///wiki/Network_Driver_Interface_Specification
+ 636. file:///wiki/Universal_Audio_Architecture
+ 637. file:///wiki/Broadcast_Driver_Architecture
+ 638. file:///wiki/VxD
+ 639. file:///wiki/Microsoft_CryptoAPI
+ 640. file:///wiki/CAPICOM
+ 641. file:///wiki/Windows_CardSpace
+ 642. file:///wiki/Data_Protection_API
+ 643. file:///wiki/Security_Support_Provider_Interface
+ 644. file:///wiki/.NET_Framework
+ 645. file:///wiki/ASP.NET
+ 646. file:///wiki/ADO.NET
+ 647. file:///wiki/.NET_Remoting
+ 648. file:///wiki/Microsoft_Silverlight
+ 649. file:///wiki/Task_Parallel_Library
+ 650. file:///wiki/Windows_Communication_Foundation
+ 651. file:///wiki/Windows_CardSpace
+ 652. file:///wiki/Windows_Presentation_Foundation
+ 653. file:///wiki/Windows_Workflow_Foundation
+ 654. file:///wiki/Software_Factory_(Microsoft_.NET)
+ 655. file:///wiki/Microsoft_Enterprise_Library
+ 656. file:///wiki/Composite_UI_Application_Block
+ 657. file:///wiki/Microsoft_Customer_Care_Framework
+ 658. file:///wiki/Microsoft_Connected_Services_Framework
+ 659. file:///wiki/Inter-process_communication
+ 660. file:///wiki/Microsoft_RPC
+ 661. file:///wiki/Dynamic_Data_Exchange
+ 662. file:///wiki/.NET_Remoting
+ 663. file:///wiki/Windows_Communication_Foundation
+ 664. file:///wiki/Microsoft_Active_Accessibility
+ 665. file:///wiki/Microsoft_UI_Automation
+ 666. file:///wiki/DirectWrite
+ 667. file:///wiki/Text_Services_Framework
+ 668. file:///wiki/Text_Object_Model
+ 669. file:///wiki/Input_method
+ 670. file:///wiki/Language_Interface_Pack
+ 671. file:///wiki/Multilingual_User_Interface
+ 672. file:///wiki/Uniscribe
+ 673. file:///wiki/Template:Microsoft_development_tools
+ 674. file:///wiki/Template_talk:Microsoft_development_tools
+ 675. file:///wiki/Special:EditPage/Template:Microsoft_development_tools
+ 676. file:///wiki/Microsoft_Visual_Studio
+ 677. file:///wiki/Visual_Studio_Code
+ 678. file:///wiki/Microsoft_Visual_Studio_Express
+ 679. file:///wiki/VSTS_Profiler
+ 680. file:///wiki/Visual_Studio_Tools_for_Applications
+ 681. file:///wiki/Visual_Studio_Tools_for_Office
+ 682. file:///wiki/Microsoft_Blend
+ 683. file:///wiki/Microsoft_Expression_Web
+ 684. file:///wiki/FxCop
+ 685. file:///wiki/GW-BASIC
+ 686. file:///wiki/Microsoft_MACRO-80
+ 687. file:///wiki/Microsoft_Macro_Assembler
+ 688. file:///wiki/MSBuild
+ 689. file:///wiki/Microsoft_Pascal
+ 690. file:///wiki/QuickBASIC
+ 691. file:///wiki/QBasic
+ 692. file:///wiki/QuickC
+ 693. file:///wiki/Microsoft_Robotics_Developer_Studio
+ 694. file:///wiki/Roslyn_(compiler)
+ 695. file:///wiki/Microsoft_SharePoint_Designer
+ 696. file:///wiki/Microsoft_FrontPage
+ 697. file:///wiki/Microsoft_Small_Basic
+ 698. file:///wiki/Microsoft_WebMatrix
+ 699. file:///wiki/Windows_App_SDK
+ 700. file:///wiki/Windows_App_Studio
+ 701. file:///wiki/Microsoft_Windows_SDK
+ 702. file:///wiki/CLR_Profiler
+ 703. file:///wiki/ILAsm
+ 704. file:///wiki/Native_Image_Generator
+ 705. file:///wiki/WinDiff
+ 706. file:///wiki/XAMLPad
+ 707. file:///wiki/Microsoft_Dynamics_AX
+ 708. file:///wiki/Microsoft_BASIC
+ 709. file:///wiki/Visual_Basic_(classic)
+ 710. file:///wiki/Visual_Basic_.NET
+ 711. file:///wiki/Visual_Basic_for_Applications
+ 712. file:///wiki/VBScript
+ 713. file:///wiki/Bosque_(programming_language)
+ 714. file:///wiki/Microsoft_Visual_C++
+ 715. file:///wiki/C++/CX
+ 716. file:///wiki/C++/CLI
+ 717. file:///wiki/Managed_Extensions_for_C++
+ 718. file:///wiki/C++/WinRT
+ 719. file:///wiki/C_Sharp_(programming_language)
+ 720. file:///wiki/C/AL
+ 721. file:///wiki/Dafny
+ 722. file:///wiki/Dexterity_(programming_language)
+ 723. file:///wiki/F_Sharp_(programming_language)
+ 724. file:///wiki/F*_(programming_language)
+ 725. file:///wiki/Visual_FoxPro
+ 726. file:///wiki/Java_(programming_language)
+ 727. file:///wiki/Visual_J++
+ 728. file:///wiki/Visual_J_Sharp
+ 729. file:///wiki/JavaScript
+ 730. file:///wiki/TypeScript
+ 731. file:///wiki/JScript
+ 732. file:///wiki/IronPython
+ 733. file:///wiki/IronRuby
+ 734. file:///wiki/Lean_(proof_assistant)
+ 735. file:///wiki/P_(programming_language)
+ 736. file:///wiki/Microsoft_Power_Fx
+ 737. file:///wiki/PowerShell
+ 738. file:///wiki/Project_Verona
+ 739. file:///wiki/Q_Sharp
+ 740. file:///wiki/Microsoft_Small_Basic
+ 741. file:///wiki/Microsoft_Visual_Programming_Language
+ 742. file:///wiki/Extensible_Application_Markup_Language
+ 743. file:///wiki/Windows_API
+ 744. file:///wiki/Microsoft_Silverlight
+ 745. file:///wiki/Microsoft_XNA
+ 746. file:///wiki/DirectX
+ 747. file:///wiki/Managed_DirectX
+ 748. file:///wiki/Universal_Windows_Platform
+ 749. file:///wiki/Xbox_Development_Kit
+ 750. file:///wiki/Windows_Installer
+ 751. file:///wiki/WinUI
+ 752. file:///wiki/ASP.NET
+ 753. file:///wiki/ASP.NET_Core
+ 754. file:///wiki/ASP.NET_AJAX
+ 755. file:///wiki/ASP.NET_Dynamic_Data
+ 756. file:///wiki/ASP.NET_MVC
+ 757. file:///wiki/ASP.NET_Razor
+ 758. file:///wiki/ASP.NET_Web_Forms
+ 759. file:///wiki/ADO.NET
+ 760. file:///wiki/Entity_Framework
+ 761. file:///wiki/.NET_MAUI
+ 762. file:///wiki/Windows_CardSpace
+ 763. file:///wiki/Windows_Communication_Foundation
+ 764. file:///wiki/Windows_Identity_Foundation
+ 765. file:///wiki/Language_Integrated_Query
+ 766. file:///wiki/Windows_Presentation_Foundation
+ 767. file:///wiki/Windows_Workflow_Foundation
+ 768. file:///wiki/Device_driver
+ 769. file:///wiki/Windows_Driver_Kit
+ 770. file:///wiki/Windows_Driver_Frameworks
+ 771. file:///wiki/Kernel-Mode_Driver_Framework
+ 772. file:///wiki/User-Mode_Driver_Framework
+ 773. file:///wiki/Windows_Hardware_Lab_Kit
+ 774. file:///wiki/Windows_Driver_Model
+ 775. file:///wiki/Microsoft_SQL_Server
+ 776. file:///wiki/SQL_Server_Express
+ 777. file:///wiki/SQL_Server_Compact
+ 778. file:///wiki/SQL_Server_Management_Studio
+ 779. file:///wiki/Business_Intelligence_Development_Studio
+ 780. file:///wiki/MSDE
+ 781. file:///wiki/Microsoft_Analysis_Services
+ 782. file:///wiki/SQL_Server_Reporting_Services
+ 783. file:///wiki/SQL_Server_Integration_Services
+ 784. file:///wiki/SQL_Server_Notification_Services
+ 785. file:///wiki/Visual_FoxPro
+ 786. file:///wiki/Microsoft_Access
+ 787. file:///wiki/Access_Database_Engine
+ 788. file:///wiki/Extensible_Storage_Engine
+ 789. file:///wiki/Microsoft_Visual_SourceSafe
+ 790. file:///wiki/Azure_DevOps_Server#TFVC
+ 791. file:///wiki/CodeView
+ 792. file:///wiki/OneFuzz
+ 793. file:///wiki/Playwright_(software)
+ 794. file:///wiki/Microsoft_Script_Debugger
+ 795. file:///wiki/WinDbg
+ 796. file:///wiki/XUnit.net
+ 797. file:///wiki/Active_Setup
+ 798. file:///wiki/ClickOnce
+ 799. file:///wiki/Npm_(software)
+ 800. file:///wiki/NuGet
+ 801. file:///wiki/Vcpkg
+ 802. file:///wiki/Web_Platform_Installer
+ 803. file:///wiki/Windows_Installer
+ 804. file:///wiki/WiX
+ 805. file:///wiki/Windows_Package_Manager
+ 806. file:///wiki/Microsoft_Store
+ 807. file:///wiki/Category:Microsoft_development_tools
+ 808. file:///wiki/Template:Microsoft_FOSS
+ 809. file:///wiki/Template_talk:Microsoft_FOSS
+ 810. file:///wiki/Special:EditPage/Template:Microsoft_FOSS
+ 811. file:///wiki/Microsoft
+ 812. file:///wiki/Free_and_open-source_software
+ 813. file:///wiki/Microsoft_and_open_source
+ 814. file:///wiki/Shared_Source_Initiative
+ 815. file:///wiki/3D_Movie_Maker
+ 816. file:///wiki/Atom_(text_editor)
+ 817. file:///wiki/Conference_XP
+ 818. file:///wiki/Family.Show
+ 819. file:///wiki/File_Manager_(Windows)
+ 820. file:///wiki/Open_Live_Writer
+ 821. file:///wiki/Microsoft_PowerToys
+ 822. file:///wiki/Windows_Terminal
+ 823. file:///wiki/Windows_Calculator
+ 824. file:///wiki/Windows_Console
+ 825. file:///wiki/Windows_Package_Manager
+ 826. file:///wiki/WorldWide_Telescope
+ 827. file:///wiki/XML_Notepad
+ 828. file:///wiki/Allegiance_(video_game)
+ 829. file:///wiki/Bosque_(programming_language)
+ 830. file:///wiki/C_Sharp_(programming_language)
+ 831. file:///wiki/Dafny
+ 832. file:///wiki/F_Sharp_(programming_language)
+ 833. file:///wiki/F*_(programming_language)
+ 834. file:///wiki/GW-BASIC
+ 835. file:///wiki/IronPython
+ 836. file:///wiki/IronRuby
+ 837. file:///wiki/Lean_(proof_assistant)
+ 838. file:///wiki/P_(programming_language)
+ 839. file:///wiki/Microsoft_Power_Fx
+ 840. file:///wiki/PowerShell
+ 841. file:///wiki/Project_Verona
+ 842. file:///wiki/Q_Sharp
+ 843. file:///wiki/Microsoft_Small_Basic
+ 844. file:///wiki/TypeScript
+ 845. file:///wiki/Visual_Basic_.NET
+ 846. file:///wiki/.NET_Framework
+ 847. file:///wiki/.NET_Gadgeteer
+ 848. file:///wiki/.NET_MAUI
+ 849. file:///wiki/.NET_Micro_Framework
+ 850. file:///wiki/AirSim
+ 851. file:///wiki/ASP.NET
+ 852. file:///wiki/ASP.NET_AJAX
+ 853. file:///wiki/ASP.NET_Core
+ 854. file:///wiki/ASP.NET_MVC
+ 855. file:///wiki/ASP.NET_Razor
+ 856. file:///wiki/ASP.NET_Web_Forms
+ 857. file:///wiki/Avalonia_(software_framework)
+ 858. file:///wiki/Babylon.js
+ 859. file:///wiki/BitFunnel
+ 860. file:///wiki/Blazor
+ 861. file:///wiki/C++/WinRT
+ 862. file:///wiki/Confidential_Consortium_Framework
+ 863. file:///wiki/Chakra_(JavaScript_engine)
+ 864. file:///wiki/CLR_Profiler
+ 865. file:///wiki/Dapr
+ 866. file:///wiki/DeepSpeed
+ 867. file:///wiki/DiskSpd
+ 868. file:///wiki/Dryad_(programming)
+ 869. file:///wiki/Dynamic_Language_Runtime
+ 870. file:///wiki/EBPF_on_Windows
+ 871. file:///wiki/Electron_(software_framework)
+ 872. file:///wiki/Entity_Framework
+ 873. file:///wiki/Fluent_Design_System
+ 874. file:///wiki/Fluid_Framework
+ 875. file:///wiki/Infer.NET
+ 876. file:///wiki/LightGBM
+ 877. file:///wiki/Managed_Extensibility_Framework
+ 878. file:///wiki/Microsoft_Automatic_Graph_Layout
+ 879. file:///wiki/Microsoft_C++_Standard_Library
+ 880. file:///wiki/Microsoft_Cognitive_Toolkit
+ 881. file:///wiki/Metro_(design_language)
+ 882. file:///wiki/Microsoft_Detours
+ 883. file:///wiki/Microsoft_Enterprise_Library
+ 884. file:///wiki/Microsoft_SEAL
+ 885. file:///wiki/Mimalloc
+ 886. file:///wiki/Mixed_Reality_Toolkit
+ 887. file:///wiki/ML.NET
+ 888. file:///wiki/Mod_mono
+ 889. file:///wiki/Mono_(software)
+ 890. file:///wiki/MonoDevelop
+ 891. file:///wiki/MSBuild
+ 892. file:///wiki/MsQuic
+ 893. file:///wiki/Neural_Network_Intelligence
+ 894. file:///wiki/Npm
+ 895. file:///wiki/NuGet
+ 896. file:///wiki/OneFuzz
+ 897. file:///wiki/Open_Management_Infrastructure
+ 898. file:///wiki/Open_Neural_Network_Exchange
+ 899. file:///wiki/Open_Service_Mesh
+ 900. file:///wiki/Open_XML_SDK
+ 901. file:///wiki/Orleans_(software_framework)
+ 902. file:///wiki/Playwright_(software)
+ 903. file:///wiki/ProcDump
+ 904. file:///wiki/Process_Monitor
+ 905. file:///wiki/Python_Tools_for_Visual_Studio
+ 906. file:///wiki/R_Tools_for_Visual_Studio
+ 907. file:///wiki/RecursiveExtractor
+ 908. file:///wiki/Roslyn_(compiler)
+ 909. file:///wiki/Sandcastle_(software)
+ 910. file:///wiki/SignalR
+ 911. file:///wiki/StyleCop
+ 912. file:///wiki/SVNBridge
+ 913. file:///wiki/T2_Temporal_Prover
+ 914. file:///wiki/Text_Template_Transformation_Toolkit
+ 915. file:///wiki/TLA+_Toolbox
+ 916. file:///wiki/U-Prove
+ 917. file:///wiki/Vcpkg
+ 918. file:///wiki/Virtual_File_System_for_Git
+ 919. file:///wiki/Voldemort_(distributed_data_store)
+ 920. file:///wiki/VoTT
+ 921. file:///wiki/Vowpal_Wabbit
+ 922. file:///wiki/Windows_App_SDK
+ 923. file:///wiki/Windows_Communication_Foundation
+ 924. file:///wiki/Windows_Driver_Frameworks
+ 925. file:///wiki/Kernel-Mode_Driver_Framework
+ 926. file:///wiki/User-Mode_Driver_Framework
+ 927. file:///wiki/Windows_Forms
+ 928. file:///wiki/Windows_Presentation_Foundation
+ 929. file:///wiki/Windows_Template_Library
+ 930. file:///wiki/Windows_UI_Library
+ 931. file:///wiki/WinJS
+ 932. file:///wiki/WinObjC
+ 933. file:///wiki/WiX
+ 934. file:///wiki/XDP_for_Windows
+ 935. file:///wiki/XSP_(software)
+ 936. file:///wiki/XUnit.net
+ 937. file:///wiki/Z3_Theorem_Prover
+ 938. file:///wiki/MS-DOS
+ 939. file:///wiki/Barrelfish_(operating_system)
+ 940. file:///wiki/SONiC_(operating_system)
+ 941. file:///wiki/Azure_Linux
+ 942. file:///wiki/ChronoZoom
+ 943. file:///wiki/Extensible_Storage_Engine
+ 944. file:///wiki/FlexWiki
+ 945. file:///wiki/FourQ
+ 946. file:///wiki/Gollum_(software)
+ 947. file:///wiki/Project_Mu
+ 948. file:///wiki/ReactiveX
+ 949. file:///wiki/SILK
+ 950. file:///wiki/TLAPS
+ 951. file:///wiki/TPM_2.0_Reference_Implementation
+ 952. file:///wiki/WikiBhasha
+ 953. file:///wiki/Open-source_license
+ 954. file:///wiki/Microsoft_Public_License
+ 955. file:///wiki/Microsoft_Reciprocal_License
+ 956. file:///wiki/Forge_(software)
+ 957. file:///wiki/CodePlex
+ 958. file:///wiki/GitHub
+ 959. file:///wiki/.NET_Foundation
+ 960. file:///wiki/F_Sharp_Software_Foundation
+ 961. file:///wiki/Microsoft_Open_Specification_Promise
+ 962. file:///wiki/Open_Letter_to_Hobbyists
+ 963. file:///wiki/Open_Source_Security_Foundation
+ 964. file:///wiki/Outercurve_Foundation
+ 965. file:///wiki/Category:Microsoft_free_software
+ 966. https://en.wikipedia.org/w/index.php?title=.NET&oldid=1267294881
+ 967. file:///wiki/Help:Category
+ 968. file:///wiki/Category:.NET_implementations
+ 969. file:///wiki/Category:Cross-platform_software
+ 970. file:///wiki/Category:Microsoft_application_programming_interfaces
+ 971. file:///wiki/Category:Microsoft_development_tools
+ 972. file:///wiki/Category:Microsoft_free_software
+ 973. file:///wiki/Category:Software_using_the_MIT_license
+ 974. file:///wiki/Category:2016_software
+ 975. file:///wiki/Category:Articles_containing_Japanese-language_text
+ 976. file:///wiki/Category:Articles_with_short_description
+ 977. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 978. file:///wiki/Category:Use_American_English_from_July_2022
+ 979. file:///wiki/Category:All_Wikipedia_articles_written_in_American_English
+ 980. file:///wiki/Category:Use_mdy_dates_from_July_2022
+ 981. file:///wiki/Category:All_articles_with_unsourced_statements
+ 982. file:///wiki/Category:Articles_with_unsourced_statements_from_September_2023
+ 983. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 984. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 985. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 986. https://wikimediafoundation.org/
+ 987. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 988. file:///wiki/Wikipedia:About
+ 989. file:///wiki/Wikipedia:General_disclaimer
+ 990. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 991. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 992. https://developer.wikimedia.org/
+ 993. https://stats.wikimedia.org/#/en.wikipedia.org
+ 994. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 995. file://en.m.wikipedia.org/w/index.php?title=.NET&mobileaction=toggle_view_mobile
+ 996. https://wikimediafoundation.org/
+ 997. https://www.mediawiki.org/
+
+   Hidden links:
+ 999. file://localhost/wiki/File:Wikibooks-logo-en-noslogan.svg
+1000. file://localhost/wiki/File:Wikiversity_logo_2017.svg
