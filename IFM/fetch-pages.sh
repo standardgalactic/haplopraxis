@@ -12,7 +12,7 @@ MIN_DELAY=2                              # Minimum delay in seconds
 
 MAX_DELAY=5                              # Maximum delay in seconds
 
-USER_AGENT="WikiFetcher/1.0 (my_username; my_email)"  # Descriptive User-Agent
+USER_AGENT="WikiFetcher/1.0 (Mechachleopteryx; nateguimondart@gmail.com)"  # Descriptive User-Agent
 
 ERROR_LOG="error.log"                    # File to log errors
 
