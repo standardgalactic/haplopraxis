@@ -3,6 +3,7 @@
 !1streadme.txt
 "Weird Al" Yankovic
 "anchoring" in journalism
+(Bis(trifluoroacetoxy)iodo)benzene
 *-algebra
 *-autonomous category
 *-homomorphism
@@ -1183,6 +1184,7 @@ ANSEL
 ANSI C
 ANSI-SPARC Architecture
 ANSI/ASA S1.1-2013
+ANSI/TIA-568
 ANTLR
 ANY
 AO Arena
@@ -1396,6 +1398,7 @@ Abantiades
 Abantiades atripalpis
 Abantis contigua
 Abaris Books
+Abaucin
 Abbas El Gamal
 Abbas Kiarostami
 Abbas ibn Abd al-Muttalib
@@ -2182,6 +2185,7 @@ Acetorphine
 Acetyl
 Acetyl chloride
 Acetyl cyanide
+Acetyl fluoride
 Acetyl group
 Acetyl hypochlorite
 Acetyl-CoA
@@ -2305,6 +2309,7 @@ Acidum
 Acid–base homeostasis
 Acid–base reaction
 Acid–base titration
+Acifluorfen
 Acipenser
 Acipenseriformes
 Ackermann function
@@ -2931,6 +2936,7 @@ Adaptive sort
 Adaptive system
 Adaptive unconscious
 Adaptive-additive algorithm
+Adarigiline
 Add Violence
 Added mass
 Addendum
@@ -3663,6 +3669,7 @@ Aforamiento
 Afourar
 Afourer Pumped Storage Station
 Afouène Gharbi
+Afoxolaner
 Afri
 Africa
 Africa Septentrionalis
@@ -4746,6 +4753,7 @@ Alexander Agassiz
 Alexander Aitken
 Alexander Alexandrovich Chuprov
 Alexander Armstrong
+Alexander Bard
 Alexander Behm
 Alexander Beilinson
 Alexander Belyaev
@@ -5583,6 +5591,7 @@ Almgren's isomorphism theorem
 Almgren–Pitts min-max theory
 Almira Hart Lincoln Phelps
 Almira Lincoln Phelps
+Almorexant
 Almost
 Almost Kähler manifold
 Almost Mathieu operator
@@ -6819,6 +6828,7 @@ An injury to one is an injury to all
 Ana
 Ana Aslan
 Ana Bela Cruzeiro
+Ana Birchall
 Ana Cannas da Silva
 Ana Caraiani
 Ana Casís
@@ -8415,6 +8425,7 @@ Antimicrobial peptides
 Antimicrobial resistance
 Antimicrobial therapy
 Antimonate
+Antimony
 Antimony pentachloride
 Antimony pentoxide
 Antinatalism
@@ -8574,6 +8585,7 @@ Antony House
 Antony Hämäläinen
 Antony and Cleopatra
 Antony, Hauts-de-Seine
+Antrafenine
 Antrimpos
 Antropologia
 Antropologie
@@ -9947,6 +9959,7 @@ Arsenic
 Arsenic acid
 Arsenic trifluoride
 Arsenic trioxide
+Arsenical
 Arsenical bronze
 Arsenite mineral
 Arsenite-antimonite transporter
@@ -10091,6 +10104,7 @@ Arthur Pardee
 Arthur Porges
 Arthur Prior
 Arthur Rosenthal
+Arthur Rudolf Hantzsch
 Arthur Samuel
 Arthur Sard
 Arthur Schnitzler
@@ -11265,6 +11279,7 @@ Audio Bullys
 Audio Interchange File Format
 Audio Lessonover?
 Audio Lossless Coding
+Audio Networking
 Audio amplifier
 Audio and video interfaces and connectors
 Audio bit depth
@@ -11285,6 +11300,7 @@ Audio frequency
 Audio headset
 Audio induction loop
 Audio mining
+Audio networking
 Audio normalization
 Audio over Ethernet
 Audio over IP
@@ -15161,6 +15177,7 @@ Bewegte Männer
 Bewegung Morgenlicht
 Bewegung Nurr
 Bexarotene
+Beyk Pulad
 Beyoncé
 Beyond CMOS
 Beyond Language
@@ -16543,6 +16560,7 @@ Blastocyst
 Blastocystis
 Blastocystosis
 Blastoderm
+Blastoid
 Blastomere
 Blastomycosis
 Blastophaga psenes
@@ -18545,9 +18563,12 @@ Bromination
 Bromine
 Bromine test
 Bromism
+Bromodifluoromethane
 Bromoethane
+Bromofluoromethane
 Bromoform
 Bromomethane
+Bromotrifluoromethane
 Bronchi
 Bronchial asthma
 Bronchiole
@@ -19824,6 +19845,7 @@ CVSL
 CW complex
 CW-complex
 CXCR5
+CYB210010
 CYCLADES
 CYK algorithm
 CZ
@@ -19891,6 +19913,7 @@ Cache-oblivious distribution sort
 Cache-only memory architecture
 Cacodemon
 Cacoo
+Cacostola simplex
 Cactaceae
 Cactoblastis
 Cactoblastis bucyrus
@@ -20485,6 +20508,7 @@ Candidate solution
 Candidato
 Candidatus
 Candidatus Glomeribacter gigasporarum
+Candidatus Melainabacteria
 Candide
 Candidiasis
 Candido's identity
@@ -21786,6 +21810,7 @@ Castile
 Castile and León
 Castilian
 Castilian Civil War
+Castilian House of Burgundy
 Castilian House of Ivrea
 Castilian Left
 Castilian Party
@@ -29055,6 +29080,7 @@ Conocimiento declarativo
 Conocimiento procedimental
 Conodont
 Conoid
+Conoidasida
 Conoidea
 Conolophus
 Conolophus marthae
@@ -30234,6 +30260,7 @@ Copper metallurgy in Africa
 Copper mining
 Copper oxide
 Copper sulfate
+Copper(II) trifluoroacetate
 Copper, Bronze and Iron Age sites in Kosovo
 Copper-free click chemistry
 Coppersmith
@@ -30788,6 +30815,7 @@ Cottontail rabbit
 Cottonwood
 Cotton–Mouton effect
 Cottrell atmosphere
+Cotyclytus basalis
 Cotyledon
 Coucal
 Couchbase Server
@@ -31745,6 +31773,7 @@ Crustal thickening
 Crustose
 Cruz de la abadesa Matilde
 Cry of a Prostitute
+Crymych
 Cryo-adsorption
 Cryobiology
 Cryoconservation of animal genetic resources
@@ -32717,6 +32746,7 @@ Cycloisomerization
 Cyclol
 Cyclol reaction
 Cyclomatic complexity
+Cyclomatic number
 Cyclometer
 Cyclone
 Cyclone Bulbul
@@ -34332,6 +34362,7 @@ Darkforce
 Darkling beetle
 Darkness
 Darko Macan
+Darko Šuković
 Darkstars
 Darling Downs
 Darmois–Skitovich theorem
@@ -37050,6 +37081,9 @@ Diazoxide
 Dibasic acid
 Dibatag
 Diborane
+Dibromodifluoromethane
+Dibromofluoromethane
+Dibromotetrafluoroethane
 Dibujo
 Dicaearchus
 Dicaeum
@@ -37712,11 +37746,13 @@ Dimethyl terephthalate
 Dimethyl tetrachloroterephthalate
 Dimethyl trisulfide
 Dimethyl trithiocarbonate
+Dimethyl(trifluoromethylthio)arsine
 Dimethyl-4-phenylenediamine
 Dimethyl-sulfide monooxygenase
 Dimethylacetamide
 Dimethylamine
 Dimethylbenzylamine
+Dimethylcarbamoyl fluoride
 Dimethylcurcumin
 Dimethyldioctadecylammonium bromide
 Dimethyldioctadecylammonium chloride
@@ -39826,6 +39862,8 @@ Draconinae
 Dracula and Son
 Draft angle
 Draft horse
+Draft:Move/Black-and-white
+Draft:Move/N,N-Dimethyltryptamine
 Drafter
 Drag and drop
 Drag coefficient
@@ -43446,6 +43484,7 @@ Elvis Presley
 Elvis Stojko
 Elvis operator
 Elvish languages
+Elvucitabine
 Elwin Bruno Christoffel
 Elwin Marg
 Ely
@@ -43653,6 +43692,7 @@ Emily E. Witt
 Emily Kathryn Wyant
 Emily Lakdawalla
 Emily Murphy
+Emily Poynton Weaver
 Emily Siedeberg
 Emily Temple-Wood
 Emily Warren Roebling
@@ -43848,6 +43888,7 @@ Empty sum
 Empyema
 Empyrean
 Empúries
+Emtricitabine
 Emulate
 Emulation
 Emulation Lodge of Improvement
@@ -44260,6 +44301,7 @@ Enfermedad mental
 Enfield London Borough Council elections
 Enfield, Connecticut
 Enfield, London
+Enflurane
 Enforced disappearances in Bangladesh
 Enforcement Acts
 Enforcement Directive
@@ -45006,6 +45048,7 @@ Epithelial tissue
 Epithelioid cell
 Epithelium
 Epithet
+Epitizide
 Epitola
 Epitola posthumus
 Epitola urania
@@ -46110,6 +46153,7 @@ Ethology
 Ethoxylation
 Ethyl acetate
 Ethyl acetoacetate
+Ethyl bromodifluoroacetate
 Ethyl carbamate
 Ethyl cyanoacrylate
 Ethyl diazoacetate
@@ -48582,6 +48626,7 @@ Fashion boot
 Fashion doll
 Fashion show
 Fashionable Nonsense
+Fast Ethernet
 Fast Fourier transform
 Fast Kalman filter
 Fast Times at Barrington High
@@ -50472,6 +50517,7 @@ Flavylium
 Flax
 Flea
 Flea market
+Flecainide
 Flechette
 Flection
 Fleet in being
@@ -50505,6 +50551,7 @@ Flexor digitorum profundus muscle
 Flexor pollicis longus muscle
 Flexural modulus
 Flexural strength
+Flibanserin
 Flicker fusion threshold
 Flicker noise
 Flickerfest
@@ -50633,6 +50680,7 @@ Flocking
 Floer homology
 Flohwalzer
 Floian
+Flomoxef
 Flood
 Flood Brothers Disposal
 Flood arch
@@ -50662,6 +50710,7 @@ Floppy disk format
 Floppy disk hardware emulator
 Floppy disk variants
 Floppy-disk controller
+Flopristin
 Flopsy
 Floptical
 Flora
@@ -50699,6 +50748,7 @@ Florentina Mosora
 Florentino Ameghino
 Florentius of Peterborough
 Flores, Petén
+Florfenicol
 Floriacum ad Olnam
 Florian Munteanu
 Florian Znaniecki
@@ -50763,6 +50813,7 @@ Flower snark
 Flowering plant
 Flowering plants
 Flowgorithm
+Floxuridine
 Floy Agnes Lee
 Floyd Henry Allport
 Floyd Mayweather Jr.
@@ -50771,6 +50822,7 @@ Floyd's cycle-finding algorithm
 Floyd–Steinberg dithering
 Floyd–Warshall algorithm
 Fluasterone
+Fluazacort
 Fluazinam
 Fluctuat nec mergitur
 Fluctuating selection
@@ -50860,15 +50912,24 @@ Fluorosulfonate
 Fluorosulfuric acid
 Fluorouracil
 Fluoxetine
+Flupentixol
+Fluphenazine
+Fluprazine
+Flupropadine
+Fluralaner
 Fluridone
+Fluroxene
 Flush toilet
 Flushwork
+Flutamide
 Flute
 Flute, viola and harp
+Fluvalinate
 Fluvial landforms of streams
 Fluvial processes
 Fluvial sediment processes
 Fluvial sedimentation processes
+Fluvoxamine
 Flux
 Flux density
 Flux limiter
@@ -51611,6 +51672,7 @@ Formulation
 Formulæ
 Formwork
 Formyl
+Formyl fluoride
 Formyl group
 Formylaspartate deformylase
 Formylmethionine deformylase
@@ -51747,6 +51809,8 @@ Forward-looking infrared
 Forwarding Plane temporary redirect
 Forwarding plane
 Forward–backward algorithm
+Fosaprepitant
+Fosdagrocorat
 Fosfato
 Fosfestrol
 Fosfomycin
@@ -61203,6 +61267,7 @@ Haloketone
 Halomethane
 Halonoproctidae
 Halophile
+Halopropane
 Haloquadratum
 Halorhodopsin
 Halosaccion glandiforme
@@ -61561,6 +61626,7 @@ Hanshin Industrial Region
 Hansjürgen Reinicke
 Hanspeter Kriesi
 Hants County, Nova Scotia
+Hantzsch–Widman nomenclature
 Hanukkah
 Hanuman
 Hanyu Shuiping Kaoshi
@@ -64035,6 +64101,7 @@ Hexaethyl tetraphosphate
 Hexaferrum
 Hexaflake
 Hexafluoride
+Hexafluoroacetone
 Hexafluoroplatinate
 Hexafluorosilicic acid
 Hexagon
@@ -71809,6 +71876,9 @@ Isotropic radiation
 Isotropic space
 Isotropy
 Isovitexin
+Isoxazole
+Isoxazolidine
+Isoxazoline
 Isozyme
 Isozymes
 Ispell
@@ -72544,6 +72614,7 @@ Jan Schreiber
 Jan Smuts
 Jan Svatopluk Presl
 Jan Swammerdam
+Jan Söderqvist
 Jan Tinbergen
 Jan Tschichold
 Jan Weiss
@@ -73555,6 +73626,7 @@ John Evelyn
 John Everett Millais
 John F. Kennedy
 John Farrah
+John Farrell (bishop)
 John Ferren
 John Ferrour
 John Flamsteed
@@ -78034,6 +78106,7 @@ Laminate
 Laminate flooring
 Laminated glass
 Lamination
+Lamivudine
 Lamm equation
 Lamont Young
 Lampblack
@@ -78294,6 +78367,7 @@ Language families
 Language family
 Language festival
 Language game
+Language games/Talk
 Language geography
 Language identification
 Language ideology
@@ -80026,6 +80100,7 @@ Lercanidipine
 Lerch transcendent
 Lerch zeta function
 Lerche–Newberger sum rule
+Leritrelvir
 Lerna
 Lernaean Hydra
 Lernmatrix
@@ -81878,6 +81953,7 @@ Liturgical Latinization
 Liturgical music
 Liturgical year
 Liturgy
+Litz wire
 Liu An
 Liu Bang
 Liu Cixin
@@ -81905,6 +81981,7 @@ Livermore, California
 Livermorium
 Liverpool
 Liverpool Bay
+Liverwort
 Livery
 Livery company
 Livestock
@@ -83129,6 +83206,7 @@ Lorna Stewart
 Lorna Swain
 Lorne Balfe
 Lorneville, New Brunswick
+Lorpiprazole
 Lorraine
 Lorraine Code
 Lorraine Kelly
@@ -84151,6 +84229,7 @@ Luxury vehicle
 Luyium
 Luyten's Star
 Luzhou Yunlong Airport
+Luzhu District, Taoyuan
 Luzon
 Luís Alves de Lima e Silva, Duke of Caxias
 Luís Filipe Silva
@@ -84365,6 +84444,7 @@ Löfven I Cabinet
 Löfven I cabinet
 Löllbach
 Löwenheim–Skolem theorem
+Lúcia França
 Lúcia Maria Mendes Gonçalves dos Passos
 Lübeck
 Lübke English
@@ -85325,6 +85405,7 @@ Main clause
 Main conjecture of Iwasawa theory
 Main contention
 Main diagonal
+Main distribution frame
 Main group element
 Main memory
 Main sequence
@@ -85724,6 +85805,7 @@ Managed care
 Managed code
 Managed file transfer
 Management
+Management Data Input/Output
 Management accounting
 Management and Economic Simulation Exercise
 Management by objectives
@@ -86867,6 +86949,7 @@ Marquess of Bath
 Marquette, Nebraska
 Marquis de Condorcet
 Marrakesh Agreement
+Marrakesh Agreement/temp
 Marrakesh-Safi
 Marrakesh–Safi
 Marriage
@@ -93984,6 +94067,7 @@ Monday Club
 Mondegreen
 Monel
 Monema flavescens
+Monepantel
 Monera
 MonetDB
 Monetaria annulus
@@ -96194,6 +96278,7 @@ Musicians Seamounts
 Musicians of the King's Road
 Musicians of the Kingdom of Mysore
 Musicians of the Old Post Road
+Musicians of the kingdom of Mysore
 Musicians without Borders
 Musicians' Union of Maldives
 Musicians' Village
@@ -101042,6 +101127,7 @@ Norethisterone acetate
 Norethisterone enanthate
 Noretta Koertge
 Noretynodrel
+Norflurane
 Norfolk
 Norfolk Broads
 Norfolk Island
@@ -101168,6 +101254,7 @@ Norman Borlaug
 Norman Boyd Kinnear
 Norman Conquest
 Norman Fairclough
+Norman Foster
 Norman Foster, Baron Foster of Thames Bank
 Norman Fucking Rockwell!
 Norman Geisler
@@ -106787,8 +106874,11 @@ Oxaliplatin
 Oxaloacetate cycle
 Oxaloacetic acid
 Oxalobacter formigenes
+Oxalyl fluoride
 Oxalyl-CoA decarboxylase
 Oxazines
+Oxazolidine
+Oxazoline
 Oxford
 Oxford Advanced Learner's Dictionary
 Oxford Dictionary of English
@@ -114880,6 +114970,7 @@ Potassium sulfate
 Potassium superoxide
 Potassium thiosulfate
 Potassium titanyl phosphate
+Potassium trifluoroacetate
 Potato
 Potatuck
 Potawatomi
@@ -116184,6 +116275,7 @@ Projective algebraic variety
 Projective bundle
 Projective configuration
 Projective cover
+Projective determinacy
 Projective differential geometry
 Projective dimension
 Projective frame
@@ -116937,6 +117029,7 @@ Prüfer domain
 Prüfer sequence
 Prüfer theorems
 Psalms
+Psalms in Islam
 Psammopolia ochracea
 Psammosere
 Pseudanthium
@@ -116988,6 +117081,7 @@ Pseudocalotes drogon
 Pseudocereal
 Pseudocereals
 Pseudocerotidae
+Pseudochazara porphyritica
 Pseudochromis litus
 Pseudocode
 Pseudocoelomate
@@ -117422,6 +117516,9 @@ Puffing Billy Railway
 Puget Sound
 Pugh's closing lemma
 Puiseux series
+Pulad Kuh
+Pulad Kuh Sar
+Pulad-e Qasemi
 Pulcheria
 Pulchrana picturata
 Pulitzer Prize
@@ -120541,6 +120638,7 @@ Register allocation
 Register machine
 Register-memory architecture
 Registered Dental Nurse
+Registered jack
 Registered power zone
 Register–memory architecture
 Registry of Standard Biological Parts
@@ -121665,6 +121763,7 @@ Rhode Island
 Rhodelphis
 Rhodes Scholarship
 Rhodium
+Rhodium(II) trifluoroacetate
 Rhodium-platinum oxide
 Rhodocollybia butyracea
 Rhododendron
@@ -123421,6 +123520,7 @@ Ross–Fahroo pseudospectral method
 Ross–Littlewood paradox
 Rostroconchia
 Rosulabryum capillare
+Rosuvastatin
 Roswitha Blind
 Roswitha März
 Rosy retrospection
@@ -127936,6 +128036,7 @@ Shinya Hashimoto
 Shinya Kogami
 Shinya Tsukamoto
 Shinya Yamanaka
+Shionogi
 Ship
 Ship of Theseus
 Ship's wheel
@@ -130175,6 +130276,7 @@ Sodium nitroprusside
 Sodium oxalate
 Sodium oxybate
 Sodium phenylbutyrate
+Sodium trifluoroacetate
 Sodium-calcium exchanger
 Sodium-cooled fast reactor
 Sodium-proton antiporter
@@ -132552,6 +132654,7 @@ Star polygon
 Star polyhedra
 Star polyhedron
 Star position
+Star quad cable
 Star system
 Star-algebra
 Star-free language
@@ -133662,6 +133765,7 @@ Strawberry
 Strawberry tree
 Strawson
 Stray field
+Streak-necked flycatcher
 Stream
 Stream bed
 Stream cipher
@@ -134287,6 +134391,7 @@ Submandibular gland
 Submanifold
 Submarine
 Submarine canyon
+Submarine communications cable
 Submarine patent
 Submarine signals
 Submartingale
@@ -136061,6 +136166,7 @@ TMEM267
 TMEM275
 TMEM39B
 TMI Episcopal
+TMTFA
 TMU
 TMUB2
 TMX Group
@@ -137153,6 +137259,7 @@ Teesport
 Teeth
 Teeuinge
 Teflon
+Teflurane
 Tegea
 Teghoria, Bangladesh
 Tegmen
@@ -138000,6 +138107,7 @@ Thales's theorem
 Thaliacea
 Thalidomide
 Thallium
+Thallium(III) trifluoroacetate
 Thallophyte
 Thallus
 Tham Luang Nang Non
@@ -138846,6 +138954,7 @@ Thitarodes
 Thitarodes pratensis
 Thixotropy
 Tho language
+Thom Hartmann
 Thom conjecture
 Thom space
 Thom spectrum
@@ -139302,6 +139411,7 @@ Tietze extension theorem
 Tietze transformations
 Tietze's graph
 Tifinagh
+Tiflorex
 Tiger
 Tiger beetle
 Tiger salamander
@@ -139779,6 +139889,7 @@ Tolnaftate
 Tolowa language
 Toltec
 Toltec Empire
+Toltrazuril
 Toluca
 Toluene
 Tolui
@@ -140470,6 +140581,7 @@ Tranquility Base
 Tranquilizer
 Trans
 Trans bashing
+Trans-1,3,3,3-Tetrafluoropropene
 Trans-Atlantic Exoplanet Survey
 Trans-Atlantic Fan Fund
 Trans-Cyclooctene
@@ -141173,6 +141285,7 @@ Tribology
 Triboluminescence
 Tribometer
 Tribosystem
+Tribromofluoromethane
 Tribu
 Tribulus terrestris
 Tribunal
@@ -141271,12 +141384,17 @@ Triethyloxonium tetrafluoroborate
 Triflake
 Triflate
 Triflic acid
+Triflidic acid
 Trifluoroacetic acid
+Trifluoroacetone
 Trifluoromethane
 Trifluoromethanesulfonic acid
+Trifluoromethanesulfonic anhydride
+Trifluoromethanesulfonyl azide
 Trifluoromethyl
 Trifluoromethyl group
 Trifluoromethylation
+Trifluoromethylphenylpiperazine
 Trifluridine
 Trifluridine/tipiracil
 Triflyl group
@@ -142247,6 +142365,7 @@ Twisted Edwards curve
 Twisted Poincaré duality
 Twisted Sister
 Twisted cubic
+Twisted pair
 Twisted sheaf
 Twisting properties
 Twistor memory
@@ -142452,6 +142571,7 @@ Tyrannosaurus rex
 Tyranny of averages
 Tyranny of small decisions
 Tyrant
+Tyrant flycatcher
 Tyras
 Tyre, Lebanon
 Tyrone Hayes
@@ -143246,6 +143366,7 @@ United Nations Trusteeship Council
 United Nations geoscheme
 United Nations trust territories
 United Progressive Alliance
+United States Virgin Islands
 United Tribes of New Zealand
 UnitingWorld
 Units of energy
@@ -143452,6 +143573,7 @@ Uparaja
 Upcycling
 Updraft
 Updraft carburetor
+Upendra Mahato
 Upland South
 Upland goose
 Upland moa
@@ -147761,6 +147883,7 @@ Wolfgang Schüssel
 Wolfgang Sellmeier
 Wolfgang Smith
 Wolfgang U. Dressler
+Wolfram (software)
 Wolfram Language
 Wolfram Mathematica
 Wolfram Research
