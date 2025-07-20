@@ -103,7 +103,6 @@ $h*! My Dad Says
 (RNA-polymerase)-subunit kinase
 (S)-Equol
 (Sittin' On) The Dock of the Bay
-(There's) Always Something There to Remind Me
 (Turn Out the Light And) Love Me Tonight
 (What's the Story) Morning Glory?
 (You Drive Me) Crazy
@@ -355,6 +354,7 @@ $h*! My Dad Says
 101 Zen Stories
 10199 Chariklo
 1080 AM
+1080p
 1080° Snowboarding
 10:23 Campaign
 10K resolution
@@ -779,6 +779,7 @@ $h*! My Dad Says
 1996 China Masters
 1996 Lebanese general election
 1996 Mount Everest disaster
+1996 Stanley Cup Final
 1996 Stanley Cup Finals
 1996 United States campaign finance controversy
 1996 in poetry
@@ -797,6 +798,7 @@ $h*! My Dad Says
 1A (comics)
 1AD
 1C Company
+1I/ʻOumuamua
 1N400x general-purpose diode
 1N400x rectifier diode
 1N400x rectifier diodes
@@ -836,8 +838,10 @@ $h*! My Dad Says
 2-Aminothiazole
 2-Arachidonoylglycerol
 2-Butene
+2-Chlorobenzoic acid
 2-Chloroethanol
 2-D (personaje)
+2-Diphenylphosphinobenzoic acid
 2-EPT probability density function
 2-EXPTIME
 2-Ethylhexanoic acid
@@ -1368,6 +1372,7 @@ $h*! My Dad Says
 3,5-Difluoro-4-hydroxybenzylidene imidazolidinone
 3,5-Difluoro-4-hydroxybenzylidene imidazolinone
 3-Carboxy-cis,cis-muconic acid
+3-Chlorobenzoic acid
 3-D Ultra Pinball
 3-Deoxyanthocyanidin
 3-Hexyne
@@ -1565,6 +1570,7 @@ $h*! My Dad Says
 4-Aminobenzoic acid
 4-Androstene-3,6,17-trione
 4-Chloro-4-deoxygalactose
+4-Chlorobenzoic acid
 4-Coumarate-CoA ligase
 4-Hexylresorcinol
 4-Hydroxybenzaldehyde
@@ -1659,6 +1665,7 @@ $h*! My Dad Says
 5-HT2A receptor
 5-HT2B receptor
 5-HT2C receptor
+5-HT3 antagonist
 5-HT3 receptor
 5-HT4 receptor
 5-HT5A receptor
@@ -1851,6 +1858,7 @@ $h*! My Dad Says
 72 (number)
 72 Feronia
 72 equal temperament
+720p
 722 BC
 7220
 72nd Writers Guild of America Awards
@@ -2427,6 +2435,7 @@ AAC-LD
 AACE International
 AACS encryption key controversy
 AANES–Ba'athist Syria relations
+AANES–Syria relations
 AASHO Road Test
 AASI
 AASI (disambiguation)
@@ -2494,7 +2503,6 @@ ACD/ChemSketch
 ACE Cougar
 ACE Cultural Tours
 ACE inhibitor
-ACF Fiorentina
 ACG (subculture)
 ACG Group
 ACID
@@ -3059,6 +3067,7 @@ Abd al-Latif al-Baghdadi
 Abd al-Malik ibn Marwan
 Abd al-Rahman al-Awza'i
 Abd al-Rahman ibn al-Qasim
+Abd al-Rahman ibn al-Qasim al-Utaqi
 Abd al-Salam ibn Mashish
 Abd al-Salam ibn Mashish al-Alami
 Abd as-Salam ibn Mashish al-Alami
@@ -4065,6 +4074,7 @@ Acer palmatum
 Acero
 Acertijo lógico
 Acervulus
+Acesulfame potassium
 Acetal
 Acetaldehyde
 Acetamide
@@ -4630,6 +4640,7 @@ Actionable knowledge discovery
 Action–domain–responder
 Actitud
 Activated complex
+Activated sludge
 Activation barrier
 Activation energy
 Activation function
@@ -4640,6 +4651,7 @@ Activator (phosphor)
 Active Component
 Active Denial System
 Active Directory
+Active Format Description
 Active Oberon
 Active Queue Management
 Active SETI
@@ -4745,6 +4757,7 @@ Acts of Parliament (Commencement) Act 1793
 Acts of Union 1707
 Acts of Union 1800
 Actuación
+Actual and potential infinity
 Actual idealism
 Actual infinity
 Actual innocence
@@ -7395,6 +7408,7 @@ Alexander II of Russia
 Alexander III of Russia
 Alexander Its
 Alexander Jackson Davis
+Alexander John Ellis
 Alexander Kastalsky
 Alexander Kazantsev
 Alexander Key
@@ -8665,6 +8679,7 @@ Alopecia areata
 Alopecia totalis
 Alopecia universalis
 Alopeconnesus
+Alosetron
 Alpaca
 Alperin–Brauer–Gorenstein theorem
 Alpha
@@ -9196,6 +9211,7 @@ Amanitaceae
 Amar es Combatir
 Amar es para siempre
 Amar'e Stoudemire
+Amaranth, Ontario
 Amaranthaceae
 Amargasaurus
 Amari distance
@@ -11264,6 +11280,7 @@ Anglo-Russian War (1807–1812)
 Anglo-Saxon
 Anglo-Saxon Chronicle
 Anglo-Saxon England
+Anglo-Saxon law
 Anglo-Saxon paganism
 Anglo-Saxon settlement of Britain
 Anglo-Saxons
@@ -12333,6 +12350,7 @@ Antidistributive
 Antidiuretic hormone
 Antidynamo theorem
 Antieigenvalue theory
+Antiemetic
 Antier
 Antifa (United States)
 Antifeedant
@@ -12675,6 +12693,7 @@ Anxiogenic
 Anxiolytic
 Anxiotropic
 Any
+Any type
 Any-angle path planning
 AnyLogic
 Anyon
@@ -13257,6 +13276,7 @@ Aptian
 Aptitud
 Aptitude
 Aptoide
+Aptronym
 Apu Biswas
 Apu Nahasapeemapetilon
 Apulanta
@@ -14838,6 +14858,7 @@ Ash'ari
 Ash'arism
 Asha
 Asha Rao
+Ashalata Devi Loitongbam
 Ashawna Hailey
 Ashby, Lincolnshire
 Asher Korner
@@ -16263,6 +16284,7 @@ Augustan literature
 Augustan literature (ancient Rome)
 Auguste
 Auguste Ambroise Tardieu
+Auguste André Thomas Cahours
 Auguste Bravais
 Auguste Comte
 Auguste Duméril
@@ -17256,7 +17278,9 @@ Axioma de elección
 Axioma de extensionalidad
 Axiomas de separación
 Axiomatic
+Axiomatic (Egan book)
 Axiomatic (book)
+Axiomatic (short story collection)
 Axiomatic design
 Axiomatic foundations of topological spaces
 Axiomatic framework
@@ -17363,6 +17387,7 @@ Azalea
 Azar
 Azarethes
 Azaserine
+Azasetron
 Azatavan
 Azathioprine
 Azcapotzalco (altepetl)
@@ -18435,6 +18460,7 @@ Balonmano
 Balonpede
 Balor
 Balsam
+Balsam of Peru
 Balsthal
 Baltanás
 Baltasar Garzón
@@ -18462,6 +18488,7 @@ Bambi effect
 Bamboccianti
 Bamboo
 Bamboo Annals
+Bamboo Texts of Guodian
 Bamboo and wooden slips
 Bamboo coral
 Bamboo floor
@@ -18780,6 +18807,7 @@ Barbara R. Holland
 Barbara Reys
 Barbara Simons
 Barbara Trader Faires
+Barbara Tversky
 Barbara Wohlmuth
 Barbarea
 Barbaria (Africa)
@@ -18966,6 +18994,7 @@ Barry Simon
 Barry Smith (academic)
 Barry Smith (ontologist)
 Barry Stroud
+Barry Trost
 Barry Wellman
 Barrymore family
 Barsotti–Tate group
@@ -22872,6 +22901,7 @@ Blazar
 Blazhko effect
 Bleach
 Blechnaceae
+Bleed (printing)
 Bleeder resistor
 Bleeding
 Bleeding Cool
@@ -23036,6 +23066,7 @@ Blonde versus brunette rivalry
 Blondel's theorem
 BlooP and FlooP
 Blood
+Blood Law
 Blood as food
 Blood blister
 Blood cancer
@@ -23053,6 +23084,8 @@ Blood in stool
 Blood islands
 Blood libel
 Blood lipids
+Blood money (restitution)
+Blood money in Islam
 Blood on Wolf Mountain
 Blood plasma
 Blood platelet
@@ -23362,6 +23395,7 @@ Bo
 Bo Bruce
 Bo Outlaw
 Bo Watson
+BoPET
 Board construction
 Board game
 Board of Longitude
@@ -23379,6 +23413,7 @@ Boasting
 Boasts
 Boasty
 Boat
+Boat Dwellers
 Boat neck
 Boat of Garten
 Boat of Saint Peter
@@ -24570,6 +24605,7 @@ Boutros Ghali
 Boutros el-Khoury
 Bouvier's Law Dictionary
 Bouvier's red colobus
+Bouxières-aux-Chênes
 Boveri–Sutton chromosome theory
 Bovidae
 Bovinae
@@ -24788,6 +24824,7 @@ Bradypterus
 Bradyrhizobium
 Bradyseism
 Bradytroph
+Braess' paradox
 Braess's paradox
 Braga
 Bragg diffraction
@@ -24933,6 +24970,7 @@ Brandolini's law
 Brandon Lee
 Brandon McGee (politician)
 Brandon Sanderson
+Brandon, Manitoba
 Brandt semigroup
 Brane
 Brane cosmology
@@ -25144,6 +25182,7 @@ Brevenna
 Brevens bruk
 Breves Airport
 Breves, Pará
+Brevet
 Brevet (military)
 Brevet d'État d'éducateur sportif
 Brevet de technicien supérieur
@@ -25776,6 +25815,7 @@ Bryan John Birch
 Bryan Johnson
 Bryan Thomas Schmidt
 Bryan Wenzel
+Bryan West (journalist)
 Bryansk
 Bryant & Stratton College
 Bryce (software)
@@ -26445,6 +26485,7 @@ Business and occupation tax
 Business architecture
 Business broker
 Business capability model
+Business card
 Business case
 Business chess
 Business cluster
@@ -26936,6 +26977,7 @@ C1 and P1 (neuroscience)
 C11H15ClO2
 C25H37NO4
 C2c
+C2c (1996–2025)
 C3 linearization
 C3D Toolkit
 C4 (mixtape)
@@ -28420,6 +28462,7 @@ Cancelled expressways in Toronto
 Cancer
 Cancer (constellation)
 Cancer Wars
+Cancer and nausea
 Cancer cell
 Cancer cluster
 Cancer genome sequencing
@@ -28436,6 +28479,7 @@ Candela
 Candela per square metre
 Candelaria, Lajas, Puerto Rico
 Candelilla wax
+Canderel
 Candice Renee Price
 Candid (app)
 Candida (fungus)
@@ -28730,6 +28774,7 @@ Cantuzumab ravtansine
 Canus
 Canvas
 Canvas fingerprinting
+Canvas print
 Canyon
 Cao (state)
 Cao Gun
@@ -28765,6 +28810,7 @@ Capacity building
 Capacity of a set
 Capacity optimization
 Cape Bon
+Cape Breton Island
 Cape Canaveral Launch Complex 34
 Cape Canaveral Space Force Station
 Cape Cod
@@ -28978,6 +29024,7 @@ Carbon dating
 Carbon dioxide
 Carbon dioxide (data page)
 Carbon dioxide accumulation in Earth's atmosphere
+Carbon dioxide accumulation in the atmosphere of Earth
 Carbon dioxide angiography
 Carbon dioxide clathrate
 Carbon dioxide cleaning
@@ -28985,6 +29032,7 @@ Carbon dioxide enrichment
 Carbon dioxide equivalent
 Carbon dioxide flooding
 Carbon dioxide in Earth's atmosphere
+Carbon dioxide in the atmosphere of Earth
 Carbon dioxide laser
 Carbon dioxide reforming
 Carbon dioxide removal
@@ -30796,6 +30844,7 @@ Celeritas
 Celery
 Celesta
 Celeste Anderson
+Celeste McCollough
 Celestial Empire
 Celestial Emporium of Benevolent Knowledge
 Celestial Mechanics
@@ -31294,6 +31343,7 @@ Ceramic engineering
 Ceramic glaze
 Ceramic matrix composite
 Ceramic tile cutter
+Ceramide
 Ceramography
 Ceratiidae
 Ceratitidae
@@ -31770,7 +31820,6 @@ Characterizations of the exponential function
 Characters in the Mario franchise
 Characters in the Metroid series
 Characters of Sakura Wars
-Characters of Sonic the Hedgehog
 Characters of The Order of the Stick
 Characters of the Marvel Cinematic Universe
 Characters per line
@@ -32412,6 +32461,7 @@ Chemoorganotrophic
 Chemoprotective agent
 Chemoproteomics
 Chemoreceptor
+Chemoreceptor trigger zone
 Chemoreceptors
 Chemosensitivity assay
 Chemosensitizer
@@ -32473,6 +32523,7 @@ Chentsov's theorem
 Chentsov’s theorem
 Chen–Ho encoding
 Cheong (food)
+Cheong Wa Dae
 Cheque
 Cheque fraud
 Cheque truncation
@@ -33095,6 +33146,7 @@ Chlormethine
 Chlornaltrexamine
 Chlornaphazine
 Chloroacetone
+Chlorobenzoic acid
 Chlorocarbon
 Chlorodifluoromethane
 Chloroethylclonidine
@@ -33126,6 +33178,7 @@ Chloroquine
 Chlorospatha
 Chlorotetraedron
 Chlorothiazide
+Chlorotoluene
 Chloroxymorphamine
 Chlorozotocin
 Chlorphenamine
@@ -34047,6 +34100,7 @@ Cifrado (criptografía)
 Cifrado homomórfico
 Cigarette
 Cigarette pack
+Cilansetron
 Cilento
 Cilgerran
 Cilia
@@ -34726,6 +34780,7 @@ Clarendon, New York
 Claribel Kendall
 Clarice di Durisio
 Clarification and stabilization of wine
+Clarifier
 Clarifying agent
 Clarington
 Clarion-Clipperton Zone
@@ -35873,6 +35928,7 @@ Cobalt monosilicide
 Cobalt tetracarbonyl hydride
 Cobalt(II) chloride
 Cobalto
+Cobaltocene
 Cobble (geology)
 Cobblestone
 Cobb–Douglas production function
@@ -36337,6 +36393,7 @@ Coherent diffraction imaging
 Coherent diffractive imaging
 Coherent duality
 Coherent effects in semiconductor optics
+Coherent extrapolated volition
 Coherent information
 Coherent isomorphism
 Coherent microwave scattering
@@ -36650,8 +36707,10 @@ College and university rankings
 College health
 College lacrosse
 College of Engineering, Guindy
+College of Haringey, Enfield and North East London
 College of Law (University of Illinois Urbana-Champaign)
 College of Pontiffs
+College of Richard Collyer
 College town
 College transfer
 College-preparatory school
@@ -40925,6 +40984,7 @@ Conway sphere
 Conway the Machine
 Conway's 99-graph problem
 Conway's Game of Life
+Conway's base 13 function
 Conway's law
 Conway, Arkansas
 Conway, New Hampshire
@@ -42875,6 +42935,7 @@ Crop weed
 Crop yield
 Cropia indigna
 Cropia subapicalis
+Cropping (image)
 Crosby's Molasses
 Crosier
 Cross
@@ -43120,14 +43181,18 @@ Cryptic crossword
 Cryptic female choice
 Cryptic flycatcher
 Cryptic forest falcon
+Cryptic golden tegu
+Cryptic litter skink
 Cryptic mimicry in plants
 Cryptic pregnancy
 Cryptic rabies
+Cryptic racerunner
 Cryptic relatedness
 Cryptic self epitopes
 Cryptic self-incompatibility
 Cryptic shock
 Cryptic skink
+Cryptic spectacled tegu
 Cryptic treehunter
 Cryptic unstable transcript
 Cryptic warbler
@@ -44416,6 +44481,7 @@ Cyclone furnace
 Cyclone, Indiana
 Cyclone, Pennsylvania
 Cycloneritida
+Cyclooctadiene
 Cyclooctane
 Cyclooxygenase
 Cyclooxygenase-2 inhibitor
@@ -45333,6 +45399,7 @@ D-xylulose reductase
 D. C. Heath and Company
 D. F. Jones
 D. G. Champernowne
+D. G. Compton
 D. H. & A. B. Tower
 D. H. Lehmer
 D. Harlan Wilson
@@ -45911,6 +45978,7 @@ Dandong
 Dandora
 Dandridge MacFarlan Cole
 Dandy–Walker malformation
+Danegeld
 Danelaw
 Danese Cooper
 Danger model
@@ -45938,6 +46006,7 @@ Daniel C. Roper
 Daniel C. Tsui
 Daniel Chester French
 Daniel Craig
+Daniel Defert
 Daniel Defoe
 Daniel Dennett
 Daniel Deronda
@@ -45966,6 +46035,7 @@ Daniel Kan
 Daniel Kastler
 Daniel Keyes
 Daniel Keys Moran
+Daniel Kokotajlo (researcher)
 Daniel Lehmann
 Daniel Levitin
 Daniel Lyons
@@ -45992,6 +46062,7 @@ Daniel Schacter
 Daniel Schulman
 Daniel Shanks
 Daniel Sleator
+Daniel Snowman
 Daniel Solander
 Daniel Spielman
 Daniel Spoerri
@@ -46866,6 +46937,7 @@ David DiVincenzo
 David Dickey
 David Dingwall
 David Dobrik
+David Dollar
 David Don
 David Douglas (botanist)
 David Dowty
@@ -47517,7 +47589,6 @@ Decelostat
 December 12
 December 2008 North American snowstorms
 December 2011 North Atlantic cyclone
-December 2015 North American storm complex
 December 25
 December solstice
 Decency
@@ -47527,6 +47598,7 @@ Decentralised system
 Decentralization
 Decentralized administrations of Greece
 Decentralized decision-making
+Decentralized wastewater system
 Decentralized web
 Deception
 Deception in animals
@@ -48527,6 +48599,7 @@ Dennis Danvers
 Dennis Dieks
 Dennis E. Taylor
 Dennis Feltham Jones
+Dennis Fong
 Dennis Gabor
 Dennis Jennings (Internet pioneer)
 Dennis Kimberly
@@ -49449,6 +49522,7 @@ Dharmaśāstra
 Dhi Qar Governorate
 Dhimmi
 Dhobi
+Dhofar
 Dhofar Governorate
 Dhokra
 Dholuo
@@ -49807,6 +49881,7 @@ Dickson's lemma
 Diclidantheraceae
 Diclofenac
 Diclybothriidea
+Dicobalt octacarbonyl
 Dicot
 Dicotyledon
 Dicotyledonous
@@ -50310,6 +50385,7 @@ Digital video recorder
 Digital watermarking
 Digital world
 Digital zombie
+Digital zoom
 Digital-to-analog converter
 Digitality
 Digitaria exilis
@@ -51131,6 +51207,7 @@ Dirigibles
 Dirk Coster
 Dirk Fok van Slooten
 Dirk I, Count of Holland
+Dirk Kroese
 Dirk Polder
 Dirname
 Dirofilaria immitis
@@ -52369,6 +52446,9 @@ Dokapon Journey
 Dolbeault cohomology
 Dolbeault complex
 Dolbeault operator
+Dolby
+Dolby Digital
+Dolby Digital Plus
 Dolby noise-reduction system
 Dolch word list
 Dolcoath mine
@@ -52978,6 +53058,7 @@ Dot matrix
 Dot matrix display
 Dot matrix printer
 Dot matrix printing
+Dot pitch
 Dot planimeter
 Dot plot
 Dot plot (bioinformatics)
@@ -53595,6 +53676,7 @@ Drivetrain
 Driving
 Driving simulator
 Driving under the influence
+Drogon's false garden lizard
 Drohobych salt plant
 Droideka
 Dromaeosauridae
@@ -53733,6 +53815,8 @@ Dryburgh Abbey
 Drying
 Drying tube
 Dryland farming
+Drynaria
+Drynaria rigidula
 Dryobalanops
 Dryocampa rubicunda
 Dryopes
@@ -54114,7 +54198,6 @@ Dustin Johnson
 Dustin Martin
 Dustin Moskovitz
 Dustin Pedroia
-Dustin Poirier
 Dustin Rhodes
 Dusty Baker
 Dusty Rhodes
@@ -55549,6 +55632,7 @@ Eddy-current testing
 Ede-Oballa
 Edeirnion
 Edelgasse
+Edelweiss
 Edelweiss Pirates
 Edema
 Eden Eternal
@@ -55945,6 +56029,7 @@ Edward Pope
 Edward Porter
 Edward R. Murrow
 Edward Richards
+Edward Rondthaler
 Edward Routh
 Edward S. Ellis
 Edward S. Morse
@@ -57176,6 +57261,7 @@ Electron pair bond
 Electron paramagnetic resonance
 Electron phenomenological spectroscopy
 Electron precipitation
+Electron probe microanalysis
 Electron quadruplets
 Electron resonance imaging
 Electron rest mass
@@ -57232,6 +57318,7 @@ Electronic Art Music
 Electronic Arts
 Electronic Battleship: Advanced Mission
 Electronic Colloquium on Computational Complexity
+Electronic Data Gathering, Analysis, and Retrieval
 Electronic Engineering
 Electronic Engineering Polytechnic Institute of Surabaya
 Electronic Federal Tax Payment System
@@ -57581,7 +57668,6 @@ Eleven-plus
 Eleventh Ward Railroad
 Eleventh grade
 Elfriede Jelinek
-Elgin Baylor
 Elgin, New Brunswick
 ElgooG
 Elgood's Brewery
@@ -58115,6 +58201,7 @@ Emergency management
 Emergency medical services
 Emergency medical technician
 Emergency procedure
+Emergency sanitation
 Emergency service
 Emergency text messaging services
 Emergent (software)
@@ -58138,6 +58225,7 @@ Emerson Briggs-Wallacewith
 Emerson Cavitation Tunnel
 Emerson Nunes
 Emerson effect
+Emesis
 Emesis zela
 Emi Nakamura
 Emic
@@ -60334,6 +60422,7 @@ Eric Anderson (teacher)
 Eric Andre
 Eric André
 Eric Angle
+Eric Bana
 Eric Berne
 Eric Bina
 Eric Brewer (scientist)
@@ -61461,6 +61550,7 @@ Euclidean metric
 Euclidean minimum spanning tree
 Euclidean n-space
 Euclidean norm
+Euclidean ordered field
 Euclidean plane
 Euclidean plane geometry
 Euclidean plane isometry
@@ -61961,7 +62051,6 @@ Eurotra
 Eurovent
 Eurovision (network)
 Eurovision Song Contest
-Eurovision Song Contest 1956
 Eurovision Song Contest 1957
 Eurovision Song Contest 1958
 Eurovision Song Contest 1959
@@ -61975,30 +62064,14 @@ Eurovision Song Contest 1966
 Eurovision Song Contest 1967
 Eurovision Song Contest 1968
 Eurovision Song Contest 1969
-Eurovision Song Contest 1970
 Eurovision Song Contest 1971
 Eurovision Song Contest 1972
-Eurovision Song Contest 1973
-Eurovision Song Contest 1974
 Eurovision Song Contest 1975
 Eurovision Song Contest 1976
-Eurovision Song Contest 1977
 Eurovision Song Contest 1978
 Eurovision Song Contest 1979
 Eurovision Song Contest 1981
 Eurovision Song Contest 1983
-Eurovision Song Contest 1987
-Eurovision Song Contest 1988
-Eurovision Song Contest 1990
-Eurovision Song Contest 1991
-Eurovision Song Contest 1992
-Eurovision Song Contest 1993
-Eurovision Song Contest 1994
-Eurovision Song Contest 1995
-Eurovision Song Contest 1996
-Eurovision Song Contest 1997
-Eurovision Song Contest 1998
-Eurovision Song Contest 1999
 Eurovision Song Contest 2000
 Eurovision Song Contest 2001
 Eurovision Song Contest 2002
@@ -62008,21 +62081,6 @@ Eurovision Song Contest 2005
 Eurovision Song Contest 2006
 Eurovision Song Contest 2007
 Eurovision Song Contest 2008
-Eurovision Song Contest 2009
-Eurovision Song Contest 2010
-Eurovision Song Contest 2011
-Eurovision Song Contest 2012
-Eurovision Song Contest 2013
-Eurovision Song Contest 2014
-Eurovision Song Contest 2015
-Eurovision Song Contest 2016
-Eurovision Song Contest 2017
-Eurovision Song Contest 2018
-Eurovision Song Contest 2019
-Eurovision Song Contest 2020
-Eurovision Song Contest 2021
-Eurovision Song Contest 2022
-Eurovision Song Contest: The Story of Fire Saga
 Euroway
 Eurowings
 Eurowings Discover
@@ -62349,7 +62407,6 @@ Everyman (DC Comics)
 Everyman (disambiguation)
 Everyman (novel)
 Everyman (play)
-Everyman Cinemas
 Everyman Gerrards Cross
 Everyman Theatre, Baltimore
 Everyman Theatre, Cheltenham
@@ -64616,7 +64673,6 @@ Fascist syndicalism
 Fase (materie)
 Fase lunar
 Fashion
-Fashion (2008 film)
 Fashion Film Festival Milano
 Fashion Nugget
 Fashion Revolution
@@ -64889,6 +64945,7 @@ February Revolution
 Fecal coliform
 Fecal microbiota transplant
 Fecal occult blood
+Fecal sludge management
 Fecampiida
 Feces
 Fechner color
@@ -65729,6 +65786,7 @@ Field of rational functions
 Field of sets
 Field of study
 Field of view
+Field of view in video games
 Field officer
 Field programmable gate array
 Field propulsion
@@ -66010,6 +66068,7 @@ Filiki Eteria
 Filing (law)
 Filing (legal)
 Filing (metalworking)
+Filip Neriusz Walter
 Filipe Albuquerque
 Filipe Augusto
 Filipe Catto
@@ -67373,6 +67432,7 @@ Flintknapping
 Flintshire
 Flip
 Flip (acrobatic)
+Flip (algebraic geometry)
 Flip (mathematics)
 Flip Saunders
 Flip Wilson
@@ -68379,6 +68439,7 @@ Forces of the Fighters of the Tribes
 Forces on sails
 Forces spéciales
 Forces sweetheart
+Forcing (computability)
 Forcing (mathematics)
 Forcipule
 Ford
@@ -68808,7 +68869,6 @@ Formula Acceleration 1
 Formula Alfa
 Formula Asia
 Formula Atlantic
-Formula D
 Formula E
 Formula E Holdings
 Formula E Race at Home Challenge
@@ -69463,6 +69523,7 @@ Framework region
 Frameworks supporting the polyhedral model
 Framing (construction)
 Framing (social sciences)
+Framing (visual arts)
 Framing effect (psychology)
 Franca Basquetebol Clube
 Franca Brown
@@ -69678,6 +69739,7 @@ Franklin Stahl
 Franklin graph
 Franklin, Connecticut
 Frankmusik
+Frankpledge
 Franks
 Franks Wild Years
 Frank–Kasper phases
@@ -70776,6 +70838,7 @@ Frome
 Fromis 9
 Frona Eunice Wait
 Frond
+Front Range Urban Corridor
 Front Range urban corridor
 Front and back ends
 Front end and back end
@@ -70913,6 +70976,7 @@ Fuchien Province, Republic of China
 Fuchsia
 Fuchsia (operating system)
 Fuchsia magellanica
+FuchsiaOS
 Fuchsian group
 Fuchsian model
 Fuchsian theory
@@ -72313,11 +72377,14 @@ Galactoglucomannan
 Galactolipid
 Galactomannan
 Galactose
+Galactosylceramidase
+Galactosylceramide
 Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase
 Galactosyltransferase
 Galactus
 Galaga
 Galago
+Galanas
 Galanthus
 Galanthus nivalis
 Galapagos penguin
@@ -72624,7 +72691,10 @@ Gameplay of Overwatch
 Gameplay of Pokémon
 Gameplay of World of Warcraft
 Gamer
+Gamergate
+Gamergate (ant caste)
 Gamergate (harassment campaign)
+Gamergate (old disambiguation)
 Gamergate controversy
 Games Convention
 Games People Play (book)
@@ -75001,6 +75071,7 @@ Germanic deities
 Germanic kingship
 Germanic language
 Germanic languages
+Germanic law
 Germanic paganism
 Germanic people
 Germanic peoples
@@ -75526,7 +75597,6 @@ Ginger
 Ginger Baker
 Ginger Gonzaga
 Ginger Lynn
-Ginger Minj
 Ginger Rogers
 Ginger Root (music project)
 Ginger Snaps (film)
@@ -75601,7 +75671,6 @@ Girl Meets World
 Girl Next Room
 Girl U Want
 Girl Ultra
-Girl in Red
 Girl in a Coma
 Girl in the Flower Dress
 Girl of the Uchter Moor
@@ -75781,6 +75850,7 @@ Gjorge Ivanov
 Gjøvik
 Gla
 Glabrousness
+Glace Bay
 Glacial erratic
 Glacial flour
 Glacial lake outburst flood
@@ -76081,6 +76151,8 @@ Globish (Nerrière)
 Globitermes sulphureus
 Globo (conglomerate)
 Globose nucleus
+Globoside
+Globotriaosylceramide
 Globular cluster
 Globular protein
 Globular set
@@ -76931,6 +77003,7 @@ Godfather (1991 film)
 Godfather (cocktail)
 Godfellas
 Godforsaken
+Godfrey Dewey
 Godfrey Thomson
 Godfrey Vigne
 Godji I
@@ -77044,6 +77117,7 @@ Going Steady (1979 film)
 Going Straight
 Going Straight (TV programme)
 Going Under
+Going Under (song)
 Going concern
 Going for Gold
 Going for the One
@@ -79049,6 +79123,7 @@ Green belt
 Green building
 Green card
 Green chemistry
+Green chemistry metrics
 Green computing
 Green development
 Green fluorescent protein
@@ -80588,6 +80663,7 @@ Gustav Rose
 Gustav Tauschek
 Gustav de Vries
 Gustave Ador
+Gustave Caillebotte
 Gustave Choquet
 Gustave Courbet
 Gustave Doré
@@ -80936,6 +81012,7 @@ Güssefeld
 Güstrow
 Gārgī Vāchaknavī
 Głobino
+Główszczyzna
 H
 H I region
 H II region
@@ -80958,6 +81035,7 @@ H. G. Wells
 H. G. Wells bibliography
 H. H. Franklin Manufacturing Company
 H. H. Hollis
+H. J. Cave & Sons
 H. J. Ryser
 H. Jeff Kimble
 H. L. A. Hart
@@ -82608,6 +82686,7 @@ Hartogs's extension theorem
 Hartogs–Rosenthal theorem
 Hartree atomic units
 Hartree equation
+Hartree equations
 Hartree–Fock equation
 Hartree–Fock method
 Hartree–Fock theory
@@ -83928,6 +84007,7 @@ Helmsman
 Helmut Beinert
 Helmut H. Schaefer
 Helmut Hasse
+Helmut Kroiss
 Helmut Ritsch
 Helmut Ulm
 Helmut Wautischer
@@ -83960,6 +84040,7 @@ Hemagglutination assay
 Hemangioma
 Hemant Goswami
 Hemant Kumar
+Hemanta Mukhopadhyay (Singer)
 Hematochezia
 Hematocrit
 Hematologie
@@ -84163,6 +84244,7 @@ Henri Pitot
 Henri Poincaré
 Henri Tajfel
 Henri Theil
+Henri Étienne Sainte-Claire Deville
 Henri-Gustave Delvigne
 Henricus Fermi
 Henrietta Beaufort
@@ -84526,6 +84608,7 @@ Here & Now (band)
 Here (In Your Arms)
 Here Be Dragons
 Here Be Monsters
+Here Be Monsters (Ed Harcourt album)
 Here Be Monsters!
 Here Before (film)
 Here Comes Honey Boo Boo
@@ -84609,6 +84692,7 @@ Heritage language learning
 Heritage management in the Philippines
 Heritage railway
 Heritage railways in Kauai
+Heritage railways in Kauaʻi
 Herkogamy
 Herlinda
 Herm
@@ -87515,7 +87599,6 @@ Holton-le-Clay
 Holton-le-Clay railway station
 Holuhraun
 Holy Cross Crusaders men's ice hockey
-Holy Girdle
 Holy Grail
 Holy Land
 Holy League (1538)
@@ -88922,6 +89005,7 @@ Hua's lemma
 Huaca Prieta
 Huainanzi
 Huajiachi Campus, Zhejiang University
+Huajuan
 Huang Lü
 Huang Xianfan
 Huang Zitao
@@ -88981,6 +89065,8 @@ Hudson Bay
 Hudson Bay drainage basin
 Hudson River
 Hudson Valley
+Hudud
+Hudud Ordinances
 Hue
 Huedin
 Huemul Project
@@ -89329,6 +89415,7 @@ Human evolution
 Human evolution (origins of society and culture)
 Human evolutionary developmental biology
 Human evolutionary genetics
+Human excreta
 Human experimentation
 Human experimentation in North Korea
 Human extinction
@@ -89814,6 +89901,7 @@ Hunters of Dune
 Hunting
 Huntingtin
 Huntington's disease
+Huntington–Pentagon Line
 Huntsville, Alabama
 Hunt–Szymanski algorithm
 Huo
@@ -89938,6 +90026,8 @@ Hurt discography
 Hurt: The EP
 Hurtful communication
 Hurtigruten
+Hurtigruten (Norwegian coastal route)
+Hurtigruten (company)
 Hurtigruten AS
 Hurting the feelings of the Chinese people
 Hurts
@@ -89995,6 +90085,7 @@ Hutchesontown
 Huttonia
 Huw Dixon
 Huwaylat
+Huwaytat
 Huwen op Bevel
 Huygens–Fresnel principle
 Huzita–Hatori axioms
@@ -91163,6 +91254,7 @@ Hyundai Motor Group Metaplant America
 Hyung Jin Moon
 Hyōgo Prefecture
 Hájek–Le Cam convolution theorem
+Häme
 Hæmatopoietic stem cells
 Héctor Torres (disambiguation)
 Héctor-Neri Castañeda
@@ -93263,6 +93355,7 @@ Infestissumam
 Infidelity
 Infiltration (gamer)
 Infiltration (hydrology)
+Infiltration and inflow
 Infiltration basin
 Infiltration capacity
 Infiltration tactics
@@ -93593,6 +93686,7 @@ Inhomogeneous medium
 Inhomogeneous ordinary differential equation
 Inis Fail
 Initial
+Initial Teaching Alphabet
 Initial algebra
 Initial and terminal objects
 Initial attractiveness
@@ -93602,6 +93696,7 @@ Initial conditions
 Initial mass function
 Initial object
 Initial public offering
+Initial sound table
 Initial topology
 Initial value problem
 Initialism
@@ -94566,6 +94661,7 @@ International System of Units
 International Technology Roadmap for Semiconductors
 International Telecommunication Union
 International Territorial Level
+International Typeface Corporation
 International Union for Vacuum Science, Technique and Applications
 International Union of Biochemistry and Molecular Biology
 International Union of Foodworkers
@@ -95002,6 +95098,7 @@ Inveniam viam
 Inventio
 Invention
 Invention of agriculture
+Inventive spelling
 Inventive step and non-obviousness
 Inventor
 Inventor's paradox
@@ -95318,6 +95415,7 @@ Irminsul
 Iron
 Iron Age
 Iron Age sword
+Iron arene complexes
 Iron germanide
 Iron law of oligarchy
 Iron meteorite
@@ -95386,6 +95484,7 @@ Irreversible process
 Irreversible process (thermodynamics)
 Irrigation
 Irrigation sprinkler
+Irritable bowel syndrome
 Irritant diaper dermatitis
 Irritation
 Irritator
@@ -95564,6 +95663,7 @@ Islamic State
 Islamic State of Iraq and the Levant – Yemen Province
 Islamic calendar
 Islamic calligraphy
+Islamic criminal jurisprudence
 Islamic eschatology
 Islamic feminism
 Islamic holy books
@@ -95633,6 +95733,7 @@ Isobaric tag for relative and absolute quantitation
 Isobel Addey Tate
 Isobel Bennett
 Isobutane
+Isobutyl
 Isobutylene
 Isocanace
 Isochoric process
@@ -95904,6 +96005,7 @@ Issues affecting the single transferable vote
 Istanbul
 Isthmian script
 Isthmus
+Isthmus of Chignecto
 Isthmus of Corinth
 Isthmus of Panama
 Isthmus of Suez
@@ -96385,6 +96487,7 @@ Jacob Toorenvliet
 Jacob Viner
 Jacob Wolfowitz
 Jacob Ziv
+Jacob van Ruisdael
 Jacob van Staverden
 Jacob's staff
 Jacoba van den Brande
@@ -96671,6 +96774,7 @@ James P. Crutchfield
 James P. Hogan (writer)
 James Patrick Kelly
 James Patterson
+James Pitman
 James Poe
 James Posey
 James Prescott Joule
@@ -97483,6 +97587,7 @@ Jim Lindberg
 Jim Marshall (defensive end)
 Jim Propp
 Jim Reeves
+Jim Riesberg
 Jim Sherwood
 Jim Simons
 Jim Simons (mathematician)
@@ -97838,6 +97943,7 @@ John Battelle
 John Baxter (author)
 John Benjamin Dancer
 John Berndt
+John Berryman (VC)
 John Bews
 John Bickley (politician)
 John Bird (scientist)
@@ -98211,6 +98317,7 @@ John Ochsendorf
 John Ogilby
 John Olerud
 John Oliver
+John Oliver (American entertainer)
 John Olsen
 John Osborne
 John Ostrander
@@ -98802,6 +98909,7 @@ Josh Homme
 Josh Kalis
 Josh Kalis (skateboarder)
 Josh Phillips (artist)
+Josh Tyrangiel
 Joshua Citarella
 Joshua Fishman
 Joshua Lederberg
@@ -100880,8 +100988,10 @@ Kauai National Wildlife Refuge Complex
 Kauai Plantation Railway
 Kauai serial killer
 Kauaiina
+Kauaʻi
 Kauaʻi Community College
 Kauaʻi Island Utility Cooperative
+Kauaʻi Plantation Railway
 Kauaʻi cave wolf spider
 Kauaʻi nukupuʻu
 Kauaʻi palila
@@ -101343,6 +101453,7 @@ Kestler Building
 Ketal
 Keteleeria
 Keti Tenenblat
+Keto acid
 Ketone
 Ketone halogenation
 Ketose
@@ -102393,7 +102504,6 @@ Kripke structure (model checking)
 Kripke–Joyal semantics
 Kripke–Platek set theory
 Krippendorff's alpha
-Kris (Deltarune)
 Kris Holmes
 Kris Ottman Neville
 Krishna
@@ -103868,6 +103978,7 @@ Languages of the Northwest Territories
 Languages of the Ottoman Empire
 Languages of the Philippines
 Languages of the Roman Empire
+Languages of the Solomon Islands
 Languages of the Solomon Islands archipelago
 Languages of the Soviet Union
 Languages of the United Kingdom
@@ -104171,6 +104282,7 @@ Late August at the Hotel Ozone
 Late August, Early September
 Late Basketmaker II Era
 Late Basketmaker II era
+Late Basketmaker II period
 Late Basquisation
 Late Blossom
 Late Bronze Age
@@ -104939,6 +105051,7 @@ Leader/follower architecture
 Leadership
 Leadership Conference of Women Religious
 Leadership approval opinion polling for the 2019 United Kingdom general election
+Leadership approval opinion polling for the next UK general election
 Leadership approval opinion polling for the next United Kingdom general election
 Leadership in Energy and Environmental Design
 Leadhills
@@ -105372,7 +105485,6 @@ Legalidad del bitcoin
 Legalism (theology)
 Legality of BDSM
 Legality of cannabis
-Legality of cannabis by U.S. jurisdiction
 Lege
 Legend
 Legend of Legaia
@@ -105395,6 +105507,7 @@ Legendre's formula
 Legendre's three-square theorem
 Legendre–Clebsch condition
 Legerwood
+Leges inter Brettos et Scottos
 Leges motus Newtoni
 Leggett inequality
 Leggett–Garg inequality
@@ -105471,6 +105584,7 @@ Leibniz operator
 Leibniz's notation
 Leibniz–Clarke correspondence
 Leibniz–Newton calculus controversy
+Leibzoll
 Leica Geosystems
 Leicester
 Leicestershire
@@ -106094,6 +106208,7 @@ Leucadendron
 Leucadendron sorocephalodes
 Leucangium
 Leucanthemum vulgare
+Leucine
 Leucine-rich repeat
 Leucippus
 Leucippus of Crete
@@ -106160,6 +106275,7 @@ Levelling
 Levels of Processing model
 Levels of adequacy
 Levels of evidence
+Levels of processing model
 Levenberg–Marquardt algorithm
 Levenshtein coding
 Levenshtein distance
@@ -106934,6 +107050,7 @@ Lils Mackintosh
 Lily Chitty
 Lily Khadjavi
 Lily Lee Chen
+Lily Santiago
 Lily Serna
 Lily Young
 Lily pad
@@ -107145,6 +107262,7 @@ Line group
 Line integral
 Line integral convolution
 Line isolation transformer
+Line laser level
 Line moiré
 Line notation
 Line number
@@ -107523,6 +107641,7 @@ LinkedIn Top Companies
 Linker (computing)
 Linker for activation of T cells
 Linkin Park
+Linkin Park albums discography
 Linkin Park discography
 Linking and intrusive R
 Linking number
@@ -107821,207 +107940,9 @@ List (computer science)
 List (information)
 List comprehension
 List edge-coloring
-List of "Weird Al" Yankovic polka medleys
 List of -gate scandals and controversies
-List of 13 Reasons Why episodes
-List of 2 Stupid Dogs episodes
-List of 2point4 Children episodes
-List of 3D modeling software
-List of 4000-series integrated circuits
-List of 7400-series integrated circuits
-List of A Certain Magical Index characters
-List of A Song of Ice and Fire characters
-List of AKB48 members
-List of AMD Ryzen processors
-List of AMD graphics processing units
-List of AMD processors with 3D graphics
-List of AS Roma managers
-List of AS Roma players
-List of Abbasid caliphs
-List of Acts of the Oireachtas
-List of Adidas sponsorships
-List of Advanced Dungeons & Dragons 2nd edition monsters
-List of Advanced Level subjects
-List of Adventure Time characters
-List of Adventure Time episodes
-List of Adventures in Odyssey episodes
-List of African countries by area
-List of African-American inventors and scientists
-List of African-American newspapers
-List of Agents of S.H.I.E.L.D. characters
-List of Algerians
-List of Alien (franchise) comics
-List of Alien (franchise) novels
-List of Alien vs. Predator novels
-List of Alien, Predator, and Alien vs. Predator games
-List of All My Children characters
-List of Amazon Prime Video original programming
-List of American Academy of Arts and Sciences members
-List of American Academy of Arts and Sciences members (1953–1993)
-List of American Dad! characters
-List of American Thomas & Friends video releases
-List of American films of 2023
-List of American philosophers
-List of American scientists
-List of American state and local politicians convicted of crimes
-List of Android smartphones
-List of Anglican churches
-List of Antarctic and subantarctic islands
-List of Apollo astronauts
-List of Apple TV+ original programming
-List of April Fools' Day jokes
-List of Arabic letter components
-List of Arabic loanwords in English
-List of Archbishops of Canterbury
-List of Are You Afraid of the Dark? episodes
-List of Argentine films of 1986
-List of Argentines
-List of Armenian monarchs
-List of Arrow characters
-List of Artemis Fowl characters
-List of Arthur episodes
-List of As the World Turns characters
-List of Asian Academy Award winners and nominees
-List of Asian stadiums by capacity
-List of Assassin's Creed characters
-List of Assyrian kings
-List of Asterix characters
-List of Aston Villa F.C. records and statistics
-List of Attack on Titan characters
-List of Auckland representative cricketers
-List of Austin Powers characters
-List of Australian and New Zealand dishes
-List of Australian films
-List of Australian supercentenarians
-List of Austrians
-List of Avatar: The Last Airbender characters
-List of BDSM organizations
-List of Baby Einstein videos
-List of Bandai Namco video game franchises
-List of Bandai Namco video games
-List of Barney & Friends episodes and videos
-List of Batman Beyond characters
-List of Batman Beyond episodes
-List of Beast Wars episodes
-List of Beavis and Butt-Head episodes
-List of Ben 10 characters
-List of Bigg Boss (Hindi TV series) controversies
-List of Billboard Mainstream Rock number-one songs of the 2010s
-List of Black-ish episodes
-List of Bluey (2018 TV series) episodes
-List of Bohemian monarchs
-List of Bones characters
-List of Bones episodes
-List of Boolean algebra topics
-List of Breaking Bad and Better Call Saul characters
-List of Buffyverse villains and supernatural beings
-List of Byzantine emperors
-List of C++ multi-threading libraries
-List of C++ template libraries
-List of CIL instructions
-List of Canadian municipalities having experienced population decreases
-List of Canadian provinces and territories by area
-List of Canadian provinces and territories by population
-List of Cars characters
-List of Catholic clergy scientists
-List of Celebrity Deathmatch episodes
-List of Chapo Trap House episodes
-List of Charlie Jade episodes
-List of Charmed characters
-List of Chinese administrative divisions by population
-List of Chinese musicians
-List of Chivalry of a Failed Knight episodes
-List of Chopped episodes (seasons 21–40)
-List of Christian denominations by number of members
-List of Christian scientists and scholars of the medieval Islamic world
-List of Christians in science and technology
-List of Classical Greek phrases
-List of Code Geass characters
-List of Code Lyoko episodes
-List of Colorado fourteeners
-List of Commonly Used Characters in Modern Chinese
-List of Commonwealth heads of government
-List of Connecticut companies
-List of Connecticut state forests
-List of Connecticut weather records
-List of Cougar Town episodes
-List of Cubans
-List of Curb Your Enthusiasm episodes
-List of DC Comics characters: Y
-List of Danganronpa characters
-List of Danny Phantom episodes
-List of Darkstalkers characters
-List of Dawson's Creek episodes
-List of Dead Like Me characters
-List of Deadwood episodes
-List of Device Forts
-List of Dexter's Laboratory episodes
-List of Digimon Adventure characters
-List of Digimon Tamers characters
-List of Doctor Who items
-List of Doctor Who specials
-List of Doctor Who villains
-List of Doom ports
-List of Dove Medical Press academic journals
-List of Dragon Ball Z episodes
-List of Dragon Ball characters
-List of Dragonlance novels
-List of Drake & Josh episodes
-List of Drawn Together episodes
-List of Duckman episodes
-List of Dungeons & Dragons deities
-List of Dutch supercentenarians
-List of E. Schweizerbart serials
-List of EGOT winners
-List of EN standards
-List of ES Sétif international footballers
-List of ES Sétif players
-List of ES Sétif seasons
-List of Earls in the reign of William II of England
-List of EastEnders characters introduced in 1985
-List of EastEnders characters introduced in 2001
-List of EastEnders characters introduced in 2006
-List of EastEnders characters introduced in 2007
-List of EastEnders characters introduced in 2008
-List of EastEnders characters introduced in 2009
-List of EastEnders characters introduced in 2010
-List of EastEnders characters introduced in 2012
-List of EastEnders characters introduced in 2014
-List of EastEnders characters introduced in 2015
-List of EastEnders characters introduced in 2016
-List of EastEnders characters introduced in 2017
-List of EastEnders characters introduced in 2018
-List of EastEnders characters introduced in 2024
-List of Easter eggs in Microsoft products
-List of Eastern Caribbean people
-List of Ecuadorians
-List of Ed, Edd n Eddy episodes
-List of Egyptian papyri by date
-List of Egyptians
-List of El Salvador women's international footballers
-List of El Señor de los Cielos cast members
-List of El Señor de los Cielos episodes
-List of Electronic Arts games
-List of Emmerdale characters
-List of Encyclopædia Britannica Films titles
-List of English cricketers (1787–1825)
-List of English monarchs
-List of English people
-List of English royal consorts
-List of English words of Dravidian origin
-List of English words of French origin
-List of English words of Turkic origin
-List of English words of Yiddish origin
-List of English words with disputed usage
-List of Entourage episodes
-List of Epic Rap Battles of History episodes
-List of Estonian entomologists
-List of Ethiopian scientists
-List of Ethiopians
-List of European Cup and UEFA Champions League finals
 List of European countries by area
 List of European islands by area
-List of Eurovision Song Contest entries (1956–2003)
 List of Eurovision Song Contest winners
 List of Eve (American TV series) episodes
 List of Fantastic Beasts characters
@@ -108075,8 +107996,6 @@ List of Google Easter eggs
 List of Google products
 List of Gotham (franchise) characters
 List of Graeco-Roman geographers
-List of Grand Slam men's singles champions
-List of Great American Beer Festival medalists
 List of Great Britain and UK Parliament constituencies in Scotland from 1707
 List of Great British Menu chefs (series 1–4)
 List of Great British Menu chefs (series 5–7)
@@ -108230,8 +108149,6 @@ List of Marvel Cinematic Universe characters
 List of Marvel Cinematic Universe characters (temp)
 List of Marvel Cinematic Universe films
 List of Marvel Cinematic Universe television series
-List of Marvel Comics characters: A
-List of Marvel Comics characters: B
 List of Marvel Comics characters: E
 List of Marvel Comics characters: H
 List of Marvel Comics characters: L
@@ -108425,6 +108342,7 @@ List of Sharpe series characters
 List of Shrek characters
 List of Silicon Valley characters
 List of Sirius XM Radio channels
+List of SiriusXM Radio channels
 List of Sites of Special Scientific Interest by Area of Search
 List of Six Feet Under episodes
 List of Sliders episodes
@@ -109211,10 +109129,10 @@ List of political families
 List of political groups by country
 List of political ideologies
 List of political parties in Australia
-List of political parties in India
 List of political parties in Kosovo
 List of political parties in Portugal
 List of political parties in Rojava
+List of political parties in the Democratic Autonomous Administration of North and East Syria
 List of political parties in the Northwest Territories
 List of political parties in the United Kingdom
 List of political parties in the United States
@@ -109327,6 +109245,7 @@ List of purification methods in chemistry
 List of quantum gravity researchers
 List of radio stations in Paraguay
 List of railway bridges and viaducts in the United Kingdom
+List of railway stations in the Wellington Region
 List of random number generators
 List of real-life characters
 List of rebel groups that control territory
@@ -109521,56 +109440,7 @@ List of things named after Rajiv Gandhi
 List of things named after Ronald Reagan
 List of things named after Sheikh Hasina
 List of things named after Sheikh Mujibur Rahman
-List of things named after Shota Rustaveli
-List of things named after Tadeusz Kościuszko
 List of things named after Thomas Bayes
-List of things named after a Thomas Bayes
-List of things named after prime ministers of the United Kingdom
-List of think tanks in the United States
-List of thought processes
-List of time periods
-List of timelines of World War II
-List of tlatoque of Tenochtitlan
-List of topics characterized as pseudoscience
-List of topics in space
-List of towns in Canada
-List of transcontinental countries
-List of transforms
-List of transgender political office-holders
-List of transitive finite linear groups
-List of trapdoor spiders
-List of tributary states of China
-List of trigonometric identities
-List of troglobites
-List of type designers
-List of typefaces
-List of types of proteins
-List of undersea explorers
-List of undersecretary positions
-List of unicorn startup companies
-List of uninhabited regions
-List of unions designated 1199
-List of universities and colleges in France
-List of universities and colleges in Kraków
-List of universities and colleges in South Korea
-List of universities in Bangladesh
-List of universities in Canada
-List of universities in Indonesia
-List of universities in Ireland
-List of universities in Japan
-List of universities in Lebanon
-List of universities in the United Kingdom
-List of universities with BDSM clubs
-List of university and college mottos
-List of university hospitals
-List of university presses
-List of unmade Doctor Who serials and films
-List of unrecognized higher education accreditation organizations
-List of unsolved problems
-List of unsolved problems in astronomy
-List of unsolved problems in biology
-List of unsolved problems in chemistry
-List of unsolved problems in computer science
 List of unsolved problems in economics
 List of unsolved problems in fair division
 List of unsolved problems in geoscience
@@ -109652,7 +109522,6 @@ Listen
 Listen (Doctor Who)
 Listen Like Thieves
 Listen Up! The Official 2010 FIFA World Cup Album
-Listen Without Prejudice Vol. 1
 Listen to Me, Girls. I Am Your Father!
 Listen to What the Man Said
 Listen to the Music
@@ -109676,7 +109545,6 @@ Lists of Nobel laureates
 Lists of Olympic medalists
 Lists of Olympic water polo records and statistics
 Lists of One Piece chapters
-Lists of One Piece episodes
 Lists of Oregon-related topics
 Lists of Presidents
 Lists of U.S. state topics
@@ -112854,6 +112722,8 @@ Luhn algorithm
 Luhn mod N algorithm
 Luidia senegalensis
 Luigi
+Luigi (character)
+Luigi (given name)
 Luigi Bianchi
 Luigi Boccherini
 Luigi Bruins
@@ -116905,6 +116775,7 @@ Masaesyli
 Masai giraffe
 Masaki Kashiwara
 Masala chai
+Masalli District
 Masally District
 Masami Akita discography
 Masamichi Takesaki
@@ -117470,6 +117341,7 @@ Mathematics of artificial neural networks
 Mathematics of bookmaking
 Mathematics of cyclic redundancy checks
 Mathematics of general relativity
+Mathematics of neural networks in machine learning
 Mathematics of paper folding
 Mathematics of three-phase electric power
 Mathematics, Form and Function
@@ -118358,6 +118230,7 @@ McAfee VirusScan
 McAfee WebAdvisor
 McCain Institute
 McCarthyism
+McCollough effect
 McCool Stadium
 McCulloch v. Maryland
 McCune–Albright syndrome
@@ -118930,6 +118803,7 @@ Meant to Fly
 Meant to Live
 Meantime (book)
 Meantime (film)
+Meantime (novel)
 Meantime (video game)
 Meantime Brewery
 Meantone organs in North America
@@ -121381,6 +121255,7 @@ Methylated-DNA–protein-cysteine methyltransferase
 Methylation
 Methylcellulose
 Methylchloroisothiazolinone
+Methylcobalamin
 Methylcyclohexane
 Methylene (compound)
 Methylene blue
@@ -121392,6 +121267,7 @@ Methylenecyclopropane
 Methylenetriphenylphosphorane
 Methylepitiostanol
 Methylidyne radical
+Methylidynetricobaltnonacarbonyl
 Methyllithium
 Methylmagnesium chloride
 Methylmercury
@@ -121513,6 +121389,7 @@ Metropolitan District of Caracas
 Metropolitan France
 Metropolitan Museum of Art
 Metropolitan Police
+Metropolitan Region Amsterdam
 Metropolitan Region of Caracas
 Metropolitan Statistical Area
 Metropolitan Statistical Areas of New Jersey
@@ -121886,6 +121763,7 @@ Michael Robotham
 Michael Rockefeller
 Michael Rooker
 Michael Rosen
+Michael Rosen (author)
 Michael Rosenbaum
 Michael Rowan-Robinson
 Michael Rowbotham
@@ -122940,6 +122818,7 @@ Mihalj Šilobod Bolšić
 Mihira Bhoja
 Mihyun Kang
 Mika (singer)
+Mikayla Raines
 Mike
 Mike (musician)
 Mike Adamle
@@ -123176,6 +123055,7 @@ Milisav Popović
 Milisav Savić
 Milisav Sećković
 Milisav Čamdžija
+Milisav Šećković
 Milislav Demerec
 Milislav Popovic
 Milison Niasexe
@@ -123192,6 +123072,7 @@ Military aircraft
 Military alliance
 Military animal
 Military attaché
+Military awards and decorations
 Military branch
 Military camouflage
 Military campaign
@@ -124653,6 +124534,7 @@ Model-driven application
 Model-driven architecture
 Model-driven engineering
 Model-driven integration
+Model-driven interoperability
 Model-driven security
 Model-free (reinforcement learning)
 Model-theoretic grammar
@@ -125475,6 +125357,7 @@ Monitor Latino
 Monitor lizard
 Monitor mode
 Monitorial System
+Monitorial system
 Monitoring (medicine)
 Monitoring and evaluation
 Monitoring in clinical trials
@@ -127361,7 +127244,9 @@ Multinomial logistic regression
 Multinomial logit
 Multinomial probit
 Multinuclear
+Multinuclear cell
 Multinucleate
+Multinucleate cell
 Multiobjective optimization
 Multipartite entanglement
 Multipartite graph
@@ -128395,6 +128280,8 @@ Myrmicinae
 Myron Mathisson
 Myron Seiliger
 Myrothecium
+Myroxylon
+Myroxylon balsamum
 Myrrh
 Myrtaceae
 Myrtales
@@ -130038,6 +129925,7 @@ National University of Singapore
 National academy
 National accounts
 National anthem
+National anthem of Belarus
 National conventions for writing telephone numbers
 National data protection authority
 National delimitation in the Soviet Union
@@ -130261,6 +130149,7 @@ Nauplius (plant)
 Nauplius aquaticus
 Nauru
 Nauru graph
+Nausea
 Nausica Pedersoli
 Nausicaa
 Nausicaa (disambiguation)
@@ -130567,6 +130456,7 @@ Ned, Kentucky
 Neda Bokan
 Nedanamuiyeh
 Nedaplatin
+Neder-Over-Heembeek
 Nederland, Texas
 Nederlande
 Nederlandia
@@ -131466,6 +131356,7 @@ Neuralink
 Neuralla
 Neurally adjusted ventilatory assist
 Neurally controlled animat
+Neuraminic acid
 Neuraminidase
 Neurapraxia
 Neurasthenia
@@ -132925,6 +132816,7 @@ Nitrosourea
 Nitrosyl chloride
 Nitrous acid
 Nitrous oxide
+Nitroxyl
 Niue dollar
 Niulang
 Niushan Island
@@ -134056,6 +133948,7 @@ Norse colonization of North America
 Norse colonization of the Americas
 Norse mythology
 Norse paganism
+Norse settlement of North America
 Norsemen
 Norse–Gaels
 Norskedalen
@@ -134068,7 +133961,6 @@ North African Sephardim
 North America
 North America Nebula
 North America and West Indies Station
-North American B-25 Mitchell
 North American Datum
 North American Electric Reliability Corporation
 North American English
@@ -134227,6 +134119,7 @@ Northern Electricity Supply Company Limited
 Northern Elements Progressive Union
 Northern Elite League
 Northern Embera language
+Northern Emberá language
 Northern England
 Northern Epirote Declaration of Independence
 Northern Epirus
@@ -134735,6 +134628,7 @@ Nuclear Age Peace Foundation
 Nuclear Assault
 Nuclear Blast
 Nuclear Blast All-Stars: Out of the Dark
+Nuclear Blast Records
 Nuclear C*-algebra
 Nuclear Destruction
 Nuclear Energy (sculpture)
@@ -135526,6 +135420,7 @@ OBD-II PIDs
 OBJ (programming language)
 OBO Foundry
 OBR Open Building Research
+OC (film)
 OC Fair & Event Center
 OC Film
 OCA - Asian Pacific American Advocates
@@ -136207,7 +136102,6 @@ Odds algorithm
 Odds ratio
 Oddworld
 Oddworld Inhabitants
-Oddworld: Abe's Oddysee
 Oddworld: New 'n' Tasty!
 Oddy test
 Odd–even sort
@@ -136261,6 +136155,7 @@ Odorizer
 Odorrana
 Odorrana graminea
 Odorrana jingdongensis
+Odotope theory
 Odour of sanctity
 Odysseus
 Odysseus Unbound
@@ -136351,6 +136246,7 @@ Of Time and the City
 Of Time and the River
 Of Truth and Sacrifice
 Of Two Minds (book)
+Of Wayward Love
 Of an Age
 Of counsel
 Of the Blue Colour of the Sky
@@ -136381,6 +136277,7 @@ Off-by-one error
 Off-color humor
 Off-diagonal
 Off-diagonal element
+Off-hook tone
 Off-road transport
 Off-road vehicle
 Off-side rule
@@ -137895,6 +137792,7 @@ Onsemi
 Onsen
 Onsernone
 Onshape
+Onsite sanitation
 Onslaught (Magic: The Gathering)
 Onslaught (Marvel Comics)
 Onslaught (band)
@@ -139167,6 +139065,7 @@ Ordered exponential field
 Ordered field
 Ordered geometry
 Ordered group
+Ordered key–value store
 Ordered logic
 Ordered logit
 Ordered pair
@@ -139480,6 +139379,7 @@ Organobromine compound
 Organochloride
 Organochlorine chemistry
 Organochlorine compound
+Organocobalt chemistry
 Organodesma
 Organofluorine
 Organofluorine chemistry
@@ -140695,6 +140595,7 @@ Overprint
 Overproduction
 Overqualification
 Oversampling
+Overscan
 Overseas Chinese
 Overseas Citizenship of India
 Overseas France
@@ -141666,6 +141567,7 @@ Paint Creek Township, Allamakee County, Iowa
 Paint It Black
 Paint by number
 Paint stripper
+Paint thinner
 Paint.net
 PaintShop Pro
 Paintball
@@ -142325,6 +142227,7 @@ Paolo Monaldi
 Paolo Ruffini
 Paolo Soleri
 Paolo Uccello
+Paolo Veronese
 Paonidia
 Papa Roach
 Papageno
@@ -144383,6 +144286,7 @@ Peipiaosteus
 Peirano Market
 Peirce Secondary School
 Peirce quincuncial projection
+Peirce quincuncial projection/temp
 Peirce's criterion
 Peirce's law
 Peirce's type-token distinction
@@ -144559,6 +144463,7 @@ Penjing
 Penmanship
 Penn effect
 Pennamite–Yankee War
+Pennamite–Yankee Wars
 Pennate muscle
 Pennation angle
 Pennatulacea
@@ -145643,6 +145548,7 @@ Peter Sagan
 Peter Schiller (neuroscientist)
 Peter Schott
 Peter Schuster
+Peter Schuster (theoretical chemist)
 Peter Schweizer
 Peter Scott (educationalist)
 Peter Sendscheid
@@ -146398,7 +146304,6 @@ Phoenix (plant)
 Phoenix (son of Amyntor)
 Phoenix Beverages
 Phoenix Five (prank)
-Phoenix Wright: Ace Attorney
 Phog Allen
 Phogat sisters
 Pholcidae
@@ -146518,6 +146423,7 @@ Phosphines
 Phosphite ester
 Phosphoamino acid analysis
 Phosphoanhydride
+Phosphocholine
 Phosphocreatine
 Phosphodiester
 Phosphodiester bond
@@ -147246,6 +147152,7 @@ Pierre Guillaume Frédéric le Play
 Pierre Humbert (mathematician)
 Pierre Janet
 Pierre Jaquet-Droz
+Pierre Joseph Pelletier
 Pierre Louis Maupertuis
 Pierre Louis de Saffon
 Pierre Lévy
@@ -147342,6 +147249,7 @@ Pilj Waterfall
 Pill millipede
 Pill of Immortality
 Pillararene
+Pillarbox
 Pillars of Ashoka
 Pillars of Creation
 Pilocarpine
@@ -147553,6 +147461,7 @@ Pixar RenderMan
 Pixel
 Pixel Camera
 Pixel connectivity
+Pixel density
 Pixel-art scaling algorithms
 Pixelization
 Pixie (renderer)
@@ -151665,6 +151574,7 @@ Privacy Impact Assessment
 Privacy Leadership Initiative
 Privacy concerns with social networking services
 Privacy engineering
+Privacy impact assessment
 Privacy law
 Privacy law - Group D
 Privacy-enhancing technologies
@@ -152338,6 +152248,7 @@ Proof-theoretic
 Proof-theoretic ordinal
 Proof-theoretic semantics
 Proofing (baking technique)
+Proofpoint
 Proofpoint, Inc.
 Proofreading
 Proofreading (biology)
@@ -152494,6 +152405,10 @@ Prospect theory
 Prospect, Connecticut
 Prospection
 Prospective cost
+Prospectus
+Prospectus (book)
+Prospectus (finance)
+Prospectus (university)
 Prosper Garnot
 Prosperity theology
 Prospero Alpini
@@ -153215,6 +153130,7 @@ Pseudospectrum
 Pseudosphere
 Pseudospherical surface
 Pseudostigmatidae
+Pseudostigmatinae
 Pseudostratified columnar epithelium
 Pseudosuchia
 Pseudotensor
@@ -153904,6 +153820,7 @@ Pyralidae
 Pyralis farinalis
 Pyraloidea
 Pyramid
+Pyramid (American game show)
 Pyramid (franchise)
 Pyramid (geometry)
 Pyramid (image processing)
@@ -154194,6 +154111,7 @@ Qahtanite
 Qajar Iran
 Qala e Naw
 Qalam
+Qanun (law)
 Qapugtang
 Qapulukh
 Qari Shakir Qasmi
@@ -154259,6 +154177,7 @@ Qiniq (tribe)
 Qinling–Huaihe Line
 Qira'at
 Qiraʼat
+Qisas
 Qkumba Zoo
 Qobuz
 Qocho
@@ -155902,6 +155821,7 @@ Ramanujan tau function
 Ramanujan theta function
 Ramanujan's congruences
 Ramanujan's master theorem
+Ramanujan's sum
 Ramanujan's ternary quadratic form
 Ramanujan–Petersson conjecture
 Ramapir Temple, Tando Allahyar
@@ -156578,6 +156498,7 @@ Reading F.C.
 Reading and Leeds Festivals
 Reading and Leeds Festivals line-ups
 Reading comprehension
+Reading law
 Reading railway station
 Reading, Berkshire
 Reading, Massachusetts
@@ -156611,7 +156532,6 @@ Real Madrid Baloncesto
 Real Madrid CF
 Real Madrid Castilla
 Real Salt Lake
-Real Sociedad
 Real Zaragoza
 Real algebraic geometry
 Real analysis
@@ -156798,8 +156718,13 @@ Recalled (film)
 Recalled comics
 Recapitulation theory
 Recceswinth
+Received Pronunciation
+Received signal strength indicator
 Received view of theories
 Receiver (radio)
+Receiver Operating Characteristic Curve Explorer and Tester
+Receiver autonomous integrity monitoring
+Receiver function
 Receiver operating characteristic
 Receiver operator curve
 Receiving
@@ -156857,6 +156782,7 @@ Reciprocity (social psychology)
 Reciprocity law
 Recirculating aquaculture system
 Reciting tone
+Reclaimed water
 Reclus family
 Recogida
 Recognition
@@ -157120,6 +157046,7 @@ Red Wallace
 Red algae
 Red blood cell
 Red bone marrow
+Red chalk
 Red coat (military uniform)
 Red colobus
 Red dwarf
@@ -157443,6 +157370,7 @@ Reform Judaism
 Reform Party (Iceland)
 Reform Party (Northern Mariana Islands)
 Reform UK
+Reform UK/temp
 Reform and Opening Up
 Reform and opening up
 Reform movement
@@ -158188,6 +158116,7 @@ Repository
 Repository (version control)
 Repository Open Service Interface Definition
 Repository for Germinal Choice
+Repoussoir
 Repoussé and chasing
 Representable functor
 Representation (arts)
@@ -158743,6 +158672,7 @@ Reuben Goodstein
 Reuleaux triangle
 Reusability
 Reuse
+Reuse of human excreta
 Reuterin
 Reuven Ramaty High Energy Solar Spectroscopic Imager
 Reuven Rubinstein
@@ -159077,6 +159007,7 @@ Rhomboid major muscle
 Rhomboid minor muscle
 Rhombus
 Rhomos
+Rhona Stainthorp
 Rhonda Byrne
 Rhonda Hatcher
 Rhonda Hughes
@@ -162012,7 +161943,6 @@ SAT solver
 SAVILLE
 SB buffer
 SC 1880 Frankfurt
-SC Freiburg
 SC Freiburg (women)
 SC Freiburg II
 SCADA
@@ -162113,6 +162043,7 @@ SKD Prosvjeta
 SKI combinator calculus
 SKI protein
 SKZ-Replay
+SKlBlDl TOI ET
 SL2(R)
 SLC22A7
 SLC22A8
@@ -162987,6 +162918,7 @@ Sam Mbakwe Airport
 Sam Mendes
 Sam Merwin Jr.
 Sam Moskowitz
+Sam Neill
 Sam Poo Kong
 Sam Seder
 Sam Spade
@@ -163301,6 +163233,7 @@ Sandrine Péché
 Sandro Pertini
 Sandstone
 Sandstone universities
+Sandwich compound
 Sandwich, Kent
 Sandwich-structured composite
 Sandy Bridge
@@ -163320,6 +163253,7 @@ Sangar (fortification)
 Sanger
 Sanger D. Shafer
 Sanger High School
+Sanger High School (Texas)
 Sanger sequencing
 Sanger, California
 Sanger, Texas
@@ -163503,6 +163437,7 @@ Sarah Blaffer Hrdy
 Sarah Boone
 Sarah D. Allen Oren Haynes
 Sarah Darby
+Sarah Feinberg
 Sarah Flannery
 Sarah Frances Whiting
 Sarah Glaz
@@ -164429,6 +164364,8 @@ Scientific and Cultural Facilities District
 Scientific and Technical Advisory Panel
 Scientific and Technical Centre for Building
 Scientific and Technological Research Council of Turkey
+Scientific and Technological Research Council of Türkiye
+Scientific and Technological Research Institute of Turkey
 Scientific calculator
 Scientific collection
 Scientific community
@@ -164624,6 +164561,7 @@ Scout Alliance
 Scout method
 Scouter's Training Award
 Scouting
+Scouting America
 Scrabble
 Scrambling (linguistics)
 Scramjet
@@ -164645,7 +164583,6 @@ Screamer 2
 Screamer 4x4
 Screamers (1995 film)
 Screamers (2006 film)
-Screamers: The Hunting
 Screaming
 Screaming (music)
 Screaming Life
@@ -165005,6 +164942,7 @@ Sebayt
 Sebennytic
 Seborrhoeic dermatitis
 Sebum
+Sec-Butyl acetate
 Secant (trigonometry)
 Secant line
 Secant method
@@ -165126,6 +165064,7 @@ Section 230 of the Communications Decency Act
 Section 28
 Section 33 of the Canadian Charter of Rights and Freedoms
 Section 377
+Section 377A
 Section 377A (Singapore)
 Section 44 of the Constitution of Australia
 Section 63 of the Criminal Justice and Immigration Act 2008
@@ -165233,6 +165172,7 @@ Sedimentation enhancing strategy
 Sedimentation equilibrium
 Sedimentation potential
 Sedimentation rate
+Sedimentation tank
 Sedimentology
 Sedin-e Do
 Sedin-e Yek
@@ -166144,6 +166084,7 @@ Seppo Linnainmaa
 Seppuku
 Sepro Mineral Systems
 Sepsis
+Septage
 Septate
 September 11 attacks
 September equinox
@@ -166189,6 +166130,7 @@ Sequence stratigraphy
 Sequence transformation
 SequenceBase
 Sequencing
+Sequencing batch reactor
 Sequent
 Sequent calculus
 Sequential (company)
@@ -166576,6 +166518,8 @@ Severo Ochoa
 Severo Ornstein
 Sevilla FC Puerto Rico
 Seville
+Sewage
+Sewage sludge
 Sewage system
 Sewage treatment
 Sewall Wright
@@ -167073,6 +167017,7 @@ Shaun of the Dead
 Shauna S. Roberts
 Shaura
 Shauraseni Prakrit
+Shavian alphabet
 Shaw Communications
 Shawm
 Shawn Michaels
@@ -167510,6 +167455,7 @@ Shoal
 Shoal Bay, New South Wales
 Shoal Creek Club
 Shoal Creek Township, Bond County, Illinois
+Shoal Creek Township, Illinois
 Shoal Creek, Austin, Texas
 Shoal Lake 40 First Nation
 Shoal Lake, Manitoba
@@ -167584,6 +167530,7 @@ Shoot
 Shoot 'em up
 Shoot (botany)
 Shoot (professional wrestling)
+Shoot and protect
 Shoot apical meristem
 Shooting of Michael Brown
 Shooting range
@@ -168087,6 +168034,7 @@ Sickoakes
 Sickology 101
 Siculo-Arabic
 Sicyon
+Sid Davis
 Sid Mark
 Sid Meier's Alpha Centauri
 Sid Parnes
@@ -169023,6 +168971,7 @@ SipHash
 Siphon
 Siphonariidae
 Siphonophorae
+Siphonophore
 Siphonostomatoida
 Siphuncle
 Sipirok
@@ -169571,6 +169520,8 @@ Slowing Down the World
 Slowinski
 Slowinski's corn snake
 Slowsort
+Sludge
+Sludge bulking
 Sludge metal
 Slug
 Slug (typesetting)
@@ -169763,9 +169714,14 @@ Smith–Waterman algorithm
 Smn theorem
 Smoke
 Smoke Boys
+Smoke detector
 Smoke inhalation
 Smoke on the Water
 Smoke signal
+Smoke testing
+Smoke testing (electrical)
+Smoke testing (mechanical)
+Smoke testing (software)
 Smokejumper
 Smokeless powder
 Smokey Stover
@@ -170121,6 +170077,7 @@ Social fund
 Social good
 Social graph
 Social group
+Social guidance film
 Social hierarchy
 Social identity
 Social identity approach
@@ -170198,6 +170155,7 @@ Social policy of the Joe Biden administration
 Social position
 Social practice theory
 Social pressure
+Social problem film
 Social procedure
 Social profiling
 Social progress
@@ -170446,6 +170404,7 @@ Soffiantini v Mould
 Soffit
 Soffiya
 Soffiyah Elijah
+Soffred
 Soffredo
 Soffy Walleen
 Soffía Arnþrúður Gunnarsdóttir
@@ -170839,6 +170798,7 @@ Solvated electron
 Solvated metal atom dispersion
 Solvation
 Solvation shell
+Solvay S.A.
 Solve
 Solve (advertising agency)
 Solve Education
@@ -171312,6 +171272,7 @@ Sony
 Sony Entertainment
 Sony Interactive Entertainment
 Sony Music
+Sony Music Entertainment (United States)
 Sony Music Group
 Sony Pictures hack
 Sony PlayStation
@@ -171574,6 +171535,7 @@ Sound wave
 Sound! Euphonium
 SoundCloud
 SoundScriber
+SoundSpel
 SoundTrack Cologne
 Soundcraft
 Soundcraftsmen
@@ -171876,6 +171838,7 @@ Space and time
 Space archaeology
 Space architecture
 Space art
+Space blanket
 Space capsule
 Space colonization
 Space complexity
@@ -172506,6 +172469,7 @@ Sphexishness
 Sphincter
 Sphingidae
 Sphingolipid
+Sphingomyelin
 Sphingonotus
 Sphinx
 Sphinx of Naxos
@@ -174293,6 +174257,7 @@ Stevedore knot (mathematics)
 Steven A. Leadon
 Steven Anson Coons
 Steven Barnes
+Steven Bartlett (businessman)
 Steven Bauer
 Steven Block
 Steven Brust
@@ -176023,6 +175988,7 @@ Sufyan al-Thawri
 Sufyan ibn ʽUyaynah
 Sugar
 Sugar Land
+Sugar acid
 Sugar apple
 Sugar beet
 Sugar pill
@@ -176516,6 +176482,7 @@ SureType
 Surehvan
 Surel
 Surel's Place
+Surel, Ashok Nagar
 Surely
 Surely You Joust
 Surely You're Joking, Mr. Feynman!
@@ -176736,6 +176703,7 @@ Sustainable development
 Sustainable energy
 Sustainable food system
 Sustainable food systems
+Sustainable sanitation
 Sustainable transport
 Sustainable urbanism
 Susumu Okubo
@@ -176847,6 +176815,7 @@ Swedenborg 1714 Flying Machine
 Swedenborg Rite
 Swedenborg Society
 Swedenborgian Church
+Swedenborgian Church (San Francisco)
 Swedenborgian Church (San Francisco, California)
 Swedenborgian Church of North America
 Sweden–NATO relations
@@ -176855,7 +176824,6 @@ Swedish Armed Forces
 Swedish East Indian Company
 Swedish Governors-General
 Swedish Levant Company
-Swedish Open
 Swedish Pomerania
 Swedish Royal Academies
 Swedish Social Democratic Party
@@ -177782,6 +177750,8 @@ TDF–OLA joint offensive
 TDR moisture sensor
 TEAM for a Livable Vancouver
 TECO (text editor)
+TEED
+TEED (electronic music producer)
 TEM cell
 TER Centre-Val de Loire
 TEst
@@ -177922,6 +177892,7 @@ Table (furniture)
 Table (information)
 Table (landform)
 Table (parliamentary procedure)
+Table Head
 Table Hill
 Table Hill (Newfoundland and Labrador)
 Table Mountain
@@ -178419,6 +178390,7 @@ Tall bike
 Tall poppy syndrome
 Tall tale
 Talla Castle
+Tallage
 Talluza
 Tally marks
 Talon Zipper
@@ -179009,6 +178981,7 @@ Tax break
 Tax deduction
 Tax evasion
 Tax exemption
+Tax farming
 Tax haven
 Tax inversion
 Tax law
@@ -179082,6 +179055,7 @@ Taylor–Culick flow
 Taylor–Proudman theorem
 Tazemetostat
 Tazenda
+Tazir
 Tazti
 Taça da Liga
 Taíno
@@ -180612,6 +180586,7 @@ The Allegory of Hearing
 The Allegory of Love
 The Allegory of Love (Veronese)
 The Alley
+The Alley (Oakland, California)
 The Alley Bar
 The Alley Cat (1929 film)
 The Alley Cat (1941 film)
@@ -181149,6 +181124,7 @@ The Hidden People
 The Hidden Power of the Dragon Sabre
 The Hideous Sun Demon
 The Hierophant
+The Highwaymen
 The Highwaymen (country supergroup)
 The Highwomen
 The Hill (newspaper)
@@ -181740,7 +181716,6 @@ The Polymath
 The Polynin Case
 The Pope and the Witch
 The Pope of Greenwich Village
-The Popeye Show
 The Poppy War
 The Popular Right
 The Postmodern Condition
@@ -181963,7 +181938,6 @@ The Surprising Archaea
 The Sxplay
 The Sydney Morning Herald
 The System or Theory of the Trade of the World
-The Take Out Move
 The Takeaway
 The Tale of Custard the Dragon
 The Tale of the Flopsy Bunnies
@@ -182316,6 +182290,7 @@ Thelytoky
 Them
 Them (TV series)
 Them (band)
+Them (magazine)
 Them (website)
 Them Crooked Vultures
 Them Heavy People
@@ -183057,6 +183032,7 @@ Third Agricultural Revolution
 Third Cabinet of Saad Hariri
 Third Dynasty of Ur
 Third Front (India)
+Third Industrial Revolution (Information Age)
 Third International Theory
 Third Italian War of Independence
 Third Mithridatic War
@@ -183800,6 +183776,7 @@ Tim Powers
 Tim Shallice
 Tim Urban (blogger)
 Tim Walz
+Tim Willits
 Tim9-Tim10 complex
 Timber bridge
 Timbre
@@ -184346,7 +184323,6 @@ Together We're Stranger
 Together We're Strong
 Together When...
 Together With Me
-Together at Home
 Together for Catalonia
 Together for Catalonia (2017)
 Together for Catalonia (2020)
@@ -184436,6 +184412,7 @@ Tolowa language
 Toltec
 Toltec Empire
 Toltrazuril
+Tolu balsam
 Toluca
 Toluene
 Tolui
@@ -185939,6 +185916,7 @@ Travis Tygart
 Travis Willingham
 Travis and Bob
 Travis d'Arnaud
+Travis love to chew on Bsadowski1s tyres
 Travist Joseph
 Travistan
 Trazodone
@@ -186417,6 +186395,7 @@ Triflyl group
 Trifocal tensor
 Trigedasleng
 Trigeminal nerve
+Trigger film
 Trigger strategy
 Triggerfish
 Triggerplants
@@ -186797,6 +186776,7 @@ Tropospheric scatter
 Tropylium
 Tropylium cation
 Tropylium tetrafluoroborate
+Trost ligand
 Trota of Salerno
 Trotula
 Troubadour
@@ -187063,6 +187043,7 @@ Tsuga sieboldii
 Tsugaru Peninsula
 Tsugaru Strait
 Tsugaru, Aomori
+Tsuji–Trost reaction
 Tsukuba
 Tsumeb
 Tsunami
@@ -188650,6 +188631,7 @@ Ultraviolet light
 Ultraviolet light therapy
 Ultraviolet radiation
 Ultraweak topology
+Ultrawide formats
 Ultrix
 Uludağ
 Ulva lactuca
@@ -189000,6 +188982,7 @@ Unified power
 Unified process
 Unified structured inventive thinking
 Uniflow scavenging
+Unifon
 Uniform
 Uniform 1 k2 polytope
 Uniform 10-polytope
@@ -189828,6 +189811,7 @@ Unmatched count
 Unmixedness theorem
 Unmoved mover
 Unno Juza
+Unno Jūza
 Unnormalized form
 Uno
 Uno (Better Call Saul)
@@ -190214,6 +190198,7 @@ Urinary bladder
 Urinary system
 Urination
 Urine
+Urine-diverting dry toilet
 Urla, İzmir
 Urmia Manifesto of the United Free Assyria
 Urmila
@@ -190473,6 +190458,7 @@ Usman Ally
 Usman Buzdar
 Usman Garuba
 Usman Kakar
+Usman Khan (murderer)
 Usman Khan (terrorist)
 Usman Khawaja
 Usman Mukhtar
@@ -190993,6 +190979,7 @@ Vampira (1974 film)
 Vampire
 Vampire literature
 Vampire squid
+Vampirovibrionophyceae
 Van 't Hoff equation
 Van 't Hoff factor
 Van Allen Plexico
@@ -191936,6 +191923,7 @@ Victor Vasiliev
 Victor Veselago
 Victor Weisskopf
 Victoria Braithwaite
+Victoria Cross
 Victoria Elisabeth von Hohenlohe-Langenburg
 Victoria Foe
 Victoria Hale
@@ -192412,6 +192400,7 @@ Vinod Rai
 Vinodhaya Sitham
 Vinodhini Vaidyanathan
 Vinogradov's mean-value theorem
+Vinogradov's theorem
 Vinoo Mankad
 Vinorelbine
 Vinovia
@@ -193107,6 +193096,7 @@ Volvocisporium
 Vombatidae
 Vombatiformes
 Vomeronasal organ
+Vomiting
 Von Bertalanffy function
 Von Economo neuron
 Von Erich family
@@ -195138,6 +195128,7 @@ White power music
 White power skinhead
 White pride
 White pulp
+White spirit
 White sturgeon
 White sugar
 White supremacy
@@ -195502,6 +195493,7 @@ Wilhelm Peters
 Wilhelm Prausnitz
 Wilhelm Reich
 Wilhelm Röntgen
+Wilhelm Schneider (engineer)
 Wilhelm Specht
 Wilhelm Weinberg
 Wilhelm Weitling
@@ -195510,6 +195502,7 @@ Wilhelm Winkler
 Wilhelm Wundt
 Wilhelm scream
 Wilhelm von Humboldt
+Wilhelm von der Emde
 Wilhelmina Feemster Jashemski
 Wilhelmus Luxemburg
 Wilhermsdorf
@@ -195847,6 +195840,7 @@ Wilma Olson
 Wilmar H. Shiras
 Wilmot, Ontario
 Wilms' tumor
+Wilson Bethel
 Wilson Lowry
 Wilson Teixeira Beraldo
 Wilson Tucker (writer)
@@ -196368,7 +196362,6 @@ Women in aviation
 Women in film
 Women in geology
 Women in medicine
-Women in music
 Women in science
 Women in the Philippines
 Women who have sex with women
@@ -197357,6 +197350,7 @@ Xin dynasty
 Xincan languages
 Xinetd
 Xingkong (camouflage)
+Xingtai
 Xinhai revolution
 Xining
 Xinjiang
@@ -198051,6 +198045,7 @@ Yapp Hung Fai
 Yaprak Dökümü (TV series)
 Yapunyah waterhole
 Yaqob
+Yaqob of Ethiopia
 Yaquina Bay
 Yaquina River
 Yaracuy
@@ -198136,6 +198131,7 @@ Yegor Irodov
 Yegor Ivanovich Zolotarev
 Yegor Ivanovich Zolotaryov
 Yegor Letov
+Yegor Ligachev
 Yegor Ligachyov
 Yegor Sharangovich
 Yegor Titov
@@ -198915,6 +198911,7 @@ Yusuf al-Qaradawi
 Yusufali Kechery
 Yusufeli
 Yusufzai
+Yusvinsky District
 Yutaka Taniyama
 Yuu (wrestler)
 Yuu Kamiya
@@ -199328,6 +199325,7 @@ Zimbabwe African National Union – Ndonga
 Zimbabwe African People's Union
 Zimbabwe Council of Chiefs
 Zimmermann telegram
+Zina
 Zinc
 Zinc dithiophosphate
 Zinc finger nuclease
@@ -199364,6 +199362,7 @@ Zionism in the Age of the Dictators
 Zionist Occupation Government conspiracy theory
 Zionist antisemitism
 Zionist churches
+Zionist occupation government conspiracy theory
 Zionist political violence
 Zionsville, Indiana
 Zipf's law
@@ -199767,6 +199766,7 @@ Zürich Metropolitan Area
 Émile Picard Medal
 Émilie du Châtelet
 Épineuil-le-Fleuriel
+Éraic
 Étale cohomology
 Étale fundamental group
 Étale morphism
