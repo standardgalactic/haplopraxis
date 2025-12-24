@@ -1,0 +1,293 @@
+/* Haplopraxis — CRT + starfield UI */
+
+:root{
+  --bg:#0b0e0c;
+  --fg:#b6ffb6;
+  --accent:#22ff66;
+  --dim:rgba(182,255,182,0.70);
+  --shadow:rgba(0,255,100,0.20);
+  --toast-bg: rgba(0,0,0,0.6);
+}
+
+*{ box-sizing:border-box; }
+
+/* CRITICAL: lock viewport, prevent scroll */
+html, body {
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  overflow:hidden;              /* ★ FIX */
+  background:var(--bg);
+  color:var(--fg);
+  font-family:
+    ui-monospace, SFMono-Regular,
+    Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New",
+    monospace;
+}
+
+/* ============================
+   STARFIELD CANVAS (BACKGROUND)
+============================ */
+
+#starfield {
+  position: fixed;
+  inset: 0;                      /* ★ simpler than top/left */
+  width: 100vw;
+  height: 100vh;
+  display: block;
+  z-index: 0;                    /* ★ MUST be lowest */
+  pointer-events: none;          /* ★ FIX: don't eat clicks */
+  background:
+    radial-gradient(
+      ellipse at center,
+      rgba(10,12,9,0.9),
+      rgba(2,3,2,1) 70%
+    );
+}
+
+/* ============================
+   MAIN UI PANEL
+============================ */
+
+.screen{
+  position: relative;            /* ★ creates stacking context */
+  z-index: 10;                   /* ★ above canvas */
+  max-width: 760px;
+  margin: 2rem auto;
+  padding: 1.25rem;
+
+  border: 1px solid var(--accent);
+  box-shadow: 0 0 22px var(--shadow);
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(2,3,2,0.65),
+      rgba(0,0,0,0.55)
+    );
+
+  backdrop-filter: blur(2px);
+
+  opacity: 1;
+  transition: opacity 0.5s ease;   /* ★ faster fade */
+}
+
+.screen.hidden{
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* ============================
+   TITLES & HEADERS
+============================ */
+
+.gameTitle{
+  text-align:center;
+  margin-bottom:1rem;
+}
+.gameTitle .name{
+  font-size:1.5rem;
+  letter-spacing:0.02em;
+}
+.gameTitle .tag{
+  font-size:0.85rem;
+  opacity:0.75;
+}
+
+.headerbar{
+  display:flex;
+  gap:0.75rem;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom: 1rem;
+}
+.headerbar .left{ opacity:0.95; }
+.headerbar .right{
+  display:flex;
+  gap:0.5rem;
+  flex-wrap:wrap;
+  align-items:center;
+}
+.controls{
+  display:flex;
+  gap:0.4rem;
+  align-items:center;
+}
+
+/* ============================
+   INTERACTION ELEMENTS
+============================ */
+
+button{
+  background: transparent;
+  color: var(--fg);
+  border: 1px solid var(--accent);
+  padding: 0.35rem 0.6rem;
+  cursor:pointer;
+}
+button:hover{
+  background: rgba(0,255,100,0.06);
+}
+
+.nodeTitle{
+  font-size:1.05rem;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:0.5rem;
+}
+.nodeTitle .badge{
+  font-size:0.85rem;
+  color:var(--dim);
+  border:1px solid rgba(255,255,255,0.03);
+  padding:0.12rem 0.3rem;
+  border-radius:3px;
+}
+
+.text{
+  white-space:pre-wrap;
+  margin-bottom: 0.6rem;
+  opacity:0.95;
+}
+
+.item{
+  border: 1px dashed var(--accent);
+  padding: 0.45rem;
+  margin-bottom: 0.45rem;
+  cursor: pointer;
+  opacity:0.92;
+}
+.item:hover{
+  background: rgba(0,255,100,0.07);
+}
+
+.actions button{
+  display:block;
+  width:100%;
+  text-align:left;
+  margin-bottom:0.4rem;
+  padding:0.55rem;
+}
+
+.log{
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  opacity:0.65;
+}
+
+.smallNote{
+  font-size:0.85rem;
+  color: var(--dim);
+}
+
+/* ============================
+   TOASTS & EFFECTS
+============================ */
+
+.toast {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 50;                   /* ★ above everything */
+
+  background: var(--toast-bg);
+  color: var(--fg);
+  border: 1px solid rgba(34,255,102,0.12);
+  padding: 0.6rem 0.8rem;
+  min-width: 220px;
+  font-size: 0.95rem;
+
+  border-radius: 6px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.6);
+
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 240ms ease, transform 240ms ease;
+}
+.toast.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.flash-border {
+  animation: flashBorder 380ms ease;
+}
+@keyframes flashBorder {
+  0%   { box-shadow: 0 0 0 rgba(34,255,102,0.0); }
+  20%  { box-shadow: 0 0 22px rgba(34,255,102,0.25); }
+  100% { box-shadow: 0 0 0 rgba(34,255,102,0.0); }
+}
+
+/* ============================
+   CONTROL PANEL
+============================ */
+
+.controlPanel {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 40;
+
+  background-color: rgba(0,0,0,0.68);
+  color: var(--fg);
+  padding: 12px;
+  max-width: 320px;
+
+  border-radius: 8px;
+  border: 1px solid rgba(34,255,102,0.06);
+  font-size: 13px;
+}
+
+/* ============================
+   RETICLE & HUD
+============================ */
+
+.reticle {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 30;
+  pointer-events: none;
+
+  border: 2px solid rgba(34,255,102,0.12);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  mix-blend-mode: screen;
+}
+.reticle::after {
+  content: "";
+  position:absolute;
+  left:50%;
+  top:50%;
+  transform:translate(-50%,-50%);
+  width:6px;
+  height:6px;
+  background:var(--accent);
+  border-radius:50%;
+}
+
+.smallMuted{
+  opacity:0.7;
+  font-size:0.9rem;
+}
+
+.hud {
+  position: fixed;
+  left: 16px;
+  bottom: 16px;
+  z-index: 40;
+
+  color:var(--dim);
+  font-size:13px;
+  background:rgba(0,0,0,0.35);
+  padding:8px 10px;
+  border-radius:6px;
+  border:1px solid rgba(255,255,255,0.02);
+}

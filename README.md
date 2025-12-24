@@ -1,23 +1,22 @@
-#  - Haplopraxis
+# Haplopraxis (Starfield edition)
 
-## Phaistos Disc
+A tiny web game where history is the world — now with a navigable starfield.
 
-The Phaistos Disc is a famous archaeological find from the Minoan civilization, discovered in the Minoan palace of Phaistos. It is a unique disc made of fired clay, featuring a spiral of stamped symbols.
+What’s new
+- Canvas starfield with a controllable ship. Focus planets to interact.
+- Press Space while a planet is in the reticle to trigger that affordance (same effects as clicking).
+- Ship movement affects encounter ordering — the order you see things changes the autopsy.
+- Save / Load, Export / Import, Replay, Sample-lineage, toasts, and audio feedback retained.
+- Keyboard shortcuts: see the control panel (press C).
 
-[![Phaistos Disc](IFM/phaistos-disk.jpg)](https://standardgalactic.github.io/vectorspace/#/galaxy/word2vec-wiki?cx=-2381&cy=-476&cz=-1569&lx=0.0868&ly=0.8923&lz=0.3087&lw=-0.3177&ml=300&s=1.75&l=1&v=d50_clean)
+How to play
+1. Open `index.html`.
+2. Move with WASD. Use Q/E/H/L/J/K/R/F for extra view control (see the in-page control panel).
+3. Bring planets into the center reticle and press Space to interact.
+4. Use the UI buttons to Save, Load, Export, Import, Replay, or Reset.
 
-
-<!--
-![](IFM/simple-practice.png)
-https://standardgalactic.github.io/vectorspace/#/galaxy/word2vec-wiki?cx=-3208&cy=-8930&cz=2898&lx=-0.2059&ly=-0.6299&lz=-0.5451&lw=0.5135&ml=300&s=1.75&l=1&v=d50_clean
-
-
-The default branch has been renamed!
-master is now named   (now named primary)
-
-[![Broken Sign](broken-sign.gif)](https://standardgalactic.github.io)
-
-![](font-sample.png)
--->
-This page is live at [https://standardgalactic.github.io/haplopraxis](https://standardgalactic.github.io/haplopraxis)
-
+Files of interest
+- `index.html` — main page (now includes the starfield canvas)
+- `styles.css` — UI + starfield overlay styling
+- `game.js` — engine + starfield visuals + ship controls + focused-interaction
+- `sample-lineage.json` — example lineage

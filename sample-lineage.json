@@ -1,0 +1,57 @@
+[
+  {
+    "type": "SEEN",
+    "label": "seen:core-conduit",
+    "t": 1734980000000
+  },
+  {
+    "type": "POP",
+    "label": "activate-core",
+    "t": 1734980000500
+  },
+  {
+    "type": "SEEN",
+    "label": "seen:binding-sigil",
+    "t": 1734980000600
+  },
+  {
+    "type": "BIND",
+    "label": "chamber-bound",
+    "t": 1734980000700
+  },
+  {
+    "type": "SEEN",
+    "label": "seen:wall-relief",
+    "t": 1734980000800
+  },
+  {
+    "type": "POP",
+    "label": "relief-interpreted",
+    "t": 1734980000900
+  },
+  {
+    "type": "SEEN",
+    "label": "seen:floor-diagram",
+    "t": 1734980001000
+  },
+  {
+    "type": "POP",
+    "label": "diagram-interpreted",
+    "t": 1734980001100
+  },
+  {
+    "type": "POP",
+    "label": "dial-turned",
+    "t": 1734980001200
+  },
+  {
+    "type": "POP",
+    "label": "structural-instability",
+    "t": 1734980001300
+  },
+  {
+    "type": "POP",
+    "label": "overexpansion-failure",
+    "t": 1734980001400
+  }
+]

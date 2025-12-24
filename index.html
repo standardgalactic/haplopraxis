@@ -1,58 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phaistos Disc</title>
-    <style>
-        @font-face {
-            font-family: 'Sga-Regular';
-            src: url('fonts/Sga-Regular.ttf') format('truetype');
-            font-weight: normal;
-            font-style: normal;
-        }
-        body {
-            font-family: Arial, sans-serif;
-            color: #00ff00;
-            background: black;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            flex-direction: column;
-            text-align: center;
-        }
-        h1 {
-            font-family: 'Cursive Galactic', Arial, sans-serif;
-            font-size: 2em;
-        }
-        img {
-            max-width: 80%;
-            height: auto;
-            margin: 20px 0;
-            cursor: pointer;
-        }
-        a {
-            color: #00ff00;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .content {
-            padding: 20px;
-        }
-    </style>
+  <meta charset="utf-8">
+  <title>Haplopraxis</title>
+  <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-    <div class="content">
-        <h1>Phaistos Disc</h1>
-        <p>The Phaistos Disc is a famous archaeological find from the Minoan civilization, discovered in the Minoan palace of Phaistos. It is a unique disc made of fired clay, featuring a spiral of stamped symbols.</p>
-        <a href="https://standardgalactic.github.io/vectorspace/#/galaxy/word2vec-wiki?cx=-2381&cy=-476&cz=-1569&lx=0.0868&ly=0.8923&lz=0.3087&lw=-0.3177&ml=300&s=1.75&l=1&v=d50_clean&_k=6uuhne">
-            <img src="IFM/phaistos-disk.jpg" alt="Phaistos Disc">
-        </a>
-        <p>Learn more about it <a href="https://standardgalactic.github.io/vectorspace/#/galaxy/word2vec-wiki?cx=-3208&cy=-8930&cz=2898&lx=-0.2059&ly=-0.6299&lz=-0.5451&lw=0.5135&ml=300&s=1.75&l=1&v=d50_clean">here</a>.</p>
-    </div>
+
+<canvas id="starfield"></canvas>
+
+<main id="screen" class="screen">
+  <h1>Haplopraxis</h1>
+  <p id="sceneText">
+    You are moving through a structure that does not announce itself.
+    Only proximity reveals affordance.
+  </p>
+</main>
+
+
+<div id="controlPanel"
+     style="display:none; position:fixed; top:10px; right:10px;
+            background:rgba(0,0,0,0.7); color:white;
+            padding:10px; border-radius:8px;">
+  <p>Controls</p>
+  <ul>
+    <li>W/S — thrust</li>
+    <li>A/D — drift</li>
+    <li>X — toggle labels</li>
+    <li>C — controls</li>
+    <li>G — reset</li>
+  </ul>
+</div>
+
+<script src="./game.js"></script>
 </body>
 </html>
