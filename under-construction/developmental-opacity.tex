@@ -1,0 +1,131 @@
+\documentclass[11pt]{article}
+
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}
+
+\usepackage[margin=1.25in]{geometry}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{amsmath}
+\usepackage[hidelinks]{hyperref}
+
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+
+\title{Developmental Opacity}
+\author{Flyxion \\ \small Independent Researcher}
+\date{July 2026}
+
+\begin{document}
+
+\maketitle
+\begin{center}
+\textit{A response to Eliza Filby's \emph{Inheritocracy}}
+\end{center}
+
+\vspace{1em}
+
+\begin{abstract}
+\noindent Eliza Filby's \emph{Inheritocracy} argues that opportunity has become increasingly conditioned on parental wealth rather than wages or educational attainment. This essay accepts that diagnosis but relocates its mechanism: institutions rely on wealth-correlated proxies --- credentials, networks, prestige signals --- not merely out of bureaucratic inertia or status competition, but because human competence is genuinely difficult and often unsafe to observe directly while it is still developing. Building on signaling theory, credential-inflation theory, cultural capital, and the employer-learning literature, the essay isolates a second axis largely absent from that literature: not only how fast competence is revealed, but who bears the cost when an early revelation proves wrong. Elite institutions bundle at least four distinct functions --- teaching, protected practice, certification, and networking --- and because development and proxy-generation are routinely co-located in the same institution, wealth that buys access to the proxy can be empirically indistinguishable from wealth that buys access to genuine competence-building, even though only the latter does anything for the person's actual ability. This bundling problem, rather than any single theory of signaling or capital, is what makes the existing empirical literature on elite-university earnings premiums so difficult to interpret. The essay closes with a falsifiable prediction distinguishing a wealth-transfer account from a proxy-reliance account, and with an open question about who controls the machinery that decides which developing capacities are allowed to become legible in the first place.
+\end{abstract}
+
+\newpage
+
+\section{What Filby Is Actually Claiming}
+
+Eliza Filby's \emph{Inheritocracy: It's Time to Talk About the Bank of Mum and Dad} makes a narrower and more defensible claim than its title suggests. It is not simply that inheritance exists, or that parents help their children --- she is explicit that she does not want the book read as a flat indictment of family support, calling the Bank of Mum and Dad ``an economic model built on parental love'' rather than a capitalist conspiracy, and devoting real attention to cases where inherited money is disabling, shame-inducing, or resented rather than straightforwardly enabling. Her actual thesis is historical and specific: opportunity in Britain (and, with local variation, the rest of the Anglophone world) has become increasingly conditioned on parental wealth rather than on wages or educational attainment, because wages have stagnated relative to housing costs and the return on education has weakened, particularly under pressure from automation and AI.
+
+The backstory she tells is worth taking seriously on its own terms before any critique begins. The baby boomer generation --- a Western, not global, cohort --- benefited from a genuinely unrepeatable historical conjunction: widening access to higher education, entry into professions not yet exposed to global competition, and then, in the 1980s, an asset boom that inflated the value of the housing and pensions they already held. None of this was individual merit in any straightforward sense; it was, in her word, ``a moment in time.'' What makes the millennial and Gen Z experience different is not merely that this boom didn't repeat --- it's that the generational cost structure inverted. The things that were relatively expensive for boomers (a university education, in relative terms) became comparatively cheap for millennials entering adulthood --- food, travel, and technology all became cheaper in real terms --- while the genuinely large costs of adult life inverted in the other direction: housing, education, healthcare, and childcare all became disproportionately more expensive. The result, as Filby puts it, is that boomers as a cohort have often been ``brilliant parents, but bad citizens'' --- individually generous to their own children while collectively entrenching the inequality their generosity is a response to.
+
+An analogy raised in a conversation with Trevor Noah captures the compounding logic better than ``head start'' does: a player who gets early access to a video game can build up stats, acquire the best equipment, and establish a dominant position before the general population is ever allowed to log in --- and then charges rent, in effect, to everyone who arrives after. The advantage isn't just earlier; it compounds specifically because of when it happened, in a way that's structurally difficult for later entrants to close.
+
+\section{Why Societies Build Proxies at All}
+
+Before asking whether Filby has correctly identified the mechanism behind this pattern, it's worth asking a prior question: why do institutions rely on inherited signals of any kind --- wealth, credentials, references --- in the first place, rather than simply observing and rewarding competence directly?
+
+The answer is developmental.\footnote{``Developmental'' here refers narrowly to the fact that competence is acquired over time and cannot be fully assessed before that acquisition is complete --- not to developmental psychology's stage-based theories of childhood cognitive or moral growth, which this essay does not draw on.} Employers, universities, and licensing bodies are never evaluating a finished person. They are evaluating an unfinished, path-dependent trajectory --- a competence that has not yet fully manifested and that, in many domains, cannot be safely tested through unrestricted trial and error. A junior surgeon's true skill is knowable with certainty only by letting them operate without supervision; no institution can afford to find out that way. Because human competence takes an unusually long time to develop and is often unsafe to observe directly during that development, one important reason societies across very different cultures and historical periods converge on broadly similar machinery --- schooling, examination, apprenticeship, licensing, reference, certification --- is this developmental constraint. This is not a claim that displaces existing economic explanations of why proxies exist, and it does not claim to be the dominant explanation over bureaucratic self-interest, status competition, guild protection, or state legibility, all of which plainly shape credentialing systems too. It's a narrower claim: that this developmental problem is one recurring pressure toward similar machinery across very different societies, not a peculiarity of any one labor market.
+
+One useful way to state the underlying constraint without invoking heavier formalism: an institution that reveals competence too slowly produces disengagement and wasted potential; one that reveals it too fast, in a domain where failure is costly, produces catastrophic and often irreversible harm. Credentialing systems occupy the narrow band between these two failure modes --- neither pure observation nor pure gatekeeping, but staged, supervised revelation.
+
+\section{The Existing Explanations, Named Directly}
+
+None of this is new, and an essay that implied otherwise would deserve the skepticism of anyone who already knows the relevant literature. Michael Spence's signaling model \cite{spence1973} explains why credentials function as costly, therefore credible, signals under conditions of asymmetric information. Randall Collins' work on credential inflation and social closure \cite{collins1979} explains how credentialing systems expand well beyond what any job actually requires, becoming gatekeeping mechanisms in their own right. Pierre Bourdieu's account of economic, cultural, and social capital \cite{bourdieu1986} explains how advantage reproduces across generations through mechanisms well beyond direct financial transfer. And a specific empirical literature on employer learning --- Farber and Gibbons \cite{farbergibbons1996}, extended empirically by Altonji and Pierret \cite{altonjipierret2001} --- models something closer to the developmental claim above directly: education functions as an early, imperfect signal of productivity whose weight in wage determination \emph{declines} as an employer accumulates direct observations of a worker's actual performance over time. The market, in other words, learns. On more explicitly normative terrain, Michael Sandel's critique of meritocracy \cite{sandel2020} argues that the rhetoric of merit itself --- the idea that the successful simply earned their position --- generates hubris among winners and humiliation among those sorted to the bottom, regardless of how accurately the sorting reflects genuine ability. Sandel's target is the moral posture that meritocratic sorting licenses, not the sorting mechanism's technical accuracy; the developmental account offered here is aimed instead at the mechanism itself, and the two critiques are compatible rather than competing.
+
+The question this essay is actually asking is not whether any of these theories are wrong. It's where a developmental account sits relative to them --- and whether it adds anything beyond a new vocabulary for an old set of facts.
+
+\section{What a Developmental Account Adds: Controlled Revelation, Not Just Signaling}
+
+The employer-learning literature is fundamentally about \emph{speed}: how quickly does the market learn a worker's true productivity, and how does the weight placed on an initial signal (education) decay as direct observation accumulates. But speed is not the only variable that matters, and treating it as the only one obscures a second, independent axis: \emph{who bears the cost} if early performance turns out to be poor.
+
+Consider two cases. A junior programmer's competence can, in principle, be revealed quite quickly --- through a portfolio, a work sample, a few months of shipped code --- and if that revelation is unfavorable, the cost falls mostly on the programmer, in the form of a stalled career or a difficult reference. A junior surgeon's competence could, symmetrically, be revealed just as fast by simply letting them operate unsupervised --- but the cost of an unfavorable revelation falls catastrophically on a patient who never consented to being part of the experiment. Revelation speed and revelation cost are not the same variable expressed in different domains; they vary independently, and licensing intensity tracks the second at least as much as the first. This is close to the standard economic justification for occupational licensing \cite{kleiner2013}, but it sharpens the employer-learning framework's implicit question --- ``how fast will the market learn?'' --- into a second, distinct question: ``who pays if the answer, once learned, is bad?''
+
+This reframing also has a name in education research that predates it by decades: Lave and Wenger's account of ``legitimate peripheral participation'' \cite{lavewenger1991} describes exactly this mechanism --- apprentices given progressively more consequential, more visible roles specifically because competence must be demonstrated under contained risk before being granted unsupervised trust. Medical training's framework of ``entrustable professional activities'' formalizes the same logic explicitly, task by task. None of this is a new discovery. What a developmental framing adds is scope: connecting the individual-institution mechanism (an employer managing one worker's uncertain trajectory) to a species-level fact (humans have an unusually prolonged period of dependent, scaffolded development, and every society builds some version of this machinery in response) --- a claim about why this class of institution is universal, not just locally rational.
+
+\section{Elite Education as a Bundle, Not a Single Function}
+
+This matters directly for evaluating institutions like elite universities, which do not perform one function but at least four simultaneously: they teach; they provide a protected environment in which competence can develop and be safely tested; they observe and formally certify what they observe; and they concentrate future elites in one place, building networks whose value has little to do with anything taught in a classroom. This bundling is exactly why the question ``is an elite education really about learning, or is it just signaling?'' resists a clean answer --- the same institution is doing teaching, sorting, certifying, and networking all at once, and unbundling those functions empirically is genuinely difficult.
+
+Bill Gates has made an unusually explicit statement, in remarks widely reported in interviews rather than in a single citable primary source, about which of these functions he considers the real inheritance.\footnote{The claim as reported in press coverage of Gates's public remarks; readers seeking the exact wording should consult the original interview footage rather than this secondhand paraphrase.} Asked about withholding a direct financial inheritance from his children, he reasoned that if what he had already given them --- his name and his network --- couldn't earn them money on its own, they didn't deserve what remained of his fortune. Whatever one makes of the reasoning, it names one part of the mechanism precisely: at least part of the valuable inheritance was never centrally the checkbook, but the bundle of access his name and institutional position already purchased. The point is not that networking dominates instruction --- the essay has no basis for ranking the four functions against each other --- but that, as the next section shows, existing evidence does not cleanly separate them.
+
+A central difficulty runs through everything that follows: many elite institutions simultaneously create, observe, certify, and signal competence, and these are not the same function wearing different hats. Development is where competence becomes real --- teaching, protected practice, supervised trial and error. Certification and networking are how that reality gets transmitted to third parties who were never there to see it happen. Because the two are routinely bundled in the same institution, wealth that buys access to the proxy --- a name, a network, a credential --- can look identical, from the outside, to wealth that buys access to the developmental environment itself, even though only the latter does anything for the person's actual competence. Sorting out which kind of access a given expenditure is really purchasing is one of the harder empirical problems the rest of this essay runs into.
+
+\section{What the Evidence Actually Shows}
+
+The empirical literature on elite university earnings premiums bears directly on how much of this bundle is genuinely value-adding versus purely a sorting artifact --- and the honest answer is that it narrows the range of explanations without settling on one. Walker and Zhu, using UK Labour Force Survey data matched to institutional admission standards, find that the unadjusted wage-return slope on selectivity is 0.197, but once selectivity of the institutions a given student \emph{could} have attended is controlled for --- that is, once the fact that elite universities admit students who were already on a trajectory to do well is accounted for --- the slope falls to 0.069, a reduction of roughly two-thirds \cite{walkerzhu2018}. Earlier work by Chevalier and Conlon finds a comparable pattern comparing Russell Group institutions to post-1992 universities, with a raw wage premium of about six percent that is substantially explained by intake selectivity rather than anything distinctive about the education received; notably, their estimates were drawn from wages observed soon after graduation, when wages are still noisy and employers have little else to go on besides the institutional signal itself --- precisely the window in which a pure proxy effect, undiluted by employer learning, should be strongest \cite{chevalierconlon2003}.
+
+This doesn't collapse the whole picture into pure sorting, however. Sullivan et al., using unusually detailed longitudinal data with controls for socioeconomic background and secondary school type, still find a residual association between elite degrees, particular fields of study, and reaching the very top of the income distribution \cite{sullivan2018} --- a finding the selectivity-correction studies above don't directly speak to, since they're modeling average wage premiums rather than the tails. Taken together, the honest summary is not ``it's mostly signaling'' or ``it's mostly genuine value-add,'' but something more limited: selection effects account for a large share of the raw premium, a residual effect persists in at least some specifications, and existing research has not cleanly separated how much of that residual reflects instruction, networks, or pure prestige-certification.
+
+\section{Relocating the Diagnosis}
+
+This suggests a specific amendment to Filby's causal story, not a rejection of it. Her implicit chain runs roughly: parents have more resources, therefore children get more opportunities, therefore inequality reproduces. A developmental-institutional account doesn't dispute any link in that chain, but adds to the explanatory weight: wealth matters not only because it can be transferred directly into opportunity --- unpaid internships, startup capital, relocation costs, a cushion through unemployment, legal representation, private healthcare are all direct expansions of feasible action, not proxies for anything --- but also because it purchases access to the specific developmental and certification environments that institutions have already decided count as legible evidence of competence. Where those developmental and proxy functions are bundled together, distinguishing between investment in competence and investment in recognized signals becomes empirically difficult. The inheritance, on this account, is not only financial; a substantial part of it is access to recognized proxies.
+
+This reframing produces a genuinely different, falsifiable prediction. If family wealth is the fundamental cause, reducing wealth disparities directly should substantially reduce the resulting inequality. If institutional reliance on narrow, wealth-correlated proxies is the fundamental cause, alternative assessment methods --- blind resume review, structured work-sample testing, standardized interviews --- should reduce family-background effects even while leaving underlying wealth disparities untouched. This is not a purely hypothetical test: audit studies of blind hiring and structured interviewing exist, and while findings are mixed and effect sizes are often smaller than advocates hope, they represent a real, if partial and imperfect, attempt to run exactly this experiment. A financial-advice sector that Filby herself describes --- where a second, more attentive tier of service only activates once a client already has substantial assets --- is itself a small, self-contained illustration of the mechanism: access to better information about how to convert wealth into more wealth is gated by the wealth one already has, reproducing the proxy problem inside the very industry meant to manage money.
+
+\section{Two Complications Worth Taking Seriously}
+
+Two threads complicate any account built primarily around parent-to-child wealth transfer and deserve attention rather than a footnote. The first is gender: Filby describes a ``great gender wealth transfer'' running in parallel to the generational one --- spousal inheritance in the US averaging roughly \$1.4 million --- flowing disproportionately to women who are then systematically underserved by a financial-advice industry still structured around an assumed male breadwinner. This is a second axis of institutional proxy failure distinct from class: the institution doesn't only gate by wealth, it misidentifies who the economically relevant decision-maker actually is.
+
+The second is cross-cultural variation in how openly this system is acknowledged rather than in whether it exists. A Mumbai interviewee in Filby's research treats a bidirectional multigenerational contract --- wealth flowing down, care flowing back up --- as simply obvious, a background fact of family life rather than something to conceal. British culture, by contrast, treats the same mechanism with what Filby calls shame and concealment; American culture is more openly aspirational about ``generational wealth'' as a stated goal while still, in practice, downplaying how much of a given outcome was inherited rather than earned. This suggests the underlying institutional-legibility problem this essay is describing may be closer to universal, even where the cultural scripts for acknowledging it vary sharply --- a caveat that also applies to this essay itself, which, like Filby's book, is built almost entirely from Anglophone evidence.
+
+\section{Conclusion}
+
+Filby correctly identifies a real and growing distributional pattern, but ``inheritance'' does not, by itself, name the mechanism by which family resources convert into occupational and social status. Resources become socially consequential only when institutions recognize particular developmental markers --- credentials, networks, prestige signals --- as legible evidence of future competence. The deeper problem is therefore neither inheritance as such, nor the simple absence of meritocracy, but the interaction between genuine developmental opacity --- the fact that competence, especially in the young, cannot yet be observed directly or safely --- and the institutional proxy systems built to manage that opacity under uncertainty. Wealth matters because it purchases access to recognized proxies. Proxies matter because the alternative to using them is either dangerous impatience or wasted potential. Inheritocracy is a good name for the outcome. The harder and still largely open question is who controls the machinery that decides, in any given domain, which unfinished capacities are allowed to become legible in the first place --- and whether that machinery can be redesigned without simply relocating the advantage it currently confers.
+
+\begin{thebibliography}{99}
+
+\bibitem{altonjipierret2001}
+Altonji, J.G. and Pierret, C.R. (2001). Employer learning and statistical discrimination. \emph{Quarterly Journal of Economics}, 116(1), 313--350.
+
+\bibitem{bourdieu1986}
+Bourdieu, P. (1986). The forms of capital. In J.G. Richardson (Ed.), \emph{Handbook of Theory and Research for the Sociology of Education} (pp.\ 241--258). Westport, CT: Greenwood Press.
+
+\bibitem{chevalierconlon2003}
+Chevalier, A. and Conlon, G. (2003). \emph{Does It Pay to Attend a Prestigious University?} IZA Discussion Paper No.\ 848. Institute of Labor Economics.
+
+\bibitem{collins1979}
+Collins, R. (1979). \emph{The Credential Society: An Historical Sociology of Education and Stratification}. New York: Academic Press.
+
+\bibitem{farbergibbons1996}
+Farber, H.S. and Gibbons, R. (1996). Learning and wage dynamics. \emph{Quarterly Journal of Economics}, 111(4), 1007--1047.
+
+\bibitem{kleiner2013}
+Kleiner, M.M. (2013). \emph{Stages of Occupational Regulation: Analysis of Case Studies}. Kalamazoo, MI: W.E.\ Upjohn Institute for Employment Research.
+
+\bibitem{lavewenger1991}
+Lave, J. and Wenger, E. (1991). \emph{Situated Learning: Legitimate Peripheral Participation}. Cambridge: Cambridge University Press.
+
+\bibitem{sandel2020}
+Sandel, M.J. (2020). \emph{The Tyranny of Merit: What's Become of the Common Good?} New York: Farrar, Straus and Giroux.
+
+\bibitem{spence1973}
+Spence, M. (1973). Job market signaling. \emph{Quarterly Journal of Economics}, 87(3), 355--374.
+
+\bibitem{sullivan2018}
+Sullivan, A., Parsons, S., Green, F., Wiggins, R.D., and Ploubidis, G. (2018). Elite universities, fields of study and top salaries: Which degree will make you rich? \emph{British Educational Research Journal}, 44(4), 663--680.
+
+\bibitem{walkerzhu2018}
+Walker, I. and Zhu, Y. (2018). University selectivity and the relative returns to higher education: Evidence from the UK. \emph{Labour Economics}, 53, 230--249.
+
+\end{thebibliography}
+
+\end{document}

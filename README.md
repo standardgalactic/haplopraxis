@@ -1,3 +1,11 @@
+[Haplopraxis — Design Notes](https://standardgalactic.github.io/haplopraxis/haplopraxis-design-document.pdf)
+
+[Universal Resource and Fabrication Network](https://standardgalactic.github.io/haplopraxis/urfn-ccfa-constitutional-spec.pdf)
+
+[Developmental Opacity](https://standardgalactic.github.io/haplopraxis/developmental-opacity.pdf)
+
+![](ecosystem.png)
+
 # Haplopraxis (Starfield edition)
 
 A tiny web game where history is the world — now with a navigable starfield.
