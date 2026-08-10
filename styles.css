@@ -79,6 +79,24 @@ html, body {
   pointer-events: none;
 }
 
+.actionsRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.8rem;
+}
+
+.lineageLog {
+  margin-top: 0.8rem;
+  min-height: 6rem;
+  max-height: 10rem;
+  overflow: auto;
+  border: 1px dashed rgba(34,255,102,0.35);
+  padding: 0.5rem;
+  font-size: 0.8rem;
+  background: rgba(0, 0, 0, 0.35);
+}
+
 /* ============================
    TITLES & HEADERS
 ============================ */
@@ -241,6 +259,32 @@ button:hover{
   border-radius: 8px;
   border: 1px solid rgba(34,255,102,0.06);
   font-size: 13px;
+}
+
+.easterEggPanel {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 60;
+  max-width: 520px;
+  width: min(92vw, 520px);
+  padding: 1rem;
+  border: 1px solid var(--accent);
+  background: rgba(0, 0, 0, 0.88);
+  box-shadow: 0 0 22px var(--shadow);
+}
+
+.easterEggPanel.hidden {
+  display: none;
+}
+
+.easterEggPanel a {
+  color: var(--accent);
+}
+
+.easterEggPanel button {
+  margin-top: 0.7rem;
 }
 
 /* ============================
