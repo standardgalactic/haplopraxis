@@ -20,6 +20,8 @@ resize();
 ========================= */
 
 let controlPanelTimeout;
+const EASTER_EGG_SEQUENCE = "hidden";
+let easterEggBuffer = "";
 
 function toggleControlPanel() {
   const cp = document.getElementById("controlPanel");
@@ -40,6 +42,20 @@ function resetControlPanelTimeout() {
     const cp = document.getElementById("controlPanel");
     if (cp) cp.style.display = "none";
   }, 10000);
+}
+
+function openEasterEggPanel() {
+  const panel = document.getElementById("easterEggPanel");
+  if (!panel) return;
+  panel.classList.remove("hidden");
+  panel.setAttribute("aria-hidden", "false");
+}
+
+function closeEasterEggPanel() {
+  const panel = document.getElementById("easterEggPanel");
+  if (!panel) return;
+  panel.classList.add("hidden");
+  panel.setAttribute("aria-hidden", "true");
 }
 
 /* =========================
@@ -145,7 +161,16 @@ document.addEventListener("keydown", e => {
   // ★ Any key acknowledges / dismisses scene
   hideScene();
 
-  switch (e.key.toLowerCase()) {
+  const key = e.key.toLowerCase();
+  if (key.length === 1 && key >= "a" && key <= "z") {
+    easterEggBuffer = (easterEggBuffer + key).slice(-EASTER_EGG_SEQUENCE.length);
+    if (easterEggBuffer === EASTER_EGG_SEQUENCE) {
+      openEasterEggPanel();
+      easterEggBuffer = "";
+    }
+  }
+
+  switch (key) {
     case "c": toggleControlPanel(); break;
     case "w": controls.up = true; break;
     case "s": controls.down = true; break;
@@ -153,6 +178,7 @@ document.addEventListener("keydown", e => {
     case "d": controls.right = true; break;
     case "x": controls.showLabels = !controls.showLabels; break;
     case "g": location.reload(); break;
+    case "escape": closeEasterEggPanel(); break;
 
     case " ":
       if (focusedBubble) {
@@ -173,6 +199,11 @@ document.addEventListener("keyup", e => {
     case "d": controls.right = false; break;
   }
 });
+
+const closeEasterEgg = document.getElementById("closeEasterEgg");
+if (closeEasterEgg) {
+  closeEasterEgg.addEventListener("click", closeEasterEggPanel);
+}
 
 /* =========================
    UPDATE
