@@ -24,6 +24,9 @@ How to play
 3. Bring planets into the center reticle and press Space to interact.
 4. Use the UI buttons to Save, Load, Export, Import, Replay, or start a New Lineage fork.
 
+Bash mini-game
+- Run `bash 20-questions.sh` for a terminal 20 Questions game.
+
 Files of interest
 - `index.html` — main page (now includes the starfield canvas)
 - `styles.css` — UI + starfield overlay styling
