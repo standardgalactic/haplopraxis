@@ -28,3 +28,4 @@ Files of interest
 - `styles.css` — UI + starfield overlay styling
 - `game.js` — engine + starfield visuals + ship controls + focused-interaction
 - `sample-lineage.json` — example lineage
+- `analysis-tools/haplopraxis_analysis.py` — repository-specific NumPy/SymPy/NLTK analysis toolkit
