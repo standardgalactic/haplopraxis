@@ -63,6 +63,7 @@ def words(text: str) -> list[str]:
 
 def sentence_tokenize(text: str) -> list[str]:
     ensure_nltk_resource("punkt", "tokenizers/punkt")
+    ensure_nltk_resource("punkt_tab", "tokenizers/punkt_tab/english")
     return nltk.sent_tokenize(text)
 
 
