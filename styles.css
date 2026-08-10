@@ -79,6 +79,24 @@ html, body {
   pointer-events: none;
 }
 
+.actionsRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.8rem;
+}
+
+.lineageLog {
+  margin-top: 0.8rem;
+  min-height: 6rem;
+  max-height: 10rem;
+  overflow: auto;
+  border: 1px dashed rgba(34,255,102,0.35);
+  padding: 0.5rem;
+  font-size: 0.8rem;
+  background: rgba(0, 0, 0, 0.35);
+}
+
 /* ============================
    TITLES & HEADERS
 ============================ */

@@ -1,44 +1,71 @@
 # Games with Hidden or Unknown Rules
 
-Some games make their rules explicit. Others make players infer them through repetition, social learning, or failure. This document maps common patterns for "unknown-rule" play.
+## Conventional secret vs unknown law
 
-## 1) Opaque-start puzzle games
+A conventional game secret is usually a lookup fact: a hidden room, a code, a coordinate, a one-off unlock action.
 
-- The core interaction is simple, but scoring/win conditions are withheld at first.
-- Players discover constraints by trying actions and observing non-obvious feedback.
-- The game rewards hypothesis testing more than raw execution speed.
+Haplopraxis treats hiddenness differently:
 
-## 2) Social deduction and deception games
+- The world may behave in ways that are lawful but not yet legible.
+- A player can build a working theory that later fails.
+- The failure is evidence that the model was incomplete, not that a password was missing.
 
-- Rules may be known, but **roles, allegiances, or objectives** remain hidden.
-- The unknown element is usually human intent rather than system mechanics.
-- Information control (revealing, bluffing, withholding) is central strategy.
+The target experience is discovery through anomaly, hypothesis, and revision.
 
-## 3) Emergent sandbox systems
+## Background: classes of hidden-rule design
 
-- The base rules are small, but combinations create outcomes that feel like hidden rules.
-- Players learn "folk mechanics" from edge cases and community experiments.
-- Mastery often means learning interactions never stated in tutorials.
+Many games already hide rules in useful ways:
 
-## 4) Roguelike and procedural mystery loops
+1. **Opaque-start puzzle systems** where outcome logic is inferred from repeated trial.
+2. **Social deduction systems** where intent and role information are hidden.
+3. **Emergent sandboxes** where small public rules yield surprising composites.
+4. **Procedural/roguelike loops** where uncertainty renews each run.
+5. **Metagame/ARG structures** where rule discovery crosses files, logs, and artifacts.
 
-- Item effects, enemy behaviors, and world hazards can be partially unidentified each run.
-- Players carry knowledge across runs even when in-game resources reset.
-- Uncertainty is a renewable design resource: ignorance becomes gameplay fuel.
+Haplopraxis borrows from these, but emphasizes historical causality and reconstruction.
 
-## 5) Alternate reality / metagame structures
+## Haplopraxis architecture for unknown-law play
 
-- Rule discovery extends beyond the main play surface into files, logs, ciphers, or timing.
-- The game teaches that "where to look" is itself a hidden rule.
-- Community collaboration frequently becomes required for full understanding.
+The game now uses a historical rule engine that records interactions and derived consequences as structured lineage history.
 
-## Shared design traits
+Design goals:
 
-- **Delayed legibility:** Players act before complete understanding.
-- **Inference over instruction:** Progress depends on building and testing mental models.
-- **Myth-making:** Communities generate oral tradition around unclear mechanics.
-- **Epistemic tension:** Uncertainty is not a bug; it is a primary emotional driver.
+- Avoid static "do X to unlock Y" Easter eggs.
+- Make causality compositional (predicates over history, not isolated one-off switches).
+- Preserve developmental opacity (present state alone is not always enough to explain itself).
+- Preserve forensic recoverability via replay/export/lineage inspection.
 
-## Why this matters for Haplopraxis
+Implemented mechanism families include:
 
-Haplopraxis already emphasizes history, reconstruction, and interpretation. Hidden-rule game design reinforces that arc: knowledge is earned by traversal, and meaning arrives after action.
+- **Simple repeat regularities** (inferable from repeated encounters).
+- **Ordering-sensitive regularities** (same elements, different sequence, different result).
+- **Delayed predicate consequences** with long lags between cause and effect.
+- **Lineage-depth/accumulated-state effects** that depend on historical burden.
+- **Statistical regularities** that become clearer only across many exported histories.
+- **Emergent apparent rules** that are surface effects of deeper interacting factors.
+- **Rare singular mutation events** that permanently alter future world behavior.
+
+This document intentionally does **not** disclose concrete trigger predicates or an exploit checklist.
+
+## Forensics and observability
+
+To support scientific-style investigation without full spoiler disclosure, exported lineage data includes:
+
+- Event ordering and turn indices.
+- Timestamps and encounter indices.
+- Parent/ancestry links between consequences and prior causes.
+- Lineage depth and inheritance context.
+- State snapshots and transitions.
+- Rule-family identifiers (opaque labels, not human-readable solutions).
+- Consequence metadata useful for cross-run comparison.
+
+As a result, players can compare many playthroughs with external analysis tools and test hypotheses statistically.
+
+## Why this matters
+
+The intended difficulty is not just steering through the starfield.
+It is determining what system is being observed, where:
+
+- laws are discoverable,
+- models are falsifiable,
+- and historical traces become research material.

@@ -15,6 +15,17 @@
     You are moving through a structure that does not announce itself.
     Only proximity reveals affordance.
   </p>
+  <div class="actionsRow">
+    <button id="toggleControls" type="button">Controls</button>
+    <button id="saveState" type="button">Save</button>
+    <button id="loadState" type="button">Load</button>
+    <button id="exportLineage" type="button">Export</button>
+    <button id="importLineage" type="button">Import</button>
+    <button id="replayLineage" type="button">Replay</button>
+    <button id="forkLineage" type="button">New Lineage</button>
+    <input id="importFile" type="file" accept=".json,application/json" hidden>
+  </div>
+  <pre id="lineageLog" class="lineageLog"></pre>
 </main>
 
 
@@ -28,18 +39,18 @@
     <li>A/D — drift</li>
     <li>X — toggle labels</li>
     <li>C — controls</li>
-    <li>G — reset</li>
-    <li>? — unknown</li>
+    <li>Space — interact at reticle</li>
+    <li>Esc — close active panel</li>
   </ul>
 </div>
 
 <aside id="easterEggPanel" class="easterEggPanel hidden" aria-hidden="true">
-  <h2>Hidden Rule Compendium</h2>
+  <h2>Anomaly Archive</h2>
   <p>
-    Some games reveal their rules only through play, failure, and folklore.
+    This panel appears after the world demonstrates behavior that your current model failed to predict.
   </p>
   <p>
-    Read:
+    Read the design note:
     <a href="./hidden-rules-games.md" target="_blank" rel="noopener noreferrer">
       Games with Hidden or Unknown Rules
     </a>
@@ -47,6 +58,9 @@
   <button id="closeEasterEgg" type="button">Close</button>
 </aside>
 
+<div id="hud" class="hud"></div>
+
+<script src="./hidden_rules_engine.js"></script>
 <script src="./game.js"></script>
 </body>
 </html>
